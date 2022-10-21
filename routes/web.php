@@ -22,3 +22,11 @@ Route::prefix('google')->name('google.')->group( function(){
     Route::get('login', [App\Http\Controllers\GoogleController::class, 'loginWithGoogle'])->name('login');
     Route::any('callback', [App\Http\Controllers\GoogleController::class, 'callbackFromGoogle'])->name('callback');
 });
+
+// Facebook
+Route::prefix('facebook')->name('facebook.')->group( function(){
+    Route::get('/auth', [App\Http\Controllers\FacebookController::class, 'facebookRedirect'])->name('login');
+    Route::get('auth/callback', [App\Http\Controllers\FacebookController::class, 'loginWithFacebook'])->name('callback');
+});
+
+

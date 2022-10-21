@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Login')
+@section('title', 'LOGIN')
 
 @section('content')
 <form action="{{ route('login') }}" id="frmLogin" method="post">
@@ -129,7 +129,7 @@
                     <div class="sns_login_wrap">
                         <ul>
                             <li class="facebook">
-                                <button type="button" class="sns js-sns" data-type="facebook">
+                                <button type="button" onclick="facebooksLogin()" class="sns js-sns">
                                     <i class="pi pi_log_facebook"></i>
                                     <span class="blind">Entrar com Facebook</span>
                                 </button>
@@ -153,6 +153,10 @@
     <script>
         function googleLogin(){
             window.location.href = "{{route('google.login')}}"
+        }
+
+        function facebooksLogin(){
+            window.location.href = "{{route('facebook.login')}}"
         }
     </script>
 @endpush
