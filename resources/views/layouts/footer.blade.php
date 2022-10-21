@@ -15,19 +15,19 @@
             </span>
         </div>
         <div class="term_list">
-            <a href="https://account.pearlabyss.com/pt-BR/Policy/policy/index?_policyNo=2" class="term_item" target="_blank">
+            <a href="#" class="term_item" target="_blank">
                 <strong>
                     Pol&#237;tica de Privacidade
                 </strong>
             </a>
 
-            <a href="https://account.pearlabyss.com/pt-BR/Support" class="term_item" target="_blank">Atendimento ao Cliente</a>
-            <a href="https://parents.pearlabyss.com" class="term_item" target="_blank">Controle Parental</a>
+            <a href="#" class="term_item" target="_blank">Atendimento ao Cliente</a>
+            <a href="#" class="term_item" target="_blank">Controle Parental</a>
         </div>
         <div class="copyright">
             <div class="footer_item">
-                <a href="https://account.pearlabyss.com/pt-BR/Support" target="_blank" class="btn_pearlabyss" aria-label="PEARL ABYSS"></a>
-                <p>&copy; Pearl Abyss Corp. All Rights Reserved.</p>
+                <a href="" target="_blank" class="btn_pearlabyss" aria-label="{{env('WEB_NAME')}}">{{env('WEB_NAME')}}</a>{{env('WEB_NAME')}}
+                <p>&copy; {{env('WEB_NAME')}} Corp. All Rights Reserved.</p>
             </div>
         </div>
     </div>

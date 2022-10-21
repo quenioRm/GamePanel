@@ -8,6 +8,7 @@ use App\Models\User;
 use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Http\Request;
 
 class RegisterController extends Controller
 {
@@ -69,5 +70,33 @@ class RegisterController extends Controller
             'email' => $data['email'],
             'password' => Hash::make($data['password']),
         ]);
+    }
+
+    public function isBlockEmailDomain(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|unique:users|string|email|max:255'
+        ], [], [
+            'email' => 'e-mail'
+        ]);
+
+        if(!$validator->passes())
+            return response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors()->first(), 'returnUrl' => '' ], 400);
+
+        return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
+    }
+
+    public function EmailAuth(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|unique:users|string|email|max:255'
+        ], [], [
+            'email' => 'e-mail'
+        ]);
+
+        if(!$validator->passes())
+            return response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors()->first(), 'returnUrl' => '' ], 400);
+
+        return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
     }
 }

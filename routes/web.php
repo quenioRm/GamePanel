@@ -29,4 +29,17 @@ Route::prefix('facebook')->name('facebook.')->group( function(){
     Route::get('auth/callback', [App\Http\Controllers\FacebookController::class, 'loginWithFacebook'])->name('callback');
 });
 
+Route::group(['prefix'=>'Member'] , function(){
+    Route::group(['prefix'=>'Join'] , function(){
+        Route::post('/isBlockEmailDomain', [App\Http\Controllers\Auth\RegisterController::class,'isBlockEmailDomain'])
+        ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+        ->name('isblockemaildomain');
+        
+        Route::post('/EmailAuth', [App\Http\Controllers\Auth\RegisterController::class,'EmailAuth'])
+        ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+        ->name('emailauth');
+    });
+});
+
+
 

@@ -88,21 +88,22 @@
                             </li>
                             <li class="toggle_wrap">
                                 <div class="custom_toggle js-ipToggleWrap">
+                                    <input name="isIpCheck" type="hidden" value="false" />
                                     <input
                                         class="custom_toggle_input"
                                         Icon=""
                                         placeholder=""
                                         checked="checked"
                                         data-val="true"
-                                        data-val-required="The _isIpCheck field is required."
+                                        data-val-required="The isIpCheck field is required."
                                         id="isIpCheck"
                                         labelName="{{__('messages.ip-sec')}}"
-                                        name="_isIpCheck"
+                                        name="isIpCheck"
                                         type="checkbox"
                                         value="true"
                                         wrapClass="js-ipToggleWrap"
                                     />
-                                    <input name="_isIpCheck" type="hidden" value="false" /><label for="isIpCheck" class="custom_toggle_label">{{__('messages.ip-sec')}}</label>
+                                    <label for="isIpCheck" class="custom_toggle_label">{{__('messages.ip-sec')}}</label>
                                     <label for="isIpCheck" class="custom_toggle_button"></label>
                                 </div>
                                 <dl class="balloon_box js-balloon">
@@ -121,7 +122,7 @@
                         <div class="box_join">
                             <a href="#">
                                 {{__('messages.recoverAccount')}}</a>
-                            <a href="#">{{__('messages.registerAccount')}}</a>
+                            <a href="{{route('register')}}">{{__('messages.registerAccount')}}</a>
                         </div>
                     </fieldset>
                     <div class="sns_login_title"><span class="text">ou</span></div>
@@ -149,7 +150,13 @@
 <div id="buttonDiv"></div>
 @endsection
 @push('scripts')
-
+    <script src="{{asset('assets/js/signin/login.js?v=638016825217184276')}}"></script>
+                    
+    <script>
+        $(document).ready(function () {
+            _abyss.login.loginInit();
+        });
+    </script>
     <script>
         function googleLogin(){
             window.location.href = "{{route('google.login')}}"
@@ -158,5 +165,10 @@
         function facebooksLogin(){
             window.location.href = "{{route('facebook.login')}}"
         }
+
+        // $('#isIpCheck').change(function(){
+        //     var checkboxValue = $(this).is(':checked');
+        //     alert(checkboxValue);
+        // });
     </script>
 @endpush

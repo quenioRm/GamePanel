@@ -44,10 +44,11 @@
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/reset.css?v=638016825217184276')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/pi.css?v=638016825217184276')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/common.css?v=638016825217184276')}}" />
-
+        <link type="text/css" rel="stylesheet" href="{{asset('assets/css/select2.min.css')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/account.css?v=638016825217184276')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/game_network.css?ver=638016825217184276')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/styleAdd.css')}}" />
+
 
         <script>
             var _abyss = (window._abyss = window._abyss || {});
@@ -99,21 +100,40 @@
             </div>
         </div>
 
+        <div class="modal_recapcha js-modalRecapcha">
+            <div class="recaptcha_wrap">
+               <div id="html_element" class="googleRobot recapcha center"></div>
+            </div>
+         </div>
+         <div class="modal_dim js-modalDim"></div>
+
         <script>
             var _format = "dd/MM/yyyy";
         </script>
         <script src="{{asset('assets/js/jquery-3.4.1.min.js')}}"></script>
+        <script src="{{asset('assets/language/languagepack.pt-br.js?v=638016825217184276')}}"></script>
         <script src="{{asset('assets/js/common.js?v=638016825217184276')}}"></script>
 
         <script src="{{asset('assets/js/jquery.validate-1.19.2.min.js')}}"></script>
         <script src="{{asset('assets/js/jquery.validate.unobtrusive-3.2.11.min.js')}}"></script>
-        <script src="{{asset('assets/js/login.js?v=638016825217184276')}}"></script>
+        <script src="{{asset('assets/js/jquery.inputmask.bundle.js')}}"></script>
+        <script src="{{asset('assets/js/select2.min.js')}}"></script>
 
-        <script>
-            $(document).ready(function () {
-                _abyss.login.loginInit();
-            });
+        <script src="//www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+        <script type="text/javascript">
+            var onloadCallback = function () {
+                var widgetId =
+                grecaptcha.render('html_element', {
+                    'sitekey': '{{env('RECPTCHA_KEY')}}'
+                    , 'callback': function () {
+                        $('.js-modalDim').trigger('click');
+                    }
+                });
+            };
+    
+            _abyss.setRecaptchaCheck();
         </script>
+    
 
         @stack('scripts')
     </body>

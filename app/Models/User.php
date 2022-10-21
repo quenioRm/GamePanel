@@ -24,7 +24,9 @@ class User extends Authenticatable
         'avatar',
         'avatar_original',
         'google_id',
-        'fb_id'
+        'fb_id',
+        'isIpCheck',
+        'ip'
     ];
 
     /**
