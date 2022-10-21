@@ -114,5 +114,7 @@
                 _abyss.login.loginInit();
             });
         </script>
+
+        @stack('scripts')
     </body>
 </html>

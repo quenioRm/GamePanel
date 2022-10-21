@@ -125,6 +125,7 @@
                         </div>
                     </fieldset>
                     <div class="sns_login_title"><span class="text">ou</span></div>
+                    
                     <div class="sns_login_wrap">
                         <ul>
                             <li class="facebook">
@@ -134,9 +135,8 @@
                                 </button>
                             </li>
                             <li class="google">
-                                <button type="button" class="sns js-sns" data-type="google">
+                                <button type="button" onclick="googleLogin()" class="sns js-sns">
                                     <i class="pi pi_log_google"></i>
-                                    <span class="blind">Entrar com Google</span>
                                 </button>
                             </li>
                         </ul>
@@ -146,4 +146,13 @@
         </article>
     </div>
 </form>
+<div id="buttonDiv"></div>
 @endsection
+@push('scripts')
+
+    <script>
+        function googleLogin(){
+            window.location.href = "{{route('google.login')}}"
+        }
+    </script>
+@endpush
