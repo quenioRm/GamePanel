@@ -41,7 +41,7 @@ window._abyss = window._abyss || {}, window._abyss.join = function(e, f) {
 			type: "post",
 			url: "/Member/Join/GetRecommendGameList",
 			data: {
-				_nationCode: e.toUpperCase()
+				nationCode: e.toUpperCase()
 			},
 			success: function(e) {
 				var a = f(".js-country").find(".custom_select");

@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Auth;
 
+use App\Helpers\Functions;
 use App\Http\Controllers\Controller;
 use App\Providers\RouteServiceProvider;
 use App\Models\User;
@@ -9,6 +10,9 @@ use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Carbon;
+use Illuminate\Support\Facades\Lang;
 
 class RegisterController extends Controller
 {
@@ -70,6 +74,37 @@ class RegisterController extends Controller
             'email' => $data['email'],
             'password' => Hash::make($data['password']),
         ]);
+    }
+
+    public function RegisterForm()
+    {
+        return view('auth.register');
+    }
+
+    public function RegisterFormSubmit(Request $request)
+    {
+        $request['birth'] = Carbon::parse(str_replace("/","-", $request['birth']))->format('d-m-Y');
+
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|unique:users|string|email|max:255',
+            'authKey' => 'required',
+            'password' => 'required|min:8|max:20',
+            'passwordCheck' => 'required|min:8|same:password',
+            'name' => 'required|unique:users|min:5|max:10|alpha_dash',
+            'birth' => 'required|date_format:d-m-Y',
+            'nationCode' => 'required'
+        ], [], [
+            'email' =>  Lang::get('messages.email'),
+            'authKey' =>  Lang::get('messages.authKey'),
+            'password' => Lang::get('messages.password'),
+            'passwordCheck' => Lang::get('messages.cPassword'),
+            'name' => Lang::get('messages.name'),
+            'birth' => Lang::get('messages.birth'),
+            'nationCode' => Lang::get('messages.nation')
+        ]);
+
+        if(!$validator->passes())
+            return redirect(route('register'))->withInput()->withErrors($validator->errors());
     }
 
     public function isBlockEmailDomain(Request $request)

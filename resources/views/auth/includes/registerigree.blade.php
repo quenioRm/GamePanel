@@ -10,7 +10,7 @@
                     icon=""
                     placeholder=""
                     id="_policyAgreementList[0]._isChecked"
-                    labelname="[Obrigatório] Li e concordo com <a role='button' class='js-popDetails' data-idx='0' />Termos de Uso da {{env('WEB_NAME')}}</a>."
+                    labelname="[Obrigatório] Li e concordo com <a role='button' class='js-popDetails' data-idx='0' />{{__('messages.messageTree')}} {{env('WEB_NAME')}}</a>."
                     name="_policyAgreementList[0]._isChecked"
                     required="required"
                     type="checkbox"
@@ -18,7 +18,7 @@
                 />
                 <input name="_policyAgreementList[0]._isChecked" type="hidden" value="false" />
                 <label for="_policyAgreementList[0]._isChecked">
-                    <span>[Obrigatório] Li e concordo com <a role="button" class="js-popDetails" data-idx="0">Termos de Uso da {{env('WEB_NAME')}}</a>.</span>
+                    <span>{{__('messages.messageOne')}} <a role="button" class="js-popDetails" data-idx="0">{{__('messages.messageTree')}} {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</a>.</span>
                 </label>
                 <i class="pi pi_check"></i>
             </div>
@@ -48,7 +48,7 @@
                 />
                 <input name="_policyAgreementList[1]._isChecked" type="hidden" value="false" />
                 <label for="_policyAgreementList[1]._isChecked">
-                    <span>[Obrigatório] Li e concordo com <a role="button" class="js-popDetails" data-idx="1">Política de Privacidade</a>.</span>
+                    <span>{{__('messages.messageOne')}} <a role="button" class="js-popDetails" data-idx="1">{{__('messages.messageTwo')}}</a>.</span>
                 </label>
                 <i class="pi pi_check"></i>
             </div>

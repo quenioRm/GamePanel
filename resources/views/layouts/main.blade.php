@@ -13,11 +13,11 @@
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-        <title>@yield('title', env('WEB_NAME')) @if($__env->yieldContent('title'))- {{env('WEB_NAME')}} @endif</title>
+        <title>@yield('title', mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )) @if($__env->yieldContent('title'))- {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} @endif</title>
         <meta name="keywords" content="{{env('KEYWORLDS')}}" />
         <meta name="description" content="Entre com {{env('WEB_NAME')}} ID." />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="@yield('title', env('WEB_NAME')) @if($__env->yieldContent('title'))- {{env('WEB_NAME')}} @endif" />
+        <meta property="og:title" content="@yield('title', mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )) @if($__env->yieldContent('title'))- {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} @endif" />
         <meta property="og:description" content="Entre com {{env('WEB_NAME')}} ID." />
         <meta property="og:url" content="{{Request::url()}}" />
         <meta property="og:image" content="https://s1.pearlcdn.com/account/contents/img/common/og_image.jpg?v=638016825217184276" />
@@ -111,7 +111,13 @@
             var _format = "dd/MM/yyyy";
         </script>
         <script src="{{asset('assets/js/jquery-3.4.1.min.js')}}"></script>
-        <script src="{{asset('assets/language/languagepack.pt-br.js?v=638016825217184276')}}"></script>
+        @if (App::getLocale() == "pt-BR")
+            <script src="{{asset('assets/language/languagepack.pt-br.js?v=638016825217184276')}}"></script>
+        @elseif(App::getLocale() == "es")
+            <script src="{{asset('assets/language/languagepack.es-mx.js?v=638016825217184276')}}"></script>
+        @elseif(App::getLocale() == "en")
+            <script src="{{asset('assets/language/languagepack.en-us.js?v=638016825217184276')}}"></script> 
+        @endif
         <script src="{{asset('assets/js/common.js?v=638016825217184276')}}"></script>
 
         <script src="{{asset('assets/js/jquery.validate-1.19.2.min.js')}}"></script>

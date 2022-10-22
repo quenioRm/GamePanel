@@ -16,4 +16,14 @@ class Functions{
             }
         }
     }
+
+    public static function Translate($key){
+        $path = resource_path();
+        $file = readfile($path . '\lang' . '/' . Session()->get('applocale') .'\messages.php');
+   
+        $array = explode('=>', $file);
+        dd($array);
+
+        return json_encode($array);
+    }
 }
