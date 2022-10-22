@@ -78,6 +78,10 @@ return [
                 'log',
             ],
         ],
+
+        'office365mail' => [
+            'transport' => 'office365mail',
+        ],
     ],
 
     /*
@@ -93,7 +97,7 @@ return [
 
     'from' => [
         'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
-        'name' => env('MAIL_FROM_NAME', 'Example'),
+        'name' => mb_convert_case( env('WEB_NAME', 'example'), MB_CASE_TITLE , 'UTF-8' ),
     ],
 
     /*

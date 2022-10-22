@@ -13,6 +13,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Lang;
+use App\Models\UsersActivation;
 
 class RegisterController extends Controller
 {
@@ -132,6 +133,32 @@ class RegisterController extends Controller
         if(!$validator->passes())
             return response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors()->first(), 'returnUrl' => '' ], 400);
 
-        return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
+        $user = UsersActivation::MakeActivationCode($request);
+        if($user == 0)
+            return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
+        
+        return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
+        'returnUrl' => '' ], 400);
+    }
+
+    public function AuthMailSend(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|unique:users|string|email|max:255',
+        ], [], [
+            'email' =>  Lang::get('messages.email')
+        ]);
+        
+        if(!$validator->passes())
+            return response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors()->first(), 'returnUrl' => '' ], 400);
+
+        $user = UsersActivation::MakeActivationCode($request);
+        if($user == 0)
+            return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
+        
+        return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
+        'returnUrl' => '' ], 400);
+        
     }
 }
+

@@ -16,6 +16,7 @@ return new class extends Migration
         Schema::table('users', function (Blueprint $table) {
             $table->tinyInteger('isIpCheck')->nullable()->after('google_id');
             $table->string('ip')->nullable()->after('isIpCheck');
+            $table->string('uuid')->nullable()->after('ip');
         });
     }
 
@@ -29,6 +30,7 @@ return new class extends Migration
         Schema::table('users', function (Blueprint $table) {
             $table->dropColumn('isIpCheck');
             $table->dropColumn('ip');
+            $table->dropColumn('uuid');
         });
     }
 };

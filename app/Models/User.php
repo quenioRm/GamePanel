@@ -7,6 +7,8 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+use Illuminate\Support\Facades\DB;
+use App\Models\UsersActivation;
 
 class User extends Authenticatable
 {
@@ -17,6 +19,7 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
+    protected $connection = "web";
     protected $fillable = [
         'name',
         'email',
@@ -26,7 +29,8 @@ class User extends Authenticatable
         'google_id',
         'fb_id',
         'isIpCheck',
-        'ip'
+        'ip',
+        'uuid'
     ];
 
     /**
@@ -47,4 +51,23 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    public static function Register($input)
+    {
+        $web_tran = DB::connection('web');
+
+        try {
+
+            $user = new User();
+
+
+            // COMMIT TRAN
+            $web_tran->commit();
+
+        } catch (\Exception $e){
+            // ROLLBACK
+            $web_tran->rollback();
+            throw new \Exception($e);
+        }
+    }
 }

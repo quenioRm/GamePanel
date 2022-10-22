@@ -38,6 +38,8 @@ return [
     'messageOne' => '[Obrigatório] Li e concordo com ',
     'messageTwo' => 'Política de Privacidade',
     'messageTree' => 'Termos de Uso da',
-    'register' => 'Register'
+    'register' => 'Register',
+    'accountActivateFailed' => 'Falha ao ativar a conta.',
+    'accountActivationMessage' => 'Ativação de conta'
 
 ];
