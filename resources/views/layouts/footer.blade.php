@@ -33,3 +33,18 @@
         </div>
     </div>
 </footer>
+<div id="agree_popup_wrap" aria-modal="true">
+    <div class="agree_popup_inner">
+        <div class="agree_popup_box">
+            <div class="title_wrap">
+                <h2 class="popup_title js-title">-</h2>
+                <button class="btn btn_close js-AgreePopClose">
+                    <span></span>
+                    <span></span>
+                    <i class="blind">Fechar</i>
+                </button>
+            </div>
+            <div class="agree_popup_content js-content"></div>
+        </div>
+    </div>
+</div>

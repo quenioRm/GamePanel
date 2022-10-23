@@ -40,6 +40,12 @@ return [
     'messageTree' => 'Termos de Uso da',
     'register' => 'Register',
     'accountActivateFailed' => 'Falha ao ativar a conta.',
-    'accountActivationMessage' => 'Ativação de conta'
-
+    'emailmessage_1' => 'Ativação de conta',
+    'emailmessage_2' => 'Caro,' .
+    'Favor digitar o código de confirmação abaixo no site oficial para desfrutar com segurança dos serviços.',
+    'emailmessage_3' => 'Código de Confirmação',
+    'emailmessage_4' => 'O código de confirmação possui validade de 1 hora. É necessário registrar novamente após expirada a validade.',
+    'emailmessage_5' => 'Esse e-mail pode ser resultado de um erro de digitação.',
+    'emailmessage_6' => 'Essa é uma mensagem automática. Em caso de dúvidas, entre em contato com o Atendimento ao Cliente.',
+    'clientAttendance' => 'Atendimento ao Cliente'
 ];

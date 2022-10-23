@@ -53,8 +53,7 @@
             <tr>
                 <td width="5.8%"></td>
                 <td style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 15px; color: #21243e; line-height: 1.7;">
-                    Caro,<br />
-                    Favor digitar o código de confirmação abaixo no site oficial para desfrutar com segurança dos serviços da Pearl Abyss.
+                    {{__('messages.emailmessage_2'))}}
                 </td>
                 <td width="5.8%"></td>
             </tr>
@@ -87,7 +86,7 @@
                                                             vertical-align: middle;
                                                         "
                                                     >
-                                                        Código de Confirmação
+                                                    {{__('messages.emailmessage_3'))}}
                                                     </span>
                                                 </td>
                                                 <td width="20"></td>
@@ -103,7 +102,7 @@
                                                             vertical-align: middle;
                                                         "
                                                     >
-                                                        499288
+                                                        {{$account->code}}
                                                     </span>
                                                 </td>
                                                 <td width="50"></td>
@@ -133,7 +132,7 @@
                                     -
                                 </td>
                                 <td style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 15px; color: #656565; line-height: 1.7;">
-                                    O código de confirmação possui validade de 1 hora. É necessário registrar novamente após expirada a validade.
+                                    {{__('messages.emailmessage_4'))}}
                                 </td>
                             </tr>
                         </tbody>
@@ -151,7 +150,7 @@
                                     -
                                 </td>
                                 <td style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 15px; color: #656565; line-height: 1.7;">
-                                    Esse e-mail pode ser resultado de um erro de digitação.
+                                    {{__('messages.emailmessage_5'))}}
                                 </td>
                             </tr>
                         </tbody>
@@ -180,17 +179,17 @@
                             <tr>
                                 <td width="5.8%"></td>
                                 <td align="center" style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 13px; color: #656565; line-height: 1.5;">
-                                    © Pearl Abyss Corp. All Rights Reserved.<br />
+                                    © {{mb_convert_case( env('WEB_NAME', 'example'), MB_CASE_TITLE , 'UTF-8' )}} All Rights Reserved.<br />
                                     <br />
-                                    <span style="font-size: 12px; color: #aaa; line-height: 1.5;">Essa é uma mensagem automática. Em caso de dúvidas, entre em contato com o Atendimento ao Cliente.</span>
+                                    <span style="font-size: 12px; color: #aaa; line-height: 1.5;">{{__('messages.emailmessage_6'))}}</span>
                                     <br />
                                     <a
                                         href="https://account.pearlabyss.com/pt-BR/Support"
                                         style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 12px; color: #286bc6; text-decoration: underline;"
                                         target="_blank"
-                                        data-saferedirecturl="https://www.google.com/url?q=https://account.pearlabyss.com/pt-BR/Support&amp;source=gmail&amp;ust=1666531315902000&amp;usg=AOvVaw3mW8BiIFnFII5Th9K1aomA"
+                                        data-saferedirecturl="#"
                                     >
-                                        [Atendimento ao Cliente]
+                                        [{{__('messages.clientAttendance'))}}]
                                     </a>
                                 </td>
                                 <td width="5.8%"></td>

@@ -225,7 +225,7 @@
             _abyss.join.joinInit();
         });
     </script>
-    <script>
+    {{-- <script>
          $( document ).ready(function() {
             $.ajax({
                   url: "{{route('countries', App::getLocale())}}",
@@ -239,6 +239,6 @@
             });
          });
            
-    </script>
+    </script> --}}
  
 @endpush

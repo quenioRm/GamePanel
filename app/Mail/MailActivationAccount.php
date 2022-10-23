@@ -36,7 +36,7 @@ class MailActivationAccount extends Mailable
     public function build()
     {
         $subject = mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' );
-        $this->subject(Lang::get('messages.accountActivationMessage') . ' - ' . $subject);
+        $this->subject(Lang::get('messages.emailmessage_1') . ' - ' . $subject);
         return $this->markdown('components.mail.MailActivationAccount')->with(['account'=> $this->account]);
     }
 }
