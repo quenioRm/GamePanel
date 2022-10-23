@@ -13,21 +13,23 @@
             <div class="input_with_btn js-email">
                <div class="custom_input label">
                    <div class="custom_inputBox">
-                       <input
-                           Icon=""
+                        <input
+                           class="{{($errors->has('email') ? 'input-validation-error' : 'active valid')}}"
+                           icon=""
+                           id="email"
                            placeholder=""
                            autocomplete="off"
-                           class="opacityNot js-notSyncValidate"
                            data-val="true"
                            data-val-regex="{{__('messages.data-val-regex-email')}}"
                            data-val-regex-pattern="^([\w-.^]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$"
                            data-val-required="{{__('messages.data-val-required-email')}}"
-                           id="email"
-                           labelName="E-mail"
+                           labelname="E-mail"
                            name="email"
                            type="text"
                            value="{{old('email')}}"
-                       />
+                           aria-describedby="email-error"
+                           aria-invalid="false"
+                        />
                        <label for="email"><span>{{__('messages.email')}}</span></label><span class="custom_line"></span>
                    </div>
                    <div class="input_validate error"><span class="{{($errors->has('email') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="email" data-valmsg-replace="true">
@@ -82,7 +84,7 @@
                 <div class="custom_input label ">
                   <div class="custom_inputBox">
                      <input
-                         class="password_view"
+                         class="{{($errors->has('password') ? 'input-validation-error password_view' : 'active valid password_view')}}"
                          placeholder=""
                          autocomplete="off"
                          data-val="true"
@@ -125,7 +127,7 @@
                 <div class="custom_input label ">
                   <div class="custom_inputBox">
                      <input
-                         class="password_view"
+                         class="{{($errors->has('passwordCheck') ? 'input-validation-error password_view' : 'password_view')}}"
                          placeholder=""
                          autocomplete="off"
                          data-val="true"
@@ -152,7 +154,7 @@
              <div class="input_margin">
                 <div class="custom_input label ">
                   <div class="custom_inputBox">
-                     <input class="" Icon="" id="name" placeholder="" data-val="true" 
+                     <input class="{{($errors->has('name') ? 'input-validation-error' : '')}}" Icon="" id="name" placeholder="" data-val="true" 
                      data-val-required="{{__('messages.name-data-val-required')}}" labelName="Nome" name="name" 
                      type="text" value="{{old('name')}}" /><label for="name"><span>{{__('messages.name')}}
                      </span></label>
@@ -188,6 +190,9 @@
                    <div class="custom_select">
                       <select Icon="" Placeholder="" class="js-nationSelect js-select2" data-val="true" data-val-required="Favor selecionar a região." id="nationCode" labelName="Região" name="nationCode">
                          <option value="">Selecione</option>
+                         @foreach ($countries as $country)
+                              <option value="{{$country->code_1}}" @if (old('nationCode') == $country->code_1) {{ 'selected' }} @endif>{{$country->name}}</option>
+                         @endforeach
                       </select>
                    </div>
                    <label for="nationCode" class="input_label js-labelSelect">{{__('messages.nation')}}</label>
@@ -225,6 +230,19 @@
             _abyss.join.joinInit();
         });
     </script>
+   <script src="//www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+   <script type="text/javascript">
+         var onloadCallback = function () {
+            var widgetId =
+            grecaptcha.render('html_element', {
+               'sitekey': '{{env('RECPTCHA_KEY')}}'
+               , 'callback': function () {
+                     $('.js-modalDim').trigger('click');
+               }
+            });                
+         };
+         _abyss.setRecaptchaCheck();
+   </script>
     {{-- <script>
          $( document ).ready(function() {
             $.ajax({

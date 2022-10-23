@@ -11,17 +11,9 @@
                             <tr>
                                 <td width="5.8%"></td>
                                 <td>
-                                    <a
-                                        href="https://account.pearlabyss.com"
-                                        target="_blank"
-                                        data-saferedirecturl="https://www.google.com/url?q=https://account.pearlabyss.com&amp;source=gmail&amp;ust=1666531315902000&amp;usg=AOvVaw16dM7V-mWgMIBOXqkYKKUC"
-                                    >
-                                        <img
-                                            src="https://ci6.googleusercontent.com/proxy/hZlHo6qUtdVTCACvyC6kTm0jqEA5GEG9AY3fcn0MCS3DMCvrV2nwEGDL3YxOJoCHUgc04db9IttRhsKGexyCGsFVAeYfINJ9ryHIf1Y=s0-d-e1-ft#https://s1.pearlcdn.com/account/contents/img/mail/logo.png"
-                                            class="CToWUd"
-                                            data-bit="iit"
-                                        />
-                                    </a>
+                                    <div class="footer_item">
+                                        <a href="" style="font-weight: 700; font-size:18px; color:white" target="_blank" class="btn_pearlabyss" aria-label="{{env('WEB_NAME')}}">{{env('WEB_NAME')}}</a>
+                                    </div>
                                 </td>
                                 <td width="5.8%"></td>
                             </tr>
@@ -43,7 +35,7 @@
             <tr>
                 <td width="5.8%"></td>
                 <td style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 30px; font-weight: bold; color: #2b2f5a; line-height: 1.4;">
-                    Autenticação de E-mail
+                    {{__('messages.emailmessage_1')}}
                 </td>
                 <td width="5.8%"></td>
             </tr>
@@ -53,7 +45,7 @@
             <tr>
                 <td width="5.8%"></td>
                 <td style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 15px; color: #21243e; line-height: 1.7;">
-                    {{__('messages.emailmessage_2'))}}
+                    {{__('messages.emailmessage_2')}}
                 </td>
                 <td width="5.8%"></td>
             </tr>
@@ -86,7 +78,7 @@
                                                             vertical-align: middle;
                                                         "
                                                     >
-                                                    {{__('messages.emailmessage_3'))}}
+                                                    {{__('messages.emailmessage_3')}}
                                                     </span>
                                                 </td>
                                                 <td width="20"></td>
@@ -132,7 +124,7 @@
                                     -
                                 </td>
                                 <td style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 15px; color: #656565; line-height: 1.7;">
-                                    {{__('messages.emailmessage_4'))}}
+                                    {{__('messages.emailmessage_4')}}
                                 </td>
                             </tr>
                         </tbody>
@@ -150,7 +142,7 @@
                                     -
                                 </td>
                                 <td style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 15px; color: #656565; line-height: 1.7;">
-                                    {{__('messages.emailmessage_5'))}}
+                                    {{__('messages.emailmessage_5')}}
                                 </td>
                             </tr>
                         </tbody>
@@ -181,7 +173,7 @@
                                 <td align="center" style="font-family: 나눔고딕, NanumGothic, 맑은고딕, Malgun Gothic, 돋움, Dotum, Helvetica, Apple SD Gothic Neo, sans-serif; font-size: 13px; color: #656565; line-height: 1.5;">
                                     © {{mb_convert_case( env('WEB_NAME', 'example'), MB_CASE_TITLE , 'UTF-8' )}} All Rights Reserved.<br />
                                     <br />
-                                    <span style="font-size: 12px; color: #aaa; line-height: 1.5;">{{__('messages.emailmessage_6'))}}</span>
+                                    <span style="font-size: 12px; color: #aaa; line-height: 1.5;">{{__('messages.emailmessage_6')}}</span>
                                     <br />
                                     <a
                                         href="https://account.pearlabyss.com/pt-BR/Support"
@@ -189,7 +181,7 @@
                                         target="_blank"
                                         data-saferedirecturl="#"
                                     >
-                                        [{{__('messages.clientAttendance'))}}]
+                                        [{{__('messages.clientAttendance')}}]
                                     </a>
                                 </td>
                                 <td width="5.8%"></td>

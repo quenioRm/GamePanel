@@ -13,12 +13,9 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('users_activation', function (Blueprint $table) {
-            $table->id();
-            $table->string('email');
-            $table->integer('code');
-            $table->tinyInteger('isActivated');
-            $table->timestamps();
+        //isBlockEmailDomain
+        Schema::table('users', function (Blueprint $table) {
+            $table->tinyInteger('isBlockEmailDomain')->default(0)->after('nationCode');
         });
     }
 
@@ -29,6 +26,8 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('users_activation');
+        Schema::table('users', function (Blueprint $table) {
+            $table->dropColumn('isBlockEmailDomain');
+        });
     }
 };

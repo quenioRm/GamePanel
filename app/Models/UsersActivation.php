@@ -18,7 +18,8 @@ class UsersActivation extends Model
     protected $primaryKey = 'id';
     protected $fillable = [
         'email',
-        'code'
+        'code',
+        'isActivated'
     ];
 
     public static function MakeActivationCode($input)
@@ -30,23 +31,24 @@ class UsersActivation extends Model
             $randomNumber = random_int(100000, 999999);
 
             $user = self::where('email', $input['email'])->first();
-            
+
             if($user){
+                if($user->isActivated == 1)
+                    return 0;
+
                 $user->code = $randomNumber;
                 $user->save();
-
             }else{
                 $user = new UsersActivation();
                 $user->email = $input['email'];
                 $user->code = $randomNumber;
+                $user->isActivated = 0;
                 $user->save();
-
-                
             }
 
-            // Mail::to($user->email)->send(new MailActivationAccount($user));
+            Mail::to($user->email)->send(new MailActivationAccount($user));
 
-            JobAccountActivate::dispatch($user)->delay(now()->addMinutes(1));
+            // JobAccountActivate::dispatch($user)->delay(now()->addMinutes(1));
             
 
             // COMMIT TRAN
@@ -60,5 +62,33 @@ class UsersActivation extends Model
             throw new \Exception($e);
             return - 1;
         }
+    }
+
+    public static function ActivateAccount($email, $authkey)
+    {
+        $user = self::where('email', $email)->where('code', $authkey)->first();
+        if($user){
+            if($user->isActivated == 1)
+                return 0;
+
+            $user->isActivated = 1;
+            $user->updated_at = now();
+            $user->save();
+            return 0;
+        }
+        return -1;
+    }
+
+    public static function CheckIsActivated($email, $authkey)
+    {
+        $user = self::where('email', $email)->where('code', $authkey)->first();
+        if($user){
+            if($user->isActivated == 1)
+                return 0;
+            
+            if($user->created_at->diffInHours(now(), false) > 1)
+                return -2;
+        }
+        return -1;
     }
 }

@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'LOGIN')
+@section('title', __('messages.login'))
 
 @section('content')
 <form action="{{ route('login') }}" id="frmLogin" method="post">
@@ -71,7 +71,7 @@
                                         <label for="password"><span>{{__('messages.password')}}</span></label><span class="custom_line"></span><i class="pi icn_password_view js-passShow"></i>
                                     </div>
                                     {{-- <div class="input_validate error"><span class="field-validation-valid" data-valmsg-for="password" data-valmsg-replace="true"></span></div> --}}
-                                    <div class="input_validate error"><span class="{{($errors->has('password') ? '' : 'field-validation-valid')}}" data-valmsg-for="password" data-valmsg-replace="true">
+                                    <div class="input_validate error"><span class="{{($errors->has('password') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="password" data-valmsg-replace="true">
                                         @if ($errors->has('password'))
                                             <span class="">{{$errors->first('password')}}</span>
                                         @endif
@@ -93,14 +93,14 @@
                                         class="custom_toggle_input"
                                         Icon=""
                                         placeholder=""
-                                        checked="checked"
                                         data-val="true"
                                         data-val-required="The isIpCheck field is required."
                                         id="isIpCheck"
                                         labelName="{{__('messages.ip-sec')}}"
                                         name="isIpCheck"
                                         type="checkbox"
-                                        value="true"
+                                        value="1"
+                                        @if(old('isIpCheck') == 1) checked @endif
                                         wrapClass="js-ipToggleWrap"
                                     />
                                     <label for="isIpCheck" class="custom_toggle_label">{{__('messages.ip-sec')}}</label>
@@ -169,6 +169,61 @@
         // $('#isIpCheck').change(function(){
         //     var checkboxValue = $(this).is(':checked');
         //     alert(checkboxValue);
+        // });
+
+        function validateEmail($email) {
+            var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+            return emailReg.test( $email );
+        }
+    </script>
+
+    <script>
+        // document.getElementById('test').click();
+
+        // function Test(){
+        //     var formData = $('#frmLogin').serializeArray();
+        //     console.log(formData)
+        // }
+
+        // $('#frmLogin').on('input', 'input[name=email]', function(){
+        // console.log($(this).val());
+        // });
+        
+        
+
+        window.onload = function() {
+           
+            if ($("#email").is(":-webkit-autofill")) 
+            {    
+                $(this).select()
+            }
+
+            $("#email").focus();
+            $('#email').on('blur input', function() {
+                console.log( 'email',$(this).val())
+                var url = '{{ route("loginipprotectcheck", ":email") }}';
+                url = url.replace(':email', $(this).val());
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    success: function(response){
+                        // if(response.resultCode == 0)
+                        //     console.log(123)
+                    },
+                    dataType: "json"
+                });
+            });
+        };
+
+
+        // $( document ).ready(function() {
+        //     var formData = $('#frmLogin').serializeArray();
+        //     let email =  $('input[name="_joinType"]').val()
+
+        //     // console.log(formData)
+
+           
         // });
     </script>
 @endpush

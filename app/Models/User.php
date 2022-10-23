@@ -30,7 +30,10 @@ class User extends Authenticatable
         'fb_id',
         'isIpCheck',
         'ip',
-        'uuid'
+        'uuid',
+        'birth',
+        'nationCode',
+        'isBlockEmailDomain'
     ];
 
     /**
@@ -52,14 +55,22 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public static function Register($input)
+    public static function MakeUser($input)
     {
         $web_tran = DB::connection('web');
 
         try {
 
-            $user = new User();
+            $uuid = vsprintf('%s%s-%s-4000-8%.3s-%s%s%s0',str_split(dechex( microtime(true) * 1000 ) . bin2hex( random_bytes(8) ),4));
 
+            $user = new User();
+            $user->name = $input['name'];
+            $user->email = $input['email'];
+            $user->password = hash('sha512', $input['password']);
+            $user->uuid = $uuid;
+            $user->birth = $input['birth'];
+            $user->nationCode = $input['nationCode'];
+            $user->save();
 
             // COMMIT TRAN
             $web_tran->commit();
@@ -69,5 +80,60 @@ class User extends Authenticatable
             $web_tran->rollback();
             throw new \Exception($e);
         }
+    }
+
+    public static function MakeLogin($email, $password, $isIpCheck)
+    {
+        $user = self::where('email', $email)->first();
+        if($user){
+
+            if($user->isBlockEmailDomain == 1)
+                return [
+                    'code' => -3,
+                    'data' => null
+                ];
+
+            if($user->password != hash('sha512', $password))
+                return [
+                    'code' => -1,
+                    'data' => null
+                ];
+
+            $user->isIpCheck = $isIpCheck;
+            $user->save();
+            
+            return [
+                'code' => 0,
+                'data' => $user
+            ];
+        }
+        return [
+            'code' => -2,
+            'data' => null
+        ];
+    }
+
+    public static function CheckIsBlocked($email)
+    {
+        $user = self::where('email', $email)->first();
+        if($user){
+            if($user->isBlockEmailDomain == 1)
+                return -1;
+            
+            return 0;
+        }
+        return -2;
+    }
+
+    public static function CheckIsIpProtect($email)
+    {
+        $user = self::where('email', $email)->first();
+        if($user){
+            if($user->isIpCheck == 0)
+                return -1;
+            
+            return 0;
+        }
+        return -2;
     }
 }

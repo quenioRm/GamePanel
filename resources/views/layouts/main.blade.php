@@ -48,6 +48,7 @@
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/account.css?v=638016825217184276')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/game_network.css?ver=638016825217184276')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/styleAdd.css')}}" />
+        <link type="text/css" rel="stylesheet" href="{{asset('assets/css/sweetalert2.min.css')}}" />
 
 
         <script>
@@ -110,23 +111,34 @@
         <script src="{{asset('assets/js/jquery.validate.unobtrusive-3.2.11.min.js')}}"></script>
         <script src="{{asset('assets/js/jquery.inputmask.bundle.js')}}"></script>
         <script src="{{asset('assets/js/select2.min.js')}}"></script>
-
-        <script src="//www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
-        <script type="text/javascript">
-            var onloadCallback = function () {
-                var widgetId =
-                grecaptcha.render('html_element', {
-                    'sitekey': '{{env('RECPTCHA_KEY')}}'
-                    , 'callback': function () {
-                        $('.js-modalDim').trigger('click');
-                    }
-                });
-            };
+        <script src="{{asset('assets/js/sweetalert2.all.min.js')}}"></script>
     
-            _abyss.setRecaptchaCheck();
-        </script>
-    
-
         @stack('scripts')
+
+        @if(Session::has('message'))
+            @if(session('message')['type'] == 'success')
+                <script>
+                    Swal.fire({
+						position: 'center',
+						icon: 'success',
+						// background: '#fff',
+						title: '{{ session('message')['text'] }}',
+						showConfirmButton: false,
+						timer: 2500
+					})
+                </script>
+            @elseif(session('message')['type'] == 'error')
+                <script>
+                    Swal.fire({
+						position: 'center',
+						icon: 'error',
+						// background: '#fff',
+						title: '{{ session('message')['text'] }}',
+						showConfirmButton: false,
+						timer: 2500
+					})
+                </script>
+            @endif
+        @endif
     </body>
 </html>

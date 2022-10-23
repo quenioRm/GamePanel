@@ -5,6 +5,11 @@ namespace App\Http\Controllers\Auth;
 use App\Http\Controllers\Controller;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
+use Illuminate\Support\Facades\Validator;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Lang;
+use App\Models\User;
+use Illuminate\Support\Facades\Auth;
 
 class LoginController extends Controller
 {
@@ -38,5 +43,100 @@ class LoginController extends Controller
         $this->middleware('guest')->except('logout');
     }
 
-    
+    public function LoginForm()
+    {
+        
+        return view('auth.login');
+    }
+
+    public function LoginFormSubmit(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|string|email|max:255',
+            'isIpCheck' => '',
+            'password' => 'required|min:8|max:20'
+        ], [], [
+            'email' =>  Lang::get('messages.email'),
+            'password' => Lang::get('messages.password')
+        ]);
+
+        if(!$validator->passes()){
+            $this->incrementLoginAttempts($request);
+            return redirect(route('login'))->withInput()->withErrors($validator->errors());
+        }
+
+        ($request['isIpCheck'] == 'false' ? $request['isIpCheck'] = 0 : $request['isIpCheck']);
+        $user = User::MakeLogin($request['email'], $request['password'], $request['isIpCheck']);
+
+        switch ($user['code']) {
+            case -3:
+                $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
+                return redirect(route('login'))->withInput()->withErrors($validator->errors());
+                break;
+            case -2:
+                $validator->errors()->add('email', Lang::get('messages.userNotFound'));
+                return redirect(route('login'))->withInput()->withErrors($validator->errors());
+                break;
+            case -1:
+                $validator->errors()->add('password', Lang::get('messages.incorrectPassword'));
+                return redirect(route('login'))->withInput()->withErrors($validator->errors());
+                break;
+        }
+
+        Auth::loginUsingId($user['data']->id);
+        return redirect()->route('home');
+    }
+
+    /**
+     * Log the user out of the application.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\RedirectResponse|\Illuminate\Http\JsonResponse
+     */
+    public function logout(Request $request)
+    {
+        $this->guard()->logout();
+
+        // $request->session()->invalidate();
+
+        $request->session()->regenerateToken();
+
+        if ($response = $this->loggedOut($request)) {
+            return $response;
+        }
+
+        return $request->wantsJson()
+            ? response()->json([], 204)
+            : redirect('/');
+    }
+
+    /**
+     * The user has logged out of the application.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return mixed
+     */
+    protected function loggedOut(Request $request)
+    {
+        //
+    }
+
+    /**
+     * Get the guard to be used during authentication.
+     *
+     * @return \Illuminate\Contracts\Auth\StatefulGuard
+     */
+    protected function guard()
+    {
+        return Auth::guard();
+    }
+
+    public function LoginIpProtectCheck($email)
+    {
+        $user = User::CheckIsIpProtect($email);
+        if($user == -1){
+            return response()->json(['resultCode' => -1, 'resultMsg' => '', 'returnUrl' => '' ], 200);
+        }
+        return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
+    }
 }

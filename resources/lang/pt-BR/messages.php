@@ -38,7 +38,8 @@ return [
     'messageOne' => '[Obrigatório] Li e concordo com ',
     'messageTwo' => 'Política de Privacidade',
     'messageTree' => 'Termos de Uso da',
-    'register' => 'Register',
+    'register' => 'Registro',
+    'login' => 'Login',
     'accountActivateFailed' => 'Falha ao ativar a conta.',
     'emailmessage_1' => 'Ativação de conta',
     'emailmessage_2' => 'Caro,' .
@@ -47,5 +48,13 @@ return [
     'emailmessage_4' => 'O código de confirmação possui validade de 1 hora. É necessário registrar novamente após expirada a validade.',
     'emailmessage_5' => 'Esse e-mail pode ser resultado de um erro de digitação.',
     'emailmessage_6' => 'Essa é uma mensagem automática. Em caso de dúvidas, entre em contato com o Atendimento ao Cliente.',
-    'clientAttendance' => 'Atendimento ao Cliente'
+    'clientAttendance' => 'Atendimento ao Cliente',
+    'confirmationEmailSucess' => 'E-mail confirmado com sucesso.',
+    'accountIsNotActivated' => 'A sua conta ainda não foi ativada, ative-a por favor para continuar!',
+    'accountIstActivated' => 'Esta conta já esta ativada!',
+    'codeExpired' => 'O código se encontra expirado, por favor solicite um novo!',
+    'accountCreationSucess' => 'A sua conta foi criada com sucesso.',
+    'incorrectPassword' => 'Senha incoreta',
+    'userNotFound' => 'Usuário não encontrado',
+    'isBlockedAccount' => 'A conta se encontra bloqueada'
 ];

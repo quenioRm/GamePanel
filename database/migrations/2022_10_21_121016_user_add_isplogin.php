@@ -17,6 +17,8 @@ return new class extends Migration
             $table->tinyInteger('isIpCheck')->nullable()->after('google_id');
             $table->string('ip')->nullable()->after('isIpCheck');
             $table->string('uuid')->nullable()->after('ip');
+            $table->dateTime('birth')->nullable()->after('uuid');
+            $table->string('nationCode')->nullable()->after('birth');
         });
     }
 
@@ -31,6 +33,8 @@ return new class extends Migration
             $table->dropColumn('isIpCheck');
             $table->dropColumn('ip');
             $table->dropColumn('uuid');
+            $table->dropColumn('birth');
+            $table->dropColumn('nationCode');
         });
     }
 };

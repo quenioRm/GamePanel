@@ -17,8 +17,15 @@ Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('ho
 Route::get('lang/{lang}', ['as' => 'lang.switch', 'uses' => 'App\Http\Controllers\LanguageController@switchLang']);
 
 // Auth Routes
+Route::get('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginForm'])->name('login');
+Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginFormSubmit']);
+Route::post('/logout', [App\Http\Controllers\Auth\LoginController::class, 'logout'])->name('logout');
+Route::get('/LoginIpProtectCheck/{email}', [App\Http\Controllers\Auth\LoginController::class, 'LoginIpProtectCheck'])
+->name('loginipprotectcheck');
+
 Route::get('/register', [App\Http\Controllers\Auth\RegisterController::class, 'RegisterForm'])->name('register');
 Route::post('/register', [App\Http\Controllers\Auth\RegisterController::class, 'RegisterFormSubmit']);
+
 
 // Google URL
 Route::prefix('google')->name('google.')->group( function(){
@@ -45,6 +52,10 @@ Route::group(['prefix'=>'Member'] , function(){
         Route::post('/AuthMailSend', [App\Http\Controllers\Auth\RegisterController::class, 'AuthMailSend'])
         ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
         ->name('authmailsend');
+
+        Route::post('/joinMailAuth', [App\Http\Controllers\Auth\RegisterController::class, 'joinMailAuth'])
+        ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+        ->name('joinmailauth');
     });
 });
 

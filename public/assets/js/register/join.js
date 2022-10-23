@@ -187,11 +187,19 @@ window._abyss = window._abyss || {}, window._abyss.join = function(e, f) {
 				url: "/Member/Join/joinMailAuth",
 				async: !1,
 				data: {
-					_email: e,
-					_authKey: a
+					email: e,
+					authKey: a
 				},
 				success: function(e) {
-					alert(e.resultMsg.replace(/\\n/gi, "\n").replace(/ \\n/gi, "\n")), t = e.resultCode
+					// alert(), t = e.resultCode
+					Swal.fire({
+						position: 'center',
+						icon: 'success',
+						// background: '#fff',
+						title: e.resultMsg.replace(/\\n/gi, "\n").replace(/ \\n/gi, "\n"),
+						showConfirmButton: false,
+						timer: 2500
+					})
 				},
 				error: function() {
 					return alert(BDWeb.Resource.GetResourceValue("WEB_MSG_COMMON_FAIL")), !1
