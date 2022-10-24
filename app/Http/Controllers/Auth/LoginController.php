@@ -10,6 +10,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Lang;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
+use Session;
 
 class LoginController extends Controller
 {
@@ -45,7 +46,6 @@ class LoginController extends Controller
 
     public function LoginForm()
     {
-        
         return view('auth.login');
     }
 
@@ -60,13 +60,15 @@ class LoginController extends Controller
             'password' => Lang::get('messages.password')
         ]);
 
+        $ip = $request->ip();
+
         if(!$validator->passes()){
             $this->incrementLoginAttempts($request);
             return redirect(route('login'))->withInput()->withErrors($validator->errors());
         }
 
         ($request['isIpCheck'] == 'false' ? $request['isIpCheck'] = 0 : $request['isIpCheck']);
-        $user = User::MakeLogin($request['email'], $request['password'], $request['isIpCheck']);
+        $user = User::MakeLogin($request['email'], $request['password'], $request['isIpCheck'], $ip);
 
         switch ($user['code']) {
             case -3:
@@ -84,7 +86,7 @@ class LoginController extends Controller
         }
 
         Auth::loginUsingId($user['data']->id);
-        return redirect()->route('home');
+        return redirect()->route('controlpanel.panelaccountinfo');
     }
 
     /**
@@ -138,5 +140,43 @@ class LoginController extends Controller
             return response()->json(['resultCode' => -1, 'resultMsg' => '', 'returnUrl' => '' ], 200);
         }
         return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
+    }
+
+    public function ResetPasswordForm()
+    {
+        return view('auth.passwords.reset');
+    }
+
+    public function ResetPasswordFormSubmit(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|string|email|max:255'
+        ], [], [
+            'email' =>  Lang::get('messages.email'),
+        ]);
+
+        if(!$validator->passes()){
+            return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+        }
+
+        $user = User::ResetPassword($request['email'], $request['password'], $request['isIpCheck']);
+
+        switch ($user['code']) {
+            case -3:
+                $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
+                return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+                break;
+            case -2:
+                $validator->errors()->add('email', Lang::get('messages.userNotFound'));
+                return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+                break;
+            case -1:
+                $validator->errors()->add('email', Lang::get('messages.resetPasswordTimeElapsed'));
+                return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+                break;
+        }
+
+        Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetPasswordMessage')]);
+        return redirect()->route('login');
     }
 }

@@ -7,7 +7,7 @@ use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Support\Facades\Lang;
 
-class MailActivationAccount extends Mailable
+class MailResetPassword extends Mailable
 {
     use Queueable, SerializesModels;
 
@@ -22,7 +22,6 @@ class MailActivationAccount extends Mailable
     {
         $this->account = $account;
     }
-
         /**
      * Build the message.
      *
@@ -32,7 +31,7 @@ class MailActivationAccount extends Mailable
     public function build()
     {
         $subject = mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' );
-        $this->subject(Lang::get('messages.emailmessage_1') . ' - ' . $subject);
-        return $this->markdown('components.mail.MailActivationAccount')->with(['account'=> $this->account]);
+        $this->subject(Lang::get('messages.emailmessage_7') . ' - ' . $subject);
+        return $this->markdown('components.mail.MailResetPassword')->with(['account'=> $this->account]);
     }
 }

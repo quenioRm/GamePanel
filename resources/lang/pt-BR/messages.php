@@ -48,6 +48,11 @@ return [
     'emailmessage_4' => 'O código de confirmação possui validade de 1 hora. É necessário registrar novamente após expirada a validade.',
     'emailmessage_5' => 'Esse e-mail pode ser resultado de um erro de digitação.',
     'emailmessage_6' => 'Essa é uma mensagem automática. Em caso de dúvidas, entre em contato com o Atendimento ao Cliente.',
+    'emailmessage_7' => 'Recuperação de conta',
+    'emailmessage_8' => 'Caro,' .
+    'Utilize a senha abaixo para acessar os serviços.',
+    'emailmessage_9' => 'Nova Senha',
+    'emailmessage_10' => 'Não passe a sua senha a ninguém.',
     'clientAttendance' => 'Atendimento ao Cliente',
     'confirmationEmailSucess' => 'E-mail confirmado com sucesso.',
     'accountIsNotActivated' => 'A sua conta ainda não foi ativada, ative-a por favor para continuar!',
@@ -56,5 +61,19 @@ return [
     'accountCreationSucess' => 'A sua conta foi criada com sucesso.',
     'incorrectPassword' => 'Senha incoreta',
     'userNotFound' => 'Usuário não encontrado',
-    'isBlockedAccount' => 'A conta se encontra bloqueada'
+    'isBlockedAccount' => 'A conta se encontra bloqueada',
+    'btnReset' => 'Resetar',
+    'resetPasswordTimeElapsed' => 'Você deve aguardar uma hora para solicitar uma nova senha',
+    'resetPasswordMessage' => 'A nova senha foi enviada ao e-mail solicitado.',
+    'controlPanelAccountInfo' => 'Informações da conta',
+    'controlPanelAccountInfoMemberSince' => 'Membro desde ',
+    'controlPanelProfile' => 'Perfil ',
+    'controlPanelProfileInputLogin' => 'Favor digitar o login.',
+    'controlPanelProfileInputLoginRequired' => 'Favor verificar as regras de apelido.',
+    'controlPanelProfileInputLoginMessage_1' => 'De 2 a 16 caracteres alfanuméricos (exceto caractere especial)',
+    'controlPanelProfileInputLoginMessage_2' => 'O apelido é exibido ao fazer postagens, escrever comentários ou realizar outras atividades na comunidade.',
+    'controlPanelProfileBtnSave' => 'Salvar Perfil',
+    'accountInfoUpdateSucess' => 'Informação atualizada com sucesso.',
+    'uploadSuccess' => 'Arquivo enviado com sucesso.',
+    'uploadFailed' => 'Falha ao enviar o arquivo.'
 ];

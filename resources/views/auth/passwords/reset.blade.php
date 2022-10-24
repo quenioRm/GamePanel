@@ -1,65 +1,74 @@
-@extends('layouts.app')
+@extends('layouts.main')
+
+@section('title', __('messages.login'))
 
 @section('content')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Reset Password') }}</div>
+<form action="{{ route('reset') }}" id="frmLogin" method="post">
+    @csrf
+    <div class="container container_login">
+        <article class="content system sha_login_content">
+            <div class="login_content_wrap">
+                <div class="tab_nav_area">
+                    <h2 class="mob_half login_title js-tabMenu">
+                        <div class="logo_wrap"><a href="{{Request::url()}}" aria-label="{{env('WEB_NAME')}}" class="gamepanel" rel="noopener">{{env('WEB_NAME')}} ID</a></div>
+                    </h2>
+                </div>
+                <input type="hidden" name="_joinType" value="1" />
+                <div class="login_box_wrap js-tabContents active">
+                    <fieldset class="box_login">
+                        <legend>Entrar</legend>
+                        <ul>
+                            <li class="js-checkInput">
+                                <div class="custom_input label">
+                                    <div class="custom_inputBox">
+                                        <input
+                                            class="{{($errors->has('email') ? 'input-validation-error' : 'active valid')}}"
+                                            icon=""
+                                            id="email"
+                                            placeholder=""
+                                            autocomplete="off"
+                                            data-val="true"
+                                            data-val-regex="{{__('messages.data-val-regex-email')}}"
+                                            data-val-regex-pattern="^([\w-.^]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$"
+                                            data-val-required="{{__('messages.data-val-required-email')}}"
+                                            labelname="E-mail"
+                                            name="email"
+                                            type="text"
+                                            value="{{old('email')}}"
+                                            aria-describedby="email-error"
+                                            aria-invalid="false"
+                                        />
+                                        <label for="email"><span>{{__('messages.email')}}</span></label><span class="custom_line" style="width: 52.4px; left: 16.8px;"></span>
+                                    </div>
+                                    <div class="input_validate error"><span class="{{($errors->has('email') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="email" data-valmsg-replace="true">
+                                        @if ($errors->has('email'))
+                                            <span class="">{{$errors->first('email')}}</span>
+                                        @endif
+                                    </span></div>
+                                </div>
+                            </li> 
+                            <li>
+                                <button class="btn btn_blue btn_mid" id="btnLogin">{{__('messages.btnReset')}}</button>
+                            </li>
+                        </ul>
 
-                <div class="card-body">
-                    <form method="POST" action="{{ route('password.update') }}">
-                        @csrf
-
-                        <input type="hidden" name="token" value="{{ $token }}">
-
-                        <div class="row mb-3">
-                            <label for="email" class="col-md-4 col-form-label text-md-end">{{ __('Email Address') }}</label>
-
-                            <div class="col-md-6">
-                                <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ $email ?? old('email') }}" required autocomplete="email" autofocus>
-
-                                @error('email')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                            </div>
+                        <div class="box_join">
+                            <a href="{{route('register')}}">{{__('messages.registerAccount')}}</a>
                         </div>
-
-                        <div class="row mb-3">
-                            <label for="password" class="col-md-4 col-form-label text-md-end">{{ __('Password') }}</label>
-
-                            <div class="col-md-6">
-                                <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="new-password">
-
-                                @error('password')
-                                    <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $message }}</strong>
-                                    </span>
-                                @enderror
-                            </div>
-                        </div>
-
-                        <div class="row mb-3">
-                            <label for="password-confirm" class="col-md-4 col-form-label text-md-end">{{ __('Confirm Password') }}</label>
-
-                            <div class="col-md-6">
-                                <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password">
-                            </div>
-                        </div>
-
-                        <div class="row mb-0">
-                            <div class="col-md-6 offset-md-4">
-                                <button type="submit" class="btn btn-primary">
-                                    {{ __('Reset Password') }}
-                                </button>
-                            </div>
-                        </div>
-                    </form>
+                    </fieldset>
                 </div>
             </div>
-        </div>
+        </article>
     </div>
-</div>
+</form>
+<div id="buttonDiv"></div>
 @endsection
+@push('scripts')
+    <script src="{{asset('assets/js/signin/login.js?v=638016825217184276')}}"></script>
+                    
+    <script>
+        $(document).ready(function () {
+            _abyss.login.loginInit();
+        });
+    </script>
+@endpush

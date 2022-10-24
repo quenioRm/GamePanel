@@ -92,7 +92,7 @@ class RegisterController extends Controller
             'authKey' => 'required',
             'password' => 'required|min:8|max:20',
             'passwordCheck' => 'required|min:8|same:password',
-            'name' => 'required|unique:users|min:5|max:10|alpha_dash',
+            'name' => 'required|unique:users|min:5|max:16|alpha_dash',
             'birth' => 'required|date_format:d-m-Y',
             'nationCode' => 'required'
         ], [], [

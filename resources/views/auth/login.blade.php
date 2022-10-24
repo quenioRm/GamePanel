@@ -86,7 +86,7 @@
                                     </dl>
                                 </div>
                             </li>
-                            <li class="toggle_wrap">
+                            {{-- <li class="toggle_wrap">
                                 <div class="custom_toggle js-ipToggleWrap">
                                     <input name="isIpCheck" type="hidden" value="false" />
                                     <input
@@ -113,14 +113,14 @@
                                         {{__('messages.ip-security-message')}}
                                     </dd>
                                 </dl>
-                            </li>
+                            </li> --}}
                             <li>
                                 <button class="btn btn_blue btn_mid" id="btnLogin">{{__('messages.btnEnter')}}</button>
                             </li>
                         </ul>
 
                         <div class="box_join">
-                            <a href="#">
+                            <a href="{{route('reset')}}">
                                 {{__('messages.recoverAccount')}}</a>
                             <a href="{{route('register')}}">{{__('messages.registerAccount')}}</a>
                         </div>
@@ -175,55 +175,5 @@
             var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
             return emailReg.test( $email );
         }
-    </script>
-
-    <script>
-        // document.getElementById('test').click();
-
-        // function Test(){
-        //     var formData = $('#frmLogin').serializeArray();
-        //     console.log(formData)
-        // }
-
-        // $('#frmLogin').on('input', 'input[name=email]', function(){
-        // console.log($(this).val());
-        // });
-        
-        
-
-        window.onload = function() {
-           
-            if ($("#email").is(":-webkit-autofill")) 
-            {    
-                $(this).select()
-            }
-
-            $("#email").focus();
-            $('#email').on('blur input', function() {
-                console.log( 'email',$(this).val())
-                var url = '{{ route("loginipprotectcheck", ":email") }}';
-                url = url.replace(':email', $(this).val());
-
-                $.ajax({
-                    url: url,
-                    type: 'GET',
-                    success: function(response){
-                        // if(response.resultCode == 0)
-                        //     console.log(123)
-                    },
-                    dataType: "json"
-                });
-            });
-        };
-
-
-        // $( document ).ready(function() {
-        //     var formData = $('#frmLogin').serializeArray();
-        //     let email =  $('input[name="_joinType"]').val()
-
-        //     // console.log(formData)
-
-           
-        // });
     </script>
 @endpush

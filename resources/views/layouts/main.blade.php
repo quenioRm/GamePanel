@@ -50,7 +50,8 @@
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/styleAdd.css')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/sweetalert2.min.css')}}" />
 
-
+        @stack('styles')
+        
         <script>
             var _abyss = (window._abyss = window._abyss || {});
 
@@ -124,7 +125,7 @@
 						// background: '#fff',
 						title: '{{ session('message')['text'] }}',
 						showConfirmButton: false,
-						timer: 2500
+						timer: 6500
 					})
                 </script>
             @elseif(session('message')['type'] == 'error')
@@ -135,7 +136,7 @@
 						// background: '#fff',
 						title: '{{ session('message')['text'] }}',
 						showConfirmButton: false,
-						timer: 2500
+						timer: 6500
 					})
                 </script>
             @endif

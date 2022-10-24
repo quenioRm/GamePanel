@@ -197,6 +197,8 @@ return [
 
         Laravel\Socialite\SocialiteServiceProvider::class,
 
+        'Intervention\Image\ImageServiceProvider',
+
     ],
 
     /*
@@ -214,6 +216,8 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
 
         'Socialite' => Laravel\Socialite\Facades\Socialite::class,
+
+        'Image' => 'Intervention\Image\Facades\Image'
     ])->toArray(),
 
 ];

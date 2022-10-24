@@ -22,10 +22,25 @@ Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginF
 Route::post('/logout', [App\Http\Controllers\Auth\LoginController::class, 'logout'])->name('logout');
 Route::get('/LoginIpProtectCheck/{email}', [App\Http\Controllers\Auth\LoginController::class, 'LoginIpProtectCheck'])
 ->name('loginipprotectcheck');
+Route::get('/reset', [App\Http\Controllers\Auth\LoginController::class, 'ResetPasswordForm'])->name('reset');
+Route::post('/reset', [App\Http\Controllers\Auth\LoginController::class, 'ResetPasswordFormSubmit']);
 
 Route::get('/register', [App\Http\Controllers\Auth\RegisterController::class, 'RegisterForm'])->name('register');
 Route::post('/register', [App\Http\Controllers\Auth\RegisterController::class, 'RegisterFormSubmit']);
 
+// Control Panel
+Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
+    Route::get('accountinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+    'AccountInfoForm'])->name('panelaccountinfo');
+
+    Route::get('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+    'ProfileAccountForm'])->name('profileaccount');
+    Route::post('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+    'ProfileAccountFormSubmit']);
+
+    Route::post('profileaccount/avatarupload', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+    'ProfileAccountFormuploadAvatar'])->name('profileaccountformuploadavatar');
+});
 
 // Google URL
 Route::prefix('google')->name('google.')->group( function(){

@@ -9,6 +9,11 @@ use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 use Illuminate\Support\Facades\DB;
 use App\Models\UsersActivation;
+use App\Helpers\Functions;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\MailResetPassword;
+use App\Models\UserResetPasswordLog;
+use Illuminate\Support\Facades\Auth;
 
 class User extends Authenticatable
 {
@@ -55,6 +60,10 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
+    public function useravatar(){
+        return $this->hasMany('App\Models\UserAvatar', 'user_id');
+    }
+
     public static function MakeUser($input)
     {
         $web_tran = DB::connection('web');
@@ -82,7 +91,7 @@ class User extends Authenticatable
         }
     }
 
-    public static function MakeLogin($email, $password, $isIpCheck)
+    public static function MakeLogin($email, $password, $isIpCheck, $ip)
     {
         $user = self::where('email', $email)->first();
         if($user){
@@ -100,6 +109,7 @@ class User extends Authenticatable
                 ];
 
             $user->isIpCheck = $isIpCheck;
+            $user->ip = $ip;
             $user->save();
             
             return [
@@ -135,5 +145,59 @@ class User extends Authenticatable
             return 0;
         }
         return -2;
+    }
+
+    public static function ResetPassword($email)
+    {
+        $user = self::where('email', $email)->first();
+        if($user){
+            
+            $password = Functions::rand_string(10);
+
+            if($user->isBlockEmailDomain == 1)
+                return [
+                    'code' => -3,
+                    'data' => null
+                ];
+
+            $log = UserResetPasswordLog::MakeLog($email);
+            if($log == -1)
+                return [
+                    'code' => -1,
+                    'data' => null
+                ];
+
+            $user->password = hash('sha512', $password);
+            $user->save();
+            
+            Mail::to($user->email)->send(new MailResetPassword($password));
+
+            return [
+                'data' => $user,
+                'code' => 0
+            ];
+        }
+        return [
+            'data' => null,
+            'code' => -2
+        ];
+    }
+
+    public static function UpdateUsername($username)
+    {
+        $user = self::find(Auth::user()->id)->first();
+        if($user){
+            $user->name = $username;
+            $user->save();
+
+            return[
+                'data' => $user,
+                'code' => 0
+            ];
+        }
+        return [
+            'data' => null,
+            'code' => -1
+        ];
     }
 }
