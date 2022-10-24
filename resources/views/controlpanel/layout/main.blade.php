@@ -8,7 +8,6 @@
 @endpush
 
 @section('content')
-    
 <div class="container mypage">
     <div id="js-leftNavAcitve" class="aside_wrap left">
         <div class="aside_top">
@@ -26,10 +25,10 @@
                     </a>
                 </li>
                 <li id="side_2" data-navregexp="(?=.*\.pearlabyss\.com)(?=.*\/Account\/MyInfo(?!\/Security|/Logging|/AccountSecurity).*$)" class="pi_wrap menu_display_1 
-                {{Route::is('controlpanel.profileaccount') ? 'active' : ''}}">
-                    <a href="{{route('controlpanel.profileaccount')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+                {{Request::segment(2) == 'profile' ? 'active' : ''}}">
+                    <a href="{{route('controlpanel.accountprofileinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_2"></i>
-                        {{__('messages.controlPanelProfile')}}
+                        {{__('messages.controlPanelProfilePersonal')}}
                     </a>
                 </li>
                 <li id="side_3" data-navregexp="(?=.*\.pearlabyss\.com)(?=.*\/Account\/SNSLink[\/]?)" class="pi_wrap menu_display_1">

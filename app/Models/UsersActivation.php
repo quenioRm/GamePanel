@@ -91,4 +91,16 @@ class UsersActivation extends Model
         }
         return -1;
     }
+
+    public static function FindConfirmationCode($email, $authkey)
+    {
+        $user = self::where('email', $email)->where('code', $authkey)->first();
+        if($user){            
+            if($user->created_at->diffInHours(now(), false) > 1)
+                return -2;
+
+            return 0;
+        }
+        return -1;
+    }
 }

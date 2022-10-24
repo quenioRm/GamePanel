@@ -183,11 +183,18 @@ class User extends Authenticatable
         ];
     }
 
-    public static function UpdateUsername($username)
+    public static function UpdateProfile($username, $avatarId)
     {
         $user = self::find(Auth::user()->id)->first();
         if($user){
             $user->name = $username;
+
+            $userAvatar = UserAvatar::find($avatarId);
+            if($userAvatar){
+                $user->avatar = $userAvatar->avatar;
+                
+            }
+
             $user->save();
 
             return[

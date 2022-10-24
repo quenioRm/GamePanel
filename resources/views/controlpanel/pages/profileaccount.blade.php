@@ -10,7 +10,8 @@
             <span class="blind">-</span>
             <span class="icon_character_area">
                 <span class="icon_character" 
-                style="background-image: url({{($account[0]['avatar'] == '' ? asset('img/noavatar.png') : $account[0]['avatar'])}});"></span>
+                style="background-image: url({{($account[0]['avatar'] == '' ? asset('img/noavatar.png') : 
+                asset('storage/user/avatar/' . Auth::user()->id .'/'. $account[0]['avatar']))}});"></span>
             </span>
             <i class="pi pi_setting"></i>
         </button>
@@ -27,7 +28,11 @@
 
     <form id="frmProfileAccount" name="frmProfileAccount" method="post" action="{{route('controlpanel.profileaccount')}}" novalidate="novalidate">
         @csrf
-        <input class="" icon="" id="" labelname="" placeholder="" name="_returnUrl" type="hidden" value="" />
+
+        <input class="" icon="" labelname="" placeholder="" data-val="true" 
+        data-val-number="The field _profileImageNo must be a number." data-val-required="The _profileImageNo field is required."
+        id="profileImageNo" name="profileImageNo" type="hidden" value="0">
+
         <div class="select_pet_wrap">
             <div class="box_nickname">
                 <span class="custom_input label icon icon_user">
@@ -49,7 +54,7 @@
                                 labelname="{{__('messages.controlPanelProfileInputLogin')}}"
                                 name="name"
                                 type="text"
-                                value="{{old('name', $account[0]['avatar'])}}"
+                                value="{{old('name', $account[0]['name'])}}"
                                 aria-describedby="webNickName-error"
                                 aria-invalid="false"
                             />
@@ -99,6 +104,9 @@
             $("#profile_popup").removeClass('active');
         }
 
+        
+    </script> --}}
+    <script>
         $('#avatar').change(function () {
 
             var fd = new FormData();
@@ -108,12 +116,12 @@
             fd.append('_token', '{{ csrf_token() }}');
 
             $.ajax({
-              url: '{{route('controlpanel.profileaccountformuploadavatar')}}',
-              type: 'post',
-              data: fd,
-              contentType: false,
-              processData: false,
-              success: function(response){
+            url: '{{route('controlpanel.profileaccountformuploadavatar')}}',
+            type: 'post',
+            data: fd,
+            contentType: false,
+            processData: false,
+            success: function(response){
                 Swal.fire({
                     position: 'center',
                     icon: 'success',
@@ -126,8 +134,8 @@
                 setTimeout(function() { 
                     location.reload();
                 }, 6500);
-              },
-              error: function (jqXHR, exception) {
+            },
+            error: function (jqXHR, exception) {
                 Swal.fire({
                     position: 'center',
                     icon: 'error',
@@ -135,8 +143,8 @@
                     showConfirmButton: false,
                     timer: 6500
                 })
-              }
-           });
+            }
+            });
         });
-    </script> --}}
+    </script>
 @endpush

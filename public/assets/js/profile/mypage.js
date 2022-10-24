@@ -340,6 +340,7 @@ window._abyss = window._abyss || {}, window._abyss.mypage = function(e, i) {
             i(".character_list .js-choiceBtn .t").removeClass("checked"), i(".character_list .js-choiceBtn .t").addClass("checked")
 		}), i("#profile_popup .js-closeProfile").on("click", function(e) {
 			var t = i("#profileImageNo").val();
+			console.log('123   ',i("#profileImageNo").val());
 			_abyss.isEmpty(t) ? i(".character_list .js-choiceBtn").removeClass("active") : i('#profile_popup .character_list .js-choiceBtn[data-profileimageno="' + t + '"]').trigger("click"), i("#profile_popup").removeClass("active")
 		}), i("#btnProfileAccount").on("click", function() {
 			return 0 != i("#webNickName").valid() && (0 == i("#profileImageNo").val() ? (alert(BDWeb.Resource.GetResourceValue("WEB_MYPAGE_MYINFO_PROFILEACCOUNT_CHARACTER_SET")), !1) : void i("#frmProfileAccount").submit())

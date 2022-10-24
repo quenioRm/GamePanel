@@ -30,16 +30,41 @@ Route::post('/register', [App\Http\Controllers\Auth\RegisterController::class, '
 
 // Control Panel
 Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
+
     Route::get('accountinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
     'AccountInfoForm'])->name('panelaccountinfo');
 
-    Route::get('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-    'ProfileAccountForm'])->name('profileaccount');
-    Route::post('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-    'ProfileAccountFormSubmit']);
+    Route::group(['prefix'=> 'profile'], function(){
 
-    Route::post('profileaccount/avatarupload', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-    'ProfileAccountFormuploadAvatar'])->name('profileaccountformuploadavatar');
+        // Profile
+        Route::get('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'ProfileAccountForm'])->name('profileaccount');
+    
+        Route::post('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'ProfileAccountFormSubmit']);
+    
+        Route::post('profileaccount/avatarupload', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'ProfileAccountFormuploadAvatar'])->name('profileaccountformuploadavatar');
+
+        // Account Info
+        Route::get('accountprofileinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'AccountProfileInfoForm'])->name('accountprofileinfo');   
+
+        // Profile Second Email
+        Route::get('accountprofilesecondemail', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'AccountProfileSecondEmailForm'])->name('accountprofilesecondemail');   
+
+        Route::post('accountprofilesecondemail', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'AccountProfileSecondEmailFormSubmit']);
+
+        Route::get('accountprofilesecondemailconfirmation', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'AccountProfileSecondEmailConfirmationForm'])->name('accountprofilesecondemailconfirmation');  
+
+        Route::post('accountprofilesecondemailconfirmation', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'AccountProfileSecondEmailConfirmationFormSubmit']);  
+
+    });
+
 });
 
 // Google URL

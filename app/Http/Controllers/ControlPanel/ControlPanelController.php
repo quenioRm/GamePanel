@@ -10,6 +10,10 @@ use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Lang;
 use Session;
 use App\Models\UserAvatar;
+use App\Models\UserAddInformation;
+use Illuminate\Validation\Rule;
+use Illuminate\Support\Facades\Redirect;
+use App\Models\UsersActivation;
 
 class ControlPanelController extends Controller
 {
@@ -34,7 +38,16 @@ class ControlPanelController extends Controller
     public function ProfileAccountFormSubmit(Request $request)
     {
         $validator = Validator::make($request->all(), [
-            'name' => 'required|unique:users|min:5|max:16|alpha_dash'
+            'name' => [
+                'required',
+                'min:5',
+                'max:16',
+                'alpha_dash',
+				Rule::unique('users')->ignore(Auth::user()->id)->where(function ($query) use ($request) {
+					return $query->where('name', $request['name']);
+				})
+            ],
+            'profileImageNo' => ''
         ], [], [
             'name' =>  Lang::get('messages.name'),
         ]);
@@ -43,7 +56,7 @@ class ControlPanelController extends Controller
             return redirect(route('controlpanel.profileaccount'))->withInput()->withErrors($validator->errors());
         }
 
-        $user = User::UpdateUsername($request['name']);
+        $user = User::UpdateProfile($request['name'], $request['profileImageNo']);
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
 
@@ -67,5 +80,86 @@ class ControlPanelController extends Controller
             return response()->json(['resultCode' => -1, 'resultMsg' => Lang::get('messages.uploadFailed'), 'returnUrl' => '' ], 400);
         }
         return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.uploadSuccess'), 'returnUrl' => '' ], 200);
+    }
+
+    public function AccountProfileInfoForm()
+    {
+        return view('controlpanel.pages.accountprofileinfo');
+    }
+
+    public function AccountProfileSecondEmailForm()
+    {
+        return view('controlpanel.pages.profilesecondemail');
+    }
+
+    public function AccountProfileSecondEmailFormSubmit(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => [
+                'required',
+                'string',
+                'email',
+                'max:255',
+                Rule::unique('users_profile_add')->ignore(Auth::user()->id)->where(function ($query) use ($request) {
+                    return $query->where('email', $request['email']);
+                })
+            ],
+        ], [], [
+            'email' =>  Lang::get('messages.email'),
+        ]);
+
+        if(!$validator->passes()){
+            return redirect(route('controlpanel.accountprofilesecondemail'))->withInput()->withErrors($validator->errors());
+        }
+
+        $user = UserAddInformation::MakeInformationAdd($request->email, null);
+        switch ($user['code']) {
+            case -1:
+                $validator->errors()->add('email', Lang::get('messages.controlPanelProfileSecondEmailMessage_2'));
+                return redirect(route('controlpanel.accountprofilesecondemail'))->withInput()->withErrors($validator->errors());
+                break;    
+        }
+
+        UsersActivation::MakeActivationCode($request);
+
+        Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
+        return redirect()->route('controlpanel.accountprofilesecondemailconfirmation', [
+            'email' => $user['data']->email
+        ]);
+        return redirect()->route('controlpanel.accountprofilesecondemailconfirmation', ['account', $user['data']]);
+    }
+
+    public function AccountProfileSecondEmailConfirmationForm()
+    {
+        return view('controlpanel.pages.profilesecondemailconfirmation');
+    }
+
+    public function AccountProfileSecondEmailConfirmationFormSubmit(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => [
+                'required',
+                'string',
+                'email',
+                'max:255',
+                Rule::unique('users_profile_add')->ignore(Auth::user()->id)->where(function ($query) use ($request) {
+                    return $query->where('email', $request['email']);
+                })
+            ],
+            'authKey' => 'required'
+        ], [], [
+            'email' =>  Lang::get('messages.email'),
+            'authKey' =>  Lang::get('messages.authKey'),
+        ]);
+
+        if(!$validator->passes()){
+            return redirect(route('controlpanel.accountprofilesecondemailconfirmation'))
+            ->withInput()->withErrors($validator->errors());
+        }
+
+        UserAddInformation::ConfirmEmail($request->email, $request->authKey);
+        Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
+
+        return redirect(route('controlpanel.profileaccount'));
     }
 }
