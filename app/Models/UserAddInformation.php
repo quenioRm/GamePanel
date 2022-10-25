@@ -26,6 +26,12 @@ class UserAddInformation extends Model
     {
         $userInfo = self::find(Auth::user()->id);
         if($userInfo){
+            if($phone_number == null && $userInfo->email != null)
+                return [
+                    'code' => -1,
+                    'data' =>  null
+                ];
+
             if($email != null)
                $userInfo->email = $email;
 

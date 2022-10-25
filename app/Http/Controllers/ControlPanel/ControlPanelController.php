@@ -162,4 +162,35 @@ class ControlPanelController extends Controller
 
         return redirect(route('controlpanel.profileaccount'));
     }
+
+    public function AccountProfileChangePasswordForm()
+    {
+        return view('controlpanel.pages.profilechangepassword');
+    }
+
+    public function AccountProfileChangePasswordFormSubmit(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'oldPassword' => 'required|min:8|max:20',
+            'password' => 'required|min:8|max:20',
+            'passwordCheck' => 'required|min:8|same:password'
+        ], [], [
+            'oldPassword' =>  Lang::get('messages.OPassword'),
+            'password' => Lang::get('messages.password'),
+            'passwordCheck' => Lang::get('messages.cPassword')
+        ]);
+
+        if(!$validator->passes())
+            return redirect(route('controlpanel.accountprofilechangepassword'))->withInput()->withErrors($validator->errors());
+
+        if(hash('sha512', $request['oldPassword']) != Auth::user()->password){
+            $validator->errors()->add('oldPassword', Lang::get('messages.OPasswordMessage'));
+            return redirect(route('controlpanel.accountprofilechangepassword'))->withInput()->withErrors($validator->errors());
+        }
+
+        User::ChangePassword($request->password);
+        
+        Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
+        return redirect(route('controlpanel.accountprofilechangepassword'));
+    }
 }

@@ -64,29 +64,47 @@ class LoginController extends Controller
 
         if(!$validator->passes()){
             $this->incrementLoginAttempts($request);
-            return redirect(route('login'))->withInput()->withErrors($validator->errors());
+
+            return $request->wantsJson()
+            ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+            : redirect(route('login'))->withInput()->withErrors($validator->errors());
         }
 
         ($request['isIpCheck'] == 'false' ? $request['isIpCheck'] = 0 : $request['isIpCheck']);
         $user = User::MakeLogin($request['email'], $request['password'], $request['isIpCheck'], $ip);
 
         switch ($user['code']) {
+            case -4:
+                $validator->errors()->add('email', Lang::get('messages.secondEmailIsNotActivated'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                : redirect(route('login'))->withInput()->withErrors($validator->errors());
+                break;
             case -3:
                 $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
-                return redirect(route('login'))->withInput()->withErrors($validator->errors());
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                : redirect(route('login'))->withInput()->withErrors($validator->errors());
                 break;
             case -2:
                 $validator->errors()->add('email', Lang::get('messages.userNotFound'));
-                return redirect(route('login'))->withInput()->withErrors($validator->errors());
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                : redirect(route('login'))->withInput()->withErrors($validator->errors());
                 break;
             case -1:
                 $validator->errors()->add('password', Lang::get('messages.incorrectPassword'));
-                return redirect(route('login'))->withInput()->withErrors($validator->errors());
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                : redirect(route('login'))->withInput()->withErrors($validator->errors());
                 break;
         }
 
         Auth::loginUsingId($user['data']->id);
-        return redirect()->route('controlpanel.panelaccountinfo');
+
+        return $request->wantsJson()
+        ? response()->json(['resultCode' => 0, 'resultMsg' => $user['data'], 'returnUrl' => '' ], 200)
+        : redirect()->route('controlpanel.panelaccountinfo');
     }
 
     /**

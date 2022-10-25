@@ -79,10 +79,10 @@
                                 </div>
                                 <div class="capslock_wrap">
                                     <button type="button" class="btn_capslock icn_svg icn_capslock js-btnCapslock hide">
-                                        <span class="blind">Caps Lock</span>
+                                        <span class="blind">{{__('messages.capsLock')}}</span>
                                     </button>
                                     <dl class="balloon_box js-capslockMsg">
-                                        <dd class="balloon_desc dot_hidden">O Caps Lock est&#225; ativado.</dd>
+                                        <dd class="balloon_desc dot_hidden">{{__('messages.capsLockMessage')}}</dd>
                                     </dl>
                                 </div>
                             </li>
@@ -164,16 +164,6 @@
 
         function facebooksLogin(){
             window.location.href = "{{route('facebook.login')}}"
-        }
-
-        // $('#isIpCheck').change(function(){
-        //     var checkboxValue = $(this).is(':checked');
-        //     alert(checkboxValue);
-        // });
-
-        function validateEmail($email) {
-            var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-            return emailReg.test( $email );
         }
     </script>
 @endpush

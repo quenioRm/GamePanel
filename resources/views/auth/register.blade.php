@@ -85,31 +85,32 @@
                   <div class="custom_inputBox">
                      <input
                          class="{{($errors->has('password') ? 'input-validation-error password_view' : 'active valid password_view')}}"
+                         id="password"
                          placeholder=""
+                         type="password"
                          autocomplete="off"
                          data-val="true"
-                         data-val-maxlength="{{__('messages.data-val-maxlength-100')}}"
+                         data-val-maxlength="{{__('messages.v')}}"
                          data-val-maxlength-max="100"
-                         data-val-minlength="{{__('messages.data-val-minlength-8')}}"
+                         data-val-minlength="{{__('messages.data-val-minlength')}}"
                          data-val-minlength-min="8"
-                         data-val-regex="{{__('messages.data-val-minlength')}}"
-                         data-val-regex-pattern="(?!(?=.*&amp;#))(((?=.*[a-z])(?=.*[A-Z]))|((?=.*[a-z])(?=.*[0-9]))|((?=.*[a-z])(?=.*[!@#$%^&amp;*()_+=~-]))|((?=.*[A-Z])(?=.*[0-9]))|((?=.*[A-Z])(?=.*[!@#$%^&amp;*()_+=~-]))|((?=.*[0-9])(?=.*[!@#$%^&amp;*()_+=~-]))|((?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&amp;*()_+=~-]))|((?=.*[a-z])(?=.*[0-9])(?=.*[!@#$%^&amp;*()_+=~-]))|((?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&amp;*()_+=~-]))|((?=.*[a-z])(?=.*[A-Z])(?=.*[0-9]))|((?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&amp;*()_+=~-])))(^[a-zA-Z0-9!@#$%^&amp;*()_+=~-]{0,}$)"
-                         data-val-required="Favor digitar a sua senha."
-                         icon="icnpassword_view js-passShow js-notSyncValidate"
-                         id="password"
+                         data-val-required="{{__('messages.data-val-required')}}"
+                         icon="icn_password_view js-passShow"
                          labelName="Senha"
                          name="password"
-                         type="password"
+                         type="text"
                          value=""
                      />
-                     <label for="password"><span>{{__('messages.password')}}</span></label><span class="custom_line"></span><i class="pi icnpassword_view js-passShow js-notSyncValidate"></i>
+                     <label for="password"><span>{{__('messages.password')}}</span></label><span class="custom_line"></span><i class="pi icn_password_view js-passShow"></i>
                  </div>
-                 <div class="input_validate error"><span class="{{($errors->has('password') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="password" data-valmsg-replace="true">
-                     @if ($errors->has('password'))
-                        <span class="">{{$errors->first('password')}}</span>
-                     @endif
+                 <div class="input_validate error">
+                     <span class="{{($errors->has('password') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="password" data-valmsg-replace="true">
+                        @if ($errors->has('password'))
+                           <span class="">{{$errors->first('password')}}</span>
+                        @endif
                      </span>
-                  </div>                </div>
+                  </div>                
+               </div>
                 <dl class="balloon_box">
                    <dd class="balloon_desc dot_hidden">{{__('messages.passwordMessageOne')}}</dd>
                 </dl>
@@ -124,31 +125,35 @@
                       <dd class="balloon_desc dot_hidden">{{__('messages.capsLockMessage')}}</dd>
                    </dl>
                 </div>
-                <div class="custom_input label ">
+
+                <div class="custom_input label">
                   <div class="custom_inputBox">
-                     <input
-                         class="{{($errors->has('passwordCheck') ? 'input-validation-error password_view' : 'password_view')}}"
-                         placeholder=""
-                         autocomplete="off"
-                         data-val="true"
-                         data-val-equalto="{{__('messages.cPassworddata-val-equalto')}}"
-                         data-val-equalto-other="*.password"
-                         icon="icnpassword_view js-passShow js-notSyncValidate"
-                         id="passwordCheck"
-                         labelName="Confirmação de Senha"
-                         name="passwordCheck"
-                         type="password"
-                         value=""
-                     />
-                     <label for="passwordCheck"><span>{{__('messages.cPassword')}}</span></label><span class="custom_line"></span><i class="pi icnpassword_view js-passShow js-notSyncValidate"></i>
-                 </div>
-                 <div class="input_validate error"><span class="{{($errors->has('passwordCheck') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="passwordCheck" data-valmsg-replace="true">
-                     @if ($errors->has('passwordCheck'))
-                        <span class="">{{$errors->first('passwordCheck')}}</span>
-                     @endif
-                     </span>
-                  </div>                   
-                </div>
+                        <input
+                           class="{{($errors->has('passwordCheck') ? 'input-validation-error password_view' : 'password_view valid')}}"
+                           placeholder=""
+                           autocomplete="off"
+                           data-val="true"
+                           data-val-equalto="{{__('messages.cPassworddata-val-equalto')}}"
+                           data-val-equalto-other="*._password"
+                           icon="icn_password_view js-passShow js-notSyncValidate"
+                           id="passwordCheck"
+                           labelname="Confirmação de Senha"
+                           name="passwordCheck"
+                           type="password"
+                           value=""
+                           aria-describedby="passwordCheck-error"
+                           aria-invalid="false"
+                        />
+                        <label for="passwordCheck"><span>{{__('messages.cPassword')}}</span></label><span class="custom_line" style="width: 140.4px; left: 16.8px;"></span><i class="pi icn_password_view js-passShow js-notSyncValidate" title="Exibir Senha"></i>
+                     </div>
+                     <div class="input_validate error">
+                     <span class="{{($errors->has('passwordCheck') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="passwordCheck" data-valmsg-replace="true">
+                        @if ($errors->has('passwordCheck'))
+                           <span class="">{{$errors->first('passwordCheck')}}</span>
+                        @endif
+                        </span>
+                     </div> 
+               </div>
              </div>
 
              <div class="input_margin">

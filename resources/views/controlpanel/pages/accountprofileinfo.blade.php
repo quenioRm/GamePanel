@@ -50,7 +50,7 @@
                         <td class="title"><span class="text_gray">Última Alteração : 09/04/2021 (UTC)</span></td>
                         <td class="align_right">
                             <div class="btn_wrap">
-                                <a href="/Account/Password?_returnUrl=https://account.pearlabyss.com/pt-BR/Account/MyInfo" class="btn btn_gray btn_sml"><span>Alterar Senha</span></a>
+                                <a href="{{route('controlpanel.accountprofilechangepassword')}}" class="btn btn_gray btn_sml"><span>Alterar Senha</span></a>
                             </div>
                         </td>
                     </tr>
@@ -91,7 +91,7 @@
                         </td>
                     </tr>
 
-                    <tr>
+                    {{-- <tr>
                         <th scope="row">Celular</th>
                         <td class="title">
                             <p>Favor registrar o número de celular.</p>
@@ -105,7 +105,8 @@
                                 </a>
                             </div>
                         </td>
-                    </tr>
+                    </tr> --}}
+
                 </tbody>
             </table>
         </div>

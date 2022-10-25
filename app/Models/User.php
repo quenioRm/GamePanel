@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Mail;
 use App\Mail\MailResetPassword;
 use App\Models\UserResetPasswordLog;
 use Illuminate\Support\Facades\Auth;
+use App\Models\UserAddInformation;
 
 class User extends Authenticatable
 {
@@ -93,7 +94,21 @@ class User extends Authenticatable
 
     public static function MakeLogin($email, $password, $isIpCheck, $ip)
     {
-        $user = self::where('email', $email)->first();
+        $user = null;
+        $userSecondEmail = UserAddInformation::where('email', $email)->first();
+        if($userSecondEmail){
+            if($userSecondEmail->emailIsChecked == 0)
+                return [
+                    'code' => -4,
+                    'data' => null
+                ]; 
+            
+            $user = self::find($userSecondEmail->user_id);
+
+        }else{
+            $user = self::where('email', $email)->first();
+        }
+        
         if($user){
 
             if($user->isBlockEmailDomain == 1)
@@ -206,5 +221,17 @@ class User extends Authenticatable
             'data' => null,
             'code' => -1
         ];
+    }
+
+    public static function ChangePassword($password)
+    {
+        $user = self::find(Auth::user()->id);
+        if($user){
+            $user->password = hash('sha512', $password);
+            $user->save();
+
+            return 0;
+        }
+        return -1;
     }
 }

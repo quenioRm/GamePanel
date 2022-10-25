@@ -113,6 +113,8 @@
         <script src="{{asset('assets/js/jquery.inputmask.bundle.js')}}"></script>
         <script src="{{asset('assets/js/select2.min.js')}}"></script>
         <script src="{{asset('assets/js/sweetalert2.all.min.js')}}"></script>
+        <script src="{{asset('assets/js/global.js')}}"></script>
+
     
         @stack('scripts')
 

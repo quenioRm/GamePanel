@@ -4,6 +4,7 @@ return [
     'email' => 'E-mail',
     'password' => 'Senha',
     'cPassword' => 'Confirmação de Senha',
+    'OPassword' => 'Senha anterior',
     'name' => 'Nome',
     'birth' => 'Data de Nascimento',
     'nation' => 'Região',
@@ -83,5 +84,10 @@ return [
     'controlPanelProfileBtnSave' => 'Salvar Perfil',
     'accountInfoUpdateSucess' => 'Informação atualizada com sucesso.',
     'uploadSuccess' => 'Arquivo enviado com sucesso.',
-    'uploadFailed' => 'Falha ao enviar o arquivo.'
+    'uploadFailed' => 'Falha ao enviar o arquivo.',
+    'secondEmailIsNotActivated' => 'O e-mail secundário ainda não foi ativado',
+    'OPasswordMessage' => 'A senha informada não e igual a anterior.',
+    'controlPanelProfileChangePasswordTitle' => 'Alterar Senha',
+    'controlPanelProfileChangePasswordTitle2' => 'Nova Senha',
+    'controlPanelProfileChangePasswordMessage' => 'Quer alterar sua senha?'
 ];

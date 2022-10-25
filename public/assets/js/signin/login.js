@@ -20,9 +20,9 @@ window._abyss = window._abyss || {}, window._abyss.login = function(e, p) {
 			l = p(".js-tabContents"),
 			u = p(".js-passShow");
 
-		function d() {
-			s.offset().left + i.position().left < p(window).width() - a.outerWidth() - 7 ? a.css("left", i.position().left - 1) : a.css("left", p(window).width() - a.outerWidth() - 7 - s.offset().left), r.css("left", i.position().left - a.position().left + .2 * i.width() - .5 * r.width())
-		}
+		// function d() {
+		// 	s.offset().left + i.position().left < p(window).width() - a.outerWidth() - 7 ? a.css("left", i.position().left - 1) : a.css("left", p(window).width() - a.outerWidth() - 7 - s.offset().left), r.css("left", i.position().left - a.position().left + .2 * i.width() - .5 * r.width())
+		// }
 		window.onpageshow = function(e) {
 			(e.persisted || window.performance && 2 == window.performance.navigation.type) && _abyss.btnLoaderAction("#btnLogin", !0)
 		}, p("#_email").focus(), c.on("click", function() {
@@ -45,10 +45,6 @@ window._abyss = window._abyss || {}, window._abyss.login = function(e, p) {
 			a.addClass("on")
 		}), i.on("mouseleave", function() {
 			a.removeClass("on")
-		}), d(), p(window).on("resize", function() {
-			clearTimeout(o), o = setTimeout(function() {
-				d()
-			}, 10)
 		}), window.addEventListener("load", function() {
 			setTimeout(function() {
 				1 < p("input:-webkit-autofill").length && _abyss.btnLoaderAction("#btnLogin", !0)

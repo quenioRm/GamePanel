@@ -8,7 +8,7 @@
 <form id="frmAuthMailSend" method="post" action="{{route('controlpanel.accountprofilesecondemailconfirmation')}}">
     @csrf
     <input data-val="true" name="email" type="hidden" value="{{request()->email}}" />
-    <h2 class="line">Autenticar E-mail</h2>
+    <h2 class="line">{{__('messages.btncontrolPanelProfileSecondEmail')}}</h2>
     <div class="icon_box">
         <span class="icon">
             <i class="pi pi_icon_email"></i>

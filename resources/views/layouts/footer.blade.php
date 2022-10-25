@@ -27,8 +27,8 @@
         <div class="copyright">
             <div class="footer_item">
                 <a href="" target="_blank" class="btn_pearlabyss" aria-label="{{env('WEB_NAME')}}">{{env('WEB_NAME')}}</a>
-                <span style="color: gray;left:-50px; position: relative;">{{env('WEB_NAME')}}</span>
-                <p style="left:-60px; position: relative;">&copy; </span> Corp. All Rights Reserved.</p>
+                <span id="footerSpan1" style="color: gray;left:-50px; position: relative;">{{env('WEB_NAME')}}</span>
+                <p id="pSpan1" style="left:-60px; position: relative;">&copy; </span> Corp. All Rights Reserved.</p>
             </div>
         </div>
     </div>

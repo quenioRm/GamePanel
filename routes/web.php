@@ -63,6 +63,13 @@ Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
         Route::post('accountprofilesecondemailconfirmation', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
         'AccountProfileSecondEmailConfirmationFormSubmit']);  
 
+        // Profile Change Password
+        Route::get('accountprofilechangepassword', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'AccountProfileChangePasswordForm'])->name('accountprofilechangepassword');   
+
+        Route::post('accountprofilechangepassword', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'AccountProfileChangePasswordFormSubmit']); 
+
     });
 
 });
