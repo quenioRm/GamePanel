@@ -27,12 +27,12 @@
                         <span class="blind">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
                     </a>
                 </span>
-                <a href="/Account/MyInfo/ProfileAccount" class="btn_more">
+                <a href="{{route('controlpanel.profileaccount')}}" class="btn_more">
                     <span class="blind" id="profileNameSetup">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
                     <i class="pi pi_dash_more_white"></i>
                 </a>
-                <a href="/Account/MyInfo/ProfileAccount" class="nickname" aria-labelledby="profileNameSetup">{{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}}</a>
-                <a href="/Account/MyInfo/ProfileAccount" class="date" aria-labelledby="profileNameSetup">{{__('messages.controlPanelAccountInfoMemberSince')}} 
+                <a href="{{route('controlpanel.profileaccount')}}" class="nickname" aria-labelledby="profileNameSetup">{{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}}</a>
+                <a href="{{route('controlpanel.profileaccount')}}" class="date" aria-labelledby="profileNameSetup">{{__('messages.controlPanelAccountInfoMemberSince')}} 
                     {{date('d/m/Y', strtotime(Auth::user()->created_at))}}</a>
             </div>
             <div class="deshboard">
@@ -78,11 +78,11 @@
                     <div class="desh_box account">
                         <div class="desh_title">
                             <a href="{{route('controlpanel.accountprofileinfo')}}" class="btn_more">
-                                <span class="blind" id="accountMyInfo">Informações Pessoais</span>
+                                <span class="blind" id="accountMyInfo">{{__('messages.controlPanelProfilePersonal')}}</span>
                                 <i class="pi pi_dash_more"></i>
                             </a>
                             <span class="pi pi_dash_account"></span>
-                            <h3 class="title">Conta</h3>
+                            <h3 class="title">{{__('messages.account')}}</h3>
                         </div>
                         <div class="desh_content account_wrap">
                             <a href="{{route('controlpanel.accountprofileinfo')}}" class="email" aria-labelledby="accountMyInfo">{{Auth::user()->email}}</a>

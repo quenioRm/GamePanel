@@ -16,7 +16,6 @@ use App\Models\UserPasswordChangeLog;
 use Illuminate\Validation\Rule;
 use App\Models\UsersActivation;
 use App\Models\UserLoginAccountLog;
-use Location;
 
 class ControlPanelController extends Controller
 {

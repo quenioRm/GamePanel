@@ -105,5 +105,9 @@ return [
     'LoginHistory' => 'Histórico de Login',
     'LoginRecent' => 'Login Recente',
     'connected' => 'Conectado',
-    'ipProtectLockedMessage' => 'Este ip não está autorizado, recupere sua conta.'
+    'ipProtectLockedMessage' => 'Este ip não está autorizado, recupere sua conta.',
+    'account' => 'Conta',
+    'privacyPolicy' => 'Política de Privacidade',
+    'customerService' => 'Atendimento ao Cliente',
+    'parentalControl' => 'Controle Parental'
 ];

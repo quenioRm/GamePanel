@@ -17,12 +17,12 @@
         <div class="term_list">
             <a href="#" class="term_item" target="_blank">
                 <strong>
-                    Pol&#237;tica de Privacidade
+                    {{__('messages.privacyPolicy')}}
                 </strong>
             </a>
 
-            <a href="#" class="term_item" target="_blank">Atendimento ao Cliente</a>
-            <a href="#" class="term_item" target="_blank">Controle Parental</a>
+            <a href="#" class="term_item" target="_blank">{{__('messages.customerService')}}</a>
+            <a href="#" class="term_item" target="_blank">{{__('messages.parentalControl')}}</a>
         </div>
         <div class="copyright">
             <div class="footer_item">
