@@ -70,6 +70,10 @@ Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
         Route::post('accountprofilechangepassword', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
         'AccountProfileChangePasswordFormSubmit']); 
 
+        // Update Account IP
+        Route::get('accountprotectaccountbyip/{isIpCheck}', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'ProtectAccountByIp'])->name('accountprotectaccountbyip'); 
+
     });
 
 });

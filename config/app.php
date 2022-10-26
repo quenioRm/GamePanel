@@ -198,6 +198,7 @@ return [
         Laravel\Socialite\SocialiteServiceProvider::class,
 
         'Intervention\Image\ImageServiceProvider',
+        Stevebauman\Location\LocationServiceProvider::class,
 
     ],
 
@@ -217,7 +218,8 @@ return [
 
         'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 
-        'Image' => 'Intervention\Image\Facades\Image'
+        'Image' => 'Intervention\Image\Facades\Image',
+        'Location' => 'Stevebauman\Location\Facades\Location',
     ])->toArray(),
 
 ];

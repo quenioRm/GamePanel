@@ -24,11 +24,11 @@
                 <span class="character icon_character_area">
                     <a href="{{route('controlpanel.profileaccount')}}" class="icon_character" style="background-image: 
                     url({{(Auth::user()->avatar == '' ? asset('img/noavatar.png') : asset('storage/user/avatar/' . Auth::user()->id .'/'. Auth::user()->avatar))}});">
-                        <span class="blind">Perfil Pearl Abyss</span>
+                        <span class="blind">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
                     </a>
                 </span>
                 <a href="/Account/MyInfo/ProfileAccount" class="btn_more">
-                    <span class="blind" id="profileNameSetup">Perfil Pearl Abyss</span>
+                    <span class="blind" id="profileNameSetup">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
                     <i class="pi pi_dash_more_white"></i>
                 </a>
                 <a href="/Account/MyInfo/ProfileAccount" class="nickname" aria-labelledby="profileNameSetup">{{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}}</a>
@@ -77,7 +77,7 @@
                 <div class="desh_right">
                     <div class="desh_box account">
                         <div class="desh_title">
-                            <a href="/Account/MyInfo" class="btn_more">
+                            <a href="{{route('controlpanel.accountprofileinfo')}}" class="btn_more">
                                 <span class="blind" id="accountMyInfo">Informações Pessoais</span>
                                 <i class="pi pi_dash_more"></i>
                             </a>
@@ -85,19 +85,24 @@
                             <h3 class="title">Conta</h3>
                         </div>
                         <div class="desh_content account_wrap">
-                            <a href="/Account/MyInfo" class="email" aria-labelledby="accountMyInfo">alefe_pimp@hotmail.com</a>
-                            <p class="date_change">Senha alterada em 09/04/2021 (UTC)</p>
-                            <a href="/Account/Password?_returnUrl=https://account.pearlabyss.com/pt-BR/Account/MyInfo" class="btn_normal">Alterar Senha</a>
+                            <a href="{{route('controlpanel.accountprofileinfo')}}" class="email" aria-labelledby="accountMyInfo">{{Auth::user()->email}}</a>
+                            
+                            @if (isset($lastpasswordhange->created_at))
+                            <p class="date_change">{{__('messages.changedPasswordAt')}}  {{$lastpasswordhange->created_at->format('d/m/y H:i:s')}}</p>
+                            @endif
+                            <a href="{{route('controlpanel.accountprofilechangepassword')}}" class="btn_normal">
+                                {{__('messages.controlPanelProfileChangePasswordTitle')}}</a>
                         </div>
                     </div>
+                    @if (isset($ip))
                     <div class="desh_box logged">
                         <div class="desh_title">
                             <a href="/Account/MyInfo/Logging/" class="btn_more">
-                                <span class="blind">Histórico de Login</span>
+                                <span class="blind">{{__('messages.LoginHistory')}}</span>
                                 <i class="pi pi_dash_more"></i>
                             </a>
                             <p class="pi pi_dash_logged"></p>
-                            <h3 class="title">Login Recente</h3>
+                            <h3 class="title">{{__('messages.LoginRecent')}}</h3>
                         </div>
                         <div class="desh_content logged_wrap">
                             <div class="item active">
@@ -105,41 +110,77 @@
                                 <span class="dot dot2"></span>
                                 <span class="dot dot3"></span>
                                 <span class="bullet"></span>
+                                
                                 <p class="logged_place">
-                                    Marau, Brazil
+                                    {{$ip->cityName}} - {{$ip->regionCode}}, {{$ip->countryName}}
+                                    
                                 </p>
                                 <p class="logged_time">
-                                    Conectado
+                                    {{__('messages.connected')}}
                                 </p>
+                                <br>
+                                    <p>
+                                        <li class="toggle_wrap">
+                                            <div class="custom_toggle js-ipToggleWrap">
+                                                <input
+                                                    class="custom_toggle_input"
+                                                    Icon=""
+                                                    placeholder=""
+                                                    {{(Auth::user()->isIpCheck == 0 ? '' : 'checked')}}
+                                                    data-val="true"
+                                                    data-val-required="The isIpCheck field is required."
+                                                    id="isIpCheck"
+                                                    labelName="{{__('messages.ip-sec')}}"
+                                                    name="isIpCheck"
+                                                    type="checkbox"
+                                                    value="{{(Auth::user()->isIpCheck == 0 ? 'false' : 'true')}}"
+                                                    wrapClass="js-ipToggleWrap"
+                                                />
+                                                <label for="isIpCheck" class="custom_toggle_label">{{__('messages.ip-sec')}}</label>
+                                                <label for="isIpCheck" class="custom_toggle_button"></label>
+                                            </div>
+                                            <dl class="balloon_box js-balloon">
+                                                <dt class="balloon_square"></dt>
+                                                <dt class="balloon_title">{{__('messages.what-ip-sec')}}</dt>
+                                                <dd class="balloon_desc dot_hidden">
+                                                    {{__('messages.ip-security-message')}}
+                                                </dd>
+                                            </dl>
+                                        </li>
+                                    </p>
                             </div>
                             <div class="item">
                                 <span class="dot dot1"></span>
                                 <span class="dot dot2"></span>
                                 <span class="dot dot3"></span>
                                 <span class="bullet"></span>
+                                @if (isset($ip))
                                 <p class="logged_place">
-                                    Marau, Brazil
+                                    {{$ip->cityName}} - {{$ip->regionCode}}, {{$ip->countryName}}
                                 </p>
                                 <p class="logged_time">
-                                    23/10/2022 (UTC)
+                                    {{$ip->created_at->format('d/m/y H:i:s')}}
                                 </p>
+                                @endif
                             </div>
                         </div>
                     </div>
+                    @endif
                     <div class="desh_box secure">
                         <div class="desh_title">
                             <span class="pi pi_dash_secure"></span>
-                            <h3 class="title">Segurança</h3>
+                            <h3 class="title">{{__('messages.security')}}</h3>
                         </div>
                         <div class="desh_content">
                             <ul class="secure_list">
-                                <li class="item">
+                                {{-- <li class="item">
                                     <a href="/Account/Otp" class="title">Configurações de OTP</a>
                                     <span class="btn_secure disabled"><i class="icn_svg security_check gray"></i></span>
-                                </li>
+                                </li> --}}
                                 <li class="item">
-                                    <a href="/Account/MyInfo" class="title">E-mail Secundário</a>
-                                    <span class="btn_secure disabled"><i class="icn_svg security_check gray"></i></span>
+                                    <a href="{{route('controlpanel.accountprofilesecondemail')}}" class="title">{{__('messages.accountprofileMessage4')}}</a>
+                                    <span class="btn_secure {{(!isset(Auth::user()->userinformationadd[0]->email) ? 'disabled' : '')}}">
+                                    <i class="icn_svg security_check {{(!isset(Auth::user()->userinformationadd[0]->email) ? 'gray' : '')}}"></i></span>
                                 </li>
                             </ul>
                         </div>
@@ -151,10 +192,70 @@
 @push('scripts')
 <script src="{{asset('assets/js/accountinfo/mypage.js?v=638016825217184276')}}"></script>
 <script src="{{asset('assets/js/accountinfo/dashboard.js?v=638016825217184276')}}"></script>
+<script src="{{asset('assets/js/signin/login.js?v=638016825217184276')}}"></script>
+                    
+<script>
+    $(document).ready(function () {
+        _abyss.login.loginInit();
+    });
+</script>
 
 <script>
     $(document).ready(function () {
         _abyss.dashboard.init();
+    });
+</script>
+
+<script>
+    $('#isIpCheck').change(function() {
+
+        $('#isIpCheck').val(this.checked);  
+        
+            // if(this.checked) {
+            //     var returnVal = confirm("Are you sure?");
+            //     $(this).prop("checked", returnVal);
+            // }
+            // $('#isIpCheck').val(this.checked);  
+
+            // console.log(this.value)
+
+            var url = '{{ route("controlpanel.accountprotectaccountbyip", ":isIpCheck") }}';
+            url = url.replace(':isIpCheck', this.value);
+        
+            $.ajax({
+                url: url,
+                type: 'get',
+                contentType: false,
+                processData: false,
+                success: function(response){
+                    Swal.fire({
+                        position: 'center',
+                        icon: 'success',
+                        // background: '#fff',
+                        title: response.resultMsg,
+                        showConfirmButton: false,
+                        timer: 6500
+                    })
+                },
+                error: function (jqXHR, exception) {
+                    Swal.fire({
+                        position: 'center',
+                        icon: 'error',
+                        title: jqXHR.resultMsg,
+                        showConfirmButton: false,
+                        timer: 6500
+                    })
+                }
+            });
+        });
+
+    $('#isIpCheck2').change(function () {
+
+        console.log($('#isIpCheck').val())
+
+        return
+
+        
     });
 </script>
 

@@ -77,3 +77,15 @@
     transition: opacity .25s;
     color: white; 
  }
+
+.columnX {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.rowX:after {
+  content: "";
+  display: table;
+  clear: both;
+}

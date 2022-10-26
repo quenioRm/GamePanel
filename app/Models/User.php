@@ -16,6 +16,7 @@ use App\Models\UserResetPasswordLog;
 use Illuminate\Support\Facades\Auth;
 use App\Models\UserAddInformation;
 use App\Models\UserPasswordChangeLog;
+use Location;
 
 class User extends Authenticatable
 {
@@ -109,12 +110,26 @@ class User extends Authenticatable
                 ]; 
             
             $user = self::find($userSecondEmail->user_id);
-
-        }else{
+        }else
             $user = self::where('email', $email)->first();
-        }
-        
+
         if($user){
+
+            if(env('APP_DEBUG') == true){
+                $ip = "177.137.4.237";
+                $iplog = Location::get('177.137.4.237');
+            } 
+            else
+                $iplog = Location::get($ip);
+
+            $checkIpProtect = UserIpProtect::CheckIpProtect($user->email, $ip);
+            if($checkIpProtect == -1 && $user->isIpCheck == 1)
+                return [
+                    'code' => -5,
+                    'data' => null
+                ];
+
+            UserLoginAccountLog::MakeLog($user->id, $iplog);
 
             if($user->isBlockEmailDomain == 1)
                 return [
@@ -128,7 +143,7 @@ class User extends Authenticatable
                     'data' => null
                 ];
 
-            $user->isIpCheck = $isIpCheck;
+            //$user->isIpCheck = $isIpCheck;
             $user->ip = $ip;
             $user->save();
             
@@ -186,9 +201,15 @@ class User extends Authenticatable
                     'code' => -1,
                     'data' => null
                 ];
-
+ 
+            $user->isIpCheck = 0;
             $user->password = hash('sha512', $password);
             $user->save();
+
+            $userSecondEmail = UserAddInformation::where('user_id', $user->id)->first();
+            if($userSecondEmail)
+                Mail::to($userSecondEmail->email)->send(new MailResetPassword($password));
+            
             
             Mail::to($user->email)->send(new MailResetPassword($password));
 
@@ -237,6 +258,19 @@ class User extends Authenticatable
 
             UserPasswordChangeLog::MakeLog();
 
+            return 0;
+        }
+        return -1;
+    }
+
+    public static function SetIpCheck($isIpCheck)
+    {
+        $user = self::find(Auth::user()->id)->first();
+        if($user){
+            $user->isIpCheck = $isIpCheck;
+            $user->save();
+
+            UserIpProtect::SetIpProtect($isIpCheck);
             return 0;
         }
         return -1;

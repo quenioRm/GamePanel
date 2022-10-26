@@ -15,7 +15,8 @@ use App\Models\UserAddInformation;
 use App\Models\UserPasswordChangeLog;
 use Illuminate\Validation\Rule;
 use App\Models\UsersActivation;
-use Illuminate\Support\Facades\Config;
+use App\Models\UserLoginAccountLog;
+use Location;
 
 class ControlPanelController extends Controller
 {
@@ -27,7 +28,12 @@ class ControlPanelController extends Controller
     public function AccountInfoForm()
     {
         Auth::user()->load('userinformationadd');
-        return view('controlpanel.pages.accountinfo');
+
+        return view('controlpanel.pages.accountinfo', 
+        [
+            'lastpasswordhange' => UserPasswordChangeLog::FindLastChange(),
+            'ip' => UserLoginAccountLog::GetLastLog()
+        ]);
     }
 
     public function ProfileAccountForm()
@@ -91,8 +97,6 @@ class ControlPanelController extends Controller
 
     public function AccountProfileInfoForm()
     {
-        
-        // dd(Auth::user()->with('userinformationadd')->get()->toArray());
         return view('controlpanel.pages.accountprofileinfo',        
         [
             'accountregion' => Countries::GetCountrie(),
@@ -205,5 +209,17 @@ class ControlPanelController extends Controller
         
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
         return redirect(route('controlpanel.accountprofilechangepassword'));
+    }
+
+    public function ProtectAccountByIp($isIpCheck)
+    {
+        ($isIpCheck == "false" ? $isIpCheck = 0 : $isIpCheck = 1);
+        
+        $user = User::SetIpCheck($isIpCheck);
+        if($user == 0)
+            return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountInfoUpdateSucess'), 'returnUrl' => '' ], 200);
+        
+        return response()->json(['resultCode' => -1002, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
+        'returnUrl' => '' ], 400);
     }
 }

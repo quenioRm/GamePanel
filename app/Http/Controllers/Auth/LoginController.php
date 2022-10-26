@@ -74,6 +74,12 @@ class LoginController extends Controller
         $user = User::MakeLogin($request['email'], $request['password'], $request['isIpCheck'], $ip);
 
         switch ($user['code']) {
+            case -5:
+                $validator->errors()->add('email', Lang::get('messages.ipProtectLockedMessage'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                : redirect(route('login'))->withInput()->withErrors($validator->errors());
+                break;
             case -4:
                 $validator->errors()->add('email', Lang::get('messages.secondEmailIsNotActivated'));
                 return $request->wantsJson()

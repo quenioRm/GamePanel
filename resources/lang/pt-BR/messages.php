@@ -68,7 +68,7 @@ return [
     'isBlockedAccount' => 'A conta se encontra bloqueada',
     'btnReset' => 'Resetar',
     'resetPasswordTimeElapsed' => 'Você deve aguardar uma hora para solicitar uma nova senha',
-    'resetPasswordMessage' => 'A nova senha foi enviada ao e-mail solicitado.',
+    'resetPasswordMessage' => 'A nova senha foi enviada ao seu e-mail principal, caso tenha cadastrado um e-mail secundário, a nova senha também foi enviada a ele.',
     'controlPanelAccountInfo' => 'Informações da conta',
     'controlPanelAccountInfoMemberSince' => 'Membro desde ',
     'controlPanelProfileSecondEmail' => 'E-mail Adicional',
@@ -99,5 +99,11 @@ return [
     'accountprofileMessage6' => '* É possível acessar a conta usando o e-mail secundário.',
     'accountprofileMessage7' => 'Adicionar E-mail',
     'accountprofileMessage8' => 'Última Alteração :',
-    'unavailable' => 'Indisponível'
+    'unavailable' => 'Indisponível',
+    'changedPasswordAt' => 'Senha alterada em',
+    'security' => 'Segurança',
+    'LoginHistory' => 'Histórico de Login',
+    'LoginRecent' => 'Login Recente',
+    'connected' => 'Conectado',
+    'ipProtectLockedMessage' => 'Este ip não está autorizado, recupere sua conta.'
 ];
