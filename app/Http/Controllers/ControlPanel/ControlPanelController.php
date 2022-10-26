@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\ControlPanel;
 
 use App\Http\Controllers\Controller;
+use App\Models\Countries;
 use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
@@ -11,9 +12,10 @@ use Illuminate\Support\Facades\Lang;
 use Session;
 use App\Models\UserAvatar;
 use App\Models\UserAddInformation;
+use App\Models\UserPasswordChangeLog;
 use Illuminate\Validation\Rule;
-use Illuminate\Support\Facades\Redirect;
 use App\Models\UsersActivation;
+use Illuminate\Support\Facades\Config;
 
 class ControlPanelController extends Controller
 {
@@ -24,7 +26,8 @@ class ControlPanelController extends Controller
 
     public function AccountInfoForm()
     {
-        return view('controlpanel.pages.accountinfo', ['account' => User::find(Auth::user()->id)]);
+        Auth::user()->load('userinformationadd');
+        return view('controlpanel.pages.accountinfo');
     }
 
     public function ProfileAccountForm()
@@ -32,7 +35,11 @@ class ControlPanelController extends Controller
         // $data = User::find(Auth::user()->id)->with('useravatar');
         $data = User::where('id', Auth::user()->id)->with('useravatar')->get();
         // dd($data->toArray());
-        return view('controlpanel.pages.profileaccount', ['account' => $data->toArray()]);
+        return view('controlpanel.pages.profileaccount', 
+        [
+            'account' => $data->toArray(),
+            'lastpasswordhange' => UserPasswordChangeLog::FindLastChange()
+        ]);
     }
 
     public function ProfileAccountFormSubmit(Request $request)
@@ -84,7 +91,13 @@ class ControlPanelController extends Controller
 
     public function AccountProfileInfoForm()
     {
-        return view('controlpanel.pages.accountprofileinfo');
+        
+        // dd(Auth::user()->with('userinformationadd')->get()->toArray());
+        return view('controlpanel.pages.accountprofileinfo',        
+        [
+            'accountregion' => Countries::GetCountrie(),
+            'lastpasswordhange' => UserPasswordChangeLog::FindLastChange()
+        ]);
     }
 
     public function AccountProfileSecondEmailForm()

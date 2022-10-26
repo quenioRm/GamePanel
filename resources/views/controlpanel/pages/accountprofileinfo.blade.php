@@ -7,12 +7,12 @@
         <input class="" icon="" labelname="" placeholder="" data-val="true" data-val-required="Favor selecionar a região." id="hdNationCode" name="_nationCode" type="hidden" value="BR" />
         <span class="field-validation-valid" data-valmsg-for="_nationCode" data-valmsg-replace="true"></span>
         <input class="" icon="" labelname="" placeholder="" id="hdUnInterestedGameStr" name="_unInterestedGameStr" type="hidden" value="" />
-        <h2 class="line">Informações Pessoais</h2>
+        <h2 class="line">{{__('messages.accountprofileTitle')}}</h2>
         <div class="box_my_account my_account_info">
             <table class="tbl_row_type">
                 <caption>
-                    Minhas informações
-                    <p>e-mail, senha, nome, data de nascimento</p>
+                    {{__('messages.accountprofileMessage')}}
+                    <p>{{__('messages.accountprofileMessage2')}}</p>
                 </caption>
                 <colgroup>
                     <col style="width: 20%;" class="mob_col1" />
@@ -26,31 +26,49 @@
                         <td class="align_right">
                             <span class="icon_essentail">
                                 <i class="icn_svg circle_bang"></i>
-                                E-mail Padrão
+                                {{__('messages.accountprofileMessage3')}}
                             </span>
                         </td>
                     </tr>
                     <tr class="add_email_area">
-                        <th rowspan="2" class="no_line" scope="row">E-mail Secundário</th>
-                        <td colspan="2" class="title no_line">
-                            <p>Favor adicionar um e-mail secundário.</p>
-                            <p class="email_text text_gray">* É possível acessar a conta usando o e-mail secundário.</p>
-                        </td>
+                        @if (isset(Auth::user()->userinformationadd[0]->email))
+                            <th scope="row">{{__('messages.accountprofileMessage4')}}</th>
+                            <td class="title">{{Auth::user()->userinformationadd[0]->email}}</td>
+                            <td class="align_right">
+                                <span class="icon_essentail">
+                                    <i class="icn_svg circle_bang"></i>
+                                    {{__('messages.accountprofileMessage4')}}
+                                </span>
+                            </td>
+                        @else
+                            <th rowspan="2" class="no_line" scope="row">{{__('messages.accountprofileMessage4')}}</th>
+                            <td colspan="2" class="title no_line">
+                                <p>{{__('messages.accountprofileMessage5')}}</p>
+                                <p class="email_text text_gray">{{__('messages.accountprofileMessage6')}}</p>
+                            </td>
+                        @endif
                     </tr>
+                    @if (!isset(Auth::user()->userinformationadd[0]->email))
                     <tr class="add_email_area2">
                         <td class=""></td>
                         <td class="align_right">
                             <div class="btn_wrap">
-                                <a href="{{route('controlpanel.accountprofilesecondemail')}}" class="btn btn_gray btn_sml" id="js-linkAddEmail"><span>Adicionar E-mail</span></a>
+                                <a href="{{route('controlpanel.accountprofilesecondemail')}}" class="btn btn_gray btn_sml" id="js-linkAddEmail"><span>{{__('messages.accountprofileMessage7')}}</span></a>
                             </div>
                         </td>
                     </tr>
+                    @endif
                     <tr class="password_text">
-                        <th scope="row">Senha</th>
-                        <td class="title"><span class="text_gray">Última Alteração : 09/04/2021 (UTC)</span></td>
+                        <th scope="row">Senha</th> 
+                            @if (isset($lastpasswordhange->created_at) != null)
+                            <td class="title"><span class="text_gray">{{__('messages.accountprofileMessage8')}} 
+                                {{$lastpasswordhange->created_at->format('d/m/y H:i:s')}}</span></td> 
+                                @else
+                                <td>-</td>
+                            @endif
                         <td class="align_right">
                             <div class="btn_wrap">
-                                <a href="{{route('controlpanel.accountprofilechangepassword')}}" class="btn btn_gray btn_sml"><span>Alterar Senha</span></a>
+                                <a href="{{route('controlpanel.accountprofilechangepassword')}}" class="btn btn_gray btn_sml"><span>{{__('messages.controlPanelProfileChangePasswordTitle')}}</span></a>
                             </div>
                         </td>
                     </tr>
@@ -58,35 +76,35 @@
                         <th scope="row">Nome</th>
                         <td class="title">
                             <input class="" icon="" id="" labelname="" placeholder="" name="_name" type="hidden" value="Quenio" />
-                            Quenio
+                            {{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}}
                         </td>
                         <td class="align_right">
                             <span class="icon_essentail">
                                 <i class="icn_svg circle_bang"></i>
-                                Indisponível
+                                {{__('messages.unavailable')}}
                             </span>
                         </td>
                     </tr>
                     <tr>
-                        <th scope="row">Região</th>
+                        <th scope="row">{{__('messages.nation')}}</th>
                         <td class="title">
                             <input class="" icon="" id="" labelname="" placeholder="" name="_nationCode" type="hidden" value="BR" /><span class="field-validation-valid" data-valmsg-for="_nationCode" data-valmsg-replace="true"></span>
-                            Brasil
+                            {{$accountregion->name}}
                         </td>
                         <td class="align_right">
                             <span class="icon_essentail">
                                 <i class="icn_svg circle_bang"></i>
-                                Indisponível
+                                {{__('messages.unavailable')}}
                             </span>
                         </td>
                     </tr>
                     <tr>
-                        <th scope="row">Data de Nascimento</th>
-                        <td class="title">30/12/1991</td>
+                        <th scope="row">{{__('messages.birth')}}</th>
+                        <td class="title">{{date('d/m/Y', strtotime(Auth::user()->birth))}}</td>
                         <td class="align_right">
                             <span class="icon_essentail">
                                 <i class="icn_svg circle_bang"></i>
-                                Indisponível
+                                {{__('messages.unavailable')}}
                             </span>
                         </td>
                     </tr>

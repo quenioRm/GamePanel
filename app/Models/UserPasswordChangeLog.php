@@ -18,10 +18,15 @@ class UserPasswordChangeLog extends Model
         'user_id'
     ];
 
-    public function MakeLog()
+    public static function MakeLog()
     {
         $log = new UserPasswordChangeLog();
         $log->user_id = Auth::user()->id;
         $log->save();
+    }
+
+    public static function FindLastChange()
+    {
+        return self::where('user_id', Auth::user()->id)->latest()->first();
     }
 }

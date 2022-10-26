@@ -23,7 +23,7 @@
             <div class="user_wrap">
                 <span class="character icon_character_area">
                     <a href="{{route('controlpanel.profileaccount')}}" class="icon_character" style="background-image: 
-                    url({{($account->avatar == '' ? asset('img/noavatar.png') : asset('storage/user/avatar/' . Auth::user()->id .'/'. $account->avatar))}});">
+                    url({{(Auth::user()->avatar == '' ? asset('img/noavatar.png') : asset('storage/user/avatar/' . Auth::user()->id .'/'. Auth::user()->avatar))}});">
                         <span class="blind">Perfil Pearl Abyss</span>
                     </a>
                 </span>

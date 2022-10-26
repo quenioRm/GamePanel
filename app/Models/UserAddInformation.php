@@ -22,6 +22,10 @@ class UserAddInformation extends Model
         'phoneIsCheked',
     ];
 
+    public function user(){
+        return $this->belongsTo('App\Models\User', 'user_id');
+    }
+
     public static function MakeInformationAdd($email, $phone_number)
     {
         $userInfo = self::find(Auth::user()->id);

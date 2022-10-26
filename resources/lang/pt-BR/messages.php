@@ -89,5 +89,15 @@ return [
     'OPasswordMessage' => 'A senha informada não e igual a anterior.',
     'controlPanelProfileChangePasswordTitle' => 'Alterar Senha',
     'controlPanelProfileChangePasswordTitle2' => 'Nova Senha',
-    'controlPanelProfileChangePasswordMessage' => 'Quer alterar sua senha?'
+    'controlPanelProfileChangePasswordMessage' => 'Quer alterar sua senha?',
+    'accountprofileTitle' => 'Informações Pessoais',
+    'accountprofileMessage' => 'Minhas informações',
+    'accountprofileMessage2' => 'e-mail, senha, nome, data de nascimento',
+    'accountprofileMessage3' => 'E-mail Padrão',
+    'accountprofileMessage4' => 'E-mail Secundário',
+    'accountprofileMessage5' => 'Favor adicionar um e-mail secundário.',
+    'accountprofileMessage6' => '* É possível acessar a conta usando o e-mail secundário.',
+    'accountprofileMessage7' => 'Adicionar E-mail',
+    'accountprofileMessage8' => 'Última Alteração :',
+    'unavailable' => 'Indisponível'
 ];

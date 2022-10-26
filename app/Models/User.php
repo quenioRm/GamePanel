@@ -15,6 +15,7 @@ use App\Mail\MailResetPassword;
 use App\Models\UserResetPasswordLog;
 use Illuminate\Support\Facades\Auth;
 use App\Models\UserAddInformation;
+use App\Models\UserPasswordChangeLog;
 
 class User extends Authenticatable
 {
@@ -63,6 +64,10 @@ class User extends Authenticatable
 
     public function useravatar(){
         return $this->hasMany('App\Models\UserAvatar', 'user_id');
+    }
+
+    public function userinformationadd(){
+        return $this->hasMany('App\Models\UserAddInformation', 'user_id');
     }
 
     public static function MakeUser($input)
@@ -229,6 +234,8 @@ class User extends Authenticatable
         if($user){
             $user->password = hash('sha512', $password);
             $user->save();
+
+            UserPasswordChangeLog::MakeLog();
 
             return 0;
         }
