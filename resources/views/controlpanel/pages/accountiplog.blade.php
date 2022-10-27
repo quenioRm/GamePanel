@@ -28,13 +28,13 @@
                             @foreach ($items['links'] as $link)
                                 @if ($link['label'] == "&laquo; Anterior")
                                     @if ($items['current_page'] > 1)
-                                        <a href="{{$items['first_page_url']}}" class="link_item box pi_wrap">
+                                        <a href="{{$items['prev_page_url']}}" class="link_item box pi_wrap">
                                             <i class="pi pi_arrowPrev left"></i>
                                             <span class="blind">Prev</span>
                                         </a>
                                     @endif
                                 @elseif($link['label'] == "Próximo &raquo;")
-                                    <a href="{{$items['last_page_url']}}" class="link_item box pi_wrap">
+                                    <a href="{{$items['next_page_url']}}" class="link_item box pi_wrap">
                                         <i class="pi pi_arrowNext right"></i>
                                         <span class="blind">Next</span>
                                     </a>
