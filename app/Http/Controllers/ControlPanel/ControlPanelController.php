@@ -221,4 +221,13 @@ class ControlPanelController extends Controller
         return response()->json(['resultCode' => -1002, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
         'returnUrl' => '' ], 400);
     }
+
+    public function accountlogipForm()
+    {
+        $data = UserLoginAccountLog::where('user_id', Auth::user()->id)->orderBy('created_at', 'desc')->paginate(5)->toArray();
+        // dd($data);
+        return view('controlpanel.pages.includes.accountippaginate', [
+            'items' => $data
+        ]);
+    }
 }

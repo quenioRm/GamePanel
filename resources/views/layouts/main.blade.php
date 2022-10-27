@@ -49,6 +49,7 @@
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/game_network.css?ver=638016825217184276')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/styleAdd.css')}}" />
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/sweetalert2.min.css')}}" />
+        <link type="text/css" rel="stylesheet" href="{{asset('assets/css/datepicker.css?v=638016825217184276')}}" />
 
         @stack('styles')
         
@@ -114,6 +115,7 @@
         <script src="{{asset('assets/js/select2.min.js')}}"></script>
         <script src="{{asset('assets/js/sweetalert2.all.min.js')}}"></script>
         <script src="{{asset('assets/js/global.js')}}"></script>
+        <script src="{{asset('assets/js/datepicker.js?v=638016825217184276')}}"></script>
 
     
         @stack('scripts')

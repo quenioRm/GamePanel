@@ -3569,7 +3569,7 @@ a#CybotCookiebotDialogPoweredbyCybot {
     .custom_toggle_input:checked ~ .custom_toggle_button:hover {
         background: #484e91;
     }
-    .paging button.link_item:hover {
+    .paging a.link_item:hover {
         background: #323232;
         color: #fff;
     }

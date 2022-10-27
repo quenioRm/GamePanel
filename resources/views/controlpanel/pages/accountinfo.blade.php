@@ -97,7 +97,7 @@
                     @if (isset($ip))
                     <div class="desh_box logged">
                         <div class="desh_title">
-                            <a href="/Account/MyInfo/Logging/" class="btn_more">
+                            <a href="{{route('controlpanel.accountlogip')}}" class="btn_more">
                                 <span class="blind">{{__('messages.LoginHistory')}}</span>
                                 <i class="pi pi_dash_more"></i>
                             </a>

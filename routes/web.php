@@ -74,6 +74,10 @@ Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
         Route::get('accountprotectaccountbyip/{isIpCheck}', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
         'ProtectAccountByIp'])->name('accountprotectaccountbyip'); 
 
+        // Update Account IP
+        Route::get('accountlogip', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        'accountlogipForm'])->name('accountlogip'); 
+
     });
 
 });
