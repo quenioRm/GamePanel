@@ -1,40 +1,70 @@
 <header class="header_nav_wrap only-m">
     <div class="top_wrap_inner">
         <button type="button" class="btn btn_header_nav js_header_nav">
-            <i class="blind">Tudo</i>
+            <i class="blind">{{__('messages.all')}}</i>
             <span class="nav_line top"></span>
             <span class="nav_line center"></span>
             <span class="nav_line bottom"></span>
         </button>
         <h1 class="logo_wrap">
-            <span class="blind">Pearl Abyss</span>
-            <a href="https://www.pearlabyss.com/ko-KR" class="logo_box" title="PearlAbyss"> </a>
+            <span class="blind">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
+            <a href="#" class="logo_box" title="PearlAbyss">{{env('WEB_NAME')}}
+            </a>
         </h1>
         <button type="button" class="header_profile js-btnRightProfile">
-            <span class="blind">Minha P&#225;gina</span>
-            <span class="icon_character"></span>
+            <span class="blind">{{__('messages.myPage')}}</span>
+                @if (isset(Auth::user()->id))
+                <span class="icon_character" style="background-image:url({{asset('storage/user/avatar/' . Auth::user()->id .'/'. Auth::user()->avatar)}}">
+                @else
+                <span class="icon_character" style="background-image:url({{asset('img/noavatar.png')}}">
+                @endif
+            </span>
         </button>
     </div>
     <div class="dimm_sub_menu"></div>
 
     <div id="js-leftProfileAcitve" class="aside_wrap right">
         <div class="aside_top">
-            <a href="https://www.pearlabyss.com/pt-BR" class="logo_box" title="PearlAbyss"></a>
-            <span class="blind">Pearl Abyss</span>
+            <a href="#" class="logo_box" style="font-size: 15px" title="PearlAbyss">{{env('WEB_NAME')}}</a>
+            <span class="blind">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
             <i class="pi pi_nav_close js-navClose"></i>
         </div>
         <div class="aside_body">
             <div class="aside_body_top">
-                <a href="https://account.pearlabyss.com/pt-BR/Member/Join" class="btn_nav_info">
+                @if (isset(Auth::user()->id))
+                <a href="{{route('controlpanel.accountprofileinfo')}}" class="aside_body_profile">
+                    <i class="icon_character_area">
+                        <span class="icon_character" style="background-image: 
+                        url({{(Auth::user()->avatar == '' ? asset('img/noavatar.png') : 
+                asset('storage/user/avatar/' . Auth::user()->id .'/'. Auth::user()->avatar))}});">
+                        </span>
+                    </i>
+                    <span class="char_name">
+                        <em> {{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}} </em>
+                    </span>
+                </a>                
+                <a href="{{route('controlpanel.accountprofileinfo')}}" class="btn_nav_info">
+                    <i class="pi pi_nav_user"></i>
+                    <span>Conta</span>
+                </a>
+                <form action="{{route('logout')}}" method="POST">
+                    @csrf
+                    <button class="btn_nav_info" type="submit">
+                        <span>{{__('messages.logout')}}</span>
+                    </button>
+                </form>
+                @else
+                <a href="{{route('register')}}" class="btn_nav_info">
                     <i class="pi pi_nav_register"></i>
-                    <span>Criar Pearl Abyss ID</span>
+                    <span>{{__('messages.make')}} {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} ID</span>
                 </a>
-                <a href="https://account.pearlabyss.com/pt-BR/Member/Login" class="btn_nav_info">
+                <a href="{{route('login')}}" class="btn_nav_info">
                     <i class="pi pi_nav_login"></i>
-                    <span>Entrar</span>
+                    <span>{{__('messages.btnEnter')}}</span>
                 </a>
+                @endif
             </div>
-            <ul class="aside_menu">
+            {{-- <ul class="aside_menu">
                 <li class="node1">
                     <button type="button" class="js-btnFolder aside_node_parent">Jogo</button>
                     <div class="sub_menu">
@@ -79,10 +109,10 @@
                 <li>
                     <a href="https://pearlabyss.gururang.com/en" target="_blank" class="aside_node_parent">Store</a>
                 </li>
-            </ul>
+            </ul> --}}
         </div>
         <div class="aside_footer">
-            <span>&copy; Pearl Abyss Corp. All Rights Reserved.</span>
+            <span>&copy; {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} Corp. All Rights Reserved.</span>
         </div>
     </div>
 </header>

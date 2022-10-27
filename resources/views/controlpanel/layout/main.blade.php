@@ -31,7 +31,7 @@
                         {{__('messages.controlPanelProfilePersonal')}}
                     </a>
                 </li>
-                <li id="side_3" data-navregexp="(?=.*\.pearlabyss\.com)(?=.*\/Account\/SNSLink[\/]?)" class="pi_wrap menu_display_1">
+                {{-- <li id="side_3" data-navregexp="(?=.*\.pearlabyss\.com)(?=.*\/Account\/SNSLink[\/]?)" class="pi_wrap menu_display_1">
                     <a href="https://account.pearlabyss.com/pt-BR/Account/SNSLink" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_3"></i>
                         Vincular Conta
@@ -78,10 +78,10 @@
                         <i class="pi pi_mypage_8"></i>
                         Central de Segurança
                     </a>
-                </li>
+                </li> --}}
             </ul>
             <div class="aside_footer">
-                <span>© Pearl Abyss Corp. All Rights Reserved.</span>
+                <span>© {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} Corp. All Rights Reserved.</span>
             </div>
         </div>
         <form action="{{route('logout')}}" method="POST">

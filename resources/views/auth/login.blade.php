@@ -16,7 +16,7 @@
                 <input type="hidden" name="_joinType" value="1" />
                 <div class="login_box_wrap js-tabContents active">
                     <fieldset class="box_login">
-                        <legend>Entrar</legend>
+                        <legend>{{__('messages.enter')}}</legend>
                         <ul>
                             <li class="js-checkInput">
                                 <div class="custom_input label">

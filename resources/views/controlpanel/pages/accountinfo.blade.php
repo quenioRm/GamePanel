@@ -3,21 +3,6 @@
 @section('title', __('messages.controlPanelAccountInfo'))
 
 @section('controlPalnel')
-<input
-            class=""
-            icon=""
-            labelname=""
-            placeholder=""
-            data-val="true"
-            data-val-number="The field _loginType must be a number."
-            data-val-required="The _loginType field is required."
-            id="hdLoginType"
-            name="_loginType"
-            type="hidden"
-            value="1"
-        />
-        <input class="" icon="" labelname="" placeholder="" data-val="true" data-val-required="The _isSns field is required." id="hdIsSns" name="_isSns" type="hidden" value="False" />
-
         <h2 class="line no_margin account_main_page_title">{{__('messages.controlPanelAccountInfo')}}</h2>
         <div class="account_main">
             <div class="user_wrap">
@@ -40,33 +25,29 @@
                     <div class="desh_box playing_box js-playingBox">
                         <div class="desh_title">
                             <span class="pi pi_dash_game"></span>
-                            <h3 class="title">Jogos Acessados</h3>
+                            <h3 class="title">Acesso rápido</h3>
                         </div>
                         <div class="desh_content">
                             <div class="shortcut_list">
                                 <ul class="bdo_slider owl-carousel js-bdoSliderWrap no_slide">
                                     <li class="item js-playingBdo">
-                                        <a href="https://www.sa.playblackdesert.com/Login/Pearlabyss?_returnUrl=https://www.sa.playblackdesert.com" class="title">
-                                            <i class="bedge_small pi pi_dash_bdo_small"></i>
-                                            Black Desert (América do Sul)
-                                        </a>
                                         <dl class="subitems">
                                             <dd class="subitem">
-                                                <a href="https://www.sa.playblackdesert.com/Login/Pearlabyss?_returnUrl=https://www.sa.playblackdesert.com/Community/Profile" class="arrow btn_normal"><span>Minha Atividade</span></a>
+                                                <a href="{{route('controlpanel.accountlogip')}}" class="arrow btn_normal"><span>Minha Atividade</span></a>
                                             </dd>
                                             <dd class="subitem">
-                                                <a href="https://www.sa.playblackdesert.com/Login/Pearlabyss?_returnUrl=https://www.sa.playblackdesert.com/Adventure/Profile" class="arrow btn_normal">
-                                                    <span>Minhas Informações de Jogo</span>
+                                                <a href="{{route('controlpanel.accountprofileinfo')}}" class="arrow btn_normal">
+                                                    <span>Informações pessoais</span>
                                                 </a>
                                             </dd>
-                                            <dd class="subitem">
+                                            {{-- <dd class="subitem">
                                                 <a href="https://www.sa.playblackdesert.com/Login/Pearlabyss?_returnUrl=https://payment.sa.playblackdesert.com/pt-BR/Shop/Coupon/" class="arrow btn_normal">
                                                     <span>Cupom</span>
                                                 </a>
                                             </dd>
                                             <dd class="subitem">
                                                 <a href="https://www.sa.playblackdesert.com/Login/Pearlabyss?_returnUrl=https://www.sa.playblackdesert.com/MyPage/WebItemStorage" class="arrow btn_normal"><span>Armazém Virtual</span></a>
-                                            </dd>
+                                            </dd> --}}
                                         </dl>
                                     </li>
                                 </ul>
@@ -209,15 +190,7 @@
 <script>
     $('#isIpCheck').change(function() {
 
-        $('#isIpCheck').val(this.checked);  
-        
-            // if(this.checked) {
-            //     var returnVal = confirm("Are you sure?");
-            //     $(this).prop("checked", returnVal);
-            // }
-            // $('#isIpCheck').val(this.checked);  
-
-            // console.log(this.value)
+        $('#isIpCheck').val(this.checked); 
 
             var url = '{{ route("controlpanel.accountprotectaccountbyip", ":isIpCheck") }}';
             url = url.replace(':isIpCheck', this.value);
@@ -246,16 +219,7 @@
                         timer: 6500
                     })
                 }
-            });
         });
-
-    $('#isIpCheck2').change(function () {
-
-        console.log($('#isIpCheck').val())
-
-        return
-
-        
     });
 </script>
 

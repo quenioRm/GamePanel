@@ -7,15 +7,6 @@
     <h2 class="line">Histórico de Login</h2>
     <div class="search_date_wrap">
             <div class="search_title">
-                <h3>Histórico de Login</h3>
-                <ul class="bullet_list fs15">
-                    <li>Apenas os últimos 3.000 registros realizados dentro de 6 meses podem ser verificados.</li>
-                    <li>Em caso de acesso suspeito, altere a senha e adicione autenticação em de duas etapas.</li>
-                </ul>
-                <div class="logging_page_links">
-                    <a href="https://account.pearlabyss.com/pt-BR/Account/Password?_returnUrl=https%3a%2f%2faccount.pearlabyss.com%2fpt-BR%2fAccount%2fMyInfo%2fLogging" class="btn_text text_blue">Trocar Senha</a>
-                    <a href="https://account.pearlabyss.com/pt-BR/Account/Otp" class="btn_text text_blue">Adicionar Autenticação em Duas Etapas</a>
-                </div>
                 <ul class="bullet_list fs15"></ul>
             </div>
             <div id="divLoggingListArea">

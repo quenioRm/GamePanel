@@ -109,5 +109,10 @@ return [
     'account' => 'Conta',
     'privacyPolicy' => 'Política de Privacidade',
     'customerService' => 'Atendimento ao Cliente',
-    'parentalControl' => 'Controle Parental'
+    'parentalControl' => 'Controle Parental',
+    'make' => 'Criar',
+    'myPage' => 'Minha Página',
+    'all' => 'Tudo',
+    'logout' => 'Sair',
+    'enter' => 'Entrar'
 ];
