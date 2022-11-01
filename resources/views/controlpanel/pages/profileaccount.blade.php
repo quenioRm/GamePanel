@@ -139,7 +139,7 @@
                 Swal.fire({
                     position: 'center',
                     icon: 'error',
-                    title: jqXHR.resultMsg,
+                    title: jqXHR.responseJSON.resultMsg,
                     showConfirmButton: false,
                     timer: 6500
                 })
