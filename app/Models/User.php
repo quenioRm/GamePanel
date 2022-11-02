@@ -251,7 +251,7 @@ class User extends Authenticatable
 
     public static function ChangePassword($password)
     {
-        $user = self::find(Auth::user()->id);
+        $user = self::where('id', Auth::user()->id)->first();
         if($user){
             $user->password = hash('sha512', $password);
             $user->save();
@@ -265,7 +265,7 @@ class User extends Authenticatable
 
     public static function SetIpCheck($isIpCheck)
     {
-        $user = self::find(Auth::user()->id)->first();
+        $user = self::where('id', Auth::user()->id)->first();
         if($user){
             $user->isIpCheck = $isIpCheck;
             $user->save();
