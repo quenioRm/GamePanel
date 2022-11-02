@@ -167,7 +167,7 @@ class User extends Authenticatable
             
             return 0;
         }
-        return -2;
+        return 0;
     }
 
     public static function CheckIsIpProtect($email)
@@ -226,7 +226,7 @@ class User extends Authenticatable
 
     public static function UpdateProfile($username, $avatarId)
     {
-        $user = self::find(Auth::user()->id)->first();
+        $user = self::where('id', Auth::user()->id)->first();
         if($user){
             $user->name = $username;
 

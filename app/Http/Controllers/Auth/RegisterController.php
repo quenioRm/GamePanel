@@ -79,7 +79,15 @@ class RegisterController extends Controller
 
     public function RegisterForm()
     {
-        $countries = Countries::where('lang', Session()->get('applocale'))->get();
+        $lang = "";
+
+        if(Session()->get('applocale'))
+            $lang = Session()->get('applocale');
+        else
+            $lang = config('app.fallback_locale');
+        
+        $countries = Countries::where('lang', $lang)->get();
+
         return view('auth.register', ['countries' => $countries]);
     }
 
@@ -118,9 +126,9 @@ class RegisterController extends Controller
                 $validator->errors()->add('email', Lang::get('messages.codeExpired'));
                 return redirect(route('register'))->withInput()->withErrors($validator->errors());
                 break;
-            case 0:
-                return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountIstActivated'), 'returnUrl' => '' ], 200);
-                break;     
+            // case 0:
+            //     return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountIstActivated'), 'returnUrl' => '' ], 200);
+            //     break;     
         }
 
         $request['birth'] = Carbon::parse(str_replace("/","-", $request['birth']))->format('Y-m-d');
@@ -143,6 +151,9 @@ class RegisterController extends Controller
             return response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors()->first(), 'returnUrl' => '' ], 400);
 
         $user = User::CheckIsBlocked($request['email']);
+
+        dd($user);
+
         switch ($user) {
             case -1:
                 $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
