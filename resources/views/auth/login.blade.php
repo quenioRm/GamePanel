@@ -46,7 +46,7 @@
                                         @endif
                                     </span></div>
                                 </div>
-                            </li>                            
+                            </li>
                             <li class="password_wrap js-capslockWrap js-checkInput">
                                 <div class="custom_input label">
                                     <div class="custom_inputBox">
@@ -126,7 +126,7 @@
                         </div>
                     </fieldset>
                     <div class="sns_login_title"><span class="text">ou</span></div>
-                    
+
                     <div class="sns_login_wrap">
                         <ul>
                             <li class="facebook">
@@ -142,6 +142,7 @@
                             </li>
                         </ul>
                     </div>
+
                 </div>
             </div>
         </article>
@@ -151,7 +152,7 @@
 @endsection
 @push('scripts')
     <script src="{{asset('assets/js/signin/login.js?v=638016825217184276')}}"></script>
-                    
+
     <script>
         $(document).ready(function () {
             _abyss.login.loginInit();

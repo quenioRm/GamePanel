@@ -34,15 +34,15 @@
                 @if (isset(Auth::user()->id))
                 <a href="{{route('controlpanel.accountprofileinfo')}}" class="aside_body_profile">
                     <i class="icon_character_area">
-                        <span class="icon_character" style="background-image: 
-                        url({{(Auth::user()->avatar == '' ? asset('img/noavatar.png') : 
+                        <span class="icon_character" style="background-image:
+                        url({{(Auth::user()->avatar == '' ? asset('img/noavatar.png') :
                 asset('storage/user/avatar/' . Auth::user()->id .'/'. Auth::user()->avatar))}});">
                         </span>
                     </i>
                     <span class="char_name">
                         <em> {{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}} </em>
                     </span>
-                </a>                
+                </a>
                 <a href="{{route('controlpanel.accountprofileinfo')}}" class="btn_nav_info">
                     <i class="pi pi_nav_user"></i>
                     <span>Conta</span>

@@ -85,7 +85,7 @@ class RegisterController extends Controller
             $lang = Session()->get('applocale');
         else
             $lang = config('app.fallback_locale');
-        
+
         $countries = Countries::where('lang', $lang)->get();
 
         return view('auth.register', ['countries' => $countries]);
@@ -128,7 +128,7 @@ class RegisterController extends Controller
                 break;
             // case 0:
             //     return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountIstActivated'), 'returnUrl' => '' ], 200);
-            //     break;     
+            //     break;
         }
 
         $request['birth'] = Carbon::parse(str_replace("/","-", $request['birth']))->format('Y-m-d');
@@ -136,7 +136,7 @@ class RegisterController extends Controller
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountCreationSucess')]);
 
-        return redirect(route('register'));
+        return redirect(route('login'));
     }
 
     public function isBlockEmailDomain(Request $request)
@@ -182,7 +182,7 @@ class RegisterController extends Controller
         $user = UsersActivation::MakeActivationCode($request);
         if($user == 0)
             return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
-        
+
         return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
         'returnUrl' => '' ], 200);
     }
@@ -194,17 +194,17 @@ class RegisterController extends Controller
         ], [], [
             'email' =>  Lang::get('messages.email')
         ]);
-        
+
         if(!$validator->passes())
             return response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors()->first(), 'returnUrl' => '' ], 400);
 
         $user = UsersActivation::MakeActivationCode($request);
         if($user == 0)
             return response()->json(['resultCode' => 0, 'resultMsg' => '', 'returnUrl' => '' ], 200);
-        
+
         return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
         'returnUrl' => '' ], 400);
-        
+
     }
 
     public function joinMailAuth(Request $request)
@@ -223,7 +223,7 @@ class RegisterController extends Controller
         $user = UsersActivation::ActivateAccount($request['email'], $request['authKey']);
         if($user == 0)
             return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.confirmationEmailSucess'), 'returnUrl' => '' ], 200);
-        
+
         return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
         'returnUrl' => '' ], 400);
     }
