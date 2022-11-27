@@ -8,7 +8,6 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 use Illuminate\Support\Facades\DB;
-use App\Models\UsersActivation;
 use App\Helpers\Functions;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\MailResetPassword;
@@ -41,7 +40,8 @@ class User extends Authenticatable
         'uuid',
         'birth',
         'nationCode',
-        'isBlockEmailDomain'
+        'isBlockEmailDomain',
+        'permission'
     ];
 
     /**
@@ -107,20 +107,20 @@ class User extends Authenticatable
                 return [
                     'code' => -4,
                     'data' => null
-                ]; 
-            
+                ];
+
             $user = self::find($userSecondEmail->user_id);
         }else
             $user = self::where('email', $email)->first();
 
         if($user){
 
-            if(env('APP_DEBUG') == true){
-                $ip = "177.137.4.237";
-                $iplog = Location::get('177.137.4.237');
-            } 
-            else
-                $iplog = Location::get($ip);
+            // if(env('APP_DEBUG') == true){
+            //     $ip = "177.137.4.237";
+            //     $iplog = Location::get('177.137.4.237');
+            // }
+            // else
+            $iplog = Location::get($ip);
 
             $checkIpProtect = UserIpProtect::CheckIpProtect($user->email, $ip);
             if($checkIpProtect == -1 && $user->isIpCheck == 1)
@@ -146,7 +146,7 @@ class User extends Authenticatable
             //$user->isIpCheck = $isIpCheck;
             $user->ip = $ip;
             $user->save();
-            
+
             return [
                 'code' => 0,
                 'data' => $user
@@ -164,7 +164,7 @@ class User extends Authenticatable
         if($user){
             if($user->isBlockEmailDomain == 1)
                 return -1;
-            
+
             return 0;
         }
         return 0;
@@ -176,7 +176,7 @@ class User extends Authenticatable
         if($user){
             if($user->isIpCheck == 0)
                 return -1;
-            
+
             return 0;
         }
         return -2;
@@ -186,7 +186,7 @@ class User extends Authenticatable
     {
         $user = self::where('email', $email)->first();
         if($user){
-            
+
             $password = Functions::rand_string(10);
 
             if($user->isBlockEmailDomain == 1)
@@ -201,7 +201,7 @@ class User extends Authenticatable
                     'code' => -1,
                     'data' => null
                 ];
- 
+
             $user->isIpCheck = 0;
             $user->password = hash('sha512', $password);
             $user->save();
@@ -209,8 +209,8 @@ class User extends Authenticatable
             $userSecondEmail = UserAddInformation::where('user_id', $user->id)->first();
             if($userSecondEmail)
                 Mail::to($userSecondEmail->email)->send(new MailResetPassword($password));
-            
-            
+
+
             Mail::to($user->email)->send(new MailResetPassword($password));
 
             return [
@@ -233,7 +233,7 @@ class User extends Authenticatable
             $userAvatar = UserAvatar::find($avatarId);
             if($userAvatar){
                 $user->avatar = $userAvatar->avatar;
-                
+
             }
 
             $user->save();
@@ -274,5 +274,14 @@ class User extends Authenticatable
             return 0;
         }
         return -1;
+    }
+
+    public static function FindAccountByUUID($uuid)
+    {
+        $user = self::where('uuid', $uuid)->first();
+        if($user){
+            return $user;
+        }
+        return null;
     }
 }
