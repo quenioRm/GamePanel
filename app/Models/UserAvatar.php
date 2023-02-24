@@ -31,29 +31,35 @@ class UserAvatar extends Model
         try {
             $user = User::find(Auth::user()->id)->first();
             if($user){
-    
+
                 // $newName = time() . '.' . $input->avatar->extension();
                 // $upload = $input->avatar->storeAs('user/avatar/'. Auth::user()->id . '/', $newName);
+
                 $image = $input->file('avatar');
                 $input['avatar'] = time(). '.' . $input->avatar->extension();
+
+                if(!Storage::exists('app/public/user/avatar/' . Auth::user()->id)){
+                    Storage::makeDirectory('app/public/user/avatar/' . Auth::user()->id);
+                }
+
                 $destinationPath = storage_path('app/public/user/avatar/') . Auth::user()->id .'/'. time(). '.' . $input->avatar->extension();
                 $imgFile = Image::make($image->getRealPath());
                 $imgFile->resize(200, 200, function ($constraint) {
                     $constraint->upsize();
                 })->save($destinationPath);
-    
+
                 $avatar = new UserAvatar();
                 $avatar->user_id = Auth::user()->id;
                 $avatar->avatar = time(). '.' . $input->avatar->extension();
                 $avatar->save();
-    
+
                 return 0;
             }
 
             return -1;
 
         } catch (\Exception $e){
-            
+
             throw new \Exception($e);
             return -1;
         }

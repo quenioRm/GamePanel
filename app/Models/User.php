@@ -120,6 +120,7 @@ class User extends Authenticatable
             //     $iplog = Location::get('177.137.4.237');
             // }
             // else
+
             $iplog = Location::get($ip);
 
             $checkIpProtect = UserIpProtect::CheckIpProtect($user->email, $ip);

@@ -31,52 +31,52 @@ Route::post('/register', [App\Http\Controllers\Auth\RegisterController::class, '
 // Control Panel
 Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
 
-    Route::get('accountinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+    Route::get('accountinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
     'AccountInfoForm'])->name('panelaccountinfo');
 
     Route::group(['prefix'=> 'profile'], function(){
 
         // Profile
-        Route::get('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        Route::get('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
         'ProfileAccountForm'])->name('profileaccount');
-    
-        Route::post('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+
+        Route::post('profileaccount', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
         'ProfileAccountFormSubmit']);
-    
-        Route::post('profileaccount/avatarupload', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+
+        Route::post('profileaccount/avatarupload', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
         'ProfileAccountFormuploadAvatar'])->name('profileaccountformuploadavatar');
 
         // Account Info
-        Route::get('accountprofileinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'AccountProfileInfoForm'])->name('accountprofileinfo');   
+        Route::get('accountprofileinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'AccountProfileInfoForm'])->name('accountprofileinfo');
 
         // Profile Second Email
-        Route::get('accountprofilesecondemail', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'AccountProfileSecondEmailForm'])->name('accountprofilesecondemail');   
+        Route::get('accountprofilesecondemail', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'AccountProfileSecondEmailForm'])->name('accountprofilesecondemail');
 
-        Route::post('accountprofilesecondemail', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
+        Route::post('accountprofilesecondemail', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
         'AccountProfileSecondEmailFormSubmit']);
 
-        Route::get('accountprofilesecondemailconfirmation', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'AccountProfileSecondEmailConfirmationForm'])->name('accountprofilesecondemailconfirmation');  
+        Route::get('accountprofilesecondemailconfirmation', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'AccountProfileSecondEmailConfirmationForm'])->name('accountprofilesecondemailconfirmation');
 
-        Route::post('accountprofilesecondemailconfirmation', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'AccountProfileSecondEmailConfirmationFormSubmit']);  
+        Route::post('accountprofilesecondemailconfirmation', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'AccountProfileSecondEmailConfirmationFormSubmit']);
 
         // Profile Change Password
-        Route::get('accountprofilechangepassword', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'AccountProfileChangePasswordForm'])->name('accountprofilechangepassword');   
+        Route::get('accountprofilechangepassword', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'AccountProfileChangePasswordForm'])->name('accountprofilechangepassword');
 
-        Route::post('accountprofilechangepassword', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'AccountProfileChangePasswordFormSubmit']); 
-
-        // Update Account IP
-        Route::get('accountprotectaccountbyip/{isIpCheck}', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'ProtectAccountByIp'])->name('accountprotectaccountbyip'); 
+        Route::post('accountprofilechangepassword', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'AccountProfileChangePasswordFormSubmit']);
 
         // Update Account IP
-        Route::get('accountlogip', [App\Http\Controllers\ControlPanel\ControlPanelController::class, 
-        'accountlogipForm'])->name('accountlogip'); 
+        Route::get('accountprotectaccountbyip/{isIpCheck}', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'ProtectAccountByIp'])->name('accountprotectaccountbyip');
+
+        // Update Account IP
+        Route::get('accountlogip', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'accountlogipForm'])->name('accountlogip');
 
     });
 
@@ -99,7 +99,7 @@ Route::group(['prefix'=>'Member'] , function(){
         Route::post('/isBlockEmailDomain', [App\Http\Controllers\Auth\RegisterController::class,'isBlockEmailDomain'])
         ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
         ->name('isblockemaildomain');
-        
+
         Route::post('/EmailAuth', [App\Http\Controllers\Auth\RegisterController::class,'EmailAuth'])
         ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
         ->name('emailauth');

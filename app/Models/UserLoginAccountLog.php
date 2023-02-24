@@ -34,6 +34,10 @@ class UserLoginAccountLog extends Model
 
     public static function MakeLog($userId, $data)
     {
+
+        if($data == false)
+            return;
+
         $data->user_id = $userId;
         $log = new UserLoginAccountLog();
         $log->fill($data->toArray());

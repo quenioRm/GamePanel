@@ -16,9 +16,13 @@ use Illuminate\Support\Facades\Route;
 
 Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginFormSubmit'])->name('apilogin');
 
+Route::post('/simpleregister', [App\Http\Controllers\Auth\RegisterController::class, 'SimpleRegister']);
+
 Route::prefix('nexon')->name('nexon.')->group( function(){
 
     Route::get('loginCheck', [App\Http\Controllers\IcarusOnlineController::class,
     'IcarusAuthCheck'])->name('loginCheck');
 
 });
+
+//

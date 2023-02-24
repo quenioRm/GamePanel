@@ -136,7 +136,9 @@ class RegisterController extends Controller
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountCreationSucess')]);
 
-        return redirect(route('login'));
+        return $request->wantsJson()
+        ? response()->json(['resultCode' => 0, 'resultMsg' => 'success', 'returnUrl' => '' ], 200)
+        : redirect(route('login'));
     }
 
     public function isBlockEmailDomain(Request $request)
@@ -226,6 +228,34 @@ class RegisterController extends Controller
 
         return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
         'returnUrl' => '' ], 400);
+    }
+
+    public function SimpleRegister(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|unique:users|string|email|max:255',
+            'password' => 'required|min:8|max:20',
+            'passwordCheck' => 'required|min:8|same:password',
+            'name' => 'required|unique:users|min:5|max:16|alpha_dash',
+            'birth' => 'required|date_format:d-m-Y',
+            'nationCode' => 'required'
+        ], [], [
+            'email' =>  Lang::get('messages.email'),
+            'password' => Lang::get('messages.password'),
+            'passwordCheck' => Lang::get('messages.cPassword'),
+            'name' => Lang::get('messages.name'),
+            'birth' => Lang::get('messages.birth'),
+            'nationCode' => Lang::get('messages.nation')
+        ]);
+
+        if(!$validator->passes())
+            return response()->json(['resultCode' => 0, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400);
+
+        $request['birth'] = Carbon::parse(str_replace("/","-", $request['birth']))->format('Y-m-d');
+
+        $user = User::MakeUser($request);
+
+        return response()->json(['resultCode' => 0, 'resultMsg' => 'success', 'returnUrl' => '' ], 200);
     }
 }
 
