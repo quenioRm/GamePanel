@@ -34,6 +34,15 @@ Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
     Route::get('accountinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
     'AccountInfoForm'])->name('panelaccountinfo');
 
+    // Shop
+    Route::group(['prefix'=> 'shop'], function(){
+
+        // Get Shop List
+        Route::get('shopitems', [App\Http\Controllers\ControlPanel\ControlPanelShopController::class,
+        'ShopItemList'])->name('shopitems');
+
+    });
+
     Route::group(['prefix'=> 'profile'], function(){
 
         // Profile
@@ -78,6 +87,14 @@ Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
         Route::get('accountlogip', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
         'accountlogipForm'])->name('accountlogip');
 
+        // Ticket
+        Route::prefix('controlpanel')->name('tickets.')->group( function(){
+
+            // Update Account IP
+            Route::get('mytickets', [App\Http\Controllers\ControlPanel\ControlPanelTicketController::class,
+            'TicketList'])->name('mytickets');
+
+        });
     });
 
 });

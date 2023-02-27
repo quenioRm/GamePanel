@@ -17,20 +17,35 @@
         </div>
         <div class="inner aside_body">
             <ul class="aside_menu js-leftTabMenus">
-                <li id="side_1" data-navregexp="(?=.*\.pearlabyss\.com)(?=.*\/DashBoard[\/]?)" class="pi_wrap menu_display_1 
+                <li id="side_1" class="pi_wrap menu_display_1
                 {{Route::is('controlpanel.panelaccountinfo') ? 'active' : ''}}">
                     <a href="{{route('controlpanel.panelaccountinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_1"></i>
                         {{__('messages.controlPanelAccountInfo')}}
                     </a>
                 </li>
-                <li id="side_2" data-navregexp="(?=.*\.pearlabyss\.com)(?=.*\/Account\/MyInfo(?!\/Security|/Logging|/AccountSecurity).*$)" class="pi_wrap menu_display_1 
+                <li id="side_2" class="pi_wrap menu_display_1
                 {{Request::segment(2) == 'profile' ? 'active' : ''}}">
                     <a href="{{route('controlpanel.accountprofileinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_2"></i>
                         {{__('messages.controlPanelProfilePersonal')}}
                     </a>
                 </li>
+                <li id="side_2" class="pi_wrap menu_display_1
+                {{Request::segment(2) == 'shop' ? 'active' : ''}}">
+                    <a href="{{route('controlpanel.shopitems')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+                        <i class="pi pi_mypage_2"></i>
+                        {{__('messages.controlpanelShop')}}
+                    </a>
+                </li>
+                {{-- <li id="side_3" class="pi_wrap menu_display_1
+                {{Request::segment(4) == 'mytickets' ? 'active' : ''}}">
+                    <a href="{{route('controlpanel.tickets.mytickets')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+
+                        <i class="pi pi_mypage_3"></i>
+                        {{__('messages.myTickets')}}
+                    </a>
+                </li> --}}
                 {{-- <li id="side_3" data-navregexp="(?=.*\.pearlabyss\.com)(?=.*\/Account\/SNSLink[\/]?)" class="pi_wrap menu_display_1">
                     <a href="https://account.pearlabyss.com/pt-BR/Account/SNSLink" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_3"></i>

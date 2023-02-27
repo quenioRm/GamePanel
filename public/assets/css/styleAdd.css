@@ -4,12 +4,12 @@
     font-size: 13px;
     border: none;
   }
-  
+
   .dropdown {
     position: relative;
     display: inline-block;
   }
-  
+
   .dropdown-content {
     display: none;
     position: absolute;
@@ -19,28 +19,28 @@
     box-shadow: 0px 8px 13px 0px rgba(0,0,0,0.2);
     z-index: 1;
   }
-  
+
   .dropdown-content a {
     color: black;
     padding: 8px 13px;
     text-decoration: none;
     display: block;
   }
-  
+
   .dropdown-content a:hover {
     background-color: #ddd;
-  }  
+  }
    .dropdown:hover .dropdown-content {
         display: block;
    }
-  
+
   .menu_list {
     float: left;
     display: inline-block;
   }
 
   .menu_list:hover .dropbtn span {
-    content: "▼"; 
+    content: "▼";
     padding: 14px 18px;
     position: absolute;
     top: 0;
@@ -66,16 +66,16 @@
     pointer-events: none;
   }
 
-  #top_network .logo_wrap .gamepanel { 
-    display: block; 
-    width: 123px; 
+  #top_network .logo_wrap .gamepanel {
+    display: block;
+    width: 123px;
     height: 16px;
     position: relative;
-    opacity: .; 
+    opacity: .;
     top: -3px;
     -webkit-transition: opacity .25s;
     transition: opacity .25s;
-    color: white; 
+    color: white;
  }
 
 .columnX {
@@ -89,3 +89,5 @@
   display: table;
   clear: both;
 }
+
+

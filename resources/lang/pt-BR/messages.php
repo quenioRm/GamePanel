@@ -16,7 +16,7 @@ return [
     'data-val-minlength' => 'Ocorreu um erro no formato da senha.',
     'data-val-minlength-8' => 'A senha deve conter no mínimo 8 caracteres.',
     'data-val-maxlength-100' => 'A senha não pode exceder 100 caracteres.',
-    'data-val-required' => 'Favor digitar a sua senha.', 
+    'data-val-required' => 'Favor digitar a sua senha.',
     'data-val-regex-email' => 'Ocorreu um erro no formato do e-mail.',
     'data-val-required-email' => 'Favor digitar o endereço de e-mail.',
     'ip-security-message' => 'Essa ferramenta utiliza-se do endereço do IP para proteger a conta.' .
@@ -114,5 +114,7 @@ return [
     'myPage' => 'Minha Página',
     'all' => 'Tudo',
     'logout' => 'Sair',
-    'enter' => 'Entrar'
+    'enter' => 'Entrar',
+    "myTickets" => 'Meus Tickets',
+    'controlpanelShop' => 'Shop'
 ];
