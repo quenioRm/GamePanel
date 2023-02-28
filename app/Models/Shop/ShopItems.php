@@ -14,10 +14,10 @@ class ShopItems extends Model
     protected $primaryKey = 'id';
     protected $dates = ['created_at','updated_at'];
     protected $fillable = [
-        'categoryId', 'itemId', 'name', 'description', 'price', 'available', 'percentOff'
+        'subcategoryId', 'itemId', 'name', 'description', 'price', 'available', 'percentOff'
     ];
 
-    public function shopCategory(){
-        return $this->belongsTo('App\Models\Shop\ShopCategory', 'categoryId');
+    public function shopSubCategory(){
+        return $this->belongsTo('App\Models\Shop\ShopCategory', 'subcategoryId');
     }
 }

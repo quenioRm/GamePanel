@@ -17,7 +17,7 @@ class ShopCategory extends Model
         'name'
     ];
 
-    public function shopItems(){
-        return $this->hasMany('App\Models\Shop\ShopItems', 'categoryId');
+    public function shopSubCategory(){
+        return $this->hasMany('App\Models\Shop\ShopSubCategory', 'categoryId');
     }
 }

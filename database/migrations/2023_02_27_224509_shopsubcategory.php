@@ -13,15 +13,10 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('shopitems', function (Blueprint $table) {
+        Schema::create('shopsubcategory', function (Blueprint $table) {
             $table->id();
-            $table->integer('subcategoryId');
-            $table->integer('itemId');
+            $table->integer('categoryId');
             $table->string('name', 50);
-            $table->string('description', 50)->nullable();
-            $table->decimal('price', 10, 2);
-            $table->integer('available');
-            $table->decimal('percentOff', 10, 2);
             $table->timestamps();
         });
     }
@@ -33,6 +28,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('shopitems');
+        Schema::dropIfExists('shopsubcategory');
     }
 };
