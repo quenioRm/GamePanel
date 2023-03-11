@@ -24,7 +24,7 @@ class CountriesSeeder extends Seeder
     //     Storage::copy(from_path, to_path);
     //   }
 
-      $files = File::allFiles(public_path() . "\assets\json");
+      $files = File::allFiles(public_path() . "/assets/json");
 
     //   $files = Storage::disk('public\assets\json')->allFiles();
 
