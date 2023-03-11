@@ -98,4 +98,32 @@ class IcarusOnlineController extends Controller
         );
         return response()->xml($data, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
     }
+
+    public function Test()
+    {
+        $xml = 'null';
+
+        $xml = '<root>' .
+        '<getParamInfo>' .
+        '<keyVal1 value="186d04fe-9943-4000-8597-d2856ae54ba0"/>' .
+        '<keyVal2 value="123456"/>' .
+        '<m value="P"/>' .
+        '</getParamInfo>' .
+        '<getResultInfo>' .
+        '<result value="101"/>' .
+        '<resultMsg value="e"/>' .
+        '<LoginID value="quenio"/>' .
+        '<Permission value="100"/>' .
+        '<UserAge value="20"/>' .
+        '<MakeCodeNo value="3913056"/>' .
+        '<UserType value="0"/>' .
+        '<StateDetail value="0"/>' .
+        '<PCRoomType value="1"/>' .
+        '<PCRoomID value="1"/>' .
+        '<UIDSEQ value="1"/>' .
+        '</getResultInfo>' .
+        '</root>';
+
+        return response()->xml($xml, $status = 200, $headers = [], $xmlRoot = '', $encoding = null);
+    }
 }
