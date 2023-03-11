@@ -125,7 +125,7 @@
                             <a href="{{route('register')}}">{{__('messages.registerAccount')}}</a>
                         </div>
                     </fieldset>
-                    <div class="sns_login_title"><span class="text">ou</span></div>
+                    {{-- <div class="sns_login_title"><span class="text">ou</span></div>
 
                     <div class="sns_login_wrap">
                         <ul>
@@ -141,7 +141,7 @@
                                 </button>
                             </li>
                         </ul>
-                    </div>
+                    </div> --}}
 
                 </div>
             </div>
