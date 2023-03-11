@@ -20,7 +20,7 @@ Route::post('/simpleregister', [App\Http\Controllers\Auth\RegisterController::cl
 
 Route::prefix('nexon')->name('nexon.')->group( function(){
     Route::get('loginCheck', [App\Http\Controllers\Games\IcarusOnlineController::class,
-    'IcarusAuthCheck'])->name('loginCheck');
+    'Test'])->name('loginCheck');
 });
 
 //
