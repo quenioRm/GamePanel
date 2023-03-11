@@ -1,7 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Games;
 
+use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\User;
 
@@ -9,6 +10,8 @@ class IcarusOnlineController extends Controller
 {
     public function IcarusAuthCheck(Request $request)
     {
+
+        // return phpinfo();
 
         $account = User::FindAccountByUUID($request['keyVal1']);
         if($account == null)

@@ -19,10 +19,8 @@ Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginF
 Route::post('/simpleregister', [App\Http\Controllers\Auth\RegisterController::class, 'SimpleRegister']);
 
 Route::prefix('nexon')->name('nexon.')->group( function(){
-
-    Route::get('loginCheck', [App\Http\Controllers\IcarusOnlineController::class,
+    Route::get('loginCheck', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'IcarusAuthCheck'])->name('loginCheck');
-
 });
 
 //
