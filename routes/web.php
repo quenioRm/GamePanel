@@ -41,6 +41,9 @@ Route::prefix('controlpanel')->name('controlpanel.')->group( function(){
         Route::get('shopitems', [App\Http\Controllers\ControlPanel\ControlPanelShopController::class,
         'ShopItemList'])->name('shopitems');
 
+        Route::get('shopitems/{subcategoryId}', [App\Http\Controllers\ControlPanel\ControlPanelShopController::class,
+        'ShopItemListByCategory'])->name('shopitemssubcategory');
+
     });
 
     Route::group(['prefix'=> 'profile'], function(){

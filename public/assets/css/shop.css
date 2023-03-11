@@ -77,3 +77,8 @@ img, svg {
     text-decoration: none;
     cursor: pointer;
   }
+
+  a.arrow.btn_normal.active {
+    background-color: #bbb7b7;
+    color: #494949;
+  }

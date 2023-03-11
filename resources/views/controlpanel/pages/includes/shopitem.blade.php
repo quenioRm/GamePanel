@@ -7,7 +7,7 @@
                 <div class="desh_box playing_box js-playingBox">
                     <div class="desh_title">
                         <span class="pi pi_dash_game"></span>
-                        <h3 class="title">Pedra Filosofal</h3>
+                        <h3 class="title">{{$item['name']}}</h3>
                     </div>
                     <div class="desh_content">
                         <div class="shortcut_list">
@@ -37,7 +37,7 @@
     </div>
 
     <!-- The Modal -->
-<div id="myModal" class="modal" onmouseleave="ModalClose()">
+{{-- <div id="myModal" class="modal" onmouseleave="ModalClose()">
     <div class="modal-content">
         <div class="desh_box playing_box js-playingBox">
             <div class="desh_content">
@@ -64,7 +64,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 @endsection
 
 @push('scripts')

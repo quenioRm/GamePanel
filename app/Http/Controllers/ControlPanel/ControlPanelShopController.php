@@ -12,11 +12,20 @@ class ControlPanelShopController extends Controller
 {
     public function ShopItemList()
     {
-        // dd(ShopItems::with('shopSubCategory')->orderBy('created_at', 'desc')->paginate(5)->toArray());
         return view('controlpanel.pages.includes.shopitem',
         [
             'categories' => ShopCategory::with('shopSubCategory')->get()->toArray(),
             'items' => ShopItems::with('shopSubCategory')->orderBy('created_at', 'desc')->paginate(4)->toArray()
+        ]);
+    }
+
+    public function ShopItemListByCategory($subcategoryId)
+    {
+        return view('controlpanel.pages.includes.shopitem',
+        [
+            'categories' => ShopCategory::with('shopSubCategory')->get()->toArray(),
+            'items' => ShopItems::with('shopSubCategory')
+                    ->where('subcategoryId', $subcategoryId)->orderBy('created_at', 'desc')->paginate(4)->toArray()
         ]);
     }
 }

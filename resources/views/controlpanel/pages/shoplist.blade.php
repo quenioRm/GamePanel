@@ -8,7 +8,7 @@
             @foreach ($categories as $category)
                 <li class="item js-playingBdo" id="visible">
                     <dd class="subitem" style="width: 200px; padding:2px">
-                        <a href="{{ route('controlpanel.accountprofileinfo') }}" class="arrow btn_normal">
+                        <a href="#" class="arrow btn_normal">
                             <span>{{ $category['name'] }}</span>
                         </a>
                     </dd>
@@ -16,8 +16,10 @@
                         <ul class="bdo_slider owl-carousel js-bdoSliderWrap no_slide" id="hidden">
                             <li class="item js-playingBdo">
                                 <dd class="subitem" style="width: 200px; position:relative; left:20px; padding:2px">
-                                    <a href="{{ route('controlpanel.accountprofileinfo') }}" class="arrow btn_normal">
+                                    <a href="{{ route('controlpanel.shopitemssubcategory', $subategory['id']) }}"
+                                    class="{{ (Route::current()->parameters()['subcategoryId'] == $subategory['id']) ? 'arrow btn_normal active' : 'arrow btn_normal'}}">
                                         <span>{{ $subategory['name'] }}</span>
+                                        {{-- <span> -{{Route::current()->parameters()['subcategoryId']}}</span> --}}
                                     </a>
                                 </dd>
                             </li>
@@ -26,6 +28,7 @@
                 </li>
             @endforeach
         </ul>
+        @if ($items['data'])
         <div id="divLoggingListArea">
             <div class="mylog_history_result search_result"> @yield('shopitem') </div>
             <div class="paging" style="position: relative; top:10px">
@@ -54,6 +57,8 @@
                 </div>
             </div>
         </div>
+        @endif
+
     </div>
 @endsection
 @push('scripts')
