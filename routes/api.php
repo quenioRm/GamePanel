@@ -21,6 +21,12 @@ Route::post('/simpleregister', [App\Http\Controllers\Auth\RegisterController::cl
 Route::prefix('nexon')->name('nexon.')->group( function(){
     Route::get('loginCheck', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'IcarusAuthCheck'])->name('loginCheck');
+
+    Route::get('inquiryBalance/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    'inquiryBalance'])->name('inquiryBalance');
+
+    Route::get('purchaseItem/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    'purchaseItem'])->name('purchaseItem');
 });
 
 //

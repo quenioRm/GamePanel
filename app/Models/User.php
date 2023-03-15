@@ -41,7 +41,8 @@ class User extends Authenticatable
         'birth',
         'nationCode',
         'isBlockEmailDomain',
-        'permission'
+        'permission',
+        'cash'
     ];
 
     /**
@@ -69,6 +70,10 @@ class User extends Authenticatable
 
     public function userinformationadd(){
         return $this->hasMany('App\Models\UserAddInformation', 'user_id');
+    }
+
+    public function cashshopbuyhistory(){
+        return $this->hasMany('App\Models\CashShopBuyHistory', 'user_id');
     }
 
     public static function MakeUser($input)
@@ -284,5 +289,12 @@ class User extends Authenticatable
             return $user;
         }
         return null;
+    }
+
+    public static function UpdateCash($username, $totalBalance)
+    {
+        $account = self::where('name', $username)->first();
+        $account->cash = $totalBalance;
+        $account->save();
     }
 }
