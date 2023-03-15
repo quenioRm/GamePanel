@@ -25,10 +25,10 @@ Route::prefix('nexon')->name('nexon.')->group( function(){
     Route::post('inquiryBalance/xml', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'inquiryBalance'])->name('inquiryBalance');
 
-    Route::post('nexonCash/charge/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    Route::post('nexonCash/charge/xml', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'inquiryBalance'])->name('nexonCash');
 
-    Route::post('purchaseItem/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    Route::post('purchaseItem/xml', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'purchaseItem'])->name('purchaseItem');
 });
 
