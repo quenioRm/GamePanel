@@ -22,10 +22,10 @@ Route::prefix('nexon')->name('nexon.')->group( function(){
     Route::get('loginCheck', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'IcarusAuthCheck'])->name('loginCheck');
 
-    Route::get('inquiryBalance/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    Route::post('inquiryBalance/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'inquiryBalance'])->name('inquiryBalance');
 
-    Route::get('purchaseItem/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    Route::post('purchaseItem/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'purchaseItem'])->name('purchaseItem');
 });
 
