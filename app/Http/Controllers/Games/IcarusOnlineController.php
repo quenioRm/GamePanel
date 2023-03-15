@@ -119,10 +119,9 @@ class IcarusOnlineController extends Controller
         }
 
         return response()->json([
-            'result' => 'success',
-            'realCash' =>1000,
-            'bonusCash' => 1000
-        ],200);
+            'service_code' => '',
+            'Result' => -97
+        ],400);
     }
 
     public function purchaseItem(Request $request)

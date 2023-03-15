@@ -22,7 +22,7 @@ Route::prefix('nexon')->name('nexon.')->group( function(){
     Route::get('loginCheck', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'IcarusAuthCheck'])->name('loginCheck');
 
-    Route::post('inquiryBalance/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    Route::post('inquiryBalance/xml', [App\Http\Controllers\Games\IcarusOnlineController::class,
     'inquiryBalance'])->name('inquiryBalance');
 
     Route::post('nexonCash/charge/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
