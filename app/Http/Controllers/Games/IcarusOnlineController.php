@@ -110,7 +110,11 @@ class IcarusOnlineController extends Controller
             if($cashAccount){
                 $realBalance = $cashAccount->cash != null ? $cashAccount->cash : 0;
 
-                return 1000;
+                return response()->json([
+                    'result' => 10000,
+                    'realCash' => intval($realBalance),
+                    'bonusCash' => intval($bonusBalance)
+                ],200);
 
             }
         }
