@@ -13,6 +13,24 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::prefix('nexon')->name('nexon.')->group( function(){
+    Route::get('loginCheck', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    'IcarusAuthCheck'])->name('loginCheck');
+
+    Route::post('inquiryBalance/xml', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    'inquiryBalance'])->name('inquiryBalance')->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class]);
+
+    Route::post('inquiryBalance/json', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    'inquiryBalance'])->name('inquiryBalance')->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class]);
+
+    Route::post('nexonCash/charge/xml', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    'inquiryBalance'])->name('nexonCash');
+
+    Route::post('purchaseItem/xml', [App\Http\Controllers\Games\IcarusOnlineController::class,
+    'purchaseItem'])->name('purchaseItem');
+
+});
+
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('lang/{lang}', ['as' => 'lang.switch', 'uses' => 'App\Http\Controllers\LanguageController@switchLang']);
 
@@ -135,5 +153,3 @@ Route::group(['prefix'=>'Member'] , function(){
 });
 
 Route::get('/GetCountries/{lang}', [App\Http\Controllers\WebController::class, 'GetCountries'])->name('countries');
-
-
