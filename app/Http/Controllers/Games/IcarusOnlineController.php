@@ -13,10 +13,10 @@ class IcarusOnlineController extends Controller
     {
         $account = User::FindAccountByUUID($request['keyVal1']);
         if($account == null)
-            return null;
+            return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
 
         if($account->isBlockEmailDomain == 1)
-            return null;
+            return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
 
         $data = array(
             'getParamInfo' => [
