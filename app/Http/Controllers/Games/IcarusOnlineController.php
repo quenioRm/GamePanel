@@ -116,22 +116,6 @@ class IcarusOnlineController extends Controller
                     'bonusCash' => intval($bonusBalance)
                 ],200);
 
-                // $data = array(
-                //     'result' => [
-                //         'result' => [
-                //             '@attributes' => array(
-                //                 'value' => 123456 // UUID
-                //             )
-                //         ],
-                //         'bonusCash' => [
-                //             '@attributes' => array(
-                //                 'value' => 123456 // Version
-                //             )
-                //         ]
-                //     ]
-                // );
-                // return response()->xml($data, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
-
             }
         }
 
@@ -213,22 +197,22 @@ class IcarusOnlineController extends Controller
 
         if ($Account != null) {
 
-            $linkItemID = $chekProdInfo[0]->LinkItemID;
-            $itemPrase = $chekProdInfo[0]->Price;
-            $itemCount = $chekProdInfo[0]->Count;
+            // $linkItemID = $chekProdInfo[0]->LinkItemID;
+            // $itemPrase = $chekProdInfo[0]->Price;
+            // $itemCount = $chekProdInfo[0]->Count;
 
-            if ($itemCnt == $itemCount) {
+            if ($itemCnt > 0) {
 
                 $realBalance = $Account->cash != null ? $Account->cash : 0;
                 $totalBalance = $realBalance;
 
-                if ($totalBalance >= $itemPrase) {
+                if ($totalBalance >= $itemUnitPrice) {
 
-                    $totalBalance = $totalBalance - $itemPrase;
+                    $totalBalance = $totalBalance - $itemUnitPrice;
 
                     User::UpdateCash($Account->name, $totalBalance);
 
-                    CashShopBuyHistory::makeNew($Account->id,  $linkItemID, $itemCount, $itemPrase);
+                    CashShopBuyHistory::makeNew($Account->id,  $itemId, $itemCnt, $itemUnitPrice);
 
                     $datajson = '{
                         "statProperty2": null,
@@ -236,12 +220,12 @@ class IcarusOnlineController extends Controller
                         "statProperty3": "success",
                         "realCash": ' . $realBalance . ',
                         "bonusCash": 0,
-                        "chargedCashAmt": ' . $itemPrase . ',
+                        "chargedCashAmt": ' . $itemUnitPrice . ',
                         "itemInfos": [
                             {
-                                "itemCnt": ' . $itemCount . ',
-                                "itemId": "' . $linkItemID . '",
-                                "itemUnitPrice": ' . $itemPrase . '
+                                "itemCnt": ' . $itemCnt . ',
+                                "itemId": "' . $itemId . '",
+                                "itemUnitPrice": ' . $itemUnitPrice . '
                             }
                         ]
                     }';
