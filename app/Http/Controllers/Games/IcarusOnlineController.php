@@ -110,27 +110,27 @@ class IcarusOnlineController extends Controller
             if($cashAccount){
                 $realBalance = $cashAccount->cash != null ? $cashAccount->cash : 0;
 
-                // return response()->json([
-                //     'result' => 'success',
-                //     'realCash' => intval($realBalance),
-                //     'bonusCash' => intval($bonusBalance)
-                // ],200);
+                return response()->json([
+                    'result' => 'success',
+                    'realCash' => intval($realBalance),
+                    'bonusCash' => intval($bonusBalance)
+                ],200);
 
-                $data = array(
-                    'result' => [
-                        'result' => [
-                            '@attributes' => array(
-                                'value' => 123456 // UUID
-                            )
-                        ],
-                        'bonusCash' => [
-                            '@attributes' => array(
-                                'value' => 123456 // Version
-                            )
-                        ]
-                    ]
-                );
-                return response()->xml($data, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
+                // $data = array(
+                //     'result' => [
+                //         'result' => [
+                //             '@attributes' => array(
+                //                 'value' => 123456 // UUID
+                //             )
+                //         ],
+                //         'bonusCash' => [
+                //             '@attributes' => array(
+                //                 'value' => 123456 // Version
+                //             )
+                //         ]
+                //     ]
+                // );
+                // return response()->xml($data, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
 
             }
         }
