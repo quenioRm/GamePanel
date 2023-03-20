@@ -5,7 +5,7 @@
                 <select id="ddlbCultureCode" name="lang">
                     @foreach (Config::get('languages') as $lang => $language)
                         {{-- @if ($lang != App::getLocale()) --}}
-                            <option value="{{ route('lang.switch', $lang) }}" 
+                            <option value="{{ route('gamepanel.lang.switch', $lang) }}" 
                             @if ($lang == App::getLocale()) {{ 'selected' }} @endif
                             >{{$language}}</option>
                         {{-- @endif --}}

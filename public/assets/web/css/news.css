@@ -1,0 +1,118 @@
+@import url('https://fonts.cdnfonts.com/css/philosopher');@import url('https://fonts.cdnfonts.com/css/roboto');body{	margin:0;}
+.wrapper{	width:100%;	max-width:1200px;	margin-left:50%;	transform:translateX(-50%);}
+/* 11-15 수정 3 */
+@media (max-width:1200px){
+	@media (min-width:1024px){
+		.wrapper{			width:calc(100% - 40px);			padding-left:20px;			padding-right:20px;		}
+	}
+}
+/* !11-15 수정 3 */
+.main-news{	margin-top:122px;	width:calc(100% - 80px);	max-width:1120px;	max-height:247px;	background-color:#212326;	position:relative;	padding:80px 40px;	padding-top:30px;  padding-bottom:130px;}/* 2022-03-15 수정 *//* 2022-03-16 수정 */
+.main-news-date{	font-family:Philosopher;  font-size:14px;  font-weight:bold;  text-align:left;  color:#9aa1af;	width:calc(100% - 600px);/* 11-14 수정 */
+}
+.main-news-type{	margin-top:20px;	font-family:Philosopher;  font-size:16px;  font-weight:bold;  text-align:left;	width:calc(100% - 600px);/* 11-14 수정 */
+}
+.main-news-title{	margin-top:10px;	font-family:Philosopher;  font-size:32px;  font-weight:bold;  text-align:left;  color:#fff;	width:calc(100% - 600px);/* 11-14 수정 */
+}
+.main-news-content{	margin-top:40px;	font-family:Roboto;  font-size:16px;  line-height:1.5;  text-align:left;  color:#9aa1af;	width:calc(100% - 600px);/* 11-14 수정 */
+}
+/* 11-14 추가 */
+@media (max-width:1116px){	.main-news{		width:calc(100% - 40px);		padding:40px 20px 120px;	}
+}
+/* 11-14 추가 */
+/* 11-15 수정 2 */
+.main-news-image{	width:600px;}
+/* !11-15 수정 2 */
+.news-tab-btn-container{	margin-top:80px;	border-bottom:solid 1px rgba(193,197,205,0.3);}
+.tab-btn{	opacity:0.4;  font-family:Philosopher;  font-size:18px;  text-align:left;  color:#0a0b0d;	padding-bottom:18px;	margin-left:20px;	margin-right:20px;	display:inline-block;}
+.tab-btn:first-child{	margin-left:0;}
+.tab-btn.on{opacity:1;  font-weight:bold;  color:#21A642;	border-bottom:solid 3px #21A642;}
+
+div .tab-btn > a {
+    text-decoration: none;
+    color: #515452;
+}
+
+div .tab-btn.on > a {
+    text-decoration: none;
+    color: #21A642;
+}
+
+.type_aau .tab-btn.on{	opacity:1;  font-weight:bold;  color:#E64219;	border-bottom:solid 3px #E64219;}
+.news{	padding-top:40px;	padding-bottom:40px;	border-bottom:solid 1px rgba(193,197,205,0.3);	position:relative;	cursor:pointer;}
+/* 11-15 수정 2 */
+.news-image{	width:320px;}
+/* !11-15 수정 2 */
+.news-date{	margin-left:370px;	margin-top:22px;	font-family:Philosopher;  font-size:14px;  font-weight:bold;  text-align:left;  color:#9aa1af;}
+.news-type{	margin-left:370px;	margin-top:20px;	font-family:Philosopher;  font-size:16px;  font-weight:bold;  text-align:left;}
+.news-type-announce{	color:#22ae46;}
+.news-type-event{	color:#ff8b03;}
+.news-type-maintenance{	color:#1971ff;}
+.news-type-updates{	color:#ff3b00;}
+.news-title{	margin-left:370px;	margin-top:10px;	font-family:Philosopher;  font-size:20px;  font-weight:bold;  text-align:left;  color:#0a0b0d;}
+.news-content{	margin-left:370px;	margin-top:20px;	margin-bottom:22px;	font-family:Roboto;  font-size:16px;  font-weight:500;  line-height:1.5;  text-align:left;  color:#86909e;}
+.load-more-btn-container{	text-align:center;	margin-top:80px;	margin-bottom:120px;}
+.btn-load-more{	padding:20px 33px;  border:solid 1px #21A642;	font-family:Philosopher;  font-size:18px;  font-weight:bold;  line-height:1.33;  color:#21A642;	display:inline-block;	border-radius:8px;}
+.type_aau .btn-load-more{padding:20px 33px;  border:solid 1px #E64219; color:#E64219;}
+.btn-page-top{	position:fixed;	right:145px;	bottom:239px;}
+.btn-page-top img{	width:70px;}
+/* footer{	width:100%;	padding-top:40px;	padding-bottom:30px;	background-color:#15171a;} *//* 2022-04-26 삭제 */
+.footer-left{	padding-left:40px;	display:inline-block;}
+.footer-logo-kakaogames{	width:120px;	vertical-align:middle;}
+.footer-logo-archeage{	width:128px;	margin-left:30px;	vertical-align:middle;}
+.policy-btn-container{	margin-top:30px;}
+.btn-policy{	display:inline-block;	font-family:Pretendard;  font-size:14px;  font-weight:500;  color:#9aa1af;	vertical-align:middle;}
+.divider{	display:inline-block;	margin-left:10px;	margin-right:10px;	width:1px;	height:8px;	background-color:#6d7580;	vertical-align:middle;}
+.copyright{	font-family:Pretendard;  font-size:12px;  color:#9aa1af;	margin-top:20px;}
+.footer-right{	text-align:right;	padding-right:40px;}
+.sns-btn-container{	margin-top:50px;}
+.btn-sns{	display:inline-block;	margin-left:15px;	margin-right:15px;	vertical-align:middle;}
+/* 11-15 수정 3 */
+.btn-sns:first-child{	margin-left:0;}
+.btn-sns:last-child{	margin-right:0;}
+/* !11-15 수정 3 */
+.btn-twitter img{	width:24px;}
+.btn-instagram img{	width:20px;}
+.btn-discode img{	width:24px;}
+.btn{	cursor:pointer;}
+.float-right{	float:right;}
+table,table *{	border:none;	border-spacing:0;}
+.main-news-image-768{	display:none;}
+.over-w768{	display:inherit;    height:100px;    word-break:break-all;}
+.under-w768{	display:none;}
+.under-w320{	display:none;}
+.select-language-footer{	// display:none;}
+.select-language{	border:solid 1px rgba(255,255,255,0.4);  background-color:rgba(10,11,13,0.5);	font-family:Philosopher;  font-size:14px;  text-align:left;  color:#fff;	position:relative;	width:149px;}
+.select-language-footer{	background-color:#000;  color:#86909e;	height:36px;}
+.select-language-footer.open{	height:108px;	margin-bottom:-72px;}
+.select-language.open{	background-color:#0a0b0d;}
+.select-language .language{	padding:10px 20px;	width:85px;	padding-left:44px;}
+.select-language .language img{	width:18px;	position:absolute;	left:20px;}
+.select-language.open .language.selected{	background-color:#2a2e33;}
+.select-language .language:not(.selected){	display:none;}
+.select-language.open .language:not(.selected){	display:block;}
+.select-language .icon-dropdown{    display:flex;	position:absolute;	top:15px;	right:20px;}
+.select-language .icon-dropdown img{	width:12px;	height:6px;	transform:rotateZ(180deg);}
+.select-language.open .icon-dropdown img{	transform:rotateZ(0deg);}
+.mobile-menu{	display:none;}
+*[onClick]{	cursor:pointer;}
+.main-news-content,.news-content{
+	text-overflow:ellipsis;	overflow:hidden;	display:-webkit-box;	-webkit-line-clamp:4;	-webkit-box-orient:vertical;}
+.main-news-content .over-w768{
+	text-overflow:ellipsis;	overflow:hidden;	-webkit-line-clamp:4;	-webkit-box-orient:vertical;}
+.news-content{
+	-webkit-line-clamp:2;}
+/* 11-15 수정 2 */ /* 11-15 수정 3 */
+@media (min-width:1024px){	.scale-img-on-hover-main{		position:absolute;		top:0;		right:0;		overflow:hidden;		display:inline-block;        height:100%;	}
+	.scale-img-on-hover{		position:absolute;		top:40px;		left:0;		overflow:hidden;		display:inline-block;	}
+	.scale-img-on-hover-main img,	.scale-img-on-hover img{		transition:transform 0.1s ease;        height:100%;	}
+	.scale-img-on-hover-main:hover img,	.scale-img-on-hover:hover img{		transform:scale(1.1);	}
+}
+@media (max-width:1200px){	@media (min-width:1024px){		.footer-left{			padding-left:20px;		}
+	.footer-right{			float:unset;			text-align:left;			padding-left:20px;		}
+	.select-language-footer{			display:block;			margin-top:30px;		}
+	.sns-btn-container{			margin-top:30px;		}
+}
+}
+/* !11-15 수정 2 */ /* !11-15 수정 3 */
+.news-tab-btn-container .icon-dropdown{	display:none;}

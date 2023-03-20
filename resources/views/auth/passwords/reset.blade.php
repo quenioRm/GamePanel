@@ -3,7 +3,7 @@
 @section('title', __('messages.login'))
 
 @section('content')
-<form action="{{ route('reset') }}" id="frmLogin" method="post">
+<form action="{{ route('gamepanel.reset') }}" id="frmLogin" method="post">
     @csrf
     <div class="container container_login">
         <article class="content system sha_login_content">
@@ -46,14 +46,14 @@
                                         @endif
                                     </span></div>
                                 </div>
-                            </li> 
+                            </li>
                             <li>
                                 <button class="btn btn_blue btn_mid" id="btnLogin">{{__('messages.btnReset')}}</button>
                             </li>
                         </ul>
 
                         <div class="box_join">
-                            <a href="{{route('register')}}">{{__('messages.registerAccount')}}</a>
+                            <a href="{{route('gamepanel.register')}}">{{__('messages.registerAccount')}}</a>
                         </div>
                     </fieldset>
                 </div>
@@ -65,7 +65,7 @@
 @endsection
 @push('scripts')
     <script src="{{asset('assets/js/signin/login.js?v=638016825217184276')}}"></script>
-                    
+
     <script>
         $(document).ready(function () {
             _abyss.login.loginInit();

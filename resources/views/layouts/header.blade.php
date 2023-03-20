@@ -32,7 +32,7 @@
         <div class="aside_body">
             <div class="aside_body_top">
                 @if (isset(Auth::user()->id))
-                <a href="{{route('controlpanel.accountprofileinfo')}}" class="aside_body_profile">
+                <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="aside_body_profile">
                     <i class="icon_character_area">
                         <span class="icon_character" style="background-image:
                         url({{(Auth::user()->avatar == '' ? asset('img/noavatar.png') :
@@ -43,22 +43,22 @@
                         <em> {{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}} </em>
                     </span>
                 </a>
-                <a href="{{route('controlpanel.accountprofileinfo')}}" class="btn_nav_info">
+                <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="btn_nav_info">
                     <i class="pi pi_nav_user"></i>
                     <span>Conta</span>
                 </a>
-                <form action="{{route('logout')}}" method="POST">
+                <form action="{{route('gamepanel.logout')}}" method="POST">
                     @csrf
                     <button class="btn_nav_info" type="submit">
                         <span>{{__('messages.logout')}}</span>
                     </button>
                 </form>
                 @else
-                <a href="{{route('register')}}" class="btn_nav_info">
+                <a href="{{route('gamepanel.register')}}" class="btn_nav_info">
                     <i class="pi pi_nav_register"></i>
                     <span>{{__('messages.make')}} {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} ID</span>
                 </a>
-                <a href="{{route('login')}}" class="btn_nav_info">
+                <a href="{{route('gamepanel.login')}}" class="btn_nav_info">
                     <i class="pi pi_nav_login"></i>
                     <span>{{__('messages.btnEnter')}}</span>
                 </a>

@@ -18,26 +18,26 @@
         <div class="inner aside_body">
             <ul class="aside_menu js-leftTabMenus">
                 <li id="side_1" class="pi_wrap menu_display_1
-                {{Route::is('controlpanel.panelaccountinfo') ? 'active' : ''}}">
-                    <a href="{{route('controlpanel.panelaccountinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+                {{Route::is('gamepanel.controlpanel.panelaccountinfo') ? 'active' : ''}}">
+                    <a href="{{route('gamepanel.controlpanel.panelaccountinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_1"></i>
                         {{__('messages.controlPanelAccountInfo')}}
                     </a>
                 </li>
                 <li id="side_2" class="pi_wrap menu_display_1
                 {{Request::segment(2) == 'profile' ? 'active' : ''}}">
-                    <a href="{{route('controlpanel.accountprofileinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+                    <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_2"></i>
                         {{__('messages.controlPanelProfilePersonal')}}
                     </a>
                 </li>
-                <li id="side_2" class="pi_wrap menu_display_1
+                {{-- <li id="side_2" class="pi_wrap menu_display_1
                 {{Request::segment(2) == 'shop' ? 'active' : ''}}">
-                    <a href="{{route('controlpanel.shopitems')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+                    <a href="{{route('gamepanel.controlpanel.shopitems')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_2"></i>
                         {{__('messages.controlpanelShop')}}
                     </a>
-                </li>
+                </li> --}}
                 {{-- <li id="side_3" class="pi_wrap menu_display_1
                 {{Request::segment(4) == 'mytickets' ? 'active' : ''}}">
                     <a href="{{route('controlpanel.tickets.mytickets')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
@@ -99,7 +99,7 @@
                 <span>© {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} Corp. All Rights Reserved.</span>
             </div>
         </div>
-        <form action="{{route('logout')}}" method="POST">
+        <form action="{{route('gamepanel.logout')}}" method="POST">
             @csrf
             <button class="btn_logout" type="submit">
                 Sair

@@ -23,7 +23,7 @@
                                         </dd>
                                     </dl>
                                     <dd class="subitem">
-                                        <a href="{{ route('controlpanel.accountprofileinfo') }}" class="arrow btn_normal">
+                                        <a href="{{ route('gamepanel.controlpanel.accountprofileinfo') }}" class="arrow btn_normal">
                                             <span>Adicionar ao carrinho</span>
                                         </a>
                                     </dd>
@@ -54,7 +54,7 @@
                                 </dd>
                             </dl>
                             <dd class="subitem">
-                                <a href="{{ route('controlpanel.accountprofileinfo') }}" class="arrow btn_normal">
+                                <a href="{{ route('gamepanel.controlpanel.accountprofileinfo') }}" class="arrow btn_normal">
                                     <span>Adicionar ao carrinho</span>
                                 </a>
                             </dd>

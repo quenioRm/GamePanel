@@ -3,7 +3,7 @@
 @section('title', __('messages.login'))
 
 @section('content')
-<form action="{{ route('login') }}" id="frmLogin" method="post">
+<form action="{{ route('gamepanel.login') }}" id="frmLogin" method="post">
     @csrf
     <div class="container container_login">
         <article class="content system sha_login_content">
@@ -120,9 +120,9 @@
                         </ul>
 
                         <div class="box_join">
-                            <a href="{{route('reset')}}">
+                            <a href="{{route('gamepanel.reset')}}">
                                 {{__('messages.recoverAccount')}}</a>
-                            <a href="{{route('register')}}">{{__('messages.registerAccount')}}</a>
+                            <a href="{{route('gamepanel.register')}}">{{__('messages.registerAccount')}}</a>
                         </div>
                     </fieldset>
                     {{-- <div class="sns_login_title"><span class="text">ou</span></div>
@@ -160,11 +160,11 @@
     </script>
     <script>
         function googleLogin(){
-            window.location.href = "{{route('google.login')}}"
+            window.location.href = "{{route('gamepanel.google.login')}}"
         }
 
         function facebooksLogin(){
-            window.location.href = "{{route('facebook.login')}}"
+            window.location.href = "{{route('gamepanel.facebook.login')}}"
         }
     </script>
 @endpush

@@ -1,0 +1,38 @@
+@media (max-width:1023px){/* 11/13 수정 - 1200px -> 1300px */
+	.over-w768{		display:none;	}
+	.under-w768{		text-overflow:ellipsis;		overflow:hidden;		-webkit-line-clamp:4;		-webkit-box-orient:vertical;		display:inherit;	}
+	.under-w320{		display:none;	}
+	.main-news{		margin-top:0;		padding:30px 20px;		width:calc(100% - 40px);	}
+	.main-news-image{		display:none;	}
+	.main-news-image-768{		display:block;		width:100%;	}
+	.main-news-date,.main-news-type,.main-news-title,.main-news-content{		width:100%;	}
+	.news-tab-btn-container{		margin-top:40px;		margin-left:16px;/* 11-17 수정 */
+		width:calc(100% - 32px);/* 11-17 수정 */
+		border:solid 1px #c1c5cd;		padding:20px 0;		text-align:center;		position:relative;	}
+	.tab-btn{		display:none;	}
+	.tab-btn.on{		display:inline-block;		border-bottom:none;		color:#0a0b0d;		padding:0;		margin:0;	}
+	.news{		padding-top:30px;		padding-bottom:0;		border:none;	}
+	.news-image{		position:relative;		top:0;		width:100%;	}
+	.news-date,.news-type,.news-title,.news-content{		margin-left:16px;	}
+	/*.news-content{		margin-bottom:0;		padding-bottom:30px;		border-bottom:solid 1px #eceef0;	}*/
+	/* footer{		padding-bottom:40px;	} *//* 2022-04-26 삭제 */
+	.footer-left{		padding-left:20px;	}
+	.footer-right{		float:unset;		text-align:left;		padding-left:20px;		padding-top:30px;	}
+	.select-language-footer{		display:inline-block;	}
+	.sns-btn-container{		margin-top:30px;	}
+	.btn-page-top{		display:none;	}
+	.mobile-menu{		position:fixed;		top:0;		left:0;		right:0;		bottom:0;		background-color:#0a0b0d;		padding:32px 16px;	}
+	.close-mobile-menu{		width:19px;		margin-bottom:21.1px;	}
+	.btn-menu{		padding-top:30.9px;		padding-bottom:31px;		font-family:Philosopher;		font-size:30px;		font-weight:bold;		line-height:1.13;		text-align:left;		color:#fff;		border-bottom:solid 1px #2a2e33;	}
+		/* 11-17 수정 */
+    	.news-tab-btn-container.open{    		padding:0;    		z-index:1;    		background-color:#fff;    	}
+    	.news-tab-btn-container.open + .news-container{    		margin-top:-240px;    	}
+    	.news-tab-btn-container.open .tab-btn{    		display:block;        border-bottom:none;        color:#0a0b0d;        padding:0;        margin:0;    		text-align:center;        opacity:1;        font-weight:bold;    		padding-top:20px;    		padding-bottom:20px;    	}
+    	.scale-img-on-hover{    		margin-left:16px;    		width:calc(100% - 32px);    	}
+    	.news-tab-btn-container .icon-dropdown{    		display:block;    		position:absolute;    		top:28px;    		right:30px;    	}
+    	.news-tab-btn-container .icon-dropdown img{    		width:11px;    		height:7px;    		transform:rotateZ(0deg);    	}
+    	.news-tab-btn-container.open .icon-dropdown img{    		transform:rotateZ(180deg);    	}
+		.news-underline{
+			margin-bottom:0;			border-bottom:solid 1px #eceef0;		}
+    	/* !11-17 수정 */
+}

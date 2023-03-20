@@ -7,17 +7,17 @@
         <div class="account_main">
             <div class="user_wrap">
                 <span class="character icon_character_area">
-                    <a href="{{route('controlpanel.profileaccount')}}" class="icon_character" style="background-image: 
+                    <a href="{{route('gamepanel.controlpanel.profileaccount')}}" class="icon_character" style="background-image:
                     url({{(Auth::user()->avatar == '' ? asset('img/noavatar.png') : asset('storage/user/avatar/' . Auth::user()->id .'/'. Auth::user()->avatar))}});">
                         <span class="blind">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
                     </a>
                 </span>
-                <a href="{{route('controlpanel.profileaccount')}}" class="btn_more">
+                <a href="{{route('gamepanel.controlpanel.profileaccount')}}" class="btn_more">
                     <span class="blind" id="profileNameSetup">{{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}}</span>
                     <i class="pi pi_dash_more_white"></i>
                 </a>
-                <a href="{{route('controlpanel.profileaccount')}}" class="nickname" aria-labelledby="profileNameSetup">{{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}}</a>
-                <a href="{{route('controlpanel.profileaccount')}}" class="date" aria-labelledby="profileNameSetup">{{__('messages.controlPanelAccountInfoMemberSince')}} 
+                <a href="{{route('gamepanel.controlpanel.profileaccount')}}" class="nickname" aria-labelledby="profileNameSetup">{{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}}</a>
+                <a href="{{route('gamepanel.controlpanel.profileaccount')}}" class="date" aria-labelledby="profileNameSetup">{{__('messages.controlPanelAccountInfoMemberSince')}}
                     {{date('d/m/Y', strtotime(Auth::user()->created_at))}}</a>
             </div>
             <div class="deshboard">
@@ -33,10 +33,10 @@
                                     <li class="item js-playingBdo">
                                         <dl class="subitems">
                                             <dd class="subitem">
-                                                <a href="{{route('controlpanel.accountlogip')}}" class="arrow btn_normal"><span>Minha Atividade</span></a>
+                                                <a href="{{route('gamepanel.controlpanel.accountlogip')}}" class="arrow btn_normal"><span>Minha Atividade</span></a>
                                             </dd>
                                             <dd class="subitem">
-                                                <a href="{{route('controlpanel.accountprofileinfo')}}" class="arrow btn_normal">
+                                                <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="arrow btn_normal">
                                                     <span>Informações pessoais</span>
                                                 </a>
                                             </dd>
@@ -58,7 +58,7 @@
                 <div class="desh_right">
                     <div class="desh_box account">
                         <div class="desh_title">
-                            <a href="{{route('controlpanel.accountprofileinfo')}}" class="btn_more">
+                            <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="btn_more">
                                 <span class="blind" id="accountMyInfo">{{__('messages.controlPanelProfilePersonal')}}</span>
                                 <i class="pi pi_dash_more"></i>
                             </a>
@@ -66,19 +66,19 @@
                             <h3 class="title">{{__('messages.account')}}</h3>
                         </div>
                         <div class="desh_content account_wrap">
-                            <a href="{{route('controlpanel.accountprofileinfo')}}" class="email" aria-labelledby="accountMyInfo">{{Auth::user()->email}}</a>
-                            
+                            <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="email" aria-labelledby="accountMyInfo">{{Auth::user()->email}}</a>
+
                             @if (isset($lastpasswordhange->created_at))
                             <p class="date_change">{{__('messages.changedPasswordAt')}}  {{$lastpasswordhange->created_at->format('d/m/y H:i:s')}}</p>
                             @endif
-                            <a href="{{route('controlpanel.accountprofilechangepassword')}}" class="btn_normal">
+                            <a href="{{route('gamepanel.controlpanel.accountprofilechangepassword')}}" class="btn_normal">
                                 {{__('messages.controlPanelProfileChangePasswordTitle')}}</a>
                         </div>
                     </div>
                     @if (isset($ip))
                     <div class="desh_box logged">
                         <div class="desh_title">
-                            <a href="{{route('controlpanel.accountlogip')}}" class="btn_more">
+                            <a href="{{route('gamepanel.controlpanel.accountlogip')}}" class="btn_more">
                                 <span class="blind">{{__('messages.LoginHistory')}}</span>
                                 <i class="pi pi_dash_more"></i>
                             </a>
@@ -91,10 +91,10 @@
                                 <span class="dot dot2"></span>
                                 <span class="dot dot3"></span>
                                 <span class="bullet"></span>
-                                
+
                                 <p class="logged_place">
                                     {{$ip->cityName}} - {{$ip->regionCode}}, {{$ip->countryName}}
-                                    
+
                                 </p>
                                 <p class="logged_time">
                                     {{__('messages.connected')}}
@@ -159,7 +159,7 @@
                                     <span class="btn_secure disabled"><i class="icn_svg security_check gray"></i></span>
                                 </li> --}}
                                 <li class="item">
-                                    <a href="{{route('controlpanel.accountprofilesecondemail')}}" class="title">{{__('messages.accountprofileMessage4')}}</a>
+                                    <a href="{{route('gamepanel.controlpanel.accountprofilesecondemail')}}" class="title">{{__('messages.accountprofileMessage4')}}</a>
                                     <span class="btn_secure {{(!isset(Auth::user()->userinformationadd[0]->email) ? 'disabled' : '')}}">
                                     <i class="icn_svg security_check {{(!isset(Auth::user()->userinformationadd[0]->email) ? 'gray' : '')}}"></i></span>
                                 </li>
@@ -174,7 +174,7 @@
 <script src="{{asset('assets/js/accountinfo/mypage.js?v=638016825217184276')}}"></script>
 <script src="{{asset('assets/js/accountinfo/dashboard.js?v=638016825217184276')}}"></script>
 <script src="{{asset('assets/js/signin/login.js?v=638016825217184276')}}"></script>
-                    
+
 <script>
     $(document).ready(function () {
         _abyss.login.loginInit();
@@ -190,11 +190,11 @@
 <script>
     $('#isIpCheck').change(function() {
 
-        $('#isIpCheck').val(this.checked); 
+        $('#isIpCheck').val(this.checked);
 
-            var url = '{{ route("controlpanel.accountprotectaccountbyip", ":isIpCheck") }}';
+            var url = '{{ route("gamepanel.controlpanel.accountprotectaccountbyip", ":isIpCheck") }}';
             url = url.replace(':isIpCheck', this.value);
-        
+
             $.ajax({
                 url: url,
                 type: 'get',

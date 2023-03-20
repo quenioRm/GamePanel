@@ -1,0 +1,42 @@
+@media (max-width:767px){/* 11/13 수정 - 500px -> 768px *//* 11-15 수정 2 - 768px -> 767px */
+	.over-w768{		display:none;	}
+	.under-w768{    display:none;  }
+	.under-w320{    display:inherit;	}
+	.main-news{		padding:20px 16px;		width:calc(100% - 32px);	}
+	.main-news-date{		font-size:12px;	}
+	.main-news-type{		font-size:12px;	}
+	.main-news-title{		font-size:18px;	}
+	.main-news-content{		margin-top:20px;		font-size:12px;	}
+	.news-tab-btn-container{		margin-top:30px;		margin-left:16px;		width:calc(100% - 32px);		padding:16px 0;	}
+	.news{		padding-top:20px;	}
+	.news-image{		width:100%;/* 11-17 수정 */
+    		/* margin-left:16px;*//* 11-17 수정 */
+	}
+	.news-date{		margin-top:10px;		font-size:12px;		width:calc(100% - 32px);	}
+	.news-type{		margin-top:14px;		font-size:14px;		width:calc(100% - 32px);	}
+	.news-title{		font-size:16px;		width:calc(100% - 32px);	}
+	.news-content{		margin-top:10px;		font-size:12px;		width:calc(100% - 32px);		padding-bottom:20px;	}
+	.load-more-btn-container{		margin-top:30px;		margin-bottom:60px;	}
+	.btn-load-more{		padding:14px 40px;		font-size:14px;		line-height:1.71;	}
+	/* footer{		padding-top:30px;		padding-bottom:30px;		text-align:center;	} *//* 2022-04-26 삭제 */
+	.footer-left{		padding:0;	}
+	.footer-right{		padding:0;	}
+	.footer-logo-kakaogames{		width:100px;	}
+	.footer-logo-archeage{		width:102px;		margin-left:20px;	}
+	.btn-policy{		font-size:12px;	}
+	.divider{		display:block;		width:0px;	}
+	.footer-right{		text-align:center;	}
+	.copyright{		font-size:10px;		line-height:1.6;	}
+		/* 11-17 수정 */
+    	.tab-btn{    		font-size:14px;    	}
+    	.news-tab-btn-container.open .tab-btn{    		padding-top:16px;    		padding-bottom:16px;    	}
+    	.news-tab-btn-container.open + .news-container{    		margin-top:-192px;    	}
+    	.news-tab-btn-container .icon-dropdown{    		top:20px;    		right:22px;    	}
+		.main-news-content,.news-content{
+			text-overflow:ellipsis;			overflow:hidden;			display:-webkit-box;			-webkit-line-clamp:4;			-webkit-box-orient:vertical;		}
+		.news-content{
+			-webkit-line-clamp:2;			height:20px;		}
+		.main-news-content .under-w320,.main-news-content .under-w768{
+			text-overflow:ellipsis;			-webkit-line-clamp:2;			-webkit-box-orient:vertical;			height:33px;		}
+    	/* !11-17 수정 */
+}
