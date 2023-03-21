@@ -1,4 +1,4 @@
-@extends('pages.newsPages.layout.main')
+@extends('web.pages.newsPages.layout.main')
 
 @section('title', 'News')
 

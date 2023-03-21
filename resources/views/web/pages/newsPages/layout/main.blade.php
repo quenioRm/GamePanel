@@ -3,9 +3,9 @@
 @section('title', 'News')
 
 @push('styles')
-<link rel="stylesheet" href="{{asset('assets/css/news.css')}}"/>
-<link rel="stylesheet" href="{{asset('assets/css/news.320.css')}}"/>
-<link rel="stylesheet" href="{{asset('assets/css/news.768.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/web/css/news.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/web/css/news.320.css')}}"/>
+<link rel="stylesheet" href="{{asset('assets/web/css/news.768.css')}}"/>
 @endpush
 
 @section('content')

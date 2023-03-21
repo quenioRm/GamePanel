@@ -76,6 +76,10 @@ class User extends Authenticatable
         return $this->hasMany('App\Models\CashShopBuyHistory', 'user_id');
     }
 
+    public function news(){
+        return $this->hasMany('App\Models\News', 'user_id');
+    }
+
     public static function MakeUser($input)
     {
         $web_tran = DB::connection('web');

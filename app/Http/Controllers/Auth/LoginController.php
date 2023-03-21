@@ -96,7 +96,7 @@ class LoginController extends Controller
                 $validator->errors()->add('email', Lang::get('messages.userNotFound'));
                 return $request->wantsJson()
                 ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
-                : redirect(route('login'))->withInput()->withErrors($validator->errors());
+                : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
                 break;
             case -1:
                 $validator->errors()->add('password', Lang::get('messages.incorrectPassword'));
@@ -180,7 +180,7 @@ class LoginController extends Controller
         ]);
 
         if(!$validator->passes()){
-            return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+            return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
         }
 
         $user = User::ResetPassword($request['email'], $request['password'], $request['isIpCheck']);
@@ -188,19 +188,19 @@ class LoginController extends Controller
         switch ($user['code']) {
             case -3:
                 $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
-                return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
                 break;
             case -2:
                 $validator->errors()->add('email', Lang::get('messages.userNotFound'));
-                return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
                 break;
             case -1:
                 $validator->errors()->add('email', Lang::get('messages.resetPasswordTimeElapsed'));
-                return redirect(route('reset'))->withInput()->withErrors($validator->errors());
+                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
                 break;
         }
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetPasswordMessage')]);
-        return redirect()->route('login');
+        return redirect()->route('gamepanel.login');
     }
 }

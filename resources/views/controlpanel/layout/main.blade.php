@@ -5,6 +5,7 @@
 @push('styles')
     <link type="text/css" rel="stylesheet" href="{{asset('assets/css/mypage.css?v=638016825217184276')}}" />
     <link type="text/css" rel="stylesheet" href="{{asset('assets/css/owl.carousel.min.css')}}" />
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
 @endpush
 
 @section('content')
@@ -29,6 +30,13 @@
                     <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
                         <i class="pi pi_mypage_2"></i>
                         {{__('messages.controlPanelProfilePersonal')}}
+                    </a>
+                </li>
+                <li id="side_2" class="pi_wrap menu_display_1
+                {{Request::segment(2) == 'profile' ? 'active' : ''}}">
+                    <a href="{{route('gamepanel.controlpanel.news.list')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+                        <i class="pi pi_mypage_2"></i>
+                        Adicionar Noticias
                     </a>
                 </li>
                 {{-- <li id="side_2" class="pi_wrap menu_display_1

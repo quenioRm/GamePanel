@@ -45,6 +45,21 @@ Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
         Route::get('accountinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
         'AccountInfoForm'])->name('panelaccountinfo');
 
+        // news
+        Route::prefix('news')->name('news.')->group( function(){
+
+            // Get News List
+            Route::get('list', [App\Http\Controllers\ControlPanel\ControlPanelNewsController::class,
+            'List'])->name('list');
+
+            Route::get('add', [App\Http\Controllers\ControlPanel\ControlPanelNewsController::class,
+            'Add'])->name('add');
+
+            Route::post('add', [App\Http\Controllers\ControlPanel\ControlPanelNewsController::class,
+            'AddPost']);
+
+        });
+
         // Shop
         Route::group(['prefix'=> 'shop'], function(){
 

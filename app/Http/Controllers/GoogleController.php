@@ -40,8 +40,8 @@ class GoogleController extends Controller
             }
 
             Auth::loginUsingId($saveUser->id);
-            
-            return redirect()->route('home');
+
+            return redirect()->route('gamepanel.home');
         } catch (\Throwable $th) {
             throw $th;
         }

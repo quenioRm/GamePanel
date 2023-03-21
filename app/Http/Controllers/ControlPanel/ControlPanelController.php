@@ -28,7 +28,7 @@ class ControlPanelController extends Controller
     {
         Auth::user()->load('userinformationadd');
 
-        return view('controlpanel.pages.accountinfo', 
+        return view('controlpanel.pages.accountinfo',
         [
             'lastpasswordhange' => UserPasswordChangeLog::FindLastChange(),
             'ip' => UserLoginAccountLog::GetLastLog()
@@ -40,7 +40,7 @@ class ControlPanelController extends Controller
         // $data = User::find(Auth::user()->id)->with('useravatar');
         $data = User::where('id', Auth::user()->id)->with('useravatar')->get();
         // dd($data->toArray());
-        return view('controlpanel.pages.profileaccount', 
+        return view('controlpanel.pages.profileaccount',
         [
             'account' => $data->toArray(),
             'lastpasswordhange' => UserPasswordChangeLog::FindLastChange()
@@ -65,14 +65,14 @@ class ControlPanelController extends Controller
         ]);
 
         if(!$validator->passes()){
-            return redirect(route('controlpanel.profileaccount'))->withInput()->withErrors($validator->errors());
+            return redirect(route('gamepanel.controlpanel.profileaccount'))->withInput()->withErrors($validator->errors());
         }
 
         $user = User::UpdateProfile($request['name'], $request['profileImageNo']);
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
 
-        return redirect(route('controlpanel.profileaccount'));
+        return redirect(route('gamepanel.controlpanel.profileaccount'));
     }
 
     public function ProfileAccountFormuploadAvatar(Request $request)
@@ -96,7 +96,7 @@ class ControlPanelController extends Controller
 
     public function AccountProfileInfoForm()
     {
-        return view('controlpanel.pages.accountprofileinfo',        
+        return view('controlpanel.pages.accountprofileinfo',
         [
             'accountregion' => Countries::GetCountrie(),
             'lastpasswordhange' => UserPasswordChangeLog::FindLastChange()
@@ -125,24 +125,24 @@ class ControlPanelController extends Controller
         ]);
 
         if(!$validator->passes()){
-            return redirect(route('controlpanel.accountprofilesecondemail'))->withInput()->withErrors($validator->errors());
+            return redirect(route('gamepanel.controlpanel.accountprofilesecondemail'))->withInput()->withErrors($validator->errors());
         }
 
         $user = UserAddInformation::MakeInformationAdd($request->email, null);
         switch ($user['code']) {
             case -1:
                 $validator->errors()->add('email', Lang::get('messages.controlPanelProfileSecondEmailMessage_2'));
-                return redirect(route('controlpanel.accountprofilesecondemail'))->withInput()->withErrors($validator->errors());
-                break;    
+                return redirect(route('gamepanel.controlpanel.accountprofilesecondemail'))->withInput()->withErrors($validator->errors());
+                break;
         }
 
         UsersActivation::MakeActivationCode($request);
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
-        return redirect()->route('controlpanel.accountprofilesecondemailconfirmation', [
+        return redirect()->route('gamepanel.controlpanel.accountprofilesecondemailconfirmation', [
             'email' => $user['data']->email
         ]);
-        return redirect()->route('controlpanel.accountprofilesecondemailconfirmation', ['account', $user['data']]);
+        return redirect()->route('gamepanel.controlpanel.accountprofilesecondemailconfirmation', ['account', $user['data']]);
     }
 
     public function AccountProfileSecondEmailConfirmationForm()
@@ -169,14 +169,14 @@ class ControlPanelController extends Controller
         ]);
 
         if(!$validator->passes()){
-            return redirect(route('controlpanel.accountprofilesecondemailconfirmation'))
+            return redirect(route('gamepanel.controlpanel.accountprofilesecondemailconfirmation'))
             ->withInput()->withErrors($validator->errors());
         }
 
         UserAddInformation::ConfirmEmail($request->email, $request->authKey);
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
 
-        return redirect(route('controlpanel.profileaccount'));
+        return redirect(route('gamepanel.controlpanel.profileaccount'));
     }
 
     public function AccountProfileChangePasswordForm()
@@ -197,27 +197,28 @@ class ControlPanelController extends Controller
         ]);
 
         if(!$validator->passes())
-            return redirect(route('controlpanel.accountprofilechangepassword'))->withInput()->withErrors($validator->errors());
+            return redirect(route('gamepanel.controlpanel.accountprofilechangepassword'))->withInput()->withErrors($validator->errors());
 
         if(hash('sha512', $request['oldPassword']) != Auth::user()->password){
             $validator->errors()->add('oldPassword', Lang::get('messages.OPasswordMessage'));
-            return redirect(route('controlpanel.accountprofilechangepassword'))->withInput()->withErrors($validator->errors());
+
+            return redirect(route('gamepanel.controlpanel.accountprofilechangepassword'))->withInput()->withErrors($validator->errors());
         }
 
         User::ChangePassword($request->password);
-        
+
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.accountInfoUpdateSucess')]);
-        return redirect(route('controlpanel.accountprofilechangepassword'));
+        return redirect(route('gamepanel.controlpanel.accountprofilechangepassword'));
     }
 
     public function ProtectAccountByIp($isIpCheck)
     {
         ($isIpCheck == "false" ? $isIpCheck = 0 : $isIpCheck = 1);
-        
+
         $user = User::SetIpCheck($isIpCheck);
         if($user == 0)
             return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountInfoUpdateSucess'), 'returnUrl' => '' ], 200);
-        
+
         return response()->json(['resultCode' => -1002, 'resultMsg' => Lang::get('messages.accountActivateFailed'),
         'returnUrl' => '' ], 400);
     }

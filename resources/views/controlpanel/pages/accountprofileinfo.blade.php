@@ -68,7 +68,7 @@
                             @endif
                         <td class="align_right">
                             <div class="btn_wrap">
-                                <a href="{{route('controlpanel.accountprofilechangepassword')}}" class="btn btn_gray btn_sml"><span>{{__('messages.controlPanelProfileChangePasswordTitle')}}</span></a>
+                                <a href="{{route('gamepanel.controlpanel.accountprofilechangepassword')}}" class="btn btn_gray btn_sml"><span>{{__('messages.controlPanelProfileChangePasswordTitle')}}</span></a>
                             </div>
                         </td>
                     </tr>

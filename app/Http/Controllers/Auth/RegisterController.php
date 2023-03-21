@@ -114,17 +114,17 @@ class RegisterController extends Controller
         ]);
 
         if(!$validator->passes())
-            return redirect(route('register'))->withInput()->withErrors($validator->errors());
+            return redirect(route('gamepanel.register'))->withInput()->withErrors($validator->errors());
 
         $user = UsersActivation::CheckIsActivated($request['email'], $request['authKey']);
         switch ($user) {
             case -1:
                 $validator->errors()->add('email', Lang::get('messages.accountIsNotActivated'));
-                return redirect(route('register'))->withInput()->withErrors($validator->errors());
+                return redirect(route('gamepanel.register'))->withInput()->withErrors($validator->errors());
                 break;
             case -2:
                 $validator->errors()->add('email', Lang::get('messages.codeExpired'));
-                return redirect(route('register'))->withInput()->withErrors($validator->errors());
+                return redirect(route('gamepanel.register'))->withInput()->withErrors($validator->errors());
                 break;
             // case 0:
             //     return response()->json(['resultCode' => 0, 'resultMsg' => Lang::get('messages.accountIstActivated'), 'returnUrl' => '' ], 200);

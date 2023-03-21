@@ -24,7 +24,7 @@ class FacebookController extends Controller
 
             if($isUser){
                 Auth::login($isUser);
-                return redirect()->route('home');
+                return redirect()->route('gamepanel.home');
             }else{
                 $createUser = User::create([
                     'name' => $user->name,
@@ -34,11 +34,11 @@ class FacebookController extends Controller
                 ]);
 
                 Auth::login($createUser);
-                return redirect()->route('home');
+                return redirect()->route('gamepanel.home');
             }
 
         } catch (Exception $exception) {
-            return redirect()->route('login');
+            return redirect()->route('gamepanel.login');
         }
     }
 }

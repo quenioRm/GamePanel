@@ -11,7 +11,7 @@
         <span class="h3_desc">{{__('messages.controlPanelProfileChangePasswordMessage')}}</span>
     </div>
 
-    <form action="{{route('controlpanel.accountprofilechangepassword')}}" id="frmPasswordChange" method="post" novalidate="novalidate">
+    <form action="{{route('gamepanel.controlpanel.accountprofilechangepassword')}}" id="frmPasswordChange" method="post" novalidate="novalidate">
         @csrf
         <div class="box_white">
             <div class="change_area">
