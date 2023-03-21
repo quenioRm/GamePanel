@@ -53,7 +53,7 @@
                         <td class=""></td>
                         <td class="align_right">
                             <div class="btn_wrap">
-                                <a href="{{route('controlpanel.accountprofilesecondemail')}}" class="btn btn_gray btn_sml" id="js-linkAddEmail"><span>{{__('messages.accountprofileMessage7')}}</span></a>
+                                <a href="{{route('gamepanel.controlpanel.accountprofilesecondemail')}}" class="btn btn_gray btn_sml" id="js-linkAddEmail"><span>{{__('messages.accountprofileMessage7')}}</span></a>
                             </div>
                         </td>
                     </tr>

@@ -1,7 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 */
 // Web
 Route::get('/', [App\Http\Controllers\Web\MainController::class, 'Home'])->name('home');
+Route::get('/logout', [App\Http\Controllers\Auth\LoginController::class, 'logout'])->name('logout');
 
 Route::get('/download', [App\Http\Controllers\Web\MainController::class,
 'Download'])->name('download');

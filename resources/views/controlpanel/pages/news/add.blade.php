@@ -9,26 +9,35 @@
         <form action="{{route('gamepanel.controlpanel.news.add')}}" class="js-submitActive container_wrap" id="frmJoin" method="post">
         @csrf
 
-        <textarea id="summernote" name="description"></textarea>
+        <div class="input_margin">
+            <div class="custom_input label ">
+            <div class="custom_inputBox">
+                <textarea id="summernote" name="description"></textarea>
+                <div class="input_validate error"><span class="{{($errors->has('image_url') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="name" data-valmsg-replace="true">
+                    @if ($errors->has('image_url'))
+                    <span class="">{{$errors->first('image_url')}}</span>
+                    @endif
+                    </span>
+                </div>
+            </div>
+        </div>
 
+        <br>
         <br>
         <div class="input_margin js-country" data-nation="BR">
             <div class="custom_wrap select2-input select2-input ">
                <div class="custom_select">
-                  <select Icon="" Placeholder="" class="js-nationSelect js-select2" data-val="true" data-val-required="Favor selecionar a região." id="nationCode" labelName="Região" name="language">
-                     <option value="pt-BR">Português Brasil</option>
-                     <option value="en">Inglês</option>
-                     <option value="es">Espanhol</option>
-                     {{-- @foreach ($countries as $country)
-                          <option value="{{$country->code_1}}" @if (old('nationCode') == $country->code_1) {{ 'selected' }} @endif>{{$country->name}}</option>
-                     @endforeach --}}
+                  <select Icon="" Placeholder="" class="js-nationSelect js-select2" data-val="true" data-val-required="Favor selecionar a região." id="language" labelName="Região" name="language">
+                     <option value="pt-BR" @if (old('language') == 'pt-BR') {{ 'selected' }} @endif>Português Brasil</option>
+                     <option value="en" @if (old('language') == 'en') {{ 'selected' }} @endif>Inglês</option>
+                     <option value="es" @if (old('language') == 'es') {{ 'selected' }} @endif>Espanhol</option>
                   </select>
                </div>
-               <label for="nationCode" class="input_label js-labelSelect">Idioma</label>
+               <label for="language" class="input_label js-labelSelect">Idioma</label>
             </div>
-            <div class="input_validate error"><span class="{{($errors->has('nationCode') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="nationCode" data-valmsg-replace="true">
-                 @if ($errors->has('nationCode'))
-                    <span class="">{{$errors->first('nationCode')}}</span>
+            <div class="input_validate error"><span class="{{($errors->has('language') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="language" data-valmsg-replace="true">
+                 @if ($errors->has('language'))
+                    <span class="">{{$errors->first('language')}}</span>
                  @endif
                  </span>
            </div>
@@ -39,20 +48,17 @@
              <div class="custom_wrap select2-input select2-input ">
                 <div class="custom_select">
                    <select Icon="" Placeholder="" class="js-nationSelect js-select2" data-val="true" data-val-required="Favor selecionar a região." id="nationCode" labelName="Região" name="category">
-                      <option value="announce">Anúncio</option>
-                      <option value="event">Evento</option>
-                      <option value="maintenance">Manutenção</option>
-                      <option value="update">Atualização</option>
-                      {{-- @foreach ($countries as $country)
-                           <option value="{{$country->code_1}}" @if (old('nationCode') == $country->code_1) {{ 'selected' }} @endif>{{$country->name}}</option>
-                      @endforeach --}}
+                      <option value="announce" @if (old('category') == 'announce') {{ 'selected' }} @endif>Anúncio</option>
+                      <option value="event" @if (old('category') == 'event') {{ 'selected' }} @endif>Evento</option>
+                      <option value="maintenance" @if (old('category') == 'maintenance') {{ 'selected' }} @endif>Manutenção</option>
+                      <option value="update" @if (old('category') == 'update') {{ 'selected' }} @endif>Atualização</option>
                    </select>
                 </div>
-                <label for="nationCode" class="input_label js-labelSelect">{{__('messages.nation')}}</label>
+                <label for="category" class="input_label js-labelSelect">Categoria</label>
              </div>
-             <div class="input_validate error"><span class="{{($errors->has('nationCode') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="nationCode" data-valmsg-replace="true">
-                  @if ($errors->has('nationCode'))
-                     <span class="">{{$errors->first('nationCode')}}</span>
+             <div class="input_validate error"><span class="{{($errors->has('category') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="nationCode" data-valmsg-replace="true">
+                  @if ($errors->has('category'))
+                     <span class="">{{$errors->first('category')}}</span>
                   @endif
                   </span>
             </div>
@@ -77,8 +83,19 @@
             </div>
          </div>
 
-         <br>
-         <input type="file" name="image_url">
+        <br>
+        <div class="input_margin">
+            <div class="custom_input label ">
+            <div class="custom_inputBox">
+                <input type="file" name="image_url">
+                <div class="input_validate error"><span class="{{($errors->has('image_url') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="name" data-valmsg-replace="true">
+                    @if ($errors->has('image_url'))
+                    <span class="">{{$errors->first('image_url')}}</span>
+                    @endif
+                    </span>
+                </div>
+            </div>
+        </div>
 
          <br>
         <br>

@@ -26,4 +26,12 @@ class News extends Model
         return $this->belongsTo('App\Models\User', 'user_id');
     }
 
+    public static function MakeNew()
+    {
+        if(Storage::disk('news')->exists('tutorial.pdf')){
+
+        }
+
+    }
+
 }

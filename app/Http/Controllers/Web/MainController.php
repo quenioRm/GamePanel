@@ -22,4 +22,10 @@ class MainController extends Controller
     {
         return view('web.pages.newsPages.news');
     }
+
+    public function logout()
+    {
+        Auth::logout();
+        return redirect(route('logout'));
+    }
 }

@@ -4,7 +4,7 @@
 
 @section('controlPalnel')
 <article class="content addemail">
-    <form action="{{route('controlpanel.accountprofilesecondemail')}}" id="frmAddEmail" method="post" novalidate="novalidate">
+    <form action="{{route('gamepanel.controlpanel.accountprofilesecondemail')}}" id="frmAddEmail" method="post" novalidate="novalidate">
         @csrf
        <div class="email_confirm">
           <h2 class="line">{{__('messages.controlPanelProfileSecondEmail')}}</h2>

@@ -33,8 +33,8 @@
                 <a href="#" class="link_account"> {{Auth::user()->name}}<span class="ico_svg"></span> </a>
                 <ul class="list_subaccount">
                     <li>
-                        <a href="javascript:;" onclick="click_my_account()" class="link_subaccount link_my">MY ACCOUNT</a>
-                        <a href="javascript:;" onclick="click_logout()" class="link_subaccount link_logout">LOGOUT</a>
+                        <a href="{{route('gamepanel.controlpanel.profileaccount')}}" onclick="click_my_account()" class="link_subaccount link_my">MY ACCOUNT</a>
+                        <a href="{{route('logout')}}" onclick="click_logout()" class="link_subaccount link_logout">LOGOUT</a>
                     </li>
                 </ul>
             </li>
@@ -45,8 +45,8 @@
     <div class="group_account">
         <button type="button" class="btn_account_open"><span class="ico_svg">account open</span></button>
         <ul class="list_account">
-           <li> <a href="javascript:goLogin();" class="link_account"><span data-text="tab.login">LOGIN</span> </a> </li>
-           <li> <a href="javascript:goRegister();" class="link_account"> <span data-text="tab.signin">CREATE ACCOUNT</span> </a> </li>
+           <li> <a href="{{route('gamepanel.login')}}" class="link_account"><span data-text="tab.login">LOGIN</span> </a> </li>
+           <li> <a href="{{route('gamepanel.register')}}" class="link_account"> <span data-text="tab.signin">CREATE ACCOUNT</span> </a> </li>
         </ul>
         <button type="button" class="btn_account_close"> <span class="ico_svg">account close</span> </button>
      </div>
