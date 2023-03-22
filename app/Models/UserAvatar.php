@@ -43,10 +43,13 @@ class UserAvatar extends Model
                 }
 
                 $destinationPath = storage_path('app/public/user/avatar/') . Auth::user()->id .'/'. time(). '.' . $input->avatar->extension();
+
                 $imgFile = Image::make($image->getRealPath());
-                $imgFile->resize(200, 200, function ($constraint) {
-                    $constraint->upsize();
-                })->save($destinationPath);
+                // $imgFile->resize(200, 200, function ($constraint) {
+                //     $constraint->upsize();
+                // })->save($destinationPath);
+
+                $image->storeAs('public/user/avatar/', Auth::user()->id .'/'. time(). '.' . $input->avatar->extension());
 
                 $avatar = new UserAvatar();
                 $avatar->user_id = Auth::user()->id;

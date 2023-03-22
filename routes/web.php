@@ -58,6 +58,15 @@ Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
             Route::post('add', [App\Http\Controllers\ControlPanel\ControlPanelNewsController::class,
             'AddPost']);
 
+            Route::get('edit/{id}', [App\Http\Controllers\ControlPanel\ControlPanelNewsController::class,
+            'Edit'])->name('edit');
+
+            Route::post('edit/{id}', [App\Http\Controllers\ControlPanel\ControlPanelNewsController::class,
+            'EditPost']);
+
+            Route::get('delete/{id}', [App\Http\Controllers\ControlPanel\ControlPanelNewsController::class,
+            'Delete'])->name('delete');
+
         });
 
         // Shop

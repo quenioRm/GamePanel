@@ -1,6 +1,6 @@
 @extends('controlpanel.layout.main')
 
-@section('title', __('messages.controlPanelAccountInfo'))
+@section('title', "Noticias - Lista")
 
 @section('controlPalnel')
 <article class="content logging">

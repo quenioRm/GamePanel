@@ -35,7 +35,7 @@
         <div class="btn tab-btn" onclick="click_tab_btn('NEWS301')" data-type="NEWS301" data-tab="announce">ANNOUNCEMENT</div>
         <div class="btn tab-btn" onclick="click_tab_btn('NEWS302')" data-type="NEWS302" data-tab="event">EVENT</div>
         <div class="btn tab-btn" onclick="click_tab_btn('NEWS303')" data-type="NEWS303" data-tab="maintenance">MAINTENANCE</div>
-        <div class="btn tab-btn" onclick="click_tab_btn('NEWS304')" data-type="NEWS304" data-tab="updates">UPDATE</div>
+        <div class="btn tab-btn" onclick="click_tab_btn('NEWS304')" data-type="NEWS304" data-tab="update">UPDATE</div>
     </div> --}}
 
     <div class="news-container">

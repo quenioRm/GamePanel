@@ -21,13 +21,13 @@
         </div>
     </div>
     <div id="divLoggingListArea col-sm" style="left: 20px; position: relative; top: 10px">
-        <form action="{{route('gamepanel.controlpanel.news.add')}}" class="js-submitActive container_wrap" id="frmJoin" method="post" enctype="multipart/form-data">
+        <form action="{{route('gamepanel.controlpanel.news.edit',  $item['id'])}}" class="js-submitActive container_wrap" id="frmJoin" method="post" enctype="multipart/form-data">
         @csrf
 
         <div class="input_margin">
             <div class="custom_input label ">
             <div class="custom_inputBox">
-                <textarea id="summernote" name="description">{{old('description')}}</textarea>
+                <textarea id="summernote" name="description">{{old('description', $item['description'])}}</textarea>
                 <div class="input_validate error"><span class="{{($errors->has('description') ? 'field-validation-error' : 'field-validation-valid')}}">
                     @if ($errors->has('description'))
                     <span class="">{{$errors->first('description')}}</span>
@@ -43,9 +43,9 @@
             <div class="custom_wrap select2-input select2-input ">
                <div class="custom_select">
                   <select Icon="" Placeholder="" class="js-nationSelect js-select2" data-val="true" data-val-required="Favor selecionar a região." id="language" labelName="Região" name="language">
-                     <option value="pt-BR" @if (old('language') == 'pt-BR') {{ 'selected' }} @endif>Português Brasil</option>
-                     <option value="en" @if (old('language') == 'en') {{ 'selected' }} @endif>Inglês</option>
-                     <option value="es" @if (old('language') == 'es') {{ 'selected' }} @endif>Espanhol</option>
+                     <option value="pt-BR" @if (old('language', $item['language']) == 'pt-BR') {{ 'selected' }} @endif>Português Brasil</option>
+                     <option value="en" @if (old('language', $item['language']) == 'en') {{ 'selected' }} @endif>Inglês</option>
+                     <option value="es" @if (old('language', $item['language']) == 'es') {{ 'selected' }} @endif>Espanhol</option>
                   </select>
                </div>
                <label for="language" class="input_label js-labelSelect">Idioma</label>
@@ -63,10 +63,10 @@
              <div class="custom_wrap select2-input select2-input ">
                 <div class="custom_select">
                    <select Icon="" Placeholder="" class="js-nationSelect js-select2" data-val="true" data-val-required="Favor selecionar a região." id="nationCode" labelName="Região" name="category">
-                      <option value="announce" @if (old('category') == 'announce') {{ 'selected' }} @endif>Anúncio</option>
-                      <option value="event" @if (old('category') == 'event') {{ 'selected' }} @endif>Evento</option>
-                      <option value="maintenance" @if (old('category') == 'maintenance') {{ 'selected' }} @endif>Manutenção</option>
-                      <option value="update" @if (old('category') == 'update') {{ 'selected' }} @endif>Atualização</option>
+                      <option value="announce" @if (old('category', $item['category']) == 'announce') {{ 'selected' }} @endif>Anúncio</option>
+                      <option value="event" @if (old('category', $item['category']) == 'event') {{ 'selected' }} @endif>Evento</option>
+                      <option value="maintenance" @if (old('category', $item['category']) == 'maintenance') {{ 'selected' }} @endif>Manutenção</option>
+                      <option value="update" @if (old('category', $item['category']) == 'update') {{ 'selected' }} @endif>Atualização</option>
                    </select>
                 </div>
                 <label for="category" class="input_label js-labelSelect">Categoria</label>
@@ -85,7 +85,7 @@
               <div class="custom_inputBox">
                  <input class="{{($errors->has('name') ? 'input-validation-error' : '')}}" Icon="" id="name" placeholder=""
                  data-val-required="{{__('messages.name-data-val-required')}}" labelName="Nome" name="name"
-                 type="text" value="{{old('name')}}" /><label for="name"><span>{{__('messages.name')}}
+                 type="text" value="{{old('name', $item['name'])}}" /><label for="name"><span>{{__('messages.name')}}
                  </span></label>
                  <span class="custom_line"></span>
              </div>
