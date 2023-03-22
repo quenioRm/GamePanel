@@ -116,5 +116,9 @@ return [
     'logout' => 'Sair',
     'enter' => 'Entrar',
     "myTickets" => 'Meus Tickets',
-    'controlpanelShop' => 'Shop'
+    'controlpanelShop' => 'Shop',
+    'announce' => 'Anúncio',
+    'event' => 'Evento',
+    'maintenance' => 'Manutenção',
+    'update' => 'Atualização'
 ];

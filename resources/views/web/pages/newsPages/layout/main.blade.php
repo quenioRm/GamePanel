@@ -2,34 +2,61 @@
 
 @section('title', 'News')
 
+@if (Route::currentRouteName() == 'news')
 @push('styles')
 <link rel="stylesheet" href="{{asset('assets/web/css/news.css')}}"/>
 <link rel="stylesheet" href="{{asset('assets/web/css/news.320.css')}}"/>
 <link rel="stylesheet" href="{{asset('assets/web/css/news.768.css')}}"/>
 @endpush
+@endif
 
 @section('content')
 <div class="wrapper">
 
+    @if (Route::currentRouteName() == 'news')
     <div class="news_top-banner">
         <div class="news_card" id="2039">
             <a href="/news/2039?index=2039">
-                <img src="https://akamai-webcdn.kgstatic.net/cms/6/news/de22ad4ad37d3966e43ef2c47853aaed.jpg" class="main-news-image-768">
+                <img src="{{asset('storage/news/' . $lastest->image_url)}}" class="main-news-image-768">
                 <div class="main-news">
-                    <div class="main-news-date">Mar 16. 2023</div>
-                    <div class="main-news-type news-type-announce news-type-updates">Updates</div>
+                    <div class="main-news-date">{{ \Carbon\Carbon::createFromTimestamp(strtotime($lastest->created_at))->format('M d. Y')}}</div>
+                    @switch($notice->category)
+                    @case('announce')
+                    <td>
+                        <div class="main-news-type news-type-announce news-type-announce">{{__('messages.announce')}}</div>
+                    </td>
+                        @break
+                    @case('event')
+                    <td>
+                        <div class="main-news-type news-type-announce news-type-event">{{__('messages.event')}}</div>
+                    </td>
+                        @break
+                    @case('maintenance')
+                        <td>
+                            <div class="main-news-type news-type-announce news-type-maintenance">{{__('messages.maintenance')}}</div>
+                        </td>
+                        @break
+                    @case('update')
+                    <td>
+                        <div class="main-news-type news-type-announce news-type-updates">{{__('messages.update')}}</div>
+                    </td>
+                        @break
+
+                    @default
+
+                @endswitch
                     <div class="main-news-title">
-                        <span class="over-w768">Marketplace Arrivals - March 16, 2023</span>
-                        <span class="under-w768">Marketplace Arrivals - March 16, 2023</span>
-                        <span class="under-w320">Marketplace Arrivals - March 16, 2023</span>
+                        <span class="over-w768">{{$notice->name}} - {{ \Carbon\Carbon::createFromTimestamp(strtotime($lastest->created_at))->format('M d, Y')}}</span>
+                        <span class="under-w768">{{$notice->name}} - {{ \Carbon\Carbon::createFromTimestamp(strtotime($lastest->created_at))->format('M d, Y')}}</span>
+                        <span class="under-w320">{{$notice->name}} - {{ \Carbon\Carbon::createFromTimestamp(strtotime($lastest->created_at))->format('M d, Y')}}</span>
                     </div>
                     <div class="main-news-content">
-                        <span class="over-w768">ArcheAge There will be a discount for the products under the following category (up until maintenance on Mar. 23, 2023). Credit Shop: Costumes The following items were added to the shop. Name Qty Type Price Sale End Purchase Limit ArchePass Support Bundle: Economy 1 Credits</span>
-                        <span class="under-w768">ArcheAge There will be a discount for the products under the following category (up until maintenance on Mar. 23, 2023). Credit Shop: Costumes The following items were added to the shop. Name Qty Type Price Sale End Purchase Limit ArchePass Support Bundle: Economy 1 Credits</span>
-                        <span class="under-w320">ArcheAge There will be a discount for the products under the following category (up until maintenance on Mar. 23, 2023). Credit Shop: Costumes The following items were added to the shop. Name Qty Type Price Sale End Purchase Limit ArchePass Support Bundle: Economy 1 Credits</span>
+                        <span class="over-w768">{{str_replace('&nbsp', '', strip_tags($notice->description, ""))}}</span>
+                        <span class="under-w768">{{str_replace('&nbsp', '', strip_tags($notice->description, ""))}}</span>
+                        <span class="under-w320">{{str_replace('&nbsp', '', strip_tags($notice->description, ""))}}</span>
                     </div>
                     <div class="scale-img-on-hover-main">
-                        <img src="https://akamai-webcdn.kgstatic.net/cms/6/news/de22ad4ad37d3966e43ef2c47853aaed.jpg" class="main-news-image">
+                        <img src="{{asset('storage/news/' . $lastest->image_url)}}" class="main-news-image">
                     </div>
                 </div>
             </a>
@@ -37,19 +64,22 @@
     </div>
 
     <div class="news-tab-btn-container">
-        <div class="btn tab-btn on" onclick="click_tab_btn('all')" data-type="all" data-tab="all"><a href="{{route('news', 'all')}}">ALL</a></div>
-        <div class="btn tab-btn" onclick="click_tab_btn('all')" data-type="all" data-tab="all"><a href="{{route('news', 'announcement')}}">ANNOUNCEMENT</a></div>
-        <div class="btn tab-btn" onclick="click_tab_btn('NEWS302')" data-type="NEWS302" data-tab="event"><a href="{{route('news', 'event')}}">EVENT</a></div>
-        <div class="btn tab-btn" onclick="click_tab_btn('NEWS303')" data-type="NEWS303" data-tab="maintenance"><a href="{{route('news', 'maintenance')}}">MAINTENANCE</a></div>
-        <div class="btn tab-btn" onclick="click_tab_btn('NEWS304')" data-type="NEWS304" data-tab="updates"><a href="{{route('news', 'update')}}">UPDATE</a></div>
+        <div class="{{ Request::is('news/all') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'all')}}">{{strtoupper(__('messages.all'))}}</a></div>
+        <div class="{{ Request::is('news/announcement') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'announcement')}}">{{mb_strtoupper(__('messages.announce'), 'UTF-8')}}</a></div>
+        <div class="{{ Request::is('news/event') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'event')}}">{{mb_strtoupper(__('messages.event'), 'UTF-8')}}</a></div>
+        <div class="{{ Request::is('news/maintenance') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'maintenance')}}">{{mb_strtoupper(__('messages.maintenance'), 'UTF-8')}}</a></div>
+        <div class="{{ Request::is('news/update') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'update')}}">{{mb_strtoupper(__('messages.update'), 'UTF-8')}}</a></div>
     </div>
+    @endif
 
     @yield('newsContent')
 
-
+    @if (Route::currentRouteName() == 'news')
     <div class="load-more-btn-container">
         <div class="btn btn-load-more" data-type="all">LOAD MORE</div>
     </div>
+    @endif
+
 </div>
 @endsection
 @push('scripts')

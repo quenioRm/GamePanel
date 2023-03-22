@@ -21,6 +21,9 @@ Route::get('/download', [App\Http\Controllers\Web\MainController::class,
 Route::get('/news/{category?}', [App\Http\Controllers\Web\MainController::class,
 'News'])->name('news');
 
+Route::get('/notice/{name}', [App\Http\Controllers\Web\MainController::class,
+'NewsDetails'])->name('newsdetails');
+
 // GamePanel
 Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
 
