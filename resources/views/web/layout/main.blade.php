@@ -11,7 +11,7 @@
       <meta name="og:description" content="Realizing a virtual society that changes based on players' own free will through an innovative and thrilling MMORPG. Craft your hero and enter a world of magic, wonder, danger and excitement as you tell your story your way. Build a home, participate in massive PvP and PvE battles, create shipping lanes for trade, and so much more.">
       <meta name="google-site-verification" content="huunptPUhnf-YAlyudwDOkAimjoR72xDTuXaXCA9GxQ" />
       <link rel="shortcut icon" href="https://img.aa.playkakaogames.com/aalg/live/images/favicon.png" type="image/x-icon">
-      <title>ArcheAge | Official Website</title>
+      <title>@yield('title', mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )) @if($__env->yieldContent('title'))- {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} @endif</title>
       <link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
       <!-- 2022-02-04 추가 -->
       <link rel="stylesheet" href="{{asset('assets/web/css/slick.css')}}">

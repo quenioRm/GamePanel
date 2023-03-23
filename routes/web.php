@@ -18,10 +18,10 @@ Route::get('/logout', [App\Http\Controllers\Auth\LoginController::class, 'logout
 Route::get('/download', [App\Http\Controllers\Web\MainController::class,
 'Download'])->name('download');
 
-Route::get('/news/{category?}', [App\Http\Controllers\Web\MainController::class,
+Route::get('/news/{category?}/{loadMore?}', [App\Http\Controllers\Web\MainController::class,
 'News'])->name('news');
 
-Route::get('/notice/{name}', [App\Http\Controllers\Web\MainController::class,
+Route::get('/notice/{id}/{typeid}', [App\Http\Controllers\Web\MainController::class,
 'NewsDetails'])->name('newsdetails');
 
 // GamePanel
