@@ -98,6 +98,25 @@
             </div>
          </div>
 
+         <br>
+         <div class="input_margin js-country">
+             <div class="custom_wrap select2-input select2-input ">
+                <div class="custom_select">
+                   <select Icon="" Placeholder="" class="js-nationSelect js-select2" labelName="Destaque" name="topnotice">
+                      <option value="0" @if (old('topnotice') == '0') {{ 'selected' }} @endif>Não</option>
+                      <option value="1" @if (old('topnotice') == '1') {{ 'selected' }} @endif>Sim</option>
+                   </select>
+                </div>
+                <label for="topnotice" class="input_label js-labelSelect">Destaque</label>
+             </div>
+             <div class="input_validate error"><span class="{{($errors->has('topnotice') ? 'field-validation-error' : 'field-validation-valid')}}" data-valmsg-for="nationCode" data-valmsg-replace="true">
+                  @if ($errors->has('topnotice'))
+                     <span class="">{{$errors->first('topnotice')}}</span>
+                  @endif
+                  </span>
+            </div>
+          </div>
+
         <br>
         <div class="input_margin">
             <div class="custom_input label ">

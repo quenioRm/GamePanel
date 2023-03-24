@@ -37,13 +37,15 @@ class ControlPanelNewsController extends Controller
             'language' => 'required',
             'name' => 'required',
             'description' => 'required',
-            'image_url' => 'required|image|mimes:png,jpg,jpeg|max:2048'
+            'image_url' => 'required|image|mimes:png,jpg,jpeg|max:2048',
+            'topnotice' => 'required'
         ], [], [
             'category' => 'categoria',
             'language' => 'idioma',
             'name' => 'nome',
             'description' => 'descrição',
-            'image_url' => 'imagem'
+            'image_url' => 'imagem',
+            'topnotice' => 'destaque'
         ]);
 
 
@@ -73,13 +75,15 @@ class ControlPanelNewsController extends Controller
             'language' => 'required',
             'name' => 'required',
             'description' => 'required',
-            'image_url' => 'required|image|mimes:png,jpg,jpeg|max:2048'
+            'image_url' => 'required|image|mimes:png,jpg,jpeg|max:2048',
+            'topnotice' => 'required'
         ], [], [
             'category' => 'categoria',
             'language' => 'idioma',
             'name' => 'nome',
             'description' => 'descrição',
-            'image_url' => 'imagem'
+            'image_url' => 'imagem',
+            'topnotice' => 'destaque'
         ]);
 
 

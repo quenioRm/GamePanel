@@ -22,7 +22,8 @@ class News extends Model
         'name',
         'description',
         'image_url',
-        'user_id'
+        'user_id',
+        'topnotice'
     ];
 
     public function user(){
@@ -39,6 +40,15 @@ class News extends Model
         $filePath = $input->file('image_url')->storeAs('news', $fileName, 'public');
 
         if(Storage::disk('news')->exists($fileName)){
+
+            if($input['topnotice'] == 1){
+                $notices = self::get();
+                foreach ($notices as $notice) {
+                    $notice->topnotice = 0;
+                    $notice->save();
+                }
+            }
+
             $notice = new News();
             $notice->category = $input['category'];
             $notice->language = $input['language'];
@@ -46,6 +56,7 @@ class News extends Model
             $notice->description = $input['description'];
             $notice->image_url = $fileName;
             $notice->user_id = Auth::user()->id;
+            $notice->topnotice = $input['topnotice'];
             $notice->save();
 
             return 0;
@@ -64,6 +75,15 @@ class News extends Model
         $filePath = $input->file('image_url')->storeAs('news', $fileName, 'public');
 
         if(Storage::disk('news')->exists($fileName)){
+
+            if($input['topnotice'] == 1){
+                $notices = self::get();
+                foreach ($notices as $notice) {
+                    $notice->topnotice = 0;
+                    $notice->save();
+                }
+            }
+
             $notice = self::find($id);
             $notice->category = $input['category'];
             $notice->language = $input['language'];
@@ -71,6 +91,7 @@ class News extends Model
             $notice->description = $input['description'];
             $notice->image_url = $fileName;
             $notice->user_id = Auth::user()->id;
+            $notice->user_id = $input['topnotice'];
             $notice->save();
 
             return 0;
