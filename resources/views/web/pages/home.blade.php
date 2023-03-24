@@ -4,17 +4,21 @@
 
 @section('content')
 {{-- <main id="mainContent" class="doc-main"> --}}
+
     <section class="section-winter">
-       <div class="video_intro-box">
-          <video id="videoIntro" class="video_intro" loop="true" muted="" playsinline="" autoplay="" preload="none" style="position: absolute;top: 0px;left: 0px;right: 0px;bottom: 0px;">
-             <source src="{{asset('assets/web/video/videoplayback.mp4')}}" type="video/mp4">
-          </video>
-       </div>
-       <div class="wrapper">
-          <h3><span>Blossom into Greatness</span><b>Spring Update</b></h3>
-          <a href="https://archeage.playkakaogames.com/news/2008" class="btn primary">LEARN MORE</a>
-       </div>
-    </section>
+        <div class="video_intro-box">
+           <video id="videoIntro" class="video_intro" loop="true" muted="" playsinline="" autoplay="" preload="none" style="position: absolute;top: 0px;left: 0px;right: 0px;bottom: 0px;">
+              <source src="{{asset('assets/web/video/videoplayback.mp4')}}" type="video/mp4">
+           </video>
+        </div>
+        @if (isset($topnotice) != null)
+        <div class="wrapper">
+           <h3><span></span><b>{{$topnotice->name}}</b></h3>
+           <a href="{{route('newsdetails', ['id' => $topnotice->id, 'typeid' => 0])}}" class="btn primary">LEARN MORE</a>
+        </div>
+        @endif
+     </section>
+
 
     {{-- News --}}
     <section class="section-news">
@@ -43,7 +47,7 @@
 
     <section class="section-big4">
        <div class="wrapper">
-          <h3 data-text="main.big4.title">ArcheAge is not about following a defined path.<br>It's about creating your own world by choosing what matters the most to you.</h3>
+          <h3 data-text="main.big4.title">Capture montarias lendárias, e seja um mestre no universo de ICARUS.</h3>
           <a href="/world" class="btn primary light" data-text="main.big4.more">LEARN MORE</a>
        </div>
     </section>

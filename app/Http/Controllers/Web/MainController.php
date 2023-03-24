@@ -14,8 +14,10 @@ class MainController extends Controller
 {
     public function Home()
     {
+        $topnotice = News::where('language', App::currentLocale())->where('topnotice', 1)->first();
+
         Session::put('currentContent', 5);
-        return view('web.pages.home');
+        return view('web.pages.home', ['topnotice' => $topnotice]);
     }
 
     public function Download()
@@ -84,6 +86,12 @@ class MainController extends Controller
     {
         $notices = News::where('language', App::currentLocale())->get();
         return view('web.pages.includes.homenotice', ['notices' => $notices]);
+    }
+
+    public function GetTopNotice()
+    {
+        $topnotice = News::where('language', App::currentLocale())->where('topnotice', 1)->first();
+        return view('web.pages.includes.homenotice', ['topnotice' => $topnotice]);
     }
 
     public function logout()
