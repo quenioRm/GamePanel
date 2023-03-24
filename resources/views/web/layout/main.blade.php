@@ -28,11 +28,10 @@
       @stack('styles')
 
       {{-- <link rel="stylesheet" href="https://img.aa.playkakaogames.com/aalg/live/css/page_main.css"> --}}
-      <script src="{{asset('assets/web/js/jquery.min.js?v=5')}}"></script>
+      <script src="{{asset('assets/web/js/jquery.min.js')}}"></script>
       <script src="{{asset('assets/web/js/slick.min.js')}}"></script>
       <script src="{{asset('assets/web/js/easing.min.js')}}"></script>
       <script src="{{asset('assets/web/js/common.js')}}"></script>
-      <script src="{{asset('assets/web/js/cookie.js')}}"></script>
       <script src="{{asset('assets/web/js/page_main.js')}}"></script>
 
    </head>
@@ -68,71 +67,78 @@
    </body>
 </html>
 <script>
-   $(document).ready(function ($) {
-       loadLatestNews('all', $('.slider-news'));
-   });
+    $(document).ready(function ($) {
+        loadLatestNews('all', $('.slider-news'));
+    });
 
-   function click_world_skill() {
-       location.href = '/world#section_races_top';
-   }
+    function click_world_skill() {
+        location.href = '/world#section_races_top';
+    }
 
-   function loadLatestNews(type, $list) {
-       $.ajax({
-           url: '/getNewsCard?type=' + type
-       }).done(function (data) {
-           if (data && $(data).find('div').length > 0) {
-               $list.append($(data).find('div.news_list-body').find('div.card'));
+    function loadLatestNews(type, $list) {
 
-           }
-           $('.slider-news').not('.slick-initialized').slick({
-               slidesToShow: 3,
-               slidesToScroll: 1,
-               dots: true,
-               centerMode: false,
-               variableWidth: false,
-               prevArrow: '<button class="btn-prev slick-arrow"><span class="icon-prev"></span></button>',
-               nextArrow: '<button class="btn-next slick-arrow"><span class="icon-next"></span></button>',
-               responsive: [
-                   {
-                       breakpoint: 1900,
-                       settings: {
-                           slidesToShow: 3,
-                           slidesToScroll: 3,
-                       }
-                   },
-                   {
-                       breakpoint: 1024,
-                       settings: {
-                           slidesToShow: 1,
-                           slidesToScroll: 1
-                       }
-                   },
-                   {
-                       breakpoint: 400,
-                       settings: {
-                           slidesToShow: 1,
-                           slidesToScroll: 1,
-                           arrows: false,
-                       }
-                   }
-               ]
-           });
-       }).fail(function (response) {
-           console.log(response);
-       });
-   }
+        var url = "{{ route('getnewscard', ":type") }}";
+        url = url.replace(':type', type);
 
-   function closePopupToday() {
-       $('.dimmed_layer').removeClass('on');
-       $('.noti_layer').removeClass('on');
+        $.ajax({
+            url: url
+        }).done(function (data) {
+            if (data && $(data).find('div').length > 0) {
+                $list.append($(data).find('div.news_list-body').find('div.card'));
+            }
+            $('.slider-news').not('.slick-initialized').slick({
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                dots: true,
+                centerMode: false,
+                variableWidth: false,
+                prevArrow: '<button class="btn-prev slick-arrow"><span class="icon-prev"></span></button>',
+                nextArrow: '<button class="btn-next slick-arrow"><span class="icon-next"></span></button>',
+                responsive: [
+                    {
+                        breakpoint: 1900,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 3,
+                        }
+                    },
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 400,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
+                            arrows: false,
+                        }
+                    }
+                ]
+            });
+        }).fail(function (response) {
+            console.log(response);
+        });
+    }
 
-       let today = new Date();
-       today.setDate(today.getDate() + 1); // 현재시간에 하루를 더함
-       document.cookie = 'close_popup=Y; path=/; expires=' + today + ';';
-   }
+    function closePopupToday() {
+        $('.dimmed_layer').removeClass('on');
+        $('.noti_layer').removeClass('on');
 
-   function closePopup() {
-       $('.dimmed_layer').removeClass('on');
-       $('.noti_layer').removeClass('on');
-   }
+        let today = new Date();
+        today.setDate(today.getDate() + 1); // 현재시간에 하루를 더함
+        document.cookie = 'close_popup=Y; path=/; expires=' + today + ';';
+    }
+
+    function closePopup() {
+        $('.dimmed_layer').removeClass('on');
+        $('.noti_layer').removeClass('on');
+    }
 </script>
+
+
+@stack('scripts')
+

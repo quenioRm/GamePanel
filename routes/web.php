@@ -24,6 +24,9 @@ Route::get('/news/{category?}/{loadMore?}', [App\Http\Controllers\Web\MainContro
 Route::get('/notice/{id}/{typeid}', [App\Http\Controllers\Web\MainController::class,
 'NewsDetails'])->name('newsdetails');
 
+Route::get('/getNewsCard/{type}', [App\Http\Controllers\Web\MainController::class,
+'getNewsCard'])->name('getnewscard');
+
 // GamePanel
 Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
 

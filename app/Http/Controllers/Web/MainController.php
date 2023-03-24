@@ -80,6 +80,12 @@ class MainController extends Controller
 
     }
 
+    public function getNewsCard()
+    {
+        $notices = News::where('language', App::currentLocale())->get();
+        return view('web.pages.includes.homenotice', ['notices' => $notices]);
+    }
+
     public function logout()
     {
         Auth::logout();

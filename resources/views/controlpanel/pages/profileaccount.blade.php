@@ -26,7 +26,7 @@
         @include('controlpanel.pages.includes.profileaccountmodal')
     </div>
 
-    <form id="frmProfileAccount" name="frmProfileAccount" method="post" action="{{route('controlpanel.profileaccount')}}" novalidate="novalidate">
+    <form id="frmProfileAccount" name="frmProfileAccount" method="post" action="{{route('gamepanel.controlpanel.profileaccount')}}" novalidate="novalidate">
         @csrf
 
         <input class="" icon="" labelname="" placeholder="" data-val="true" 
@@ -116,7 +116,7 @@
             fd.append('_token', '{{ csrf_token() }}');
 
             $.ajax({
-            url: '{{route('controlpanel.profileaccountformuploadavatar')}}',
+            url: '{{route('gamepanel.controlpanel.profileaccountformuploadavatar')}}',
             type: 'post',
             data: fd,
             contentType: false,
