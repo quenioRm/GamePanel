@@ -132,7 +132,7 @@
 
 
 .section-big3{
-    padding:0 100px;    height:720px;    margin-top:-40px;    background-image:url(../images/main/img_bg3.jpg);    background-position:center;    background-repeat:no-repeat;    max-width:100%;    background-size:cover;    position:relative;}/* 2022-03-15 개발 수정 width */
+    padding:0 100px;    height:720px;    margin-top:-40px;    background-image:url(../images/main/img_bg20.jpg);    background-position:center;    background-repeat:no-repeat;    max-width:100%;    background-size:cover;    position:relative;}/* 2022-03-15 개발 수정 width */
 .section-big3.mtn{    margin-top:0;}
 .section-big3 .wrapper{
     position:relative;    width:820px;    top:430px;    margin:0 auto;    text-align:center;}

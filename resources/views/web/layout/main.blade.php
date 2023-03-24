@@ -34,6 +34,7 @@
       <script src="{{asset('assets/web/js/common.js')}}"></script>
       <script src="{{asset('assets/web/js/page_main.js')}}"></script>
 
+
    </head>
    <div style="display:none;">
    </div>

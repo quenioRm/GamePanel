@@ -7,7 +7,7 @@
     <section class="section-winter">
        <div class="video_intro-box">
           <video id="videoIntro" class="video_intro" loop="true" muted="" playsinline="" autoplay="" preload="none" style="position: absolute;top: 0px;left: 0px;right: 0px;bottom: 0px;">
-             <source src="https://img.aa.playkakaogames.com/aalg/live/images/video/Blossom_info_Greatness.mp4?v=1" type="video/mp4">
+             <source src="{{asset('assets/web/video/videoplayback.mp4')}}" type="video/mp4">
           </video>
        </div>
        <div class="wrapper">
@@ -16,6 +16,7 @@
        </div>
     </section>
 
+    {{-- News --}}
     <section class="section-news">
         <div class="wrapper">
             <h3 data-text="main.news.title">NEWS</h3>
@@ -24,6 +25,7 @@
             </div>
         </div>
     </section>
+    {{-- End News --}}
 
     <section class="section-sbanner newreturn-event">
        <div class="wrapper">
@@ -31,25 +33,23 @@
           <a href="/new-return" class="btn-text">LEARN MORE</a>
        </div>
     </section>
+
     <section class="section-big3 mtn">
        <div class="wrapper">
-          <h3>Been away for a while?<br>Start a new journey with Kakao Games!</h3>
-          <a href="/transfer" class="btn primary" style="color:#fff;">Apply for Account Transfer</a>
+          <h3>Dispute territórios junto ao seu clã.</h3>
+          <a href="/transfer" class="btn primary" style="color:#fff;">Veja o ranking</a>
        </div>
     </section>
+
     <section class="section-big4">
        <div class="wrapper">
           <h3 data-text="main.big4.title">ArcheAge is not about following a defined path.<br>It's about creating your own world by choosing what matters the most to you.</h3>
           <a href="/world" class="btn primary light" data-text="main.big4.more">LEARN MORE</a>
        </div>
     </section>
-    <section class="section-big5">
-       <div class="wrapper">
-          <h3 data-text="main.big5.title">Create your own destiny!</h3>
-          <p data-text="main.big5.content">Explore 6 unique races with 364 possible class<br>combinations built from 14 skillsets.</p>
-          <a href="javascript:void(0);" onclick="click_world_skill()" class="btn primary light" data-text="main.big5.content">LEARN MORE</a>
-       </div>
-    </section>
+
+    @include('web.pages.includes.homeraces')
+
     <aside class="wrap_bnr size_other">
        <strong class="screen_out">ArcheAge Banner</strong>
        <a href="/twitchdrops" class="link_bnr type_pc">
