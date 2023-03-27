@@ -29,12 +29,9 @@
 
              <ul class="list_lang" role="listbox">
                 @foreach (Config::get('languages') as $lang => $language)
-                {{-- <option value="{{ route('gamepanel.lang.switch', $lang) }}"
-                @if ($lang == App::getLocale()) {{ 'selected' }} @endif
-                >{{$language}}</option>
-                --}}
-                <li class="@if ($lang == App::getLocale()) 'on' : '' @endif">
-                   <a href="javascript:;" class="link_lang" role="option" data-value="fr" aria-selected="false">{{$language}}</a>
+                <li class="">
+                   <a href="javascript:;" class="link_lang" role="option" data-lang="{{$lang}}" data-value="{{$lang}}"
+                   aria-selected="{{($lang == App::getLocale()) ? 'true' : 'false'}}">{{$language}}</a>
                 </li>
                 @endforeach
              </ul>
@@ -47,3 +44,5 @@
        <small class="txt_copyright">Copyright © {{env('WEB_NAME')}} Europe B.V. © XLGAMES<br class="type_tablet"> Inc. ArcheAge has been licensed by XLGAMES Inc. ArcheAge and XLGAMES are trademarks of XLGAMES Inc. </small>
     </div>
  </footer>
+@push('scripts')
+@endpush

@@ -44,7 +44,10 @@
                     </div>
                 </div>
                 <div class="race-img">
-                    <img src="{{asset('assets/web/images/main/classes/main_magician_large.png')}}" alt="">
+                    <img src="{{asset('assets/web/video/magician-female-40534656-unscreen.gif')}}" alt="">
+                    {{-- <video id="videoIntro" class="video_intro" loop="true" muted="" playsinline="" autoplay="" preload="none" style="position: absolute;top: 0px;left: 0px;right: 0px;bottom: 0px;">
+                        <source src="{{asset('assets/web/video/magician_female_40534656.mp4')}}" type="video/mp4">
+                     </video> --}}
                 </div>
                 <div class="type_m btn-wrapper">
                     <a href="#skills-dialog" class="btn primary light popup-with-skills">Skills</a>

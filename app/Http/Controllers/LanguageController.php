@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\Redirect;
 use App\Models\UserSession;
+use Illuminate\Support\Facades\Auth;
 
 class LanguageController extends Controller
 {
@@ -14,7 +15,8 @@ class LanguageController extends Controller
     {
         if (array_key_exists($lang, Config::get('languages'))) {
             Session::put('applocale', $lang);
-            UserSession::UpdateSessionLanguage($lang);
+            if(Auth::user() ==! null)
+                UserSession::UpdateSessionLanguage($lang);
         }
         return Redirect::back();
     }

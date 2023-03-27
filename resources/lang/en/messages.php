@@ -109,5 +109,7 @@ return [
     'account' => 'Account',
     'privacyPolicy' => 'Privacy Policy',
     'customerService' => 'Customer Service',
-    'parentalControl' => 'Parental Control'
+    'parentalControl' => 'Parental Control',
+    'news' => 'noticias',
+    'viewall' => 'view all'
 ];

@@ -316,7 +316,21 @@ function setOptBox() {
             }
             /* // 2022-04-26 수정, 추가, 삭제 끝 */
 
-            location.href = window.location.pathname + '?lang=' + lang;
+            var jqxhr = $.get( "gamepanel/lang/" + lang, function() {
+                // setCookie("lang", lang, 1);
+                location.href = window.location.pathname;
+              })
+                .done(function() {
+                //   alert( "second success" );
+                })
+                .fail(function() {
+                //   alert( "error" );
+                })
+                .always(function() {
+                //   alert( "finished" );
+            });
+
+            // location.href = window.location.pathname;
             /*if (langTrigger) {
                 location.href = window.location.pathname + '?lang=' + lang;
             } else {
@@ -325,6 +339,16 @@ function setOptBox() {
 
         }
     });
+}
+
+function setCookie(name,value,days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
 }
 
 function setLanguage(language) {

@@ -120,5 +120,7 @@ return [
     'announce' => 'Anúncio',
     'event' => 'Evento',
     'maintenance' => 'Manutenção',
-    'update' => 'Atualização'
+    'update' => 'Atualização',
+    'news' => 'Novidades',
+    'viewall' => 'MOSTRAR TODAS'
 ];

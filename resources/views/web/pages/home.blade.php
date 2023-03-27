@@ -23,8 +23,8 @@
     {{-- News --}}
     <section class="section-news">
         <div class="wrapper">
-            <h3 data-text="main.news.title">NEWS</h3>
-            <a href="/news" class="viewall type_pc" data-text="main.news.view_all">VIEW ALL</a>
+            <h3 data-text="main.news.title">{{strtoupper(__('messages.news'))}}</h3>
+            <a href="/news" class="viewall type_pc" data-text="main.news.view_all">{{strtoupper(__('messages.viewall'))}}</a>
             <div class="slider-news">
             </div>
         </div>

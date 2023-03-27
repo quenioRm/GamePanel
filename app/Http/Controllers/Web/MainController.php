@@ -15,6 +15,9 @@ class MainController extends Controller
     public function Home()
     {
         $topnotice = News::where('language', App::currentLocale())->where('topnotice', 1)->first();
+        if($topnotice == null){
+            $topnotice = News::where('language', 'pt-BR')->where('topnotice', 1)->first();
+        }
 
         Session::put('currentContent', 5);
         return view('web.pages.home', ['topnotice' => $topnotice]);
@@ -38,9 +41,20 @@ class MainController extends Controller
         if($category == null || $category == 'all'){
             $notices = News::where('language', App::currentLocale())->take(Session::get('currentContent'))->get();
             $latestNotice = News::where('language', App::currentLocale())->latest()->first();
+
+            if(empty($notices->toArray())){
+                $notices = News::where('language', 'pt-BR')->take(Session::get('currentContent'))->get();
+                $latestNotice = News::where('language', 'pt-BR')->latest()->first();
+            }
+
         }else{
             $notices = News::where('language', App::currentLocale())->where('category', $category)->take(Session::get('currentContent'))->get();
             $latestNotice = News::where('language', App::currentLocale())->where('category', $category)->latest()->first();
+
+            if(empty($notices->toArray())){
+                $notices = News::where('language', 'pt-BR')->where('category', $category)->take(Session::get('currentContent'))->get();
+                $latestNotice = News::where('language', 'pt-BR')->where('category', $category)->latest()->first();
+            }
         }
 
         return view('web.pages.newsPages.news', ['notices' => $notices , 'lastest' => $latestNotice]);
@@ -85,12 +99,19 @@ class MainController extends Controller
     public function getNewsCard()
     {
         $notices = News::where('language', App::currentLocale())->get();
+
+        if(empty($notices->toArray())){
+            $notices = News::where('language', 'pt-BR')->get();
+        }
         return view('web.pages.includes.homenotice', ['notices' => $notices]);
     }
 
     public function GetTopNotice()
     {
         $topnotice = News::where('language', App::currentLocale())->where('topnotice', 1)->first();
+        if($topnotice == null){
+            $topnotice = News::where('language', 'pt-BR')->where('topnotice', 1)->first();
+        }
         return view('web.pages.includes.homenotice', ['topnotice' => $topnotice]);
     }
 
