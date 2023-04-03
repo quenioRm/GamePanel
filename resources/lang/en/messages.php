@@ -140,7 +140,7 @@ return [
      'magician' => 'Magic',
      'magiciandesc' => 'The Magician harnesses the power of chaos and light that devastates anyone who stands in its way. Although magicians have a very small frame like Tricksters, they can cast incredibly powerful spells while on the move, making them unpredictable.',
      'powerlevel' => 'Power level',
-     'strength' => 'strength',
+     'strength' => 'Strength',
      'dexterity' => 'Dexterity',
      'constitution' => 'Constitution',
      'intelligence' => 'Intelligence',
