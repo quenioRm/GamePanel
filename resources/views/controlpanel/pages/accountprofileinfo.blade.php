@@ -59,10 +59,10 @@
                     </tr>
                     @endif
                     <tr class="password_text">
-                        <th scope="row">Senha</th> 
+                        <th scope="row">{{__('messages.password')}}</th>
                             @if (isset($lastpasswordhange->created_at) != null)
-                            <td class="title"><span class="text_gray">{{__('messages.accountprofileMessage8')}} 
-                                {{$lastpasswordhange->created_at->format('d/m/y H:i:s')}}</span></td> 
+                            <td class="title"><span class="text_gray">{{__('messages.accountprofileMessage8')}}
+                                {{$lastpasswordhange->created_at->format('d/m/y H:i:s')}}</span></td>
                                 @else
                                 <td>-</td>
                             @endif
@@ -73,7 +73,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <th scope="row">Nome</th>
+                        <th scope="row">{{__('messages.name')}}</th>
                         <td class="title">
                             <input class="" icon="" id="" labelname="" placeholder="" name="_name" type="hidden" value="Quenio" />
                             {{mb_convert_case( Auth::user()->name, MB_CASE_TITLE , 'UTF-8' )}}

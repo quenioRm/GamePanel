@@ -1,5 +1,5 @@
 <div id="profile_popup" class="">
-    <h3>Favor escolher uma imagem de perfil.</h3>
+    <h3>{{__('messages.imgprofile')}}</h3>
     <button type="button" class="popup_close js-closeProfile">
         <span class="blind">Fechar</span>
     </button>
@@ -20,7 +20,7 @@
             </li>
             @foreach ($account[0]['useravatar'] as $avatar)
             <li>
-                <button type="button" class="js-choiceBtn profile_img_option {{($account[0]['avatar'] == $avatar['avatar'] ? 'active' : '')}}" data-profileimageno="{{$avatar['id']}}" 
+                <button type="button" class="js-choiceBtn profile_img_option {{($account[0]['avatar'] == $avatar['avatar'] ? 'active' : '')}}" data-profileimageno="{{$avatar['id']}}"
                 data-profilefileurl="{{asset('storage/user/avatar/' . Auth::user()->id .'/'. $avatar['avatar'])}}">
                     <span class="blind">-</span>
                     <span class="t {{($account[0]['avatar'] == $avatar['avatar'] ? 'checked' : '')}}">
@@ -35,6 +35,6 @@
         </ul>
     </div>
     <div class="btn_wrap">
-        <button id="" type="button" class="btn btn_big btn_blue js-selectProfile">Selecionar</button>
+        <button id="" type="button" class="btn btn_big btn_blue js-selectProfile">{{__('messages.select')}}</button>
     </div>
 </div>

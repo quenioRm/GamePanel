@@ -9,7 +9,7 @@
 @section('newsContent')
 {{-- <main id="mainContent"> --}}
 
-    <strong class="screen_out">NEWS VIEW</strong>
+    <strong class="screen_out">{{mb_strtoupper(__('messages.newsview'),'UTF-8')}}</strong>
     <section class="section_newsview">
        @if (isset($notice) != null)
        <div class="box_newshead">
@@ -50,7 +50,7 @@
        </div>
 
        <div class="box_share">
-          <strong class="tit_share">Share</strong>
+          <strong class="tit_share">{{__('messages.share')}}</strong>
           <a href="javascript:;" class="link_share link_facebook" onclick="shareSNS('facebook', 'Marketplace Arrivals - March 16, 2023')">
           <span class="ico_svg ico_facebook">facebook</span>
           </a>

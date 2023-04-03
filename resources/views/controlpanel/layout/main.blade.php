@@ -113,7 +113,7 @@
         <form action="{{route('gamepanel.logout')}}" method="POST">
             @csrf
             <button class="btn_logout" type="submit">
-                Sair
+                {{mb_strtoupper(__('messages.logout'),'UTF-8')}}
             </button>
         </form>
     </div>

@@ -25,7 +25,7 @@
                     <div class="desh_box playing_box js-playingBox">
                         <div class="desh_title">
                             <span class="pi pi_dash_game"></span>
-                            <h3 class="title">Acesso rápido</h3>
+                            <h3 class="title">{{__('messages.quickaccess')}}</h3>
                         </div>
                         <div class="desh_content">
                             <div class="shortcut_list">
@@ -33,11 +33,11 @@
                                     <li class="item js-playingBdo">
                                         <dl class="subitems">
                                             <dd class="subitem">
-                                                <a href="{{route('gamepanel.controlpanel.accountlogip')}}" class="arrow btn_normal"><span>Minha Atividade</span></a>
+                                                <a href="{{route('gamepanel.controlpanel.accountlogip')}}" class="arrow btn_normal"><span>{{__('messages.myactivity')}}</span></a>
                                             </dd>
                                             <dd class="subitem">
                                                 <a href="{{route('gamepanel.controlpanel.accountprofileinfo')}}" class="arrow btn_normal">
-                                                    <span>Informações pessoais</span>
+                                                    <span>{{__('messages.personalinfo')}}</span>
                                                 </a>
                                             </dd>
                                             {{-- <dd class="subitem">

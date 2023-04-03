@@ -14,7 +14,7 @@
         @if (isset($topnotice) != null)
         <div class="wrapper">
            <h3><span></span><b>{{$topnotice->name}}</b></h3>
-           <a href="{{route('newsdetails', ['id' => $topnotice->id, 'typeid' => 0])}}" class="btn primary">LEARN MORE</a>
+           <a href="{{route('newsdetails', ['id' => $topnotice->id, 'typeid' => 0])}}" class="btn primary">{{strtoupper(__('messages.learnmore'))}}</a>
         </div>
         @endif
      </section>
@@ -33,34 +33,35 @@
 
     <section class="section-sbanner newreturn-event">
        <div class="wrapper">
-          <h3>New/Return<br>User Benefits</h3>
-          <a href="/new-return" class="btn-text">LEARN MORE</a>
+          <h3>{{__('messages.new_return')}}<br>{{__('messages.benefits')}}</h3>
+          <a href="#" class="btn-text">{{mb_strtoupper(__('messages.learnmore'),'UTF-8')}}</a>
        </div>
     </section>
 
     <section class="section-big3 mtn">
        <div class="wrapper">
-          <h3>Dispute territórios junto ao seu clã.</h3>
-          <a href="/transfer" class="btn primary" style="color:#fff;">Veja o ranking</a>
+          <h3>{{__('messages.home1')}}</h3>
+          <a href="#" class="btn primary" style="color:#fff;">{{__('messages.seeranking')}}</a>
        </div>
     </section>
 
     <section class="section-big4">
        <div class="wrapper">
-          <h3 data-text="main.big4.title">Capture montarias lendárias, e seja um mestre no universo de ICARUS.</h3>
-          <a href="/world" class="btn primary light" data-text="main.big4.more">LEARN MORE</a>
+          <h3 data-text="main.big4.title">{{__('messages.home2')}}</h3>
+          <a href="#" class="btn primary" style="color:#fff;">{{__('messages.learnmore')}}</a>
        </div>
     </section>
 
     @include('web.pages.includes.homeraces')
 
     <aside class="wrap_bnr size_other">
-       <strong class="screen_out">ArcheAge Banner</strong>
+       <strong class="screen_out">{{env('APP_NAME')}}</strong>
        <a href="/twitchdrops" class="link_bnr type_pc">
        <img src="https://img.aa.playkakaogames.com/aalg/live/images/main/img_bnr3_221122.jpg" width="128" height="160" class="img_bnr" alt="">
-       <span class="txt_bnr"><span class="ico_twitch"></span>WATCH TWITCH<br>GET ITEMS</span>
+       <span class="txt_bnr"><span class="ico_twitch"></span>{{__('messages.watchtwitch')}}<br>{{__('messages.getitems')}}</span>
        </a>
     </aside>
+
  {{-- </main> --}}
 @endsection
 @push('scripts')

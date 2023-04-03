@@ -10,9 +10,9 @@
     </colgroup>
     <thead>
         <tr>
-            <th scope="col">Data</th>
+            <th scope="col">{{__('messages.date')}}</th>
             <th scope="col">IP</th>
-            <th scope="col">Região do Acesso</th>
+            <th scope="col">{{__('messages.regionaccess')}}</th>
             <th scope="col">Latitude</th>
             <th scope="col">Longitude</th>
         </tr>
@@ -23,7 +23,7 @@
                 <td class="logging_date logging_success">
                     {{date('d/m/Y H:i:s', strtotime($item['created_at']))}}
                     <span class="logging_msg">
-                        Login Realizado com Sucesso
+                        {{__('messages.loginsuccess')}}
                     </span>
                 </td>
                 <td>
@@ -39,7 +39,7 @@
                     {{$item['longitude']}}
                 </td>
             </tr>
-        @endforeach                          
+        @endforeach
     </tbody>
 </table>
 @endsection

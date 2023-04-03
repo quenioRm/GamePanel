@@ -34,7 +34,10 @@ Route::get('/GetTopNotice', [App\Http\Controllers\Web\MainController::class,
 Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
 
     Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-    Route::get('lang/{lang}', ['as' => 'lang.switch', 'uses' => 'App\Http\Controllers\LanguageController@switchLang'])->name('switchlang');
+
+    // Route::get('lang/{lang}', ['as' => 'lang.switch', 'uses' => 'App\Http\Controllers\LanguageController@switchLang'])->name('switchlang');
+
+    Route::get('lang/{lang}', [App\Http\Controllers\LanguageController::class, 'switchLang'])->name('switchlang');
 
     // Auth Routes
     Route::get('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginForm'])->name('login');

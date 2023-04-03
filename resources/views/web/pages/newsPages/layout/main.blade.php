@@ -93,7 +93,7 @@
 
     @if (Route::currentRouteName() == 'news' && isset($lastest) != null)
     <div class="load-more-btn-container">
-        <a href="{{route('news', null, 1)}}"><div class="btn btn-load-more" data-type="all">LOAD MORE</div></a>
+        <a href="{{route('news', null, 1)}}"><div class="btn btn-load-more" data-type="all">{{mb_strtoupper(__('messages.loadmore'),'UTF-8')}}</div></a>
     </div>
     @endif
 
