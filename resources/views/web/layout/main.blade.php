@@ -4,9 +4,9 @@
       <meta charset="utf8">
       <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height, viewport-fit=cover">
       <meta name="format-detection" content="telephone=no">
-      <meta name="description" content="ArcheAge is a thrilling fantasy sandbox MMORPG set in a world where players forge their own path, telling a story unique to them. Craft your hero and enter the world of Erenor, a vast land of possibilities. Sail dangerous seas, battle powerful creatures, build a home and set up trade routes, and much more. The choices are yours, and they are near endless.">
-      <meta name="keyword" content="ArcheAge, XL Games, MMO, MMORPG, Online, RPG, Role playing game, PvP, PvP, role playing, customization, class customization, character customization, Massive PvE, in-game economy, dragons, mage, archer, knight, warrior, sorcerer, witchcraft, nuians, elves, dwarves, firran, harani, warborn, kakao games, ArcheAge unchained, unchained, nuian, Nuia, Nui, Erenor, haranya, orchidna, game publisher, new publisher, fantasy game, fantasy mmo, fantasy mmorpg, high fantasy, epic fantasy game, medieval game">
-      <meta property="og:title" content="ArcheAge | Official Website">
+      <meta name="description" content="{{env('WEB_NAME')}} is a thrilling fantasy sandbox MMORPG set in a world where players forge their own path, telling a story unique to them. Craft your hero and enter the world of Erenor, a vast land of possibilities. Sail dangerous seas, battle powerful creatures, build a home and set up trade routes, and much more. The choices are yours, and they are near endless.">
+      <meta name="keyword" content="{{env('KEYWORLDS')}}">
+      <meta property="og:title" content="{{env('WEB_NAME')}} | Official Website">
       <meta property="og:type" content="website" />
       <meta name="og:description" content="Realizing a virtual society that changes based on players' own free will through an innovative and thrilling MMORPG. Craft your hero and enter a world of magic, wonder, danger and excitement as you tell your story your way. Build a home, participate in massive PvP and PvE battles, create shipping lanes for trade, and so much more.">
       <meta name="google-site-verification" content="huunptPUhnf-YAlyudwDOkAimjoR72xDTuXaXCA9GxQ" />
