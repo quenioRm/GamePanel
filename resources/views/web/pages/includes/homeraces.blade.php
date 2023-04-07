@@ -82,7 +82,7 @@
             <!-- Elves -->
             <div class="races-descr">
                 <div class="race">
-                    <h3>{{strtoupper(__('messages.trickster'))}}</h3>
+                    <h3>{{__('messages.trickster')}}</h3>
                     <p class="about">{{__('messages.tricksterdesc')}}</p>
                      <div class="race-skills" style="z-index: 20;">
                         <h3>{{__('messages.powerlevel')}}</h3>
