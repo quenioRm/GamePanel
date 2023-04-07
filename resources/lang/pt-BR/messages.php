@@ -137,7 +137,7 @@ return [
     'getitems' => 'OBTENHA ITENS',
     'class' => 'Classes',
     'homerace1' => 'Escolha sua classe e desbrave o mundo de Icarus Online.',
-    'magician' => 'Mágica',
+    'magician' => 'Magician',
     'magiciandesc' => 'A Magician aproveita o poder do caos e da luz que devasta qualquer um que esteja no caminho. Embora os mágicos tenham uma estrutura muito pequena, como os Malandros, eles podem lançar magias incrivelmente poderosas enquanto estão em movimento, tornando-os imprevisíveis.',
     'powerlevel' => 'Nivel de poder',
     'strength' => 'Força',

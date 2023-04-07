@@ -137,7 +137,7 @@ return [
      'getitems' => 'GET ITEMS',
      'class' => 'Classes',
      'homerace1' => 'Choose your class and brave the world of Icarus Online.',
-     'magician' => 'Magic',
+     'magician' => 'Magician',
      'magiciandesc' => 'The Magician harnesses the power of chaos and light that devastates anyone who stands in its way. Although magicians have a very small frame like Tricksters, they can cast incredibly powerful spells while on the move, making them unpredictable.',
      'powerlevel' => 'Power level',
      'strength' => 'Strength',
