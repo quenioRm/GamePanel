@@ -34,4 +34,14 @@ Route::prefix('nexon')->name('nexon.')->group( function(){
 
 });
 
+Route::prefix('icarus')->name('icarus.')->group( function(){
+
+    Route::get('getcharacter/{accountId}', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    'FindCharacterByAccount'])->name('getcharacter');
+
+    Route::get('getaccountwithcharacters/{dbkey}', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    'GetUserWithCharacters'])->name('getaccountwithcharacters');
+
+});
+
 //
