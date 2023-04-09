@@ -154,8 +154,9 @@ class TableCharacterItemQueue extends Model
                 }
             }
 
-            // $findSell->sellStatus = 2;
-            // $findSell->save();
+            $findSell->sellStatus = 2;
+            $findSell->updated_at = now();
+            $findSell->save();
 
             $log_tran->commit();
             $character_tran->commit();

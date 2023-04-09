@@ -48,7 +48,7 @@ class IcarusAdminApiController extends Controller
         $proccess = TableCharacterItemQueue::CancelSellAndRemoveFromQueue($sellId);
 
         if($proccess == -1)
-            return response()->json(['resultCode' => -1000, 'resultMsg' => 'Erro ao tentar cancelar!', 'returnUrl' => '' ], 400);
+            return response()->json(['resultCode' => -1000, 'resultMsg' => 'A venda em questão ja foi cancelada!', 'returnUrl' => '' ], 400);
 
         if($proccess == -15)
             return response()->json(['resultCode' => -1003, 'resultMsg' => 'Falha ao completar a transação, tente mais tarde!', 'returnUrl' => '' ], 400);
