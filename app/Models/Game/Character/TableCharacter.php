@@ -34,4 +34,9 @@ class TableCharacter extends Model
     {
         return self::where('Account', $accountId)->first();
     }
+
+    public static function FindAccountByCharacter($characterId)
+    {
+        return self::where('DBKey', $characterId)->first();
+    }
 }

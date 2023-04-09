@@ -43,7 +43,9 @@ class TableUser extends Model
             $arrayCharacters = [
                 'user' => $user,
                 'status' => TableAccountLog::where('accountId', $dbKey)->first(),
-                'characters' => TableCharacter::where('Account', $dbKey)->with('characterItems')->get()
+                'characters' => TableCharacter::where('Account', $dbKey)->with(["characterItems" => function($q){
+                    $q->where('Deleted', '=', 0);
+                }])->get()
             ];
 
             return $arrayCharacters;

@@ -42,7 +42,8 @@ class User extends Authenticatable
         'nationCode',
         'isBlockEmailDomain',
         'permission',
-        'cash'
+        'cash',
+        'money'
     ];
 
     /**

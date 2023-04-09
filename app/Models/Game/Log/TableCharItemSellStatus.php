@@ -23,16 +23,18 @@ class TableCharItemSellStatus extends Model
         'accountId',
         'charItemSelliD',
         'sellStatus',
+        'price'
     ];
 
     public $timestamps = false;
 
-    public static function MakeNewRegister($accountId, $charItemSelliD)
+    public static function MakeNewRegister($accountId, $charItemSelliD, $price)
     {
         $reg = new TableCharItemSellStatus();
         $reg->accountId = $accountId;
         $reg->charItemSelliD = $charItemSelliD;
         $reg->sellStatus = 0;
+        $reg->price = $price;
         $reg->created_at = now();
         $reg->updated_at = now();
         $reg->save();

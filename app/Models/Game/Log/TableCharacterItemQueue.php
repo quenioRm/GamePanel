@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use App\Models\Game\Character\TableCharacterItem;
 use App\Models\Game\Log\TableAccountLog;
+use App\Models\Game\Character\TableCharacter;
 use DB;
 
 class TableCharacterItemQueue extends Model
@@ -43,7 +44,6 @@ class TableCharacterItemQueue extends Model
 
     public static function MoveItemToQueue($input)
     {
-
         $log_tran = DB::connection('log');
         $log_tran->beginTransaction();
 
@@ -59,23 +59,23 @@ class TableCharacterItemQueue extends Model
             if($status > 0)
                 return -10;
 
-            $totalAmount = floatval($input[0]['Amount']);
-            $sellAmount = floatval($input[1]['AmountSell']);
+            $totalAmount = intval($input[0]['Amount']);
+            $sellAmount = intval($input[1]['AmountSell']);
 
             if($totalAmount < $sellAmount){
                 return -1;
             }
 
-            $input[0]['Amount'] = $input[1]['AmountSell'];
+            $input[0]['Amount'] = intval($input[1]['AmountSell']);
 
             $item = new TableCharacterItemQueue();
             $item->fill($input[0]);
             $item->save();
 
-            TableCharItemSellStatus::MakeNewRegister($input[1]['userId'], $item->id);
+            TableCharItemSellStatus::MakeNewRegister($input[1]['userId'], $item->id, $input[1]['price']);
 
             $findItemInCharacter = TableCharacterItem::where('Owner', $input[0]['Owner'])->where('RecId', $input[0]['RecId'])
-            ->where('Slot', $input[0]['Slot'])->first();
+            ->where('Slot', $input[0]['Slot'])->where('StrRecordKind', $input[0]['StrRecordKind'])->first();
 
             if($findItemInCharacter){
 
@@ -156,6 +156,10 @@ class TableCharacterItemQueue extends Model
 
                             TableCharacterItem::MakeNew($findItemInQueue->toArray());
                         }
+
+                        $findSell->sellStatus = 2;
+                        $findSell->updated_at = now();
+                        $findSell->save();
                     }
 
                 }elseif ($findSell->sellStatus == 1){
@@ -164,10 +168,6 @@ class TableCharacterItemQueue extends Model
                     return -2;
                 }
             }
-
-            $findSell->sellStatus = 2;
-            $findSell->updated_at = now();
-            $findSell->save();
 
             $log_tran->commit();
             $character_tran->commit();
@@ -195,9 +195,29 @@ class TableCharacterItemQueue extends Model
 
         try {
 
+            $status = TableAccountLog::CheckAccountIsOnline($characterBuyerId);
+            if($status > 0)
+                return -10;
+
             $findSell = TableCharItemSellStatus::FindSell($sellId);
 
             if($findSell){
+
+                //Account
+                $findAccountBychar = TableCharacter::FindAccountByCharacter($characterBuyerId);
+                if($findAccountBychar == null)
+                    return -26;
+
+                //Check Money
+                $money = TableAccountMoney::GetCurrentMoney($findAccountBychar->Account);
+                $moneyCalc = floatval($money) - floatval($findSell->price);
+                if($moneyCalc < 0)
+                    return - 25;
+                ///
+
+                // Check is same account
+                if($findAccountBychar->Account == $findSell->accountId)
+                    return -27;
 
                 $findItemInQueue = self::find($findSell->charItemSelliD);
 
@@ -214,9 +234,11 @@ class TableCharacterItemQueue extends Model
 
                         }else{
 
-                            $findItemInQueue->StrRecordKind = "ml";
-                            $slot = TableCharacterItem::GetMaxSlotByItemType($findItemInQueue->Owner, "ml");
+                            $slot = TableCharacterItem::GetMaxSlotByItemType($characterBuyerId, "ml");
                             $maxItemId = TableCharacterItem::GetMaxItemId();
+
+                            $findItemInQueue->Owner = $characterBuyerId;
+                            $findItemInQueue->StrRecordKind = "ml";
 
                             if($slot == null){
                                 $findItemInQueue->Slot = 0;
@@ -232,16 +254,20 @@ class TableCharacterItemQueue extends Model
 
                             TableCharacterItem::MakeNew($findItemInQueue->toArray());
                         }
+                        // update money
+                        $updateMoney = TableAccountMoney::UpdateMoney($findAccountBychar->Account, $moneyCalc);
+
+                        $findSell->sellStatus = 1;
+                        $findSell->updated_at = now();
+                        $findSell->save();
                     }
 
-                }else{
+                }elseif ($findSell->sellStatus == 1){
                     return -1;
+                }elseif ($findSell->sellStatus == 2){
+                    return -2;
                 }
             }
-
-            $findSell->sellStatus = 2;
-            $findSell->updated_at = now();
-            $findSell->save();
 
             $log_tran->commit();
             $character_tran->commit();

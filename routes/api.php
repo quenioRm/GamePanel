@@ -36,18 +36,20 @@ Route::prefix('nexon')->name('nexon.')->group( function(){
 
 Route::prefix('icarus')->name('icarus.')->group( function(){
 
-    Route::get('getcharacter/{accountId}', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    Route::get('getcharacter/{accountId}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'FindCharacterByAccount'])->name('getcharacter');
 
-    Route::get('getaccountwithcharacters/{dbkey}', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    Route::get('getaccountwithcharacters/{dbkey}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'GetUserWithCharacters'])->name('getaccountwithcharacters');
 
-    Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToQueue'])->name('moveitemtoqueue');
 
-    Route::get('removeitemtoqueue/{sellId}', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    Route::get('removeitemtoqueue/{sellId}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'RemoveItemToQueue'])->name('removeitemtoqueue');
 
+    Route::get('moveitemtobuyer/{sellId}/{characterBuyerId}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
+    'MoveItemToBuyer'])->name('moveitemtobuyer');
 });
 
 //
