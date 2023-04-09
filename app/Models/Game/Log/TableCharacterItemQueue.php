@@ -5,6 +5,7 @@ namespace App\Models\Game\Log;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use App\Models\Game\Character\TableCharacterItem;
+use App\Models\Game\Log\TableAccountLog;
 use DB;
 
 class TableCharacterItemQueue extends Model
@@ -52,7 +53,11 @@ class TableCharacterItemQueue extends Model
         try {
 
             if(isset($input[0]['Amount']) == null || isset($input[1]['AmountSell']) == null)
-            return -2;
+                return -2;
+
+            $status = TableAccountLog::CheckAccountIsOnline($input[0]['Owner']);
+            if($status > 0)
+                return -10;
 
             $totalAmount = floatval($input[0]['Amount']);
             $sellAmount = floatval($input[1]['AmountSell']);
@@ -120,7 +125,87 @@ class TableCharacterItemQueue extends Model
 
                     if($findItemInQueue){
 
+                        $status = TableAccountLog::CheckAccountIsOnline($findItemInQueue->Owner);
+                        if($status > 0)
+                            return -10;
+
                         $findItemInCharacter = TableCharacterItem::FindItemInInventory($findItemInQueue->Owner, $findItemInQueue->RecId);
+
+                        if($findItemInCharacter){
+
+                            $findItemInCharacter->Amount += $findItemInQueue->Amount;
+                            $findItemInCharacter->save();
+
+                        }else{
+
+                            $findItemInQueue->StrRecordKind = "ml";
+                            $slot = TableCharacterItem::GetMaxSlotByItemType($findItemInQueue->Owner, "ml");
+                            $maxItemId = TableCharacterItem::GetMaxItemId();
+
+                            if($slot == null){
+                                $findItemInQueue->Slot = 0;
+                            }else{
+                                $findItemInQueue->Slot = $slot + 1;
+                            }
+
+                            if($maxItemId == null){
+                                $findItemInQueue->CharItemID = 1;
+                            }else{
+                                $findItemInQueue->CharItemID = $maxItemId + 1;
+                            }
+
+                            TableCharacterItem::MakeNew($findItemInQueue->toArray());
+                        }
+                    }
+
+                }elseif ($findSell->sellStatus == 1){
+                    return -1;
+                }elseif ($findSell->sellStatus == 2){
+                    return -2;
+                }
+            }
+
+            $findSell->sellStatus = 2;
+            $findSell->updated_at = now();
+            $findSell->save();
+
+            $log_tran->commit();
+            $character_tran->commit();
+
+            return 0;
+
+        } catch (\Exception $e){
+            // ROLLBACK
+
+            $log_tran->rollback();
+            $character_tran->rollback();
+
+            return -15;
+            throw new \Exception($e);
+        }
+    }
+
+    public static function MoveItemToBuyer($sellId, $characterBuyerId)
+    {
+        $log_tran = DB::connection('log');
+        $log_tran->beginTransaction();
+
+        $character_tran = DB::connection('character');
+        $character_tran->beginTransaction();
+
+        try {
+
+            $findSell = TableCharItemSellStatus::FindSell($sellId);
+
+            if($findSell){
+
+                $findItemInQueue = self::find($findSell->charItemSelliD);
+
+                if($findSell->sellStatus == 0){
+
+                    if($findItemInQueue){
+
+                        $findItemInCharacter = TableCharacterItem::FindItemInInventory($characterBuyerId, $findItemInQueue->RecId);
 
                         if($findItemInCharacter){
 

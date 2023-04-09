@@ -19,4 +19,13 @@ class TableAccountLog extends Model
         'characterId',
         'status',
     ];
+
+    public static function CheckAccountIsOnline($characterId)
+    {
+        $status = self::where('characterId', $characterId)->first();
+        if($status == null)
+            return 0;
+
+        return $status->status;
+    }
 }

@@ -35,8 +35,11 @@ class IcarusAdminApiController extends Controller
         if($proccess == -3)
             return response()->json(['resultCode' => -1002, 'resultMsg' => 'Item não encontrado, verifique!', 'returnUrl' => '' ], 400);
 
+        if($proccess == -10)
+            return response()->json(['resultCode' => -1003, 'resultMsg' => 'Para realizar a operação o personagem deve estar offline!', 'returnUrl' => '' ], 400);
+
         if($proccess == -15)
-            return response()->json(['resultCode' => -1003, 'resultMsg' => 'Falha ao completar a transação, tente mais tarde!', 'returnUrl' => '' ], 400);
+            return response()->json(['resultCode' => -1004, 'resultMsg' => 'Falha ao completar a transação, tente mais tarde!', 'returnUrl' => '' ], 400);
 
         if($proccess ==  0)
             return response()->json(['resultCode' => 1000, 'resultMsg' => 'Atualizado com sucesso!', 'returnUrl' => '' ], 200);
@@ -48,10 +51,16 @@ class IcarusAdminApiController extends Controller
         $proccess = TableCharacterItemQueue::CancelSellAndRemoveFromQueue($sellId);
 
         if($proccess == -1)
-            return response()->json(['resultCode' => -1000, 'resultMsg' => 'A venda em questão ja foi cancelada!', 'returnUrl' => '' ], 400);
+            return response()->json(['resultCode' => -1000, 'resultMsg' => 'A venda em questão foi concluida!', 'returnUrl' => '' ], 400);
+
+        if($proccess == -2)
+            return response()->json(['resultCode' => -1001, 'resultMsg' => 'A venda em questão foi cancelada!', 'returnUrl' => '' ], 400);
+
+        if($proccess == -10)
+            return response()->json(['resultCode' => -1003, 'resultMsg' => 'Para realizar a operação o personagem deve estar offline!', 'returnUrl' => '' ], 400);
 
         if($proccess == -15)
-            return response()->json(['resultCode' => -1003, 'resultMsg' => 'Falha ao completar a transação, tente mais tarde!', 'returnUrl' => '' ], 400);
+            return response()->json(['resultCode' => -1004, 'resultMsg' => 'Falha ao completar a transação, tente mais tarde!', 'returnUrl' => '' ], 400);
 
         if($proccess ==  0)
             return response()->json(['resultCode' => 1000, 'resultMsg' => 'Atualizado com sucesso!', 'returnUrl' => '' ], 200);
