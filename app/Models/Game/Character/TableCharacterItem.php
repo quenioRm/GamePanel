@@ -4,6 +4,7 @@ namespace App\Models\Game\Character;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use DB;
 
 class TableCharacterItem extends Model
 {
@@ -12,13 +13,15 @@ class TableCharacterItem extends Model
     // Item Types
     // ML = Mail
     // IN = Inventory
+    // AN = MARKET
+    // MN = MARKET SELL ITEM -> MONEY TO RECEIVE
 
     protected $connection = 'character';
     protected $table = "Table_CharItem";
-    protected $primaryKey = 'Owner';
+    protected $primaryKey = 'CharItemID';
     // protected $dates = ['created_at','updated_at'];
     protected $fillable = [
-        'Slot','Deleted','ItemSerial','StrRecordKind','Account','RecId','Amount','ClientSlot','ClientEquip',
+        'Owner','Slot','Deleted','ItemSerial','StrRecordKind','Account','RecId','Amount','ClientSlot','ClientEquip',
         'Durability','ReinforceLevel','SellerDbKey','SellerName','SellPrice','RegisterDate','SoldDate','bSold','MailDbKey',
         'Belong','RemoveBelongCount','Quality','Storage','FellowDbKey','Toggle','Color','SubColor','ProducerName','ROEffect01',
         'ROEffectValue01','ROEffect02','ROEffectValue02','ROEffect03','ROEffectValue03','ROEffect04','ROEffectValue04','ROEffect05',
@@ -38,8 +41,51 @@ class TableCharacterItem extends Model
         'WeaponAwakenEffectParam','WeaponAwakenEffectValue','WeaponAwakenRecID1','WeaponAwakenCount1','WeaponAwakenCount2','Level','Exp',
     ];
 
+    public $timestamps = false;
+
+    public $incrementing = false;
+
     public function character(){
-        return $this->hasMany('App\Models\Game\Character\TableCharacter', 'DBKey');
+        return $this->belongsTo('App\Models\Game\Character\TableCharacter', 'DBKey');
     }
 
+    public static function FindItemInInventory($characterId, $itemId)
+    {
+        return self::where('Owner', $characterId)->where('RecId', $itemId)->where('Deleted', 0)->first();
+    }
+
+    public static function GetMaxSlotByItemType($characterId, $type)
+    {
+        return self::where('Owner', $characterId)->where('StrRecordKind', $type)
+        ->where('Deleted', 0)->max('Slot');
+    }
+
+    public static function GetMaxItemId()
+    {
+        return self::max('CharItemID');
+    }
+
+    public static function MakeNew($input)
+    {
+        $char_tran = DB::connection('character');
+        $char_tran->beginTransaction();
+
+        try {
+
+            $char_tran->unprepared('SELECT 1; SET IDENTITY_INSERT Table_CharItem ON');
+
+            $newItem = new TableCharacterItem();
+            $newItem->fill($input);
+            $newItem->save();
+
+            $char_tran->unprepared('SELECT 1; SET IDENTITY_INSERT Table_CharItem OFF');
+            $char_tran->commit();
+
+        } catch (\Exception $e){
+            // ROLLBACK
+            $char_tran->rollback();
+            throw new \Exception($e);
+        }
+
+    }
 }

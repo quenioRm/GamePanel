@@ -5,6 +5,7 @@ namespace App\Models\Game\User;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use App\Models\Game\Character\TableCharacter;
+use App\Models\Game\Log\TableAccountLog;
 
 class TableUser extends Model
 {
@@ -41,6 +42,7 @@ class TableUser extends Model
 
             $arrayCharacters = [
                 'user' => $user,
+                'status' => TableAccountLog::where('accountId', $dbKey)->first(),
                 'characters' => TableCharacter::where('Account', $dbKey)->with('characterItems')->get()
             ];
 

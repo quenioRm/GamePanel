@@ -42,6 +42,12 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::get('getaccountwithcharacters/{dbkey}', [App\Http\Controllers\Games\IcarusAdminApiController::class,
     'GetUserWithCharacters'])->name('getaccountwithcharacters');
 
+    Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    'MoveItemToQueue'])->name('moveitemtoqueue');
+
+    Route::get('removeitemtoqueue/{sellId}', [App\Http\Controllers\Games\IcarusAdminApiController::class,
+    'RemoveItemToQueue'])->name('removeitemtoqueue');
+
 });
 
 //
