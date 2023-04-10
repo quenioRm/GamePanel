@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 use App\Models\Game\Character\TableCharacterItem;
 use App\Models\Game\Log\TableAccountLog;
 use App\Models\Game\Character\TableCharacter;
+use App\Models\Game\Log\TableAccountMoneyUsedHistory;
 use DB;
 
 class TableCharacterItemQueue extends Model
@@ -255,7 +256,10 @@ class TableCharacterItemQueue extends Model
                             TableCharacterItem::MakeNew($findItemInQueue->toArray());
                         }
                         // update money
-                        $updateMoney = TableAccountMoney::UpdateMoney($findAccountBychar->Account, $moneyCalc);
+                        TableAccountMoney::UpdateMoney($findAccountBychar->Account, $moneyCalc);
+
+                        // money history create
+                        TableAccountMoneyUsedHistory::MakeNew($findAccountBychar->Account, $moneyCalc, $findSell->id);
 
                         $findSell->sellStatus = 1;
                         $findSell->updated_at = now();
