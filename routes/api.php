@@ -52,4 +52,12 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     'MoveItemToBuyer'])->name('moveitemtobuyer');
 });
 
+Route::prefix('news')->name('news.')->group( function(){
+
+    Route::get('getnews', [App\Http\Controllers\Web\NewsApiController::class,
+    'GetNews'])->name('getnews');
+
+});
+
+
 //
