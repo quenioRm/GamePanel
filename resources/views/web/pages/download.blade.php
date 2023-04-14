@@ -6,7 +6,7 @@
 <section class="section-download">
     <div class="wrapper">
         <h3>DOWNLOAD</h3>
-        <a href="https://akamai-aa-gamecdn.playkakaogames.com/live/Launcher/Archeage/ArcheAgeSetup.exe" download="filename.exe" class="btn primary download">
+        <a href="#" download="#" class="btn primary download">
             <div class="bk_logos">
                 <div class="logo"></div>
                 <div class="logo_bar"></div>
