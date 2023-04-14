@@ -1,14 +1,14 @@
 <header id="docGGB" class="doc-header type_aal">
     <div class="group_site">
-       <strong class="screen_out">ArcheAge Site</strong>
+       <strong class="screen_out">{{env('WEB_NAME')}}</strong>
        <a href="/" class="link_selected link_aal">
-       <span class="ico_svg">ArcheAge</span>
+        <img src="{{asset('assets/web/images/main/logo.png')}}" style="width: 169px; heigth: 34px" alt="">
        </a>
        <ul class="list_site" role="listbox">
           <!-- 활성화 : aria-selected="true", 비활성화 : aria-selected="false" -->
           <li class="on"><a href="/" class="link_site link_attr_data link_aal" role="option" aria-selected="true"
              attr-data="/">
-             <span class="ico_svg">ArcheAge</span>
+                {{-- <img src="{{asset('assets/web/images/main/logo.png')}}" style="width: 169px; heigth: 34px" alt=""> --}}
              </a>
           </li>
           {{-- <li><a href="javascript:;" class="link_site link_attr_data link_aau" role="option" aria-selected="false"
@@ -43,7 +43,7 @@
     </div>
     @else
     <div class="group_account">
-        <button type="button" class="btn_account_open"><a href="{{route('gamepanel.login')}}"><span class="ico_svg">account open</span></a></button>
+        <button type="button" class="btn_account_open"><span class="ico_svg">account open</span></button>
         <ul class="list_account">
            <li> <a href="{{route('gamepanel.login')}}" class="link_account"><span data-text="tab.login">LOGIN</span> </a> </li>
            <li> <a href="{{route('gamepanel.register')}}" class="link_account"> <span data-text="tab.signin">{{strtoupper(__('messages.makeaccount'))}}</span> </a> </li>
@@ -55,8 +55,13 @@
     <div class="group_nav" aria-hidden="true">
        <!-- 활성회: 클래스 on, aria-hidden="false" -->
        <h1 class="logo_site">
-          <a href="/" attr-data="#" class="link_site link_attr_data link_aal"> <span class="ico_svg">ArcheAge</span> <span class="ico_svg ico_share">share</span> </a>
-          <a href="/" attr-data="#" class="link_site link_attr_data link_aau"> <span class="ico_svg">ArcheAge UNCHAINED</span> <span class="ico_svg ico_share">share</span> </a>
+          <a href="/" attr-data="#" class="link_site link_attr_data link_aal">
+            {{-- <span class="ico_svg">{{env('WEB_NAME')}}</span> <span class="ico_svg ico_share">share</span> --}}
+            <img src="{{asset('assets/web/images/main/logo.png')}}" style="width: 169px; heigth: 34px" alt="">
+          </a>
+          <a href="/" attr-data="#" class="link_site link_attr_data link_aau">
+            <img src="{{asset('assets/web/images/main/logo.png')}}" style="width: 169px; heigth: 34px" alt="">
+          </a>
        </h1>
        <nav id="gnbContent" class="doc_gnb">
           <h2 class="screen_out">MENU</h2>
