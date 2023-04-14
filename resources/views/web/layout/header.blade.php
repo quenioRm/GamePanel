@@ -43,7 +43,7 @@
     </div>
     @else
     <div class="group_account">
-        <button type="button" class="btn_account_open"><span class="ico_svg">account open</span></button>
+        <button type="button" class="btn_account_open"><a href="{{route('gamepanel.login')}}"><span class="ico_svg">account open</span></a></button>
         <ul class="list_account">
            <li> <a href="{{route('gamepanel.login')}}" class="link_account"><span data-text="tab.login">LOGIN</span> </a> </li>
            <li> <a href="{{route('gamepanel.register')}}" class="link_account"> <span data-text="tab.signin">{{strtoupper(__('messages.makeaccount'))}}</span> </a> </li>

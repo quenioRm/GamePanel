@@ -7,12 +7,29 @@ use Illuminate\Http\Request;
 use App\Models\News;
 use Illuminate\Support\Facades\App;
 use App\Helpers\Functions;
+use App\Models\Alerts;
+use Illuminate\Support\Facades\Lang;
+use Session;
 
-class NewsApiController extends Controller
+class LauncherNewsApiController extends Controller
 {
-    public function GetNews()
+    public function GetNews($lang)
     {
-        $notices = News::where('language', App::currentLocale())->take(5)->get();
+        $savedLang = $lang;
+
+        if($lang == "pt_BR")
+            $lang = "pt-BR";
+
+        if($lang == "en_US")
+            $lang = "en";
+
+        if($lang == "es_MX")
+            $lang = "es";
+
+        Session::put('applocale', $lang);
+        App::setLocale(Session()->get('applocale'));
+
+        $notices = News::where('language', $lang)->take(5)->get();
 
         if(empty($notices->toArray())){
             $notices = News::where('language', 'pt-BR')->take(5)->get();
@@ -29,51 +46,78 @@ class NewsApiController extends Controller
             }
         }
 
-        $subNotices = News::where('language', App::currentLocale())->where('created_at', '<', $lastDate)->take(5)->get();
+        $subNotices = News::where('language', $lang)->where('created_at', '<', $lastDate)->take(5)->get();
 
         if(empty($subNotices->toArray())){
             $subNotices = News::where('language', 'pt-BR')->where('created_at', '<', $lastDate)->take(5)->get();
         }
 
+        // Ping
         $ping = Functions::ping(env('WORLD_SVR_IP'),env('WORLD_SVR_PORT'));
 
         $arrayConfig = [];
-        $arrayConfig['ProjectName'] = 'Game Launcher';
-        $arrayConfig['Language'] = 'en_US';
+        $arrayConfig['ProjectName'] = env('WEB_NAME');
+        $arrayConfig['Language'] = $savedLang;
         $arrayConfig['Environment'] = 'Release';
         $arrayConfig['Region'] = 'Any';
         $arrayConfig['ServerStatus'] = ($ping == -1) ?  'Offline' : 'Online';
-        $arrayConfig['MyAccountURL'] = 'https://game-launcher.net/';
-        $arrayConfig['PatchNotesURL'] = 'https://game-launcher.net/';
-        $arrayConfig['TermsOfServiceURL'] = 'https://game-launcher.net/';
-        $arrayConfig['PrivacyPolicyURL'] = 'https://game-launcher.net/';
+        $arrayConfig['MyAccountURL'] = 'https://play.icarus101xp.com.br/';
+        $arrayConfig['PatchNotesURL'] = 'https://play.icarus101xp.com.br/';
+        $arrayConfig['TermsOfServiceURL'] = 'https://play.icarus101xp.com.br/';
+        $arrayConfig['PrivacyPolicyURL'] = 'https://play.icarus101xp.com.br/';
         $arrayConfig['NewsCurrentURL'] = '';
-        $arrayConfig['ReportBugURL'] = 'https://game-launcher.net/';
+        $arrayConfig['ReportBugURL'] = 'https://play.icarus101xp.com.br/';
 
+        //Alets
+        $alerts = Alerts::whereDate('date', '<=', date('Y-m-d'))->get();
         $arrAlerts = [];
 
-        $arrAlert = [
-            'type' => 'Warning',
-            'date' => now(),
-            'showAfterDate' => now(),
-            'showAfterDateBool' => false,
-            'message' => 'Maintenance at 12:00 UTC. The server will be unavailable for a while.',
-            'interactionURL' => 'https://game-launcher.net/'
-        ];
+        foreach($alerts as $key => $alert){
+            $arrAlert = [
+                'type' => $alert->type,
+                'date' => $alert->date,
+                'showAfterDate' => $alert->showAfterDate,
+                'showAfterDateBool' => ($alert->showAfterDateBool == 0) ? false : true,
+                'message' => $alert->message,
+                'interactionURL' => $alert->interactionURL
+            ];
 
-        $arrAlerts = [
-            0 => $arrAlert
-        ];
+            $arrAlerts[$key] = $arrAlert;
+        }
 
         $arrayNews = [];
 
         foreach ($notices as $key => $notice) {
 
-            //http://127.0.0.1/storage/news/1679502875.jpg
-            $arrayNew['header'] = $notice->category;
+            $category = "";
+            $noticecolor = "";
+
+            switch ($notice->category) {
+                case 'announce':
+                    $category = Lang::get('messages.announce');
+                    $noticecolor = '#22ae46';
+                    break;
+                case 'event':
+                    $category = Lang::get('messages.event');
+                    $noticecolor = '#ff8b03';
+                    break;
+                case 'maintenance':
+                    $category = Lang::get('messages.maintenance');
+                    $noticecolor = '#1971ff';
+                    break;
+                case 'update':
+                    $category = Lang::get('messages.update');
+                    $noticecolor = '#ff3b00';
+                    break;
+                default:
+                    $category = Lang::get('messages.announce');
+                    break;
+            }
+
+            $arrayNew['header'] = '';
             $arrayNew['title'] = $notice->name;
-            $arrayNew['subtitle'] = '';
-            $arrayNew['subtitleColor'] = '';
+            $arrayNew['subtitle'] = $category;
+            $arrayNew['subtitleColor'] = $noticecolor;
             $arrayNew['date'] = $notice->created_at;
             $arrayNew['imagesURL'] = [
                 0 => url('/') . '/storage/news/' . $notice->image_url
@@ -81,7 +125,7 @@ class NewsApiController extends Controller
             $arrayNew['videoURL'] = '';
             $arrayNew['interactionURL'] = '';
             $arrayNew['content'] = substr(str_replace('&nbsp', '', strip_tags($notice->description, "")), 0, 100) . "...";
-            $arrayNew['buttonContent'] = "More info...";
+            $arrayNew['buttonContent'] = Lang::get('messages.moreinfo') . "...";
             $arrayNew['showHeader'] = true;
             $arrayNew['showTitle'] = true;
             $arrayNew['showSubTitle'] = true;

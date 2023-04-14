@@ -184,5 +184,6 @@ return [
     'regionaccess' => 'Região do Acesso',
     'loginsuccess' => 'Login Realizado com Sucesso',
     'imgprofile' => 'Favor escolher uma imagem de perfil.',
-    'select' => 'Selecionar'
+    'select' => 'Selecionar',
+    'moreinfo' => 'Mais informações'
 ];

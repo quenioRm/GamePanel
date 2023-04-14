@@ -15,7 +15,7 @@
                             <div class="card-title event">{{__('messages.event')}}</div>
                             @break
                         @case('maintenance')
-                            <div class="card-title maintenance">{{__('messages.maintenance')}}</div>
+                            <div class="card-title maintance">{{__('messages.maintenance')}}</div>
                             @break
                         @case('update')
                             <div class="card-title updates">{{__('messages.update')}}</div>
