@@ -38,6 +38,8 @@ class UserLoginAccountLog extends Model
         if($data == false)
             return;
 
+        $data['zipCode'] = 0;
+
         $data->user_id = $userId;
         $log = new UserLoginAccountLog();
         $log->fill($data->toArray());
