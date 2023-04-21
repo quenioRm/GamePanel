@@ -38,8 +38,8 @@
           </div>
        </div>
        <ul class="list_company">
-          <li> <a href="javascript:;" style="cursor:Default;" onclick="return false;" class="link_kakaogames"> <img src="https://img.aa.playkakaogames.com/aalg/live/images/main/logo_kakaogames_220426.svg" class="img_logo" width="127" height="23" alt="kakaogames"> </a> </li>
-          <li> <a href="javascript:;" style="cursor:Default;" onclick="return false;" class="link_xlgames"> <img src="https://img.aa.playkakaogames.com/aalg/live/images/main/logo_xlgames_220426.svg" class="img_logo" width="112" height="23" alt="XLGAMES"> </a> </li>
+          {{-- <li> <a href="javascript:;" style="cursor:Default;" onclick="return false;" class="link_kakaogames"> <img src="https://img.aa.playkakaogames.com/aalg/live/images/main/logo_kakaogames_220426.svg" class="img_logo" width="127" height="23" alt="kakaogames"> </a> </li> --}}
+          <li> <a href="javascript:;" style="cursor:Default;" onclick="return false;" class="link_xlgames"> <img src="{{asset('assets/web/images/main/HKGames.png')}}" class="img_logo" width="200" height="100" alt="HKGAMES"> </a> </li>
        </ul>
        <small class="txt_copyright">Copyright © {{env('WEB_NAME')}} <br class="type_tablet">  </small>
     </div>

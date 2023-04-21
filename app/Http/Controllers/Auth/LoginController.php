@@ -66,7 +66,7 @@ class LoginController extends Controller
             $this->incrementLoginAttempts($request);
 
             return $request->wantsJson()
-            ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+            ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()],'resultData' => null, 'returnUrl' => '' ], 400)
             : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
         }
 
@@ -77,31 +77,31 @@ class LoginController extends Controller
             case -5:
                 $validator->errors()->add('email', Lang::get('messages.ipProtectLockedMessage'));
                 return $request->wantsJson()
-                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
                 : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
                 break;
             case -4:
                 $validator->errors()->add('email', Lang::get('messages.secondEmailIsNotActivated'));
                 return $request->wantsJson()
-                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
                 : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
                 break;
             case -3:
                 $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
                 return $request->wantsJson()
-                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
                 : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
                 break;
             case -2:
                 $validator->errors()->add('email', Lang::get('messages.userNotFound'));
                 return $request->wantsJson()
-                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
                 : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
                 break;
             case -1:
                 $validator->errors()->add('password', Lang::get('messages.incorrectPassword'));
                 return $request->wantsJson()
-                ? response()->json(['resultCode' => -1002, 'resultMsg' => $validator->errors(), 'returnUrl' => '' ], 400)
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null, 'returnUrl' => '' ], 400)
                 : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
                 break;
         }
@@ -109,7 +109,7 @@ class LoginController extends Controller
         Auth::loginUsingId($user['data']->id);
 
         return $request->wantsJson()
-        ? response()->json(['resultCode' => 0, 'resultMsg' => $user['data'], 'returnUrl' => '' ], 200)
+        ? response()->json(['resultCode' => 0, 'resultMsg' => null, 'resultData' => $user['data'], 'returnUrl' => '' ], 200)
         : redirect()->route('gamepanel.controlpanel.panelaccountinfo');
     }
 
