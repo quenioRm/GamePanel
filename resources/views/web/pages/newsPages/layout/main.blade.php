@@ -62,10 +62,10 @@
             </a>
         </div>
     </div>
-
+{{-- Tab --}}
     <div class="news-tab-btn-container">
         <div class="{{ Request::is('news/all') || Request::is('news') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'all')}}">{{strtoupper(__('messages.all'))}}</a></div>
-        <div class="{{ Request::is('news/announce') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'announcement')}}">{{mb_strtoupper(__('messages.announce'), 'UTF-8')}}</a></div>
+        <div class="{{ Request::is('news/announce') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'announce')}}">{{mb_strtoupper(__('messages.announce'), 'UTF-8')}}</a></div>
         <div class="{{ Request::is('news/event') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'event')}}">{{mb_strtoupper(__('messages.event'), 'UTF-8')}}</a></div>
         <div class="{{ Request::is('news/maintenance') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'maintenance')}}">{{mb_strtoupper(__('messages.maintenance'), 'UTF-8')}}</a></div>
         <div class="{{ Request::is('news/update') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'update')}}">{{mb_strtoupper(__('messages.update'), 'UTF-8')}}</a></div>
@@ -79,7 +79,7 @@
     </div>
     <div class="news-tab-btn-container">
         <div class="{{ Request::is('news/all') || Request::is('news') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'all')}}">{{strtoupper(__('messages.all'))}}</a></div>
-        <div class="{{ Request::is('news/announce') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'announcement')}}">{{mb_strtoupper(__('messages.announce'), 'UTF-8')}}</a></div>
+        <div class="{{ Request::is('news/announce') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'announce')}}">{{mb_strtoupper(__('messages.announce'), 'UTF-8')}}</a></div>
         <div class="{{ Request::is('news/event') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'event')}}">{{mb_strtoupper(__('messages.event'), 'UTF-8')}}</a></div>
         <div class="{{ Request::is('news/maintenance') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'maintenance')}}">{{mb_strtoupper(__('messages.maintenance'), 'UTF-8')}}</a></div>
         <div class="{{ Request::is('news/update') ? 'btn tab-btn on' : 'btn tab-btn' }}"><a href="{{route('news', 'update')}}">{{mb_strtoupper(__('messages.update'), 'UTF-8')}}</a></div>

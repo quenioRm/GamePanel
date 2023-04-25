@@ -22,7 +22,7 @@ return new class extends Migration
             $table->string('regionCode');
             $table->string('regionName');
             $table->string('cityName');
-            $table->integer('zipCode');
+            $table->string('zipCode');
             $table->integer('isoCode')->nullable();
             $table->string('latitude');
             $table->string('longitude');

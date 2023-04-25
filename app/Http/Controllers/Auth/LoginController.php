@@ -10,6 +10,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Lang;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\App;
 use Session;
 
 class LoginController extends Controller
@@ -51,6 +52,11 @@ class LoginController extends Controller
 
     public function LoginFormSubmit(Request $request)
     {
+        $accountLang = $request->header('Accept-Language');
+
+        Session::put('applocale', $accountLang);
+        App::setLocale(Session()->get('applocale'));
+
         $validator = Validator::make($request->all(), [
             'email' => 'required|string|email|max:255',
             'isIpCheck' => '',
