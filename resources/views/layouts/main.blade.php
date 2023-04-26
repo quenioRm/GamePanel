@@ -25,11 +25,11 @@
         <meta property="og:image:height" content="628" />
         <meta name="facebook-domain-verification" content="leiralv78698odg34dwodklndcee52" />
 
-        <link rel="shortcut icon" href="{{asset('assets/web/images/main/logo.png')}}" type="image/x-icon" sizes="16x16" />
-        <link rel="shortcut icon" href="{{asset('assets/web/images/main/logo.png')}}" type="image/x-icon" sizes="32x32" />
-        <link rel="shortcut icon" href="{{asset('assets/web/images/main/logo.png')}}" type="image/x-icon" sizes="48x48" />
-        <link rel="shortcut icon" href="{{asset('assets/web/images/main/logo.png')}}" type="image/x-icon" sizes="64x64" />
-        <link rel="shortcut icon" href="{{asset('assets/web/images/main/logo.png')}}" type="image/x-icon" sizes="256x256" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="16x16" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="32x32" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="48x48" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="64x64" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="256x256" />
 
         <meta http-equiv="content-language" content="pt" />
 
