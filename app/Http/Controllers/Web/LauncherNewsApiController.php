@@ -124,7 +124,7 @@ class LauncherNewsApiController extends Controller
             ];
             $arrayNew['videoURL'] = '';
             $arrayNew['interactionURL'] = '';
-            $arrayNew['content'] = substr(str_replace('&nbsp', '', strip_tags($notice->description, "")), 0, 100) . "...";
+            $arrayNew['content'] = utf8_encode(substr(str_replace('&nbsp', '', strip_tags($notice->description, "")), 0, 100) . "...");
             $arrayNew['buttonContent'] = Lang::get('messages.moreinfo') . "...";
             $arrayNew['showHeader'] = true;
             $arrayNew['showTitle'] = true;
