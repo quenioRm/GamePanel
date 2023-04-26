@@ -114,6 +114,7 @@ class LauncherNewsApiController extends Controller
                     break;
             }
 
+            $arrayNew['id'] = $notice->id;
             $arrayNew['header'] = '';
             $arrayNew['title'] = $notice->name;
             $arrayNew['subtitle'] = $category;
