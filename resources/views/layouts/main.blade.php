@@ -20,7 +20,7 @@
         <meta property="og:title" content="@yield('title', mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )) @if($__env->yieldContent('title'))- {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} @endif" />
         <meta property="og:description" content="Entre com {{env('WEB_NAME')}} ID." />
         <meta property="og:url" content="{{Request::url()}}" />
-        <meta property="og:image" content="{{asset('assets/web/images/main/logo.png')}}" />
+        <meta property="og:image" content="{{asset('assets/web/images/main/icon.png')}}" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="628" />
         <meta name="facebook-domain-verification" content="leiralv78698odg34dwodklndcee52" />
