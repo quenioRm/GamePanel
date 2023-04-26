@@ -3,7 +3,7 @@
     <div class="news_list-body">
         @foreach ($notices as $notice)
         <div class="card news-event" onclick="location.href=&#39;/news/{{$notice->id}};">
-            <div class="card-header"><a href="javascript:;"><img src="{{asset('storage/news/' . $notice->image_url)}}"></a></div>
+            <div class="card-header"><a href="{{route('newsdetails', ['id' => $notice->id, 'typeid' => 0])}}"><img src="{{asset('storage/news/' . $notice->image_url)}}"></a></div>
             <div class="card-body">
                 <div class="card-content">
                     <div class="card-date">{{ \Carbon\Carbon::createFromTimestamp(strtotime($notice->created_at))->format('M d. Y')}}</div>
