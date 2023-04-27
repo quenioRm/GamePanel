@@ -221,7 +221,7 @@ class LoginController extends Controller
         ]);
 
         if(!$validator->passes()){
-            return response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => 'Fail', 'errors' => ''],'resultData' => null, 'returnUrl' => '' ], 400);
+            return response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()],'resultData' => null, 'returnUrl' => '' ], 400);
         }
 
         User::UpdateDiscordId($request->email, $request->discordId);
