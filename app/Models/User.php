@@ -297,4 +297,13 @@ class User extends Authenticatable
         $account->cash = $totalBalance;
         $account->save();
     }
+
+    public static function UpdateDiscordId($email, $discordId)
+    {
+        $account = self::where('email', $email)->first();
+        if($account){
+            $account->discordId = $discordId;
+            $account->save();
+        }
+    }
 }

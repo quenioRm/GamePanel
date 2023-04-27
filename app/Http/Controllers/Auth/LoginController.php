@@ -209,4 +209,23 @@ class LoginController extends Controller
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetPasswordMessage')]);
         return redirect()->route('gamepanel.login');
     }
+
+    public function UpdateDiscordId(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'email' => 'required',
+            'discordId' => 'required'
+        ], [], [
+            'email' =>  Lang::get('messages.email'),
+            'discordId' =>  Lang::get('messages.discordId')
+        ]);
+
+        if(!$validator->passes()){
+            return response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()],'resultData' => null, 'returnUrl' => '' ], 400);
+        }
+
+        User::UpdateDiscordId($request->email, $request->discordId);
+
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => 'success', 'errors' => ''],'resultData' => null, 'returnUrl' => '' ], 200);
+    }
 }

@@ -18,6 +18,8 @@ Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginF
 
 Route::post('/simpleregister', [App\Http\Controllers\Auth\RegisterController::class, 'SimpleRegister']);
 
+Route::post('/updatediscordaccount', [App\Http\Controllers\Auth\LoginController::class, 'UpdateDiscordId'])->name('updatediscordaccount');
+
 Route::prefix('nexon')->name('nexon.')->group( function(){
 
     Route::get('loginCheck', [App\Http\Controllers\Games\IcarusOnlineController::class,
