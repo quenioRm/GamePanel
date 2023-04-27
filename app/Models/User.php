@@ -43,7 +43,8 @@ class User extends Authenticatable
         'isBlockEmailDomain',
         'permission',
         'cash',
-        'money'
+        'money',
+        'discordId'
     ];
 
     /**
