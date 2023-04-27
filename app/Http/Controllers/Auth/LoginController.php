@@ -227,6 +227,7 @@ class LoginController extends Controller
 
         User::UpdateDiscordId($request->email, $request->discordId);
 
-        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => 'success', 'errors' => ''],'resultData' => null, 'returnUrl' => '' ], 200);
+        // Success
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => 'success', 'errors' => null],'resultData' => null, 'returnUrl' => '' ], 200);
     }
 }
