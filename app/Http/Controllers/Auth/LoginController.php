@@ -220,6 +220,7 @@ class LoginController extends Controller
             'discordId' =>  Lang::get('messages.discordId')
         ]);
 
+        // errors
         if(!$validator->passes()){
             return response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()],'resultData' => null, 'returnUrl' => '' ], 400);
         }
