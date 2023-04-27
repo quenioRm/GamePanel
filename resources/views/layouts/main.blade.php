@@ -20,16 +20,16 @@
         <meta property="og:title" content="@yield('title', mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )) @if($__env->yieldContent('title'))- {{mb_convert_case( env('WEB_NAME'), MB_CASE_TITLE , 'UTF-8' )}} @endif" />
         <meta property="og:description" content="Entre com {{env('WEB_NAME')}} ID." />
         <meta property="og:url" content="{{Request::url()}}" />
-        <meta property="og:image" content="https://s1.pearlcdn.com/account/contents/img/common/og_image.jpg?v=638016825217184276" />
+        <meta property="og:image" content="{{asset('assets/web/images/main/icon.png')}}" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="628" />
         <meta name="facebook-domain-verification" content="leiralv78698odg34dwodklndcee52" />
 
-        <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon16.ico" type="image/x-icon" sizes="16x16" />
-        <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon32.ico" type="image/x-icon" sizes="32x32" />
-        <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon48.ico" type="image/x-icon" sizes="48x48" />
-        <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon64.ico" type="image/x-icon" sizes="64x64" />
-        <link rel="shortcut icon" href="https://s1.pearlcdn.com/account/contents/img/common/favicon256.ico" type="image/x-icon" sizes="256x256" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="16x16" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="32x32" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="48x48" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="64x64" />
+        <link rel="shortcut icon" href="{{asset('assets/web/images/main/icon.png')}}" type="image/x-icon" sizes="256x256" />
 
         <meta http-equiv="content-language" content="pt" />
 
@@ -52,7 +52,7 @@
         <link type="text/css" rel="stylesheet" href="{{asset('assets/css/datepicker.css?v=638016825217184276')}}" />
 
         @stack('styles')
-        
+
         <script>
             var _abyss = (window._abyss = window._abyss || {});
 
@@ -70,7 +70,7 @@
         </script>
 
         <!-- Google Tag manager-->
-        
+
     </head>
     <body class="">
         @include('layouts.headerMenu')
@@ -105,7 +105,7 @@
         @elseif(App::getLocale() == "es")
             <script src="{{asset('assets/language/languagepack.es-mx.js?v=638016825217184276')}}"></script>
         @elseif(App::getLocale() == "en")
-            <script src="{{asset('assets/language/languagepack.en-us.js?v=638016825217184276')}}"></script> 
+            <script src="{{asset('assets/language/languagepack.en-us.js?v=638016825217184276')}}"></script>
         @endif
         <script src="{{asset('assets/js/common.js?v=638016825217184276')}}"></script>
 
@@ -114,12 +114,12 @@
         <script src="{{asset('assets/js/jquery.inputmask.bundle.js')}}"></script>
         <script src="{{asset('assets/js/select2.min.js')}}"></script>
         <script src="{{asset('assets/js/sweetalert2.all.min.js')}}"></script>
-        
+
         <script src="{{asset('assets/js/datepicker.js?v=638016825217184276')}}"></script>
         <script src="{{asset('assets/js/ResizeSensor.js')}}"></script>
 
         <script src="{{asset('assets/js/global.js')}}"></script>
-    
+
         @stack('scripts')
 
         @if(Session::has('message'))
