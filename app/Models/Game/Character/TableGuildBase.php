@@ -17,7 +17,7 @@ class TableGuildBase extends Model
         'binnotice',
     ];
 
-    protected $timestamps = false;
+    public $timestamps = false;
 
     protected $fillable = [
         'DBKey','Deleted','Name','GuildMasterDBKey','GuildGrade','ExploitsPoint','CreateTime','DeleteTime','AllianceDBKey',
