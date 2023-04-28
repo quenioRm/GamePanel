@@ -10,16 +10,6 @@ use App\Models\Game\Log\TableCharacterItemQueue;
 
 class IcarusBuySellApiController extends Controller
 {
-    public function FindCharacterByAccount($accountId)
-    {
-        return response()->json(['resultCode' => 1000, 'resultMsg' => TableCharacter::FindCharacterByAccount($accountId), 'returnUrl' => '' ], 200);
-    }
-
-    public function GetUserWithCharacters($dBKey)
-    {
-        return response()->json(['resultCode' => 1000, 'resultMsg' => TableUser::GetUserWithCharacters($dBKey), 'returnUrl' => '' ], 200);
-    }
-
     public function MoveItemToQueue(Request $request)
     {
         $data = json_decode($request->getContent(), true);

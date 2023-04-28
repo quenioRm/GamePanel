@@ -38,11 +38,14 @@ Route::prefix('nexon')->name('nexon.')->group( function(){
 
 Route::prefix('icarus')->name('icarus.')->group( function(){
 
-    Route::get('getcharacter/{accountId}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
+    Route::get('findaccountbyusername/{account}', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'FindAccountIdByUsername'])->name('findaccountbyusername');
+
+    Route::get('getcharacter/{accountId}', [App\Http\Controllers\Games\IcarusAccountController::class,
     'FindCharacterByAccount'])->name('getcharacter');
 
-    Route::get('getaccountwithcharacters/{dbkey}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
-    'GetUserWithCharacters'])->name('getaccountwithcharacters');
+    Route::get('getaccountwithcharactersbyid/{dbkey}', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'GetUserWithCharactersByID'])->name('getaccountwithcharactersbyid');
 
     Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToQueue'])->name('moveitemtoqueue');
