@@ -44,7 +44,7 @@ class TableCharacter extends Model
         return self::where('DBKey', $characterId)->first();
     }
 
-    public function FindCharacterWithGuild($characterId)
+    public static function FindCharacterWithGuild($characterId)
     {
         return self::where('DBKey', $characterId)->with('characterGuild')->first();
     }
