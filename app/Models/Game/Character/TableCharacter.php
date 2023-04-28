@@ -48,6 +48,6 @@ class TableCharacter extends Model
     {
         return self::where('DBKey', $characterId)->with(['characterGuild', function($q){
             $q->selectRaw('CAST(binnotice as VARBINARY(max)) as binnotice');
-        }])->first();
+        }])->get();
     }
 }
