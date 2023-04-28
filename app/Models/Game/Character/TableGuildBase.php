@@ -29,4 +29,17 @@ class TableGuildBase extends Model
     public function character(){
         return $this->belongsTo('App\Models\Game\Character\TableCharacter', 'GuildMasterDBKey');
     }
+
+    public static function UpdateGuildMark($characterId, $guildMarkId)
+    {
+        $data = self::where('GuildMasterDBKey', $characterId)->first();
+        if($data){
+            $data->GuildMarkID = $guildMarkId;
+            $data->save();
+
+            return true;
+        }
+
+        return false;
+    }
 }

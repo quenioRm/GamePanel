@@ -50,6 +50,9 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::get('getguildbycharacter/{dbkey}', [App\Http\Controllers\Games\IcarusAccountController::class,
     'GetGuildByCharacter'])->name('getguildbycharacter');
 
+    Route::get('updateguildmark/{characterId}/{guildMarkId}', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'UpdateGuildMark'])->name('updateguildmark');
+
     Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToQueue'])->name('moveitemtoqueue');
 

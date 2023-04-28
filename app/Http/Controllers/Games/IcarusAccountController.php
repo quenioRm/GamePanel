@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Games;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Game\Character\TableCharacter;
+use App\Models\Game\Character\TableGuildBase;
 use App\Models\Game\User\TableUser;
 use App\Models\Game\Log\TableCharacterItemQueue;
 
@@ -28,5 +29,10 @@ class IcarusAccountController extends Controller
     public function GetGuildByCharacter($dBKey)
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableCharacter::FindCharacterWithGuild($dBKey), 'returnUrl' => '' ], 200);
+    }
+
+    public function UpdateGuildMark($characterId, $guildMarkId)
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => TableGuildBase::UpdateGuildMark($characterId, $guildMarkId), 'returnUrl' => '' ], 200);
     }
 }
