@@ -46,8 +46,6 @@ class TableCharacter extends Model
 
     public static function FindCharacterWithGuild($characterId)
     {
-        return self::where('DBKey', $characterId)->with(['characterGuild', function($q){
-            $q->selectRaw('CAST(binnotice as VARBINARY(max)) as binnotice');
-        }])->get();
+        return self::where('DBKey', $characterId)->with('characterGuild')->first();
     }
 }

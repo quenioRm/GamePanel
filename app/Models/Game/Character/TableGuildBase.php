@@ -13,6 +13,10 @@ class TableGuildBase extends Model
     protected $table = "Table_GuildBase";
     protected $primaryKey = 'DBKey';
 
+    protected $hidden = [
+        'binnotice',
+    ];
+
     protected $fillable = [
         'DBKey','Deleted','Name','GuildMasterDBKey','GuildGrade','ExploitsPoint','CreateTime','DeleteTime','AllianceDBKey',
         'GuildMemberRankName1','GuildMemberPermissions1','GuildMemberRankName2','GuildMemberPermissions2','GuildMemberRankName3',
