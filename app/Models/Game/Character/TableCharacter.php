@@ -30,6 +30,10 @@ class TableCharacter extends Model
         return $this->hasMany('App\Models\Game\Character\TableCharacterItem', 'Owner');
     }
 
+    public function characterGuild(){
+        return $this->hasMany('App\Models\Game\Character\TableGuildBase', 'DBKey');
+    }
+
     public static function FindCharacterByAccount($accountId)
     {
         return self::where('Account', $accountId)->first();
@@ -38,5 +42,10 @@ class TableCharacter extends Model
     public static function FindAccountByCharacter($characterId)
     {
         return self::where('DBKey', $characterId)->first();
+    }
+
+    public function FindCharacterWithGuild($characterId)
+    {
+        return self::where('DBKey', $characterId)->with('characterGuild')->first();
     }
 }

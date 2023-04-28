@@ -47,6 +47,9 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::get('getaccountwithcharactersbyid/{dbkey}', [App\Http\Controllers\Games\IcarusAccountController::class,
     'GetUserWithCharactersByID'])->name('getaccountwithcharactersbyid');
 
+    Route::get('getguildbycharacter/{dbkey}', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'GetGuildByCharacter'])->name('getguildbycharacter');
+
     Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToQueue'])->name('moveitemtoqueue');
 

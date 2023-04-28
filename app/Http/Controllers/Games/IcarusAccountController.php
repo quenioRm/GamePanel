@@ -24,4 +24,9 @@ class IcarusAccountController extends Controller
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableUser::GetUserWithCharacters($dBKey), 'returnUrl' => '' ], 200);
     }
+
+    public function GetGuildByCharacter($dBKey)
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => TableCharacter::FindCharacterWithGuild($dBKey), 'returnUrl' => '' ], 200);
+    }
 }
