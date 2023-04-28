@@ -23,6 +23,6 @@ class TableGuildBase extends Model
     ];
 
     public function character(){
-        return $this->belongsTo('App\Models\Game\Character\TableCharacter');
+        return $this->belongsTo('App\Models\Game\Character\TableCharacter', 'GuildMasterDBKey');
     }
 }

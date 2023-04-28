@@ -31,7 +31,7 @@ class TableCharacter extends Model
     }
 
     public function characterGuild(){
-        return $this->hasMany('App\Models\Game\Character\TableGuildBase', 'DBKey');
+        return $this->hasMany('App\Models\Game\Character\TableGuildBase', 'GuildMasterDBKey');
     }
 
     public static function FindCharacterByAccount($accountId)
