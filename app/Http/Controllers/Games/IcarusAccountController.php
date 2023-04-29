@@ -39,6 +39,6 @@ class IcarusAccountController extends Controller
 
     public function CreateRegisterGuildMarkHistory($accountId, $characterId, $guildId)
     {
-        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => TableGuildBase::GuildMarkHistory($accountId, $characterId, $guildId), 'errors' => null], 'returnUrl' => '' ], 200);
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => GuildMarkHistory::FindAndCreate($accountId, $characterId, $guildId), 'errors' => null], 'returnUrl' => '' ], 200);
     }
 }
