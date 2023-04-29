@@ -8,6 +8,7 @@ use App\Models\Game\Character\TableCharacter;
 use App\Models\Game\Character\TableGuildBase;
 use App\Models\Game\User\TableUser;
 use App\Models\Game\Log\TableCharacterItemQueue;
+use App\Models\Game\Log\GuildMarkHistory;
 
 class IcarusAccountController extends Controller
 {
@@ -34,5 +35,10 @@ class IcarusAccountController extends Controller
     public function UpdateGuildMark($characterId, $guildMarkId)
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableGuildBase::UpdateGuildMark($characterId, $guildMarkId), 'returnUrl' => '' ], 200);
+    }
+
+    public function CreateRegisterGuildMarkHistory($accountId, $characterId, $guildId)
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => TableGuildBase::GuildMarkHistory($accountId, $characterId, $guildId), 'errors' => null], 'returnUrl' => '' ], 200);
     }
 }
