@@ -29,7 +29,7 @@ class GuildMarkHistory extends Model
         if($data){
 
             $datework = new Carbon($data->updated_at);
-            $diff = $date->diffInDays($datework);
+            $diff = $datework->diffInDays($datework);
 
             if($diff < 10){
                 return "Ainda faltam " . $calcDate . " dias para poder atualizar a logo da sua guild";
