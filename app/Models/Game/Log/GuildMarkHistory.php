@@ -4,6 +4,7 @@ namespace App\Models\Game\Log;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Carbon\Carbon;
 
 class GuildMarkHistory extends Model
 {
@@ -27,9 +28,10 @@ class GuildMarkHistory extends Model
 
         if($data){
 
-            $calcDate = now() - $data->created_at;
+            $datework = new Carbon($data->updated_at);
+            $diff = $date->diffInDays($datework);
 
-            if($calcDate < 10){
+            if($diff < 10){
                 return "Ainda faltam " . $calcDate . " dias para poder atualizar a logo da sua guild";
             }
 
