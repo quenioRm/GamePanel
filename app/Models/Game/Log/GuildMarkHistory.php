@@ -32,7 +32,7 @@ class GuildMarkHistory extends Model
             $diff = $datework->diffInDays($datework);
 
             if($diff < 10){
-                return "Ainda faltam " . $diff . " dias para poder atualizar a logo da sua guild";
+                return "Ainda faltam " . (10 - $diff) . " dias para poder atualizar a logo da sua guild";
             }
 
             $data->updated_at = now();
