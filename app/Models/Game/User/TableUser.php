@@ -15,8 +15,10 @@ class TableUser extends Model
     protected $table = "Table_User";
     protected $primaryKey = 'Account';
 
+
+
     protected $keyType = 'string';
-    // protected $dates = ['created_at','updated_at'];
+
     protected $fillable = [
         'DbKey',
         'CreateDate',
