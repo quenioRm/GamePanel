@@ -32,13 +32,34 @@ class IcarusAccountController extends Controller
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableCharacter::FindCharacterWithGuild($dBKey), 'returnUrl' => '' ], 200);
     }
 
+    public function CreateRegisterGuildMarkHistory(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'accountId' => 'required',
+            'characterId' => '',
+            'guildId' => 'required',
+            'guildMarkId' => 'required'
+        ], [], [
+            'accountId' =>  'accountId',
+            'characterId' => 'characterId',
+            'guildId' =>  'guildId',
+            'guildMarkId' =>  'guildMarkId'
+        ]);
+
+        if(!$validator->passes()){
+            return response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()],'resultData' => null, 'returnUrl' => '' ], 400);
+        }
+
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => GuildMarkHistory::CreteGuildMarkLog($request->all()), 'errors' => null], 'returnUrl' => '' ], 200);
+    }
+
+    public function GetGuildMarkList()
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => GuildMarkHistory::get(), 'errors' => null], 'returnUrl' => '' ], 200);
+    }
+
     public function UpdateGuildMark($characterId, $guildMarkId)
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableGuildBase::UpdateGuildMark($characterId, $guildMarkId), 'returnUrl' => '' ], 200);
-    }
-
-    public function CreateRegisterGuildMarkHistory($accountId, $characterId, $guildId)
-    {
-        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => GuildMarkHistory::FindAndCreate($accountId, $characterId, $guildId), 'errors' => null], 'returnUrl' => '' ], 200);
     }
 }
