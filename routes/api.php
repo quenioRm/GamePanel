@@ -62,6 +62,9 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::post('getresumecharacter', [App\Http\Controllers\Games\IcarusAccountController::class,
     'GetResumeCharacter'])->name('getresumecharacter');
 
+    Route::get('getuserbyusername/{username}', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'GetUserByUserName'])->name('getuserbyusername');
+
     Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToQueue'])->name('moveitemtoqueue');
 
