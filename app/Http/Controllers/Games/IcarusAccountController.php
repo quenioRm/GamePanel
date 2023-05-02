@@ -74,4 +74,9 @@ class IcarusAccountController extends Controller
 
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableCharacter::GetResumeCharacter($account, $characterId, $online, $accountLang), 'returnUrl' => '' ], 200);
     }
+
+    public function GetUserByUserName($username)
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => TableUser::where('Account', $username)->first(), 'returnUrl' => '' ], 200);
+    }
 }
