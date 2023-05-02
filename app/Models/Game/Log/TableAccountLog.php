@@ -17,7 +17,7 @@ class TableAccountLog extends Model
         'id',
         'accountId',
         'characterId',
-        'status',
+        'onlineStatus',
     ];
 
     public static function CheckAccountIsOnline($characterId)
@@ -26,6 +26,6 @@ class TableAccountLog extends Model
         if($status == null)
             return 0;
 
-        return $status->status;
+        return $status->onlineStatus;
     }
 }

@@ -59,6 +59,9 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::get('updateguildmark/{characterId}/{guildMarkId}', [App\Http\Controllers\Games\IcarusAccountController::class,
     'UpdateGuildMark'])->name('updateguildmark');
 
+    Route::post('getresumecharacter', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'GetResumeCharacter'])->name('getresumecharacter');
+
     Route::post('moveitemtoqueue', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToQueue'])->name('moveitemtoqueue');
 
@@ -67,6 +70,7 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
 
     Route::get('moveitemtobuyer/{sellId}/{characterBuyerId}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToBuyer'])->name('moveitemtobuyer');
+
 });
 
 Route::prefix('launcher')->name('launcher.')->group( function(){

@@ -4,6 +4,7 @@ namespace App\Models\Game\Character;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use App\Helpers\Functions;
 
 class TableCharacter extends Model
 {
@@ -34,6 +35,10 @@ class TableCharacter extends Model
         return $this->hasMany('App\Models\Game\Character\TableGuildBase', 'GuildMasterDBKey');
     }
 
+    public function characterStatus(){
+        return $this->hasMany('App\Models\Game\Log\TableAccountLog', 'characterId');
+    }
+
     public static function FindCharacterByAccount($accountId)
     {
         return self::where('Account', $accountId)->first();
@@ -47,5 +52,32 @@ class TableCharacter extends Model
     public static function FindCharacterWithGuild($characterId)
     {
         return self::where('DBKey', $characterId)->with('characterGuild')->first();
+    }
+
+    public static function GetResumeCharacter($account, $characterId, $online, $lang)
+    {
+        $characters = self::with('characterStatus')->where('Account', $account)
+        ->when(!is_null($characterId),
+            function($q) use($characterId){
+                $q->where('DBKey','=', $characterId);
+            }
+        )->get();
+
+        if($online != null){
+            foreach ($characters as $key => $character) {
+                if(!empty($character->characterStatus->toArray())){
+                    if($character->characterStatus[0]['onlineStatus'] == $online){
+                        $character->MapId = Functions::GetDataFromXML($character->MapId, $lang);
+                        $character->Class = Functions::GetClassName($character->Class);
+
+                        return $character;
+                    }
+                }
+            }
+
+            return null;
+        }
+
+        return $characters;
     }
 }

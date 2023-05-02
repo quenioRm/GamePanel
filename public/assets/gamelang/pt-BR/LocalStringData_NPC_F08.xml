@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="npc" key="N_F08_Weapon_001" value="Bigorna para Armas" />
+  <keys type="npc" key="N_F08_Amor_001" value="Bigorna para Armaduras" />
+  <keys type="npc" key="N_F08_Cook_001" value="Estação de Cozimento" />
+  <keys type="npc" key="N_F08_Alchemy_001" value="Laboratório de Alquimia" />
+  <keys type="npc" key="N_F08_Accessory_001" value="Bancada de Ourives" />
+  <keys type="npc" key="N_F08_Fellow_001" value="Mesa de Criação de Selaria" />
+  <keys type="npc" key="N_F08_Portal_100" value="Santuário de Regiões" />
+  <keys type="npc" key="N_F08_Portal_001" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_F08_Portal_002" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_F08_Portal_003" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_F08_Portal_004" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_F08_Portal_005" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_F08_Portal_006" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_F08_Portal_007" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_F08_Board_001" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_Board_002" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_Board_003" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_Board_004" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_Board_005" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_Board_006" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_Board_007" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_Board_008" value="Quadro de Missões" />
+  <keys type="npc" key="N_F08_1_1101" value="Kite" />
+  <keys type="npc" key="N_F08_1_1102" value="Louis Lebrini" />
+  <keys type="npc" key="N_F08_1_1103" value="Muzaka" />
+  <keys type="npc" key="N_F08_1_1104" value="Vernon" />
+  <keys type="npc" key="N_F08_1_1105" value="Urmi" />
+  <keys type="npc" key="N_F08_1_1106" value="Jonathan" />
+  <keys type="npc" key="N_F08_1_1107" value="Bailey" />
+  <keys type="npc" key="N_F08_1_1108" value="Chris Bale" />
+  <keys type="npc" key="N_F08_1_1109" value="Yorris Bale" />
+  <keys type="npc" key="N_F08_1_1110" value="Parmati" />
+  <keys type="npc" key="N_F08_1_1111" value="Minnow" />
+  <keys type="npc" key="N_F08_1_1112" value="Bailin" />
+  <keys type="npc" key="N_F08_1_1113" value="Christian" />
+  <keys type="npc" key="N_F08_1_1114" value="Eshian" />
+  <keys type="npc" key="N_F08_1_1115" value="Heinkes" />
+  <keys type="npc" key="N_F08_1_1116" value="Murant" />
+  <keys type="npc" key="N_F08_1_1117" value="Theo" />
+  <keys type="npc" key="N_F08_1_1118" value="Antoine" />
+  <keys type="npc" key="N_F08_1_1119" value="Simone" />
+  <keys type="npc" key="N_F08_1_1120" value="Ferrina" />
+  <keys type="npc" key="N_F08_1_1121" value="Pierro" />
+  <keys type="npc" key="N_F08_1_1122" value="Whitney" />
+  <keys type="npc" key="N_F08_1_1123" value="Rene" />
+  <keys type="npc" key="N_F08_1_1124" value="Lamella" />
+  <keys type="npc" key="N_F08_1_2101" value="Ethan" />
+  <keys type="npc" key="N_F08_2_1101" value="Ailo" />
+  <keys type="npc" key="N_F08_2_1102" value="Anbou" />
+  <keys type="npc" key="N_F08_2_1103" value="Hogarth" />
+  <keys type="npc" key="N_F08_2_1104" value="Paijin" />
+  <keys type="npc" key="N_F08_2_1105" value="Dian" />
+  <keys type="npc" key="N_F08_2_1106" value="Aiji" />
+  <keys type="npc" key="N_F08_2_1107" value="Tsurugi" />
+  <keys type="npc" key="N_F08_2_1108" value="Sebrinch" />
+  <keys type="npc" key="N_F08_2_1109" value="Aano" />
+  <keys type="npc" key="N_F08_2_1110" value="Foggy" />
+  <keys type="npc" key="N_F08_2_1111" value="Rico" />
+  <keys type="npc" key="N_F08_2_1112" value="Ferrero" />
+  <keys type="npc" key="N_F08_2_1113" value="Nabian" />
+  <keys type="npc" key="N_F08_2_1114" value="Vanilla" />
+  <keys type="npc" key="N_F08_2_1115" value="Fortuna" />
+  <keys type="npc" key="N_F08_2_2101" value="Feindal" />
+  <keys type="npc" key="N_F08_2_2102" value="Aileen" />
+  <keys type="npc" key="N_F08_2_2103" value="Grandalf" />
+  <keys type="npc" key="N_F08_2_3101" value="Fredo" />
+  <keys type="npc" key="N_F08_2_3102" value="Hannety" />
+  <keys type="npc" key="N_F08_2_3103" value="Amon" />
+  <keys type="npc" key="N_F08_2_3104" value="Arumi" />
+  <keys type="npc" key="N_F08_2_3105" value="Abianno" />
+  <keys type="npc" key="N_F08_2_3106" value="Seiko" />
+  <keys type="npc" key="N_F08_2_4101" value="Tilly" />
+  <keys type="npc" key="N_F08_2_4102" value="Aioni" />
+  <keys type="npc" key="N_F08_3_1101" value="Gurte" />
+  <keys type="npc" key="N_F08_3_1102" value="Lamia" />
+  <keys type="npc" key="N_F08_3_1103" value="Garana" />
+  <keys type="npc" key="N_F08_3_1104" value="Randini" />
+  <keys type="npc" key="N_F08_3_1105" value="Mileyn" />
+  <keys type="npc" key="N_F08_3_1106" value="Ireel" />
+  <keys type="npc" key="N_F08_3_1107" value="Celestine" />
+  <keys type="npc" key="N_F08_3_1108" value="Cecilia" />
+  <keys type="npc" key="N_F08_3_1109" value="Corelia" />
+  <keys type="npc" key="N_F08_3_2101" value="Saiton" />
+  <keys type="npc" key="N_F08_3_2102" value="Brennan" />
+  <keys type="npc" key="N_F08_3_2103" value="Arturo" />
+  <keys type="npc" key="N_F08_3_2104" value="Chandler" />
+  <keys type="npc" key="N_F08_3_2105" value="Cha Lin" />
+  <keys type="npc" key="N_F08_3_2106" value="Coix" />
+  <keys type="npc" key="N_F08_3_2107" value="Esian" />
+  <keys type="npc" key="N_F08_3_3101" value="Dynin" />
+  <keys type="npc" key="N_F08_3_3102" value="Iton" />
+  <keys type="npc" key="N_F08_4_1101" value="Grandal" />
+  <keys type="npc" key="N_F08_4_1102" value="Spinney" />
+  <keys type="npc" key="N_F08_4_1103" value="Braun" />
+  <keys type="npc" key="N_F08_4_1104" value="Murakami" />
+  <keys type="npc" key="N_F08_4_1105" value="Abraão" />
+  <keys type="npc" key="N_F08_4_2101" value="Gacha" />
+  <keys type="npc" key="N_F08_4_2102" value="Hailey" />
+  <keys type="npc" key="N_F08_4_3101" value="Maillin" />
+  <keys type="npc" key="N_F08_4_3102" value="Guarin" />
+  <keys type="npc" key="N_F08_4_3103" value="Celie" />
+  <keys type="npc" key="N_F08_4_3104" value="Justine" />
+  <keys type="npc" key="N_F08_4_3105" value="Sentein" />
+  <keys type="npc" key="N_F08_4_3106" value="Frei" />
+  <keys type="npc" key="N_F08_4_3107" value="Nevan" />
+  <keys type="npc" key="N_F08_4_3108" value="Alvis" />
+  <keys type="npc" key="N_F08_4_3109" value="Oz" />
+  <keys type="npc" key="N_F08_4_3110" value="Elise" />
+  <keys type="npc" key="N_F08_4_3111" value="Kerkim" />
+  <keys type="npc" key="N_F08_4_3112" value="Sonnet" />
+  <keys type="npc" key="N_F08_4_3113" value="Parser" />
+  <keys type="npc" key="N_F08_4_3114" value="Alvorada" />
+  <keys type="npc" key="N_F08_4_3115" value="Burd" />
+  <keys type="npc" key="N_F08_5_1101" value="Daido" />
+  <keys type="npc" key="N_F08_5_1102" value="Chalidge" />
+  <keys type="npc" key="N_F08_5_1103" value="Vesti" />
+  <keys type="npc" key="N_F08_5_1104" value="Curtis" />
+  <keys type="npc" key="N_F08_5_1105" value="Tarmat" />
+  <keys type="npc" key="N_F08_6_1101" value="Van Owen Lebrini" />
+  <keys type="npc" key="N_F08_6_1102" value="Penelope" />
+  <keys type="npc" key="N_F08_7_1101" value="Marinheiro Morto" />
+  <keys type="npc" key="N_F08_7_1102" value="Marinheiro Ferido" />
+  <keys type="npc" key="N_F08_7_1103" value="Sacerdotisa Yana" />
+  <keys type="npc" key="N_F08_Cutscene_0001" value="Princesa Lania" />
+  <keys type="npc" key="N_F08_Cutscene_0002" value="Salant" />
+  <keys type="npc" key="N_F08_7_1301" value="Romanson" />
+  <keys type="npc" key="N_F08_7_1302" value="Clack Domado" />
+  <keys type="npc" key="N_F08_1_1301" value="Zeromin" />
+  <keys type="npc" key="N_F08_1_1302" value="Valgas" />
+  <keys type="npc" key="N_F08_1_1303" value="Porus" />
+  <keys type="npc" key="N_F08_1_1304" value="Rokun" />
+  <keys type="npc" key="N_F08_1_1305" value="Shizu" />
+  <keys type="npc" key="N_F08_1_1306" value="Ani" />
+  <keys type="npc" key="N_F08_1_1307" value="Sasha" />
+  <keys type="npc" key="N_F08_1_1308" value="Jarad" />
+  <keys type="npc" key="N_F08_1_1309" value="Trak" />
+  <keys type="npc" key="N_F08_1_1310" value="Mirren" />
+  <keys type="npc" key="N_F08_2_1301" value="Cecil" />
+  <keys type="npc" key="N_F08_2_1302" value="Henry" />
+  <keys type="npc" key="N_F08_2_1303" value="Hansen" />
+  <keys type="npc" key="N_F08_3_1301" value="Igor" />
+  <keys type="npc" key="N_F08_3_1302" value="Kurodian" />
+  <keys type="npc" key="N_F08_3_1303" value="Kurodian" />
+  <keys type="npc" key="N_F08_4_1301" value="Catherine" />
+  <keys type="npc" key="N_F08_4_1302" value="Tasha" />
+  <keys type="npc" key="N_F08_4_1303" value="Silveth" />
+  <keys type="npc" key="N_F08_4_1304" value="Jarad" />
+  <keys type="npc" key="N_F08_4_1305" value="Silveth" />
+  <keys type="npc" key="N_F08_4_1306" value="Sasha" />
+  <keys type="npc" key="N_F08_7_1201" value="Allen" />
+  <keys type="npc" key="N_F08_7_1202" value="Sylvia" />
+  <keys type="npc" key="N_F08_7_1203" value="Soldado Ferido" />
+  <keys type="npc" key="N_F08_7_1204" value="Soldado Ferido" />
+  <keys type="npc" key="N_F08_7_1205" value="Soldado Ferido" />
+  <keys type="npc" key="N_F08_7_1206" value="Soldado Ferido" />
+  <keys type="npc" key="N_F08_7_1207" value="Aldeão do Desfiladeiro Grandioso" />
+  <keys type="npc" key="N_F08_7_1208" value="Aldeão do Desfiladeiro Grandioso" />
+  <keys type="npc" key="N_F08_1_1201" value="Guarda da Aldeia do Desfiladeiro Grandioso" />
+  <keys type="npc" key="N_F08_1_1202" value="Guarda da Aldeia do Desfiladeiro Grandioso" />
+  <keys type="npc" key="N_F08_1_1203" value="Patrulheiro da Aldeia do Desfiladeiro Grandioso" />
+  <keys type="npc" key="N_F08_1_1204" value="Taylor, Chefe da Guarda" />
+  <keys type="npc" key="N_F08_1_1205" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1206" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1207" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1208" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1209" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1210" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1211" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1212" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1213" value="Aldeã" />
+  <keys type="npc" key="N_F08_1_1214" value="Aldeã" />
+  <keys type="npc" key="N_F08_2_1201" value="Guarda da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_2_1202" value="Guarda da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_2_1203" value="Patrulheiro da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_2_1204" value="Soldado Ferido" />
+  <keys type="npc" key="N_F08_2_1205" value="Fantasma de um Soldado" />
+  <keys type="npc" key="N_F08_2_1206" value="Trabalhador da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_2_1207" value="Trabalhador da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_2_1208" value="Aldeã da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_2_1209" value="Aldeão da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_2_1210" value="Círculo Interno de Crokhoon" />
+  <keys type="npc" key="N_F08_2_1211" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1212" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1213" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1214" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1215" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1216" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1217" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1218" value="Soldado de Ithilis" />
+  <keys type="npc" key="N_F08_2_1219" value="Patrulheiro de Ithilis" />
+  <keys type="npc" key="N_F08_2_1220" value="Patrulheiro de Ithilis" />
+  <keys type="npc" key="N_F08_2_1221" value="Patrulheiro de Ithilis" />
+  <keys type="npc" key="N_F08_2_2201" value="Ahmak" />
+  <keys type="npc" key="N_F08_3_1201" value="Croat" />
+  <keys type="npc" key="N_F08_3_1202" value="Keto" />
+  <keys type="npc" key="N_F08_3_1203" value="Konatsu" />
+  <keys type="npc" key="N_F08_3_1204" value="Alma Anciã" />
+  <keys type="npc" key="N_F08_3_1205" value="Santuário de Transporte de Sasha" />
+  <keys type="npc" key="N_F08_3_1206" value="Guarda da Prisão do Posto de Comando Abandonado" />
+  <keys type="npc" key="N_F08_3_1207" value="Guarda da Prisão do Posto de Comando Abandonado" />
+  <keys type="npc" key="N_F08_3_2201" value="Kakaji" />
+  <keys type="npc" key="N_F08_3_2202" value="Makaru" />
+  <keys type="npc" key="N_F08_3_2203" value="Barag" />
+  <keys type="npc" key="N_F08_3_2204" value="Guardas da Prisão" />
+  <keys type="npc" key="N_F08_4_1201" value="Patrulheiro Kips" />
+  <keys type="npc" key="N_F08_4_1202" value="Patrulheiro Iowa" />
+  <keys type="npc" key="N_F08_4_2201" value="Servo do Rei dos Insetos" />
+  <keys type="npc" key="N_F08_4_2202" value="Servo do Rei dos Insetos" />
+  <keys type="npc" key="N_F08_4_2203" value="Servo do Rei dos Insetos" />
+  <keys type="npc" key="N_F08_4_2204" value="Servo do Rei dos Insetos" />
+  <keys type="npc" key="N_F08_4_2205" value="Guardião" />
+  <keys type="npc" key="N_F08_4_2206" value="Guardião" />
+  <keys type="npc" key="N_F08_4_2207" value="Patrulheiro" />
+  <keys type="npc" key="N_F08_1_1401" value="Escorpião Mutante Domado" />
+  <keys type="npc" key="N_F08_2_1401" value="Freig Domado" />
+  <keys type="npc" key="N_F08_2_3401" value="Snarl Domado" />
+  <keys type="npc" key="N_F08_3_1401" value="Daiden Domado" />
+  <keys type="npc" key="N_F08_3_2401" value="Zangão Domado" />
+  <keys type="npc" key="N_F08_4_1401" value="Wyrm Esmeralda Domado" />
+  <keys type="npc" key="N_F08_4_3401" value="Kaliart Domado" />
+  <keys type="npc" key="N_F08_5_1401" value="Corbelt Domado" />
+  <keys type="npc" key="N_F08_6_1103" value="Guarda Axel" />
+  <keys type="npc" key="N_F08_6_1104" value="Subordinada Kendall" />
+  <keys type="npc" key="N_D07_1_1101" value="Explorador Aevin" />
+  <keys type="npc" key="N_D07_1_1102" value="Explorador Aevin" />
+  <keys type="npc" key="N_F08_6_1105" value="Explorador Aevin" />
+  <keys type="npc" key="N_D07_1_1103" value="Lojista Morrow" />
+  <keys type="npc" key="N_F08_1_1402" value="Lojista Morrow" />
+  <keys type="npc" key="N_F08_1_1403" value="Comerciante Hammeron" />
+  <keys type="npc" key="N_F08_1_1404" value="Pesquisadora Serena" />
+  <keys type="npc" key="N_F08_Rescue_0001" value="Yummi Lebrini" />
+  <keys type="npc" key="N_F08_Rescue_0002" value="Yummi Lebrini" />
+  <keys type="npc" key="N_F08_1_1405" value="Guardião da Pedra Mágica" />
+  <keys type="npc" key="N_F08_1_1406" value="Guardião da Pedra Mágica" />
+  <keys type="npc" key="N_F08_1_1215" value="Soldado Cavaleiro do Desfiladeiro Grandioso" />
+  <keys type="npc" key="N_F08_2_1222" value="Soldado Cavaleiro da Fortaleza de Ithilis" />
+  <keys type="npc" key="N_F08_4_2208" value="Soldado Cavaleiro" />
+  <keys type="npc" key="n_f08_7_1209" value="Guvan" />
+  <keys type="npc" key="n_f08_7_1210" value="Guvan" />
+  <keys type="npc" key="n_f08_quest_01" value="" />
+  <keys type="npc" key="n_f08_quest_02" value="Restos do Suprimento de Itilide" />
+  <keys type="npc" key="n_f08_quest_03" value="" />
+  <keys type="npc" key="n_f08_quest_04" value="" />
+  <keys type="npc" key="n_f08_quest_05" value="Equipe de Pesquisa" />
+  <keys type="npc" key="n_f08_quest_06" value="Equipe de Pesquisa" />
+  <keys type="npc" key="n_f08_quest_07" value="Equipe de Pesquisa" />
+  <keys type="npc" key="n_f08_quest_08" value="Equipe de Pesquisa" />
+  <keys type="npc" key="n_f08_quest_09" value="" />
+  <keys type="npc" key="n_f08_quest_10" value="" />
+  <keys type="npc" key="n_f08_quest_11" value="" />
+  <keys type="npc" key="n_f08_quest_12" value="" />
+  <keys type="npc" key="n_f08_quest_13" value="Penzard Prateado" />
+  <keys type="npc" key="n_f08_quest_14" value="Penzard Prateado" />
+  <keys type="npc" key="n_f08_quest_15" value="Elizabeth" />
+  <keys type="npc" key="n_f08_quest_16" value="Elizabeth" />
+  <keys type="npc" key="n_f08_quest_17" value="Clausewitz" />
+  <keys type="npc" key="n_f08_quest_18" value="Clausewitz" />
+  <keys type="npc" key="n_f08_quest_19" value="Flore" />
+  <keys type="npc" key="n_f08_quest_20" value="Croken" />
+  <keys type="npc" key="n_f08_quest_21" value="Gubami Lebrini" />
+  <keys type="npc" key="n_f08_quest_22" value="Cinzas do Patrulheiro" />
+  <keys type="npc" key="n_f08_quest_23" value="Cayde" />
+  <keys type="npc" key="n_f08_quest_24" value="Cayde" />
+  <keys type="npc" key="n_f08_4_2103" value="Guarda da Equipe de Pesquisa" />
+  <keys type="npc" key="n_f08_1_1229" value="Médico de Ithilis" />
+  <keys type="npc" key="n_f08_1_1218" value="Aldeão Repousando" />
+  <keys type="npc" key="n_f08_d07_portal" value="Santuário de Trânsito" />
+  <keys type="npc" key="n_f08_1_1216" value="Guarda Instruído / Reservista" />
+  <keys type="npc" key="n_f08_3_1208" value="Patrulheiro do Posto de Comando Abandonado" />
+  <keys type="npc" key="n_f08_2_1304" value="Valen" />
+  <keys type="npc" key="n_f08_1_1226" value="Ymir" />
+  <keys type="npc" key="n_f08_4_2210" value="Aya" />
+  <keys type="npc" key="n_f08_2_1223" value="Soldado Ferido" />
+  <keys type="npc" key="n_f08_4_2212" value="Curalan" />
+  <keys type="npc" key="n_f08_3_2205" value="Prisioneiro da Legião dos Insetos" />
+  <keys type="npc" key="n_f08_3_1304" value="Laford" />
+  <keys type="npc" key="n_f08_4_2209" value="Johes" />
+  <keys type="npc" key="n_f08_4_2104" value="Patrulheiro da Equipe de Pesquisa" />
+  <keys type="npc" key="n_f08_1_1311" value="Yuccia" />
+  <keys type="npc" key="n_f08_1_1217" value="Miley" />
+  <keys type="npc" key="n_f08_2_1226" value="Guarda de Abastecimento de Ithilis" />
+  <keys type="npc" key="n_f08_4_2211" value="Indigente" />
+  <keys type="npc" key="n_f08_1_1227" value="Danny" />
+  <keys type="npc" key="n_f08_3_3103" value="Ikazu" />
+  <keys type="npc" key="n_f08_2_1225" value="Ziggs" />
+  <keys type="npc" key="n_f08_2_1224" value="Leah" />
+  <keys type="npc" key="n_f08_quest_25" value="Cadáver de Soldado" />
+  <keys type="npc" key="n_f08_1_1230" value="Arqueologista Zamwa" />
+  <keys type="npc" key="n_f08_quest_26" value="Cayde" />
+  <keys type="npc" key="n_f08_8_1101" value="" />
+  <keys type="npc" key="n_f08_8_1102" value="" />
+  <keys type="npc" key="n_f08_8_1103" value="" />
+  <keys type="npc" key="n_f08_5_1106" value="Guarda do Acampamento da Ilha Flutuante" />
+  <keys type="npc" key="n_f01_1_warp_0001" value="Santuário de Trânsito da Floresta de Brakarr" />
+  <keys type="npc" key="n_d07_board_01" value="Tumba do Wyrm" />
+</files>

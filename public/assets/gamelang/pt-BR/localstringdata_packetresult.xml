@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="" key="eNetFailure_GuildOccupied" value="Esse nome de guilda já está em uso." />
+  <keys type="" key="eNetFailure_GuildLengthOver" value="Esse nome de guilda é muito longo." />
+  <keys type="" key="eNetFailure_GuildIncludedWordBaned" value="O nome da guilda contém palavras restritas." />
+  <keys type="" key="eNetFailure_UserLengthOver" value="O nome de personagem é muito longo." />
+  <keys type="" key="eNetFailure_UserOccupied" value="Esse nome já está em uso." />
+  <keys type="" key="eNetFailure_UserIncludedWordBaned" value="Esse nome contém uma palavra proibida." />
+  <keys type="" key="eNetFailure_Guild_ValidPermissionName" value="Já é o nome de uma guilda." />
+  <keys type="" key="eNetFailure_GuildIncludedPermission" value="Esse nome de guilda não pode ser usado." />
+  <keys type="" key="eNetFailure_LobbyUserLengthOver" value="Este nome é muito longo. &#xD;&#xA;&#xD;&#xA;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailure_LobbyUserLengthShot" value="Este nome é muito curto. &#xD;&#xA;&#xD;&#xA;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailure_LobbyUserIncludedWordBlank" value="Nomes não podem conter espaços em branco. &#xD;&#xA;&#xD;&#xA;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailure_LobbyUserOccupied" value="Este nome já está em uso. &#xD;&#xA;&#xD;&#xA;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailure_LobbyUserIncludedWordBaned" value="Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailure_RelationIncludedWordBaned" value="Este nome de usuário contém palavras proibidas." />
+  <keys type="" key="eNetFailure_GuildUnion_NotExistGuildName" value="Por favor, confira novamente o nome da guilda." />
+  <keys type="" key="eNetFailure_GuildUnion_SameGuildUnionName" value="A aliança não pode ter o mesmo nome de sua guilda." />
+  <keys type="" key="eNetFailure_GuildUnion_ExistGuildName" value="A aliança não pode ter o mesmo nome de uma outra guilda." />
+  <keys type="" key="eNetFailure_GuildUnion_ExistGuildUnionName" value="Esse nome já está em uso por uma aliança ou guilda." />
+  <keys type="" key="eNetFailure_GuildUnionLengthOver" value="O nome da aliança é muito longo." />
+  <keys type="" key="eNetFailure_GuildUnionIncludedWordBaned" value="O nome da aliança inclui uma palavra proibida." />
+  <keys type="" key="eNetFailure_Fellow_DoNotNameChangeConsignmentFellow" value="Familiares acolhidos não podem ser renomeados." />
+  <keys type="" key="eNetFailure_BillingLengthOver" value="O nome do personagem do usuário que recebeu o presente é muito longo ou muito curto." />
+  <keys type="" key="eNetFailure_Fellow_DoNotNameChangeCombinationFellow" value="Familiares não podem ser renomeados enquanto estiverem na fazenda." />
+  <keys type="" key="eNetFailure_Fellow_DoNotNameChangeAdventureFellow" value="Não é possível alterar o nome do familiar que está em uma aventura." />
+  <keys type="" key="eNetFailureChangeLengthShot" value="Este nome é muito curto.&lt;br&gt;&lt;br&gt;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailureChange_NoHaveItem" value="Você não possui um Cupom de Alteração de Nome do Personagem." />
+  <keys type="" key="eNetFailureChange_6MonthLimit" value="Uma vez que o nome de seu personagem é alterado, você não pode alterar o nome novamente por 2 meses." />
+  <keys type="" key="eNetFailureChange_PartyLimit" value="Você não pode alterar nomes enquanto estiver em um grupo." />
+  <keys type="" key="eNetFailureChange_UsingName" value="Este nome já está em uso.&lt;br&gt;&lt;br&gt;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailureChangeIncludedWordBaned" value="Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailureChangeLengthOver" value="Este nome é muito longo.&lt;br&gt;&lt;br&gt;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailureChangeIncludedWordBlank" value="Nomes não podem conter espaços em branco.&lt;br&gt;&lt;br&gt;Nomes devem ter entre 4-16 caracteres alfanuméricos e deve conter ao menos uma letra." />
+  <keys type="" key="eNetFailureChange_CannotOpenedContents" value="Este é um conteúdo que ainda não foi lançado." />
+</files>

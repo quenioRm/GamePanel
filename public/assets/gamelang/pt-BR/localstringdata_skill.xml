@@ -1,0 +1,1087 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="skill" key="moagro01" value="Distrair" />
+  <keys type="skill" key="moagro02" value="Distrair" />
+  <keys type="skill" key="moagro03" value="Distrair" />
+  <keys type="skill" key="moagul01" value="Ferroada Poderosa" />
+  <keys type="skill" key="moagul02" value="Enfurecer" />
+  <keys type="skill" key="moagul03" value="Giro da Cauda" />
+  <keys type="skill" key="moagul04" value="Curar" />
+  <keys type="skill" key="moagul05" value="Névoa de Gelo" />
+  <keys type="skill" key="moagul06" value="Explosão Corrente" />
+  <keys type="skill" key="moagul07" value="Mordida" />
+  <keys type="skill" key="moagul08" value="Invocar" />
+  <keys type="skill" key="moagul09" value="Adaga Apressada" />
+  <keys type="skill" key="moankelion01" value="Invocar Seguidor" />
+  <keys type="skill" key="moankelion02" value="Tiro Gelado de Dispersão" />
+  <keys type="skill" key="moankelion03" value="Barreira de Granizo" />
+  <keys type="skill" key="moankelion04" value="Esforço Final" />
+  <keys type="skill" key="moankelion05" value="Tiro Gelado de Dispersão" />
+  <keys type="skill" key="moankelion06" value="Barreira de Granizo" />
+  <keys type="skill" key="moankelion07" value="Rugido do Guardião" />
+  <keys type="skill" key="moankelion08" value="Rugido do Guardião" />
+  <keys type="skill" key="moashuram01" value="Precipitação" />
+  <keys type="skill" key="moashuram02" value="Colidir" />
+  <keys type="skill" key="moashuram03" value="Turbilhão Vingativo" />
+  <keys type="skill" key="moashuram04" value="Turbilhão Vingativo" />
+  <keys type="skill" key="moashuram05" value="Varredura de Foice" />
+  <keys type="skill" key="moashuram06" value="Varredura de Foice" />
+  <keys type="skill" key="moashuram07" value="Escudo de Osso" />
+  <keys type="skill" key="moashuram08" value="Escudo de Osso" />
+  <keys type="skill" key="moasteras01" value="Relâmpago Negro" />
+  <keys type="skill" key="mobabydragon01" value="Sopro de Fogo" />
+  <keys type="skill" key="mobaramos01" value="Pulverizar" />
+  <keys type="skill" key="mobat01" value="Grito Ondular" />
+  <keys type="skill" key="mobear01" value="Golpe de Corpo" />
+  <keys type="skill" key="mobear02" value="Pisão" />
+  <keys type="skill" key="mobee01" value="Picada Explosiva" />
+  <keys type="skill" key="mobee02" value="Perfurar com Ferrão" />
+  <keys type="skill" key="mobee03" value="Chamada de Enxame" />
+  <keys type="skill" key="mobismoot01" value="Intoxicado" />
+  <keys type="skill" key="mobismoot02" value="Investida" />
+  <keys type="skill" key="mobismoot04" value="Varredura de Areia" />
+  <keys type="skill" key="mobismoot05" value="Punho Explosivo" />
+  <keys type="skill" key="mobistmoot06" value="Intoxicado" />
+  <keys type="skill" key="moblacklookout01" value="Defesa Total" />
+  <keys type="skill" key="moblacklookout02" value="Escudo de Gelo" />
+  <keys type="skill" key="moblackkiller01" value="Balançar Machado" />
+  <keys type="skill" key="moblackkiller02" value="Machado de Gelo" />
+  <keys type="skill" key="moblackhole" value="Buraco Negro" />
+  <keys type="skill" key="moblackmeat01" value="Uivo Assombroso" />
+  <keys type="skill" key="moblackspell02" value="Conexão Sombria" />
+  <keys type="skill" key="moblabo01" value="Precipitação" />
+  <keys type="skill" key="moblabo02" value="Golpe de Martelo" />
+  <keys type="skill" key="moblabo03" value="Carga Raivosa" />
+  <keys type="skill" key="moblabo04" value="Força de Vontade" />
+  <keys type="skill" key="moblabo05" value="Determinação de Ferro" />
+  <keys type="skill" key="moblabo06" value="Martelo da Fùria" />
+  <keys type="skill" key="mobloodfury01" value="Coluna de Sangue" />
+  <keys type="skill" key="mobloodfury02" value="Coluna de Sangue" />
+  <keys type="skill" key="moboar01" value="Precipitação" />
+  <keys type="skill" key="moboar02" value="Colidir" />
+  <keys type="skill" key="moboarice01" value="Precipitação Gélida" />
+  <keys type="skill" key="moboarice02" value="Colisão Gélida" />
+  <keys type="skill" key="mobodydown" value="Enfraquecer" />
+  <keys type="skill" key="mobomber01" value="Jogar Bomba" />
+  <keys type="skill" key="mobomber02" value="Impacto Explosivo" />
+  <keys type="skill" key="mobomber03" value="Plantar Bomba" />
+  <keys type="skill" key="mobomber04" value="Plantar Explosivo" />
+  <keys type="skill" key="mobomber05" value="Plantar Bomba" />
+  <keys type="skill" key="mobow01" value="Balista de Fogo" />
+  <keys type="skill" key="mobow03" value="Balista de Fogo" />
+  <keys type="skill" key="mobow04" value="Balista de Fogo" />
+  <keys type="skill" key="mobow05" value="Balista de Fogo" />
+  <keys type="skill" key="mobow06" value="Balista de Fogo" />
+  <keys type="skill" key="mobow02" value="Fragmento de Besta" />
+  <keys type="skill" key="mobragicollect01" value="Comer Ervas" />
+  <keys type="skill" key="mobragirepair01" value="Reparar Besta" />
+  <keys type="skill" key="mobragibrave01" value="Giro do Moinho" />
+  <keys type="skill" key="mobragibrave02" value="Atordoado" />
+  <keys type="skill" key="mobragibrave03" value="Giro do Tronco" />
+  <keys type="skill" key="mobragibrave04" value="Atordoado" />
+  <keys type="skill" key="mobragibrave05" value="Dividir Tronco" />
+  <keys type="skill" key="mobragifighter02" value="Corte Poderoso" />
+  <keys type="skill" key="mobragifighter03" value="Arremessar Faca" />
+  <keys type="skill" key="mobragihunter01" value="Golpe de Flecha" />
+  <keys type="skill" key="mobragihunter02" value="Flecha Crítica" />
+  <keys type="skill" key="mobragishaman01" value="Flecha de Gelo" />
+  <keys type="skill" key="mobragishaman02" value="Curar" />
+  <keys type="skill" key="mobragishaman03" value="Curar" />
+  <keys type="skill" key="mobragiurged01" value="Acelerado" />
+  <keys type="skill" key="moburn01" value="Queimando" />
+  <keys type="skill" key="mobigray01" value="Chamado Perigoso" />
+  <keys type="skill" key="mobigraysum01" value="Chamado Perigoso" />
+  <keys type="skill" key="mobigray02" value="Grande Erupção" />
+  <keys type="skill" key="mobigray04" value="Anúncio em Colapso" />
+  <keys type="skill" key="mobigray05" value="Fenda do Tempo" />
+  <keys type="skill" key="mobigray06" value="Fenda do Tempo" />
+  <keys type="skill" key="mobigray07" value="Bombardeio Atual" />
+  <keys type="skill" key="mocaptain01" value="Mosquete" />
+  <keys type="skill" key="mocaptain02" value="Lança-chamas" />
+  <keys type="skill" key="mocaptain03" value="Chute" />
+  <keys type="skill" key="mocaptain04" value="Ira do Rei Pirata" />
+  <keys type="skill" key="mocaptain05" value="Corte Giratório" />
+  <keys type="skill" key="mocaptain06" value="Vulnerabilidade de Besta" />
+  <keys type="skill" key="mochaomage01" value="Frasco de Doença" />
+  <keys type="skill" key="mochakai01" value="Morder" />
+  <keys type="skill" key="mocleki01" value="Cabeçada de Pedra" />
+  <keys type="skill" key="mocleki02" value="Grande Cabeçada de Pedra" />
+  <keys type="skill" key="mocleki03" value="Grande Cabeçada de Pedra (Correndo)" />
+  <keys type="skill" key="mocleki04" value="Grande Cabeçada de Pedra" />
+  <keys type="skill" key="mocleki05" value="Golpe de Ombro" />
+  <keys type="skill" key="mocleki06" value="Coice" />
+  <keys type="skill" key="mocleki07" value="Coice" />
+  <keys type="skill" key="mocleki08" value="Coice" />
+  <keys type="skill" key="mocleki09" value="Virtude Dominante" />
+  <keys type="skill" key="mocleki10" value="Giro de Espada-Dupla" />
+  <keys type="skill" key="mocleki11" value="Grande Corte" />
+  <keys type="skill" key="mocommondie01" value="Suicídio" />
+  <keys type="skill" key="mocommonhelp01" value="Pedir Ajuda" />
+  <keys type="skill" key="mocommonroar01" value="Rugido" />
+  <keys type="skill" key="mocoontin01" value="Pancada no Chão Congelado" />
+  <keys type="skill" key="mocoontin02" value="Pancada no Chão Congelado" />
+  <keys type="skill" key="mocoontin03" value="Pancada no Chão Congelado (Combo)" />
+  <keys type="skill" key="mocoontin04" value="Pancada no Chão Congelado (Combo)" />
+  <keys type="skill" key="mocoontin05" value="Pancada no Chão Congelado" />
+  <keys type="skill" key="mocow01" value="Colidir" />
+  <keys type="skill" key="mocrow01" value="Barreira Esférica" />
+  <keys type="skill" key="mocrow02" value="Barreira de Gelo" />
+  <keys type="skill" key="mocrow03" value="Lança de Gelo" />
+  <keys type="skill" key="mocrow04" value="Ressurreição" />
+  <keys type="skill" key="mocrow05" value="Curar" />
+  <keys type="skill" key="mocrow06" value="Curar" />
+  <keys type="skill" key="mocrow07" value="Destruir Pedra de Têmpera" />
+  <keys type="skill" key="modarkmage01" value="Curar" />
+  <keys type="skill" key="modarkmage02" value="Curar" />
+  <keys type="skill" key="modarkmage03" value="Magia Negra" />
+  <keys type="skill" key="modarkmage04" value="Relâmpago Negro" />
+  <keys type="skill" key="modarkman01" value="Lançar Adaga" />
+  <keys type="skill" key="modarkman02" value="Tiro de Canto" />
+  <keys type="skill" key="modarksummoner01" value="Despertar Mortos-Vivos" />
+  <keys type="skill" key="modiseasecloud01" value="Nuvem de Praga (Aplicado)" />
+  <keys type="skill" key="modiseasecloud02" value="Nuvem de Praga (Ativar)" />
+  <keys type="skill" key="modstoneice" value="Zona de Gelo" />
+  <keys type="skill" key="moelecboob01_name" value="Descarga de Energia" />
+  <keys type="skill" key="mofactionneutral" value="Mudança de Facção (Neutra)" />
+  <keys type="skill" key="mofairy01" value="Luz de Fadas" />
+  <keys type="skill" key="mofairy02" value="Escudo de Luz" />
+  <keys type="skill" key="mofairy03" value="Letárgico" />
+  <keys type="skill" key="mofellowmode01" value="Modo de Ataque do Familiar" />
+  <keys type="skill" key="mofloatfish01" value="Fumaça Peçonhenta" />
+  <keys type="skill" key="mofirebird01" value="Cospefogo" />
+  <keys type="skill" key="mofirebird02" value="Esfera de Chama Gigante" />
+  <keys type="skill" key="mofiregolem01" value="Conjurar Balanço da Pedra Incandescente" />
+  <keys type="skill" key="mofiregolem02" value="Corte de Terra Flamejante" />
+  <keys type="skill" key="mofiregolem03" value="Conjurar Balanço da Pedra Incandescente" />
+  <keys type="skill" key="mofiregolem04" value="Fogo Leve" />
+  <keys type="skill" key="mofiregolem05" value="Corte de Terra Flamejante" />
+  <keys type="skill" key="mofireguard01" value="Punho Flamejante" />
+  <keys type="skill" key="mofireobj01" value="Inflamado" />
+  <keys type="skill" key="mofireobj02" value="Aumentar Afinidade de Fogo" />
+  <keys type="skill" key="mogargonail01" value="Garras da Morte" />
+  <keys type="skill" key="mogargomine01" value="Mina de Pedra" />
+  <keys type="skill" key="mogust01" value="Drenar Sangue" />
+  <keys type="skill" key="mogust02" value="Barrigada" />
+  <keys type="skill" key="mogust03" value="Sopapo de Frigideira" />
+  <keys type="skill" key="mogust04" value="Fúria do Chef" />
+  <keys type="skill" key="mogust05" value="Barrigada Furiosa" />
+  <keys type="skill" key="mogust06" value="Drenar Sangue" />
+  <keys type="skill" key="mogust07" value="Preparando Ingredientes" />
+  <keys type="skill" key="moramb01" value="Sino Abissal" />
+  <keys type="skill" key="moghost01" value="Cura" />
+  <keys type="skill" key="moghost02" value="Cura Sombria" />
+  <keys type="skill" key="mogolemfollower01" value="Sopro de Fogo" />
+  <keys type="skill" key="mohealer01" value="Cura" />
+  <keys type="skill" key="mohump01" value="Esgueirar" />
+  <keys type="skill" key="mohump02" value="Apunhalada nas Costas" />
+  <keys type="skill" key="mohunterj01" value="Ira" />
+  <keys type="skill" key="mohunterj02" value="Iniciar a Caça" />
+  <keys type="skill" key="moicecrystal01" value="Zona de Gelo" />
+  <keys type="skill" key="moicecrystal02" value="Zona de Gelo" />
+  <keys type="skill" key="moiceorb01" value="Zona de Calafrio" />
+  <keys type="skill" key="moicesentry01" value="Corte de Espada de Gelo" />
+  <keys type="skill" key="moimp01" value="Absorver Sabedoria" />
+  <keys type="skill" key="moimmomage01" value="Absorver Sonho" />
+  <keys type="skill" key="moimmomage02" value="Flecha Sombria" />
+  <keys type="skill" key="moimmos01" value="Desejos Sombrios" />
+  <keys type="skill" key="moimmune_physic" value="Imunidade Física" />
+  <keys type="skill" key="moimmunebody" value="Imunidade Corporal" />
+  <keys type="skill" key="moimmoimp03" value="Bênção da Colheita" />
+  <keys type="skill" key="moimmoimpsu01" value="Invocar Gárgula do Templo" />
+  <keys type="skill" key="moimmogorak01" value="Invocar Gárgula de Pedra" />
+  <keys type="skill" key="moimmosoldi01" value="Rede Sombria" />
+  <keys type="skill" key="moimmoimp01" value="Barreira Sombria" />
+  <keys type="skill" key="moimmoimp02" value="Barreira Sombria" />
+  <keys type="skill" key="moimmoura01" value="Corte Triplo" />
+  <keys type="skill" key="moinsense" value="Entorpecido" />
+  <keys type="skill" key="moinspector01" value="Precipitação" />
+  <keys type="skill" key="moinspector02" value="Levantar Rocha" />
+  <keys type="skill" key="moinspector03" value="Pedra na Cabeça" />
+  <keys type="skill" key="moinspector04" value="Fragmento de Pedra" />
+  <keys type="skill" key="moinspector06" value="Pedrada" />
+  <keys type="skill" key="moinspector07" value="Golpe Legítimo" />
+  <keys type="skill" key="moinspector08" value="Fragmento de Pedra" />
+  <keys type="skill" key="moinspector09" value="Batida com Escudo" />
+  <keys type="skill" key="moinspector10" value="Golpe Legítimo" />
+  <keys type="skill" key="moiren01" value="Granizo Gigante" />
+  <keys type="skill" key="moiren02" value="Geada" />
+  <keys type="skill" key="moiren03" value="Choque de Granizo" />
+  <keys type="skill" key="moiren04" value="Barreira de Gelo" />
+  <keys type="skill" key="moiren05" value="Horrorizado" />
+  <keys type="skill" key="moiren06" value="Barreira de Gelo" />
+  <keys type="skill" key="mojenkit01" value="Invocar Zelote" />
+  <keys type="skill" key="mojenkit02" value="Armadilha Pegajosa" />
+  <keys type="skill" key="mojenkit03" value="Mandíbula de Ferro" />
+  <keys type="skill" key="mojenkit04" value="Enfurecer" />
+  <keys type="skill" key="mojeranin01" value="Aura de Morte" />
+  <keys type="skill" key="mojeranin02" value="Machado Mortal" />
+  <keys type="skill" key="mokaleangbefore01" value="Desfiladeiro de Sangue" />
+  <keys type="skill" key="mokaleangbefore02" value="Cacos de Ódio" />
+  <keys type="skill" key="mokaleangbefore03" value="Neutralizar" />
+  <keys type="skill" key="mokaleangbefore04" value="Transformação do Apóstolo Sombrio" />
+  <keys type="skill" key="mokaleangbefore05" value="Invocar" />
+  <keys type="skill" key="mokaleangafter01" value="Enxame de Morcegos Vis" />
+  <keys type="skill" key="mokaleangafter02" value="Calço da Destruição" />
+  <keys type="skill" key="mokaleangafter03" value="Ira Sangrenta" />
+  <keys type="skill" key="mokaleangafter04" value="Sanguessuga" />
+  <keys type="skill" key="mokamila01" value="Círculo de Sangue" />
+  <keys type="skill" key="mokamila02" value="Raio Rubro" />
+  <keys type="skill" key="mokamila03" value="Banquete de Sangue Fresco" />
+  <keys type="skill" key="mokamila04" value="Despertar Esqueleto" />
+  <keys type="skill" key="mokeply01" value="Curar" />
+  <keys type="skill" key="mokeply02" value="Cura" />
+  <keys type="skill" key="mokeply03" value="Estrela Cadente" />
+  <keys type="skill" key="mokeply04" value="Aura Gélida" />
+  <keys type="skill" key="mokeply05" value="Suspiro Final" />
+  <keys type="skill" key="mokeply06" value="Sacrifício Nobre" />
+  <keys type="skill" key="mokeply07" value="Penalidade Leve" />
+  <keys type="skill" key="mokilian01" value="Poder Gélido" />
+  <keys type="skill" key="mokilian02" value="Golpe de Fúria Gelada" />
+  <keys type="skill" key="mokilian03" value="Presa de Gelo" />
+  <keys type="skill" key="mokilian04" value="Presa de Gelo" />
+  <keys type="skill" key="mokilian05" value="Totem de Água" />
+  <keys type="skill" key="mokilian06" value="Totem de Água" />
+  <keys type="skill" key="moleodark01" value="Sombra Escura" />
+  <keys type="skill" key="moleodark02" value="Garras Sombrias" />
+  <keys type="skill" key="moleodark03" value="Presas Sombrias" />
+  <keys type="skill" key="moleopard01" value="Mordida Severa" />
+  <keys type="skill" key="moleopard02" value="Rugido" />
+  <keys type="skill" key="molielow01" value="Furtivo" />
+  <keys type="skill" key="moliflower01" value="Absorver Luz" />
+  <keys type="skill" key="molivingdoor01" value="Nevasca Severa" />
+  <keys type="skill" key="molishule01" value="Explosão Sombria" />
+  <keys type="skill" key="molishule02" value="Relâmpago Negro" />
+  <keys type="skill" key="molishule03" value="Invocar Esqueleto Soldado" />
+  <keys type="skill" key="momatu01" value="Arma Aprimorada" />
+  <keys type="skill" key="momatu02" value="Terremoto de Gelo" />
+  <keys type="skill" key="momatu03" value="Martelo de Gelo" />
+  <keys type="skill" key="momatu04" value="Terremoto de Gelo" />
+  <keys type="skill" key="momatu05" value="Terremoto de Gelo (Combo)" />
+  <keys type="skill" key="momatu06" value="Terremoto de Gelo (Combo)" />
+  <keys type="skill" key="momatu07" value="Terremoto de Gelo (Combo)" />
+  <keys type="skill" key="momatu08" value="Makontin Enfurecido" />
+  <keys type="skill" key="momatu09" value="Invocar Nuceleor de Gelo" />
+  <keys type="skill" key="momoorumi01" value="Empurrar" />
+  <keys type="skill" key="momoorumi02" value="Investida" />
+  <keys type="skill" key="momoorumi03" value="Investida" />
+  <keys type="skill" key="momoorumib01" value="Golpe Legítimo" />
+  <keys type="skill" key="momoorumib02" value="Bater no Chão" />
+  <keys type="skill" key="momoorumib03" value="Rugido" />
+  <keys type="skill" key="momoorumib04" value="Última Resistência" />
+  <keys type="skill" key="momoorumib05" value="Fúria" />
+  <keys type="skill" key="momoorumib06" value="Arma Giratória" />
+  <keys type="skill" key="momoorumib07" value="Arma Giratória" />
+  <keys type="skill" key="momoorumib08" value="Bater no Chão" />
+  <keys type="skill" key="momoorumib09" value="Bater no Chão" />
+  <keys type="skill" key="momoorumiw01" value="Barreira Gelada" />
+  <keys type="skill" key="momoorumiw02" value="Curar" />
+  <keys type="skill" key="momoorumiw03" value="Enredado" />
+  <keys type="skill" key="momoorumiw04" value="Dardo" />
+  <keys type="skill" key="momoorumiw05" value="Tiro Certeiro" />
+  <keys type="skill" key="momoorumiw06" value="Tiro Venenoso de Dispersão" />
+  <keys type="skill" key="momoorumiw07" value="Aura de Concentração" />
+  <keys type="skill" key="momoorumiw08" value="Cura do Sumo Sacerdote" />
+  <keys type="skill" key="momoorumiw09" value="Armadilha de Água" />
+  <keys type="skill" key="momoorumiw10" value="Guarda de Água" />
+  <keys type="skill" key="momoorumiw11" value="Golpe de Dardo" />
+  <keys type="skill" key="momoorumiw12" value="Gêiser" />
+  <keys type="skill" key="momoorumiw13" value="Gêiser" />
+  <keys type="skill" key="monpc01" value="Recuperação de Vida" />
+  <keys type="skill" key="mooctopus01" value="Nuvem de Tinta" />
+  <keys type="skill" key="mooctopus02" value="Vapores de Tinta" />
+  <keys type="skill" key="mopatriarch01" value="Golpe Legítimo" />
+  <keys type="skill" key="mopatriarch02" value="Golpe Legítimo" />
+  <keys type="skill" key="mopatriarch03" value="Precipitação" />
+  <keys type="skill" key="mopatriarch05" value="Golpe Legítimo" />
+  <keys type="skill" key="mopatriarch06" value="Golpe Legítimo" />
+  <keys type="skill" key="mopirate01" value="Arremessar Faca" />
+  <keys type="skill" key="mopirate02" value="Aprimoramento de Combate" />
+  <keys type="skill" key="mopirate03" value="Adaga de Dispersão" />
+  <keys type="skill" key="mopirate04" value="Passo para Trás" />
+  <keys type="skill" key="mopirate05" value="Adaga de Dispersão" />
+  <keys type="skill" key="mopirate06" value="Feitiço de Proteção" />
+  <keys type="skill" key="mopirate07" value="Feitiço de Cura" />
+  <keys type="skill" key="mopirate08" value="Feitiço de Gelo" />
+  <keys type="skill" key="mopirate09" value="Fúria do Pirata" />
+  <keys type="skill" key="mopirate10" value="Chamar o Guarda do Tesouro" />
+  <keys type="skill" key="mopirate11" value="Lâmina Envenenada" />
+  <keys type="skill" key="mopirateguard01" value="Golpe de Ombro" />
+  <keys type="skill" key="mopiratew01" value="Poção de Cura" />
+  <keys type="skill" key="mopiratew02" value="Frasco do Campo de Batalha" />
+  <keys type="skill" key="mopiratew03" value="Corte Baixo" />
+  <keys type="skill" key="mopiratew04" value="Frasco de Ácido" />
+  <keys type="skill" key="mopiratew05" value="Frasco de Ácido" />
+  <keys type="skill" key="mopiratew06" value="Criar Zona Ácida" />
+  <keys type="skill" key="mopiratew07" value="Golpe Vicioso" />
+  <keys type="skill" key="moposearrow01" value="Tiro Venenoso de Dispersão" />
+  <keys type="skill" key="morabbit01" value="Provocar" />
+  <keys type="skill" key="morabbit04" value="Bomba de Abóbora" />
+  <keys type="skill" key="moradan01" value="Expressão Séria" />
+  <keys type="skill" key="moradan02" value="Olhar Forte" />
+  <keys type="skill" key="moradan03" value="Poder de Cura" />
+  <keys type="skill" key="moradan04" value="Neutralizar" />
+  <keys type="skill" key="moradan05" value="Esconde-esconde" />
+  <keys type="skill" key="moradan06" value="Expressão Séria" />
+  <keys type="skill" key="moradan07" value="Poder de Cura" />
+  <keys type="skill" key="moradan08" value="Olhar Forte" />
+  <keys type="skill" key="morebguard01" value="Corte de Gelo" />
+  <keys type="skill" key="morebbow01" value="Flecha de Gelo" />
+  <keys type="skill" key="morebmag01" value="Lança de Gelo" />
+  <keys type="skill" key="morebsol01" value="Barreira de Gelo" />
+  <keys type="skill" key="morebmud01" value="Balanço de Machado" />
+  <keys type="skill" key="morebwiz01" value="Injeção de Gelo" />
+  <keys type="skill" key="moreggauge01" value="Imunidade a Queimaduras" />
+  <keys type="skill" key="moreggauge02" value="Imunidade a Congelamento" />
+  <keys type="skill" key="moreindeer01" value="Chifres de Cura" />
+  <keys type="skill" key="morex01" value="Giro de Maça" />
+  <keys type="skill" key="morex02" value="Golpe de Maça" />
+  <keys type="skill" key="morex03" value="Zona de Fogo" />
+  <keys type="skill" key="morex04" value="Zona de Colisão" />
+  <keys type="skill" key="morex05" value="Injetar Aura de Fogo" />
+  <keys type="skill" key="morex06" value="Rugido" />
+  <keys type="skill" key="morex07" value="Pé Estrondoso" />
+  <keys type="skill" key="morex08" value="Gatilho" />
+  <keys type="skill" key="morexstone01" value="Curar o Rex" />
+  <keys type="skill" key="morexstone02" value="Pedir Ajuda" />
+  <keys type="skill" key="morhinobattler01" value="Ataque do Corvo" />
+  <keys type="skill" key="morhinoguard01" value="Tortura" />
+  <keys type="skill" key="morideon01" value="Montar Familiar" />
+  <keys type="skill" key="morideon02" value="Montar Familiar" />
+  <keys type="skill" key="morideon03" value="Montar Familiar" />
+  <keys type="skill" key="moriderdie01" value="Mestre Morre" />
+  <keys type="skill" key="moriderdie02" value="Confundir" />
+  <keys type="skill" key="moicerondo01" value="Combo de Golpe Gélido" />
+  <keys type="skill" key="moicerondo02" value="Aura do Comando Gélido" />
+  <keys type="skill" key="moicerondo03" value="Geada Penetrante" />
+  <keys type="skill" key="moicerondo04" value="Conjurar Pilar de Gelo" />
+  <keys type="skill" key="moicerondo05" value="Fúria do Comando Gélido" />
+  <keys type="skill" key="moicerondo06" value="Geada Penetrante" />
+  <keys type="skill" key="morunaway1" value="Teste de Habilidade após Evacuação" />
+  <keys type="skill" key="mosantin01" value="Uppercut" />
+  <keys type="skill" key="mosantin03" value="Sopro de Gelo" />
+  <keys type="skill" key="mosantin05" value="Pilar de Gelo" />
+  <keys type="skill" key="mosantin06" value="Pilar de Gelo" />
+  <keys type="skill" key="mosantin07" value="Sopro de Gelo" />
+  <keys type="skill" key="mosantin08" value="Quebra da Parede de Tijolos" />
+  <keys type="skill" key="mosantin09" value="Escapar" />
+  <keys type="skill" key="mosantin11" value="Pilar de Gelo" />
+  <keys type="skill" key="mosantinh11" value="Pilar de Gelo" />
+  <keys type="skill" key="mosantin12" value="Fúria" />
+  <keys type="skill" key="mosantin13" value="Sopro de Gelo" />
+  <keys type="skill" key="mosantin14" value="Golpe no Queixo" />
+  <keys type="skill" key="mosantin15" value="Invocar Iren" />
+  <keys type="skill" key="mosantinlink01" value="Sopro de Vento Frio" />
+  <keys type="skill" key="mosantinlinkh01" value="Sopro de Vento Frio" />
+  <keys type="skill" key="moseaze_move" value="Captura de Movimento" />
+  <keys type="skill" key="mospecter01" value="Bomba Suicida" />
+  <keys type="skill" key="moskalion01" value="Corte de Garras Cruzado" />
+  <keys type="skill" key="moskalion02" value="Corte Giratório" />
+  <keys type="skill" key="moskelboss01" value="Despertar Soldado Esqueleto" />
+  <keys type="skill" key="moskelboss02" value="Despertar Soldado Esqueleto" />
+  <keys type="skill" key="moskillobj01" value="Invocar Ryno" />
+  <keys type="skill" key="moshura01" value="Montar Apocalipse" />
+  <keys type="skill" key="moshura02" value="Golpe Penetrante" />
+  <keys type="skill" key="moshura03" value="Sussurro Abissal" />
+  <keys type="skill" key="moshura04" value="Medo Epidêmico" />
+  <keys type="skill" key="moshura05" value="Divisão de Mente" />
+  <keys type="skill" key="moshura06" value="Vontade Frágil" />
+  <keys type="skill" key="moshura07" value="Rajada do Vento Negro" />
+  <keys type="skill" key="moshura08" value="Rajada do Vento Negro" />
+  <keys type="skill" key="mosnake01" value="Peçonha de Serpente" />
+  <keys type="skill" key="mosnowbrave01" value="Jogar Bola de Neve" />
+  <keys type="skill" key="mosnowbrave02" value="Erupção de Bolas de Neve" />
+  <keys type="skill" key="mosnowhunter01" value="Lança de Gelo" />
+  <keys type="skill" key="mosnowhunter02" value="Comer Ervas" />
+  <keys type="skill" key="mosnowman01" value="Injeção de Gelo" />
+  <keys type="skill" key="mosnowshaman01" value="Lança de Gelo" />
+  <keys type="skill" key="mosnowshaman02" value="Barreira Gelada" />
+  <keys type="skill" key="mosnowshaman03" value="Barreira Gelada" />
+  <keys type="skill" key="mosnowwarrior01" value="Temperar" />
+  <keys type="skill" key="mospider01" value="Peçonha de Aranha" />
+  <keys type="skill" key="mosummoner01" value="Bomba Suicida" />
+  <keys type="skill" key="mosummoner03" value="Temporizador de Suicídio" />
+  <keys type="skill" key="motiger01" value="Golpe de Ponta do Pé" />
+  <keys type="skill" key="motor01" value="Picada Instantânea" />
+  <keys type="skill" key="motamus01" value="Invocar Soldado Esqueleto" />
+  <keys type="skill" key="motaming01" value="Grogue" />
+  <keys type="skill" key="motaming01pon" value="Energia de Chama" />
+  <keys type="skill" key="motaming01poe" value="Energia (Veneno, Elite)" />
+  <keys type="skill" key="motaming01poh" value="Energia (Veneno, Heroico)" />
+  <keys type="skill" key="motaming01fin" value="Energia (Fogo, Geral)" />
+  <keys type="skill" key="motaming01fie" value="Emblema do Dragão" />
+  <keys type="skill" key="motaming01fih" value="Energia (Fogo, Heroico)" />
+  <keys type="skill" key="motaming01icn" value="Energia (Gelo, Geral)" />
+  <keys type="skill" key="motaming01ice" value="Energia (Gelo, Elite)" />
+  <keys type="skill" key="motaming01ich" value="Energia (Gelo, Heroico)" />
+  <keys type="skill" key="motaming01lin" value="Energia (Luz, Geral)" />
+  <keys type="skill" key="motaming01lie" value="Energia (Luz, Elite)" />
+  <keys type="skill" key="motaming01lih" value="Energia (Luz, Heroico)" />
+  <keys type="skill" key="motaming01dan" value="Energia (Sombria, Geral)" />
+  <keys type="skill" key="motaming01dae" value="Energia (Sombria, Elite)" />
+  <keys type="skill" key="motaming01dah" value="Energia (Sombria, Heroica)" />
+  <keys type="skill" key="motaming02" value="Grogue" />
+  <keys type="skill" key="motaming03" value="Presa Localizada" />
+  <keys type="skill" key="motaming04" value="Devorador de Presas" />
+  <keys type="skill" key="motaming05" value="Matador de Presas" />
+  <keys type="skill" key="motaming06" value="Atacar Estátua Uru" />
+  <keys type="skill" key="motaming07" value="Destruir Estátua Uru" />
+  <keys type="skill" key="motaming08" value="Estátua Uru Encontrada" />
+  <keys type="skill" key="motaming06a" value="Comer Carne" />
+  <keys type="skill" key="motaming06d" value="Comer Carne" />
+  <keys type="skill" key="motaming07a" value="Terminar de Comer Carne" />
+  <keys type="skill" key="motaming07d" value="Terminar de Comer Carne" />
+  <keys type="skill" key="motaming08a" value="Carne Encontrada" />
+  <keys type="skill" key="motaming13" value="Presa Localizada" />
+  <keys type="skill" key="motaming14" value="Devorador de Presas" />
+  <keys type="skill" key="motaming15" value="Matador de Presas" />
+  <keys type="skill" key="motaming16" value="Comer Grama de Cristal" />
+  <keys type="skill" key="motaming17" value="Terminar de Comer Grama de Cristal" />
+  <keys type="skill" key="motaming18" value="Grama de Cristal Encontrada" />
+  <keys type="skill" key="motaming23" value="Presa Localizada" />
+  <keys type="skill" key="motaming24" value="Devorador de Presas" />
+  <keys type="skill" key="motaming25" value="Matador de Presas" />
+  <keys type="skill" key="motaming26" value="Comer Mel" />
+  <keys type="skill" key="motaming27" value="Terminar de Comer Mel" />
+  <keys type="skill" key="motaming28" value="Mel Encontrado" />
+  <keys type="skill" key="motamingfail_roar" value="Rugido" />
+  <keys type="skill" key="motamingride" value="Domar" />
+  <keys type="skill" key="motree01" value="Recuperação de Kelloneh" />
+  <keys type="skill" key="moturtle01" value="Esconder Casco" />
+  <keys type="skill" key="moturtle02" value="Casco Afiado Giratório" />
+  <keys type="skill" key="moturtle03" value="Cancelar Esconder Casco" />
+  <keys type="skill" key="moturtle04" value="Parar Ataque Giratório de Tartaruga" />
+  <keys type="skill" key="moturtlefire01" value="Esfera de Chamas" />
+  <keys type="skill" key="movamp" value="Vampiro" />
+  <keys type="skill" key="movampire01" value="Lançar" />
+  <keys type="skill" key="movampire02" value="Explosão de Sangue" />
+  <keys type="skill" key="movampire03" value="Coluna de Sangue" />
+  <keys type="skill" key="movampire04" value="Cruz de Sangue Fresco" />
+  <keys type="skill" key="movampire05" value="Proteção Sombria" />
+  <keys type="skill" key="movampire06" value="Invocar Mordomo" />
+  <keys type="skill" key="movampire07" value="Conversão de Sangue" />
+  <keys type="skill" key="movampire08" value="Fúria Vampírica" />
+  <keys type="skill" key="movampire09" value="Facada Poderosa" />
+  <keys type="skill" key="movampire10" value="Sacrifício" />
+  <keys type="skill" key="movampire11" value="Invocar Trigger" />
+  <keys type="skill" key="movampire12" value="Drenar Sangue" />
+  <keys type="skill" key="movampire12lanto" value="Drenar Sangue" />
+  <keys type="skill" key="movampire13" value="Invocar LeBrand" />
+  <keys type="skill" key="movampire14" value="Invocar Gustav" />
+  <keys type="skill" key="movampire15" value="Bênção Sombria" />
+  <keys type="skill" key="movamwoman01" value="Arranhar" />
+  <keys type="skill" key="movamwoman02" value="Fúria Vampírica" />
+  <keys type="skill" key="mowisp01" value="Lançar Luz" />
+  <keys type="skill" key="mowolf01" value="Mordida Severa" />
+  <keys type="skill" key="mowolf02" value="Comer Cadáver" />
+  <keys type="skill" key="mowolfjack01" value="Consumir Carne" />
+  <keys type="skill" key="mowolfjack02" value="Terminar Carne" />
+  <keys type="skill" key="mowolfman01" value="Poção de Cura" />
+  <keys type="skill" key="mowolfshadow01" value="Furtivo" />
+  <keys type="skill" key="mowolfwoman01" value="Translocação Segura" />
+  <keys type="skill" key="mowolfwoman02" value="Translocação Segura" />
+  <keys type="skill" key="molightplant01" value="Invocar Fada Arbórea" />
+  <keys type="skill" key="mozombie01" value="Hálito Nojento" />
+  <keys type="skill" key="mozombietrigger01" value="Despertar Zumbi Trigger" />
+  <keys type="skill" key="mobeesummon01" value="Revitalização da Abelha" />
+  <keys type="skill" key="mobalbo01" value="Golpe de Martelo" />
+  <keys type="skill" key="mobalbo02" value="Martelo da Fùria" />
+  <keys type="skill" key="mobalbo03" value="Carga Raivosa" />
+  <keys type="skill" key="mobalbo04" value="Força de Vontade" />
+  <keys type="skill" key="mobalbo05" value="Vontade de Ferro" />
+  <keys type="skill" key="moramashoo01" value="Flecha Sombria" />
+  <keys type="skill" key="moramashoo02" value="Redemoinho Sombrio" />
+  <keys type="skill" key="moramashoo03" value="Redemoinho Sombrio" />
+  <keys type="skill" key="moramashoo04" value="Proteção Sombria" />
+  <keys type="skill" key="moramashoo05" value="Invocações Sombrias" />
+  <keys type="skill" key="moheavyrondo01" value="Golpe Agressivo" />
+  <keys type="skill" key="moheavyrondoc01" value="Golpe Agressivo" />
+  <keys type="skill" key="moheavyrondo02" value="Caminho Congelado" />
+  <keys type="skill" key="moheavyrondo03" value="Caminho Congelado" />
+  <keys type="skill" key="moheavyrondo04" value="Vento Congelante" />
+  <keys type="skill" key="moheavyrondo05" value="Vento Congelante" />
+  <keys type="skill" key="moheavyrondo06" value="Ruptura Congelante" />
+  <keys type="skill" key="moheavyrondo07" value="Invocar Lobo Gélido" />
+  <keys type="skill" key="moheavyrondo08" value="Golpe do Lobo Gélido" />
+  <keys type="skill" key="moheavyrondo09" value="Golpe do Lobo Gélido" />
+  <keys type="skill" key="molightrondo01" value="Vento Cortante" />
+  <keys type="skill" key="molightrondo02" value="Nevasca de Lâminas" />
+  <keys type="skill" key="molightrondo03" value="Invocar Alcateia de Lobos" />
+  <keys type="skill" key="molightrondo05" value="Ataque de Alcateia de Lobos" />
+  <keys type="skill" key="molightrondo06" value="Ataque de Alcateia de Lobos" />
+  <keys type="skill" key="molightrondo07" value="Ruptura Congelada" />
+  <keys type="skill" key="morondo01" value="Nevasca de Lâminas" />
+  <keys type="skill" key="morondo02" value="Vento Cortante" />
+  <keys type="skill" key="moronddash01" value="Nevasca de Lâminas" />
+  <keys type="skill" key="moronddash02" value="Nevasca de Lâminas" />
+  <keys type="skill" key="moronddash04" value="Nevasca de Lâminas" />
+  <keys type="skill" key="moronddash05" value="Nevasca de Lâminas" />
+  <keys type="skill" key="moblackmage01" value="Ativar Aprimoramento de Magia Negra" />
+  <keys type="skill" key="moreactimmuneba" value="Estabilidade Perfeita" />
+  <keys type="skill" key="eloralight02" value="Autoridade Justiceira: Bênção" />
+  <keys type="skill" key="eloralight03" value="Bênção Superior de Ellora" />
+  <keys type="skill" key="demonpressure01" value="Espírito Maligno de Fúria (Link)" />
+  <keys type="skill" key="crump01" value="Tiro Explosivo (Conjurar)" />
+  <keys type="skill" key="creature_attack0" value="Ataque Normal" />
+  <keys type="skill" key="creature_mode00" value="Ataque Agressivo" />
+  <keys type="skill" key="creature_mode01" value="Ataque de Apoio" />
+  <keys type="skill" key="creature_mode02" value="Ataque Obediente" />
+  <keys type="skill" key="creature_movemode00" value="Seguir" />
+  <keys type="skill" key="creature_movemode01" value="Ficar" />
+  <keys type="skill" key="creature_movemode02" value="Defesa" />
+  <keys type="skill" key="creature_stop0" value="Parar Ataque" />
+  <keys type="skill" key="creature_attack1" value="Ataque Normal" />
+  <keys type="skill" key="creature_mode10" value="Ataque Agressivo" />
+  <keys type="skill" key="creature_mode11" value="Ataque de Apoio" />
+  <keys type="skill" key="creature_mode12" value="Ataque Obediente" />
+  <keys type="skill" key="creature_movemode10" value="Seguir" />
+  <keys type="skill" key="creature_movemode11" value="Ficar" />
+  <keys type="skill" key="creature_movemode12" value="Defesa" />
+  <keys type="skill" key="creature_stop1" value="Parar Ataque" />
+  <keys type="skill" key="creature_attack4" value="Ataque Normal" />
+  <keys type="skill" key="creature_mode40" value="Ataque Agressivo" />
+  <keys type="skill" key="creature_mode41" value="Ataque de Apoio" />
+  <keys type="skill" key="creature_mode42" value="Ataque Obediente" />
+  <keys type="skill" key="creature_movemode40" value="Seguir" />
+  <keys type="skill" key="creature_movemode41" value="Ficar" />
+  <keys type="skill" key="creature_movemode42" value="Defesa" />
+  <keys type="skill" key="creature_stop4" value="Parar Ataque" />
+  <keys type="skill" key="creature_attack" value="Ataque Normal" />
+  <keys type="skill" key="creature_mode0" value="Ataque Agressivo" />
+  <keys type="skill" key="creature_mode1" value="Ataque de Apoio" />
+  <keys type="skill" key="creature_mode2" value="Ataque Obediente" />
+  <keys type="skill" key="creature_movemode0" value="Seguir" />
+  <keys type="skill" key="creature_movemode1" value="Ficar" />
+  <keys type="skill" key="creature_movemode2" value="Defesa" />
+  <keys type="skill" key="creature_stop" value="Parar Ataque" />
+  <keys type="skill" key="ct_appointmovewr" value="Mover" />
+  <keys type="skill" key="beardoubleatk" value="Combo de Golpes" />
+  <keys type="skill" key="bearfury" value="Fúria" />
+  <keys type="skill" key="bearhonest" value="Couro de Urso" />
+  <keys type="skill" key="bearmash" value="Esmagador de Armaduras" />
+  <keys type="skill" key="bearpush" value=" Recuo" />
+  <keys type="skill" key="bearroar" value="Rugido" />
+  <keys type="skill" key="bearrush" value="Colidir" />
+  <keys type="skill" key="bearswingatk" value="Golpe Pesado" />
+  <keys type="skill" key="bearthreat" value="Ameaçar" />
+  <keys type="skill" key="bearwild" value="Agressão Natural" />
+  <keys type="skill" key="cowbodycheck" value=" Recuo" />
+  <keys type="skill" key="cowfurycowName" value="Ira Bovina" />
+  <keys type="skill" key="cowhonest" value="Corcel Fidedigno" />
+  <keys type="skill" key="cowhornatk" value="Chifre Perfurante" />
+  <keys type="skill" key="cowhornswingatk" value="Balanço de Chifre" />
+  <keys type="skill" key="cowpush" value="Colidir" />
+  <keys type="skill" key="cowroar" value="Rugido" />
+  <keys type="skill" key="cowthreat" value="Ameaçar" />
+  <keys type="skill" key="cowwild" value="Vaca Louca" />
+  <keys type="skill" key="leddeepbite" value="Mordida Severa" />
+  <keys type="skill" key="ledhostility" value="Animosidade" />
+  <keys type="skill" key="leoarmoratk" value="Rasgar Armadura" />
+  <keys type="skill" key="leobite" value="Mordida" />
+  <keys type="skill" key="leobleed" value="Ferir" />
+  <keys type="skill" key="leoflexible" value="Queda Ágil" />
+  <keys type="skill" key="leohuntinginstinct" value="Intuição de Caça" />
+  <keys type="skill" key="leoroar" value="Rugido" />
+  <keys type="skill" key="leorushatk" value="Raide" />
+  <keys type="skill" key="leospeedy" value="Velocidade de Leopardo" />
+  <keys type="skill" key="leowpscratch" value="Golpe no Coração" />
+  <keys type="skill" key="leowpsearch" value="Farejar Medo" />
+  <keys type="skill" key="pigappetite" value="Apetite" />
+  <keys type="skill" key="pigendure" value="Resistir" />
+  <keys type="skill" key="pigheadatk" value="Colidir" />
+  <keys type="skill" key="pignoise" value="Canção de Ninar Braghin" />
+  <keys type="skill" key="pigpush" value="Desorientar" />
+  <keys type="skill" key="pigrush" value="Precipitação" />
+  <keys type="skill" key="pigstomp" value="Pé Estrondoso" />
+  <keys type="skill" key="pigstrong" value="Poder do Javali" />
+  <keys type="skill" key="pigthreat" value="Ameaçar" />
+  <keys type="skill" key="wolfavoid" value="Lobo Ágil" />
+  <keys type="skill" key="wolfbite" value="Morder" />
+  <keys type="skill" key="wolfbleed" value="Ferir" />
+  <keys type="skill" key="wolfdeepbite" value="Mordida Profunda" />
+  <keys type="skill" key="wolfhostility" value="Animosidade" />
+  <keys type="skill" key="wolflegatk" value="Mordida na Perna" />
+  <keys type="skill" key="wolflongroar" value="Uivo Longo" />
+  <keys type="skill" key="wolfspeedy" value="Velocidade da Alcateia" />
+  <keys type="skill" key="wolfweakatk" value="Ponto Fraco" />
+  <keys type="skill" key="bandage" value="Bandagem" />
+  <keys type="skill" key="bandage_Product" value="Bandagem" />
+  <keys type="skill" key="foodrecoverhp" value="Comida Saudável" />
+  <keys type="skill" key="foodrecovermp" value="Comida de Mana" />
+  <keys type="skill" key="immune_propertybodym" value="Resistência ao Status de Afinidade" />
+  <keys type="skill" key="itemcrystal" value="Conjurar Cristal de Gelo" />
+  <keys type="skill" key="marlenpotiondex" value="Marca de Destreza de Marlene" />
+  <keys type="skill" key="marlenpotionint" value="Marca de Inteligência de Marlene" />
+  <keys type="skill" key="marlenpotionstr" value="Marca de Força de Marlene" />
+  <keys type="skill" key="potionatkpowup" value="Frasco de Poder de Combate" />
+  <keys type="skill" key="potiondarkdown" value="Poção de Tratamento Caótico" />
+  <keys type="skill" key="potiondexup" value="Frasco de Destreza" />
+  <keys type="skill" key="potionfiredown" value="Poção de Tratamento de Queimadura" />
+  <keys type="skill" key="potionhprecovery" value="Poção de Vida" />
+  <keys type="skill" key="potionicedown" value="Poção Calmante Gélida" />
+  <keys type="skill" key="potionintup" value="Frasco de Inteligência" />
+  <keys type="skill" key="potionlightdown" value="Poção de Tratamento de Choque" />
+  <keys type="skill" key="potionmacriup" value="Frasco de Taxa de Crítico Mágico" />
+  <keys type="skill" key="potionmprecovery" value="Poção de Mana" />
+  <keys type="skill" key="potionmtlup" value="Frasco de Constituição" />
+  <keys type="skill" key="potionspellpowup" value="Frasco de Poder de Feitiço" />
+  <keys type="skill" key="potionstrup" value="Frasco de Força" />
+  <keys type="skill" key="potionvtlup" value="Frasco de Constituição" />
+  <keys type="skill" key="potionwecriup" value="Frasco de Crítico Físico" />
+  <keys type="skill" key="returnposreg" value="Marcar Ponto de Retorno" />
+  <keys type="skill" key="returnposunreg" value="Apagar Ponto de Retorno" />
+  <keys type="skill" key="summon_creature" value="Invocar Familiar" />
+  <keys type="skill" key="taming_possible" value="Domável" />
+  <keys type="skill" key="unknown_potion" value="Frasco Misterioso" />
+  <keys type="skill" key="change_magicstone" value="Converter Pedra de Mana" />
+  <keys type="skill" key="combine_ingredient" value="Combinar Itens" />
+  <keys type="skill" key="comm_extraction_item" value="Extração de Item" />
+  <keys type="skill" key="comm_magic_pre" value="Converter Pedra_do_Lar_Pré_Processamento" />
+  <keys type="skill" key="comm_magicstone_addo" value="Equipar Pedra de Mana" />
+  <keys type="skill" key="comm_magicstone_conv" value="Converter Pedra_de_Mana_Não Utilizada" />
+  <keys type="skill" key="comm_reinforce_item" value="Temperando Itens" />
+  <keys type="skill" key="comm_return" value="Retornar" />
+  <keys type="skill" key="comm_return01" value="Retornar (Link)" />
+  <keys type="skill" key="comm_warp" value="Translocação" />
+  <keys type="skill" key="comm_move_portal" value="Santuários de Trânsito" />
+  <keys type="skill" key="death_penalty" value="Feridas Horrendas" />
+  <keys type="skill" key="dyeing_hair" value="Tingir Cabelo" />
+  <keys type="skill" key="dyeing_item" value="Tingir Item" />
+  <keys type="skill" key="scinariodraw" value="Coletar Água" />
+  <keys type="skill" key="scinariodrink" value="Beber Poção" />
+  <keys type="skill" key="scinariocasting" value="Usar Rastreador" />
+  <keys type="skill" key="scinariobait" value="Colocar Isca" />
+  <keys type="skill" key="summoncreature" value="Invocar Familiar" />
+  <keys type="skill" key="taming_penalty_playe" value="Penalidade ao Domar-Jogador" />
+  <keys type="skill" key="taming_penalty_targe" value="Penalidade ao Domar-ENPC" />
+  <keys type="skill" key="taming_ride_fail" value="Falha ao montar enquanto domando" />
+  <keys type="skill" key="arcampfire" value="Fogueira" />
+  <keys type="skill" key="arcrater01" value="Cratera 1" />
+  <keys type="skill" key="arcrater02" value="Cratera 2 (Erupção)" />
+  <keys type="skill" key="arcrater03" value="Cratera_Área 3 (Invocar Aleatório)" />
+  <keys type="skill" key="ardamagedark" value="Dano_Sombrio_Área" />
+  <keys type="skill" key="ardamagefire" value="Dano_Fogo_Área" />
+  <keys type="skill" key="ardamageice" value="Dano_Gelo_Área" />
+  <keys type="skill" key="ardamagelight" value="Dano_Luz_Área" />
+  <keys type="skill" key="areafireback01" value="Recuo01_Fogo_Área" />
+  <keys type="skill" key="areafireback02" value="Recuo02_Fogo_Área" />
+  <keys type="skill" key="areafireback03" value="Recuo03_Fogo_Área" />
+  <keys type="skill" key="areafireback04" value="Recuo04_Fogo_Área" />
+  <keys type="skill" key="areafireback05" value="Recuo05_Fogo_Área" />
+  <keys type="skill" key="areafireback06" value="Recuo06_Fogo_Área" />
+  <keys type="skill" key="arfireobj" value="Objeto de Fogo_Área (Comum, Recuo)" />
+  <keys type="skill" key="argaugedarkup" value="Aumentar_Medidor Sombrio_Área" />
+  <keys type="skill" key="argaugefireup" value="Aumentar_Medidor de Fogo_Área" />
+  <keys type="skill" key="argaugeicedown" value="Diminuir_Medidor de Gelo_Área" />
+  <keys type="skill" key="argaugeiceup" value="Aumentar_Medidor de Gelo_Área" />
+  <keys type="skill" key="argaugelightup" value="Aumentar_Medidor de Luz_Área" />
+  <keys type="skill" key="armagma01" value="Zona de Fogo" />
+  <keys type="skill" key="armagma02" value="Lava (Monstro)" />
+  <keys type="skill" key="arspider" value="Preso na Teia" />
+  <keys type="skill" key="arsummoner" value="Invocar Golem Número_Área" />
+  <keys type="skill" key="arwarmarea01" value="Região Morna (Comum)" />
+  <keys type="skill" key="arwater01" value="Água" />
+  <keys type="skill" key="arwater02" value="Piscina de Água (Monstro)" />
+  <keys type="skill" key="linktest" value="Para Testes de Links de Habilidades" />
+  <keys type="skill" key="linktest2" value="Para Testes de Links de Habilidades2" />
+  <keys type="skill" key="linktest3" value="Para Testes de Links de Habilidades3" />
+  <keys type="skill" key="linktest4" value="Para Testes de Links de Habilidades4" />
+  <keys type="skill" key="obdamagedark" value="Objeto_Dano_Sombrio" />
+  <keys type="skill" key="obdamagefire" value="Objeto_Dano_de_Fogo" />
+  <keys type="skill" key="obdamageice" value="Objeto_Dano_de_Gelo" />
+  <keys type="skill" key="obdamagelight" value="Objeto_Dano_de_Luz" />
+  <keys type="skill" key="obgaugedarkup" value="Objeto_Medidor Sombrio_Aumenta" />
+  <keys type="skill" key="obgaugefireup" value="Objeto_Medidor de Fogo_Aumenta" />
+  <keys type="skill" key="obgaugeiceup" value="Objeto_Medidor de Gelo_Aumenta" />
+  <keys type="skill" key="obgaugelightup" value="Objeto_Medidor de Luz_Aumenta" />
+  <keys type="skill" key="summoncrystal" value="Temp_Invocar Cristal de Gelo" />
+  <keys type="skill" key="followerstatfire" value="Lacaio Golem_Queimado" />
+  <keys type="skill" key="followerstatice" value="Lacaio Golem_Congelado" />
+  <keys type="skill" key="golemstatfire" value="Golem de Brasa_Queimado" />
+  <keys type="skill" key="golemstatice" value="Golem de Brasa_Congelado" />
+  <keys type="skill" key="jarstatfire" value="Tigela de Fogo_Queimada" />
+  <keys type="skill" key="statusdark" value="Confundir" />
+  <keys type="skill" key="statusdhorselight" value="Eletrocutado" />
+  <keys type="skill" key="statusfire" value="Queimado" />
+  <keys type="skill" key="statusfiretotem" value="Altar de Oração_Queimado" />
+  <keys type="skill" key="statushoundfire" value="Cão do Inferno_Queimado" />
+  <keys type="skill" key="statushoundice" value="Cão do Inferno_Congelado" />
+  <keys type="skill" key="statusice" value="Congelado" />
+  <keys type="skill" key="statuslight" value="Eletrocutado" />
+  <keys type="skill" key="statussmanfire" value="Yeti_Queimado" />
+  <keys type="skill" key="statussmanice" value="Yeti_Congelado" />
+  <keys type="skill" key="statusturtlefire" value="Tartaruga da Lava_Queimada" />
+  <keys type="skill" key="statusturtleice" value="Tartaruga da Lava_Queimada" />
+  <keys type="skill" key="summonstatfire" value="Invocar Golem Número_Queimado" />
+  <keys type="skill" key="summonstatice" value="Invocar Golem Número_Congelados" />
+  <keys type="skill" key="common_seaze_move" value="Domar" />
+  <keys type="skill" key="pigrushlink" value="Investida de Javali Link" />
+  <keys type="skill" key="bearrushlink" value="Investida de Urso Link" />
+  <keys type="skill" key="cowfurycow" value="Ira da Vaca" />
+  <keys type="skill" key="itco_blackmeat" value="Colocar Isca Sombria" />
+  <keys type="skill" key="itco_hprecoverycraft" value="Criar Poção de Vida" />
+  <keys type="skill" key="itco_mprecoverycraft" value="Criar Poção de Vida" />
+  <keys type="skill" key="itco_flamebomb" value="Bomba de Faíscas" />
+  <keys type="skill" key="itcoflamebomb" value="Bomba de Faíscas" />
+  <keys type="skill" key="itco_holywater" value="Água Benta" />
+  <keys type="skill" key="jelnalight01" value="Explosão de Energia de Zelnaris" />
+  <keys type="skill" key="jelnalight02" value="Explosão Poderosa de Zelnaris" />
+  <keys type="skill" key="itco_garlicextract" value="Extrato de Alho (Item)" />
+  <keys type="skill" key="itco_throwbomb" value="Jogar Bomba" />
+  <keys type="skill" key="status_fire_max_01" value="Efeito de Queimadura Estágio 3" />
+  <keys type="skill" key="itco_gaugedarkdotup" value="Medidor Sombrio Aumento Pontual" />
+  <keys type="skill" key="itco_gaugefiredotup" value="Medidor de Fogo Aumento Pontual" />
+  <keys type="skill" key="itco_gaugeicedotup" value="Medidor de Gelo Aumento Pontual" />
+  <keys type="skill" key="itco_gaugelightdotup" value="Medidor de Luz Aumento Pontual" />
+  <keys type="skill" key="itco_gaugemaxupdark" value="Medidor Sombrio Aumento Máximo" />
+  <keys type="skill" key="itco_gaugemaxupfire" value="Medidor de Fogo Aumento Máximo" />
+  <keys type="skill" key="itco_gaugemaxupice" value="Medidor de Gelo Aumento Máximo" />
+  <keys type="skill" key="itco_gaugemaxuplight" value="Medidor de Luz Aumento Máximo" />
+  <keys type="skill" key="itco_resistupdark" value="Aumento de Afinidade Sombria" />
+  <keys type="skill" key="itco_resistupfire" value="Aumento de Afinidade de Fogo" />
+  <keys type="skill" key="itco_resistupice" value="Aumento de Afinidade de Gelo" />
+  <keys type="skill" key="itco_resistuplight" value="Aumento de Afinidade de Luz" />
+  <keys type="skill" key="food_qu_bakedrabbit" value="Habilidade de Item de Missão (Coelho Assado)" />
+  <keys type="skill" key="food_qu_honeypie" value="Habilidade de Item de Missão (Torta de Mel)" />
+  <keys type="skill" key="sitdown" value="Descansar" />
+  <keys type="skill" key="arkillzone01" value="Área Letal" />
+  <keys type="skill" key="dualshot" value="Tiro Duplo" />
+  <keys type="skill" key="massacreshot" value="Golpe de Açougueiro" />
+  <keys type="skill" key="mobragirepair02" value="Reparar Besta" />
+  <keys type="skill" key="mobragirepair03" value="Reparar Besta" />
+  <keys type="skill" key="mobragirepair04" value="Reparar Besta" />
+  <keys type="skill" key="mobragirepair05" value="Reparar Besta" />
+  <keys type="skill" key="mocommondel" value="Golpe Legítimo" />
+  <keys type="skill" key="wr_newbies" value="Bênção da Deusa" />
+  <keys type="skill" key="pr_newbies" value="Bênção da Deusa" />
+  <keys type="skill" key="wz_newbies" value="Bênção da Deusa" />
+  <keys type="skill" key="tf_newbies" value="Bênção da Deusa" />
+  <keys type="skill" key="gd_newbies" value="Bênção da Deusa" />
+  <keys type="skill" key="motoru02" value="Golpe Forte" />
+  <keys type="skill" key="morena01" value="Golpe Leve" />
+  <keys type="skill" key="mofiregolem10" value="Conjurar Balanço da Pedra Incandescente" />
+  <keys type="skill" key="mofiregolem11" value="Conjurar Balanço da Pedra Incandescente" />
+  <keys type="skill" key="mofrostdrag02" value="Ice Storm" />
+  <keys type="skill" key="mofrostdrag03" value="Tempestade de Gelo" />
+  <keys type="skill" key="mocrow08" value="Curar" />
+  <keys type="skill" key="arkillzone" value="Dano Ambiental" />
+  <keys type="skill" key="itco_sleep" value="Poção do Sono" />
+  <keys type="skill" key="potionhprecovery_p" value="Poção de Recuperação Completa" />
+  <keys type="skill" key="bandage_newbie" value="Bandagens do Iniciante" />
+  <keys type="skill" key="itco_fefiresoul01" value="Flama da Fênix" />
+  <keys type="skill" key="itfeepup01" value="Poção de Estamina" />
+  <keys type="skill" key="itfellowepup01" value="Ânimo de Ellora" />
+  <keys type="skill" key="itfellowepup02" value="Pó de Grama" />
+  <keys type="skill" key="setskilltaming01" value="Efeito do Conjunto de Joias de Megantes" />
+  <keys type="skill" key="setskilltaming02" value="Efeito do Conjunto Austero do Caçador" />
+  <keys type="skill" key="setskilltaming03" value="Efeito do Conjunto Inferior do Caçador" />
+  <keys type="skill" key="setskilltaming04" value="Efeito do Conjunto Austero do Caçador" />
+  <keys type="skill" key="setskilltaming05" value="Efeito do Conjunto Austero do Caçador" />
+  <keys type="skill" key="setskilltaming06" value="Efeito do Conjunto Austero do Caçador" />
+  <keys type="skill" key="setskilltaming07" value="Efeito do Conjunto Austero do Caçador" />
+  <keys type="skill" key="setskilltamingac01" value="Efeito do Conjunto Austero do Caçador" />
+  <keys type="skill" key="setskilltaming08" value="Efeito do Conjunto Inferior do Caçador" />
+  <keys type="skill" key="setskilltaming09" value="Efeito do Conjunto Inferior do Caçador" />
+  <keys type="skill" key="setskilltaming10" value="Efeito do Conjunto Inferior do Caçador" />
+  <keys type="skill" key="setskilltaming11" value="Efeito do Conjunto Inferior do Caçador" />
+  <keys type="skill" key="setskilltamingac" value="Efeito do Conjunto Inferior do Caçador" />
+  <keys type="skill" key="gs_grade02_1" value="Ardent Training" />
+  <keys type="skill" key="gs_grade_02" value="Survival Training" />
+  <keys type="skill" key="gs_grade_03" value="Swift Conditioning" />
+  <keys type="skill" key="gs_grade05_1" value="Money Handling" />
+  <keys type="skill" key="gs_grade06_2" value="Vicious Sparring" />
+  <keys type="skill" key="pc_buff_01" value="Bênção de Hakanas" />
+  <keys type="skill" key="mowormbite00" value="Mordida" />
+  <keys type="skill" key="mowormsandhell02" value="Areia do Inferno" />
+  <keys type="skill" key="mowormsandfog01" value="Névoa de Areia" />
+  <keys type="skill" key="momohahealer00" value="Curar" />
+  <keys type="skill" key="momohahealer01" value="Aglomerado de Estrelas" />
+  <keys type="skill" key="momohahealer02" value="Tempestade de Areia" />
+  <keys type="skill" key="mobowdmg00" value="Defesa de Besta" />
+  <keys type="skill" key="mobowdmg01" value="Defesa de Besta Premium" />
+  <keys type="skill" key="mobowdmg02" value="Defesa de Besta Excelente" />
+  <keys type="skill" key="mobowdmg03" value="Defesa de Besta Perfeita" />
+  <keys type="skill" key="mospeardmg00" value="Defesa de Lança" />
+  <keys type="skill" key="mospeardmg01" value="Defesa de Lança Premium" />
+  <keys type="skill" key="mospeardmg02" value="Defesa de Lança Excelente" />
+  <keys type="skill" key="mospeardmg03" value="Defesa de Lança Perfeita" />
+  <keys type="skill" key="setitem_unmagi" value="Resistência ao Mal" />
+  <keys type="skill" key="undarkenegy" value="Resistência ao Mal" />
+  <keys type="skill" key="setskilltaming13" value="Efeito do Conjunto de Joias de Vylet" />
+  <keys type="skill" key="setskilltaming12" value="Efeito do Conjunto de Joias de Pyludd" />
+  <keys type="skill" key="rabini_bless" value="Bênção do Lebrini" />
+  <keys type="skill" key="fullmoon_bless" value="Bênção do Dia de Ação de Graças Coreano" />
+  <keys type="skill" key="gm_bless" value="Bênção de GM" />
+  <keys type="skill" key="protect_otp" value="OTP" />
+  <keys type="skill" key="support_crow_1" value="Confiança do Corvo I" />
+  <keys type="skill" key="support_crow_2" value="Confiança do Corvo II" />
+  <keys type="skill" key="support_crow_3" value="Confiança do Corvo III" />
+  <keys type="skill" key="support_crow_4" value="Confiança do Corvo IV" />
+  <keys type="skill" key="support_crow_5" value="Confiança do Corvo V" />
+  <keys type="skill" key="shine_support_crow_1" value="Confiança Resplandecente do Corvo I" />
+  <keys type="skill" key="shine_support_crow_2" value="Confiança Resplandecente do Corvo II" />
+  <keys type="skill" key="shine_support_crow_3" value="Confiança Resplandecente do Corvo III" />
+  <keys type="skill" key="shine_support_crow_4" value="Confiança Resplandecente do Corvo IV" />
+  <keys type="skill" key="shine_support_crow_5" value="Confiança Resplandecente do Corvo V" />
+  <keys type="skill" key="great_support_crow_1" value="Confiança Superior do Corvo I" />
+  <keys type="skill" key="great_support_crow_2" value="Confiança Superior do Corvo II" />
+  <keys type="skill" key="great_support_crow_3" value="Confiança Superior do Corvo III" />
+  <keys type="skill" key="great_support_crow_4" value="Confiança Superior do Corvo IV" />
+  <keys type="skill" key="spirit_hakain_1" value="Energia de Hakain I" />
+  <keys type="skill" key="spirit_hakain_2" value="Energia de Hakain II" />
+  <keys type="skill" key="spirit_hakain_3" value="Energia de Hakain III" />
+  <keys type="skill" key="spirit_hakain_4" value="Energia de Hakain IV" />
+  <keys type="skill" key="spirit_hakain_5" value="Energia de Hakain V" />
+  <keys type="skill" key="will_hakain_1" value="Vontade de Hakain I" />
+  <keys type="skill" key="will_hakain_2" value="Vontade de Hakain II" />
+  <keys type="skill" key="will_hakain_3" value="Vontade de Hakain III" />
+  <keys type="skill" key="will_hakain_4" value="Vontade de Hakain IV" />
+  <keys type="skill" key="will_hakain_5" value="Vontade de Hakain V" />
+  <keys type="skill" key="bless_elora_1" value="Bênção de Ellora I" />
+  <keys type="skill" key="bless_elora_2" value="Bênção de Ellora II" />
+  <keys type="skill" key="bless_elora_3" value="Bênção de Ellora III" />
+  <keys type="skill" key="bless_elora_4" value="Bênção de Ellora IV" />
+  <keys type="skill" key="bless_elora_5" value="Bênção de Ellora V" />
+  <keys type="skill" key="noble_bless_elora_1" value="Bênção Nobre de Ellora I" />
+  <keys type="skill" key="noble_bless_elora_2" value="Bênção Nobre de Ellora II" />
+  <keys type="skill" key="noble_bless_elora_3" value="Bênção Nobre de Ellora III" />
+  <keys type="skill" key="noble_bless_elora_4" value="Bênção Nobre de Ellora IV" />
+  <keys type="skill" key="great_bless_elora_1" value="Bênção Superior de Ellora I" />
+  <keys type="skill" key="great_bless_elora_2" value="Bênção Superior de Ellora II" />
+  <keys type="skill" key="great_bless_elora_3" value="Bênção Superior de Ellora III" />
+  <keys type="skill" key="great_bless_elora_4" value="Bênção Superior de Ellora IV" />
+  <keys type="skill" key="will_pega_1" value="Vontade do Pégaso I" />
+  <keys type="skill" key="will_pega_2" value="Vontade do Pégaso II" />
+  <keys type="skill" key="will_pega_3" value="Vontade do Pégaso III" />
+  <keys type="skill" key="power_hakain_1" value="Força de Hakain I" />
+  <keys type="skill" key="power_hakain_2" value="Força de Hakain II" />
+  <keys type="skill" key="power_hakain_3" value="Força de Hakain III" />
+  <keys type="skill" key="protect_hakain_1" value="Proteção de Hakain I" />
+  <keys type="skill" key="protect_hakain_2" value="Proteção de Hakain II" />
+  <keys type="skill" key="protect_hakain_3" value="Proteção de Hakain III" />
+  <keys type="skill" key="shine_bless_elora_1" value="Bênção Resplandecente de Ellora I" />
+  <keys type="skill" key="shine_bless_elora_2" value="Bênção Resplandecente de Ellora II" />
+  <keys type="skill" key="shine_bless_elora_3" value="Bênção Resplandecente de Ellora III" />
+  <keys type="skill" key="shine_power_hakain_1" value="Força Resplandecente de Hakain I" />
+  <keys type="skill" key="shine_power_hakain_2" value="Força Resplandecente de Hakain II" />
+  <keys type="skill" key="shine_power_hakain_3" value="Força Resplandecente de Hakain III" />
+  <keys type="skill" key="great_bless_pega_1" value="Bênção Superior do Pégaso I" />
+  <keys type="skill" key="great_bless_pega_2" value="Bênção Superior do Pégaso II" />
+  <keys type="skill" key="great_bless_pega_3" value="Bênção Superior do Pégaso III" />
+  <keys type="skill" key="shine_spirit_pega_1" value="Energia Resplandecente do Pégaso I" />
+  <keys type="skill" key="shine_spirit_pega_2" value="Energia Resplandecente do Pégaso II" />
+  <keys type="skill" key="shine_spirit_pega_3" value="Energia Resplandecente do Pégaso III" />
+  <keys type="skill" key="noble_spirit_pega_1" value="Energia Nobre do Pégaso I" />
+  <keys type="skill" key="noble_spirit_pega_2" value="Energia Nobre do Pégaso II" />
+  <keys type="skill" key="noble_spirit_pega_3" value="Energia Nobre do Pégaso III" />
+  <keys type="skill" key="support_pega_1" value="Confiança do Pégaso I" />
+  <keys type="skill" key="support_pega_2" value="Confiança do Pégaso II" />
+  <keys type="skill" key="support_pega_3" value="Confiança do Pégaso III" />
+  <keys type="skill" key="support_pega_4" value="Confiança do Pégaso IV" />
+  <keys type="skill" key="support_pega_5" value="Confiança do Pégaso V" />
+  <keys type="skill" key="spirit_pega_1" value="Energia do Pégaso I" />
+  <keys type="skill" key="spirit_pega_2" value="Energia do Pégaso II" />
+  <keys type="skill" key="spirit_pega_3" value="Energia do Pégaso III" />
+  <keys type="skill" key="spirit_pega_4" value="Energia do Pégaso IV" />
+  <keys type="skill" key="spirit_pega_5" value="Energia do Pégaso V" />
+  <keys type="skill" key="support_rabini_1" value="Confiança do Lebrini I" />
+  <keys type="skill" key="support_rabini_2" value="Confiança do Lebrini II" />
+  <keys type="skill" key="support_rabini_3" value="Confiança do Lebrini III" />
+  <keys type="skill" key="support_rabini_4" value="Confiança do Lebrini IV" />
+  <keys type="skill" key="support_rabini_5" value="Confiança do Lebrini V" />
+  <keys type="skill" key="love_bless_30" value="Bônus de Amor" />
+  <keys type="skill" key="qu_bandage" value="Bandagem" />
+  <keys type="skill" key="qu_foodrecoverhp" value="Comida Saudável" />
+  <keys type="skill" key="qu_foodrecovermp" value="Comida de Mana" />
+  <keys type="skill" key="qu_potiondexup" value="Comida de Destreza" />
+  <keys type="skill" key="qu_potionintup" value="Comida de Inteligência" />
+  <keys type="skill" key="qu_potionmtlup" value="Comida da Mente" />
+  <keys type="skill" key="qu_potionstrup" value="Comida de Força" />
+  <keys type="skill" key="qu_potionvtlup" value="Comida de Constituição" />
+  <keys type="skill" key="love_bless_50" value="Geração de Abundância" />
+  <keys type="skill" key="f05fqset00" value="Bênção de EXP do Deserto" />
+  <keys type="skill" key="f05fqset01" value="Bênção Premium de EXP do Deserto" />
+  <keys type="skill" key="f05fqset02" value="Bênção de EXP Ardente" />
+  <keys type="skill" key="f05fqset03" value="Bênção de EXP de Shakiba" />
+  <keys type="skill" key="setf05fqcond00" value="Bênção de EXP do Deserto" />
+  <keys type="skill" key="setf05fqcond01" value="Bênção Premium de EXP do Deserto" />
+  <keys type="skill" key="setf05fqcond02" value="Bênção de EXP Ardente" />
+  <keys type="skill" key="setf05fqcond03" value="Bênção de EXP de Shakiba" />
+  <keys type="skill" key="areadeath022" value="Insolação" />
+  <keys type="skill" key="setpvpgd45" value="Efeito do Conjunto Inferior do Sanguinário" />
+  <keys type="skill" key="setpvpwr45" value="Efeito do Conjunto Inferior do Sanguinário" />
+  <keys type="skill" key="setpvptf45" value="Efeito do Conjunto Inferior do Sanguinário" />
+  <keys type="skill" key="setpvpwz45" value="Efeito do Conjunto Inferior do Sanguinário" />
+  <keys type="skill" key="setpvppr45" value="Efeito do Conjunto Inferior do Sanguinário" />
+  <keys type="skill" key="setpvpac45" value="Efeito do Conjunto Inferior do Sanguinário" />
+  <keys type="skill" key="setpvpamgd45" value="Terror do Sanguinário" />
+  <keys type="skill" key="setpvpamdebuff45" value="Temido" />
+  <keys type="skill" key="setpvpgd50" value="Efeito do Conjunto Austero do Sanguinário" />
+  <keys type="skill" key="setpvpwr50" value="Efeito do Conjunto Austero do Sanguinário" />
+  <keys type="skill" key="setpvptf50" value="Efeito do Conjunto Austero do Sanguinário" />
+  <keys type="skill" key="setpvpwz50" value="Efeito do Conjunto Austero do Sanguinário" />
+  <keys type="skill" key="setpvppr50" value="Efeito do Conjunto Austero do Sanguinário" />
+  <keys type="skill" key="setpvpac50" value="Efeito do Conjunto Austero do Sanguinário" />
+  <keys type="skill" key="setpvpamgd50" value="Dor do Sanguinário" />
+  <keys type="skill" key="setpvpamdebuff50" value="Enfraquecido" />
+  <keys type="skill" key="setpvparbuff45" value="Aumento da Defesa em PvP" />
+  <keys type="skill" key="setpvparbuff50" value="Aumento do Ataque em PvP" />
+  <keys type="skill" key="setpvpgd55" value="Efeito do Conjunto Exímio do Sanguinário" />
+  <keys type="skill" key="setpvpwr55" value="Efeito do Conjunto Exímio do Sanguinário" />
+  <keys type="skill" key="setpvptf55" value="Efeito do Conjunto Exímio do Sanguinário" />
+  <keys type="skill" key="setpvpwz55" value="Efeito do Conjunto Exímio do Sanguinário" />
+  <keys type="skill" key="setpvppr55" value="Efeito do Conjunto Exímio do Sanguinário" />
+  <keys type="skill" key="setpvpac55" value="Efeito do Conjunto Exímio do Sanguinário" />
+  <keys type="skill" key="setpvpamdebuff55" value="Fragilidade" />
+  <keys type="skill" key="setpvparbuff55" value="Aumento do Ataque em PvP" />
+  <keys type="skill" key="setpvpwebuff55" value="Fraqueza" />
+  <keys type="skill" key="decomposition" value="Desmantelar" />
+  <keys type="skill" key="cash_style01" value="Garras de Chacha" />
+  <keys type="skill" key="cash_style03" value="Ronronado da Kiki" />
+  <keys type="skill" key="happy_birth_01" value="Energia do Festival de Hakanas" />
+  <keys type="skill" key="1st_anniversary" value="Véspera de Aniversário de 1 Ano" />
+  <keys type="skill" key="sewol" value="Sewolho (Coreia)" />
+  <keys type="skill" key="cash_style05" value="Bênção de Chacha, o Gato" />
+  <keys type="skill" key="cash_style07" value="Bênção de Kiki, a Gata" />
+  <keys type="skill" key="comm_item_overrise" value="Transcendendo" />
+  <keys type="skill" key="commfallevent" value="Fruta Celestial" />
+  <keys type="skill" key="itrankingpkskillef" value="Onda de Sangue" />
+  <keys type="skill" key="itrankingpkskillef2" value="Energia Rubra" />
+  <keys type="skill" key="itrankingpkskillef3" value="Rugido Iluminado" />
+  <keys type="skill" key="itrankingpkskill" value="Onda de Sangue" />
+  <keys type="skill" key="itrankingpkskill2" value="Energia Rubra" />
+  <keys type="skill" key="itrankingpkskill3" value="Rugido Iluminado" />
+  <keys type="skill" key="federitas99" value="Fé Cega" />
+  <keys type="skill" key="fekertamen00" value="Estouro de Coragem" />
+  <keys type="skill" key="fekertamen001" value="Estouro de Coragem" />
+  <keys type="skill" key="fekertamen01" value="Armadura de Conflitos" />
+  <keys type="skill" key="fekertamen011" value="Armadura de Conflitos" />
+  <keys type="skill" key="fekertamen99" value="Vantagens de Conflitos" />
+  <keys type="skill" key="feteleportp01" value="Retorno de Exarahn" />
+  <keys type="skill" key="feteleportp02" value="Retorno: Stygaea" />
+  <keys type="skill" key="gd_magicstone" value="Toque da Pedra de Mana" />
+  <keys type="skill" key="wr_magicstone" value="Toque da Pedra de Mana" />
+  <keys type="skill" key="ac_magicstone" value="Toque da Pedra de Mana" />
+  <keys type="skill" key="tf_magicstone" value="Toque da Pedra de Mana" />
+  <keys type="skill" key="wz_magicstone" value="Toque da Pedra de Mana" />
+  <keys type="skill" key="pr_magicstone" value="Toque da Pedra de Mana" />
+  <keys type="skill" key="fellow_compose" value="Unidade dos Familiares" />
+  <keys type="skill" key="evatkpotion" value="Frasco de Ataque Global" />
+  <keys type="skill" key="evdefpotion" value="Frasco de Defesa Global" />
+  <keys type="skill" key="cash_partypotion_09" value="Frasco de Resistência em Grupo de PvP" />
+  <keys type="skill" key="cash_partypotion_10" value="Frasco de Dano em Grupo de PvP" />
+  <keys type="skill" key="cash_partypotion_11" value="Frasco de Defesa em Grupo de PvP" />
+  <keys type="skill" key="cash_normalpotion13" value="Frasco de Subida de Nível Instantânea" />
+  <keys type="skill" key="pc_bp_001" value="Poção de Ataque de PCoelhinho" />
+  <keys type="skill" key="pc_bp_002" value="PCbunny's Vitality Potion" />
+  <keys type="skill" key="pc_bp_003" value="PCbunny's Critical Hit Damage Potion" />
+  <keys type="skill" key="pc_bp_004" value="Poção de Queda de PCoelhinho" />
+  <keys type="skill" key="pc_bp_000" value="Poção de Defesa de PCoelhinho" />
+  <keys type="skill" key="cash_eppotion_00" value="Poção de Recuperação de 100% de Energia de Familiar" />
+  <keys type="skill" key="fellow_hopecompose" value="Unidade dos Familiares" />
+  <keys type="skill" key="gs_grade_07" value="Team Mentality" />
+  <keys type="skill" key="gs_grade_08" value="A Common Goal" />
+  <keys type="skill" key="setpvpamall55" value="Efeito do Conjunto do Capitão do Abismo" />
+  <keys type="skill" key="setpvpallbuff55" value="Luz Abissal" />
+  <keys type="skill" key="itmagicstone4" value="Sanguinário das Terras Devastadas" />
+  <keys type="skill" key="itmagicstone4_link" value="Sanguinário das Terras Devastadas" />
+  <keys type="skill" key="goldmaskskill" value="Máscara Dourada" />
+  <keys type="skill" key="goldmask_skill" value="Máscara Dourada" />
+  <keys type="skill" key="fish_stlyeatt" value="Vingança Duvidosa" />
+  <keys type="skill" key="fish_stlyeattlink" value="Vingança Duvidosa" />
+  <keys type="skill" key="comguildupbuff00" value="Poder da Guilda" />
+  <keys type="skill" key="cash_stlyemonkey" value="Ataque de Luz" />
+  <keys type="skill" key="cash_monkeylink" value="Ataque de Luz" />
+  <keys type="skill" key="evgirlfriend01" value="Todos os Desejos de GFriend" />
+  <keys type="skill" key="evgirlfriend00" value="Mellow Galáxia Torce por Você!" />
+  <keys type="skill" key="evgirlfriend02" value="Yerin Te Apoia!" />
+  <keys type="skill" key="evhappynew" value="Ascensão do Macaco" />
+  <keys type="skill" key="girlfriendbuff00" value="Tônico de GFriend" />
+  <keys type="skill" key="girlfriendbuff01" value="Amor de GFriend" />
+  <keys type="skill" key="cash_girlstyle" value="Estrela do Amor de GFriend" />
+  <keys type="skill" key="cash_girlstylelink" value="Estrela do Amor de GFriend" />
+  <keys type="skill" key="cash_stylecandy" value="Doce Lembrança" />
+  <keys type="skill" key="cash_stylecandylink" value="Doce Lembrança" />
+  <keys type="skill" key="ev_foodrecoverlink" value="Energia do Natal" />
+  <keys type="skill" key="setskillgd_le6001" value="Unidade Alsaciana" />
+  <keys type="skill" key="setskillwr_le6001" value="Unidade Alsaciana" />
+  <keys type="skill" key="setskilltf_le6001" value="Unidade Alsaciana" />
+  <keys type="skill" key="setskillwz_le6001" value="Unidade Alsaciana" />
+  <keys type="skill" key="setskillpr_le6001" value="Unidade Alsaciana" />
+  <keys type="skill" key="setskillac_le6001" value="Unidade Alsaciana" />
+  <keys type="skill" key="happy_birthday_02" value="Feliz 2º Aniversário" />
+  <keys type="skill" key="fefarmbuff00" value="Encontro com Lenda" />
+  <keys type="skill" key="fefarmbuff01" value="Cavalo de Guerra dos Céus" />
+  <keys type="skill" key="fefarmbuff02" value="Fazenda Lebrini" />
+  <keys type="skill" key="fefarmbuff03" value="Gelo do Familiar" />
+  <keys type="skill" key="fefarmbuff04" value="Quinto Irmão Urso" />
+  <keys type="skill" key="fefarmbuff05" value="Familiar do Céu de Azure" />
+  <keys type="skill" key="reversebuff00" value="Taxa de Aumento de Melhoria Reversa" />
+  <keys type="skill" key="reversebuff01" value="Taxa de Aumento de Melhoria Reversa(10m)" />
+  <keys type="skill" key="setpvpgd60" value="Efeito do Conjunto Sombrio da Devoção de Teleo" />
+  <keys type="skill" key="setpvpwr60" value="Efeito do Conjunto Atroz Sombrio de Teleo" />
+  <keys type="skill" key="setpvptf60" value="Efeito do Conjunto Velado Sombrio de Teleo" />
+  <keys type="skill" key="setpvpwz60" value="Efeito do Conjunto Arcano Sombrio de Teleo" />
+  <keys type="skill" key="setpvppr60" value="Efeito do Conjunto Leal Sombrio de Teleo" />
+  <keys type="skill" key="setpvpac60" value="Efeito do Conjunto Selvagem Sombrio de Teleo" />
+  <keys type="skill" key="setpvpwebuff60" value="Fragilidade II" />
+  <keys type="skill" key="setpvparbuff60_2" value="Caos de Teleo" />
+  <keys type="skill" key="setpvpwebuff60e" value="Fraqueza II" />
+  <keys type="skill" key="setpvpamall60" value="Efeito do Conjunto Sombrio de Joias de Teleo" />
+  <keys type="skill" key="setpvpallbuff60" value="Luz de Teleo" />
+  <keys type="skill" key="comm_item_appraise00" value="Estimar" />
+  <keys type="skill" key="setskilltamingdo10" value="Efeito do Conjunto Modesto do Caçador" />
+  <keys type="skill" key="setskilltamingdo06" value="Efeito do Conjunto Austero do Caçador" />
+  <keys type="skill" key="setpvpdo45" value="Efeito do Conjunto Modesto do Sanguinário" />
+  <keys type="skill" key="setpvpdo50" value="Efeito do Conjunto Austero do Sanguinário" />
+  <keys type="skill" key="setpvpdo55" value="Efeito do Conjunto Exímio do Sanguinário" />
+  <keys type="skill" key="setskilldo_le6001" value="Unidade Alsaciana" />
+  <keys type="skill" key="setpvpdo60" value="Efeito do Conjunto da Sombra Pristina" />
+  <keys type="skill" key="bombdebuff01" value="[PVP] Bomba de Redução de Vida e Mana" />
+  <keys type="skill" key="bombdebuff02" value="[PVP] Bomba de Redução de Ataque" />
+  <keys type="skill" key="bombdebuff03" value="[PVP] Bomba de Redução de Defesa" />
+  <keys type="skill" key="bombdebuff04" value="[PVP] Bomba de Redução de Resistência" />
+  <keys type="skill" key="ghosthouse01" value="Tocha do Phantamos" />
+  <keys type="skill" key="ghosthouse02" value="Tocha Piscante" />
+  <keys type="skill" key="ghosthouse03" value="Granada Luminosa" />
+  <keys type="skill" key="magicstoneskill3" value="Mascara do Desafiante de Pedra" />
+  <keys type="skill" key="cmexorcist" value="Exorcista" />
+  <keys type="skill" key="potion_dungeon07" value="Chifre de Radan na Caverna" />
+  <keys type="skill" key="potion_dungeon08" value="Energia da Torre Gélida" />
+  <keys type="skill" key="potion_dungeon09" value="Quebrar o Chifre de Izhora" />
+  <keys type="skill" key="olympicsbuff" value="Icarus torce" />
+  <keys type="skill" key="bigbomb00" value="Bomba Grande" />
+  <keys type="skill" key="integationbuff00" value="Bênção de Zaminus" />
+  <keys type="skill" key="comm_item_combin00" value="Fusão de Gemas" />
+  <keys type="skill" key="comm_wapon_waken" value="Despertar de Armas" />
+  <keys type="skill" key="comm_item_optionvalu" value="Alterar atributos" />
+  <keys type="skill" key="setpvpreward" value="Efeito do Conjunto de Acessórios da Gratidão" />
+  <keys type="skill" key="setpvpreward2" value="Efeito do Conjunto de Acessórios do Caminho" />
+  <keys type="skill" key="setpvpreward3" value="Efeito do Conjunto de Acessórios do Campo de Batalha" />
+  <keys type="skill" key="setpvprewardbuff" value="Bênção do Senhor" />
+  <keys type="skill" key="setpvprewardbuff2" value="Ira do Senhor" />
+  <keys type="skill" key="setpvprewardbuff3" value="Bênção do Caminho" />
+  <keys type="skill" key="setpvprewardbuff4" value="Ira do Caminho" />
+  <keys type="skill" key="setpvprewardbuff5" value="Bênção do Campo de Batalha" />
+  <keys type="skill" key="setpvprewardbuff6" value="Ira do Campo de Batalha" />
+  <keys type="skill" key="jenajaon_highbuff" value="Legado de Zenajon" />
+  <keys type="skill" key="jenajaon_high2buff" value="Legado de Zenajon" />
+  <keys type="skill" key="jenajaon_high3buff" value="Legado de Zenajon" />
+  <keys type="skill" key="jenajaon_lowbuff" value="Herança de Zenajon" />
+  <keys type="skill" key="jenajaon_low2buff" value="Herança de Zenajon" />
+  <keys type="skill" key="jenajaon_low3buff" value="Herança de Zenajon" />
+  <keys type="skill" key="setitem_turimran" value="Instinto de Sobrevivência Primal" />
+  <keys type="skill" key="setitem_turim" value="Instinto de Sobrevivência Primal" />
+  <keys type="skill" key="settemain65effect" value="Efeito do Conjunto de 3 Peças de Armadura de Temmajin" />
+  <keys type="skill" key="settemainacc65" value="Efeito do Conjunto de 4 Peças de Armadura de Temmajin" />
+  <keys type="skill" key="settemainacc65eff1" value="Efeito 1 do Conjunto de 4 Peças de Armadura de Temmajin" />
+  <keys type="skill" key="settemainacc65eff2" value="Efeito 1 do Conjunto de 4 Peças de Armadura de Temmajin" />
+  <keys type="skill" key="foreverring" value="Anel eterno de Deus" />
+  <keys type="skill" key="moimminestiff" value="Stiffness" />
+  <keys type="skill" key="setpvpgd60_1" value="Dark Guardian set effect" />
+  <keys type="skill" key="setpvpwr60_1" value="Dark width set effect" />
+  <keys type="skill" key="setpvptf60_1" value="Dark shadow set effect" />
+  <keys type="skill" key="setpvpwz60_1" value="Dark element set effect" />
+  <keys type="skill" key="setpvppr60_1" value="Dark belief set effect" />
+  <keys type="skill" key="setpvpac60_1" value="Dark Cool Set Effect" />
+  <keys type="skill" key="setpvpdo60_1" value="Dark pure set effect" />
+</files>

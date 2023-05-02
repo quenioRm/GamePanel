@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="npc" key="E_01_0_0245_0000" value="Leo" />
+  <keys type="npc" key="E_00_0_0686_0000" value="Águia" />
+  <keys type="npc" key="E_00_0_0083_0000" value="Urso" />
+  <keys type="npc" key="E_00_0_0602_0000" value="Patrulheiro Braghin" />
+  <keys type="npc" key="E_00_0_0704_0000" value="Dragão da Tempestade" />
+  <keys type="npc" key="E_00_0_0245_0000" value="Leo" />
+  <keys type="npc" key="E_00_0_0605_0000" value="Saqueador Braghin (para vídeo)" />
+  <keys type="npc" key="E_00_0_1100_0000" value="Arcipreste Conjurador de Sombras (para vídeo)" />
+  <keys type="npc" key="E_99_0_1501_0000" value="Luminous Emissary" />
+  <keys type="npc" key="E_99_0_0644_0000" value="Reaper" />
+  <keys type="npc" key="E_99_0_0003_0000" value="Karade Butcher" />
+  <keys type="npc" key="E_99_0_0002_0000" value="Karade Raider" />
+  <keys type="npc" key="E_99_0_0004_0000" value="Jason Clakey" />
+  <keys type="npc" key="E_99_0_0007_0000" value="Blackbreath" />
+  <keys type="npc" key="E_99_0_0011_0000" value="Bochepa" />
+  <keys type="npc" key="E_99_0_0006_0000" value="Karade Deckhand" />
+  <keys type="npc" key="E_99_0_0008_0000" value="Karade Runner" />
+  <keys type="npc" key="E_99_0_0005_0000" value="Ruthless Jeradin" />
+  <keys type="npc" key="E_99_0_0009_0000" value="Cinderwing" />
+  <keys type="npc" key="E_99_0_0010_0000" value="Karasha the Dark One" />
+  <keys type="npc" key="E_99_0_0014_0000" value="Karade Raider" />
+  <keys type="npc" key="E_99_0_0012_0000" value="Karade Cutthroat" />
+  <keys type="npc" key="E_03_0_1300_0001" value="Beached Karade Pirate" />
+  <keys type="npc" key="E_03_0_0003_0000" value="Bismuth the Ruthless" />
+  <keys type="npc" key="E_99_0_0008_0001" value="Karade Runner" />
+  <keys type="npc" key="E_99_0_0008_0002" value="Karade Runner" />
+  <keys type="npc" key="e_f04_DragAster_001" value="Flotier" />
+  <keys type="npc" key="e_f04_DragBonwy_001" value="Vylet, o Sagaz" />
+  <keys type="npc" key="e_f04_DragAster_002" value="Wyrm Cinzento" />
+  <keys type="npc" key="e_f04_ImmoSoldi_001" value="Soldado da Legião Caída" />
+  <keys type="npc" key="e_f04_Dimp_001" value="Diabinho da Legião Caída" />
+  <keys type="npc" key="e_f04_DragCaras_002" value="Varane Pesadelo" />
+  <keys type="npc" key="e_f04_DragAgnas_001" value="Keeshar" />
+  <keys type="npc" key="e_f04_FishFloat_001" value="Gapish" />
+  <keys type="npc" key="e_f04_ImmoHopli_001" value="Tenente da Legião Caída" />
+  <keys type="npc" key="e_f04_FishFloat_002" value="Gapish" />
+  <keys type="npc" key="e_f04_DragCaras_005" value="Feramarinha" />
+  <keys type="npc" key="e_f04_DragRasha_001" value="Águiatrovão Encouraçada" />
+  <keys type="npc" key="e_f04_FlyRay_001" value="Jumawu" />
+  <keys type="npc" key="a00_CM_rooting_0001" value="Baú Desgastado" />
+  <keys type="npc" key="a00_CM_rooting_0002" value="Baú Desgastado" />
+  <keys type="npc" key="a00_CM_rooting_0003" value="Bolsa Desgastada" />
+  <keys type="npc" key="a00_CM_rooting_0004" value="Bolsa Bonita" />
+  <keys type="npc" key="a00_CM_rooting_0005" value="Bolsa Desgastada Flutuante" />
+  <keys type="npc" key="a00_CM_rooting_0006" value="Bolsa Bonita Flutuante" />
+  <keys type="npc" key="a00_CM_rooting_0007" value="Baú Superior" />
+  <keys type="npc" key="a00_CM_rooting_0008" value="Bolsa Magnífica Flutuante" />
+  <keys type="npc" key="a00_CM_rooting_0009" value="Baú Magnífico" />
+  <keys type="npc" key="e_f04_ImmoKnigh_001" value="Cavaleiro da Legião Caída" />
+  <keys type="npc" key="e_f04_ImmoUranu_001" value="Urvus Senhor da Guerra" />
+  <keys type="npc" key="e_f04_ImmoGorak_001" value="Goraktus Grande Senhor da Guerra" />
+  <keys type="npc" key="e_f04_ImmoTeran_001" value="Teranus Senhor da Guerra" />
+  <keys type="npc" key="e_f04_ImmoToomb_001" value="Toomba Senhor da Guerra" />
+  <keys type="npc" key="e_f04_ImmoImpsu_001" value="Gárgula Invocadora da Legião Caída" />
+  <keys type="npc" key="e_f04_ImmoMagi_001" value="Encantadora da Legião Caída" />
+  <keys type="npc" key="e_f04_ImmoLilis_001" value="Lilith da Legião Caída" />
+  <keys type="npc" key="E_f04_zelna_001" value="Desejo de Zelnaris, o Deus da Ruína" />
+  <keys type="npc" key="E_f04_zelna_002" value="Remanescentes de Zelnaris, o Deus da Ruína" />
+  <keys type="npc" key="E_05_0_0001_0000" value="Temple Gargoyle" />
+  <keys type="npc" key="E_05_0_0002_0000" value="Obsidian Gargoyle" />
+  <keys type="npc" key="E_05_0_0003_0000" value="Stone Gargoyle" />
+  <keys type="npc" key="E_f04_SoulStone_001" value="Corrente elétrica flutuante" />
+  <keys type="npc" key="e_f04_ImmoKnigh_002" value="Cavaleiro da Legião Caída" />
+  <keys type="npc" key="e_f04_ImmoMagi_002" value="Encantadora da Legião Caída" />
+  <keys type="npc" key="e_f04_magic_door_001" value="Porta Caída" />
+  <keys type="npc" key="SO_TEST_1_0066" value="Jumawu's Black Hole" />
+  <keys type="npc" key="E_D07_AmonDos_001" value="Magonegro Amandos" />
+  <keys type="npc" key="E_D07_GoleHogmu_001" value="Hogokut, o Saqueador" />
+  <keys type="npc" key="E_D07_GoleAncgu_001" value="Canhoneiro Golem - Corrompido" />
+  <keys type="npc" key="E_D07_GoleComrot_001" value="Saqueador Golem - Corrompido" />
+  <keys type="npc" key="E_D07_GoleRot_001" value="Bombardeiro Golem - Corrompido" />
+  <keys type="npc" key="E_D07_GagoTampl_01" value="Gárgula com Lâminas" />
+  <keys type="npc" key="E_D07_DragCaras_001" value="Grande Karasha, o Sombrio" />
+  <keys type="npc" key="E_D07_FanaDawiz_001" value="Necromante Sombrio" />
+  <keys type="npc" key="E_D07_LightBug_001" value="Inseto Luminoso" />
+  <keys type="npc" key="E_D07_BurdGole_001" value="Zepelim de Transporte Golem" />
+  <keys type="npc" key="E_D07_BugsBurbo_001" value="Bubo, o Ladrão de Túmulos" />
+  <keys type="npc" key="E_D07_RadaEyes_001" value="Totem de Olho Sombrio" />
+  <keys type="npc" key="E_D07_LightBug_002" value="Inseto Luminoso" />
+  <keys type="npc" key="E_D07_GagoTampl_02" value="Gárgula com Lâminas" />
+  <keys type="npc" key="E_D07_GoleRot_002" value="Bombardeiro Golem - Corrompido" />
+  <keys type="npc" key="E_F09_TtanTran_001" value="Tranua" />
+  <keys type="npc" key="E_F09_TtanYataDC_001" value="Attaius" />
+  <keys type="npc" key="E_C01_ChaoDawiz0_001" value="Mago Sombrio" />
+  <keys type="npc" key="E_C01_ImmoKnigh_001" value="Cavaleiro Infernal" />
+  <keys type="npc" key="E_C01_ImmoSoldi_001" value="Infernal" />
+  <keys type="npc" key="E_C01_ImmoLilis_001" value="Renata" />
+  <keys type="npc" key="E_C01_HuMsol_0001" value="Soldado Traiçoeiro" />
+  <keys type="npc" key="E_C01_FanaDevco_0001" value="Mago Khabimista" />
+  <keys type="npc" key="E_C01_CabeShura_0001" value="General Russell" />
+  <keys type="npc" key="E_C01_FanaDevco_001" value="Khabim Tece-Feitiços" />
+  <keys type="npc" key="E_C01_FanaDevco_002" value="Khabim Tece-Feitiços" />
+  <keys type="npc" key="E_02_0_Yataball_0001" value="Great Storm Sphere" />
+  <keys type="npc" key="E_02_0_Yataball_0002" value="Storm Sphere" />
+  <keys type="npc" key="e_p01_bonedrag_0001" value="Vylet" />
+  <keys type="npc" key="E_P01_SkulKnight_01" value="Linight Espadachim" />
+  <keys type="npc" key="E_p01_CarmDeck_02" value="Marinheiro de Primeira Classe" />
+  <keys type="npc" key="E_p01_CarmWatch_02" value="Vigia de Primeira Classe" />
+  <keys type="npc" key="E_p01_CarmTreas_02" value="Defensor de Primeira Classe" />
+  <keys type="npc" key="E_p01_GhostE_01" value="Acólito Fantasma" />
+  <keys type="npc" key="E_p01_GhostH_01" value="Cultista Fantasma" />
+  <keys type="npc" key="E_p01_MwerJack_02" value="Jack, o Caçador" />
+  <keys type="npc" key="E_p01_FanaStones_02" value="Clakey, o Primogênito" />
+  <keys type="npc" key="E_p01_FanaStone_02" value="Defensor Mestre de Primeira Classe" />
+  <keys type="npc" key="E_P01_liger_0002" value="Pyludd Terrível" />
+  <keys type="npc" key="E_p01_Megantes_002" value="Megantes do Pesadelo" />
+  <keys type="npc" key="e_p01_bonedrag_0002" value="Vylet Abissal" />
+  <keys type="npc" key="E_P01_megan_0001" value="Megantes" />
+  <keys type="npc" key="E_P01_afohorse_0001" value="Apocalipse Profano" />
+  <keys type="npc" key="E_P01_Devildog_0001" value="Cão do Inferno" />
+  <keys type="npc" key="E_d01_VampCook_01" value="Chef Sanguinário" />
+  <keys type="npc" key="E_P01_Etrule_0002" value="Fúria" />
+  <keys type="npc" key="E_P01_liger_0001" value="Pyludd" />
+  <keys type="npc" key="E_F04_Pegasus_002" value="Pesadelo" />
+  <keys type="npc" key="E_p01_Rhisau_001" value="Baranous Negro" />
+  <keys type="npc" key="E_p01_Rhisau_002" value="Sonos" />
+  <keys type="npc" key="E_P01_Yfirebird_0002" value="Nivah" />
+  <keys type="npc" key="E_p01_cripan_0002" value="Abritus" />
+  <keys type="npc" key="E_p01_MwerAttack_01" value="Bandoleiro" />
+  <keys type="npc" key="E_p01_WwerAssas_01" value="Assassino" />
+  <keys type="npc" key="E_p01_MwerModif_01" value="Homem Transformado" />
+  <keys type="npc" key="E_p01_WwerModif_01" value="Mulher Transformada" />
+  <keys type="npc" key="E_p01_MwerAttack_02" value="Bandoleiro" />
+  <keys type="npc" key="E_p01_WwerAssas_02" value="Assassino" />
+  <keys type="npc" key="E_p01_MwerModif_02" value="Homem Transformado" />
+  <keys type="npc" key="E_p01_WwerModif_02" value="Mulher Transformada" />
+  <keys type="npc" key="E_p01_FanaStones_01" value="Clakey, o Mais Velho" />
+  <keys type="npc" key="E_p01_FanaTony_01" value="Clakey, o Jovem" />
+  <keys type="npc" key="E_p01_CarmBoatm_01" value="Clakey, o Mais Novo" />
+  <keys type="npc" key="E_p01_FanaRecon_01" value="Patrulheiro" />
+  <keys type="npc" key="E_p01_FanaTroop_01" value="Soldado" />
+  <keys type="npc" key="E_p01_CarmBeard_01" value="Mensageiro" />
+  <keys type="npc" key="E_p01_FanaDevco_01" value="Bruxo" />
+  <keys type="npc" key="E_p01_FanaMidget_01" value="Abominação" />
+  <keys type="npc" key="E_p01_FanaSniper_01" value="Atiradores de Elite" />
+  <keys type="npc" key="E_p01_FanaRecon_02" value="Patrulheiro" />
+  <keys type="npc" key="E_p01_FanaTroop_02" value="Soldado" />
+  <keys type="npc" key="E_p01_CarmBeard_02" value="Mensageiro" />
+  <keys type="npc" key="E_p01_FanaDevco_02" value="Bruxo" />
+  <keys type="npc" key="E_p01_FanaMidget_02" value="Abominação" />
+  <keys type="npc" key="E_p01_FanaSniper_02" value="Atirador de Elite" />
+  <keys type="npc" key="E_p01_MwerJack_01" value="Jack de Exarahn" />
+  <keys type="npc" key="E_p01_WolfWild_01" value="Lobo de Exarahn" />
+  <keys type="npc" key="E_p01_CabeAshu_01" value="Linight Cavaleiro" />
+  <keys type="npc" key="E_p01_CarmDeck_01" value="Marinheiro" />
+  <keys type="npc" key="E_p01_CarmWatch_01" value="Patrulheiro" />
+  <keys type="npc" key="E_p01_CarmTreas_01" value="Infantaria Pesada" />
+  <keys type="npc" key="E_p01_FanaStone_01" value="Treinador de Polvos" />
+  <keys type="npc" key="E_p01_OctoRocko_01" value="Polvo de Pedra" />
+  <keys type="npc" key="E_p01_SkulBlakn_01" value="Linight Guerreiro" />
+  <keys type="npc" key="E_p01_SkulBlarc_01" value="Linight Arqueiro" />
+  <keys type="npc" key="E_p01_SkulBlaso_01" value="Infantaria" />
+  <keys type="npc" key="E_p01_SkulBlarc_02" value="Arqueiro" />
+  <keys type="npc" key="E_p01_HorsWind_001" value="Cavalo Sombrio" />
+  <keys type="npc" key="E_p01_SkulBlaso_03" value="Ricardo" />
+  <keys type="npc" key="E_p01_dark_ex_01" value="Exarium Corrompido" />
+  <keys type="npc" key="E_P01_Dragdark_0001" value="Wyvern Gélido Negro" />
+  <keys type="npc" key="E_P01_Seahors_0001" value="Drauph Bestavácua" />
+  <keys type="npc" key="E_P01_Yfirebird_0001" value="Filhote de Fênix Cinzenta" />
+  <keys type="npc" key="E_Event_Brag_01" value="Braghin Aldeão" />
+  <keys type="npc" key="e_f04_DragRasha_002" value="Draco Placa Vermelha" />
+  <keys type="npc" key="E_p01_RabMer_001" value="Roberto Lebrini" />
+  <keys type="npc" key="E_Event_31" value="Lanternão" />
+  <keys type="npc" key="E_Event_32" value="Lanterninha" />
+  <keys type="npc" key="E_Event_33" value="Labobopodre" />
+  <keys type="npc" key="E_Event_34" value="Laboborenta" />
+  <keys type="npc" key="E_p01_Mineturtle_000" value="Karoneh" />
+  <keys type="npc" key="E_Event_35" value="Boneco de Neve Alegre" />
+  <keys type="npc" key="E_Event_36" value="Boneco de Neve Assassino" />
+  <keys type="npc" key="E_Event_37" value="Bonequinho de Neve" />
+  <keys type="npc" key="E_Event_38" value="Homem de Neve Conspirador" />
+  <keys type="npc" key="E_99_0_1501_0001" value="Luminous Emissary" />
+  <keys type="npc" key="E_99_0_1501_0002" value="Luminous Emissary" />
+  <keys type="npc" key="E_F09_TtanYataDC_002" value="Attaius" />
+  <keys type="npc" key="E_F02_magstone_0001" value="Pedra de Proteção Celeste" />
+  <keys type="npc" key="E_02_0_Yataball_0003" value="Great Storm Sphere" />
+  <keys type="npc" key="E_02_0_Yataball_0004" value="Storm Sphere" />
+  <keys type="npc" key="E_99_0_1503_0000" value="Grim Reaper Knight" />
+  <keys type="npc" key="E_99_0_1503_0001" value="Grim Reaper Necromancer" />
+  <keys type="npc" key="E_99_0_1503_0002" value="Grim Reaper Soldier" />
+  <keys type="npc" key="E_99_Grim_1" value="Spirit Reaper of Protection" />
+  <keys type="npc" key="E_99_Grim_2" value="Spirit Reaper of Revival" />
+  <keys type="npc" key="E_99_Grim_3" value="Spirit Reaper of Combat" />
+  <keys type="npc" key="E_99_Grim_4" value="Spirit Reaper" />
+  <keys type="npc" key="E_99_festival_1" value="[Doll] Agnas" />
+  <keys type="npc" key="E_99_festival_2" value="[Doll] Phantom" />
+  <keys type="npc" key="E_99_festival_3" value="[Doll] Festival Luna" />
+  <keys type="npc" key="E_99_festival_4" value="[Doll]Pink Plush Letonsia" />
+  <keys type="npc" key="E_99_festival_5" value="Treble" />
+  <keys type="npc" key="E_99_festival_6" value="Hive" />
+  <keys type="npc" key="E_99_festival_7" value="Nartan" />
+  <keys type="npc" key="E_00_BMcWhale_0001" value="Letonsia Mecha Desperta" />
+  <keys type="npc" key="E_C00_BCaCat01_001" value="Awakened Sewing Panos" />
+  <keys type="npc" key="E_C00_BDragDoll_001" value="Awakened Sewing Karasha" />
+  <keys type="npc" key="E_C00_BDragMech_001" value="Awakened Mecca Karasha" />
+  <keys type="npc" key="E_C00_BHorsDoll_001" value="Awakened Sewing Calypse" />
+  <keys type="npc" key="E_C00_BHorsMech_001" value="Awakened Mecca Calypse" />
+  <keys type="npc" key="E_C00_BMcCat01_001" value="Awakened Mecca Panos" />
+  <keys type="npc" key="E_C00_BMchWolf1_001" value="Awakened Mecca Ghost" />
+  <keys type="npc" key="E_C00_BMecaOwl_001" value="Awakened Mecca Poyo" />
+  <keys type="npc" key="E_C00_BSewWhaleB_01" value="Awakened Sewing Orca" />
+  <keys type="npc" key="E_C00_BToyOwlA_001" value="Awakened Lovely Poyo" />
+  <keys type="npc" key="E_C00_BWolfDollB_01" value="Awakened Luna" />
+  <keys type="npc" key="E_P02_Garesha_003" value="Nebes Selvagem" />
+  <keys type="npc" key="E_P02_Garesha_004" value="Nebes Desperto" />
+  <keys type="npc" key="E_E01_Barri_1" value="Barreira" />
+  <keys type="npc" key="E_E01_DeadJeranin_1" value="Tormenta" />
+  <keys type="npc" key="E_E01_door_1" value="Portão de Ferro da Mansão Assombrada" />
+  <keys type="npc" key="E_E01_door_cut_1" value="Portão de Ferro" />
+  <keys type="npc" key="E_E01_door_cut_2" value="Portão de Ferro" />
+  <keys type="npc" key="E_E01_ghosmanag_1" value="Fantasma" />
+  <keys type="npc" key="E_E01_GhosShrin_1" value="Ceifeiro" />
+  <keys type="npc" key="E_E01_GhoulWdea_1" value="Sacerdote Fantasma" />
+  <keys type="npc" key="E_E01_GhoulWdea_2" value="Sacerdote Fantasma" />
+  <keys type="npc" key="E_E01_Spir_sinsia_1" value="Armadilha" />
+  <keys type="npc" key="E_E01_ZombSlave_1" value="Forasteiro" />
+  <keys type="npc" key="E_E01_ZombSlave_2" value="Forasteiro" />
+  <keys type="npc" key="E_E01_ZombSlave_3" value="Forasteiro Corrompido" />
+  <keys type="npc" key="E_E01_ZombSlave_4" value="Forasteiro Desperto" />
+  <keys type="npc" key="E_E01_Trap_001" value="Armadilha" />
+  <keys type="npc" key="E_E01_Trap_002" value="Armadilha" />
+  <keys type="npc" key="E_E01_Trap_003" value="Armadilha" />
+  <keys type="npc" key="E_E01_Trap_004" value="Armadilha" />
+  <keys type="npc" key="E_E01_Trap_005" value="Armadilha" />
+  <keys type="npc" key="E_d03_route_1" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_10" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_11" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_12" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_13" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_14" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_15" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_16" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_17" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_18" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_19" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_2" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_20" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_3" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_4" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_5" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_6" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_7" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_8" value="Porta de Ferro" />
+  <keys type="npc" key="E_d03_route_9" value="Porta de Ferro" />
+  <keys type="npc" key="E_d99_Megantes_002" value="Megantes do Pesadelo" />
+  <keys type="npc" key="E_d99_0_1715_0000" value="Agnas, o Vermelho" />
+  <keys type="npc" key="E_d99_BoneCru03_001" value="Voknos" />
+  <keys type="npc" key="E_d99_0_1801_0000" value="Terror Kerav" />
+  <keys type="npc" key="E_d99_liger_0002" value="Pyludd Terrível" />
+  <keys type="npc" key="e_d99_bonedrag_0002" value="Vylet Abissal" />
+  <keys type="npc" key="E_d24_Hydra02_001" value="Rodesh, o Cruel" />
+  <keys type="npc" key="E_d24_ScorTong_001" value="Martina de Pelúcia" />
+  <keys type="npc" key="E_Event_Rabormi_01" value="Mona Lebrini" />
+  <keys type="npc" key="E_Event_RabEv2M_5" value="Lebrini Doçurinha" />
+  <keys type="npc" key="E_P02_Mphonix_003" value="[Mark] Finion" />
+  <keys type="npc" key="E_P02_IroHors_0003" value="[Mark] Calypos" />
+  <keys type="npc" key="E_P02_Megantes_0003" value="[Mark] Atilla Frenético" />
+  <keys type="npc" key="E_P02_Mphonix_004" value="Finion" />
+  <keys type="npc" key="E_P02_IroHors_0004" value="Calypos" />
+  <keys type="npc" key="E_P02_Megantes_0004" value="Atilla" />
+  <keys type="npc" key="E_Event_Rabormi_02" value="Mona Lebrini" />
+  <keys type="npc" key="E_Event_Rabormi_03" value="Mona Lebrini" />
+  <keys type="npc" key="E_d00_FirePega_004" value="Wandering Calypto" />
+  <keys type="npc" key="E_d01_DarkPega_004" value="Wandering Demonus" />
+  <keys type="npc" key="E_d02_IcePega_004" value="Wandering Hameon" />
+  <keys type="npc" key="E_f03_DrFrBoy0_0004" value="Wandering Poron" />
+  <keys type="npc" key="E_f03_DrFrBoy1_0004" value="Wandering Garilon" />
+  <keys type="npc" key="E_f04_DrFrBoy2_0004" value="Wandering Runelon" />
+  <keys type="npc" key="e_d98_Demos_001" value="Servant" />
+  <keys type="npc" key="e_d98_Laher_001" value="Servant" />
+  <keys type="npc" key="E_d98_icemagician_01" value="Servant" />
+  <keys type="npc" key="E_d98_chaodawiz_02" value="Servant" />
+  <keys type="npc" key="E_P02_bUGarmu_0001" value="Magnatu Ancião" />
+  <keys type="npc" key="E_03_bCaras_0001" value="Ancient Veldon" />
+  <keys type="npc" key="e_f05_bMatura_001" value="Caspert Ancião" />
+  <keys type="npc" key="E_C00_HomiDoll_001" value="Sewing Hameon" />
+  <keys type="npc" key="E_d22_0_RabMer_0005" value="Kaito St. Rabbini" />
+  <keys type="npc" key="E_d22_0_RabMer_0006" value="Kaito Raffan III" />
+  <keys type="npc" key="E_Event_RabSanta_01" value="White Raffan" />
+  <keys type="npc" key="E_Event_RabSanta_02" value="Raffin" />
+  <keys type="npc" key="E_Event_SnowG_01" value="Anniversary Snowman" />
+  <keys type="npc" key="E_Event_SnowB_01" value="Anniversary Snowman" />
+  <keys type="npc" key="E_99_idollroxi_01" value="Burning Roxinus" />
+  <keys type="npc" key="E_99_idollGar_01" value="Garme" />
+  <keys type="npc" key="E_99_idollpano_01" value="Panos" />
+  <keys type="npc" key="E_f08_btoms_1" value="Black Nizea" />
+  <keys type="npc" key="E_Event_Chicken_01" value="I am a chicken" />
+  <keys type="npc" key="E_Event_Chicken_02" value="Running Chicken" />
+  <keys type="npc" key="E_Event_DaeBak_01" value="Jackpot" />
+  <keys type="npc" key="e_d96_mwer_001" value="Lobisomem do Labirinto" />
+  <keys type="npc" key="e_d96_cabeashu_001" value="Esqueleto Poderoso" />
+  <keys type="npc" key="e_d96_armordog_001" value="Cão de Guarda Encouraçado" />
+  <keys type="npc" key="e_d96_evilgirl_001" value="Garota Possuída" />
+  <keys type="npc" key="e_d96_necro_001" value="Necromante do Labirinto" />
+  <keys type="npc" key="e_d96_eviltree_001" value="Abominação Dryath" />
+  <keys type="npc" key="e_d96_Lakan_001" value="Ladrão de Túmulos Amaldiçoado" />
+  <keys type="npc" key="e_d96_Dgarmu_001" value="Erg" />
+  <keys type="npc" key="e_d96_Demos_001" value="Roto" />
+  <keys type="npc" key="e_d96_Laher_001" value="Blaus" />
+  <keys type="npc" key="e_d96_HJack_001" value="Boref, o Líder do Rebanho" />
+  <keys type="npc" key="e_d96_Talos_001" value="Bispo Corrupto Kaishiku" />
+  <keys type="npc" key="e_d96_KrokGener_01" value="Gredis da Terra Morta" />
+  <keys type="npc" key="e_d96_exced_01" value="Espírito Instável" />
+  <keys type="npc" key="e_d96_exced_02" value="Espírito Tóxico" />
+  <keys type="npc" key="e_d96_zombomb_01" value="Múmia Explosiva" />
+  <keys type="npc" key="e_d96_ImmoMagi_01" value="Feiticeiro da Legião Caída" />
+  <keys type="npc" key="e_d96_dstone_01" value="Insígnia da Lua" />
+  <keys type="npc" key="e_d96_dstone_02" value="Insígnia do Fogo" />
+  <keys type="npc" key="e_d96_dstone_03" value="Insígnia da Água" />
+  <keys type="npc" key="e_d96_dstone_04" value="Insígnia da Árvore" />
+  <keys type="npc" key="e_d96_dstone_05" value="Insígnia do Ouro" />
+  <keys type="npc" key="e_d96_dstone_06" value="Insígnia da Terra" />
+  <keys type="npc" key="e_d96_dstone_07" value="Insígnia do Sol" />
+  <keys type="npc" key="e_d96_KrokGener_02" value="Gredis da Terra Morta" />
+  <keys type="npc" key="E_99_0_1501_0003" value="Chaos Lion" />
+  <keys type="npc" key="e_d96_capgreed_01" value="The weakened Leader" />
+  <keys type="npc" key="e_d96_capdevy_01" value="Sweet Devi" />
+  <keys type="npc" key="e_d96_fail_01" value="Destroyed Gem" />
+  <keys type="npc" key="e_d96_golebomb_01" value="Rock Bomb Specimen" />
+  <keys type="npc" key="e_d95_bearpooh_01" value="Campeão do Mel Popo" />
+  <keys type="npc" key="e_d95_bearpooh_02" value="Campeão do Mel Popo" />
+  <keys type="npc" key="e_d95_bismo_01" value="Rei Bêbado Bodil" />
+  <keys type="npc" key="e_d95_bismo_02" value="Rei Bêbado Bodil" />
+  <keys type="npc" key="e_d95_blademaster_01" value="Mestre das Lâminas Brutus" />
+  <keys type="npc" key="e_d95_bragiblade_01" value="Lâmina de Braghin" />
+  <keys type="npc" key="e_d95_bugbomb_01" value="Um Amigo na Estrada" />
+  <keys type="npc" key="E_d95_BugKuro_01" value="Kurodian do Túmulo" />
+  <keys type="npc" key="E_d95_cabesicra_0" value="Shikra Dune" />
+  <keys type="npc" key="e_d95_gargo_02" value="O Sem Nome" />
+  <keys type="npc" key="e_d95_ghoulmdea_01" value="Zumbi Sucumbido" />
+  <keys type="npc" key="e_d95_honeycomb_01" value="Favo de mel" />
+  <keys type="npc" key="E_d95_IlikBug_01" value="Um Amigo na Rua" />
+  <keys type="npc" key="e_d95_KrokGener_01" value="Gredis das Terras Mortas" />
+  <keys type="npc" key="e_d95_madbee_01" value="Abelhas Furiosas" />
+  <keys type="npc" key="e_d95_markree_01" value="Uma Alma Selvagem" />
+  <keys type="npc" key="e_d95_orkus" value="Iren Invejoso" />
+  <keys type="npc" key="e_d95_poisonfrog_01" value="Sapo Dentro do Poço" />
+  <keys type="npc" key="e_d95_poisonfrog_02" value="Sapo Fora do Poço" />
+  <keys type="npc" key="E_d95_SubosMupad_0" value="Zenon dos Revolucionários" />
+  <keys type="npc" key="e_d95_zombieslave_01" value="Zumbi mais fraco" />
+  <keys type="npc" key="e_d95_gargo_01" value="O Sem Nome" />
+  <keys type="npc" key="e_d95_darkmagi_01" value="Bruxo Caído" />
+  <keys type="npc" key="E_C01_CapDevy_01" value="Doce Daveen Enfraquecida" />
+  <keys type="npc" key="E_f00_golebreak_01" value="Tempest Piece" />
+  <keys type="npc" key="E_D95_smallstorm_0" value="Olho da Tempestade" />
+  <keys type="npc" key="e_d95_ghoulmdea_02" value="Zumbi Resistente" />
+  <keys type="npc" key="e_d96_HJack_002" value="Boref, o Líder do Rebanho" />
+  <keys type="npc" key="e_d96_Talos_002" value="Bispo Corrupto Kaishiku" />
+  <keys type="npc" key="e_d95_defencewall_01" value="Parede" />
+  <keys type="npc" key="E_D95_AElephant_001" value="Taisha Despertado" />
+  <keys type="npc" key="E_D95_firestorm_0" value="Tempestade de fogo" />
+  <keys type="npc" key="E_D95_SnomHunt_01" value="Caçador de Yeti" />
+  <keys type="npc" key="E_D95_Snommagi_01" value="Yeti Shaman" />
+  <keys type="npc" key="E_D95_SnomWrrio_01" value="Yeti Bruto" />
+  <keys type="npc" key="E_D95_bragiTrap_1" value="Armadilha de Braghin" />
+  <keys type="npc" key="e_d95_singer_01" value="Chapley Singer" />
+  <keys type="npc" key="E_d22_0_Rabaro_0001" value="Rabbini Aromi" />
+  <keys type="npc" key="E_d22_0_Rabgus_0001" value="Rabbini Raffan IV" />
+  <keys type="npc" key="E_d22_0_Rabsebs_0001" value="Rabbini Hoya" />
+  <keys type="npc" key="E_d22_0_Rabsub_0001" value="Rabbini Vinny" />
+  <keys type="npc" key="E_D25_AElephant_01" value="Teisha of Immensity" />
+  <keys type="npc" key="E_D25_AntuLagen_01" value="Anturagen of Doom" />
+  <keys type="npc" key="E_d25_bUGarmu_01" value="Magnatu Ancião" />
+  <keys type="npc" key="E_D25_CapElder_01" value="Weakened Elder Hakain" />
+  <keys type="npc" key="E_D25_CapJason_01" value="Weakened Jason" />
+  <keys type="npc" key="E_D25_CapRab_01" value="Tyrant Vinisar" />
+  <keys type="npc" key="E_D25_CapRab_03" value="Golden Watermelon of Courage" />
+  <keys type="npc" key="E_D25_CapRab_04" value="Golden Watermelon of Wisdom" />
+  <keys type="npc" key="E_d25_caras_01" value="Karasha the Dark One" />
+  <keys type="npc" key="E_d25_DarkPega_01" value="Wandering Demonus" />
+  <keys type="npc" key="E_d25_DragAgnas_01" value="Paragas the Mad" />
+  <keys type="npc" key="E_d25_DrFrBoy0_01" value="Wandering Poron" />
+  <keys type="npc" key="E_d25_DrFrBoy1_01" value="Wandering Garilon" />
+  <keys type="npc" key="E_d25_DrFrBoy2_01" value="Wandering Runelon" />
+  <keys type="npc" key="E_d25_FirePega_01" value="Wandering Calypto" />
+  <keys type="npc" key="E_d25_IcePega_01" value="Wandering Hameon" />
+  <keys type="npc" key="E_d25_Kagoyle_01" value="Eternal Eregos" />
+  <keys type="npc" key="E_d25_KagoyleA_01" value="Roxinus of Heat Wave" />
+  <keys type="npc" key="E_d25_Karon_001" value="Karon" />
+  <keys type="npc" key="e_d25_Matura_01" value="Venomous Caspert" />
+  <keys type="npc" key="E_d25_Matura_02" value="Lunafont" />
+  <keys type="npc" key="E_D25_MegantesA_01" value="Phyton of Calm" />
+  <keys type="npc" key="E_d25_UGarmu_01" value="Magnatu" />
+  <keys type="npc" key="E_d25_wolf_ghos_01" value="Phantom" />
+  <keys type="npc" key="e_d25_bonedrag_001" value="Abyssal Vylet" />
+  <keys type="npc" key="E_d25_Flyhydra_001" value="Hades of Nemesis" />
+  <keys type="npc" key="E_d25_hydra_1" value="Venotien of Contamination" />
+  <keys type="npc" key="E_d25_Pegasus_001" value="Nightmare" />
+  <keys type="npc" key="e_d25_forlizard_1" value="Dredrum" />
+  <keys type="npc" key="E_Event_RabSummer_01" value="Giant Golden Watermelon" />
+  <keys type="npc" key="E_Event_RabExp_01" value="Rabbini Jeremi" />
+  <keys type="npc" key="E_Event_RabExp_02" value="Rabbini Hatany" />
+  <keys type="npc" key="E_f01_assasin_01" value="Braghin Assassin" />
+  <keys type="npc" key="e_f01_bragfire_01" value="Mutokan" />
+  <keys type="npc" key="e_f01_bragtree_01" value="Pouracun" />
+  <keys type="npc" key="e_f01_bragwater_01" value="Maja" />
+  <keys type="npc" key="e_f01_bragwind_01" value="Matto Pecun" />
+  <keys type="npc" key="E_f01_coldwisp_01" value="Angry Ice Wisp" />
+  <keys type="npc" key="E_f01_ddoongsha_01" value="Yatuman" />
+  <keys type="npc" key="E_f01_fighter_01" value="Braghin Ghost" />
+  <keys type="npc" key="E_f01_fireTenta_0" value="Burning Giant Tentacle" />
+  <keys type="npc" key="E_f01_firewisp_01" value="Angry Fire Wisp" />
+  <keys type="npc" key="E_f01_hunter_01" value="Braghin Hunter" />
+  <keys type="npc" key="E_f01_shaman_01" value="Braghin Priest" />
+  <keys type="npc" key="E_f01_thief_01" value="Braghin Fighter" />
+  <keys type="npc" key="E_f01_treewisp_01" value="Angry Tree Wisp" />
+  <keys type="npc" key="E_f01_warrior_01" value="Braghin Fighter" />
+  <keys type="npc" key="E_f01_waterTenta_0" value="Frozen Giant Tentacle" />
+  <keys type="npc" key="e_f01_wormlava_01" value="Contaminated Worm Larva" />
+  <keys type="npc" key="E_D25_afohorse_1" value="Profane Apocalypse" />
+  <keys type="npc" key="E_f01_bragassa_01" value="First Braghin Attacker" />
+  <keys type="npc" key="E_f01_bragbaba_01" value="First Leader Baba" />
+  <keys type="npc" key="E_f01_bragbowsol_01" value="First Braghin Archer" />
+  <keys type="npc" key="E_f01_bragworker_01" value="Braghin Worker" />
+  <keys type="npc" key="E_f01_hungrywolf_01" value="Hungry Wolf" />
+  <keys type="npc" key="E_f01_soldier_01" value="Braghin Fighter" />
+  <keys type="npc" key="E_f01_soldier_02" value="Ambushing Braghin Solder" />
+  <keys type="npc" key="E_f01_soldier_03" value="Braghin Chaser" />
+  <keys type="npc" key="E_f01_bragassa_02" value="Braghin Perseguidor" />
+  <keys type="npc" key="E_f01_bragserch_01" value="First Braghin Looter" />
+  <keys type="npc" key="E_f01_soldier_04" value="Braghin Transporter" />
+  <keys type="npc" key="E_f01_bragfight_01" value="First Braghin Barbarian" />
+  <keys type="npc" key="E_f01_charger_01" value="First Braghin Raider" />
+  <keys type="npc" key="E_f01_charger_01Derail" value="" />
+  <keys type="npc" key="E_f01_hammer_01" value="Braghin Worker" />
+  <keys type="npc" key="E_f01_hammer_02" value="Braghin Worker" />
+  <keys type="npc" key="E_f01_charger_02" value="Braghin Raider" />
+  <keys type="npc" key="E_f01_bragbamu_01" value="Charge Commander Bamu" />
+  <keys type="npc" key="E_f01_bragbowsol_02" value="Braghin Archer" />
+  <keys type="npc" key="E_f01_hammer_03" value="Braghin Worker" />
+  <keys type="npc" key="E_f01_bragata_01" value="Braghin Militant Gata" />
+  <keys type="npc" key="E_f01_bragcapti_01" value="Braghin Headquarters Captain" />
+  <keys type="npc" key="E_f01_bragguard_02" value="Braghin Raider" />
+  <keys type="npc" key="E_f01_bragguard_03" value="Braghin Raider" />
+  <keys type="npc" key="E_f01_bragbowcu_01" value="Sharpshooter Kuku" />
+  <keys type="npc" key="E_f01_bragdagda_01" value="Distributor Dagda" />
+  <keys type="npc" key="E_f01_braggag_01" value="Senior Shamon Gag" />
+  <keys type="npc" key="E_f01_bragguard_01" value="Braghin Guard" />
+  <keys type="npc" key="E_f01_charger_03" value="Braghin Messager" />
+  <keys type="npc" key="E_f01_charger_04" value="Braghin Scout" />
+  <keys type="npc" key="E_f01_fightantu_01" value="Barbarian Antu" />
+  <keys type="npc" key="E_F01_YFireBird_0" value="Young Firebird" />
+  <keys type="npc" key="E_F01_YFireBird_1" value="Young Firebird" />
+  <keys type="npc" key="E_f01_altarwork_01" value="[Elite] Altar Worker" />
+  <keys type="npc" key="E_f01_altarwork_02" value="[Elite] Altar Worker" />
+  <keys type="npc" key="E_f01_altarwork_03" value="[Elite] Altar Worker" />
+  <keys type="npc" key="E_f01_altarwork_04" value="[Elite] Altar Worker" />
+  <keys type="npc" key="E_f01_altarwork_05" value="[Elite] Altar Worker" />
+  <keys type="npc" key="E_f01_braghamal_01" value="[Elite] Captain Hamal" />
+  <keys type="npc" key="E_f01_bragkerk_01" value="[Elite] Slayer Kerk" />
+  <keys type="npc" key="E_f01_bragsniper_01" value="[Elite] Yatuman's Grand Sharpshooter" />
+  <keys type="npc" key="E_f01_bragsniper_02" value="[Elite] Yatuman's Grand Sharpshooter" />
+  <keys type="npc" key="E_f01_bragsniper_03" value="[Elite] Yatuman's Grand Sharpshooter" />
+  <keys type="npc" key="E_f01_fightyama_01" value="[Elite] Yatuman's Barbarian" />
+  <keys type="npc" key="E_f01_fightyama_02" value="[Elite] Yatuman's Barbarian" />
+  <keys type="npc" key="E_f01_fightyama_03" value="[Elite] Yatuman's Barbarian" />
+  <keys type="npc" key="E_f01_ghosddo_01" value="Yatuman's Illusion" />
+  <keys type="npc" key="E_f01_ghosddo_02" value="Yatuman's Illusion" />
+  <keys type="npc" key="E_f01_highguard_01" value="[Elite] Yatuman's Grand Fighter" />
+  <keys type="npc" key="E_f01_highguard_02" value="[Elite] Yatuman's Grand Fighter" />
+  <keys type="npc" key="E_f01_highguard_03" value="[Elite] Yatuman's Grand Fighter" />
+  <keys type="npc" key="E_f01_highsha_01" value="[Elite] Yatuman's Priest" />
+  <keys type="npc" key="E_f01_highsha_02" value="[Elite] Yatuman's Priest" />
+  <keys type="npc" key="E_f01_highsha_03" value="[Elite] Yatuman's Priest" />
+  <keys type="npc" key="E_f01_highsha_04" value="[Elite] Yatuman's Priest" />
+  <keys type="npc" key="E_f01_highsha_05" value="[Elite] Yatuman's Priest" />
+  <keys type="npc" key="E_f01_highsha_06" value="[Elite] Yatuman's Priest" />
+  <keys type="npc" key="E_f01_highshaum_01" value="[Elite] High Priest Lakun" />
+  <keys type="npc" key="e_f04_FlyRay_002" value="Awakened Jumawu" />
+  <keys type="npc" key="E_F04_elecball_0" value="Jumawu Nucleus" />
+  <keys type="npc" key="e_f04_flybabray_005" value="Keniz" />
+  <keys type="npc" key="e_f04_flybabray_006" value="Kumis" />
+  <keys type="npc" key="E_f01_bragpatrol_01" value="[Elite] Braghin Patrol" />
+  <keys type="npc" key="E_f01_highguard_04" value="[Elite] Yatuman's Grand Fighter" />
+  <keys type="npc" key="E_f01_bragbowman_01" value="Braghin Sharpshooter" />
+  <keys type="npc" key="E_f01_yatueye_01" value="Yatuman's Eye" />
+  <keys type="npc" key="E_f04_raywisp_01" value="Floating Current" />
+  <keys type="npc" key="e_f04_flybabray_007" value="Jumawu Subspecies" />
+  <keys type="npc" key="E_f01_bartrow_01" value="Baltrow of Mazu" />
+  <keys type="npc" key="E_r01_altarpotal_01" value="Eastern Altar Portal" />
+  <keys type="npc" key="E_r01_altarpotal_02" value="Western Altar Portal" />
+  <keys type="npc" key="E_r01_altarpotal_03" value="Northern Altar Portal" />
+  <keys type="npc" key="E_f01_ghosddo_03" value="Yatuman's Illusion" />
+  <keys type="npc" key="e_f01_bragfire_02" value="Mutokan" />
+  <keys type="npc" key="e_f01_bragtree_02" value="Pouracun" />
+  <keys type="npc" key="e_f01_bragwater_02" value="Maja" />
+  <keys type="npc" key="e_f01_bragwind_02" value="Matto Pecun" />
+  <keys type="npc" key="E_f01_ddoongsha_03" value="Yatuman" />
+  <keys type="npc" key="E_f01_fireTenta_1" value="Burning Giant Tentacle" />
+  <keys type="npc" key="E_f01_ghosddo_04" value="Yatuman's Illusion" />
+  <keys type="npc" key="E_f01_waterTenta_1" value="Frozen Giant Tentacle" />
+  <keys type="npc" key="e_f01_wormlava_03" value="Contaminated Worm Larva" />
+  <keys type="npc" key="E_r01_yatufire_01" value="Yatuman" />
+  <keys type="npc" key="E_r01_yatufire_02" value="Yatuman" />
+  <keys type="npc" key="E_P01_EventRab_01" value="Rabbini Dagri" />
+  <keys type="npc" key="E_D23_RaBormi_01" value="Rabbini Bormi" />
+  <keys type="npc" key="E_f01_shaman_02" value="Braghin Priest" />
+  <keys type="npc" key="E_P02_NightMare_001" value="Nightmare of Courage" />
+  <keys type="npc" key="E_P02_NightMare_002" value="Nightmare of Wisdom" />
+  <keys type="npc" key="E_ev_ddoongsha_01" value="Yatuman" />
+  <keys type="npc" key="E_ev_fireTenta_0" value="Burning Giant Tentacle" />
+  <keys type="npc" key="E_ev_waterTenta_0" value="Frozen Giant Tentacle" />
+  <keys type="npc" key="e_ev_wormlava_01" value="Contaminated Worm Larva" />
+  <keys type="npc" key="E_P02_Crable_01" value="Kravel do Caos" />
+  <keys type="npc" key="E_P02_Danjelion_01" value="Danzelion da Bravura" />
+  <keys type="npc" key="E_P02_Danjelion_02" value="Danzelion da Sabedoria" />
+  <keys type="npc" key="E_P02_EliteSkull_01" value="[Elite] Knight that can not die" />
+  <keys type="npc" key="E_ev_Rudolph_01" value="Rudolph of Light" />
+  <keys type="npc" key="e_e02_elfrab_01" value="Elbini" />
+  <keys type="npc" key="E_e02_santarab_01" value="Santana" />
+  <keys type="npc" key="e_e02_elfrab_02" value="Elbini" />
+  <keys type="npc" key="E_e02_santarab_02" value="Santana" />
+  <keys type="npc" key="E_e02_Whale_1" value="Titã do Céu de Natal" />
+  <keys type="npc" key="E02_Bigbox_S" value="Caixa de Presentes Chamativa" />
+  <keys type="npc" key="E02_Bigbox_A" value="Caixa de Presentes Chamativa" />
+  <keys type="npc" key="E_Event_RabOlym_01" value="Lebrini Selvagem" />
+  <keys type="npc" key="E_Event_RabOlym_02" value="Lebrini Feroz" />
+  <keys type="npc" key="E_Event_RabOlym_03" value="Lebrini Valentão" />
+  <keys type="npc" key="E_Event_RabOlym_04" value="Chefe Lebrini" />
+  <keys type="npc" key="E_Event_BearOlym_01" value="Meia-Lua" />
+  <keys type="npc" key="E_P02_EliteMagi_01" value="[Elite] Priest who lost his self" />
+  <keys type="npc" key="E_P02_EliteBrute_01" value="[Elite] Warrior who lost reason" />
+  <keys type="npc" key="E_P02_EliteWarr_01" value="[Elite] Hero who lost honor" />
+  <keys type="npc" key="E_Event_Gdragon_01" value="Demoroth Infernal Dourado" />
+  <keys type="npc" key="E_Event_bmchwolf_01" value="Shining mecca ghost" />
+  <keys type="npc" key="E_Event_SewWhaleC_01" value="Shining Lovely Whale" />
+  <keys type="npc" key="E_Event_Crable_01" value="Chaos" />
+  <keys type="npc" key="E_Event_Danjelion_01" value="Dangelion of Valor" />
+  <keys type="npc" key="E_Event_Danjelion_02" value="Dangelion of Wisdom" />
+  <keys type="npc" key="E_Event_FoxEloraa_01" value="Sacred alkanine" />
+  <keys type="npc" key="E_Event_Antares_01" value="Anger Antares" />
+  <keys type="npc" key="E_Event_Antares_02" value="Cool Antares" />
+  <keys type="npc" key="E_Event_Gdragon_02" value="Aldras" />
+  <keys type="npc" key="E_Event_bmchwolf_02" value="Shining mecca ghost" />
+  <keys type="npc" key="E_Event_SewWhaleC_02" value="Shining Lovely Whale" />
+  <keys type="npc" key="E_Event_FoxEloraa_02" value="Sacred alkanine" />
+  <keys type="npc" key="E_Event_RUWC_02" value="Urso-Pardo Lebrini" />
+  <keys type="npc" key="E_Event_ConGold_01" value="Wires of Wires" />
+  <keys type="npc" key="E_Event_RabMer_001" value="Melancia Lebrini" />
+  <keys type="npc" key="E_Event_Rabormi_04" value="Ravini Jormi" />
+  <keys type="npc" key="e_c01_spirwisp_01" value="Espírito Maligno" />
+  <keys type="npc" key="E_CabeShuraA_01" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_02" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_03" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_04" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_05" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_06" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_11" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_22" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_33" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_44" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_55" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraA_66" value="Dullahan" />
+  <keys type="npc" key="E_na_Event_01" value="Dullahan" />
+  <keys type="npc" key="E_CabeShuraB_01" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_02" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_03" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_04" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_05" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_06" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_11" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_22" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_33" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_44" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_55" value="Dullahan Abissal" />
+  <keys type="npc" key="E_CabeShuraB_66" value="Dullahan Abissal" />
+  <keys type="npc" key="E_Event_Rabormi_05" value="Ladrão Real Lebrini" />
+  <keys type="npc" key="E_Event_Agnas_01" value="Agnas Glacial" />
+  <keys type="npc" key="E_D11_RedrCrotus_P01" value="Cractus Instável" />
+  <keys type="npc" key="E_D11_RedrCrotus_P03" value="Cractus Enlouquecido" />
+  <keys type="npc" key="E_D11_RedrCrotus_P05" value="Sombra de Cractus" />
+  <keys type="npc" key="E_D11_RedrCrotus_B02" value="Fantasma de Cractus" />
+  <keys type="npc" key="E_D11_RedrCrotus_B03" value="Fantasma de Cractus" />
+  <keys type="npc" key="E_D11_RedrCrotus_sm1" value="Hawston Reanimado" />
+  <keys type="npc" key="E_D11_RedrCrotus_sm2" value="Zenon Reanimado" />
+  <keys type="npc" key="E_D11_RedrCrotus_sm3" value="Lazart Reanimado" />
+  <keys type="npc" key="E_D11_RedrCrotus_sm4" value="Shakis Reanimado" />
+  <keys type="npc" key="E_D11_RedrCrotus_B01" value="Cractus" />
+  <keys type="npc" key="E_D11_Dstone_01" value="Manastone Carmesim" />
+  <keys type="npc" key="E_D11_RedrCrotus_P07" value="Sombra de Cractus" />
+  <keys type="npc" key="E_D11_RedrCrotus_B09" value="Fantasma de Cractus" />
+  <keys type="npc" key="E_D11_RedrCrotus_P08" value="Fantasma de Cractus" />
+  <keys type="npc" key="E_Event_Rabormi_06" value="Ravini Jormi" />
+  <keys type="npc" key="E_D88_hydra_h01" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h02" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h03" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_b01" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_mong_001" value="Guardião do Refúgio" />
+  <keys type="npc" key="E_D88_monw_001" value="Lacaio do Refúgio" />
+  <keys type="npc" key="E_D88_monb_001" value="Arqueiro do Refúgio" />
+  <keys type="npc" key="E_D88_mont_001" value="Assassino do Refúgio" />
+  <keys type="npc" key="E_D88_mongc_001" value="Porteiro do Refúgio" />
+  <keys type="npc" key="E_D88_mons_001" value="Guarda de Pedra do Refúgio" />
+  <keys type="npc" key="E_D88_nid_001" value="Niidemble, a Chama" />
+  <keys type="npc" key="E_D88_fold_001" value="Foldserra, a Tempestade" />
+  <keys type="npc" key="E_D88_quad_001" value="Quadrakan, o Sucessor" />
+  <keys type="npc" key="E_D88_quad_002" value="Quadrakan, o Sucessor" />
+  <keys type="npc" key="E_D88_quad_003" value="Quadrakan, o Sucessor" />
+  <keys type="npc" key="E_D88_statue_01" value="Estátua Corroída da Deusa" />
+  <keys type="npc" key="E_D88_hydra_b02" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h04" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h05" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h06" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_b03" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_es_01" value="Cabeça da Estátua da Grande Deusa" />
+  <keys type="npc" key="E_D88_es_02" value="Estátua da Grande Deusa" />
+  <keys type="npc" key="E_D88_es_03" value="Estátua das Asas da Grande Deusa" />
+  <keys type="npc" key="E_D88_Thunder_001" value="Nuvem da Tempestade" />
+  <keys type="npc" key="E_D88_monbs_001" value="Arqueiro do Refúgio" />
+  <keys type="npc" key="E_D88_nidfire_001" value="Flame board" />
+  <keys type="npc" key="E_d88_trap_0" value="Nooe trap" />
+  <keys type="npc" key="E_d88_fold_002" value="Shadow" />
+  <keys type="npc" key="E_D88_hydra_h07" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h08" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h09" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h10" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h11" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h12" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_b04" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h13" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h14" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h15" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_b05" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h16" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h17" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_h18" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_hydra_b06" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_D88_startdoor_01" value="Old iron gate" />
+  <keys type="npc" key="E_D88_modeltest_002" value="Guardian" />
+  <keys type="npc" key="E_D88_nidstone_001" value="Water energy" />
+  <keys type="npc" key="E_D88_nidstone_002" value="Water energy" />
+  <keys type="npc" key="E_D88_nidstone_003" value="Water energy" />
+  <keys type="npc" key="E_D88_nidstone_004" value="Water energy" />
+  <keys type="npc" key="E_D88_quad_004" value="Succession Quadrakan" />
+  <keys type="npc" key="E_D88_waterdar_001" value="Fabulion de Sangue Frio" />
+  <keys type="npc" key="E_D88_waterdar_002" value="Fabulion de Sangue Frio" />
+  <keys type="npc" key="E_D88_waterdar_003" value="Fabulion de Sangue Frio" />
+  <keys type="npc" key="E_D92_CatSpirun_01" value="Moonlight" />
+  <keys type="npc" key="E_D92_CatSpirun_02" value="Spheroon Luz do Luar" />
+  <keys type="npc" key="E_D92_Rabini_001" value="Lavini" />
+  <keys type="npc" key="E_D92_CatSpirun_03" value="Spheroon Luz Estelar" />
+  <keys type="npc" key="E_D92_CatSpirun_04" value="Starlight Yeongwol Spiroon" />
+  <keys type="npc" key="E_HallowGhost_001" value="Fantasma de Alegria" />
+  <keys type="npc" key="E_HallowGhost_002" value="Fantasma da Inocência" />
+  <keys type="npc" key="E_HallowGhost_003" value="Fantasma da Paixão" />
+  <keys type="npc" key="E_HallowDoll_001" value="Wolf" />
+  <keys type="npc" key="E_HallowDoll_002" value="Poeion Doll" />
+  <keys type="npc" key="E_HallowDoll_003" value="Karasha doll" />
+  <keys type="npc" key="E_HallowMagi_004" value="Dream" />
+  <keys type="npc" key="E_HallowGhost_004" value="Naughty ghost" />
+  <keys type="npc" key="E_HallowGhost_005" value="The ghost I want to play" />
+  <keys type="npc" key="E_HallowGhost_006" value="Always angered ghost" />
+  <keys type="npc" key="E_f08_Badcat_01" value="Akdong Snout" />
+  <keys type="npc" key="E_f08_Moondog_01" value="Moon Catcher" />
+  <keys type="npc" key="E_Spirwisp_001" value="Chronos" />
+  <keys type="npc" key="E_SteamFlyWolf_001" value="Torkai" />
+  <keys type="npc" key="E_SteamFlyWolf_002" value="Powerful Torkai" />
+  <keys type="npc" key="E_ricecake_01" value="Suspicious cow" />
+  <keys type="npc" key="E_jellybear_01" value="Urso de Morango" />
+  <keys type="npc" key="E_jellybear_02" value="Urso de Maçã" />
+  <keys type="npc" key="E_jellybear_03" value="Urso de Soda" />
+  <keys type="npc" key="E_jellybear_04" value="Urso d eDoce" />
+  <keys type="npc" key="E_jellybear_05" value="Urso de Doce fatiado" />
+  <keys type="npc" key="E_jellybear_06" value="Ursinho de Morango" />
+  <keys type="npc" key="E_jellybear_07" value="Ursinho de Maçã" />
+  <keys type="npc" key="E_jellybear_08" value="Ursinho de Soda" />
+  <keys type="npc" key="E_jellybear_09" value="Ursinho de Doce" />
+  <keys type="npc" key="E_jellybear_10" value="Ursinho de Doce fatiado" />
+  <keys type="npc" key="E_myJellyBear_01" value="Urso de Morango" />
+  <keys type="npc" key="E_myJellyBear_02" value="Urso de Maçã" />
+  <keys type="npc" key="E_myJellyBear_03" value="Urso de Soda" />
+  <keys type="npc" key="E_Eighth_01" value="Aits who found the wrong place" />
+  <keys type="npc" key="E_HellvenDog_01" value="Red Helvendog" />
+  <keys type="npc" key="E_HellvenDog_02" value="Black Helvendog" />
+  <keys type="npc" key="E_HellvenDog_03" value="Red Helvendog" />
+  <keys type="npc" key="E_HellvenDog_04" value="Black Helvendog" />
+  <keys type="npc" key="E_whatCow_01" value="Strange cow" />
+  <keys type="npc" key="E_HowCow_01" value="Suspicious cow" />
+  <keys type="npc" key="E_DogBalloon_01" value="Blue dog balloon" />
+  <keys type="npc" key="E_DogBalloon_02" value="Yellow dog balloon" />
+  <keys type="npc" key="E_f08_Moondog_02" value="Moon Catcher" />
+  <keys type="npc" key="E_HallowMagi_005" value="Dream" />
+  <keys type="npc" key="E_Event_Crable_02" value="Chaos" />
+  <keys type="npc" key="E_Event_Danjelion_03" value="Danzelion" />
+  <keys type="npc" key="E_Event_Danjelion_04" value="Dangelion" />
+  <keys type="npc" key="E_Event_Agnas_02" value="Ice Marryong Agnas" />
+  <keys type="npc" key="E_SteamFlyWolf_003" value="Torkai of time" />
+  <keys type="npc" key="E_Event_Antares_03" value="Furious Antares" />
+  <keys type="npc" key="E_Event_Antares_04" value="Benevolent Antares" />
+  <keys type="npc" key="Bonedragon_01" value="Skeleton Dragon" />
+  <keys type="npc" key="E_Event_Rabini_001" value="Mecha Thief Rabbini" />
+  <keys type="npc" key="E_Event_WBanana_001" value="White Chocolate Banana" />
+  <keys type="npc" key="E_Event_PBanana_001" value="Pink chocolate banana" />
+  <keys type="npc" key="E_Event_MBanana_001" value="Mint Choco Banana" />
+  <keys type="npc" key="E_FunnyFriend_01" value="MR Funny" />
+  <keys type="npc" key="E_FunnyFriend_02" value="MR Funny" />
+  <keys type="npc" key="E_FunnyFriend_03" value="Mini betapery" />
+  <keys type="npc" key="E_Event_GhoulM_01" value="Soul" />
+  <keys type="npc" key="E_Event_GhoulW_01" value="Soul" />
+  <keys type="npc" key="E_Event_HGhost_01" value="A floating Yeongdu ghost" />
+  <keys type="npc" key="E_Event_HGhost_02" value="A wandering purple ghost" />
+  <keys type="npc" key="E_Event_HGhost_03" value="Yellow ghost" />
+  <keys type="npc" key="e_f04_FlyRay_003" value="Destruction predator Zmeu" />
+  <keys type="npc" key="e_f04_FlyRay_004" value="Awakening" />
+  <keys type="npc" key="E_WR_Quad_001" value="Quadracan Exarahn" />
+  <keys type="npc" key="E_D88_waterdar_004" value="Red Leviathan" />
+  <keys type="npc" key="E_D88_waterdar_005" value="Green Leviathan" />
+  <keys type="npc" key="E_WR_Crable_01" value="Shadow Dragon" />
+  <keys type="npc" key="E_waterdarFriend_001" value="Green Leviathan" />
+  <keys type="npc" key="E_waterdarFriend_002" value="Red Leviathan" />
+  <keys type="npc" key="E_Event_HaSkull_01" value="Kalibago" />
+  <keys type="npc" key="E_Event_HaFolWer_01" value="Follower" />
+  <keys type="npc" key="E_Event_HaBat_01" value="Kalibaago Bat" />
+  <keys type="npc" key="E_FishFriend_01" value="Young bride" />
+  <keys type="npc" key="E_FishFriend_02" value="Young bridegroom" />
+  <keys type="npc" key="E_FishFriend_03" value="Pure white crucian" />
+  <keys type="npc" key="E_Event_SnowDeer_01" value="Serbas" />
+  <keys type="npc" key="E_Event_BombStone_01" value="Ice bomb" />
+  <keys type="npc" key="E_Event_SnowMan_01" value="Pollution of polluted eyes" />
+  <keys type="npc" key="E_Event_SnowMan_02" value="Tendon" />
+  <keys type="npc" key="E_Event_SnowWisp_01" value="Winter spirit" />
+  <keys type="npc" key="E_waterdarFriend_003" value="Leviathan" />
+  <keys type="npc" key="E_waterdarFriend_004" value="Green Leviathan" />
+  <keys type="npc" key="E_waterdarFriend_005" value="Red Leviathan" />
+  <keys type="npc" key="E_Event_2021Tiger_01" value="Contrast" />
+  <keys type="npc" key="E_Event_2021Tiger_02" value="Contrast" />
+  <keys type="npc" key="E_Event_ChibiSkill01" value="Space cat doll" />
+  <keys type="npc" key="E_Event_ChibiSkill02" value="Pony" />
+  <keys type="npc" key="E_Event_ChibiSkill03" value="Wolf" />
+  <keys type="npc" key="E_Event_seahorse" value="Prudent" />
+  <keys type="npc" key="E_Event_fishfloat" value="I feel it" />
+  <keys type="npc" key="E_Event_Agulh" value="Sangja Agul" />
+  <keys type="npc" key="E_Event_Candyspir" value="Candy thief fairy" />
+  <keys type="npc" key="E_Event_Quad_001" value="Exciting" />
+  <keys type="npc" key="E_Event_dog_001" value="Right wing foot" />
+  <keys type="npc" key="E_Event_dog_002" value="Left wing foot" />
+  <keys type="npc" key="E_Event_DragBF_001" value="Glicínia Florescente" />
+  <keys type="npc" key="E_Event_DragPPer_001" value="[Evento] Fade Gélido Azul" />
+  <keys type="npc" key="E_Event_DragPPer_002" value="[Evento] Fade da Paixão Vermelha" />
+  <keys type="npc" key="E_Event_Rabini8_001" value="Lebrini Ladrão de Banana" />
+  <keys type="npc" key="E_Event_Rabini8_002" value="Lebrini Fingido Doce" />
+  <keys type="npc" key="E_Event_Rabini8_003" value="Lebrini Fingido Fresco" />
+  <keys type="npc" key="E_Event_Rabini8_004" value="Lebrini Fingido Amargo" />
+  <keys type="npc" key="E_Event_Cturtle_001" value="Acácia Sombria" />
+  <keys type="npc" key="E_Event_Cturtle_002" value="Acácia Sombria" />
+  <keys type="npc" key="E_Event_Cturtle_003" value="Acácia Sombria" />
+  <keys type="npc" key="E_Event_Gturtle_001" value="Acácia Mal-humorada" />
+  <keys type="npc" key="E_Event_Gturtle_002" value="Acácia Mal-humorada" />
+  <keys type="npc" key="E_Event_Gturtle_003" value="Acácia Mal-humorada" />
+  <keys type="npc" key="E_Event_Bturtle_001" value="Acácia Enfraquecida" />
+  <keys type="npc" key="E_Event_Bturtle_002" value="Acácia Enfraquecida" />
+  <keys type="npc" key="E_Event_Bturtle_003" value="Acácia Enfraquecida" />
+  <keys type="npc" key="E_Event_Wolfman_001" value="Full Moon Werwolf" />
+  <keys type="npc" key="E_Event_Mrabini_001" value="Festival" />
+  <keys type="npc" key="E_Event_Snake_001" value="Moon snake" />
+  <keys type="npc" key="E_event_eGhost_01" value="Demônio de Batalha" />
+  <keys type="npc" key="E_event_eGhost_02" value="Demônio de Criação" />
+  <keys type="npc" key="E_event_eGhost_03" value="Demônio de Crescimento" />
+  <keys type="npc" key="E_event_eGhost_04" value="Demônio Bebê" />
+  <keys type="npc" key="E_ghostpumpkinboom" value="bomba de abóbora" />
+  <keys type="npc" key="E_Deli_Poyo_01" value="Cupido Poyo" />
+  <keys type="npc" key="E_Deli_Poyo_02" value="Portador do amor" />
+  <keys type="npc" key="E_Deli_Poyo_03" value="Deliveryman Poyo" />
+  <keys type="npc" key="E_event_Yeti_01" value="Mao Desperto" />
+  <keys type="npc" key="E_event_Yeti_02" value="Clone de Thio" />
+  <keys type="npc" key="E_event_Yeti_03" value="um grande boneco de neve" />
+  <keys type="npc" key="E_event_Yeti_04" value="um pequeno boneco de neve" />
+  <keys type="npc" key="E_event_xRudolph_01" value="Rudolph Golpista" />
+  <keys type="npc" key="E_event_xsnowgman_01" value="Olaf Golpista" />
+  <keys type="npc" key="E_event_xsanta_01" value="Lapang Golpista" />
+  <keys type="npc" key="e_event_whiteIRR_01" value="Minha melhor amiga, Pérola  de Arroz" />
+  <keys type="npc" key="e_event_PinkIRR_01" value="Minha melhor amiga, Pérola de Pêssego" />
+  <keys type="npc" key="e_event_GreenIRR_01" value="Minha melhor amiga, Pérola de Ervas" />
+  <keys type="npc" key="e_event_PurpleIRR_01" value="Minha melhor amiga, Pérola de Mirtilo" />
+  <keys type="npc" key="e_event_flowerIRR_01" value="Minha melhor amiga, Pérola de Flor" />
+  <keys type="npc" key="e_event_SnowIRR_01" value="Minha melhor amiga, Pérola de Neve" />
+  <keys type="npc" key="e_event_fairyf_01" value="Pérola de Fada" />
+  <keys type="npc" key="e_event_Kumadori_01" value="Remanescente Dourado da Caverna Kumadori" />
+  <keys type="npc" key="e_event_Kumadori_02" value="Remanescentes da Caverna Kumadori" />
+  <keys type="npc" key="E_d89_es_01" value="Cabeça da Estátua da Grande Deusa" />
+  <keys type="npc" key="E_d89_es_02" value="Estátua da Grande Deusa" />
+  <keys type="npc" key="E_d89_es_03" value="Estátua das Asas da Grande Deusa" />
+  <keys type="npc" key="E_d89_fold_001" value="Foldserra, a Tempestade" />
+  <keys type="npc" key="E_d89_fold_002" value="Shadow Killer" />
+  <keys type="npc" key="E_d89_hydra_b01" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_b02" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_b03" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_b04" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_b05" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_b06" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h01" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h02" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h03" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h04" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h05" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h06" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h07" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h08" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h09" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h10" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h11" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h12" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h13" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h14" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h15" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h16" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h17" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_hydra_h18" value="Portão de Pedra do Dragão" />
+  <keys type="npc" key="E_d89_modeltest_002" value="Hideout Guard Captain" />
+  <keys type="npc" key="E_d89_monb_001" value="Arqueiro do Refúgio" />
+  <keys type="npc" key="E_d89_monbs_001" value="Arqueiro do Refúgio" />
+  <keys type="npc" key="E_d89_mong_001" value="Guardião do Refúgio" />
+  <keys type="npc" key="E_d89_mongc_001" value="Porteiro do Refúgio" />
+  <keys type="npc" key="E_d89_mons_001" value="Guarda de Pedra do Refúgio" />
+  <keys type="npc" key="E_d89_mont_001" value="Assassino do Refúgio" />
+  <keys type="npc" key="E_d89_monw_001" value="Lacaio do Refúgio" />
+  <keys type="npc" key="E_d89_nid_001" value="Niidemble, a Chama" />
+  <keys type="npc" key="E_d89_nidfire_001" value="Fire Floor" />
+  <keys type="npc" key="E_d89_nidstone_001" value="Aura of Water" />
+  <keys type="npc" key="E_d89_nidstone_002" value="Aura of Water" />
+  <keys type="npc" key="E_d89_nidstone_003" value="Aura of Water" />
+  <keys type="npc" key="E_d89_nidstone_004" value="Aura of Water" />
+  <keys type="npc" key="E_d89_quad_001" value="Quadrakan, o Sucessor" />
+  <keys type="npc" key="E_d89_quad_002" value="Quadrakan, o Sucessor" />
+  <keys type="npc" key="E_d89_quad_003" value="Quadrakan, o Sucessor" />
+  <keys type="npc" key="E_d89_quad_004" value="Heir Quadrakan" />
+  <keys type="npc" key="E_d89_startdoor_01" value="Old iron door" />
+  <keys type="npc" key="E_d89_statue_01" value="Estátua Corroída da Deusa" />
+  <keys type="npc" key="E_d89_Thunder_001" value="Nuvem da Tempestade" />
+  <keys type="npc" key="E_d89_trap_0" value="Noose Trap" />
+  <keys type="npc" key="E_d89_waterdar_001" value="Fabulion de Sangue Frio" />
+  <keys type="npc" key="E_d89_waterdar_002" value="Fabulion de Sangue Frio" />
+  <keys type="npc" key="E_d89_waterdar_003" value="Fabulion de Sangue Frio" />
+  <keys type="npc" key="E_d89_waterdar_004" value="Pabulion of Inferno" />
+  <keys type="npc" key="E_d89_waterdar_005" value="Pabulion of the New Moon" />
+  <keys type="npc" key="e_event_dragon_01" value="Flor de Cerejeira de Karasha" />
+  <keys type="npc" key="e_event_whitebuty_01" value="Beleza Perdida da Flor Branca" />
+  <keys type="npc" key="e_event_pinkbuty_01" value="Beleza Perdida da Flor Rosa" />
+  <keys type="npc" key="e_event_Moth_01" value="Muscat Moth" />
+  <keys type="npc" key="e_event_blackRabini" value="Black Rabbit Tikitaka" />
+  <keys type="npc" key="e_event_crow_01" value="Crow's bird" />
+</files>

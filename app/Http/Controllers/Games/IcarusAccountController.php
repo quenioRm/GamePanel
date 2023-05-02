@@ -9,6 +9,7 @@ use App\Models\Game\Character\TableGuildBase;
 use App\Models\Game\User\TableUser;
 use App\Models\Game\Log\TableCharacterItemQueue;
 use App\Models\Game\Log\GuildMarkHistory;
+use App\Helpers\Functions;
 
 class IcarusAccountController extends Controller
 {
@@ -61,5 +62,16 @@ class IcarusAccountController extends Controller
     public function UpdateGuildMark($characterId, $guildMarkId)
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableGuildBase::UpdateGuildMark($characterId, $guildMarkId), 'returnUrl' => '' ], 200);
+    }
+
+    public function GetResumeCharacter(Request $request)
+    {
+        $accountLang = $request->header('Accept-Language');
+
+        $account = $request->account;
+        $characterId = $request->characterId;
+        $online = $request->online;
+
+        return response()->json(['resultCode' => 1000, 'resultMsg' => TableCharacter::GetResumeCharacter($account, $characterId, $online, $accountLang), 'returnUrl' => '' ], 200);
     }
 }

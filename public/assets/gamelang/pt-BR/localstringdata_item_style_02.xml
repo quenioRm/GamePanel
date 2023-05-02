@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="item" key="CA_ST_CM_0231" value="Manto Taiji (30 dias)" />
+  <keys type="item" key="MS_ST_CM_0006" value="Arma Pristina de Conquistador de Stygaea (6 dias)" />
+  <keys type="item" key="CA_ST_CM_0258" value="Asas de Ellora (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0259" value="Pentagrama Branco (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0260" value="Visual de Arma Volta às Aulas (3 dias)" />
+  <keys type="item" key="EV_ST_DO_0001" value="Traje Pristino Dracônico de Halcyon (7 dias)" />
+  <keys type="item" key="IT_ST_DO_0002" value="Varinha Dracônica de Halcyon (30 dias)" />
+  <keys type="item" key="EV_ST_DO_0003" value="Traje Pristino Dracônico de Halcyon (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0264" value="Uniforme Acadêmico de Hakanas (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0265" value="Uniforme Acadêmico de Hakanas (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0278" value="Capa Rubra (7 dias)" />
+  <keys type="item" key="PvP_FI_CM_0001" value="(PvP) Visual de Arma Mago da Pesca (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0282" value="Visual de Arma de Sorvete (15 dias)" />
+  <keys type="item" key="CA_ST_CM_0283" value="Traje Flor Branca (15 dias)" />
+  <keys type="item" key="CA_ST_CM_0284" value="Traje de Chacha, o Gato de Ombro (15 dias)" />
+  <keys type="item" key="CA_ST_CM_0285" value="Óculos de Sol (15 dias)" />
+  <keys type="item" key="tt_1_0_0006" value="Título Especial: Exorcista de Icarus" />
+  <keys type="item" key="CA_ST_CM_0286" value="Traje de Banho de Leopardo (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0287" value="Traje de Banho de Leopardo (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0288" value="Óculos de Natação (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0100" value="Chapéu de Bruxa Vermelho (4 dias)" />
+  <keys type="item" key="EV_ST_CM_0101" value="Chapéu de Bruxa Verde (4 dias)" />
+  <keys type="item" key="EV_ST_CM_0102" value="Chapéu de Bruxa Laranja (4 dias)" />
+  <keys type="item" key="CA_ST_CM_0289" value="Tanque de Oxigênio (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0290" value="Traje de Chacha, o Gato de Férias (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0291" value="Óculos de Natação (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0292" value="Tanque de Oxigênio (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0293" value="Traje de Chacha, o Gato de Férias (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0294" value="Traje de Treinador Estiloso (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0295" value="Uniforme de Matini (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0296" value="Uniforme Acadêmico de Hakanas (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0297" value="Mordomo e Criada Encantadores (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0298" value="Traje de Treinador Esportivo (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0299" value="Mordomo e Criada (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0300" value="Uniforme de Comandante (3 dias)" />
+  <keys type="item" key="tt_1_0_0007" value="Título Especial: Mestre dos Revolucionários Vermelhos" />
+  <keys type="item" key="EV_ST_CM_0103" value="Traje de Hakanas (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0302" value="Visual de Arma Esportiva de Icarus (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0303" value="Traje Esportivo de Icarus (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0304" value="Asas de Ellora (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0305" value="Asas de Zelnaris (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0307" value="Visual de Arma Esportiva de Icarus (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0308" value="Traje Esportivo de Icarus (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0104" value="Traje de Chacha Desperto (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0309" value="Traje Raposa do Prado de Evolução (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0310" value="Óculos Vermelhos Quadrados (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0311" value="Traje de Bobo, o Gato de Ombro (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0312" value="Uniforme Escolar de Hakanas" />
+  <keys type="item" key="CA_ST_CM_0313" value="Traje de Pégaso" />
+  <keys type="item" key="CA_ST_CM_0314" value="Uniforme de Treinamento Real" />
+  <keys type="item" key="CA_ST_CM_0315" value="Traje de Hakanas" />
+  <keys type="item" key="CA_ST_CM_0316" value="Traje de Lebrini" />
+  <keys type="item" key="CA_ST_CM_0317" value="Uniforme de Matini" />
+  <keys type="item" key="CA_ST_CM_0318" value="Uniforme de Comandante" />
+  <keys type="item" key="CA_ST_CM_0319" value="Traje Branco de Esqueleto" />
+  <keys type="item" key="CA_ST_CM_0320" value="Traje Azul de Esqueleto" />
+  <keys type="item" key="CA_ST_CM_0321" value="Traje Preto de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0322" value="Traje Branco de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0323" value="Traje de Qipao de Bynder" />
+  <keys type="item" key="CA_ST_CM_0324" value="Traje de Sun Wukong" />
+  <keys type="item" key="CA_ST_CM_0325" value="Mordomo e Criada Encantadores" />
+  <keys type="item" key="CA_ST_CM_0326" value="Traje Perverso" />
+  <keys type="item" key="CA_ST_CM_0327" value="Traje Flor Branca" />
+  <keys type="item" key="CA_ST_CM_0328" value="Traje de Banho de Estudante" />
+  <keys type="item" key="CA_ST_CM_0329" value="Traje Flor Vermelha" />
+  <keys type="item" key="CA_ST_CM_0330" value="Traje Flor Azul" />
+  <keys type="item" key="CA_ST_CM_0331" value="Uniforme Acadêmico de Hakanas" />
+  <keys type="item" key="CA_ST_CM_0332" value="Traje de Banho de Leopardo" />
+  <keys type="item" key="CA_ST_CM_0333" value="Traje de Guerreiro Japonês" />
+  <keys type="item" key="CA_ST_CM_0334" value="Membro dos Lebrini" />
+  <keys type="item" key="CA_ST_CM_0335" value="Asas do Prado (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0336" value="Traje de Kung Fu" />
+  <keys type="item" key="CA_ST_CM_0337" value="Traje de Noite Encantadora (15 dias)" />
+  <keys type="item" key="tt_1_0_0008" value="Título Especial: Guardião de Icarus (15 dias)" />
+  <keys type="item" key="CA_ST_CM_0338" value="Traje Tradicional" />
+  <keys type="item" key="CA_ST_CM_0339" value="Visual de Arma Tradicional (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0340" value="Traje Tradicional (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0341" value="Traje Perverso" />
+  <keys type="item" key="CA_ST_CM_0342" value="Asas do Prado (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0343" value="Traje de Chacha, o Gato de Férias (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0344" value="Macaco de Sun Wukong (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0345" value="Traje Perverso do Conquistador (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0346" value="Visual de Arma Perversa do Conquistador (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0347" value="Traje de Momo Desperto do Conquistador (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0348" value="Traje de Sun Wukong (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0349" value="Cajado de Sun Wukong (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0350" value="Visual de Arma Tradicional (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0351" value="Traje Tradicional (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0352" value="Traje de Biscoito de Creme de Lebrini" />
+  <keys type="item" key="CA_ST_CM_0353" value="Traje de Feiticeiro" />
+  <keys type="item" key="CA_ST_CM_0354" value="Traje de Feiticeiro (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0355" value="Traje Roxo de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0356" value="Traje Roxo de Vampiro (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0357" value="Visual de Arma do Dia das Bruxas (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0358" value="Traje de Ceifeiro do Dia das Bruxas" />
+  <keys type="item" key="CA_ST_CM_0359" value="Traje de Ceifeiro do Dia das Bruxas (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0360" value="Traje de Feiticeiro (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0361" value="Traje Roxo de Vampiro (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0362" value="Traje de Ceifeiro do Dia das Bruxas (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0363" value="Visual de Arma do Dia das Bruxas (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0105" value="Capa Valorosa (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0106" value="Chapéu de Abóbora Chique (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0107" value="Chapéu de Abóbora Lamuriosa (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0108" value="Chapéu de Abóbora Feliz (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0364" value="Traje de Hakanas" />
+  <keys type="item" key="EV_ST_CM_0109" value="Faca do Dia das Bruxas" />
+  <keys type="item" key="CA_ST_CM_0365" value="Traje de Inverno" />
+  <keys type="item" key="CA_ST_CM_0366" value="Traje de Inverno (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0367" value="Visual de Arma de Gelo (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0368" value="Traje Perverso do Sanguinário (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0369" value="Visual de Arma Perversa do Sanguinário (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0370" value="Traje de Momo Desperto do Sanguinário (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0371" value="Traje de Ira do Sanguinário (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0372" value="Traje de Destino de Torkai" />
+  <keys type="item" key="EV_ST_CM_0110" value="Traje de Rena (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0111" value="Máscara de Demônio para Eventos (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0112" value="Enfeite de Ombro do Boneco de Neve de Evento (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0378" value="Roupa Festiva (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0379" value="Visual de Arma Festivo (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0380" value="Pentagrama Branco (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0113" value="Manto de Turimnan" />
+  <keys type="item" key="PvP_ST_CM_001" value="Asas do Criador (7 dias)" />
+  <keys type="item" key="PvP_ST_CM_002" value="Asas do Caminho (7 dias)" />
+  <keys type="item" key="PvP_ST_CM_003" value="Asas do Campo de Batalha (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0382" value="Traje Perverso do Sanguinário (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0383" value="Visual de Arma Perversa do Sanguinário (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0384" value="Asas de Kurodian" />
+  <keys type="item" key="CA_ST_CM_0385" value="Chifres de Kurodian" />
+  <keys type="item" key="CA_ST_CM_0381" value="Traje de Inverno Vermelho" />
+  <keys type="item" key="CA_ST_CM_0386" value="Traje Dasom de Dia de Ação de Graças" />
+  <keys type="item" key="CA_ST_CM_0387" value="Visual de Arma de Espírito da Árvore (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0388" value="Óculos de 2017 (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0389" value="Traje de Aura do Conquistador (1 dia)" />
+  <keys type="item" key="tt_1_0_0009" value="Título Especial: Presente de Ellora" />
+  <keys type="item" key="CA_ST_CM_0390" value="Traje de Dragão (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0391" value="Visual de Arma de Dragão (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0392" value="Asas de Dragão (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0393" value="Traje de Qipao de Bynder (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0114" value="Vontade de P" />
+  <keys type="item" key="EV_ST_CM_0115" value="Traje Vermelho de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0394" value="Visual de Arma Doce (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0395" value="Mordomo e Criada Encantadores (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0396" value="Traje de Dragão (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0397" value="Visual de Arma de Dragão (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0398" value="Asas de Dragão (14 dias)" />
+  <keys type="item" key="IT_PK_CM_1000" value="Armadura Arcana de Mestre da Pedra de Mana (6 dias)" />
+  <keys type="item" key="MS_ST_CM_1001" value="Arma Arcana de Conquistador de Stygaea (6 dias)" />
+  <keys type="item" key="MS_ST_CM_1002" value="Traje de Sanguinário das Terras Devastadas (6 dias) (Bruxa)" />
+  <keys type="item" key="MS_ST_CM_1003" value="Traje Arcano Dracônico de Halcyon (7 Dias)" />
+  <keys type="item" key="MS_ST_CM_1004" value="Cajado Dracônico de Halcyon (30 dias)" />
+  <keys type="item" key="MS_ST_CM_1005" value="Traje Arcano Dracônico de Halcyon (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0399" value="Traje de Dragão" />
+  <keys type="item" key="EV_ST_CM_0116" value="Pentagrama Vermelho (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0117" value="Máscara de Demônio para Eventos (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0118" value="Máscara de Demônio para Eventos (15 dias)" />
+  <keys type="item" key="EV_ST_CM_0119" value="Máscara de Demônio para Eventos (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0120" value="Máscara de Demônio para Eventos (3 dias)" />
+  <keys type="item" key="tt_1_0_0011" value="Título Especial: Conquistador Truaz (7 dias)" />
+  <keys type="item" key="tt_1_0_0012" value="Título Especial: Kinugak Abatido (7 dias)" />
+  <keys type="item" key="tt_1_0_0013" value="Título Especial: Conquistando Kurodian (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0121" value="Óculos Escuros Luxuosos (6 horas)" />
+  <keys type="item" key="CA_ST_CM_0404" value="Traje Perverso Branco (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0405" value="Traje Perverso Branco (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0406" value="Traje Perverso Branco (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0407" value="Traje Perverso Branco (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0408" value="Traje Perverso Branco" />
+  <keys type="item" key="CA_ST_CM_0400" value="Traje da Escuridão (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0401" value="Visual de Arma da Escuridão (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0402" value="Asas da Escuridão (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0403" value="Traje da Escuridão" />
+  <keys type="item" key="CA_ST_CM_0409" value="Visual de Arma de Espírito da Árvore (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0410" value="Máscara de Demônio para Eventos (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0123" value="Lebrini de Bynder (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0124" value="Biscoito de Creme de Lebrini (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0125" value="Pokey Pokey Lebrini (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0126" value="Chapéu de Thortor (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0127" value="Coroa de Noir (15 dias)" />
+  <keys type="item" key="CA_ST_CM_0411" value="Traje Branco de Esqueleto (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0412" value="Traje Azul de Esqueleto (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0413" value="Traje de Kung Fu (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0414" value="Traje de Lebrini (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0415" value="Traje Perverso do Conquistador (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0416" value="Visual de Arma Perversa do Conquistador (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0417" value="Traje de Momo Desperto do Conquistador (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0418" value="Traje da Escuridão (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0419" value="Visual de Arma da Escuridão (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0420" value="Asas da Escuridão (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0128" value="Tanque de Oxigênio (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0129" value="Traje de Chacha, o Gato de Férias (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0130" value="Anel da Eternidade de Icarus" />
+  <keys type="item" key="CA_ST_CM_0421" value="Traje Flor Branca" />
+  <keys type="item" key="CA_ST_CM_0422" value="Traje Flor Vermelha" />
+  <keys type="item" key="CA_ST_CM_0423" value="Traje Flor Azul" />
+  <keys type="item" key="CA_ST_CM_0424" value="Traje Flor Azul (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0425" value="Traje de Chacha, o Gato de Ombro (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0426" value="Tanque de Oxigênio (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0427" value="Visual de Arma de Espírito da Árvore (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0428" value="Traje Perverso Branco (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0131" value="Poyo Vitorioso de Ombro" />
+  <keys type="item" key="CA_ST_CM_0429" value="Coelhinha &amp; Coelhinho" />
+  <keys type="item" key="CA_ST_CM_0430" value="Coelhinha &amp; Coelhinho (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0431" value="Traje de Sacerdote" />
+  <keys type="item" key="CA_ST_CM_0432" value="Traje de Sacerdote (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0132" value="Tishanan Gracioso de Ombro" />
+  <keys type="item" key="EV_ST_CM_0133" value="Traje do Santo da Escuridão" />
+  <keys type="item" key="CA_ST_CM_0433" value="Pentagrama Branco (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0134" value="Traje Tradicional Naryn" />
+  <keys type="item" key="EV_ST_CM_0135" value="Traje Tradicional Naryn (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0136" value="Traje Tradicional Naryn (5 dias)" />
+  <keys type="item" key="EV_ST_CM_0137" value="Traje de Dragão Vermelho" />
+  <keys type="item" key="EV_ST_CM_0139" value="Manto Taiji (3 dias)" />
+  <keys type="item" key="tt_1_0_0014" value="Título Especial: Soldado Subordinado" />
+  <keys type="item" key="tt_1_0_0015" value="Título Especial: Cavaleiros de Elite" />
+  <keys type="item" key="tt_1_0_0016" value="Título Especial: Capitão" />
+  <keys type="item" key="tt_1_0_0017" value="Título Especial: Comandante" />
+  <keys type="item" key="tt_1_0_0018" value="Título Especial: Herói do Campo de Batalha" />
+  <keys type="item" key="EV_ST_CM_0138" value="Traje da Chama" />
+  <keys type="item" key="EV_ST_CM_0140" value="Túnica" />
+  <keys type="item" key="EV_ST_CM_0141" value="Medalhão Honorável (2 dias)" />
+  <keys type="item" key="EV_ST_CM_0142" value="Traje de Diabinho" />
+  <keys type="item" key="EV_ST_CM_0143" value="Chifre do Diabinho" />
+  <keys type="item" key="EV_ST_CM_0144" value="Cauda do Diabinho" />
+  <keys type="item" key="EV_ST_CM_0145" value="Mochila de Lahav (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0146" value="Pet de Ombro: Torkai (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0147" value="Traje Misterioso do Cerco" />
+  <keys type="item" key="EV_ST_CM_0148" value="Visual de Arma Misteriosa do Cerco" />
+  <keys type="item" key="CA_ST_CM_0434" value="Máscara de Demônio para Eventos (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0435" value="Visual de Arma de Gelo (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0436" value="Traje de Modelo" />
+  <keys type="item" key="CA_ST_CM_0437" value="Traje de Modelo (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0438" value="Asas da Chama Vermelha (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0439" value="Asas da Chama Azul (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0440" value="Asas de Anjo (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0441" value="Asas de Anjo Brancas (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0442" value="Asas de Anjo Douradas (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0149" value="Roupa Festiva Preta" />
+  <keys type="item" key="EV_ST_CM_0150" value="Visual de Arma Festiva (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0443" value="Roupa Festiva (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0444" value="Visual de Arma Festiva (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0445" value="Asas da Chama Vermelha (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0446" value="Asas da Chama Azul (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0447" value="Asas da Chama Vermelha (45 dias)" />
+  <keys type="item" key="CA_ST_CM_0448" value="Asas da Chama Azul (45 dias)" />
+  <keys type="item" key="CA_ST_CM_0449" value="Traje Laranja de Esqueleto" />
+  <keys type="item" key="CA_ST_CM_0450" value="Traje de Inverno" />
+  <keys type="item" key="CA_ST_CM_0451" value="Traje de Inverno Vermelho" />
+  <keys type="item" key="CA_ST_CM_0452" value="Traje de Dragão" />
+  <keys type="item" key="CA_ST_CM_0453" value="Traje da Escuridão" />
+  <keys type="item" key="CA_ST_CM_0454" value="Traje Perverso Branco" />
+  <keys type="item" key="CA_ST_CM_0455" value="Coelhinha &amp; Coelhinho" />
+  <keys type="item" key="CA_ST_CM_0456" value="Traje Tradicional Naryn" />
+  <keys type="item" key="CA_ST_CM_0457" value="Traje de Modelo" />
+  <keys type="item" key="CA_ST_CM_0458" value="Traje Tradicional" />
+  <keys type="item" key="CA_ST_CM_0459" value="Traje de Kung Fu" />
+  <keys type="item" key="CA_ST_CM_0460" value="Traje Vermelho de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0461" value="Traje Roxo de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0462" value="Traje Preto de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0463" value="Traje Branco de Vampiro" />
+  <keys type="item" key="CA_ST_CM_0464" value="Traje de Ceifeiro do Dia das Bruxas" />
+  <keys type="item" key="CA_ST_CM_0465" value="Traje de Feiticeiro" />
+  <keys type="item" key="CA_ST_CM_0466" value="Traje Perverso" />
+  <keys type="item" key="CA_ST_CM_0467" value="Traje de Guerreiro Japonês" />
+  <keys type="item" key="CA_ST_CM_0468" value="Membro dos Lebrini" />
+  <keys type="item" key="CA_ST_CM_0469" value="Mordomo e Criada Encantadores" />
+  <keys type="item" key="CA_ST_CM_0470" value="Traje Chinês Tradicional" />
+  <keys type="item" key="CA_ST_CM_0471" value="Traje Vermelho de Kung Fu" />
+  <keys type="item" key="CA_ST_CM_0472" value="Traje Branco de Kung Fu" />
+  <keys type="item" key="EV_ST_CM_0151" value="Traje de Icarus Acolchoado Longo Branco (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0152" value="Traje de Icarus Acolchoado Longo Preto (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0153" value="Traje de ICA Acolchoado Longo Branco" />
+  <keys type="item" key="EV_ST_CM_0154" value="Traje de ICA Acolchoado Longo Preto" />
+  <keys type="item" key="EV_ST_CM_0155" value="Traje de Armadura de Inverno" />
+  <keys type="item" key="EV_ST_CM_0156" value="Traje Russo Tradicional" />
+  <keys type="item" key="CA_ST_CM_0473" value="Traje Fofo de Primavera do Garoto Rebelde" />
+  <keys type="item" key="CA_ST_CM_0474" value="Traje Chique de Primavera do Garoto Rebelde" />
+  <keys type="item" key="tt_1_0_0019" value="Título Especial: Boas Vindas a Icarus (15 dias)" />
+  <keys type="item" key="tt_1_0_0020" value="Título Especial: Já faz 4 anos" />
+  <keys type="item" key="tt_1_0_0021" value="Título Especial: Amor de Familiar Transbordado" />
+  <keys type="item" key="CA_ST_CM_0475" value="Elmo de Chifres do Garoto Rebelde (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0476" value="Elmo de Chifres do Garoto Rebelde" />
+  <keys type="item" key="CA_ST_CM_0477" value="Traje do Garoto Rebelde (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0478" value="Elmo de Chifres do Garoto Rebelde (30 dias)" />
+  <keys type="item" key="tt_1_0_0022" value="Título Especial: 4 Anos com Icarus (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0480" value="Máscara de Demônio para Eventos (4 dias)" />
+  <keys type="item" key="CA_ST_CM_0481" value="Óculos Vermelhos Quadrados (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0482" value="Óculos de Sol do 4º Aniversário (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0483" value="Traje Flor Amarela do 4º Aniversário (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0484" value="Asas da Chama Vermelha (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0485" value="Asas da Chama Azul (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0486" value="Asas de Anjo Mayday (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0487" value="Asas de Anjo Mayday Brancas (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0488" value="Asas de Anjo Mayday Douradas (30 dias)" />
+  <keys type="item" key="tt_1_0_0023" value="Título: Time Argentina! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0024" value="Título: Time Braghin! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0025" value="Título: Time Colômbia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0026" value="Título: Time Peru! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0027" value="Título: Time Uruguai! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0028" value="Título: Time Costa Rica! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0029" value="Título: Time México! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0030" value="Título: Time Panamá! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0031" value="Título: Time Bélgica! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0032" value="Título: Time Croácia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0033" value="Título: Time Dinamarca! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0034" value="Título: Time Inglaterra! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0035" value="Título: Time França! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0036" value="Título: Time Alemanha! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0037" value="Título: Time Islândia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0038" value="Título: Time Polônia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0039" value="Título: Time Portugal! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0040" value="Título: Time Rússia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0041" value="Título: Time Sérvia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0042" value="Título: Time Espanha! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0043" value="Título: Time Suécia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0044" value="Título: Time Suíça! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0045" value="Título: Time Austrália! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0046" value="Título: Time Irã! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0047" value="Título: Time Japão! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0048" value="Título: Time Coreia! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0049" value="Título: Time Arábia Saudita! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0050" value="Título: Time Egito! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0051" value="Título: Time Marrocos! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0052" value="Título: Time Nigéria! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0053" value="Título: Time Senegal! Lute! (30 dias)" />
+  <keys type="item" key="tt_1_0_0054" value="Título: Time Tunísia! Lute! (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0489" value="Tamago Sushi (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0490" value="Apenas Teste" />
+  <keys type="item" key="CA_ST_CM_0491" value="Traje da Escuridão S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0492" value="Asas da Escuridão S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0493" value="Visual de Arma da Escuridão S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0494" value="Traje de Dragão S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0495" value="Asas de Dragão S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0496" value="Visual de Arma de Dragão S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0497" value="Traje de Sun Wukong S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0498" value="Macaco de Sun Wukong S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0499" value="Cajado de Sun Wukong S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0500" value="Traje do Ceifeiro Kurodian S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0501" value="Asas do Ceifeiro Kurodian S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0502" value="Chifre do Ceifeiro Kurodian S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0503" value="Traje Sombrio S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0504" value="Corvo de Ombro Sombrio S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0505" value="Máscara Sombria S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0506" value="Traje de Fantasma S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0507" value="Asas de Espírito S (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0508" value="Asas de Espírito S (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0157" value="Roupa de Banho Azul Oriental (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0158" value="Visual de Arma de Sorvete (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0159" value="Chapéu de Palha (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0160" value="Mochila de Lahav (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0161" value="Tamago Sushi (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0162" value="Tamago Sushi (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0163" value="Tamago Sushi (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0164" value="Tamago Sushi (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0165" value="Francãostein (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0166" value="Francãostein (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0167" value="Francãostein (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0168" value="Francãostein (3 dias)" />
+  <keys type="item" key="tt_1_0_0055" value="Título da Etapa 1: O Início" />
+  <keys type="item" key="tt_1_0_0056" value="Título da Etapa 2: Destinatário da Bênção Amorosa" />
+  <keys type="item" key="tt_1_0_0057" value="Título da Etapa 3: Destinatário da Bênção Rosa" />
+  <keys type="item" key="tt_1_0_0058" value="Título da Etapa 4: Destinatário da Bênção Gélida" />
+  <keys type="item" key="tt_1_0_0059" value="Título da Etapa 5: Aquele que Controla o Frio" />
+  <keys type="item" key="tt_1_0_0060" value="Título da Etapa 6: Aquele que Controla a Luz das Estrelas" />
+  <keys type="item" key="tt_1_0_0061" value="Título da Etapa 7: Aquele que Controla o Luar" />
+  <keys type="item" key="EV_ST_CM_0169" value="Abóbora do Dia das Bruxas (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0509" value="Visual de Arma do Dia das Bruxas (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0510" value="Nariz de Cervo Spiroon" />
+  <keys type="item" key="CA_ST_CM_0511" value="Spiroon de Ombro (1 dia)" />
+  <keys type="item" key="CA_ST_CM_0512" value="Spiroon de Ombro (3 dias)" />
+  <keys type="item" key="CA_ST_CM_0513" value="Spiroon de Ombro (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0514" value="Spiroon de Ombro (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0515" value="Spiroon de Ombro (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0516" value="Spiroon de Ombro S (Permanente)" />
+  <keys type="item" key="CA_ST_CM_0517" value="Óculos de 2019 (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0518" value="Membro dos Lebrini (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0519" value="Visual de Arma de Dragão (7 dias)" />
+  <keys type="item" key="CA_ST_CM_0520" value="Traje Tradicional (14 dias)" />
+  <keys type="item" key="tt_1_0_0062" value="Large candy (3 days)" />
+  <keys type="item" key="tt_1_0_0063" value="Candyers who do some (7 days)" />
+  <keys type="item" key="tt_1_0_0064" value="Profitable candy (14 days)" />
+  <keys type="item" key="tt_1_0_0065" value="Professional candy (30 days)" />
+  <keys type="item" key="CA_ST_CM_0521" value="Candy weapon costume (30 days)" />
+  <keys type="item" key="tt_1_0_0066" value="Taming Master 1" />
+  <keys type="item" key="tt_1_0_0067" value="Taming Master 2" />
+  <keys type="item" key="tt_1_0_0068" value="Taming Master 3" />
+  <keys type="item" key="tt_1_0_0069" value="Taming Master 10" />
+  <keys type="item" key="tt_1_0_0070" value="Taming Master 20" />
+  <keys type="item" key="tt_1_0_0071" value="Taming Master 30" />
+  <keys type="item" key="tt_1_0_0072" value="Taming Master 40" />
+  <keys type="item" key="tt_1_0_0073" value="Taming Master 50" />
+  <keys type="item" key="tt_1_0_0074" value="Taming Master 70" />
+  <keys type="item" key="tt_1_0_0075" value="Taming Master 100" />
+  <keys type="item" key="CA_ST_CM_0522" value="Wings of Cooperation (3 days)" />
+  <keys type="item" key="CA_ST_CM_0523" value="Wings of Cooperation (7 days)" />
+  <keys type="item" key="CA_ST_CM_0524" value="Wings of Cooperation (14th)" />
+  <keys type="item" key="CA_ST_CM_0525" value="Wings of Cooperation (30 days)" />
+  <keys type="item" key="CA_ST_CM_0526" value="Academic goods weapon costumes (30 days)" />
+  <keys type="item" key="EV_ST_CM_0170" value="Guardian's insignia (3 days)" />
+  <keys type="item" key="EV_ST_CM_0171" value="Guardian's insignia (7 days)" />
+  <keys type="item" key="EV_ST_CM_0172" value="Guardian's insignia (14th)" />
+  <keys type="item" key="EV_ST_CM_0173" value="Guardian's insignia (30 days)" />
+  <keys type="item" key="CA_ST_CM_0527" value="Mask of patience (30 days)" />
+  <keys type="item" key="CA_ST_CM_0528" value="Cat mask" />
+  <keys type="item" key="CA_ST_CM_0529" value="Skeleton mask" />
+  <keys type="item" key="CA_ST_CM_0530" value="Mask" />
+  <keys type="item" key="CA_ST_CM_0531" value="Half goblin half" />
+  <keys type="item" key="CA_ST_CM_0532" value="Half of old goblin" />
+  <keys type="item" key="CA_ST_CM_0533" value="If you go to Buddha" />
+  <keys type="item" key="CA_ST_CM_0534" value="Buddha mask" />
+  <keys type="item" key="CA_ST_CM_0535" value="Golden ball mask" />
+  <keys type="item" key="CA_ST_CM_0536" value="Mirror ball" />
+  <keys type="item" key="CA_ST_CM_0537" value="Horse hair (brown)" />
+  <keys type="item" key="CA_ST_CM_0538" value="Horse hair (black)" />
+  <keys type="item" key="CA_ST_CM_0539" value="Fox mask (white)" />
+  <keys type="item" key="CA_ST_CM_0540" value="Fox mask (black)" />
+  <keys type="item" key="CA_ST_CM_0541" value="Black mask" />
+  <keys type="item" key="CA_ST_CM_0542" value="White mask" />
+  <keys type="item" key="CA_ST_CM_0543" value="Nose housewife" />
+  <keys type="item" key="CA_ST_CM_0544" value="X Table Mask" />
+  <keys type="item" key="CA_ST_CM_0545" value="Traje Valofe" />
+  <keys type="item" key="CA_ST_CM_0546" value="Summer festival swimsuit! (30 days)" />
+  <keys type="item" key="CA_ST_CM_0547" value="Rash guard swimsuit (blue)" />
+  <keys type="item" key="CA_ST_CM_0548" value="lindo maiô" />
+  <keys type="item" key="CA_ST_CM_0549" value="maiô puro" />
+  <keys type="item" key="CA_ST_CM_0550" value="maiô legal" />
+  <keys type="item" key="tt_1_0_0079" value="Heat Scouts (3 days)" />
+  <keys type="item" key="tt_1_0_0080" value="Heat Hunter (7th)" />
+  <keys type="item" key="tt_1_0_0081" value="Heat Tracker (14th)" />
+  <keys type="item" key="tt_1_0_0082" value="Heat terminator (30 days)" />
+  <keys type="item" key="EV_ST_CM_0174" value="Traje de Banho Céu Azul (14 Dias)" />
+  <keys type="item" key="CA_ST_CM_0551" value="(Appearance) Green Oriental Swimsuit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0552" value="(Appearance) Blue Oriental Swimsuit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0553" value="(Appearance) Red Oriental Swimsuit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0554" value="(Appearance) Red Sunset Swimwear (30 days)" />
+  <keys type="item" key="CA_ST_CM_0555" value="(Appearance) White Summer Swimwear (30 days)" />
+  <keys type="item" key="CA_ST_CM_0556" value="(Appearance) Leopard Swinsuit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0557" value="(Appearance) Witch &amp; Wizard Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0558" value="(Appearance) Black Vampire Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0559" value="(Appearance) White Vampire Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0560" value="(Appearance) Purple Vampire Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0561" value="(Appearance) Red Vampire Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0562" value="(Appearance) Orange Skeleton Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0563" value="(Appearance) Red Christmas Party Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0564" value="(Appearance) Black Christmas Party Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0565" value="(Appearance) White Christmas Party Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0566" value="(Appearance) Rudolph costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0567" value="(Appearance) Costume in the middle of winter (30 days)" />
+  <keys type="item" key="CA_ST_CM_0568" value="(Appearance) Red Winter Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0569" value="(Appearance) White long padding costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0570" value="(Appearance) Black long padding costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0571" value="(Appearance) Winter Armor Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0572" value="(Appearance) Shadow Clan Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0573" value="(Appearance) Cream Cookie Rabini Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0574" value="(Appearance) Poky Poky Rabini Costume (30 Days)" />
+  <keys type="item" key="CA_ST_CM_0575" value="(Appearance) Collector's maid &amp; deacons (30 days)" />
+  <keys type="item" key="CA_ST_CM_0576" value="(Appearance) Lovely Maid &amp; Deacon Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0577" value="(Appearance) Barney Girl &amp; Barney Boy Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0578" value="(Appearance) Priest Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0579" value="(Appearance) Fashion model suit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0580" value="(Appearance) Hakanas Student Uniform (30 days)" />
+  <keys type="item" key="CA_ST_CM_0581" value="(Appearance) Purple costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0582" value="(Appearance) Red Kung Later (30 days)" />
+  <keys type="item" key="CA_ST_CM_0583" value="(Appearance) Traditional costumes (30 days)" />
+  <keys type="item" key="CA_ST_CM_0584" value="(Appearance) Russian traditional costumes (30 days)" />
+  <keys type="item" key="CA_ST_CM_0585" value="(Appearance) Red cheering suit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0586" value="(Appearance) Sports Package costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0587" value="(Appearance) Hakanas cheering suit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0602" value="Spirurn mask" />
+  <keys type="item" key="CA_ST_CM_0603" value="Water Dragon Mask" />
+  <keys type="item" key="CA_ST_CM_0604" value="Paradise" />
+  <keys type="item" key="EV_ST_CM_0175" value="Máscara de Halloween (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0176" value="Máscara de Halloween (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0177" value="Máscara de Halloween (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0178" value="Máscara de Halloween (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0606" value="Spirun mask (30 days)" />
+  <keys type="item" key="CA_ST_CM_0614" value="2020 glasses (30 days)" />
+  <keys type="item" key="tt_1_0_0086" value="Suma between (3 days)" />
+  <keys type="item" key="tt_1_0_0087" value="Confession success! (7 days)" />
+  <keys type="item" key="tt_1_0_0088" value="I confess and get confused! (14th)" />
+  <keys type="item" key="tt_1_0_0089" value="day 1 from today! (30 days)" />
+  <keys type="item" key="EV_ST_CM_0179" value="(Appearance) Vandal Gom Bark and Goodnight" />
+  <keys type="item" key="EV_ST_CM_0180" value="(Appearance) Unicorn and Goodnight" />
+  <keys type="item" key="CA_ST_CM_0615" value="(Appearance) Vandal Gom Bark and Goodnight (30 days)" />
+  <keys type="item" key="CA_ST_CM_0616" value="(Appearance) Unicorn and Goodnight (30 days)" />
+  <keys type="item" key="EV_ST_CM_0181" value="Spring day! (3 days)" />
+  <keys type="item" key="EV_ST_CM_0182" value="Spring day! (7 days)" />
+  <keys type="item" key="EV_ST_CM_0183" value="Spring day! (14th)" />
+  <keys type="item" key="EV_ST_CM_0184" value="Spring day! (30 days)" />
+  <keys type="item" key="CA_ST_CM_0617" value="Spring hunting spring spring! (30 days)" />
+  <keys type="item" key="tt_1_0_0090" value="Ipchundae -gil! (30 days)" />
+  <keys type="item" key="CA_ST_CM_0618" value="Valov costume (3 days)" />
+  <keys type="item" key="CA_ST_CM_0619" value="Valov costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0620" value="Balloon weapon costume (30 days)" />
+  <keys type="item" key="tt_1_0_0093" value="Level up! Spec up! Power -up! (30 days)" />
+  <keys type="item" key="IT_ST_CM_0013" value="Draconian's Armor (3 Days)" />
+  <keys type="item" key="IT_ST_CM_0012" value="Draconian's Mask (3 Days)" />
+  <keys type="item" key="tt_1_0_0094" value="Cool summer! (3 days)" />
+  <keys type="item" key="CA_ST_CM_0621" value="(Appearance) Summer swimsuit with a feeling (30 days)" />
+  <keys type="item" key="CA_ST_CM_0622" value="(Appearance) Summer swimsuit with edges (30 days)" />
+  <keys type="item" key="CA_ST_CM_0623" value="(Appearance) Green Hawaiian swimsuit (30 days)" />
+  <keys type="item" key="CA_ST_CM_0624" value="(Appearance) Blue Sky Swimwear (30 days)" />
+  <keys type="item" key="CA_ST_CM_0625" value="(Appearance) Red Sunshine (30 days)" />
+  <keys type="item" key="CA_ST_CM_0626" value="(Appearance) White Beach (30 days)" />
+  <keys type="item" key="CA_ST_CM_0627" value="(Appearance) School Swimwear (30 days)" />
+  <keys type="item" key="CA_ST_CM_0628" value="(Appearance) White Blooming (30 days)" />
+  <keys type="item" key="CA_ST_CM_0629" value="(Appearance) Blue Blooming (30 days)" />
+  <keys type="item" key="CA_ST_CM_0630" value="Traje de Marinheiro Azul Marinho (30 Dias)" />
+  <keys type="item" key="CA_ST_CM_0631" value="Traje de Marinheiro Branco (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0185" value="(Appearance) Red Blooming Swimwear (14th)" />
+  <keys type="item" key="EV_ST_CM_0186" value="Look Marinho Azul Marinho" />
+  <keys type="item" key="CA_ST_CM_0632" value="Ice cream weapon costume (30 days)" />
+  <keys type="item" key="EV_ST_CM_0187" value="(Appearance) Tongbok Ara (30 days)" />
+  <keys type="item" key="EV_ST_CM_0188" value="(Appearance) All Tongbok Yun Seul (30 days)" />
+  <keys type="item" key="EV_ST_CM_0189" value="(Appearance) Tongbok Dasom (30 days)" />
+  <keys type="item" key="tt_1_0_0095" value="2020 Songpyeon (3 days)" />
+  <keys type="item" key="EV_ST_CM_0190" value="Experience support cloak (3 days)" />
+  <keys type="item" key="EV_ST_CM_0191" value="Fishing support cloak (3 days)" />
+  <keys type="item" key="EV_ST_CM_0192" value="Item support cloak (3 days)" />
+  <keys type="item" key="EV_ST_CM_0193" value="Taming support cloak (3 days)" />
+  <keys type="item" key="EV_ST_CM_0194" value="Fellowship experience support cloak (3 days)" />
+  <keys type="item" key="EV_ST_CM_0195" value="Production support cloak (3 days)" />
+  <keys type="item" key="EV_ST_CM_0196" value="Combat support cloak (3 days)" />
+  <keys type="item" key="EV_ST_CM_0197" value="Halloween pumpkin (30 days)" />
+  <keys type="item" key="EV_ST_CM_0198" value="Halloween's Maduity (30 days)" />
+  <keys type="item" key="EV_ST_CM_0199" value="Cool pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0200" value="Sad pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0201" value="Happy pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0202" value="Ordinary pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0203" value="Very nice pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0204" value="Very sad pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0205" value="Very pleasant pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0206" value="Very ordinary pumpkin hat (4 hours)" />
+  <keys type="item" key="EV_ST_CM_0207" value="A nice pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0208" value="Sad pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0209" value="A pleasant pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0210" value="Ordinary pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0211" value="Very nice pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0212" value="A very sad pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0213" value="Very pleasant pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0214" value="Very ordinary pumpkin hat" />
+  <keys type="item" key="EV_ST_CM_0215" value="Dad's ghost cloak" />
+  <keys type="item" key="EV_ST_CM_0216" value="Mom's ghost cloak" />
+  <keys type="item" key="EV_ST_CM_0217" value="Baby ghost cloak" />
+  <keys type="item" key="EV_ST_CM_0218" value="Halloween penetrating knife (30 days)" />
+  <keys type="item" key="EV_ST_CM_0219" value="Halloween Witch &amp; Wizard Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0633" value="Ellora's Wings (14th)" />
+  <keys type="item" key="CA_ST_CM_0634" value="Wings of Gelaris (14th)" />
+  <keys type="item" key="tt_1_0_0096" value="Special title: chilly wind (3 days)" />
+  <keys type="item" key="tt_1_0_0098" value="Special title: Goodbye Science Gong (3 days)" />
+  <keys type="item" key="tt_1_0_0099" value="Special title: Artist who embodied a creation" />
+  <keys type="item" key="CA_ST_CM_0636" value="Midwinter costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0637" value="Red Winter Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0638" value="Rudolph costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0247" value="Traje Flor Amarela (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0234" value="Traje de Noite Encantadora (30 dias)" />
+  <keys type="item" key="CA_ST_CM_0639" value="Steampunk costume (7 days)" />
+  <keys type="item" key="CA_ST_CM_0640" value="Steampunk costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0641" value="2021 glasses (30 days)" />
+  <keys type="item" key="tt_1_0_0100" value="Special title: Come on 2021! (7 days)" />
+  <keys type="item" key="tt_1_0_0101" value="Malangmalang (3 days)" />
+  <keys type="item" key="CA_ST_CM_0642" value="Traje de Treino DAQUELE DIA" />
+  <keys type="item" key="CA_ST_CM_0643" value="Appearance: Western (30 days)" />
+  <keys type="item" key="CA_ST_CM_0644" value="Appearance: Summer Festival Swimsuit! (30 days)" />
+  <keys type="item" key="CA_ST_CM_0645" value="Appearance: Velop Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0646" value="Appearance: Tongbok Narin (30 days)" />
+  <keys type="item" key="CA_ST_CM_0647" value="Appearance: Darkness Costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0648" value="Costume: half -axis costume (14 days)" />
+  <keys type="item" key="CA_ST_CM_0649" value="Appearance: Bull Pajamas (14th)" />
+  <keys type="item" key="CA_ST_CM_0650" value="Valofe ornamento de ombro" />
+  <keys type="item" key="CA_ST_CM_0651" value="Bolsa Valofe" />
+  <keys type="item" key="CA_ST_CM_0652" value="VALOFE Weapon (30 days) (Guardian)" />
+  <keys type="item" key="CA_ST_CM_0653" value="VALOFE Weapon (30 days) (Berserker)" />
+  <keys type="item" key="CA_ST_CM_0654" value="VALOFE Weapon (30 days) (Assassin)" />
+  <keys type="item" key="CA_ST_CM_0655" value="VALOFE Weapon (30 days) (Wizard)" />
+  <keys type="item" key="CA_ST_CM_0656" value="VALOFE Weapon (30 Days) (Priest)" />
+  <keys type="item" key="CA_ST_CM_0657" value="VALOFE Weapon (30 days) (Ranger)" />
+  <keys type="item" key="CA_ST_CM_0658" value="VLAOFE Weapon (30 days) (Idol)" />
+  <keys type="item" key="tt_1_0_0102" value="Special title: The 7th Anniversary (7th)" />
+  <keys type="item" key="tt_1_0_0103" value="Special title: 7777777 (30 days)" />
+  <keys type="item" key="CA_ST_CM_0665" value="Western costume (7 days)" />
+  <keys type="item" key="CA_ST_CM_0666" value="Jecheon Dae Province Costume (7th)" />
+  <keys type="item" key="CA_ST_CM_0667" value="Reaper Costume (7th)" />
+  <keys type="item" key="CA_ST_CM_0668" value="Valov costume (7 days)" />
+  <keys type="item" key="CA_ST_CM_0669" value="Vandal bear costume (7 days)" />
+  <keys type="item" key="CA_ST_CM_0670" value="Unicorn costume (7 days)" />
+  <keys type="item" key="CA_ST_CM_0671" value="Dignity costume (7 days)" />
+  <keys type="item" key="CA_ST_CM_0672" value="Darkness Costume (7 days)" />
+  <keys type="item" key="tt_1_0_0010" value="Special title: The ruler of the battlefield" />
+  <keys type="item" key="CA_ST_CM_0674" value="Appearance: fishing swimsuit (blue) (7 days)" />
+  <keys type="item" key="CA_ST_CM_0675" value="Appearance: Fishing Suit Swimsuit (County Color) (7th)" />
+  <keys type="item" key="CA_ST_CM_0676" value="Appearance: fishing swimsuit (white) (7 days)" />
+  <keys type="item" key="CA_ST_CM_0677" value="Appearance: fishing swimsuit (black) (7 days)" />
+  <keys type="item" key="tt_1_0_0104" value="Special title: Feng Pung (14th)" />
+  <keys type="item" key="tt_1_0_0105" value="Appearance: balloon costume (1 day)" />
+  <keys type="item" key="tt_1_0_0106" value="Appearance: balloon costume (14 days)" />
+  <keys type="item" key="tt_1_0_0107" value="Traje de Balão" />
+  <keys type="item" key="CA_ST_CM_0681" value="Appearance: balloon costume (1 day)" />
+  <keys type="item" key="CA_ST_CM_0682" value="Appearance: balloon costume (14 days)" />
+  <keys type="item" key="CA_ST_CM_0683" value="Appearance: Balloon costume (indefinite)" />
+  <keys type="item" key="EV_ST_CM_0220" value="Icarus Pardise Ring" />
+  <keys type="item" key="tt_1_0_0108" value="Special Title: Robot Maker (14th)" />
+  <keys type="item" key="EV_ST_CM_0221" value="Appearance: Ika Sports Jersey (indefinitely)" />
+  <keys type="item" key="EV_ST_CM_0222" value="Appearance: Ruth Sports jersey (indefinite)" />
+  <keys type="item" key="EV_ST_CM_0223" value="Appearance: cheering clothes (14 days)" />
+  <keys type="item" key="CA_ST_CM_0268" value="Traje de Chacha Desperto (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0269" value="Traje de Kiki Desperto (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0270" value="Traje de Lala Desperto, o Gato de Ombro (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0684" value="Valov costume (15 days)" />
+  <keys type="item" key="ca_st_cm_0261" value="Sunglasses (30 days)" />
+  <keys type="item" key="CA_ST_CM_0659" value="Morning Duck Tube (10 minutes)" />
+  <keys type="item" key="CA_ST_CM_0660" value="Sunset Duck Tube (10 minutes)" />
+  <keys type="item" key="CA_ST_CM_0661" value="Ocean Duck Tube (10 minutes)" />
+  <keys type="item" key="tt_1_0_0109" value="Título Especial: Hoje Sou o Cozinheiro!! (14 dias)" />
+  <keys type="item" key="CA_ST_CM_0685" value="Maiô A-Veldon Caçador de Tempestade" />
+  <keys type="item" key="CA_ST_CM_0686" value="Appearance: White Blooming (30 days)" />
+  <keys type="item" key="PA_ST_0001" value="Icarus wing of power (30 days)" />
+  <keys type="item" key="PA_ST_0002" value="Icarus Halo of Power (30 days)" />
+  <keys type="item" key="PA_ST_0003" value="Bikini Armor of Power (30 days)" />
+  <keys type="item" key="tt_1_0_0110" value="Special title: with Funny (14th)" />
+  <keys type="item" key="tt_1_0_0111" value="Special title: Alphaeny's friend (14th)" />
+  <keys type="item" key="EV_ST_CM_0687" value="Gangsi Hat (14th)" />
+  <keys type="item" key="EV_ST_CM_0688" value="Halloween Reaper (14th)" />
+  <keys type="item" key="EV_ST_CM_0689" value="Red Witch Hat (14th)" />
+  <keys type="item" key="EV_ST_CM_0690" value="Green Witch Hat (14th)" />
+  <keys type="item" key="EV_ST_CM_0691" value="Orange Witch Hat (14th)" />
+  <keys type="item" key="EV_ST_CM_0692" value="Witch Wizard Costume (30 days)" />
+  <keys type="item" key="EV_ST_CM_0693" value="Halloween Weapon Costume (30 days)" />
+  <keys type="item" key="tt_1_0_0112" value="Special title: Fun for me (10 minutes)" />
+  <keys type="item" key="tt_1_0_0113" value="Special title: Fun for you (10 minutes)" />
+  <keys type="item" key="tt_1_0_0114" value="Special title: We are Fun (10 minutes)" />
+  <keys type="item" key="tt_1_0_0115" value="Special Title: Racing Mania! (30 days)" />
+  <keys type="item" key="PA_ST_0004" value="Icarus Wings of Intelligence (30 days)" />
+  <keys type="item" key="PA_ST_0005" value="Icarus Halo of Intelligence (30 days)" />
+  <keys type="item" key="PA_ST_0006" value="Intelligent Bikini Armor (30 days)" />
+  <keys type="item" key="EV_ST_CM_0694" value="Halloween penetrating knife (14 days)" />
+  <keys type="item" key="EV_ST_CM_0695" value="Happy pumpkin hat (14th)" />
+  <keys type="item" key="EV_ST_CM_0696" value="Burning crow (14 days)" />
+  <keys type="item" key="EV_ST_CM_0697" value="Burning helmet (14 days)" />
+  <keys type="item" key="EV_ST_CM_0698" value="Burning armor (14 days)" />
+  <keys type="item" key="tt_1_0_0116" value="Special title: Endure trials (14 days)" />
+  <keys type="item" key="tt_1_0_0117" value="Special title: Kaliba Ago Example (14th)" />
+  <keys type="item" key="CA_ST_CM_0694" value="Victorian Detective Style (30 days)" />
+  <keys type="item" key="tt_1_0_0118" value="Special title: Apostle of Goddess Parna (14th)" />
+  <keys type="item" key="EV_ST_CM_0700" value="Red Santa hat (1 day)" />
+  <keys type="item" key="EV_ST_CM_0701" value="Black Santa Hat (1 Day)" />
+  <keys type="item" key="EV_ST_CM_0702" value="White Santa Hat (1 Day)" />
+  <keys type="item" key="CA_ST_CM_0695" value="2022 glasses (30 days)" />
+  <keys type="item" key="tt_1_0_0119" value="Special title: National Treasure Artisan (14th)" />
+  <keys type="item" key="EV_ST_CM_0703" value="Appearance: White Pajama (1 Day)" />
+  <keys type="item" key="EV_ST_CM_0704" value="Appearance: White Pajama (7th)" />
+  <keys type="item" key="EV_ST_CM_0705" value="Appearance: White Pajama (14th)" />
+  <keys type="item" key="EV_ST_CM_0706" value="Appearance: White Pajama (Unlimited)" />
+  <keys type="item" key="EV_ST_CM_0707" value="Appearance: Black Pajama (1 Day)" />
+  <keys type="item" key="EV_ST_CM_0708" value="Appearance: Black Pajama (7th)" />
+  <keys type="item" key="EV_ST_CM_0709" value="Appearance: Black Pajama (14th)" />
+  <keys type="item" key="EV_ST_CM_0710" value="Appearance: Black Pajama (Unlimited)" />
+  <keys type="item" key="tt_1_0_0120" value="Special Title: Thorough preparation (7 days)" />
+  <keys type="item" key="EV_ST_CM_0711" value="Appearance Hanbok_Tae (30 days)" />
+  <keys type="item" key="EV_ST_CM_0712" value="Appearance hanbok_Jung (30 days)" />
+  <keys type="item" key="EV_ST_CM_0713" value="Appearance Hanbok_Lim (30 days)" />
+  <keys type="item" key="EV_ST_CM_0714" value="Traje Tradicional de ICARUS A" />
+  <keys type="item" key="EV_ST_CM_0715" value="Traje Tradicional de ICARUS B" />
+  <keys type="item" key="tt_1_0_0121" value="Special title: Foolish lover (3 days)" />
+  <keys type="item" key="tt_1_0_0122" value="Special title: Prepared Lovers (7th)" />
+  <keys type="item" key="tt_1_0_0123" value="Special title: Perfect Lover (14th)" />
+  <keys type="item" key="CA_ST_CM_0700" value="Candy weapon costume (3 days)" />
+  <keys type="item" key="CA_ST_CM_0701" value="Candy weapon costume (7 days)" />
+  <keys type="item" key="CA_ST_CM_0702" value="Candy weapon costume (14 days)" />
+  <keys type="item" key="CA_ST_CM_0703" value="Candy weapon costume (30 days)" />
+  <keys type="item" key="CA_ST_CM_0704" value="Cupid Ring (3 days)" />
+  <keys type="item" key="CA_ST_CM_0705" value="Cupid Ring (7 days)" />
+  <keys type="item" key="CA_ST_CM_0706" value="Cupid Ring (14th)" />
+  <keys type="item" key="EV_ST_CM_0721" value="Appearance: golden sheet metal armor" />
+  <keys type="item" key="EV_ST_CM_0722" value="Estojo de Guitarra (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0723" value="Visual de Arma VALOFE (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0724" value="VALOFE Bag (14th)" />
+  <keys type="item" key="EV_ST_CM_0725" value="VALOFE costume (14 days)" />
+  <keys type="item" key="EV_ST_CM_0726" value="Miau de Ombro da Sorte (14 Dias)" />
+  <keys type="item" key="tt_1_0_0124" value="Título Especial: Garota Mágica (14 Dias)" />
+  <keys type="item" key="EV_ST_CM_0727" value="Silver Igum Armor (30 days)" />
+  <keys type="item" key="EV_ST_CM_0728" value="Bikini Armor (30 days)" />
+  <keys type="item" key="EV_ST_CM_0729" value="Traje de Fashionista (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0730" value="Óculos de Sol (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0731" value="Asas de Vôo (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0732" value="Roupa Azul Florescente (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0733" value="Bóia de Pato Oceânica (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0734" value="Visual de Arma de Sorvete (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0735" value="Traje da Escuridão (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0736" value="Corvo de Ombro (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0737" value="Asas da Escuridão (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0738" value="Roupa de Inverno Casual  (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0739" value="Boneco de Neve Alegre (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0740" value="Máscara Negra (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0741" value="Ramphastidae de Férias de Ombro  (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0742" value="Bandana Tradicional (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0743" value="Visual de Arma de Presente de Astrologia de Ellora (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0744" value="Pijama de Tigre Branco" />
+  <keys type="item" key="EV_ST_CM_0745" value="Pijama de Tigre Preto" />
+  <keys type="item" key="EV_ST_CM_0746" value="Bóia de Pato do Nascer do Sol" />
+  <keys type="item" key="EV_ST_CM_0747" value="Bóia de Pato do Pôr do Sol" />
+  <keys type="item" key="EV_ST_CM_0748" value="Bóia de Pato Oceânica" />
+  <keys type="item" key="tt_1_0_0125" value="Título Especial: Membro VIP de André (3 Dias)" />
+  <keys type="item" key="EV_ST_CM_0749" value="Traje de Casamento Romântico (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0750" value="Traje de Treino ao Luar" />
+  <keys type="item" key="EV_ST_CM_0751" value="Traje de Treino Luz das Estrelas" />
+  <keys type="item" key="EV_ST_CM_0752" value="Uniforme de Capitão" />
+  <keys type="item" key="EV_ST_CM_0753" value="Uniforme de Comandante" />
+  <keys type="item" key="EV_ST_CM_0754" value="Ikamen Vermelho" />
+  <keys type="item" key="EV_ST_CM_0755" value="Ikamen Preto" />
+  <keys type="item" key="EV_ST_CM_0756" value="Ikamen Azul " />
+  <keys type="item" key="EV_ST_CM_0757" value="Ikamen Amarelo " />
+  <keys type="item" key="EV_ST_CM_0758" value="Ikamen Rosa " />
+  <keys type="item" key="EV_ST_CM_0759" value="Ikamen Branco" />
+  <keys type="item" key="EV_ST_CM_0760" value="Ikamen Roxo" />
+  <keys type="item" key="EV_ST_CM_0761" value="Ikamen Verde" />
+  <keys type="item" key="EV_ST_CM_0762" value="Pijama de Urso (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0763" value="Visual de Arma de Volta às Aulas (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0764" value="Pijama de Unicórnio (7 Dias)" />
+  <keys type="item" key="tt_1_0_0126" value="Título Especial: Mestre Origami (7 Dias)" />
+  <keys type="item" key="tt_1_0_0127" value="Título Especial: Guardião da Constelação (14 Dias)" />
+  <keys type="item" key="EV_ST_CM_0765" value="Traje de Coco Aloha" />
+  <keys type="item" key="EV_ST_CM_0766" value="Traje de Jaboticaba Aloha " />
+  <keys type="item" key="EV_ST_CM_0767" value="Traje de Lichia Aloha" />
+  <keys type="item" key="EV_ST_CM_0768" value="Roupa de caçador de tesouros do deserto" />
+  <keys type="item" key="EV_ST_CM_0769" value="Roupa de caçador de tesouros do mar" />
+  <keys type="item" key="EV_ST_CM_0770" value="Roupa de caçador de tesouros da selva" />
+  <keys type="item" key="tt_1_0_0128" value="Special Title: Lavini Town Chuseok Festival (3 days)" />
+  <keys type="item" key="tt_1_0_0129" value="Special Title: Lavini Town Chuseok Festival (7th)" />
+  <keys type="item" key="tt_1_0_0130" value="Título Especial: Primeiro Passo do Exorcista (14 Dias)" />
+  <keys type="item" key="tt_1_0_0131" value="Título Especial: Exorcista Iniciante (14 Dias)" />
+  <keys type="item" key="tt_1_0_0132" value="Título Especial: Exorcista Profissional (14 Dias)" />
+  <keys type="item" key="tt_1_0_0133" value="Título Especial: Exorcista Lendário (14 Dias)" />
+  <keys type="item" key="EV_ST_CM_0771" value="Manto do Oficial de Combate (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0772" value="Manto do Oficial de Produção (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0773" value="Manto do Oficial de Crescimento (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0774" value="Manto de Passeio do Fantasma (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0775" value="Manto de Passeio do Fantasma (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0776" value="Kiki: Espírito do Guardião de Combate Enfraquecido (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0777" value="Kiki: Espírito do Guardião de Combate Recuperado (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0778" value="Kiki: Espírito do Guardião de Combate Energético (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0779" value="Kiki: Espírito do Guardião de Combate Lendário (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0780" value="Chacha : Espírito do Guardião do Crescimento Enfraquecido (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0781" value="Chacha : Espírito do Guardião do Crescimento Recuperado (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0782" value="Chacha : Espírito do Guardião do Crescimento Energético (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0783" value="Chacha : Espírito do Guardião do Crescimento Lendário (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0784" value="Deedee: Espírito Guardião de Criação Enfraquecido (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0785" value="Deedee: Espírito Guardião de Criação Recuperado (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0786" value="Deedee: Espírito Guardião de Criação Energético (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0787" value="Deedee: Espírito Guardião de Criação Lendário (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0788" value="Rosto de Saco de Papel Sorridente" />
+  <keys type="item" key="EV_ST_CM_0789" value="Rosto de Saco de Papel Atrevido" />
+  <keys type="item" key="EV_ST_CM_0790" value="Rosto de Saco de Papel Raivoso" />
+  <keys type="item" key="EV_ST_CM_0791" value="Rosto de Saco de Papel Chateado" />
+  <keys type="item" key="EV_ST_CM_0792" value="Rosto de Saco de Papel Surpreso" />
+  <keys type="item" key="EV_ST_CM_0793" value="Rosto de Saco de Papel Piscando" />
+  <keys type="item" key="EV_ST_CM_0794" value="Traje de Caçador de Tesouros do Deserto (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0795" value="Traje de Caçador de Tesouros da Floresta (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0796" value="Traje de Caçador de Tesouros do Mar (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0797" value="Traje de Explorador Antigo (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0798" value="Adorável Poyo de Ombro (3 dias)" />
+  <keys type="item" key="EV_ST_CM_0720" value="Asas Douradas das Bênçãos da Deusa  (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0799" value="Decoração de Ombro: Pardal Vermelho de Natal (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0800" value="Decoração de Ombro: Pardal Azul de Natal (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0801" value="Decoração de Ombro: Pardal Dourado de Natal (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0802" value="Decoração de Ombro: Pardal Dourado de Natal (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0803" value="Decoração de Ombro: Pardal Dourado de Natal (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0804" value="Decoração de Ombro: Pardal Negro de Natal (1 dia)" />
+  <keys type="item" key="EV_ST_CM_0805" value="Decoração de Ombro: Pardal Negro de Natal (7 dias)" />
+  <keys type="item" key="EV_ST_CM_0806" value="Decoração de Ombro: Pardal Negro de Natal (14 dias)" />
+  <keys type="item" key="EV_ST_CM_0807" value="Decoração de Ombro: Pardal Dourado de Natal (30 dias)" />
+  <keys type="item" key="EV_ST_CM_0808" value="Decoração de Ombro: Pardal Negro de Natal (30 dias)" />
+  <keys type="item" key="tt_1_0_0134" value="Título Especial: Especialista em Bola de Neve (7 dias)" />
+  <keys type="item" key="tt_1_0_0135" value="Título Especial: O Ajudante, Coelho Tteok (7 Dias)" />
+  <keys type="item" key="EV_ST_CM_0809" value="Pijama Preto de Coelho Tteok (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0810" value="Pijama Branco de Coelho Tteok (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0811" value="Pijama Rosa de Coelho Tteok (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0812" value="Pijama Preto de Coelho Tteok (1 Dia)" />
+  <keys type="item" key="EV_ST_CM_0813" value="Pijama Branco de Coelho Tteok (1 Dia)" />
+  <keys type="item" key="EV_ST_CM_0814" value="Pijama Rosa de Coelho Tteok (1 Dia)" />
+  <keys type="item" key="CA_ST_CM_0707" value="2022 Glasses (30 days)" />
+  <keys type="item" key="EV_ST_CM_0815" value="Coroa do Festival das Flores da Primavera (1 Dia)" />
+  <keys type="item" key="EV_ST_CM_0816" value="Coroa do Festival das Flores de Verão (1 Dia)" />
+  <keys type="item" key="EV_ST_CM_0817" value="Coroa do Festival das Flores de Outono (1 Dia)" />
+  <keys type="item" key="EV_ST_CM_0818" value="Coroa do Festival das Flores de Inverno (1 Dia)" />
+  <keys type="item" key="EV_ST_CM_0823" value="Coroa do Festival de Flores da Primavera (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0824" value="Coroa do Festival das Flores de Verão (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0825" value="Coroa do Festival das Flores de Outono (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0826" value="Coroa do Festival das Flores de Inverno (30 Dias)" />
+  <keys type="item" key="EV_ST_CM_0827" value="Coroa do Festival de Flores da Primavera (Permanente)" />
+  <keys type="item" key="EV_ST_CM_0828" value="Coroa do Festival das Flores de Verão (Permanente)" />
+  <keys type="item" key="EV_ST_CM_0829" value="Coroa do Festival das Flores de Outono (Permanente)" />
+  <keys type="item" key="EV_ST_CM_0830" value="Coroa do Festival de Flores de Inverno (Permanente)" />
+</files>

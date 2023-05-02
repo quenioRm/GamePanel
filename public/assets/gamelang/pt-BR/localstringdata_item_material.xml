@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="item" key="MA_1_0001" value="Minério de Cobre" />
+  <keys type="item" key="MA_1_0002" value="Minério de Ferro" />
+  <keys type="item" key="MA_1_0003" value="Minério de Mithril" />
+  <keys type="item" key="MA_1_0004" value="Minério de Turalium" />
+  <keys type="item" key="MA_1_0005" value="Minério de Adamantium" />
+  <keys type="item" key="MA_1_0006" value="Minério de Dragonita" />
+  <keys type="item" key="MA_1_1001" value="Lingote de Cobre" />
+  <keys type="item" key="MA_1_1002" value="Liga de Cobre" />
+  <keys type="item" key="MA_1_2001" value="Lingote de Ferro" />
+  <keys type="item" key="MA_1_2002" value="Liga de Ferro" />
+  <keys type="item" key="MA_1_3001" value="Lingote de Mithril" />
+  <keys type="item" key="MA_1_3002" value="Liga de Mithril" />
+  <keys type="item" key="MA_1_5001" value="Lingote de Adamantium" />
+  <keys type="item" key="MA_1_5002" value="Lingote de Adamantium Temperado" />
+  <keys type="item" key="MA_1_5003" value="Liga de Adamantium" />
+  <keys type="item" key="MA_1_5004" value="Liga de Adamantium Temperada" />
+  <keys type="item" key="MA_10_0001" value="Minério de Exarium" />
+  <keys type="item" key="MA_10_1001" value="Pó de Exarium" />
+  <keys type="item" key="MA_10_1002" value="Lingote de Exarium" />
+  <keys type="item" key="MA_10_1003" value="Liga de Exarium" />
+  <keys type="item" key="MA_10_1004" value="Fibras de Exarium" />
+  <keys type="item" key="MA_10_1005" value="Minério de Kherim" />
+  <keys type="item" key="MA_10_1006" value="Pó de Kherim" />
+  <keys type="item" key="MA_10_1007" value="Lingote de Kherim" />
+  <keys type="item" key="MA_10_1008" value="Liga de Kherim" />
+  <keys type="item" key="MA_10_1009" value="Fibras de Kherim" />
+  <keys type="item" key="MA_10_1010" value="Pedra da Alma Condenada" />
+  <keys type="item" key="MA_10_1011" value="Espírito Vinculado de Atan" />
+  <keys type="item" key="MA_10_1012" value="Espírito Vinculado de Karnin" />
+  <keys type="item" key="MA_10_1013" value="Espírito Vinculado de Berit" />
+  <keys type="item" key="MA_10_1014" value="Aura" />
+  <keys type="item" key="MA_10_2001" value="Fragmento do Caos" />
+  <keys type="item" key="MA_10_2002" value="Essência do Caos" />
+  <keys type="item" key="MA_10_2003" value="Fragmento de Espírito" />
+  <keys type="item" key="MA_10_2004" value="Essência de Espírito" />
+  <keys type="item" key="ma_10_3001" value="Pedra da Alma Amaldiçoada" />
+  <keys type="item" key="ma_10_3002" value="Pedra da Alma Congelada" />
+  <keys type="item" key="ma_11_0001" value="Esfera de Familiar" />
+  <keys type="item" key="MA_11_0002" value="Remanescente de Exarahn" />
+  <keys type="item" key="MA_12_0005" value="Lingote Refinado de Adamantite" />
+  <keys type="item" key="MA_12_0006" value="Liga Refinada de Adamantium" />
+  <keys type="item" key="MA_12_0007" value="Rolo de Tecido Luminoso Denso" />
+  <keys type="item" key="MA_12_0008" value="Esmeralda Densa" />
+  <keys type="item" key="MA_2_0001" value="Minério de Prata" />
+  <keys type="item" key="MA_2_0002" value="Minério de Ouro" />
+  <keys type="item" key="MA_2_0003" value="Minério de Ametista" />
+  <keys type="item" key="MA_2_0004" value="Minério de Safira" />
+  <keys type="item" key="MA_2_0005" value="Minério de Esmeralda" />
+  <keys type="item" key="MA_2_0006" value="Minério de Diamante" />
+  <keys type="item" key="MA_2_1001" value="Pó de Prata" />
+  <keys type="item" key="MA_2_2001" value="Pó de Ouro" />
+  <keys type="item" key="MA_2_3001" value="Ametista Entalhada" />
+  <keys type="item" key="MA_2_5001" value="Esmeralda Entalhada" />
+  <keys type="item" key="MA_2_5002" value="Esmeralda Primorosa" />
+  <keys type="item" key="MA_3_0001" value="Cogumelo Poron" />
+  <keys type="item" key="MA_3_0002" value="Gramínea" />
+  <keys type="item" key="MA_3_0003" value="Flor da Neve Cherpa" />
+  <keys type="item" key="MA_3_0004" value="Raiz de Koor" />
+  <keys type="item" key="MA_3_0005" value="Erva Taramun" />
+  <keys type="item" key="MA_3_0006" value="Erva Taramun" />
+  <keys type="item" key="MA_4_0001" value="Tecido Áspero" />
+  <keys type="item" key="MA_4_0002" value="Tecido Fino" />
+  <keys type="item" key="MA_4_0003" value="Tecido Grosso" />
+  <keys type="item" key="MA_4_0004" value="Tecido Macio" />
+  <keys type="item" key="MA_4_0005" value="Tecido Luminoso" />
+  <keys type="item" key="MA_4_0006" value="Tecido Brilhante" />
+  <keys type="item" key="MA_4_1001" value="Rolo de Tecido Áspero" />
+  <keys type="item" key="MA_4_2001" value="Rolo de Tecido Fino" />
+  <keys type="item" key="MA_4_3001" value="Rolo de Tecido Grosso" />
+  <keys type="item" key="MA_4_5001" value="Rolo de Tecido Luminoso" />
+  <keys type="item" key="MA_4_5002" value="Rolo de Tecido Luminoso Forte" />
+  <keys type="item" key="MA_5_0001" value="Carne Dura" />
+  <keys type="item" key="MA_5_0002" value="Carne Simples" />
+  <keys type="item" key="MA_5_0003" value="Carne Borrachenta" />
+  <keys type="item" key="MA_5_0004" value="Carne Fresca" />
+  <keys type="item" key="MA_5_0005" value="Carne Suave" />
+  <keys type="item" key="MA_5_0006" value="Carne Macia" />
+  <keys type="item" key="MA_6_0001" value="Remanescente de Espírito Fatigado" />
+  <keys type="item" key="MA_6_0002" value="Remanescente de Espírito Fraco" />
+  <keys type="item" key="MA_6_0003" value="Remanescente de Espírito Simples" />
+  <keys type="item" key="MA_6_0004" value="Remanescente de Espírito Forte" />
+  <keys type="item" key="MA_6_0005" value="Remanescente de Espírito Brilhante" />
+  <keys type="item" key="MA_6_0006" value="Remanescente de Espírito Glorioso" />
+  <keys type="item" key="MA_6_1001" value="Água de Espírito Fatigado" />
+  <keys type="item" key="MA_6_2001" value="Água de Espírito Fraco" />
+  <keys type="item" key="MA_6_3001" value="Água de Espírito Simples" />
+  <keys type="item" key="MA_6_5001" value="Água de Espírito Brilhante" />
+  <keys type="item" key="MA_7_1101" value="Empunhadura Bruta" />
+  <keys type="item" key="MA_7_1102" value="Empunhadura Básica" />
+  <keys type="item" key="MA_7_1103" value="Empunhadura Padrão" />
+  <keys type="item" key="MA_7_1104" value="Empunhadura Ótima" />
+  <keys type="item" key="MA_7_1105" value="Empunhadura Avançado" />
+  <keys type="item" key="MA_7_1106" value="Empunhadura Primorosa" />
+  <keys type="item" key="MA_7_1201" value="Pedra de Amolar Barata" />
+  <keys type="item" key="MA_7_1202" value="Pedra de Amolar Mediana" />
+  <keys type="item" key="MA_7_1203" value="Pedra de Amolar de Qualidade" />
+  <keys type="item" key="MA_7_2101" value="Madeira Bruta" />
+  <keys type="item" key="MA_7_2102" value="Madeira Básica" />
+  <keys type="item" key="MA_7_2103" value="Madeira Padrão" />
+  <keys type="item" key="MA_7_2104" value="Madeira Ótima" />
+  <keys type="item" key="MA_7_2105" value="Madeira Avançada" />
+  <keys type="item" key="MA_7_2106" value="Madeira Primorosa" />
+  <keys type="item" key="MA_7_2201" value="Contrapeso Barato" />
+  <keys type="item" key="MA_7_2202" value="Contrapeso Mediano" />
+  <keys type="item" key="MA_7_2203" value="Contrapeso de Qualidade" />
+  <keys type="item" key="MA_7_3101" value="Molde Bruto" />
+  <keys type="item" key="MA_7_3102" value="Molde Básico" />
+  <keys type="item" key="MA_7_3103" value="Molde Simples" />
+  <keys type="item" key="MA_7_3104" value="Molde Ótimo" />
+  <keys type="item" key="MA_7_3105" value="Molde Avançado" />
+  <keys type="item" key="MA_7_3106" value="Molde Primoroso" />
+  <keys type="item" key="MA_7_3201" value="Eletrodo Barato" />
+  <keys type="item" key="MA_7_3202" value="Eletrodo Mediano" />
+  <keys type="item" key="MA_7_3203" value="Eletrodo de Qualidade" />
+  <keys type="item" key="MA_7_4101" value="Kit de Costura Bruto" />
+  <keys type="item" key="MA_7_4102" value="Kit de Costura Básico" />
+  <keys type="item" key="MA_7_4103" value="Kit de Costura Simples" />
+  <keys type="item" key="MA_7_4104" value="Kit de Costura Ótimo" />
+  <keys type="item" key="MA_7_4105" value="Kit de Costura Avançado" />
+  <keys type="item" key="MA_7_4106" value="Kit de Costura Primoroso" />
+  <keys type="item" key="MA_7_4201" value="Tintura Barata" />
+  <keys type="item" key="MA_7_4202" value="Tintura Mediana" />
+  <keys type="item" key="MA_7_4203" value="Tintura de Qualidade" />
+  <keys type="item" key="MA_7_5101" value="Essência Sombria Bruta" />
+  <keys type="item" key="MA_7_5102" value="Essência Negra Básica" />
+  <keys type="item" key="MA_7_5103" value="Essência Sombria Simples" />
+  <keys type="item" key="MA_7_5104" value="Essência Sombria Ótima" />
+  <keys type="item" key="MA_7_5105" value="Essência Sombria Avançada" />
+  <keys type="item" key="MA_7_5106" value="Essência Sombria Primorosa" />
+  <keys type="item" key="MA_7_5201" value="Garrafa Barata" />
+  <keys type="item" key="MA_7_5202" value="Garrafa Mediana" />
+  <keys type="item" key="MA_7_5203" value="Garrafa de Qualidade" />
+  <keys type="item" key="MA_7_6111" value="Molho Picante Bruto" />
+  <keys type="item" key="MA_7_6112" value="Molho Picante Básico" />
+  <keys type="item" key="MA_7_6113" value="Molho Picante Simples" />
+  <keys type="item" key="MA_7_6114" value="Molho Picante Ótimo" />
+  <keys type="item" key="MA_7_6115" value="Molho Picante Avançado" />
+  <keys type="item" key="MA_7_6116" value="Molho Picante Primoroso" />
+  <keys type="item" key="MA_7_6121" value="Molho Doce Bruto" />
+  <keys type="item" key="MA_7_6122" value="Molho Doce Básico" />
+  <keys type="item" key="MA_7_6123" value="Molho Doce Simples" />
+  <keys type="item" key="MA_7_6124" value="Molho Doce Ótimo" />
+  <keys type="item" key="MA_7_6125" value="Molho Doce Avançado" />
+  <keys type="item" key="MA_7_6126" value="Molho Doce Primoroso" />
+  <keys type="item" key="MA_7_6131" value="Molho Fresco Bruto" />
+  <keys type="item" key="MA_7_6132" value="Molho Fresco Básico" />
+  <keys type="item" key="MA_7_6133" value="Molho Fresco Simples" />
+  <keys type="item" key="MA_7_6134" value="Molho Fresco Ótimo" />
+  <keys type="item" key="MA_7_6135" value="Molho Fresco Avançado" />
+  <keys type="item" key="MA_7_6136" value="Molho Fresco Primoroso" />
+  <keys type="item" key="MA_7_6201" value="Recipiente Barato" />
+  <keys type="item" key="MA_7_6202" value="Recipiente Mediano" />
+  <keys type="item" key="MA_7_6203" value="Recipiente de Qualidade" />
+  <keys type="item" key="MA_7_7101" value="Kit de Joias Bruto" />
+  <keys type="item" key="MA_7_7102" value="Kit de Joias Básico" />
+  <keys type="item" key="MA_7_7103" value="Kit de Joias Simples" />
+  <keys type="item" key="MA_7_7104" value="Kit de Joias Delicado" />
+  <keys type="item" key="MA_7_7105" value="Kit de Joias Avançado" />
+  <keys type="item" key="MA_7_7106" value="Kit de Joias Primoroso" />
+  <keys type="item" key="MA_7_7107" value="Polidor de Gema" />
+  <keys type="item" key="MA_7_7201" value="Ferramenta de Esculpir Barata" />
+  <keys type="item" key="MA_7_7202" value="Ferramenta de Esculpir Mediana" />
+  <keys type="item" key="MA_7_7203" value="Ferramenta de Esculpir de Qualidade" />
+  <keys type="item" key="MA_7_8101" value="Catalisador Bruto" />
+  <keys type="item" key="MA_7_8102" value="Catalisador Básico" />
+  <keys type="item" key="MA_7_8103" value="Catalisador Simples" />
+  <keys type="item" key="MA_7_8104" value="Catalisador Ótimo" />
+  <keys type="item" key="MA_7_8105" value="Catalisador Mediano" />
+  <keys type="item" key="MA_7_8106" value="Catalisador Primosoro" />
+  <keys type="item" key="MA_7_8201" value="Pó Misterioso Barato" />
+  <keys type="item" key="MA_7_8202" value="Pó Misterioso Mediano" />
+  <keys type="item" key="MA_7_8203" value="Pó Misterioso de Qualidade" />
+  <keys type="item" key="MA_8_0001" value="Agente Redutor Bruto" />
+  <keys type="item" key="MA_8_0002" value="Agente Redutor Básico" />
+  <keys type="item" key="MA_8_0003" value="Agente Redutor Simples" />
+  <keys type="item" key="MA_8_0004" value="Agente Redutor Ótimo" />
+  <keys type="item" key="MA_8_0005" value="Agente Redutor Avançado" />
+  <keys type="item" key="MA_8_0006" value="Agente Redutor Primoroso" />
+  <keys type="item" key="MA_8_1001" value="Agente Neutralizador Bruto" />
+  <keys type="item" key="MA_8_1002" value="Agente Neutralizador Básico" />
+  <keys type="item" key="MA_8_1003" value="Agente Neutralizador Simples" />
+  <keys type="item" key="MA_8_1004" value="Agente Neutralizador Ótimo" />
+  <keys type="item" key="MA_8_1005" value="Agente Neutralizador Avançado" />
+  <keys type="item" key="MA_8_1006" value="Agente Neutralizador Primoroso" />
+  <keys type="item" key="MA_8_2001" value="Solvente Bruto" />
+  <keys type="item" key="MA_8_2002" value="Solvente Básico" />
+  <keys type="item" key="MA_8_2003" value="Solvente Simples" />
+  <keys type="item" key="MA_8_2004" value="Solvente Ótimo" />
+  <keys type="item" key="MA_8_2005" value="Solvente Avançado" />
+  <keys type="item" key="MA_8_2006" value="Solvente Primoroso" />
+  <keys type="item" key="MA_8_3001" value="Concentrado Bruto" />
+  <keys type="item" key="MA_8_3002" value="Concentrado Básico" />
+  <keys type="item" key="MA_8_3003" value="Concentrado Simples" />
+  <keys type="item" key="MA_8_3004" value="Concentrado Ótimo" />
+  <keys type="item" key="MA_8_3005" value="Concentrado Avançado" />
+  <keys type="item" key="MA_8_3006" value="Concentrado Primoroso" />
+  <keys type="item" key="MA_9_0001" value="Urtiga Gigante" />
+  <keys type="item" key="MA_9_0002" value="Chama Dançante" />
+  <keys type="item" key="MA_9_0003" value="Pedra de Chama" />
+  <keys type="item" key="MA_9_0004" value="Sangue Amaldiçoado" />
+  <keys type="item" key="MA_9_0005" value="Cristal de Neve" />
+  <keys type="item" key="MA_9_0006" value="Marca de Alto Pedigree" />
+  <keys type="item" key="MA_9_0007" value="Marca de Médio Pedigree" />
+  <keys type="item" key="MA_9_0008" value="Marca de Baixo Pedigree" />
+  <keys type="item" key="MA_9_0009" value="Essência Sombria" />
+  <keys type="item" key="MA_9_0010" value="Alho" />
+  <keys type="item" key="MA_9_0011" value="Água de Fonte Termal" />
+  <keys type="item" key="MA_9_0012" value="Coração de Dragão" />
+  <keys type="item" key="MA_9_0013" value="Escama de Dragão" />
+  <keys type="item" key="MA_9_0014" value="Pedra-Mar" />
+  <keys type="item" key="MA_9_0015" value="Fragmento de Alma do Oceano" />
+  <keys type="item" key="MA_9_0016" value="Lágrima de Radan" />
+  <keys type="item" key="MA_9_0017" value="Placa de Merumi" />
+  <keys type="item" key="MA_9_0018" value="Escama de Zenkit" />
+  <keys type="item" key="MA_9_0019" value="Bolsa de Bolhas de Skalion" />
+  <keys type="item" key="MA_9_0020" value="Broto Congelado" />
+  <keys type="item" key="MA_9_0021" value="Essência Corrompida" />
+  <keys type="item" key="MA_9_0022" value="Pedra Congelada" />
+  <keys type="item" key="MA_9_0023" value="Chama Pura" />
+  <keys type="item" key="MA_9_0024" value="Coração de Golem Ardente" />
+  <keys type="item" key="MA_9_0025" value="Espírito Brilhante" />
+  <keys type="item" key="MA_9_0026" value="Asas de Vampiro" />
+  <keys type="item" key="MA_9_0027" value="Pena da Justiça" />
+  <keys type="item" key="MA_9_0028" value="Fragmento Arrepiante" />
+  <keys type="item" key="MA_9_0029" value="Lágrima Mortal" />
+  <keys type="item" key="MA_9_0030" value="Essência de Daveen" />
+  <keys type="item" key="MA_9_0031" value="Sombra de Khabim" />
+  <keys type="item" key="MA_9_0032" value="Luz de Parna" />
+  <keys type="item" key="MA_9_0033" value="Faísca das Sombras" />
+  <keys type="item" key="MA_9_0034" value="Marca da Legião Caída" />
+  <keys type="item" key="MA_9_0035" value="Carne de Rena" />
+  <keys type="item" key="MA_9_0036" value="Emblema Malfadado" />
+  <keys type="item" key="MA_9_0047" value="Teia de Abagne" />
+  <keys type="item" key="MA_9_0061" value="Essência Sombria" />
+  <keys type="item" key="MA_9_0062" value="Água de Oásis" />
+  <keys type="item" key="MA_9_0063" value="Estátua Dourada" />
+  <keys type="item" key="MA_9_0064" value="Feromônio de Morcego" />
+  <keys type="item" key="MA_9_0065" value="Fruta Rubra" />
+  <keys type="item" key="MA_9_0066" value="Marca de Fratura" />
+  <keys type="item" key="MA_9_0067" value="Lágrima Tricolor" />
+  <keys type="item" key="MA_9_0068" value="Lágrima de Skatrasha" />
+  <keys type="item" key="MA_9_0069" value="Pena de Piyo" />
+  <keys type="item" key="MA_9_0070" value="Carne de Rato" />
+  <keys type="item" key="MA_9_0071" value="Tintura Vermelha" />
+  <keys type="item" key="MA_9_0072" value="Dente de Lunafont" />
+  <keys type="item" key="MA_9_0073" value="Marca de Carnificina" />
+  <keys type="item" key="MA_9_0074" value="Osso do Esquecimento" />
+  <keys type="item" key="MA_9_0075" value="Óleo de Minhoca de Areia" />
+  <keys type="item" key="MA_9_0076" value="Casco de Jabuti do Deserto" />
+  <keys type="item" key="MA_9_0077" value="Bico de Grifo" />
+  <keys type="item" key="MA_9_0078" value="Chifre de Monoceros" />
+  <keys type="item" key="MA_9_0079" value="Presa Manchada de Javali" />
+  <keys type="item" key="MA_9_0080" value="Couro de Leopardo do Deserto" />
+  <keys type="item" key="MA_9_0081" value="Areia Branca Ardente" />
+  <keys type="item" key="MA_9_0082" value="Sal Ardente" />
+  <keys type="item" key="MA_9_0083" value="Barra de Ouro de Martina" />
+  <keys type="item" key="MA_9_0084" value="Pedra de Dragão Venenoso" />
+  <keys type="item" key="MA_9_0085" value="Pedra de Dragão Congelado" />
+  <keys type="item" key="MA_9_0086" value="Pedra de Dragão Estelar" />
+  <keys type="item" key="MA_9_0087" value="Coração Venenoso" />
+  <keys type="item" key="MA_9_0088" value="Escama Venenosa" />
+  <keys type="item" key="MA_9_0089" value="Osso Venenoso" />
+  <keys type="item" key="MA_9_0090" value="Coração Congelado" />
+  <keys type="item" key="MA_9_0091" value="Escama Congelada" />
+  <keys type="item" key="MA_9_0092" value="Osso Congelado" />
+  <keys type="item" key="MA_9_0093" value="Coração Estelar" />
+  <keys type="item" key="MA_9_0094" value="Escama Estelar" />
+  <keys type="item" key="MA_9_0095" value="Osso Estelar" />
+  <keys type="item" key="MA_9_0096" value="Essência de Dragão" />
+  <keys type="item" key="MA_9_0097" value="Cristal de Veneno de Radan" />
+  <keys type="item" key="MA_9_0098" value="Cristal Congelado do Rondo" />
+  <keys type="item" key="MA_9_0099" value="Cristal Sombrio de Izhora" />
+  <keys type="item" key="MA_13_0001" value="Pó Mágico Harmonioso" />
+  <keys type="item" key="MA_13_1001" value="Fragmento de Hameon" />
+  <keys type="item" key="MA_13_1002" value="Fragmento de Calypto" />
+  <keys type="item" key="MA_13_1003" value="Fragmento de Demonus" />
+  <keys type="item" key="MA_13_1004" value="Fragmento de Shakiba" />
+  <keys type="item" key="MA_13_1005" value="Fragmento de Rodesh" />
+  <keys type="item" key="MA_13_1006" value="Fragmento de Graveon" />
+  <keys type="item" key="MA_13_1007" value="Fragmento de Jamirot" />
+  <keys type="item" key="MA_13_1008" value="Fragmento de Poreon" />
+  <keys type="item" key="MA_13_1009" value="Fragmento de Galerion" />
+  <keys type="item" key="MA_13_1010" value="Fragmento de Runelon" />
+  <keys type="item" key="MA_13_2001" value="Fragmento de Pesadelo Desperto" />
+  <keys type="item" key="MA_13_2002" value="Fragmento de Megantes Desperto" />
+  <keys type="item" key="MA_13_2003" value="Fragmento de Vylet Desperto" />
+  <keys type="item" key="MA_13_2004" value="Fragmento de Apocalipse Profano Desperto" />
+  <keys type="item" key="MA_13_2005" value="Fragmento de Pyludd Desperto" />
+  <keys type="item" key="MA_13_2006" value="Fragmento de Agnas Desperto" />
+  <keys type="item" key="MA_13_2007" value="Fragmento de Garme Desperto" />
+  <keys type="item" key="MA_13_2008" value="Fragmento de Kerav Desperto" />
+  <keys type="item" key="MA_13_2009" value="Fragmento de Caspert Desperto" />
+  <keys type="item" key="MA_13_2010" value="Fragmento de Espectro Desperto" />
+  <keys type="item" key="MA_13_2011" value="Fragmento de Apocalipse Desperto" />
+  <keys type="item" key="MA_13_2012" value="Fragmento de Karresh Desperto" />
+  <keys type="item" key="MA_13_2013" value="Fragmento de Kargyle do Crepúsculo Desperto" />
+  <keys type="item" key="MA_13_2014" value="Fragmento de Kargyle do Vazio Desperto" />
+  <keys type="item" key="MA_13_2015" value="Fragmento de Femuto Desperto" />
+  <keys type="item" key="MA_13_2016" value="Fragmento de Veldon Desperto" />
+  <keys type="item" key="MA_13_2017" value="Fragmento de Karasha Desperto" />
+  <keys type="item" key="MA_13_2018" value="Fragmento de Letonsia Desperta" />
+  <keys type="item" key="MA_13_2019" value="Fragmento de Lunafont Desperto" />
+  <keys type="item" key="MA_13_2020" value="Fragmento de Paragas Desperto" />
+  <keys type="item" key="MA_13_2021" value="Fragmento de Tolus Desperto" />
+  <keys type="item" key="MA_13_2022" value="Fragmento de Chanus Desperta" />
+  <keys type="item" key="MA_13_2023" value="Fragmento de Vegarus Desperto" />
+  <keys type="item" key="MA_13_2024" value="Fragmento de Poyo Desperto" />
+  <keys type="item" key="MA_13_2025" value="Fragmento de Martina Desperta" />
+  <keys type="item" key="MA_13_2026" value="Fragmento de Finion Desperto" />
+  <keys type="item" key="MA_13_2027" value="Fragmento de Magnatu Desperto" />
+  <keys type="item" key="MA_13_2028" value="Fragmento de Calypos Desperto" />
+  <keys type="item" key="MA_13_2029" value="Fragmento de Trinoceronte Desperto" />
+  <keys type="item" key="MA_13_2030" value="Fragmento de Bajarn Desperto" />
+  <keys type="item" key="MA_13_2031" value="Fragmento de Matura Desperto" />
+  <keys type="item" key="MA_13_2032" value="Fragmento de Voknos Desperto" />
+  <keys type="item" key="MA_9_0101" value="Arenito de Torkai" />
+  <keys type="item" key="MA_9_0102" value="Fragmento de Elbring" />
+  <keys type="item" key="MA_9_0103" value="Essência de Elbring" />
+  <keys type="item" key="MA_9_0104" value="Emblema Selado" />
+  <keys type="item" key="MA_9_0105" value="Arenito de Zaminus" />
+  <keys type="item" key="MA_9_0106" value="Extrato de Mel" />
+  <keys type="item" key="MA_9_0107" value="Cauda de Shambunny" />
+  <keys type="item" key="MA_9_0108" value="Arenito de Bruniche" />
+  <keys type="item" key="MA_9_0109" value="Arenito de Enjani" />
+  <keys type="item" key="MA_9_0110" value="Arenito de Tekanin" />
+  <keys type="item" key="MA_9_0111" value="Arenito de Dredrum" />
+  <keys type="item" key="MA_9_0112" value="Arenito de Elicuno" />
+  <keys type="item" key="MA_9_0113" value="Osso de Dragão Esmeralda" />
+  <keys type="item" key="MA_9_0114" value="Escama de Dragão Branco" />
+  <keys type="item" key="MA_9_0115" value="Faísca do Santuário" />
+  <keys type="item" key="MA_9_0116" value="Sangue de Tukan" />
+  <keys type="item" key="MA_9_0117" value="Armadura de Couro de Tukan" />
+  <keys type="item" key="MA_9_0118" value="Armadura de Ossos de Tukan" />
+  <keys type="item" key="MA_9_0119" value="Fragmento de Espada do Caos" />
+  <keys type="item" key="MA_9_0120" value="Joia do Caos" />
+  <keys type="item" key="MA_9_0121" value="Pedra de Golem Caótico" />
+  <keys type="item" key="MA_9_0122" value="Poeira de Osso Verde" />
+  <keys type="item" key="MA_9_0123" value="Essência do Santuário" />
+  <keys type="item" key="MA_9_0124" value="Núcleo de Golem Caótico" />
+  <keys type="item" key="MA_9_0125" value="Raiz Negra de Dryath" />
+  <keys type="item" key="MA_9_0126" value="Espírito de Urso" />
+  <keys type="item" key="MA_1_6001" value="Lingote de Dragonita" />
+  <keys type="item" key="MA_1_6002" value="Lingote de Dragonita Temperado" />
+  <keys type="item" key="MA_1_6003" value="Liga de Dragonita" />
+  <keys type="item" key="MA_1_6004" value="Liga de Dragonita Temperada" />
+  <keys type="item" key="MA_2_6001" value="Diamante Esculpido" />
+  <keys type="item" key="MA_2_6002" value="Diamante Primoroso" />
+  <keys type="item" key="MA_4_6001" value="Rolo de Tecido Brilhante" />
+  <keys type="item" key="MA_4_6002" value="Tecido Reluzente Temperado" />
+  <keys type="item" key="MA_6_6001" value="Água de Espírito Glorioso" />
+  <keys type="item" key="MA_9_0100" value="Material de Criação de Heroi Nível 55" />
+  <keys type="item" key="MA_7_1205" value="Pedra de Amolar Polida de Qualidade" />
+  <keys type="item" key="MA_7_2205" value="Pesos Polidos de Qualidade" />
+  <keys type="item" key="MA_7_3205" value="Eletrodo Polido de Qualidade" />
+  <keys type="item" key="MA_7_4205" value="Tintura Brilhante de Qualidade" />
+  <keys type="item" key="MA_7_5205" value="Garrafa Polida de Qualidade" />
+  <keys type="item" key="MA_7_6205" value="Recipiente Polido de Qualidade" />
+  <keys type="item" key="MA_7_7205" value="Ferramenta de Esculpir Polida de Qualidade" />
+  <keys type="item" key="MA_7_8205" value="Pó Misterioso Brilhante de Qualidade" />
+  <keys type="item" key="MA_13_1011" value="Fragmento de Hameon Desperto" />
+  <keys type="item" key="MA_13_1012" value="Fragmento de Calypto Desperto" />
+  <keys type="item" key="MA_13_1013" value="Fragmento de Demonus Desperto" />
+  <keys type="item" key="MA_13_1014" value="Fragmento de Shakiba Desperto" />
+  <keys type="item" key="MA_13_1015" value="Fragmento de Rodesh Desperto" />
+  <keys type="item" key="MA_13_1016" value="Fragmento de Graveon Desperto" />
+  <keys type="item" key="MA_13_3001" value="Fragmento de Espectro das Ruínas" />
+  <keys type="item" key="MA_13_3002" value="Fragmento de Líder Braghin" />
+  <keys type="item" key="MA_13_3003" value="Fragmento de Guardião Rex" />
+  <keys type="item" key="MA_13_3004" value="Fragmento de Rainha Elquines" />
+  <keys type="item" key="MA_13_3005" value="Fragmento de Carleon do Vazio" />
+  <keys type="item" key="MA_13_3006" value="Fragmento de Carleon do Crepúsculo" />
+  <keys type="item" key="MA_13_3007" value="Fragmento de Sinthan do Vazio" />
+  <keys type="item" key="MA_13_3008" value="Fragmento de Sinthan do Crepúsculo" />
+  <keys type="item" key="MA_13_3009" value="Fragmento de Rondo do Vazio" />
+  <keys type="item" key="MA_13_3010" value="Fragmento Crepuscular do Rondo" />
+  <keys type="item" key="MA_9_0127" value="Pedra Vermelha do Despertar" />
+  <keys type="item" key="MA_9_0128" value="Pedra Negra do Despertar" />
+  <keys type="item" key="MA_9_0129" value="Pedra Azul do Despertar" />
+  <keys type="item" key="MA_9_0130" value="Coração de Bismuth" />
+  <keys type="item" key="MA_9_0131" value="Coração de Jeranin Bondoso" />
+  <keys type="item" key="MA_9_0132" value="Coração de Kurunin Benevolente" />
+  <keys type="item" key="MA_10_0098" value="Essência de Yorminsul" />
+  <keys type="item" key="MA_10_0099" value="Pedra de Elfo do Caos" />
+  <keys type="item" key="MA_15_0001" value="Pedra de Desejo de Jamirot" />
+  <keys type="item" key="MA_15_0002" value="Pedra de Desejo de Karon" />
+  <keys type="item" key="MA_15_0003" value="Pedra de Desejo de Torkai Dourado" />
+  <keys type="item" key="MA_15_0004" value="Pedra de Desejo de Torkai" />
+  <keys type="item" key="MA_15_0005" value="Pedra de Desejo de Calypse de Pelúcia" />
+  <keys type="item" key="MA_15_0006" value="Pedra de Desejo de Karasha de Pelúcia" />
+  <keys type="item" key="MA_15_0007" value="Pedra de Desejo de Martina de Pelúcia" />
+  <keys type="item" key="MA_15_0008" value="Pedra de Desejo de Letonsia Astral de Pelúcia" />
+  <keys type="item" key="MA_15_0009" value="Pedra de Desejo de Calypse Mecha" />
+  <keys type="item" key="MA_15_0010" value="Pedra de Desejo de Karasha Mecha" />
+  <keys type="item" key="MA_15_0011" value="Pedra de Desejo de Espectro Mecha Branco" />
+  <keys type="item" key="MA_15_0012" value="Pedra de Desejo de Espectro do Espaço" />
+  <keys type="item" key="MA_15_0013" value="Pedra de Desejo de Shakiba Desperto" />
+  <keys type="item" key="MA_15_0014" value="Pedra de Desejo de Shakiba" />
+  <keys type="item" key="MA_15_0015" value="Pedra de Desejo de Rodesh Desperto" />
+  <keys type="item" key="MA_15_0016" value="Pedra de Desejo de Rodesh" />
+  <keys type="item" key="MA_15_0017" value="Pedra de Desejo de Runelon" />
+  <keys type="item" key="MA_15_0018" value="Pedra de Desejo de Galerion" />
+  <keys type="item" key="MA_15_0019" value="Pedra de Desejo de Poreon" />
+  <keys type="item" key="MA_15_0020" value="Pedra de Desejo de Cavaleiro de Laiku" />
+  <keys type="item" key="MA_15_0021" value="Pedra de Desejo de Laiku Prateado" />
+  <keys type="item" key="MA_15_0022" value="Pedra de Desejo de Mecha Laiku" />
+  <keys type="item" key="MA_15_0023" value="Pedra de Desejo do Corcel Esqueleto" />
+  <keys type="item" key="MA_15_0024" value="Pedra de Desejo de Finion" />
+  <keys type="item" key="MA_15_0025" value="Pedra de Desejo de Magnatu" />
+  <keys type="item" key="MA_15_0026" value="Pedra de Desejo de Calypos" />
+  <keys type="item" key="MA_15_0027" value="Pedra de Desejo de Calypto Desperto" />
+  <keys type="item" key="MA_15_0028" value="Pedra de Desejo de Calypto" />
+  <keys type="item" key="MA_15_0029" value="Pedra de Desejo de Demonus Desperto" />
+  <keys type="item" key="MA_15_0030" value="Pedra de Desejo de Demonus" />
+  <keys type="item" key="MA_15_0031" value="Pedra de Desejo de Hameon Desperto" />
+  <keys type="item" key="MA_15_0032" value="Pedra de Desejo de Hameon" />
+  <keys type="item" key="MA_15_0033" value="Pedra de Desejo de Graveon" />
+  <keys type="item" key="MA_15_0034" value="Pedra de Desejo de Graveon Desperto" />
+  <keys type="item" key="MA_15_0035" value="Pedra de Desejo de Zaminus" />
+  <keys type="item" key="MA_15_0036" value="Pedra de Desejo de Bruniche" />
+  <keys type="item" key="MA_15_0037" value="Pedra de Desejo de Kahiru" />
+  <keys type="item" key="MA_15_0038" value="Pedra de Desejo de Tekanin" />
+  <keys type="item" key="MA_15_0039" value="Pedra de Desejo de Dredrum" />
+  <keys type="item" key="MA_15_0040" value="Pedra de Desejo de Elicuno" />
+  <keys type="item" key="MA_15_0041" value="Pedra da Alma de Akrat" />
+  <keys type="item" key="MA_15_0042" value="Marca de Zelnaris" />
+  <keys type="item" key="MA_15_0043" value="Fluxo da Floresta" />
+  <keys type="item" key="MA_15_0044" value="Pedra da Alma de Zelnaris" />
+  <keys type="item" key="MA_15_0045" value="Material de Coleta Heroica Nível 60" />
+  <keys type="item" key="MA_15_0046" value="Lingote de Adamantium Profundo" />
+  <keys type="item" key="MA_15_0047" value="Material de Armadura de Coleta Heroica Nível 60" />
+  <keys type="item" key="MA_15_0048" value="Material de Armadura Coleta Mítica Nível 60" />
+  <keys type="item" key="MA_15_0049" value="Material de Poção de Coleta Nível 60" />
+  <keys type="item" key="MA_15_0050" value="Garrafa de Alma de Vidro" />
+  <keys type="item" key="MA_16_0001" value="Pó de Ilusão" />
+  <keys type="item" key="MA_16_0002" value="Sangue Ruinoso" />
+  <keys type="item" key="MA_9_0140" value="Lágrima da Hydra" />
+  <keys type="item" key="MA_9_0141" value="Certificado de Coragem" />
+  <keys type="item" key="MA_9_0142" value="Fragmento de Esfera de Água" />
+  <keys type="item" key="MA_9_0143" value="Certificado de Linhagem" />
+  <keys type="item" key="MA_9_0144" value="Fruta Ilusória" />
+  <keys type="item" key="MA_9_0145" value="Fruta Ruinosa" />
+  <keys type="item" key="MA_9_0146" value="Pelo Gelado" />
+  <keys type="item" key="MA_9_0147" value="Fragmento de Vento" />
+  <keys type="item" key="MA_9_0148" value="Fragmento Escarlate" />
+  <keys type="item" key="MA_9_0149" value="Presa de Elefante" />
+  <keys type="item" key="MA_9_0150" value="Cauda Vermelha" />
+  <keys type="item" key="MA_9_0151" value="Juba Vermelha" />
+  <keys type="item" key="MA_9_0152" value="Fragrância de Fera" />
+  <keys type="item" key="MA_7_1206" value="Pedra de Amolar do Espírito do Artesão Mestre" />
+  <keys type="item" key="MA_7_2206" value="Contrapeso do Espírito do Artesão Mestre" />
+  <keys type="item" key="MA_7_3206" value="Eletrodo do Espírito do Artesão Mestre" />
+  <keys type="item" key="MA_7_4206" value="Tintura do Espírito do Artesão Mestre" />
+  <keys type="item" key="MA_13_2033" value="Fragmento de Apocalipse Desperto" />
+  <keys type="item" key="MA_13_2034" value="Fragmento de Femuto Desperto" />
+  <keys type="item" key="MA_9_0165" value="Coração de Fênix" />
+  <keys type="item" key="MA_9_0166" value="Pena Ardente" />
+  <keys type="item" key="MA_12_0038" value="Sombra do Purgatório" />
+  <keys type="item" key="MA_12_0039" value="Marca de Unidade" />
+  <keys type="item" key="MA_9_0167" value="Veneno Destilado" />
+  <keys type="item" key="MA_9_0168" value="Esmeralda Contaminada" />
+  <keys type="item" key="MA_9_0169" value="Essência Lendária Tricolor" />
+  <keys type="item" key="MA_1_6005" value="Essência Sombria Sagrada" />
+  <keys type="item" key="MA_15_0053" value="Pedra de Desejo de Alkanin Sagrado" />
+  <keys type="item" key="MA_15_0054" value="Pedra de Desejo de Vylis" />
+  <keys type="item" key="MA_15_0055" value="Pedra de Desejo de Narnis Escarlate" />
+  <keys type="item" key="MA_15_0056" value="Pedra de Desejo de Laiku Dourado Desperto" />
+  <keys type="item" key="MA_15_0057" value="Pedra de Desejo de Nimbus Rosa" />
+  <keys type="item" key="MA_15_0058" value="Pedra de Desejo de Nimbus" />
+  <keys type="item" key="MA_15_0059" value="Pedra de Desejo de MC Pango" />
+  <keys type="item" key="MA_15_0060" value="Pedra de Desejo de Sr. Pango" />
+  <keys type="item" key="MA_15_0061" value="Pedra de Desejo de Martina Estelar" />
+  <keys type="item" key="MA_15_0062" value="Pedra de Desejo de Martina Floral" />
+  <keys type="item" key="MA_15_0063" value="Pedra de Desejo de Karasha de Pelúcia" />
+  <keys type="item" key="MA_15_0064" value="Pedra de Desejo de Karasha Mecha" />
+  <keys type="item" key="MA_15_0065" value="Pedra de Desejo de Johnie Lebrini" />
+  <keys type="item" key="MA_15_0066" value="Pedra de Desejo de Leander" />
+  <keys type="item" key="MA_15_0067" value="Pedra de Desejo de Bernard Thortor" />
+  <keys type="item" key="MA_15_0068" value="Pedra de Desejo de Coelho Heath" />
+  <keys type="item" key="MA_15_0069" value="Pedra de Desejo de Luna do 2° Aniversário" />
+  <keys type="item" key="MA_15_0070" value="Pedra de Desejo de Profano Desperto" />
+  <keys type="item" key="MA_15_0071" value="Pedra de Desejo de Apocalipse Desperto" />
+  <keys type="item" key="MA_15_0072" value="Pedra de Desejo de Magnatu Desperto" />
+  <keys type="item" key="MA_15_0073" value="Pedra de Desejo de Kerab Desperto" />
+  <keys type="item" key="MA_15_0074" value="Pedra de Desejo de Garme Desperto" />
+  <keys type="item" key="MA_60_0001" value="Pedra da Alma Alsaciana" />
+  <keys type="item" key="MA_60_0002" value="Energia Alsaciana" />
+  <keys type="item" key="MA_60_0003" value="Rubi Primoroso" />
+  <keys type="item" key="MA_60_0004" value="Pedra de Amolar de Crokhoon" />
+  <keys type="item" key="MA_60_0005" value="Contrapeso de Crokhoon" />
+  <keys type="item" key="MA_60_0006" value="Eletrodo de Crokhoon" />
+  <keys type="item" key="MA_60_0007" value="Tintura de Crokhoon" />
+  <keys type="item" key="MA_60_0008" value="Bênção Alsaciana" />
+  <keys type="item" key="MA_9_0170" value="Alma de Gigante" />
+  <keys type="item" key="MA_9_0171" value="Fragmento da Armadura de Taisha" />
+  <keys type="item" key="MA_9_0172" value="Tesouro Sagrado de Akrat" />
+  <keys type="item" key="MA_9_0173" value="Catalisador de Familiar" />
+  <keys type="item" key="MA_9_0174" value="Potencializador de Familiar +" />
+  <keys type="item" key="MA_9_0175" value="Cristal da Alma do Dragão Vermelho" />
+  <keys type="item" key="MA_9_0176" value="Essência de Ancião" />
+  <keys type="item" key="MA_9_0177" value="Cristal da Alma do Dragão Azul" />
+  <keys type="item" key="MA_9_0178" value="Pedra da Alma de Tishanan Desperto" />
+  <keys type="item" key="MA_9_0179" value="Pedra da Alma de Aidus Desperto" />
+  <keys type="item" key="MA_9_0180" value="Pedra da Alma de Taisha Desperta" />
+  <keys type="item" key="MA_9_0181" value="Alma de Ahnturagen Desperto" />
+  <keys type="item" key="MA_9_0182" value="Núcleo do Dragão Ancião" />
+  <keys type="item" key="MA_13_1020" value="Fragmentos de Torkai Desperto" />
+  <keys type="item" key="MA_13_1021" value="Fragmentos de Tishanan Desperto" />
+  <keys type="item" key="MA_13_1022" value="Fragmentos de Aidus Desperto" />
+  <keys type="item" key="MA_13_1023" value="Fragmentos de Taisha Desperta" />
+  <keys type="item" key="MA_10_1015" value="Pó de Kherim Temperado" />
+  <keys type="item" key="MA_10_1016" value="Lingote de Kherim Temperado" />
+  <keys type="item" key="MA_10_1017" value="Liga de Kherim Temperada" />
+  <keys type="item" key="MA_10_1018" value="Linha de Pesca de Kherim Temperada" />
+  <keys type="item" key="MA_10_1019" value="Formação de Fragmento" />
+  <keys type="item" key="MA_10_1020" value="Aura da Destruição" />
+  <keys type="item" key="MA_60_0010" value="Solvente Avançado" />
+  <keys type="item" key="MA_9_0183" value="Energia de Roxinus" />
+  <keys type="item" key="MA_9_0184" value="Energia de Pyron" />
+  <keys type="item" key="MA_9_0185" value="Energia de Nalrys" />
+  <keys type="item" key="MA_01_0001" value="Martelo Rústico de Kirloff" />
+  <keys type="item" key="MA_01_0002" value="Martelo Antigo de Kirloff" />
+  <keys type="item" key="MA_01_0003" value="Martelo Modesto de Kirloff" />
+  <keys type="item" key="MA_01_0004" value="Martelo Intermediário de Kirloff" />
+  <keys type="item" key="MA_01_0005" value="Martelo Exímio de Kirloff" />
+  <keys type="item" key="MA_01_0006" value="Martelo Brilhante Obscuro de Kirloff" />
+  <keys type="item" key="MA_01_0007" value="Martelo Reluzente de Kirloff" />
+  <keys type="item" key="MA_01_0008" value="Martelo Brilhante de Kirloff" />
+  <keys type="item" key="MA_01_0009" value="Agente Redutor Profundo" />
+  <keys type="item" key="MA_01_0010" value="Agente Redutor Premium" />
+  <keys type="item" key="MA_02_0001" value="Tintura Rústica de Joyce" />
+  <keys type="item" key="MA_02_0002" value="Tintura Antiga de Joyce" />
+  <keys type="item" key="MA_02_0003" value="Tintura Modesta de Joyce" />
+  <keys type="item" key="MA_02_0004" value="Tintura Intermediária de Joyce" />
+  <keys type="item" key="MA_02_0005" value="Tintura Exímia de Joyce" />
+  <keys type="item" key="MA_02_0006" value="Tintura Brilhante Obscura de Joyce" />
+  <keys type="item" key="MA_02_0007" value="Tintura Reluzente de Joyce" />
+  <keys type="item" key="MA_02_0008" value="Tintura Brilhante de Joyce" />
+  <keys type="item" key="MA_02_0009" value="Tintura Rústica de Canoa" />
+  <keys type="item" key="MA_02_0010" value="Tintura Antiga de Canoa" />
+  <keys type="item" key="MA_13_1024" value="Fragmentos de Tekanin Desperto" />
+  <keys type="item" key="MA_13_1025" value="Fragmentos de Zaminus Desperto" />
+  <keys type="item" key="MA_13_1026" value="Fragmentos de Elicuno Desperto" />
+  <keys type="item" key="MA_13_1027" value="Fragmentos de Enjani Desperto" />
+  <keys type="item" key="MA_13_1028" value="Fragmentos de Bruniche Desperta" />
+  <keys type="item" key="MA_13_1029" value="Fragmentos de Dredrum Desperto" />
+  <keys type="item" key="MA_13_1030" value="Fragmentos de Poreon Desperto" />
+  <keys type="item" key="MA_13_1031" value="Fragmentos de Galerion Desperto" />
+  <keys type="item" key="MA_13_1032" value="Fragmentos de Runelon Desperto" />
+  <keys type="item" key="MA_13_1033" value="Fragmentos de Torkai" />
+  <keys type="item" key="MA_17_0001" value="Pedra de Desejo de Alkanin Abençoado" />
+  <keys type="item" key="MA_17_0002" value="Pedra de Desejo de Torkai Abençoado" />
+  <keys type="item" key="MA_17_0003" value="Pedra de Desejo de Jamirot Abençoado" />
+  <keys type="item" key="MA_17_0004" value="Pedra de Desejo de Bailey Abençoado" />
+  <keys type="item" key="MA_17_0005" value="Pedra de Desejo de Narnis Abençoado" />
+  <keys type="item" key="MA_17_0006" value="Pedra de Desejo de Letonsia Astral de Pelúcia Abençoada" />
+  <keys type="item" key="MA_17_0007" value="Pedra de Desejo de Laiku Dourado Desperto Abençoado" />
+  <keys type="item" key="MA_17_0008" value="Pedra de Desejo de Johnie Lebrini Abençoado" />
+  <keys type="item" key="MA_17_0009" value="Pedra de Desejo de Leander Abençoado" />
+  <keys type="item" key="MA_17_0010" value="Pedra Abençoada de Desejo do Corcel Esqueleto" />
+  <keys type="item" key="MA_17_0011" value="Pedra de Desejo de Calypse de Pelúcia Abençoado" />
+  <keys type="item" key="MA_17_0012" value="Pedra de Desejo de Karasha de Pelúcia Abençoado" />
+  <keys type="item" key="MA_17_0013" value="Pedra de Desejo de Rodesh Desperto Abençoado" />
+  <keys type="item" key="MA_17_0014" value="Pedra de Desejo de Shakiba Desperto Abençoado" />
+  <keys type="item" key="MA_17_0015" value="Pedra de Desejo de Bernard Thortor Abençoado" />
+  <keys type="item" key="MA_17_0016" value="Pedra de Desejo de Coelho Heath Abençoado" />
+  <keys type="item" key="MA_17_0017" value="Pedra de Desejo de Karasha Mecha Abençoado" />
+  <keys type="item" key="MA_17_0018" value="Pedra de Desejo de Calypse Mecha Abençoado" />
+  <keys type="item" key="MA_17_0019" value="Pedra de Desejo de Luna Festiva Abençoada" />
+  <keys type="item" key="MA_17_0020" value="Pedra de Desejo de MC Pango Abençoado" />
+  <keys type="item" key="MA_17_0021" value="Pedra de Desejo de Sr. Pango Abençoado" />
+  <keys type="item" key="MA_17_0022" value="Pedra de Desejo de Profano Desperto Abençoado" />
+  <keys type="item" key="MA_17_0023" value="Pedra de Desejo de Apocalipse Desperto Abençoado" />
+  <keys type="item" key="MA_17_0024" value="Pedra de Desejo de Magnatu Abençoado" />
+  <keys type="item" key="MA_17_0025" value="Pedra de Desejo de Kerab Desperto Abençoado" />
+  <keys type="item" key="MA_17_0026" value="Pedra de Desejo de Garme Desperto Abençoado" />
+  <keys type="item" key="MA_17_0027" value="Pedra de Desejo de Jamirot Desperto Abençoado" />
+  <keys type="item" key="MA_17_0028" value="Pedra de Desejo de Aidus Abençoado" />
+  <keys type="item" key="MA_17_0029" value="Pedra de Desejo de Tishanan Abençoado" />
+  <keys type="item" key="MA_17_0030" value="Pedra de Desejo de Torkai Desperto Abençoado" />
+  <keys type="item" key="MA_17_0031" value="Pedra de Desejo de Torkai de Magma Abençoado" />
+  <keys type="item" key="MA_17_0032" value="Pedra de Desejo de Taisha Abençoada" />
+  <keys type="item" key="MA_17_0033" value="Pedra de Desejo de Benotien Abençoado" />
+  <keys type="item" key="MA_17_0034" value="Pedra de Desejo de Ahnturagen Abençoado" />
+  <keys type="item" key="MA_17_0035" value="Pedra de Desejo de Pyron Abençoado" />
+  <keys type="item" key="MA_17_0036" value="Pedra de Desejo de Nalrys Abençoado" />
+  <keys type="item" key="MA_17_0037" value="Pedra de Desejo de Roxinus Abençoado" />
+  <keys type="item" key="MA_17_0038" value="Pedra de Desejo de Lagosha Abençoado" />
+  <keys type="item" key="MA_17_0039" value="Pedra de Desejo de Nebes Abençoado" />
+  <keys type="item" key="MA_17_0040" value="Pedra de Desejo de Gorgos Abençoado" />
+  <keys type="item" key="MA_17_0041" value="Pedra de Desejo de Finion Abençoado" />
+  <keys type="item" key="MA_17_0042" value="Pedra de Desejo de Karon Abençoado" />
+  <keys type="item" key="MA_13_1035" value="Fragmento de Demonus de Pelúcia" />
+  <keys type="item" key="MA_13_1034" value="Fragmentos de Calypto de Pelúcia" />
+  <keys type="item" key="MA_13_1036" value="Fragmentos de Hameon de Pelúcia" />
+  <keys type="item" key="MA_13_1037" value="Essência das Terras Altas" />
+  <keys type="item" key="MA_13_1038" value="Essência de Parna" />
+  <keys type="item" key="MA_13_1039" value="Essência da Brecha" />
+  <keys type="item" key="MA_10_2001_1" value="Fragmento do Caos (Evento)" />
+  <keys type="item" key="MA_10_2002_1" value="Essência do Caos (Evento)" />
+  <keys type="item" key="MA_10_2003_1" value="Fragmento de Espírito (Evento)" />
+  <keys type="item" key="MA_10_2004_1" value="Essência do Espírito (Evento)" />
+  <keys type="item" key="MA_12_0038_1" value="Sombra do Purgatório (Evento)" />
+  <keys type="item" key="MA_10_1019_1" value="Formação de Fragmento (Evento)" />
+  <keys type="item" key="MA_60_0009" value="Pedra da Alma Alsaciana(Evento)" />
+  <keys type="item" key="MA_60_0011" value="Pedra da Alma Alsaciana(Evento)" />
+  <keys type="item" key="MA_60_0012" value="Bênção Alsaciana(Evento)" />
+  <keys type="item" key="MA_65_0001" value="Sangue Puro de Zenajahon" />
+  <keys type="item" key="MA_65_0002" value="Alma Nobre de Zenajahon" />
+  <keys type="item" key="MA_65_0003" value="Fragmento de Zenajahon" />
+  <keys type="item" key="MA_65_0004" value="Lingote Ancestral de Turimnan" />
+  <keys type="item" key="MA_65_0005" value="Liga Ancestral de Turimnan" />
+  <keys type="item" key="MA_65_0006" value="Sangue Real Corrompido" />
+  <keys type="item" key="MA_65_0007" value="Glifo Ancião em Pedra" />
+  <keys type="item" key="MA_65_0008" value="Fruta-Minério Aumentada de Aklan" />
+  <keys type="item" key="MA_9_0197" value="Carapaça de Adelic" />
+  <keys type="item" key="MA_9_0198" value="Essência de Aklan" />
+  <keys type="item" key="MA_9_0195" value="Esfera Intrincada de Familiar" />
+  <keys type="item" key="MA_9_0196" value="Esfera Intrínseca de Familiar" />
+  <keys type="item" key="MA_9_0199" value="Pedra Lunar Negra" />
+  <keys type="item" key="MA_9_0200" value="Pedra do Sol Intermitente" />
+  <keys type="item" key="MA_9_0201" value="Cogumelo de Esporos" />
+  <keys type="item" key="MA_9_0202" value="Caldeirão de Ritual" />
+  <keys type="item" key="MA_9_0203" value="Esfera do Chamado de Riventia" />
+  <keys type="item" key="MA_9_0204" value="Avatar do Trovão" />
+  <keys type="item" key="MA_9_0205" value="Avatar das Tempestades" />
+  <keys type="item" key="MA_2_6501" value="Cristalito Ancestral" />
+  <keys type="item" key="MA_2_6502" value="Flor de Aklan" />
+  <keys type="item" key="MA_2_6503" value="Minério de Poraonium" />
+  <keys type="item" key="MA_9_0206" value="Pedra de Sangue Prateada" />
+  <keys type="item" key="MA_9_0207" value="Pedra de Amato" />
+  <keys type="item" key="MA_9_0208" value="Agente Neutralizador de Veneno" />
+  <keys type="item" key="MA_9_0209" value="Estátua de Esmeralda" />
+  <keys type="item" key="MA_9_0210" value="Pedra de Sangue Animal" />
+  <keys type="item" key="MA_9_0211" value="Pedra Sortuda do Vale" />
+  <keys type="item" key="MA_9_0212" value="Pedra Eterna" />
+  <keys type="item" key="MA_9_0213" value="Pedra de Seiva Mística" />
+  <keys type="item" key="MA_65_0009" value="Tomo Real" />
+  <keys type="item" key="MA_65_0010" value="Colar Boreal Quebrado" />
+  <keys type="item" key="MA_65_0011" value="Anel Boreal Quebrado I" />
+  <keys type="item" key="MA_65_0012" value="Anel Boreal Quebrado II" />
+  <keys type="item" key="MA_65_0013" value="Pedra Ancestral de Amato" />
+  <keys type="item" key="MA_65_0014" value="Essência Purificada de Aklan" />
+  <keys type="item" key="MA_65_0015" value="Insígnia do Pioneiro" />
+  <keys type="item" key="MA_65_0016" value="Lágrimas de Zenajahon" />
+  <keys type="item" key="MA_65_0017" value="Sacrifício de Zenajahon" />
+  <keys type="item" key="MA_9_0214" value="Cristal de Lebrini Reluzente" />
+  <keys type="item" key="MA_9_0215" value="Alma do Desafiante" />
+  <keys type="item" key="MA_9_0216" value="Pedra Negra Ancestral" />
+  <keys type="item" key="MA_9_0217" value="Pedra da Joia da Morte" />
+  <keys type="item" key="MA_9_0218" value="Poeira Primitiva de Aklan" />
+  <keys type="item" key="MA_9_0219" value="Essência de Pesadelo" />
+  <keys type="item" key="MA_9_0220" value="Pedra da Alma do Dragão Ancião" />
+  <keys type="item" key="MA_9_0221" value="Pedra Corroída do Despertar" />
+  <keys type="item" key="MA_9_0222" value="Coração Ardente Desconhecido" />
+  <keys type="item" key="MA_18_0008" value="Fragmento Esquecido" />
+  <keys type="item" key="MA_18_0009" value="Pedaços Faltantes" />
+  <keys type="item" key="MA_9_0223" value="Lágrima de Ladrão Lebrini" />
+  <keys type="item" key="MA_17_0045" value="Pedra de Desejo de McTimon, o Touro Abençoado" />
+  <keys type="item" key="MA_17_0046" value="Pedra de Desejo de Taisha Desperta Abençoada" />
+  <keys type="item" key="MA_17_0047" value="Pedra de Desejo de Nimbus Dourada Abençoada" />
+  <keys type="item" key="MA_17_0048" value="Pedra de Desejo de Martina de Pelúcia Desperta Abençoada" />
+  <keys type="item" key="MA_17_0049" value="Pedra de Desejo de Poyo Mecha Desperto Abençoado" />
+  <keys type="item" key="MA_17_0050" value="Pedra de Desejo de Galerion de Pelúcia Abençoado" />
+  <keys type="item" key="MA_17_0051" value="Adorável Poyo Desperto Abençoado" />
+  <keys type="item" key="MA_17_0052" value="Pedra de Desejo de Nimbus Sinistra Abençoada" />
+  <keys type="item" key="MA_17_0053" value="Pedra de Desejo de Poreon de Pelúcia Abençoado" />
+  <keys type="item" key="MA_17_0054" value="Arroz" />
+  <keys type="item" key="MA_17_0055" value="Galinha" />
+  <keys type="item" key="MA_17_0056" value="Ginseng" />
+  <keys type="item" key="MA_17_0057" value="Marisco" />
+  <keys type="item" key="MA_17_0058" value="Conjunto de Utensílios de Cozinha" />
+  <keys type="item" key="MA_17_0059" value="Conjunto de Especiarias" />
+  <keys type="item" key="MA_17_0060" value="Mesa" />
+  <keys type="item" key="MA_15_0075" value="Benção do Zelnaris, o Deus da Ruína" />
+  <keys type="item" key="MA_15_0076" value="Totem de Braghin" />
+  <keys type="item" key="MA_15_0077" value="Adaga de Ritual Braghin" />
+  <keys type="item" key="MA_9_0224" value="Sangue de Braghin de Elite" />
+  <keys type="item" key="MA_9_0225" value="Cristal de Yatuman" />
+  <keys type="item" key="MA_9_0226" value="Ficha da Fera" />
+  <keys type="item" key="MA_15_0079" value="Pedra de Purificação do Portão" />
+  <keys type="item" key="MA_15_0078" value="Fragmentos de Joia do Sacerdote Braghin" />
+  <keys type="item" key="MA_HB_0001" value="Fonte do Poder Esquecido" />
+  <keys type="item" key="MA_15_0080" value="Pacote de Criação de Herança de Adaga Temmajin" />
+  <keys type="item" key="MA_15_0081" value="Pacote de Criação de Herança de Espada Temmajin" />
+  <keys type="item" key="MA_15_0082" value="Pacote de Criação de Herança de Montante Temmajin" />
+  <keys type="item" key="MA_15_0083" value="Pacote de Criação de Herança de Cetro Temmajin" />
+  <keys type="item" key="MA_15_0084" value="Pacote de Criação de Herança de Cajado Temmajin" />
+  <keys type="item" key="MA_15_0085" value="Pacote de Criação de Herança de Varinha Temmajin" />
+  <keys type="item" key="MA_15_0086" value="Pacote de Criação de Herança de Arco Temmajin" />
+  <keys type="item" key="MA_15_0087" value="Pacote de Criação de Herança de Arma Montada Temmajin" />
+  <keys type="item" key="MA_15_0088" value="Pacote de Criação de Herança de Arma Secundária Temmajin" />
+  <keys type="item" key="MA_15_0089" value="Pacote de Criação de Herança de Elmo Temmajin" />
+  <keys type="item" key="MA_15_0090" value="Pacote de Criação de Herança de Brafoneira Temmajin" />
+  <keys type="item" key="MA_15_0091" value="Pacote de Criação de Herança de Armadura Temmajin" />
+  <keys type="item" key="MA_15_0092" value="Pacote de Criação de Herança de Luvas Temmajin" />
+  <keys type="item" key="MA_15_0093" value="Pacote de Criação de Herança de Botas Temmajin" />
+  <keys type="item" key="MA_15_0094" value="Pacote de Criação de Herança de Colar Temmajin" />
+  <keys type="item" key="MA_15_0095" value="Pacote de Criação de Herança de Anel Temmajin" />
+  <keys type="item" key="MA_15_0096" value="Pacote de Criação de Herança de Adaga Alsaciana" />
+  <keys type="item" key="MA_15_0097" value="Pacote de Criação de Herança de Espada Alsaciana" />
+  <keys type="item" key="MA_15_0098" value="Pacote de Criação de Herança de Montante Alsaciano" />
+  <keys type="item" key="MA_15_0099" value="Pacote de Criação de Herança de Cetro Alsaciano" />
+  <keys type="item" key="MA_15_0100" value="Pacote de Criação de Herança de Cajado Alsaciano" />
+  <keys type="item" key="MA_15_0101" value="Pacote de Criação de Herança de Varinha Alsaciana" />
+  <keys type="item" key="MA_15_0102" value="Pacote de Criação de Herança de Arco Alsaciano" />
+  <keys type="item" key="MA_15_0103" value="Pacote de Criação de Herança de Arma Montada Alsaciana" />
+  <keys type="item" key="MA_15_0104" value="Pacote de Criação de Herança de Arma Secundária Alsaciana" />
+  <keys type="item" key="MA_15_0105" value="Pacote de Criação de Herança de Elmo Alsaciano" />
+  <keys type="item" key="MA_15_0106" value="Pacote de Criação de Herança de Brafoneira Alsaciana" />
+  <keys type="item" key="MA_15_0107" value="Pacote de Criação de Herança de Armadura Alsaciana" />
+  <keys type="item" key="MA_15_0108" value="Pacote de Criação de Herança de Luvas Alsacianas" />
+  <keys type="item" key="MA_15_0109" value="Pacote de Criação de Herança de Botas Alsacianas" />
+  <keys type="item" key="MA_15_0110" value="Pacote de Criação de Herança de Colar Alsaciano" />
+  <keys type="item" key="MA_15_0111" value="Pacote de Criação de Herança de Anel Alsaciano" />
+  <keys type="item" key="MA_17_0064" value="Pedra de Desejo de Sunny Abençoado" />
+  <keys type="item" key="MA_1_6501" value="Liga de Cobre Melhorada" />
+  <keys type="item" key="MA_1_6502" value="Liga de Ferro Melhorada" />
+  <keys type="item" key="MA_1_6503" value="Liga de Mithril Melhorada" />
+  <keys type="item" key="MA_1_6504" value="Liga de Turalium Melhorada" />
+  <keys type="item" key="MA_1_6505" value="Liga de Adamantium Melhorada" />
+  <keys type="item" key="MA_2_6511" value="Pó de Prata Melhorado" />
+  <keys type="item" key="MA_2_6512" value="Pó de Ouro Melhorado" />
+  <keys type="item" key="MA_2_6513" value="Ametista Melhorada" />
+  <keys type="item" key="MA_2_6514" value="Safira Melhorada" />
+  <keys type="item" key="MA_2_6515" value="Esmeralda Melhorada" />
+  <keys type="item" key="MA_1_6516" value="Liga do Vazio" />
+  <keys type="item" key="MA_2_6517" value="Pó de Gema" />
+  <keys type="item" key="MA_1_6506" value="Liga Gélida" />
+  <keys type="item" key="MA_2_6518" value="Cristal Gélido" />
+  <keys type="item" key="MA_1_6507" value="Liga Gélida Melhorada" />
+  <keys type="item" key="MA_1_6508" value="Fragmento Mágico de Salant" />
+  <keys type="item" key="MA_15_0112" value="Pacote de Criação de Herança de Espada de Zelnaris" />
+  <keys type="item" key="MA_15_0113" value="Pacote de Criação de Herança de Montante de Zelnaris" />
+  <keys type="item" key="MA_15_0114" value="Pacote de Criação de Herança de Adaga de Zelnaris" />
+  <keys type="item" key="MA_15_0115" value="Pacote de Criação de Herança de Cetro de Zelnaris" />
+  <keys type="item" key="MA_15_0116" value="Pacote de Criação de Herança de Cajado de Zelnaris" />
+  <keys type="item" key="MA_15_0117" value="Pacote de Criação de Herança de Varinha de Zelnaris" />
+  <keys type="item" key="MA_15_0118" value="Pacote de Criação de Herança de Arco de Zelnaris" />
+  <keys type="item" key="MA_15_0119" value="Pacote de Criação de Herança de Arma Montada de Zelnaris" />
+  <keys type="item" key="MA_15_0120" value="Pacote de Criação de Herança de Arma Secundária de Zelnaris" />
+  <keys type="item" key="MA_15_0121" value="Pacote de Criação de Herança de Colar de Zelnaris" />
+  <keys type="item" key="MA_15_0122" value="Pacote de Criação de Herança de Anel de Zelnaris" />
+  <keys type="item" key="MA_9_0227" value="Pedra de Mana da Destruição" />
+  <keys type="item" key="MA_13_1040" value="Fragmento de Espectro Mecha Brilhante" />
+  <keys type="item" key="MA_13_1041" value="Fragmento de Letonsia de Pelúcia Rosa Brilhante" />
+  <keys type="item" key="MA_13_1042" value="Fragmento de Karon Luzente" />
+  <keys type="item" key="MA_13_1043" value="Fragmento de Nalrys Luzente" />
+  <keys type="item" key="MA_13_1044" value="Fragmento de Suiguchi Intrépido" />
+  <keys type="item" key="MA_13_1045" value="Fragmento de Suiguchi Luzente" />
+  <keys type="item" key="MA_15_0123" value="Pacote de Criação de Herança de Adaga Temmajin" />
+  <keys type="item" key="MA_15_0124" value="Pacote de Criação de Herança de Espada Temmajin" />
+  <keys type="item" key="MA_15_0125" value="Pacote de Criação de Herança de Montante Temmajin" />
+  <keys type="item" key="MA_15_0126" value="Pacote de Criação de Herança de Cetro Temmajin" />
+  <keys type="item" key="MA_15_0127" value="Pacote de Criação de Herança de Cajado Temmajin" />
+  <keys type="item" key="MA_15_0128" value="Pacote de Criação de Herança de Varinha Temmajin" />
+  <keys type="item" key="MA_15_0129" value="Pacote de Criação de Arco de Temmajin" />
+  <keys type="item" key="MA_15_0130" value="Pacote de Criação de Herança de Arma Montada Temmajin" />
+  <keys type="item" key="MA_15_0131" value="Pacote de Criação de Herança de Arma Secundária Temmajin" />
+  <keys type="item" key="MA_15_0132" value="Pacote de Criação de Herança de Elmo Temmajin" />
+  <keys type="item" key="MA_15_0133" value="Pacote de Criação de Herança de Brafoneira Temmajin" />
+  <keys type="item" key="MA_15_0134" value="Pacote de Criação de Herança de Armadura Temmajin" />
+  <keys type="item" key="MA_15_0135" value="Pacote de Criação de Herança de Luvas Temmajin" />
+  <keys type="item" key="MA_15_0136" value="Pacote de Criação de Herança de Botas Temmajin" />
+  <keys type="item" key="MA_15_0137" value="Pacote de Criação de Herança de Colar Temmajin" />
+  <keys type="item" key="MA_15_0138" value="Pacote de Criação de Herança de Anel Temmajin" />
+  <keys type="item" key="MA_15_0139" value="Pacote de Criação de Herança de Adaga Alsaciana" />
+  <keys type="item" key="MA_15_0140" value="Pacote de Criação de Herança de Espada Alsaciana" />
+  <keys type="item" key="MA_15_0141" value="Pacote de Criação de Herança de Montante Alsaciano" />
+  <keys type="item" key="MA_15_0142" value="Pacote de Criação de Herança de Cetro Alsaciano" />
+  <keys type="item" key="MA_15_0143" value="Pacote de Criação de Herança de Cajado Alsaciano" />
+  <keys type="item" key="MA_15_0144" value="Pacote de Criação de Herança de Varinha Alsaciana" />
+  <keys type="item" key="MA_15_0145" value="Pacote de Criação de Arco Alsaciano" />
+  <keys type="item" key="MA_15_0146" value="Pacote de Criação de Herança de Arma Montada Alsaciana" />
+  <keys type="item" key="MA_15_0147" value="Pacote de Criação de Herança de Arma Secundária Alsaciana" />
+  <keys type="item" key="MA_15_0148" value="Pacote de Criação de Herança de Elmo Alsaciano" />
+  <keys type="item" key="MA_15_0149" value="Pacote de Criação de Herança de Brafoneira Alsaciana" />
+  <keys type="item" key="MA_15_0150" value="Pacote de Criação de Herança de Armadura Alsaciana" />
+  <keys type="item" key="MA_15_0151" value="Pacote de Criação de Herança de Luvas Alsacianas" />
+  <keys type="item" key="MA_15_0152" value="Pacote de Criação de Herança de Botas Alsacianas" />
+  <keys type="item" key="MA_15_0153" value="Pacote de Criação de Herança de Colar Alsaciano" />
+  <keys type="item" key="MA_15_0154" value="Pacote de Criação de Herança de Anel Alsaciano" />
+  <keys type="item" key="MA_15_0155" value="Pacote de Criação de Herança de Espada de Zelnaris" />
+  <keys type="item" key="MA_15_0156" value="Pacote de Criação de Herança de Montante de Zelnaris" />
+  <keys type="item" key="MA_15_0157" value="Pacote de Criação de Herança de Adaga de Zelnaris" />
+  <keys type="item" key="MA_15_0158" value="Pacote de Criação de Herança de Cetro de Zelnaris" />
+  <keys type="item" key="MA_15_0159" value="Pacote de Criação de Herança de Cajado de Zelnaris" />
+  <keys type="item" key="MA_15_0160" value="Pacote de Criação de Herança de Varinha de Zelnaris" />
+  <keys type="item" key="MA_15_0161" value="Pacote de Criação de Arco de Zelnaris" />
+  <keys type="item" key="MA_15_0162" value="Pacote de Criação de Herança de Arma Montada de Zelnaris" />
+  <keys type="item" key="MA_15_0163" value="Pacote de Criação de Herança de Arma Secundária de Zelnaris" />
+  <keys type="item" key="MA_15_0164" value="Pacote de Criação de Herança de Colar de Zelnaris" />
+  <keys type="item" key="MA_15_0165" value="Pacote de Criação de Herança de Anel de Zelnaris" />
+  <keys type="item" key="MA_15_0166" value="1000x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_15_0167" value="200x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_15_0168" value="100x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_15_0169" value="50x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_13_1046" value="Escultura de Demoroth Infernal Dourado" />
+  <keys type="item" key="MA_17_0065" value="Pedra de Desejo de Demoroth Infernal Dourado Abençoado" />
+  <keys type="item" key="MA_17_0066" value="Pedra de Desejo de Danzelion Intrépido Abençoado" />
+  <keys type="item" key="MA_17_0067" value="Pedra de Desejo de Krabb Caótico Abençoado" />
+  <keys type="item" key="MA_17_0068" value="Pedra de Desejo de Danzelion Sábio Abençoado" />
+  <keys type="item" key="MA_15_0170" value="500x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_15_0171" value="30x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_15_0172" value="20x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_15_0173" value="10x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_15_0174" value="5x Cupom de moedas MacBain" />
+  <keys type="item" key="MA_17_0069" value="Pedra de Desejo de Wyvern da Ira Exaltada" />
+  <keys type="item" key="MA_17_0070" value="Pedra de Desejo de Wyvern da Ira Exaltada Abençoado" />
+  <keys type="item" key="MA_17_0071" value="Melancia Fria" />
+  <keys type="item" key="MA_17_0072" value="Summer" />
+  <keys type="item" key="MA_17_0073" value="Doubled" />
+  <keys type="item" key="MA_17_0074" value="Silver summer" />
+  <keys type="item" key="MA_17_0075" value="Golden summer" />
+  <keys type="item" key="MA_17_0076" value="Summer" />
+  <keys type="item" key="MA_17_0077" value="Doubled" />
+  <keys type="item" key="MA_17_0078" value="Silver summer" />
+  <keys type="item" key="MA_17_0079" value="Golden summer" />
+  <keys type="item" key="MA_17_0080" value="Sweet honey" />
+  <keys type="item" key="MA_17_0081" value="Rice flour" />
+  <keys type="item" key="MA_9_0228" value="Brasa Azul" />
+  <keys type="item" key="MA_13_1059" value="Lucky Unlucky piece" />
+  <keys type="item" key="MA_13_1060" value="Sweet nightmare pumping piece" />
+  <keys type="item" key="MA_17_0082" value="Hard horn" />
+  <keys type="item" key="MA_17_0083" value="Golden tail" />
+  <keys type="item" key="MA_17_0084" value="Soul decision" />
+  <keys type="item" key="MA_17_0085" value="Horn" />
+  <keys type="item" key="MA_17_0086" value="Shine" />
+  <keys type="item" key="MA_17_0087" value="Hard ginseng" />
+  <keys type="item" key="MA_17_0088" value="Fresh seafood" />
+  <keys type="item" key="MA_13_1061" value="Merry Christmas piece" />
+  <keys type="item" key="MA_13_1062" value="Happy Christmas piece" />
+  <keys type="item" key="MA_17_0089" value="Delicious rice" />
+  <keys type="item" key="MA_17_0090" value="Suspicious beef" />
+  <keys type="item" key="MA_17_0091" value="Fresh water" />
+  <keys type="item" key="MA_17_0092" value="Mystery" />
+  <keys type="item" key="MA_13_1063" value="Anti -axis" />
+  <keys type="item" key="MA_17_0093" value="Fellow's integer" />
+  <keys type="item" key="MA_17_0094" value="Poraonium Alloy of Elun Muddine" />
+  <keys type="item" key="MA_17_0095" value="Elunpauldol Bolklist Crystal Heat" />
+  <keys type="item" key="MA_17_0096" value="Elun Guden Dragonium Battlefield Monster" />
+  <keys type="item" key="MA_17_0097" value="Poraonium Alloy of Spirit" />
+  <keys type="item" key="MA_17_0098" value="Star flower" />
+  <keys type="item" key="MA_17_0099" value="Dragonium Battlefield Monster" />
+  <keys type="item" key="MA_17_0100" value="Elun's essence" />
+  <keys type="item" key="MA_17_0101" value="[Livro] Receita Secreta" />
+  <keys type="item" key="MA_17_0102" value="Fonte universal" />
+  <keys type="item" key="MA_18_0010" value="Essência do Despertar" />
+  <keys type="item" key="MA_17_0103" value="Flame" />
+  <keys type="item" key="MA_20_0001" value="Caixa de fragmento aleatório de familiar comum." />
+  <keys type="item" key="MA_18_0012" value="Waffle" />
+  <keys type="item" key="MA_18_0011" value="Ore Core" />
+  <keys type="item" key="MA_17_0104" value="Sculpture" />
+  <keys type="item" key="MA_1_0007" value="Shining Ore" />
+  <keys type="item" key="MA_18_0013" value="Auréola Mel" />
+  <keys type="item" key="MA_21_0001" value="Um fragmento de Blosus do Deserto" />
+  <keys type="item" key="MA_21_0002" value="Um fragmento de Blosus do Prado" />
+  <keys type="item" key="MA_21_0003" value="Um fragmento de Blosus do Abismo" />
+  <keys type="item" key="MA_21_0004" value="Um fragmento de Cosmos Lurchibi" />
+  <keys type="item" key="MA_20_0002" value="Caixa de fragmento aleatório de familiar elite." />
+  <keys type="item" key="MA_20_0003" value="Caixa de fragmento aleatório de familiar heroico." />
+  <keys type="item" key="MA_21_0005" value="Pedaço de Pérola de Arroz Jumbo" />
+  <keys type="item" key="MA_21_0006" value="Pedaço de Pérola de Pêssego Jumbo" />
+  <keys type="item" key="MA_21_0007" value="Pedaço de Pérola de Ervas Jumbo" />
+  <keys type="item" key="MA_21_0008" value="Pedaço de Pérola de Mirtilo Jumbo" />
+  <keys type="item" key="MA_21_0009" value="Pedaço de Pérola de Flor Jumbo" />
+  <keys type="item" key="MA_21_0010" value="Pedaço de Pérola de Neve Jumbo" />
+  <keys type="item" key="MA_21_0011" value="Fragmento de Agul Kumadori " />
+  <keys type="item" key="MA_21_0012" value="Fragmento de Musgato" />
+  <keys type="item" key="MA_5_0007" value="special meat" />
+  <keys type="item" key="MA_21_0013" value="Wedding Matri Pieces" />
+  <keys type="item" key="MA_21_0014" value="Wedding Monio Pieces" />
+  <keys type="item" key="MA_21_0015" value="Pure White Romantica Pieces" />
+  <keys type="item" key="MA_1_0008" value="Orichalcum" />
+  <keys type="item" key="MA_1_7001" value="Orichalcum Ingot" />
+  <keys type="item" key="MA_2_0007" value="Red Diamond" />
+  <keys type="item" key="MA_3_0007" value="Lava Grass" />
+  <keys type="item" key="MA_4_0007" value="Ultimate Cloth" />
+  <keys type="item" key="MA_6_0007" value="Ultimate Energy" />
+  <keys type="item" key="MA_6_7001" value="Ultimate Spirit Water" />
+  <keys type="item" key="MA_2_7001" value="Flat Red Diamond" />
+  <keys type="item" key="MA_21_0016" value="Essence of the Cultist Master" />
+  <keys type="item" key="MA_21_0017" value="Soul of the Spider Queen" />
+</files>

@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="npc" key="N_02_1_0245_0000" value="Leo" />
+  <keys type="npc" key="N_02_1_0245_0001" value="Leo" />
+  <keys type="npc" key="N_01_0_0001_0000" value="Corvo" />
+  <keys type="npc" key="N_01_0_0002_0001" value="Prengel" />
+  <keys type="npc" key="N_01_1_0001_0000" value="Rato" />
+  <keys type="npc" key="N_02_0_0001_0010" value="Protetor Negro" />
+  <keys type="npc" key="N_02_0_0000_0000" value="Smillan" />
+  <keys type="npc" key="N_02_0_0000_0002" value="Romlin" />
+  <keys type="npc" key="N_02_0_0003_0000" value="Corvo" />
+  <keys type="npc" key="N_02_0_0005_0000" value="Prengel" />
+  <keys type="npc" key="N_02_0_0006_0000" value="Amarran" />
+  <keys type="npc" key="N_02_0_0006_0001" value="Armeiro" />
+  <keys type="npc" key="N_02_0_0007_0000" value="Capataz Allen" />
+  <keys type="npc" key="N_02_0_0008_0000" value="Corvo" />
+  <keys type="npc" key="N_02_0_0000_0001" value="Cullaghan" />
+  <keys type="npc" key="N_02_0_0010_0000" value="Marline Fêmea" />
+  <keys type="npc" key="N_02_0_0111_0000" value="Lenhador Ferido" />
+  <keys type="npc" key="N_02_0_0012_0000" value="Marline Criança" />
+  <keys type="npc" key="N_02_0_0013_0000" value="Marline Ancião" />
+  <keys type="npc" key="N_02_0_0015_0000" value="Ferreiro Gialon" />
+  <keys type="npc" key="N_02_0_0018_0000" value="Pesquisador Erudito" />
+  <keys type="npc" key="N_02_0_0019_0000" value="Soldado de Hakanas" />
+  <keys type="npc" key="N_02_0_0020_0000" value="Cavaleiro de Hakanas" />
+  <keys type="npc" key="N_02_0_0021_0000" value="Investigador Real" />
+  <keys type="npc" key="N_02_0_0022_0000" value="Kesin" />
+  <keys type="npc" key="N_02_0_0023_0000" value="Ferreira" />
+  <keys type="npc" key="N_02_0_0024_0000" value="Mercadorias em Geral, Comida" />
+  <keys type="npc" key="N_02_0_0024_0001" value="Mercadorias em Geral, Comida" />
+  <keys type="npc" key="N_02_0_0025_0000" value="Comerciante de Ovos" />
+  <keys type="npc" key="N_02_0_0025_0001" value="Adina" />
+  <keys type="npc" key="N_02_0_0026_0000" value="Comerciante de Armas/Armaduras" />
+  <keys type="npc" key="N_02_0_0027_0000" value="Jardineiro Daniel" />
+  <keys type="npc" key="N_02_0_0031_0000" value="Corretor do Mercado" />
+  <keys type="npc" key="N_02_0_0034_0000" value="Espectro das Ruínas" />
+  <keys type="npc" key="N_02_0_0034_0001" value="Espectro das Ruínas" />
+  <keys type="npc" key="N_02_0_0035_0000" value="Arqueólogo" />
+  <keys type="npc" key="N_02_0_0035_0001" value="Arqueólogo" />
+  <keys type="npc" key="N_02_0_0035_0002" value="Arqueólogo" />
+  <keys type="npc" key="N_02_0_0035_0003" value="Arqueólogo" />
+  <keys type="npc" key="N_02_0_0038_0000" value="Comerciante de Bolsas" />
+  <keys type="npc" key="N_02_0_0038_0001" value="Comerciante de Bolsas" />
+  <keys type="npc" key="N_02_0_0048_0000" value="Guarda" />
+  <keys type="npc" key="N_02_0_0074_0000" value="Paolo Roaman" />
+  <keys type="npc" key="N_02_0_0082_0000" value="Romero" />
+  <keys type="npc" key="N_02_0_0095_0000" value="Cavaleira do Dragão" />
+  <keys type="npc" key="N_02_0_0098_0000" value="Comerciante de Armamentos" />
+  <keys type="npc" key="N_02_0_0098_0001" value="Glen" />
+  <keys type="npc" key="N_02_0_0098_0002" value="Mascates de Mendiom" />
+  <keys type="npc" key="N_02_0_0257_0003" value="Boman" />
+  <keys type="npc" key="N_02_0_0219_0000" value="Piloto de Titã do Céu" />
+  <keys type="npc" key="N_02_0_0221_0000" value="Tragu'Rhan" />
+  <keys type="npc" key="N_02_0_0221_0001" value="Hama'Rahn" />
+  <keys type="npc" key="N_02_0_0221_0002" value="Chefe Crokhoon" />
+  <keys type="npc" key="N_02_0_0223_0000" value="Tortus" />
+  <keys type="npc" key="N_02_0_0224_0000" value="Barrivus" />
+  <keys type="npc" key="N_02_0_0224_0001" value="Barrivus" />
+  <keys type="npc" key="N_02_0_0224_0002" value="Barrivus" />
+  <keys type="npc" key="N_02_0_0224_0003" value="Marlene Ferida" />
+  <keys type="npc" key="N_02_0_0229_0000" value="Familiar dos Cavaleiros do Dragão" />
+  <keys type="npc" key="N_02_0_0232_0000" value="Administrador de Familiares" />
+  <keys type="npc" key="N_02_0_0232_0001" value="Administrador de Familiares" />
+  <keys type="npc" key="N_02_0_0232_0002" value="Administrador de Familiares" />
+  <keys type="npc" key="N_02_0_0243_0000" value="Corvo" />
+  <keys type="npc" key="N_02_0_0243_0001" value="Corvo" />
+  <keys type="npc" key="N_02_0_0246_0000" value="Lenhador Ferido" />
+  <keys type="npc" key="N_02_0_0247_0000" value="Kenny" />
+  <keys type="npc" key="N_02_0_0248_0000" value="Administrador de transportes" />
+  <keys type="npc" key="N_02_0_0248_0001" value="Administrador de transportes" />
+  <keys type="npc" key="N_02_0_0252_0000" value="Criador de Criaturas" />
+  <keys type="npc" key="N_02_0_0252_0001" value="Criador de Criaturas" />
+  <keys type="npc" key="N_02_0_0252_0002" value="Criador de Criaturas" />
+  <keys type="npc" key="N_02_0_0253_0000" value="Piloto de Titã" />
+  <keys type="npc" key="N_02_0_0253_0001" value="Douglas" />
+  <keys type="npc" key="N_02_0_0253_0002" value="Mestre de Combate" />
+  <keys type="npc" key="N_02_0_0253_0004" value="Mestre de Mágica" />
+  <keys type="npc" key="N_02_0_0253_0005" value="Elina" />
+  <keys type="npc" key="N_02_0_0253_0006" value="Mestre Sacerdote" />
+  <keys type="npc" key="N_02_4_0004_0000" value="Criatura de Gelo" />
+  <keys type="npc" key="N_02_4_0011_0000" value="Guarda Espiritual Marline" />
+  <keys type="npc" key="N_02_4_0014_0000" value="Mush, o Ganancioso" />
+  <keys type="npc" key="N_02_4_0016_0000" value="Criatura Guardiã" />
+  <keys type="npc" key="N_02_4_0017_0000" value="Espírito Elementar" />
+  <keys type="npc" key="N_03_0_0029_0000" value="Alex, o Sobrevivente" />
+  <keys type="npc" key="N_03_0_0030_0000" value="Sábio Bagulagul" />
+  <keys type="npc" key="N_51_0_0028_0000" value="Elisha" />
+  <keys type="npc" key="N_02_0_0095_0001" value="Cavaleira do Dragão" />
+  <keys type="npc" key="N_02_0_0254_0000" value="Reparador de Titã dos Céus" />
+  <keys type="npc" key="N_02_0_0041_0005" value="Traidor dos Cavaleiros do Dragão" />
+  <keys type="npc" key="N_02_0_0253_0007" value="Mestre Berserker" />
+  <keys type="npc" key="N_02_1_0256_0000" value="Rocha de Braghin Capataz" />
+  <keys type="npc" key="N_02_0_0023_0001" value="Trabalhadora" />
+  <keys type="npc" key="N_02_0_0246_0001" value="Soldado Ferido" />
+  <keys type="npc" key="N_02_0_0257_0004" value="Noiman" />
+  <keys type="npc" key="N_02_0_0257_0005" value="Farmácia" />
+  <keys type="npc" key="N_02_0_0258_0000" value="Javali" />
+  <keys type="npc" key="N_02_0_0111_0001" value="Lenhador Ferido" />
+  <keys type="npc" key="N_02_0_0254_0001" value="Reparador de Titã dos Céus" />
+  <keys type="npc" key="N_02_0_0095_0002" value="Sir Rolen" />
+  <keys type="npc" key="N_02_0_0074_0001" value="Capitão dos Cavaleiros do Dragão" />
+  <keys type="npc" key="N_02_0_0257_0006" value="Comerciante Estagiário Sentado" />
+  <keys type="npc" key="N_02_0_0247_0001" value="Comerciante Estagiário Sentado" />
+  <keys type="npc" key="N_02_0_0257_0007" value="Comerciante Estagiário Observador" />
+  <keys type="npc" key="N_02_0_0023_0002" value="Tripulante do Titã dos Céus" />
+  <keys type="npc" key="N_02_0_0068_0000" value="Soldado Raso Nills" />
+  <keys type="npc" key="N_02_0_0098_0003" value="Administrador de Armazenamento" />
+  <keys type="npc" key="N_02_0_0098_0004" value="Teste de Caixa de Correio" />
+  <keys type="npc" key="N_02_0_0074_0002" value="Alex" />
+  <keys type="npc" key="N_02_0_0068_0001" value="Celine" />
+  <keys type="npc" key="N_02_0_0068_0002" value="Soldado Raso Louie" />
+  <keys type="npc" key="N_02_0_0068_0003" value="Soldado Raso Boris" />
+  <keys type="npc" key="N_02_0_0095_0003" value="Cavaleiro Joel" />
+  <keys type="npc" key="N_02_0_0224_0004" value="Kylas" />
+  <keys type="npc" key="N_02_0_0074_0003" value="Ronfraine III" />
+  <keys type="npc" key="N_02_0_0023_0003" value="Renata" />
+  <keys type="npc" key="N_02_0_0253_0008" value="Mestre Feiticeiro" />
+  <keys type="npc" key="N_02_0_0253_0009" value="Dianna" />
+  <keys type="npc" key="N_02_0_0253_0010" value="Mestre Assassino" />
+  <keys type="npc" key="N_02_0_0253_0011" value="Lance" />
+  <keys type="npc" key="N_02_0_0253_0012" value="Arqueiro Mestre" />
+  <keys type="npc" key="N_02_0_0253_0013" value="Americks" />
+  <keys type="npc" key="N_02_5_0001_0000" value="Pedra de Retorno" />
+  <keys type="npc" key="N_02_0_0025_0002" value="Jennie" />
+  <keys type="npc" key="N_03_0_0001_0000" value="Ronfraine III" />
+  <keys type="npc" key="N_03_0_0001_0001" value="Barão" />
+  <keys type="npc" key="N_03_0_0001_0002" value="Aristocrata" />
+  <keys type="npc" key="N_03_0_0001_0003" value="Administrador de Classe Baixa" />
+  <keys type="npc" key="N_03_0_0001_0004" value="Camareiro-Mor" />
+  <keys type="npc" key="N_03_0_0001_0005" value="Camareiro" />
+  <keys type="npc" key="N_03_0_0001_0006" value="General" />
+  <keys type="npc" key="N_03_0_0001_0007" value="Cavaleiro de Classe Alta" />
+  <keys type="npc" key="N_03_0_0001_0008" value="Cavaleira Guardiã" />
+  <keys type="npc" key="N_03_0_0001_0009" value="Cavaleira Real" />
+  <keys type="npc" key="N_03_0_0001_0010" value="Cavaleira Insignificante" />
+  <keys type="npc" key="N_03_0_0001_0011" value="Guarda da Capital" />
+  <keys type="npc" key="N_03_0_0001_0012" value="Soldado de Hakanas" />
+  <keys type="npc" key="N_03_0_0001_0013" value="Mestre Yulnus" />
+  <keys type="npc" key="N_03_0_0218_0000" value="Corvo" />
+  <keys type="npc" key="N_03_0_0001_0014" value="Iniciado Sombrio" />
+  <keys type="npc" key="N_03_0_0001_0015" value="Feiticeiro da Virtude" />
+  <keys type="npc" key="N_03_0_0001_0016" value="Maga Adepta" />
+  <keys type="npc" key="N_03_0_0001_0017" value="Homem Iniciado" />
+  <keys type="npc" key="N_03_0_0001_0018" value="Mago Sombrio de Elite" />
+  <keys type="npc" key="N_03_0_0001_0019" value="Mago Sombrio Avançado" />
+  <keys type="npc" key="N_03_0_0001_0020" value="Mago Sombrio Iniciado" />
+  <keys type="npc" key="N_03_0_0001_0021" value="Mago Suspeito" />
+  <keys type="npc" key="N_03_0_0001_0022" value="Camponês" />
+  <keys type="npc" key="N_03_0_0001_0023" value="Jovem Aldeão" />
+  <keys type="npc" key="N_03_0_0001_0024" value="Miliciano" />
+  <keys type="npc" key="N_03_0_0001_0025" value="Fazendeira" />
+  <keys type="npc" key="N_03_0_0001_0026" value="Swin" />
+  <keys type="npc" key="N_03_0_0001_0027" value="Mestre Armadureiro Iniciante" />
+  <keys type="npc" key="N_03_0_0001_0028" value="Ferreira" />
+  <keys type="npc" key="N_03_0_0001_0029" value="Aprendiz de Ferreiro" />
+  <keys type="npc" key="N_03_0_0001_0030" value="Cozinheiro Chefe" />
+  <keys type="npc" key="N_03_0_0001_0031" value="Cozinheiro" />
+  <keys type="npc" key="N_03_0_0001_0032" value="Capitão" />
+  <keys type="npc" key="N_03_0_0001_0033" value="Primeiro-Marinheiro" />
+  <keys type="npc" key="N_03_0_0001_0034" value="Tripulante" />
+  <keys type="npc" key="N_03_0_0001_0035" value="Tripulante de Titã dos Céus" />
+  <keys type="npc" key="N_03_0_0001_0036" value="Presidente do Banco" />
+  <keys type="npc" key="N_03_0_0001_0037" value="Funcionária do Banco" />
+  <keys type="npc" key="N_03_0_0001_0038" value="Blake" />
+  <keys type="npc" key="N_03_0_0001_0039" value="Semente" />
+  <keys type="npc" key="N_03_0_0001_0040" value="Ian" />
+  <keys type="npc" key="N_03_0_0001_0041" value="Mestre Corretora" />
+  <keys type="npc" key="N_03_0_0001_0042" value="Sacerdote Sagrado" />
+  <keys type="npc" key="N_03_0_0001_0043" value="Guarda Sacerdote" />
+  <keys type="npc" key="N_03_0_0001_0044" value="Comerciante de Armadura" />
+  <keys type="npc" key="N_03_0_0001_0045" value="Comerciante Adolescente" />
+  <keys type="npc" key="N_03_0_0001_0046" value="Comerciante" />
+  <keys type="npc" key="N_03_0_0001_0047" value="Homem Mascate" />
+  <keys type="npc" key="N_03_0_0001_0048" value="Jovem Garoto" />
+  <keys type="npc" key="N_03_0_0001_0049" value="Mendigo" />
+  <keys type="npc" key="N_03_0_0001_0050" value="Migg" />
+  <keys type="npc" key="N_03_0_0001_0051" value="Mercenário" />
+  <keys type="npc" key="N_03_0_0001_0052" value="Idoso" />
+  <keys type="npc" key="N_03_0_0002_0000" value="Veneficia" />
+  <keys type="npc" key="N_03_0_0002_0001" value="Godiva" />
+  <keys type="npc" key="N_03_0_0002_0002" value="Condessa" />
+  <keys type="npc" key="N_03_0_0002_0003" value="Esposa do Barão" />
+  <keys type="npc" key="N_03_0_0002_0004" value="Criada" />
+  <keys type="npc" key="N_03_0_0002_0005" value="Cavaleira Guardiã" />
+  <keys type="npc" key="N_03_0_0002_0006" value="Cavaleira Real" />
+  <keys type="npc" key="N_03_0_0002_0007" value="Cavaleira Insignificante" />
+  <keys type="npc" key="N_03_0_0002_0008" value="Guarda da Capital" />
+  <keys type="npc" key="N_03_0_0002_0009" value="Linetta" />
+  <keys type="npc" key="N_03_0_0002_0010" value="Linetta" />
+  <keys type="npc" key="N_03_0_0002_0011" value="Maga Adepta" />
+  <keys type="npc" key="N_03_0_0002_0012" value="Iniciada" />
+  <keys type="npc" key="N_03_0_0002_0013" value="Vidente" />
+  <keys type="npc" key="N_03_0_0002_0014" value="Velho Lambert" />
+  <keys type="npc" key="N_03_0_0002_0015" value="Taverneira" />
+  <keys type="npc" key="N_03_0_0002_0016" value="Taverneira" />
+  <keys type="npc" key="N_03_0_0002_0017" value="Trabalhadora" />
+  <keys type="npc" key="N_03_0_0002_0018" value="Aldeã" />
+  <keys type="npc" key="N_03_0_0002_0019" value="Farmacêutica" />
+  <keys type="npc" key="N_03_0_0002_0020" value="Ferreira" />
+  <keys type="npc" key="N_03_0_0002_0021" value="Mestre Corretora" />
+  <keys type="npc" key="N_03_0_0002_0022" value="Millia" />
+  <keys type="npc" key="N_03_0_0002_0023" value="Wizlider" />
+  <keys type="npc" key="N_03_0_0002_0024" value="Funcionária do Banco" />
+  <keys type="npc" key="N_03_0_0002_0025" value="Sacerdotisa" />
+  <keys type="npc" key="N_03_0_0002_0026" value="Comerciante" />
+  <keys type="npc" key="N_03_0_0002_0027" value="Comerciante" />
+  <keys type="npc" key="N_03_0_0002_0028" value="Idosa" />
+  <keys type="npc" key="N_03_0_0002_0029" value="Kimou" />
+  <keys type="npc" key="N_03_0_0002_0030" value="Garotinha" />
+  <keys type="npc" key="N_03_0_0006_0000" value="Tuhorin" />
+  <keys type="npc" key="N_03_0_0006_0001" value="Ferreiro Crokhoon" />
+  <keys type="npc" key="N_03_0_0224_0000" value="Patrulheiro Marline" />
+  <keys type="npc" key="N_03_0_0224_0001" value="Herbalista Marline" />
+  <keys type="npc" key="N_02_0_0257_0008" value="Coleman" />
+  <keys type="npc" key="N_50_5_0001_0000" value="Pedra de Retorno" />
+  <keys type="npc" key="N_02_0_0068_0004" value="Sir Marcus" />
+  <keys type="npc" key="N_02_0_0068_0005" value="Soldado Raso Numerick" />
+  <keys type="npc" key="N_02_0_0068_0006" value="Soldado Raso Florick" />
+  <keys type="npc" key="N_02_0_0068_0007" value="Soldado Raso Illias" />
+  <keys type="npc" key="N_02_0_0068_0008" value="Soldado Raso Curtis" />
+  <keys type="npc" key="N_02_0_0068_0009" value="Soldado Raso Kahntaris" />
+  <keys type="npc" key="N_01_0_0003_0000" value="Renata" />
+  <keys type="npc" key="N_01_0_0004_0000" value="Tortus" />
+  <keys type="npc" key="N_50_0_0002_0000" value="Chapley Singer" />
+  <keys type="npc" key="N_03_0_0224_0003" value="Promane" />
+  <keys type="npc" key="N_02_0_0068_0010" value="Soldado Raso Corrance" />
+  <keys type="npc" key="N_02_0_0257_0009" value="Homem dos Porcos" />
+  <keys type="npc" key="N_02_0_0606_0000" value="Javali Domesticado" />
+  <keys type="npc" key="N_02_0_0607_0000" value="Javali Jovem" />
+  <keys type="npc" key="N_02_5_0001_0001" value="Pedra de Retorno" />
+  <keys type="npc" key="N_02_5_0001_0002" value="Pedra de Retorno" />
+  <keys type="npc" key="N_02_0_0022_0001" value="Freud" />
+  <keys type="npc" key="N_02_0_0022_0002" value="Spencer" />
+  <keys type="npc" key="N_02_0_0601_0000" value="Inugi" />
+  <keys type="npc" key="N_03_0_0001_0053" value="Colono Ferido" />
+  <keys type="npc" key="N_03_0_0001_0054" value="Comitiva Élfica" />
+  <keys type="npc" key="N_03_0_0001_0055" value="Caçadora" />
+  <keys type="npc" key="N_03_0_0001_0056" value="Velho Fazendeiro" />
+  <keys type="npc" key="N_03_0_0001_0057" value="Melvin Haan" />
+  <keys type="npc" key="N_03_0_0001_0058" value="Capitão da Torre de Vigia" />
+  <keys type="npc" key="N_03_0_0001_0059" value="Kaal" />
+  <keys type="npc" key="N_03_0_0001_0060" value="Lokke" />
+  <keys type="npc" key="N_03_0_0001_0061" value="Azalia" />
+  <keys type="npc" key="N_03_0_0001_0062" value="James" />
+  <keys type="npc" key="N_03_0_0001_0063" value="Sir Levin Kotter" />
+  <keys type="npc" key="N_03_0_0001_0064" value="Illaills" />
+  <keys type="npc" key="N_03_0_0001_0065" value="Sir Leto" />
+  <keys type="npc" key="N_03_0_0001_0066" value="Zeloth" />
+  <keys type="npc" key="N_03_0_0001_0067" value="Haslem" />
+  <keys type="npc" key="N_03_0_0001_0068" value="Romeo" />
+  <keys type="npc" key="N_03_0_0001_0069" value="Baros, o Feiticeiro da Virtude" />
+  <keys type="npc" key="N_03_0_0001_0070" value="Soldado Raso Rosette" />
+  <keys type="npc" key="N_03_0_0001_0071" value="Frayer" />
+  <keys type="npc" key="N_03_0_0001_0072" value="Pastor" />
+  <keys type="npc" key="N_03_0_0001_0073" value="Jeffy" />
+  <keys type="npc" key="N_03_0_0001_0074" value="Herbert" />
+  <keys type="npc" key="N_03_0_0001_0075" value="Filho do Fazendeiro" />
+  <keys type="npc" key="N_03_0_0001_0076" value="Jesberk Roen" />
+  <keys type="npc" key="N_03_0_0001_0077" value="Iliad" />
+  <keys type="npc" key="N_03_0_0001_0078" value="Guarda Expedicionária de Hakanas" />
+  <keys type="npc" key="N_03_0_0001_0079" value="Fazendeiro Matthew" />
+  <keys type="npc" key="N_03_0_0001_0080" value="Gwen Capturada" />
+  <keys type="npc" key="N_03_0_0001_0081" value="Capitão Rostham" />
+  <keys type="npc" key="N_03_0_0001_0082" value="Phillip" />
+  <keys type="npc" key="N_03_0_0001_0083" value="Intruso dos Cavaleiros do Dragão" />
+  <keys type="npc" key="N_03_0_0001_0084" value="Guarda Gravemente Ferido" />
+  <keys type="npc" key="N_03_0_0002_0031" value="Magren" />
+  <keys type="npc" key="N_03_0_0002_0032" value="Maria" />
+  <keys type="npc" key="N_03_0_0002_0033" value="Jessica" />
+  <keys type="npc" key="N_03_0_0002_0034" value="Lisa Carleon" />
+  <keys type="npc" key="N_03_0_0002_0035" value="Fazendeira" />
+  <keys type="npc" key="N_01_0_0001_0001" value="Corvo" />
+  <keys type="npc" key="N_01_0_0766_0000" value="Corvo" />
+  <keys type="npc" key="N_03_0_0001_0085" value="Eldred" />
+  <keys type="npc" key="N_03_0_0001_0086" value="Stuart" />
+  <keys type="npc" key="N_03_0_0001_0087" value="Mac" />
+  <keys type="npc" key="N_03_0_0001_0088" value="Danzuul" />
+  <keys type="npc" key="N_03_0_0001_0089" value="Mariel" />
+  <keys type="npc" key="N_03_0_0001_0090" value="Soldado Expedicionário Carel" />
+  <keys type="npc" key="N_03_0_0001_0091" value="Hugh" />
+  <keys type="npc" key="N_03_0_0001_0092" value="Amos" />
+  <keys type="npc" key="N_03_0_0001_0093" value="Mac" />
+  <keys type="npc" key="N_03_0_0001_0094" value="Nikam" />
+  <keys type="npc" key="N_03_0_0001_0095" value="Bolt" />
+  <keys type="npc" key="N_03_0_0001_0096" value="Soldado Raso Ralf" />
+  <keys type="npc" key="N_03_0_0001_0097" value="Soldado Raso Howard" />
+  <keys type="npc" key="N_03_0_0001_0098" value="Jensen" />
+  <keys type="npc" key="N_03_0_0001_0099" value="Duque" />
+  <keys type="npc" key="N_03_0_0001_0100" value="Derick" />
+  <keys type="npc" key="N_03_0_0001_0101" value="Gevin" />
+  <keys type="npc" key="N_03_0_0001_0102" value="Lucas" />
+  <keys type="npc" key="N_03_0_0001_0103" value="Liam" />
+  <keys type="npc" key="N_03_0_0001_0104" value="Logan" />
+  <keys type="npc" key="N_03_0_0001_0105" value="Owen" />
+  <keys type="npc" key="N_03_0_0001_0106" value="Austin" />
+  <keys type="npc" key="N_03_0_0001_0107" value="Thomas" />
+  <keys type="npc" key="N_03_0_0001_0108" value="Drex" />
+  <keys type="npc" key="N_03_0_0001_0109" value="Velzeroth" />
+  <keys type="npc" key="N_03_0_0002_0036" value="Leila" />
+  <keys type="npc" key="N_03_0_0002_0037" value="Sra. Barelli" />
+  <keys type="npc" key="N_03_0_0002_0038" value="Charlotte" />
+  <keys type="npc" key="N_03_0_0002_0039" value="Migran" />
+  <keys type="npc" key="N_03_0_0002_0040" value="Sophia" />
+  <keys type="npc" key="N_03_0_0002_0041" value="Lauren" />
+  <keys type="npc" key="N_03_0_0002_0042" value="Aurelia" />
+  <keys type="npc" key="N_03_5_0001_0000" value="Conquista" />
+  <keys type="npc" key="N_03_5_0002_0000" value="Pedra de Retorno" />
+  <keys type="npc" key="N_03_5_0002_0001" value="Pedra de Retorno" />
+  <keys type="npc" key="N_03_5_0002_0002" value="Pedra de Retorno" />
+  <keys type="npc" key="N_03_5_0002_0003" value="Pedra de Retorno" />
+  <keys type="npc" key="N_03_0_0001_0110" value="Edgar" />
+  <keys type="npc" key="N_03_0_0001_0111" value="Phillip" />
+  <keys type="npc" key="N_03_0_0001_0112" value="August" />
+  <keys type="npc" key="N_03_0_0001_0113" value="Syven" />
+  <keys type="npc" key="N_03_0_0002_0043" value="Natalie" />
+  <keys type="npc" key="N_03_0_0002_0044" value="Dame Layla" />
+  <keys type="npc" key="N_03_0_0002_0045" value="Cabo Cosette" />
+  <keys type="npc" key="N_02_5_0001_0003" value="Santuário de Trânsito de Hakanas" />
+  <keys type="npc" key="N_03_5_0002_0004" value="Santuário de Trânsito da Floresta dos Espíritos" />
+  <keys type="npc" key="N_03_0_0001_0114" value="Robun" />
+  <keys type="npc" key="N_03_0_0001_0115" value="Paul" />
+  <keys type="npc" key="N_03_0_0001_0116" value="Feighan" />
+  <keys type="npc" key="N_03_0_0001_0117" value="Rolinoa" />
+  <keys type="npc" key="N_03_0_0001_0118" value="Clark" />
+  <keys type="npc" key="N_03_0_0001_0119" value="Benjamin" />
+  <keys type="npc" key="N_03_0_0001_0120" value="Aiden" />
+  <keys type="npc" key="N_03_0_0001_0121" value="Roland" />
+  <keys type="npc" key="N_03_0_0001_0122" value="Cron" />
+  <keys type="npc" key="N_03_0_0001_0123" value="Beck" />
+  <keys type="npc" key="N_03_0_0001_0124" value="Sbent" />
+  <keys type="npc" key="N_03_0_0001_0125" value="Bentley" />
+  <keys type="npc" key="N_03_0_0002_0046" value="Clara" />
+  <keys type="npc" key="N_03_0_0002_0047" value="Lina" />
+  <keys type="npc" key="N_03_0_0002_0048" value="Maggie" />
+  <keys type="npc" key="N_03_0_0002_0049" value="Gina" />
+  <keys type="npc" key="N_03_0_0002_0050" value="Molly" />
+  <keys type="npc" key="N_03_0_0002_0051" value="Peggy" />
+  <keys type="npc" key="N_03_0_0002_0052" value="Laura" />
+  <keys type="npc" key="N_03_0_0002_0053" value="Ellina" />
+  <keys type="npc" key="N_51_5_0001_0000" value="Santuário de Trânsito de Hakanas" />
+  <keys type="npc" key="N_03_5_0002_0005" value="Santuário de Trânsito das Minas Gélidas" />
+  <keys type="npc" key="N_03_5_0002_0006" value="Santuário de Trânsito da Mansão Carleon" />
+  <keys type="npc" key="N_52_5_0001_0000" value="Santuário de Trânsito de Hakanas" />
+  <keys type="npc" key="N_03_0_0672_0000" value="Vaca Gentil" />
+  <keys type="npc" key="N_03_0_0001_0126" value="Afris" />
+  <keys type="npc" key="N_03_0_0001_0127" value="Frion" />
+  <keys type="npc" key="N_03_0_0001_0128" value="Antílope" />
+  <keys type="npc" key="N_03_0_0001_0129" value="Aronward" />
+  <keys type="npc" key="N_03_0_0700_0000" value="LobiJeffy" />
+  <keys type="npc" key="N_03_0_0672_0001" value="Vaca Leiteira Assustada" />
+  <keys type="npc" key="N_03_0_0672_0002" value="Vaca Leiteira Assustada" />
+  <keys type="npc" key="N_03_0_0672_0003" value="Vaca Leiteira Assustada" />
+  <keys type="npc" key="N_03_0_0672_0004" value="Eunboki, Lorde das Vacas" />
+  <keys type="npc" key="N_02_0_0001_0000" value="Excel" />
+  <keys type="npc" key="N_03_0_0001_0130" value="Colono Ferido" />
+  <keys type="npc" key="N_51_0_0006_0001" value="Morkoon" />
+  <keys type="npc" key="N_03_0_0001_0131" value="Antonion" />
+  <keys type="npc" key="N_03_0_0001_0132" value="Janscal" />
+  <keys type="npc" key="N_03_0_0001_0133" value="Okinrek" />
+  <keys type="npc" key="N_03_0_0002_0054" value="Elisabeth" />
+  <keys type="npc" key="N_03_0_0002_0055" value="Zerona" />
+  <keys type="npc" key="N_03_0_0001_0134" value="Lorde Balleroa" />
+  <keys type="npc" key="N_03_0_0001_0135" value="San Garlen" />
+  <keys type="npc" key="N_03_0_0001_0136" value="Harridman" />
+  <keys type="npc" key="N_03_0_0001_0137" value="Yorof" />
+  <keys type="npc" key="N_03_0_0001_0138" value="Spinit" />
+  <keys type="npc" key="N_00_0_0002_0000" value="Guerreira" />
+  <keys type="npc" key="N_02_0_0221_9999" value="Elastin" />
+  <keys type="npc" key="N_00_0_0001_0000" value="Personagem Principal Masculino" />
+  <keys type="npc" key="N_00_0_0001_0001" value="Personagem Principal Masculino" />
+  <keys type="npc" key="N_03_0_0224_0004" value="Socorrista de Ellora" />
+  <keys type="npc" key="N_03_0_0002_0056" value="Lables" />
+  <keys type="npc" key="N_03_0_0002_0057" value="Irina" />
+  <keys type="npc" key="N_03_0_0002_0058" value="Rose" />
+  <keys type="npc" key="N_03_0_0001_0139" value="Diego" />
+  <keys type="npc" key="N_03_0_0001_0140" value="Brody" />
+  <keys type="npc" key="N_03_0_0002_0059" value="Aida Weasely" />
+  <keys type="npc" key="N_03_0_0002_0060" value="O Homem dos Eventos" />
+  <keys type="npc" key="N_03_0_0001_0141" value="Pantera Domada" />
+  <keys type="npc" key="N_03_0_0001_0142" value="Urso Domado" />
+  <keys type="npc" key="N_03_0_0001_0143" value="Tigre da Floresta Domado" />
+  <keys type="npc" key="N_03_0_0095_0000" value="Cavaleiros do Dragão" />
+  <keys type="npc" key="N_02_0_0002_0001" value="Lace" />
+  <keys type="npc" key="N_02_0_0002_0002" value="Tess" />
+  <keys type="npc" key="N_02_0_0001_0001" value="Elpin" />
+  <keys type="npc" key="N_02_0_0001_0002" value="Labos" />
+  <keys type="npc" key="N_03_0_0001_0144" value="Gale" />
+  <keys type="npc" key="N_03_0_0001_0145" value="Logos" />
+  <keys type="npc" key="N_03_0_0001_0146" value="Nyson" />
+  <keys type="npc" key="N_03_0_0002_0061" value="Lorraine" />
+  <keys type="npc" key="N_03_0_0002_0062" value="Lisian" />
+  <keys type="npc" key="N_03_0_0002_0063" value="Cait" />
+  <keys type="npc" key="N_01_5_0001_0000" value="Titã do Céu" />
+  <keys type="npc" key="N_02_0_0309_0000" value="Lobo Domado" />
+  <keys type="npc" key="N_03_0_0001_0147" value="Dyran" />
+  <keys type="npc" key="N_03_0_0001_0148" value="Lucos" />
+  <keys type="npc" key="N_02_0_0193_0000" value="Caixa de Correio" />
+  <keys type="npc" key="N_03_5_0173_0020" value="Terreno de Testes de Unicórnios" />
+  <keys type="npc" key="N_03_0_0770_0000" value="Porco" />
+  <keys type="npc" key="N_03_0_0770_0001" value="Javali Domesticado" />
+  <keys type="npc" key="N_03_0_0770_0002" value="Porco" />
+  <keys type="npc" key="N_03_0_0770_0003" value="Javali Domesticado" />
+  <keys type="npc" key="N_03_0_0001_0149" value="Peregrino Ander" />
+  <keys type="npc" key="N_03_0_0001_0150" value="Behain Skeron" />
+  <keys type="npc" key="N_03_0_0001_0151" value="Ripley Gane" />
+  <keys type="npc" key="N_03_0_0001_0152" value="Stevens Braçoforte" />
+  <keys type="npc" key="N_03_0_0002_0064" value="Celene Abril" />
+  <keys type="npc" key="N_03_0_0002_0065" value="Ekaterina" />
+  <keys type="npc" key="N_03_0_0001_0153" value="Flight" />
+  <keys type="npc" key="N_03_0_0002_0066" value="Lina" />
+  <keys type="npc" key="N_03_0_0002_0067" value="May" />
+  <keys type="npc" key="N_03_0_0002_0068" value="Lis" />
+  <keys type="npc" key="N_03_0_0001_0154" value="Executor Ander" />
+  <keys type="npc" key="N_03_0_0002_0069" value="Madame Ekaterina" />
+  <keys type="npc" key="N_03_0_0001_9998" value="Comerciante de Equipamentos, Armas Secundárias" />
+  <keys type="npc" key="N_03_0_0001_9999" value="Armeiro" />
+  <keys type="npc" key="N_02_0_0002_0000" value="Fracassado" />
+  <keys type="npc" key="N_02_0_0001_0003" value="Deboat" />
+  <keys type="npc" key="N_01_0_0003_0001" value="Cavaleira Real Renata" />
+  <keys type="npc" key="N_01_0_0004_0001" value="Tortus" />
+  <keys type="npc" key="N_02_0_0006_9000" value="Kyklop" />
+  <keys type="npc" key="N_02_0_0006_9001" value="Joyce" />
+  <keys type="npc" key="N_02_0_0006_9002" value="Thomas Oliver" />
+  <keys type="npc" key="N_02_0_0006_9003" value="Hooban" />
+  <keys type="npc" key="N_02_0_0006_9004" value="Corinne Bouvier" />
+  <keys type="npc" key="N_02_0_0006_9005" value="Lahiri" />
+  <keys type="npc" key="N_50_0_0002_0001" value="Chapley Singer" />
+  <keys type="npc" key="N_02_0_0001_0004" value="Dahf" />
+  <keys type="npc" key="N_02_0_0001_0005" value="Tropa de Choque" />
+  <keys type="npc" key="N_02_0_0001_0006" value="Guarda" />
+  <keys type="npc" key="N_02_0_0001_0007" value="Cavaleira Guardiã" />
+  <keys type="npc" key="N_02_5_0235_0000" value="Santuário da Vitória" />
+  <keys type="npc" key="N_02_0_0003_0001" value="Corvo" />
+  <keys type="npc" key="N_02_0_0000_0003" value="Cullaghan" />
+  <keys type="npc" key="N_02_0_0000_0004" value="Corvo" />
+  <keys type="npc" key="N_02_0_0001_0008" value="Soldado Raso Alloce" />
+  <keys type="npc" key="N_02_0_0002_0003" value="Rehan" />
+  <keys type="npc" key="N_03_0_0001_0175" value="Capitão Rogers" />
+  <keys type="npc" key="N_03_0_0001_0176" value="Mestre Yulnus" />
+  <keys type="npc" key="N_03_0_0001_0177" value="Eldred" />
+  <keys type="npc" key="N_03_0_0002_0074" value="Linetta" />
+  <keys type="npc" key="N_02_5_0235_0001" value="Santuário da Vitória" />
+  <keys type="npc" key="N_02_5_0235_0002" value="Santuário da Vitória" />
+  <keys type="npc" key="N_02_5_0235_0003" value="Santuário da Vitória" />
+  <keys type="npc" key="N_02_5_0235_0004" value="Santuário da Vitória" />
+  <keys type="npc" key="N_03_0_0001_0178" value="Lays" />
+  <keys type="npc" key="N_02_0_0001_0009" value="Blanc" />
+  <keys type="npc" key="N_02_0_0003_0002" value="Tortus" />
+  <keys type="npc" key="N_02_0_0004_0001" value="Lestin" />
+  <keys type="npc" key="N_01_0_0003_0002" value="Renata" />
+  <keys type="npc" key="N_01_0_0004_0002" value="Tortus" />
+  <keys type="npc" key="N_01_0_0001_0002" value="Corvo" />
+  <keys type="npc" key="N_01_0_0100_0000" value="Familiar Voador da Ordem Ônix" />
+  <keys type="npc" key="N_02_0_0001_0030" value="Espectro das Ruínas" />
+  <keys type="npc" key="N_f01_HuMsol_001" value="Soldado Raso Kahntaris" />
+  <keys type="npc" key="N_f01_HuMsol_002" value="Soldado Raso Boris" />
+  <keys type="npc" key="N_f01_HuMMil_001" value="Soldado Raso Loborick" />
+  <keys type="npc" key="N_01_0_0003_0003" value="Renata" />
+  <keys type="npc" key="N_01_0_0004_0003" value="Tortus" />
+  <keys type="npc" key="N_f01_SpirWB2_000" value="Tieli" />
+  <keys type="npc" key="N_f01_SpirWB2_001" value="Tieli" />
+  <keys type="npc" key="N_01_0_0001_0003" value="Corvo" />
+  <keys type="npc" key="N_f01_HuMsol_000" value="Tropa de Choque" />
+  <keys type="npc" key="N_f01_HuFSol_000" value="Guarda" />
+  <keys type="npc" key="N_f01_0_0001_0010" value="Soldado Raso Curtis" />
+  <keys type="npc" key="N_f01_0_0001_0020" value="Luna" />
+  <keys type="npc" key="N_f01_0_0001_0030" value="Soldado Raso Curtis" />
+  <keys type="npc" key="N_f01_0_0001_0040" value="Luna" />
+  <keys type="npc" key="N_f03_HuMsol_001" value="Tropa de Choque" />
+  <keys type="npc" key="N_02_0_0006_9006" value="Bigorna para Armas" />
+  <keys type="npc" key="N_02_0_0006_9007" value="Bigorna para Armaduras" />
+  <keys type="npc" key="N_02_0_0006_9008" value="Estação de Cozimento" />
+  <keys type="npc" key="N_02_0_0006_9009" value="Laboratório de Alquimia" />
+  <keys type="npc" key="N_02_0_0006_9010" value="Bancada de Ourives" />
+  <keys type="npc" key="N_02_0_0006_9011" value="Mesa de Criação de Selaria" />
+  <keys type="npc" key="N_02_0_0260_0000" value="Passarinho" />
+  <keys type="npc" key="N_02_0_0260_0001" value="Vidente da Verdade" />
+  <keys type="npc" key="N_02_0_0260_0002" value="Elsa" />
+  <keys type="npc" key="N_02_0_0260_0003" value="Narin" />
+  <keys type="npc" key="N_02_0_0260_0004" value="Twitter" />
+  <keys type="npc" key="N_02_0_0260_0005" value="Keersha" />
+  <keys type="npc" key="N_02_0_0260_0006" value="Elsa" />
+  <keys type="npc" key="N_02_0_0260_0007" value="Elsa" />
+  <keys type="npc" key="N_f01_hufpub01_001" value="Mãe Santificada" />
+  <keys type="npc" key="N_f01_hufpub02_001" value="Garota Liberta" />
+  <keys type="npc" key="N_f01_hufpub_g_001" value="Espírito Perverso da Mãe" />
+  <keys type="npc" key="N_f01_RabiNi1S1_001" value="Rufio Lebrini" />
+  <keys type="npc" key="N_f01_HuFMag01_001" value="Rentie" />
+  <keys type="npc" key="N_f03_RabiNi1S1_001" value="Rufus Lebrini" />
+  <keys type="npc" key="N_f02_HuMNob_001" value="Harrod" />
+  <keys type="npc" key="N_f04_HuMNob_001" value="Kyron" />
+  <keys type="npc" key="N_f03_HuMNob_001" value="Faig" />
+  <keys type="npc" key="N_f02_HuMFar_101" value="Martins" />
+  <keys type="npc" key="N_f02_HuMFar_102" value="Jerome" />
+  <keys type="npc" key="N_f04_HuMFar_101" value="Crascent" />
+  <keys type="npc" key="N_f04_HuMFar_102" value="Kedira" />
+  <keys type="npc" key="N_f03_HuMFar_101" value="Carag" />
+  <keys type="npc" key="N_f03_HuMFar_102" value="Brelon" />
+  <keys type="npc" key="N_f03_HuMFar_103" value="Mauer" />
+  <keys type="npc" key="N_F01_HuFFar01_001" value="Narion" />
+  <keys type="npc" key="N_F01_0_0001_0050" value="Lobo Domado" />
+  <keys type="npc" key="N_f03_Smith_001" value="Bigorna para Armas" />
+  <keys type="npc" key="N_f03_Smith_002" value="Bigorna para Armaduras" />
+  <keys type="npc" key="N_f03_Cook_001" value="Estação de Cozimento" />
+  <keys type="npc" key="N_f03_Alchemy_001" value="Laboratório de Alquimia" />
+  <keys type="npc" key="N_f03_Accessory_001" value="Bancada de Ourives" />
+  <keys type="npc" key="N_f03_Fellow_001" value="Mesa de Criação de Selaria" />
+  <keys type="npc" key="N_f02_Smith_001" value="Bigorna para Armas" />
+  <keys type="npc" key="N_f02_Smith_002" value="Bigorna para Armaduras" />
+  <keys type="npc" key="N_f02_Cook_001" value="Estação de Cozimento" />
+  <keys type="npc" key="N_f02_Alchemy_001" value="Laboratório de Alquimia" />
+  <keys type="npc" key="N_f02_Accessory_001" value="Bancada de Ourives" />
+  <keys type="npc" key="N_f02_Fellow_001" value="Mesa de Criação de Selaria" />
+  <keys type="npc" key="N_f04_Smith_001" value="Bigorna para Armas" />
+  <keys type="npc" key="N_f04_Smith_002" value="Bigorna para Armaduras" />
+  <keys type="npc" key="N_f04_Cook_001" value="Estação de Cozimento" />
+  <keys type="npc" key="N_f04_Alchemy_001" value="Laboratório de Alquimia" />
+  <keys type="npc" key="N_f04_Accessory_001" value="Bancada de Ourives" />
+  <keys type="npc" key="N_f04_Fellow_001" value="Mesa de Criação de Selaria" />
+  <keys type="npc" key="N_f05_Smith_001" value="Bigorna para Armas" />
+  <keys type="npc" key="N_f05_Smith_002" value="Bigorna para Armaduras" />
+  <keys type="npc" key="N_f05_Cook_001" value="Estação de Cozimento" />
+  <keys type="npc" key="N_f05_Alchemy_001" value="Laboratório de Alquimia" />
+  <keys type="npc" key="N_f05_Accessory_001" value="Bancada de Ourives" />
+  <keys type="npc" key="N_f05_Fellow_001" value="Mesa de Criação de Selaria" />
+  <keys type="npc" key="N_03_0_0002_0082" value="Evento" />
+  <keys type="npc" key="N_03_0_0001_0211" value="Evento" />
+  <keys type="npc" key="N_02_0_0068_0011" value="Evento" />
+  <keys type="npc" key="N_d03_Potal_01" value="Ian" />
+  <keys type="npc" key="N_d03_Potal_02" value="Issac" />
+  <keys type="npc" key="n_f01_HuMCrew_001" value="Gresky" />
+  <keys type="npc" key="N_f04_PegaKnight_01" value="Roid" />
+  <keys type="npc" key="N_f04_PegaKnight_02" value="Marka" />
+  <keys type="npc" key="N_f04_HuMDmag_01" value="Paolo" />
+  <keys type="npc" key="N_02_5_0235_0005" value="Santuário da Vitória" />
+  <keys type="npc" key="N_F04_bigisland_01" value="Lilian" />
+  <keys type="npc" key="N_F04_bigisland_02" value="Spike" />
+  <keys type="npc" key="N_d03_Potal_03" value="Louia" />
+  <keys type="npc" key="N_d03_Potal_04" value="Aytona" />
+  <keys type="npc" key="N_f01_rotia_01" value="Latini" />
+  <keys type="npc" key="N_f01_rotiacut_02" value="Latini" />
+  <keys type="npc" key="n_f01_jade_01" value="Jaden" />
+  <keys type="npc" key="n_f01_1_1001" value="Marco Royce" />
+  <keys type="npc" key="n_f01_5_0001" value="Lenhador Ferido" />
+  <keys type="npc" key="n_f01_1_1002" value="Amanette" />
+  <keys type="npc" key="n_f01_1_1003" value="Mavi" />
+  <keys type="npc" key="n_f01_1_1004" value="Curandeiro dos Cavaleiros do Dragão" />
+  <keys type="npc" key="n_f01_1_1005" value="Enfermeira" />
+  <keys type="npc" key="n_f01_2_1001" value="Soldado Ferido" />
+  <keys type="npc" key="n_f01_2_1002" value="Soldado Ferido" />
+  <keys type="npc" key="n_f01_1_1006" value="Toreore" />
+  <keys type="npc" key="n_f01_1_1007" value="Corvo" />
+  <keys type="npc" key="n_f01_1_1008" value="Parmir" />
+  <keys type="npc" key="n_f01_1_1009" value="Mabeau" />
+  <keys type="npc" key="n_f01_1_1010" value="Chef" />
+  <keys type="npc" key="n_f01_1_1011" value="Madib" />
+  <keys type="npc" key="n_f01_1_1012" value="Atma" />
+  <keys type="npc" key="n_f01_1_1013" value="Soldado Ferido" />
+  <keys type="npc" key="n_f01_5_0002" value="Lenhador Ferido" />
+  <keys type="npc" key="n_f01_5_0003" value="Lenhador Ferido" />
+  <keys type="npc" key="n_f01_5_0004" value="Lenhador Ferido" />
+  <keys type="npc" key="n_f01_1_1014" value="Soldado Raso" />
+  <keys type="npc" key="n_f01_1_1015" value="Sumo Sacerdote" />
+  <keys type="npc" key="n_f01_1_1016" value="Prisioneiro" />
+  <keys type="npc" key="n_f01_1_1017" value="Guarda" />
+  <keys type="npc" key="n_f01_1_1018" value="Guarda Arqueiro" />
+  <keys type="npc" key="n_f01_6_0002" value="Vagão de Transporte Quebrado" />
+  <keys type="npc" key="n_f01_6_0003" value="Cavalo de Guerra" />
+  <keys type="npc" key="n_f01_6_0004" value="Vagão de Transporte Extraviado" />
+  <keys type="npc" key="n_f01_6_0005" value="Cavalo dos Cavaleiros do Dragão" />
+  <keys type="npc" key="n_f01_1_1019" value="Guarda" />
+  <keys type="npc" key="n_f01_6_0001" value="Vagão de Transporte" />
+  <keys type="npc" key="n_f01_1_1022" value="Wupur" />
+  <keys type="npc" key="n_f01_1_1023" value="Belhira" />
+  <keys type="npc" key="n_f01_1_1024" value="Tradi" />
+  <keys type="npc" key="n_f01_1_1025" value="Sion" />
+  <keys type="npc" key="N_r01_Portal_001" value="Santuário de Trânsito do Sacrário" />
+  <keys type="npc" key="n_r01_board_01" value="Quadro do Altar Secreto de Yatuman" />
+</files>
