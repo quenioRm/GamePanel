@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="item" key="CA_BX_00_2194" value="Mysterious assorted grilled festival package" />
+  <keys type="item" key="CA_BX_00_2195" value="Mysterious hotpot festival package" />
+  <keys type="item" key="CA_BX_00_2196" value="Dessert package" />
+  <keys type="item" key="CA_BX_00_2197" value="Dongsil Dungsil Package" />
+  <keys type="item" key="CA_BX_00_2198" value="1st place product" />
+  <keys type="item" key="CA_BX_00_2199" value="7 winning products" />
+  <keys type="item" key="IT_BX_00_1118" value="The +15 weapon box of the theme (Guardian)" />
+  <keys type="item" key="IT_BX_00_1119" value="The +15 Armor Box of the theme (Guardian)" />
+  <keys type="item" key="IT_BX_00_1120" value="The +15 weapon box of the theme (Berserker)" />
+  <keys type="item" key="IT_BX_00_1121" value="The +15 Armor Box of the theme (Berserker)" />
+  <keys type="item" key="IT_BX_00_1122" value="The +15 weapon box of the theme (Assassin)" />
+  <keys type="item" key="IT_BX_00_1123" value="The +15 Armor Box of the theme (Assassin)" />
+  <keys type="item" key="IT_BX_00_1124" value="The +15 weapon box of the theme (Wizard/Magician)" />
+  <keys type="item" key="IT_BX_00_1125" value="The +15 armor box of the themein (Wizard Magician)" />
+  <keys type="item" key="IT_BX_00_1126" value="The +15 weapon box of the theme (Priest)" />
+  <keys type="item" key="IT_BX_00_1127" value="The +15 Armor Box of the theme (Priest)" />
+  <keys type="item" key="IT_BX_00_1128" value="The +15 weapon box of the theme (Ranger)" />
+  <keys type="item" key="IT_BX_00_1129" value="The +15 Armor Box of the theme (Ranger)" />
+  <keys type="item" key="IT_BX_00_1130" value="The +15 weapon box of the theme (Idol)" />
+  <keys type="item" key="IT_BX_00_1131" value="The +15 Armor Box of the theme (Idol)" />
+  <keys type="item" key="IT_BX_00_1132" value="Theme" />
+  <keys type="item" key="IT_BX_00_1133" value="Level 70 Achievement Package (Guardian)" />
+  <keys type="item" key="IT_BX_00_1134" value="Level 70 Achievement Package (Berserker)" />
+  <keys type="item" key="IT_BX_00_1135" value="Level 70 Achievement Package (Assassin)" />
+  <keys type="item" key="IT_BX_00_1136" value="Level 70 Achievement Package (Wizard/Magician)" />
+  <keys type="item" key="IT_BX_00_1137" value="Level 70 Achievement Package (Priest)" />
+  <keys type="item" key="IT_BX_00_1138" value="Level 70 Achievement Package (Ranger)" />
+  <keys type="item" key="IT_BX_00_1139" value="Level 70 Achievement Package (Idol)" />
+  <keys type="item" key="CA_BX_00_2200" value="Mysterious assorted grilled package 2" />
+  <keys type="item" key="CA_BX_00_2201" value="Mysterious hotpot package 2" />
+  <keys type="item" key="CA_BX_00_2202" value="Appearance: Western (30 days) package" />
+  <keys type="item" key="CA_BX_00_2203" value="Icaday Fellow Box (NEW)" />
+  <keys type="item" key="CA_BX_00_2204" value="Icaday Fellow Box (NEW) X3" />
+  <keys type="item" key="EV_BX_00_1511" value="Alsacian +20 Weapon Box (Guardian)" />
+  <keys type="item" key="EV_BX_00_1512" value="Alsacian +20 Armor Box (Guardian)" />
+  <keys type="item" key="EV_BX_00_1513" value="Alsacian +20 Weapon Box (Berserker)" />
+  <keys type="item" key="EV_BX_00_1514" value="Alsacian +20 Armor Box (Berserker)" />
+  <keys type="item" key="EV_BX_00_1515" value="Alsacian +20 Weapon Box (Assassin)" />
+  <keys type="item" key="EV_BX_00_1516" value="Alsacian +20 Armor Box (Assassin)" />
+  <keys type="item" key="EV_BX_00_1517" value="Alsace's +20 Weapon Box (Priest)" />
+  <keys type="item" key="EV_BX_00_1518" value="Alsace's +20 Armor Box (Priest)" />
+  <keys type="item" key="EV_BX_00_1519" value="Alsace's +20 Weapon Box (Wizard/Magician)" />
+  <keys type="item" key="EV_BX_00_1520" value="Alsace's +20 Armor Box (Wizard/Magician)" />
+  <keys type="item" key="EV_BX_00_1521" value="Alsacian +20 Weapon Box (Ranger)" />
+  <keys type="item" key="EV_BX_00_1522" value="Alsacian +20 Armor Box (Ranger)" />
+  <keys type="item" key="EV_BX_00_1523" value="Alsacian +20 Weapon Box (Idol)" />
+  <keys type="item" key="EV_BX_00_1524" value="Alsacian +20 Armor Box (Idol)" />
+  <keys type="item" key="EV_BX_00_1525" value="Alsas +20 Equipment Set (Guardian)" />
+  <keys type="item" key="EV_BX_00_1526" value="Alsas +20 Equipment Set (Berserker)" />
+  <keys type="item" key="EV_BX_00_1527" value="Alsas +20 Equipment Set (Assassin)" />
+  <keys type="item" key="EV_BX_00_1528" value="Alsas +20 Equipment Set (Priest)" />
+  <keys type="item" key="EV_BX_00_1529" value="Alsas +20 Equipment Set (Wizard/Magician)" />
+  <keys type="item" key="EV_BX_00_1530" value="Alsas +20 Equipment Set (Ranger)" />
+  <keys type="item" key="EV_BX_00_1531" value="Alsas +20 Equipment Set (Idol)" />
+  <keys type="item" key="EV_BX_00_1532" value="Alsacian jewelry box (public)" />
+  <keys type="item" key="EV_BX_00_1533" value="Server Reorganization Special Attendance Check 1 Day Gift" />
+  <keys type="item" key="EV_BX_00_1534" value="Server reorganization special attendance check 2 Days Gift" />
+  <keys type="item" key="EV_BX_00_1535" value="Server Reorganization Special Attendance Check 3 Day Gift" />
+  <keys type="item" key="EV_BX_00_1536" value="Server Reorganization Special Attendance Check Day 4 Gift" />
+  <keys type="item" key="EV_BX_00_1537" value="Server Reorganization Special Attendance Check Day 5 Gift" />
+  <keys type="item" key="EV_BX_00_1538" value="Server Reorganization Special Attendance Check 6 Day Gift" />
+  <keys type="item" key="EV_BX_00_1539" value="Server Reorganization Special Attendance Check 7 Day Gift" />
+  <keys type="item" key="IT_BX_00_1140" value="LV 5 booster 3 sets" />
+  <keys type="item" key="EV_BX_00_1540" value="5 future iron Box" />
+  <keys type="item" key="EV_BX_00_1541" value="10 future iron Box" />
+  <keys type="item" key="EV_BX_00_1542" value="20 future iron Box" />
+  <keys type="item" key="EV_BX_00_1543" value="30 future iron Box" />
+  <keys type="item" key="EV_BX_00_1544" value="50 future iron Box" />
+  <keys type="item" key="EV_BX_00_1545" value="3 special parts A" />
+  <keys type="item" key="EV_BX_00_1546" value="5 special parts A" />
+  <keys type="item" key="EV_BX_00_1547" value="10 special parts A" />
+  <keys type="item" key="EV_BX_00_1548" value="2 special parts B" />
+  <keys type="item" key="EV_BX_00_1549" value="3 special parts B" />
+  <keys type="item" key="EV_BX_00_1550" value="5 special parts B" />
+  <keys type="item" key="EV_BX_00_1551" value="2 special parts C" />
+  <keys type="item" key="EV_BX_00_1552" value="3 special parts C" />
+  <keys type="item" key="EV_BX_00_1553" value="Basic parts random box 5" />
+  <keys type="item" key="EV_BX_00_1554" value="Basic parts random box 10" />
+  <keys type="item" key="EV_BX_00_1555" value="50 basic parts random Box 50" />
+  <keys type="item" key="EV_BX_00_1556" value="80 basic parts random Box" />
+  <keys type="item" key="EV_BX_00_1557" value="100 basic parts random Box 100" />
+  <keys type="item" key="CA_BX_00_2205" value="Let's go to white hunting! Lucky Box ver 2" />
+  <keys type="item" key="CA_BX_00_2206" value="Let's go to white hunting! Lucky Box Ver 2 (10+1)" />
+  <keys type="item" key="CA_BX_00_2207" value="Spring hunting spring spring! (30 days) + powerful foods" />
+  <keys type="item" key="CA_BX_00_2208" value="Mac vain coin X340 package" />
+  <keys type="item" key="IT_BX_00_1141" value="Booster: Icarus Welcome Association (30th) Package" />
+  <keys type="item" key="IT_BX_00_1142" value="20% special booster package (30 days) + powerful food" />
+  <keys type="item" key="IT_BX_00_1143" value="chance! Hwi -Kwang Ryong Package" />
+  <keys type="item" key="EV_BX_00_1558" value="Server reorganization box" />
+  <keys type="item" key="EV_BX_00_1559" value="Welcome box" />
+  <keys type="item" key="EV_BX_00_1560" value="Welcome Box 20 lv" />
+  <keys type="item" key="EV_BX_00_1561" value="Welcome Box 21 Lv" />
+  <keys type="item" key="EV_BX_00_1562" value="Welcome Box 22 lv" />
+  <keys type="item" key="EV_BX_00_1563" value="Welcome Box 23 lv" />
+  <keys type="item" key="EV_BX_00_1564" value="Welcome Box 24 Lv" />
+  <keys type="item" key="EV_BX_00_1565" value="Welcome Box 25 lv" />
+  <keys type="item" key="EV_BX_00_1566" value="Welcome Box 26 lv" />
+  <keys type="item" key="EV_BX_00_1567" value="Welcome Box 27 lv" />
+  <keys type="item" key="EV_BX_00_1568" value="Welcome Box 28 lv" />
+  <keys type="item" key="EV_BX_00_1569" value="Welcome Box 29 lv" />
+  <keys type="item" key="EV_BX_00_1570" value="Welcome Box 30 lv" />
+  <keys type="item" key="EV_BX_00_1571" value="Welcome Box 31 Lv" />
+  <keys type="item" key="EV_BX_00_1572" value="Welcome Box 32 Lv" />
+  <keys type="item" key="EV_BX_00_1573" value="Welcome Box 33 lv" />
+  <keys type="item" key="EV_BX_00_1574" value="Welcome Box 34 Lv" />
+  <keys type="item" key="EV_BX_00_1575" value="Welcome Box 35 lv" />
+  <keys type="item" key="EV_BX_00_1576" value="Welcome Box 36 lv" />
+  <keys type="item" key="EV_BX_00_1577" value="Welcome Box 37 lv" />
+  <keys type="item" key="EV_BX_00_1578" value="Welcome Box 38 lv" />
+  <keys type="item" key="EV_BX_00_1579" value="Welcome Box 39 lv" />
+  <keys type="item" key="EV_BX_00_1580" value="Welcome Box 40 lv" />
+  <keys type="item" key="EV_BX_00_1581" value="Welcome Box 41 Lv" />
+  <keys type="item" key="EV_BX_00_1582" value="Welcome Box 42 Lv" />
+  <keys type="item" key="EV_BX_00_1583" value="Welcome Box 43 Lv" />
+  <keys type="item" key="EV_BX_00_1584" value="Welcome Box 44 Lv" />
+  <keys type="item" key="EV_BX_00_1585" value="Welcome Box 45 Lv" />
+  <keys type="item" key="EV_BX_00_1586" value="Welcome Box 46 lv" />
+  <keys type="item" key="EV_BX_00_1587" value="Welcome Box 47 lv" />
+  <keys type="item" key="EV_BX_00_1588" value="Welcome Box 48 lv" />
+  <keys type="item" key="EV_BX_00_1589" value="Welcome Box 49 lv" />
+  <keys type="item" key="EV_BX_00_1590" value="Welcome Box 50 lv" />
+  <keys type="item" key="EV_BX_00_1591" value="Welcome Box 51 Lv" />
+  <keys type="item" key="EV_BX_00_1592" value="Welcome Box 52 Lv" />
+  <keys type="item" key="EV_BX_00_1593" value="Welcome Box 53 lv" />
+  <keys type="item" key="EV_BX_00_1594" value="Welcome Box 54 Lv" />
+  <keys type="item" key="EV_BX_00_1595" value="Welcome Box 55 lv" />
+  <keys type="item" key="EV_BX_00_1596" value="Welcome Box 56 lv" />
+  <keys type="item" key="EV_BX_00_1597" value="Welcome Box 57 lv" />
+  <keys type="item" key="EV_BX_00_1598" value="Welcome Box 58 lv" />
+  <keys type="item" key="EV_BX_00_1599" value="Welcome Box 59 lv" />
+  <keys type="item" key="EV_BX_00_1600" value="Welcome Box 60 lv" />
+  <keys type="item" key="EV_BX_00_1601" value="Welcome Box 61 Lv" />
+  <keys type="item" key="EV_BX_00_1602" value="Welcome Box 62 lv" />
+  <keys type="item" key="EV_BX_00_1603" value="Welcome Box 63 lv" />
+  <keys type="item" key="EV_BX_00_1604" value="Welcome Box 64 Lv" />
+  <keys type="item" key="EV_BX_00_1605" value="Welcome Box 65 lv" />
+  <keys type="item" key="EV_BX_00_1606" value="Welcome Box 66 lv" />
+  <keys type="item" key="EV_BX_00_1607" value="Welcome Box 67 lv" />
+  <keys type="item" key="EV_BX_00_1608" value="Welcome Box 68 lv" />
+  <keys type="item" key="EV_BX_00_1609" value="Welcome Box 69 lv" />
+  <keys type="item" key="EV_BX_00_1610" value="Welcome Box 70 lv" />
+  <keys type="item" key="CA_BX_00_2209" value="500 Ellun (not traded)" />
+  <keys type="item" key="EV_BX_00_1611" value="Parberry Package" />
+  <keys type="item" key="EV_BX_00_1612" value="Banana packaging box" />
+  <keys type="item" key="EV_BX_00_1613" value="Snacking box X1" />
+  <keys type="item" key="EV_BX_00_1614" value="Snacks of Snacks X11" />
+  <keys type="item" key="EV_BX_00_1615" value="White chocolate x10" />
+  <keys type="item" key="EV_BX_00_1616" value="Strawberry Chocolate X10" />
+  <keys type="item" key="EV_BX_00_1617" value="Mint Chocolate X10" />
+  <keys type="item" key="CA_BX_00_2210" value="Blessed Shinhwa Reverse Ganghwa Stone Package" />
+  <keys type="item" key="IT_BX_00_1144" value="Drinking Zelaris Weapon Package (Guardian)" />
+  <keys type="item" key="IT_BX_00_1145" value="Drinking Zelaris Weapon Package (Berserker)" />
+  <keys type="item" key="IT_BX_00_1146" value="Drinking Zelaris Weapon Package (Assassin)" />
+  <keys type="item" key="IT_BX_00_1147" value="Drinking Zelaris Weapon Package (Wizard/Magician)" />
+  <keys type="item" key="IT_BX_00_1148" value="Drinking Zelaris Weapon Package (Priest)" />
+  <keys type="item" key="IT_BX_00_1149" value="Drinking Zelaris Weapon Package (Ranger)" />
+  <keys type="item" key="IT_BX_00_1150" value="Drinking Zelaris Weapon Package (Idol)" />
+  <keys type="item" key="IT_BX_00_1151" value="Shinhwa Reverse Ganghwa Stone Package" />
+  <keys type="item" key="IT_BX_00_1152" value="Increased attempts to reinforce myths reverse tool package" />
+  <keys type="item" key="IT_BX_00_1153" value="Reverse probability increase regression (10 minutes) package" />
+  <keys type="item" key="IT_BX_00_1154" value="Icarus Wings Package (30 days)" />
+  <keys type="item" key="IT_BX_00_1155" value="Icarus Halo Package of Power (30 days)" />
+  <keys type="item" key="IT_BX_00_1156" value="Soul Jewelry Back Box X1" />
+  <keys type="item" key="IT_BX_00_1157" value="Soul Jewelry Back Box X11" />
+  <keys type="item" key="IT_BX_00_1158" value="Soul Jewel X200" />
+  <keys type="item" key="IT_BX_00_1159" value="Soul Jewel X300" />
+  <keys type="item" key="IT_BX_00_1160" value="Soul Jewel X400" />
+  <keys type="item" key="IT_BX_00_1161" value="Soul Jewel X500" />
+  <keys type="item" key="IT_BX_00_1162" value="Soul Jewel X600" />
+  <keys type="item" key="IT_BX_00_1163" value="Soul Jewel X700" />
+  <keys type="item" key="IT_BX_00_1164" value="Soul Jewel X1000" />
+  <keys type="item" key="EV_BX_00_1618" value="FR Coin X5" />
+  <keys type="item" key="EV_BX_00_1619" value="FR Coin X7" />
+  <keys type="item" key="EV_BX_00_1620" value="FR Coin X9" />
+  <keys type="item" key="EV_BX_00_1621" value="FR Coin X11" />
+  <keys type="item" key="EV_BX_00_1622" value="FR Coin X13" />
+  <keys type="item" key="EV_BX_00_1623" value="FR Coin X15" />
+  <keys type="item" key="EV_BX_00_1624" value="Fellow Racing Participation Compensation" />
+  <keys type="item" key="EV_BX_00_1625" value="Fellow Racing Monthly Reward" />
+  <keys type="item" key="IT_BX_00_1165" value="Intelligence of Icarus Wings Package (30 days)" />
+  <keys type="item" key="IT_BX_00_1166" value="Intelligence of Icarus Halo Package (30 days)" />
+  <keys type="item" key="EV_BX_00_1626" value="Chuseok Special Attendance Check Day 1 Gift" />
+  <keys type="item" key="EV_BX_00_1627" value="Chuseok Special Attendance Check Day 2 Gift" />
+  <keys type="item" key="EV_BX_00_1628" value="Chuseok Special Attendance Check Day 3 Gift" />
+  <keys type="item" key="EV_BX_00_1629" value="Chuseok Special Attendance Check Day 4 Gift" />
+  <keys type="item" key="EV_BX_00_1630" value="Chuseok Special Attendance Check Day 5 Gift" />
+  <keys type="item" key="EV_BX_00_1631" value="Chuseok Special Attendance Check 6 Day Gift" />
+  <keys type="item" key="EV_BX_00_1632" value="Chuseok Special Attendance Check 7 Day Gift" />
+  <keys type="item" key="CA_BX_00_2211" value="Fellow Lucky Box 10+1" />
+  <keys type="item" key="CA_BX_00_2212" value="Fellow Lucky Box VI" />
+  <keys type="item" key="CA_BX_00_2213" value="Fellow Lucky Box Special 10+1" />
+  <keys type="item" key="CA_BX_00_2214" value="Fellow Lucky Box Special" />
+  <keys type="item" key="CA_BX_00_2215" value="Immortal mythical reinforcement new package 9+1" />
+  <keys type="item" key="CA_BX_00_2216" value="Immortal mythical reinforcement package 5 new" />
+  <keys type="item" key="EV_BX_00_1633" value="Halloween event special attendance check 1 day gift" />
+  <keys type="item" key="EV_BX_00_1634" value="Halloween Event Special attendance check 2 Day Gift" />
+  <keys type="item" key="EV_BX_00_1635" value="Halloween Event Special attendance check 3 Day gift" />
+  <keys type="item" key="EV_BX_00_1636" value="Halloween Event Special attendance check 4 Day gift" />
+  <keys type="item" key="EV_BX_00_1637" value="Halloween Event Special attendance check 5th day gift" />
+  <keys type="item" key="EV_BX_00_1638" value="Halloween Event Special attendance check 6 Day gift" />
+  <keys type="item" key="EV_BX_00_1639" value="Halloween event special attendance check 7 Day gift" />
+  <keys type="item" key="IT_BX_00_1167" value="Event Booster Random Box X1" />
+  <keys type="item" key="IT_BX_00_1168" value="Fatigue Recovery Potion X10 (Not Trading)" />
+  <keys type="item" key="IT_BX_00_1169" value="Powerful food set" />
+  <keys type="item" key="IT_BX_00_1170" value="Victorian Detective Style (30th) Package" />
+  <keys type="item" key="IT_BX_00_1171" value="1000 Ellun (2+1)" />
+  <keys type="item" key="EV_BX_00_1640" value="Winter night coin box 10+1 package" />
+  <keys type="item" key="EV_BX_00_1641" value="10 winter night coins" />
+  <keys type="item" key="EV_BX_00_1642" value="20 winter night coins" />
+  <keys type="item" key="EV_BX_00_1643" value="30 winter night coins" />
+  <keys type="item" key="EV_BX_00_1644" value="40 winter night coins" />
+  <keys type="item" key="EV_BX_00_1645" value="50 winter night coins" />
+  <keys type="item" key="EV_BX_00_1646" value="A box with an ice key is sealed" />
+  <keys type="item" key="EV_BX_00_1647" value="Special price! Investigator package" />
+  <keys type="item" key="IT_BX_00_1172" value="Ellun 1000+500 packages" />
+  <keys type="item" key="IT_BX_00_1173" value="Come on Black Friday" />
+  <keys type="item" key="IT_BX_00_1174" value="Black Friday Food Set" />
+  <keys type="item" key="IT_BX_00_1175" value="Package: Black Friday booster (life type)" />
+  <keys type="item" key="IT_BX_00_1176" value="Package: Black Friday booster (buff type)" />
+  <keys type="item" key="IT_BX_00_1177" value="Legend+ Emotional Tool X30 (Not Trading)" />
+  <keys type="item" key="EV_BX_00_1648" value="One winter night coin box" />
+  <keys type="item" key="EV_BX_00_1649" value="2021 Fellow Box of Memories" />
+  <keys type="item" key="EV_BX_00_1650" value="Christmas event special attendance check 1 day gift" />
+  <keys type="item" key="EV_BX_00_1651" value="Christmas event special attendance check 2 Days Gift" />
+  <keys type="item" key="EV_BX_00_1652" value="Christmas event special attendance check 3 Days gift" />
+  <keys type="item" key="EV_BX_00_1653" value="Christmas event special attendance check 4 Days Gift" />
+  <keys type="item" key="EV_BX_00_1654" value="Christmas Event Special attendance check 5th day gift" />
+  <keys type="item" key="EV_BX_00_1655" value="Christmas event special attendance check 6 Days gift" />
+  <keys type="item" key="EV_BX_00_1656" value="Christmas event special attendance check 7 Day gift" />
+  <keys type="item" key="CA_BX_00_2217" value="Ellun 40 Box" />
+  <keys type="item" key="CA_BX_00_2218" value="Ellun 60 Box" />
+  <keys type="item" key="CA_BX_00_2219" value="Ellun 80 Box" />
+  <keys type="item" key="CA_BX_00_2220" value="Ellun 100 Box" />
+  <keys type="item" key="CA_BX_00_2221" value="Ellun 150 Box" />
+  <keys type="item" key="CA_BX_00_2222" value="Ellun 200 Box" />
+  <keys type="item" key="CA_BX_00_2223" value="Ellun 250 Box" />
+  <keys type="item" key="CA_BX_00_2224" value="Ellun 300 Box" />
+  <keys type="item" key="CA_BX_00_2225" value="Ellun 500 Box" />
+  <keys type="item" key="CA_BX_00_2226" value="Ellun 800  Box" />
+  <keys type="item" key="CA_BX_00_2227" value="Ellun 1000 Box" />
+  <keys type="item" key="CA_BX_00_2228" value="Ellun 2000 Box" />
+  <keys type="item" key="CA_BX_00_2229" value="Ellun 3000 Box" />
+  <keys type="item" key="CA_BX_00_2230" value="Ellun 5000 Box" />
+  <keys type="item" key="CA_BX_00_2231" value="Ellun 9999 Box" />
+  <keys type="item" key="CA_BX_00_2232" value="Jackpot of the Jackpot 10+1" />
+  <keys type="item" key="CA_BX_00_2233" value="2022 glasses (30 days)" />
+  <keys type="item" key="CA_BX_00_2234" value="Christmas Ellun Box (December 25)" />
+  <keys type="item" key="CA_BX_00_2235" value="Christmas Ellun Box (2021)" />
+  <keys type="item" key="CA_BX_00_2236" value="Christmas Ellun Gift" />
+  <keys type="item" key="CA_BX_00_2237" value="12 Ellun" />
+  <keys type="item" key="CA_BX_00_2238" value="Ellun 25" />
+  <keys type="item" key="CA_BX_00_2239" value="20 Ellun" />
+  <keys type="item" key="CA_BX_00_2240" value="21 Ellun" />
+  <keys type="item" key="CA_BX_00_2241" value="Legend+ Relic Ryeokseok (Not Trading) X5" />
+  <keys type="item" key="EV_BX_00_1657" value="10 fellows" />
+  <keys type="item" key="EV_BX_00_1658" value="20 Fellows Exchange Certificates" />
+  <keys type="item" key="EV_BX_00_1659" value="Luxury tree piece package" />
+  <keys type="item" key="EV_BX_00_1660" value="Advanced ice piece package" />
+  <keys type="item" key="EV_BX_00_1661" value="Luxury stone piece package" />
+  <keys type="item" key="EV_BX_00_1662" value="Advanced tree piece DIY set" />
+  <keys type="item" key="EV_BX_00_1663" value="Advanced Ice Sculpture DIY set" />
+  <keys type="item" key="EV_BX_00_1664" value="High -quality stone piece DIY set" />
+  <keys type="item" key="EV_BX_00_1665" value="Special attendance check 1 day" />
+  <keys type="item" key="EV_BX_00_1666" value="Special attendance check day 2" />
+  <keys type="item" key="EV_BX_00_1667" value="Special attendance check day 3rd day" />
+  <keys type="item" key="EV_BX_00_1668" value="Special attendance check 4th day" />
+  <keys type="item" key="EV_BX_00_1669" value="Special attendance check 5th day" />
+  <keys type="item" key="EV_BX_00_1670" value="Special attendance check 6th day" />
+  <keys type="item" key="EV_BX_00_1671" value="Special attendance check 7th day" />
+  <keys type="item" key="EV_BX_00_1672" value="3rd integer" />
+  <keys type="item" key="EV_BX_00_1673" value="5 craftsmanship" />
+  <keys type="item" key="EV_BX_00_1674" value="10 integers of craftsmen" />
+  <keys type="item" key="EV_BX_00_1675" value="One integer box of craftsmen" />
+  <keys type="item" key="EV_BX_00_1676" value="Artisan's integer box 10+1" />
+  <keys type="item" key="EV_BX_00_1677" value="Husband candidate 500 packages" />
+  <keys type="item" key="EV_BX_00_1678" value="One box containing prepared items" />
+  <keys type="item" key="EV_BX_00_1679" value="11 Box of preparation items" />
+  <keys type="item" key="EV_BX_00_1680" value="One box with seaweed" />
+  <keys type="item" key="EV_BX_00_1681" value="11 packages with seaweeds" />
+  <keys type="item" key="EV_BX_00_1682" value="10 packages prepared" />
+  <keys type="item" key="EV_BX_00_1683" value="50 packages" />
+  <keys type="item" key="EV_BX_00_1684" value="100 packages of preparation items" />
+  <keys type="item" key="EV_BX_00_1685" value="300 packages of preparation items" />
+  <keys type="item" key="EV_BX_00_1686" value="1000 packages of preparation items" />
+  <keys type="item" key="EV_BX_00_1687" value="1 seaweed package" />
+  <keys type="item" key="EV_BX_00_1688" value="3 seaweed packages" />
+  <keys type="item" key="EV_BX_00_1689" value="5 seaweed packages" />
+  <keys type="item" key="EV_BX_00_1690" value="10 seaweed packages" />
+  <keys type="item" key="EV_BX_00_1691" value="Package" />
+  <keys type="item" key="EV_BX_00_1692" value="Box with one lost key from Martry and Monio" />
+  <keys type="item" key="CA_BX_00_2242" value="Integer in the mythical awakening 2+1" />
+  <keys type="item" key="EV_BX_00_1693" value="New Year's Day Gift" />
+  <keys type="item" key="EV_BX_00_1694" value="Appearance Hanbok_Tae (30 days) package" />
+  <keys type="item" key="EV_BX_00_1695" value="Appearance Hanbok_Middle (30th) package" />
+  <keys type="item" key="EV_BX_00_1696" value="Appearance hanbok_Im (30 days) package" />
+  <keys type="item" key="EV_BX_00_1697" value="Appearance Hanbok_Male (30 days) package" />
+  <keys type="item" key="EV_BX_00_1698" value="Appearance Hanbok_Hwang (30 days) package" />
+  <keys type="item" key="EV_BX_00_1699" value="Rainbow colored candy 20 pieces + 5 signs of love" />
+  <keys type="item" key="EV_BX_00_1700" value="Rainbow colored candy 30 + 25 signs of love" />
+  <keys type="item" key="EV_BX_00_1701" value="Rainbow colored candy 50 + 50 signs of love" />
+  <keys type="item" key="EV_BX_00_1702" value="3 red candy" />
+  <keys type="item" key="EV_BX_00_1703" value="3 orange candy 3" />
+  <keys type="item" key="EV_BX_00_1704" value="3 yellow candy" />
+  <keys type="item" key="EV_BX_00_1705" value="3 green candy" />
+  <keys type="item" key="EV_BX_00_1706" value="3 blue candy" />
+  <keys type="item" key="EV_BX_00_1707" value="3 purple candy" />
+  <keys type="item" key="EV_BX_00_1708" value="3 strawberry chocolates" />
+  <keys type="item" key="EV_BX_00_1709" value="3 mint chocolates" />
+  <keys type="item" key="EV_BX_00_1710" value="3 bitter dark chocolates" />
+  <keys type="item" key="EV_BX_00_1711" value="White Day gift basket" />
+  <keys type="item" key="EV_BX_00_1712" value="Candy pocket" />
+  <keys type="item" key="EV_BX_00_1713" value="8th Anniversary Special attendance check 1 day gift" />
+  <keys type="item" key="EV_BX_00_1714" value="8th Anniversary Special attendance check day 2 gift" />
+  <keys type="item" key="EV_BX_00_1715" value="8th Anniversary Special attendance check 3 days gift" />
+  <keys type="item" key="EV_BX_00_1716" value="8th Anniversary Special attendance check day 4 gifts" />
+  <keys type="item" key="EV_BX_00_1717" value="8th Anniversary Special attendance check day 5 gifts" />
+  <keys type="item" key="EV_BX_00_1718" value="8th Anniversary Special attendance check day 6 gift" />
+  <keys type="item" key="EV_BX_00_1719" value="8th Anniversary Special Attendance Check Day 7 Gift" />
+  <keys type="item" key="EV_BX_00_1720" value="8 Anniversary Lucky Box" />
+  <keys type="item" key="EV_BX_00_1721" value="8th Anniversary Lucky Box 11" />
+  <keys type="item" key="EV_BX_00_1722" value="8th Anniversary Package" />
+  <keys type="item" key="EV_BX_00_1723" value="Random Fellow Box" />
+  <keys type="item" key="EV_BX_00_1724" value="2021 Fellow Box of Memories" />
+  <keys type="item" key="EV_BX_00_1725" value="388 Box (Transactions)" />
+  <keys type="item" key="EV_BX_00_1726" value="5 anniversary coins to commemorate the 8th anniversary" />
+  <keys type="item" key="EV_BX_00_1727" value="10 coins to commemorate the 8th anniversary" />
+  <keys type="item" key="EV_BX_00_1728" value="20 anniversary coins in commemorative coins" />
+  <keys type="item" key="EV_BX_00_1729" value="10 thin cloths" />
+  <keys type="item" key="EV_BX_00_1730" value="10 thick cloth" />
+  <keys type="item" key="EV_BX_00_1731" value="10 soft cloth" />
+  <keys type="item" key="EV_BX_00_1732" value="10 glossy cloth" />
+  <keys type="item" key="EV_BX_00_1733" value="Armor Create Help Box Lv1" />
+  <keys type="item" key="EV_BX_00_1734" value="Armor Create Help Box Lv2" />
+  <keys type="item" key="EV_BX_00_1735" value="Armor Create Help Box Lv3" />
+  <keys type="item" key="EV_BX_00_1736" value="Armor Create Help Box Lv4" />
+  <keys type="item" key="EV_BX_00_1737" value="1 bleach box of westeria" />
+  <keys type="item" key="EV_BX_00_1738" value="Westeria's Dust Box 10+1" />
+  <keys type="item" key="EV_BX_00_1739" value="One fashion box of Andore" />
+  <keys type="item" key="EV_BX_00_1740" value="Andore's fashion box 10+1" />
+  <keys type="item" key="EV_BX_00_1741" value="MUSE: 5 stars of star" />
+  <keys type="item" key="EV_BX_00_1742" value="COOL: 5 season of vacation" />
+  <keys type="item" key="EV_BX_00_1743" value="Passion: 5 lost darkness" />
+  <keys type="item" key="EV_BX_00_1744" value="LOVE: 5 measures plans for visitors" />
+  <keys type="item" key="EV_BX_00_1745" value="Talent: 5 traditional chefs" />
+  <keys type="item" key="EV_BX_00_1746" value="10 dust in westeria" />
+  <keys type="item" key="EV_BX_00_1747" value="30 dust in westeria" />
+  <keys type="item" key="EV_BX_00_1748" value="50 dust from westeria" />
+  <keys type="item" key="EV_BX_00_1749" value="3 kinds of lucky Box" />
+  <keys type="item" key="EV_BX_00_1750" value="25 lavini paper" />
+  <keys type="item" key="EV_BX_00_1751" value="Lavini paper 250 + 25 pieces" />
+  <keys type="item" key="CA_BX_00_2243" value="3 Special Enhancement Jewelry" />
+  <keys type="item" key="EV_BX_00_1752" value="Ravini paper bundle" />
+  <keys type="item" key="EV_BX_00_1753" value="Galaxy 1 star candy" />
+  <keys type="item" key="EV_BX_00_1754" value="Galaxy 5 star candy" />
+  <keys type="item" key="EV_BX_00_1755" value="Galaxy 10 star candy" />
+  <keys type="item" key="EV_BX_00_1756" value="1 Galaxy Star Candy Box" />
+  <keys type="item" key="EV_BX_00_1757" value="11 Galaxy Star Candy Box" />
+  <keys type="item" key="EV_BX_00_1758" value="Package for star explorers" />
+  <keys type="item" key="EV_BX_00_1759" value="Dark Guardian Zodiac Package (Power)" />
+  <keys type="item" key="EV_BX_00_1760" value="Dark Wanderer Zodiac Package (Intelligence)" />
+  <keys type="item" key="EV_BX_00_1767" value="Dilissence Family Secret Package" />
+  <keys type="item" key="EV_BX_00_1768" value="Choco waffle making set" />
+  <keys type="item" key="EV_BX_00_1769" value="Green tea waffle making set" />
+  <keys type="item" key="EV_BX_00_1770" value="Strawberry waffle making set" />
+  <keys type="item" key="IT_BX_00_1178" value="Fellow Lucky Box Renewal X1" />
+  <keys type="item" key="IT_BX_00_1179" value="Fellow Lucky Box Renewal X11" />
+  <keys type="item" key="IT_BX_00_1180" value="Fellow Lucky Box Renewal X30" />
+  <keys type="item" key="IT_BX_CS_0001" value="Shinhwa Ganghwa Stone" />
+  <keys type="item" key="IT_BX_CS_0002" value="Zelaris" />
+  <keys type="item" key="IT_BX_CS_0003" value="Grace" />
+  <keys type="item" key="IT_BX_CS_0004" value="50% elite reinforcement stone" />
+  <keys type="item" key="IT_BX_CS_0005" value="50% Hero Ganghwa Stone" />
+  <keys type="item" key="IT_BX_CS_0006" value="30% elite reinforcement stone" />
+  <keys type="item" key="IT_BX_CS_0007" value="30% Hero Ganghwa Stone" />
+  <keys type="item" key="IT_BX_CS_0008" value="Sea pearls in Vinisar" />
+  <keys type="item" key="IT_BX_CS_0009" value="Platinum" />
+  <keys type="item" key="IT_BX_CS_0010" value="Gold bar" />
+  <keys type="item" key="IT_BX_CS_0011" value="Poraonium alloy of Ellun Muddine" />
+  <keys type="item" key="IT_BX_CS_0012" value="Ellunpauldol Bolklist Crystal Heat" />
+  <keys type="item" key="IT_BX_CS_0013" value="Ellun Guden Dragonium Battlefield Monster" />
+  <keys type="item" key="IT_BX_CS_0014" value="Awakening Sandstorm Church Reward Box 1" />
+  <keys type="item" key="IT_BX_CS_0015" value="Awakening Sandstorm Church Reward 2" />
+  <keys type="item" key="EV_BX_00_1771" value="10 bundles of full moon" />
+  <keys type="item" key="EV_BX_00_1772" value="15 bundles of full moon" />
+  <keys type="item" key="EV_BX_00_1773" value="20 bundles of full moon" />
+  <keys type="item" key="EV_BX_00_1774" value="30 bundles of full moon" />
+  <keys type="item" key="EV_BX_00_1775" value="20 Box of well -being cooking tools" />
+  <keys type="item" key="EV_BX_00_1776" value="30 Box of well -being cooking tools" />
+  <keys type="item" key="EV_BX_00_1777" value="40 Box of well -being cooking tools" />
+  <keys type="item" key="EV_BX_00_1778" value="20 Box of meat cooking tools" />
+  <keys type="item" key="EV_BX_00_1779" value="30 Box of meat cooking tools" />
+  <keys type="item" key="EV_BX_00_1780" value="40 meat cooking tools" />
+  <keys type="item" key="IT_BX_00_1181" value="Fellowship lucky box lashvi collection" />
+  <keys type="item" key="EV_BX_00_1781" value="Kitchen Ferni Chuseok official package" />
+  <keys type="item" key="EV_BX_00_1782" value="Curfer" />
+  <keys type="item" key="EV_BX_00_1783" value="A full moon's jackpot box package" />
+  <keys type="item" key="EV_BX_00_1784" value="Cooking tool picking box package" />
+  <keys type="item" key="EV_BX_00_1785" value="Pacote Ravini Festival Wish Box" />
+  <keys type="item" key="EV_BX_00_1786" value=" Pacote de Cartões [Ícaro]" />
+  <keys type="item" key="EV_BX_00_1787" value="Pacote Chuseok" />
+  <keys type="item" key="EV_BX_00_1788" value="Pacote de fabricação de armadura a sangue frio x11" />
+  <keys type="item" key="EV_BX_00_1789" value="Caixa com 2 panelas de bem-estar" />
+  <keys type="item" key="EV_BX_00_1790" value="Caixa de 2 panelas de carne" />
+  <keys type="item" key="EV_BX_00_1791" value="10 Emblemas de Dia das Bruxas" />
+  <keys type="item" key="EV_BX_00_1792" value="30 Emblemas de Dia das Bruxas" />
+  <keys type="item" key="EV_BX_00_1793" value="Pacote de Emblemas de Halloween (pequeno)" />
+  <keys type="item" key="EV_BX_00_1794" value="Pacote de Emblema de Halloween (Grande)" />
+  <keys type="item" key="EV_BX_00_1795" value="Ordem do Guardião Fantasma" />
+  <keys type="item" key="EV_BX_00_1796" value="Ordem do Exorcismo Fantasma" />
+  <keys type="item" key="EV_BX_00_1797" value="Capa de Saída do Oficial de Combate (30 dias)" />
+  <keys type="item" key="EV_BX_00_1798" value="Capa de Saída do Oficial de Produção (30 dias)" />
+  <keys type="item" key="EV_BX_00_1799" value="A capa de passeio do oficial de educação (30 dias)" />
+  <keys type="item" key="EV_BX_00_1800" value="Ghost Fellow Draw Lucky Box" />
+  <keys type="item" key="EV_BX_00_1801" value="Ghost Fellow Draw Lucky Box 10+1" />
+  <keys type="item" key="EV_BX_00_1802" value="Pacote da Caixa de Sorteio Premium do Dia das Bruxas" />
+  <keys type="item" key="EV_BX_00_1803" value="Caixa de Sorteio de Renovação do Companheiro de Halloween" />
+  <keys type="item" key="IT_BX_00_1182" value="Pacote de Companheiros Antigos" />
+  <keys type="item" key="IT_BX_00_1183" value="Bem-vindo à Black Friday" />
+  <keys type="item" key="IT_BX_00_1184" value="Caixa de Companheiro Aleatória Batendo x5" />
+  <keys type="item" key="IT_BX_CS_0016" value="Quadragane Kill Reward Box 1" />
+  <keys type="item" key="IT_BX_CS_0017" value="Quadragane Kill Reward Box 2" />
+  <keys type="item" key="EV_BX_00_1804" value="Kit do Viajante do Deserto" />
+  <keys type="item" key="EV_BX_00_1805" value="Kit de Viajante do Prado" />
+  <keys type="item" key="EV_BX_00_1806" value="Kit do Viajante Abissal" />
+  <keys type="item" key="EV_BX_00_1807" value="1 Fellow Adventure Booster Random Box" />
+  <keys type="item" key="EV_BX_00_1808" value="Caixa aleatória de booster de aventura 11ea" />
+  <keys type="item" key="EV_BX_00_1809" value="1 Caixa Aleatória de Fragmento de Blossus" />
+  <keys type="item" key="EV_BX_00_1810" value="2 Companheiros de Aventura II" />
+  <keys type="item" key="EV_BX_00_1811" value="2 Companheiros de Aventura Impulsionadores III" />
+  <keys type="item" key="EV_BX_00_1812" value="2 Companheiros de Aventura Impulsionadores IV" />
+  <keys type="item" key="EV_BX_00_1813" value="3 Companheiros de Aventura Boosters II" />
+  <keys type="item" key="EV_BX_00_1814" value="3 Companheiros de Aventura Boosters III" />
+  <keys type="item" key="EV_BX_00_1815" value="3 Companheiros de Aventura Boosters IV" />
+  <keys type="item" key="EV_BX_00_1816" value="3 pedaços de Blossom no deserto" />
+  <keys type="item" key="EV_BX_00_1817" value="5 Fragmentos de Flor do Deserto" />
+  <keys type="item" key="EV_BX_00_1818" value="3 Peças de Flor de Prado" />
+  <keys type="item" key="EV_BX_00_1819" value="5 Fragmentos de Flor do Prado" />
+  <keys type="item" key="EV_BX_00_1820" value="Três peças de Abyssal Blossus" />
+  <keys type="item" key="EV_BX_00_1821" value="5 Fragmentos de Flor Abissal" />
+  <keys type="item" key="EV_BX_00_1822" value="Colecionador de moedas x500" />
+  <keys type="item" key="EV_BX_00_1823" value="Moeda de Colecionador Mestre x10" />
+  <keys type="item" key="EV_BX_00_1824" value="Moeda de Colecionador Mestre x20" />
+  <keys type="item" key="EV_BX_00_1825" value="Moeda de Colecionador Mestre x50" />
+  <keys type="item" key="CA_KR_00_0001" value="Inteiro de Melhorias de Qualidade Avançadas x1" />
+  <keys type="item" key="CA_KR_00_0002" value="Essência da mais alta melhoria de qualidade x1" />
+  <keys type="item" key="CA_KR_00_0003" value="Essência da Melhoria de Qualidade Avançada x10" />
+  <keys type="item" key="CA_KR_00_0004" value="Essência da mais alta melhoria de qualidade x10" />
+  <keys type="item" key="EV_BX_00_1826" value="Christmas Ticket x10" />
+  <keys type="item" key="EV_BX_00_1827" value="Christmas Ticket x30" />
+  <keys type="item" key="EV_BX_00_1828" value="Yeti's Love x10" />
+  <keys type="item" key="EV_BX_00_1829" value="Probability UP! Tio Draw Snowball" />
+  <keys type="item" key="EV_BX_00_1830" value="Probability UP! Mao Gacha Snowball" />
+  <keys type="item" key="EV_BX_00_1831" value="Probability UP! Tio Draw Snowball 10+1" />
+  <keys type="item" key="EV_BX_00_1832" value="Probability UP! Mao Gacha Snowball 10+1" />
+  <keys type="item" key="EV_BX_00_1833" value="Christmas Ticket x100" />
+  <keys type="item" key="EV_BX_00_1834" value="Pledge package with Yeti" />
+  <keys type="item" key="EV_BX_00_1835" value="Christmas Fellows Super Special Loot Box" />
+  <keys type="item" key="EV_BX_00_1836" value="Red Christmas Costume Package" />
+  <keys type="item" key="EV_BX_00_1837" value="Black Christmas Costume Package" />
+  <keys type="item" key="EV_BX_00_1838" value="White Christmas Costume Package" />
+  <keys type="item" key="EV_BX_00_1839" value="Golden Santa Sparrow (30 Days) Package" />
+  <keys type="item" key="EV_BX_00_1840" value="Dark Santa Sparrow (30 Days) Package" />
+  <keys type="item" key="CA_KR_00_0005" value="The Lost Belhira's Package 1+2" />
+  <keys type="item" key="EV_BX_00_1841" value="2022 Happy Christmas Gift Package" />
+  <keys type="item" key="EV_BX_00_1842" value="Rice Jumbo Pearl Piece x3" />
+  <keys type="item" key="EV_BX_00_1843" value="Peach Jumbo Pearl Piece x3" />
+  <keys type="item" key="EV_BX_00_1844" value="Herb Jumbo Pearl Piece x3" />
+  <keys type="item" key="EV_BX_00_1845" value="Blueberry Jumbo Pearl Piece x3" />
+  <keys type="item" key="EV_BX_00_1846" value="Blossom Jumbo Pearl Piece x3" />
+  <keys type="item" key="EV_BX_00_1847" value="Snow Jumbo Pearl Piece x3" />
+  <keys type="item" key="EV_BX_00_1848" value="Rice Jumbo Pearl Piece x5" />
+  <keys type="item" key="EV_BX_00_1849" value="Peach Jumbo Pearl Piece x5" />
+  <keys type="item" key="EV_BX_00_1850" value="Herb Jumbo Pearl Piece x5" />
+  <keys type="item" key="EV_BX_00_1851" value="Blueberry Jumbo Pearl Piece x5" />
+  <keys type="item" key="EV_BX_00_1852" value="Blossom Jumbo Pearl Piece x5" />
+  <keys type="item" key="EV_BX_00_1853" value="Snow Jumbo Pearl Piece x5" />
+  <keys type="item" key="EV_BX_00_1854" value="Highly concentrated new drug kit full package" />
+  <keys type="item" key="EV_BX_00_1855" value="Kelly's Highly Concentrated New Drug" />
+  <keys type="item" key="EV_BX_00_1856" value="Jumbo Pearl Piece Random Box" />
+  <keys type="item" key="EV_BX_00_1857" value="Fellow Box of 2022 Memories" />
+  <keys type="item" key="EV_BX_00_1858" value="Fellow Box of 2021 Memories" />
+  <keys type="item" key="EV_BX_00_1859" value="Tteok Rabbit Coin x100" />
+  <keys type="item" key="EV_BX_00_1860" value="Kelly's Lab Medicine x2" />
+  <keys type="item" key="EV_BX_00_1861" value="Kelly's Lab Medicine x3" />
+  <keys type="item" key="EV_BX_00_1862" value="Kelly's Lab Medicine x4" />
+  <keys type="item" key="EV_BX_00_1863" value="Kelly's Lab Medicine x5" />
+  <keys type="item" key="EV_BX_00_1864" value="Black Rabbit Pajamas Costume Package" />
+  <keys type="item" key="EV_BX_00_1865" value="White Rabbit Pajamas Costume Package" />
+  <keys type="item" key="EV_BX_00_1866" value="Pink Rabbit Pajamas Costume Package" />
+  <keys type="item" key="CA_KR_00_0006" value="Christmas Packages" />
+  <keys type="item" key="CA_KR_00_0007" value="Christmas Ellun Box" />
+  <keys type="item" key="CA_KR_00_0008" value="Christmas Ellun (2022)" />
+  <keys type="item" key="CA_KR_00_0009" value="2023 glasses (30 days)" />
+  <keys type="item" key="IT_BX_00_1187" value="Funny Gift Box" />
+  <keys type="item" key="IT_BX_00_1188" value="start box" />
+  <keys type="item" key="IT_BX_00_1189" value="First Steps Box I" />
+  <keys type="item" key="IT_BX_00_1190" value="First Steps Box II" />
+  <keys type="item" key="IT_BX_00_1191" value="First Steps Box III" />
+  <keys type="item" key="IT_BX_00_1192" value="First Steps Box IV" />
+  <keys type="item" key="IT_BX_00_1193" value="First Steps Box V" />
+  <keys type="item" key="IT_BX_00_1194" value="First Steps Box VI" />
+  <keys type="item" key="IT_BX_00_1195" value="First Steps Box VII" />
+  <keys type="item" key="IT_BX_00_1196" value="First Steps Box VIII" />
+  <keys type="item" key="IT_BX_00_1197" value="First Steps Box IX" />
+  <keys type="item" key="IT_BX_00_1198" value="First Steps Box X" />
+  <keys type="item" key="IT_BX_00_1199" value="First Steps Box XI" />
+  <keys type="item" key="IT_BX_00_1200" value="First Steps Box XII" />
+  <keys type="item" key="IT_BX_00_1201" value="Restart Box" />
+  <keys type="item" key="IT_BX_00_1202" value="Return Helper Box I" />
+  <keys type="item" key="IT_BX_00_1203" value="Return Helper Box II" />
+  <keys type="item" key="IT_BX_00_1204" value="Return Helper Box III" />
+  <keys type="item" key="IT_BX_00_1205" value="Return Helper Box IV" />
+  <keys type="item" key="IT_BX_00_1206" value="Return Helper Box V" />
+  <keys type="item" key="IT_BX_00_1207" value="Return Helper Box VI" />
+  <keys type="item" key="IT_BX_00_1208" value="Return Helper Box VII" />
+  <keys type="item" key="IT_BX_00_1209" value="Return Helper Box VIII" />
+  <keys type="item" key="IT_BX_00_1210" value="Return Helper Box IX" />
+  <keys type="item" key="IT_BX_00_1211" value="Return Helper Box X" />
+  <keys type="item" key="IT_BX_00_1212" value="Return Helper Box XI" />
+  <keys type="item" key="IT_BX_00_1213" value="Return Helper Box XII" />
+  <keys type="item" key="CA_KR_00_0015" value="Fellow lucky box new x1" />
+  <keys type="item" key="CA_KR_00_0014" value="Fellow Lucky Box new x11" />
+  <keys type="item" key="CA_KR_00_0013" value="Fellow Lucky Box new x33" />
+</files>

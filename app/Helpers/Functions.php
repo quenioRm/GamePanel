@@ -3,6 +3,7 @@
 namespace App\Helpers;
 
 class Functions{
+
     public static function get_ip() {
         $keys = array('HTTP_CLIENT_IP', 'HTTP_X_FORWARDED_FOR', 'HTTP_X_FORWARDED', 'HTTP_X_CLUSTER_CLIENT_IP', 'HTTP_FORWARDED_FOR', 'HTTP_FORWARDED', 'REMOTE_ADDR');
 
@@ -49,6 +50,52 @@ class Functions{
             return $status;
         }catch (\Exception $e){
             return -1;
+        }
+    }
+
+    public static function GetDataFromXML($id, $langFolder)
+    {
+        $myfiles = array_diff(scandir('assets/gamelang/' . $langFolder), array('.', '..'));
+
+        foreach ($myfiles as $key => $file) {
+
+            $xmlString = file_get_contents(public_path('assets/gamelang/' . $langFolder . '/' . $file));
+            $xmlObject = simplexml_load_string($xmlString);
+
+            $json = json_encode($xmlObject);
+            $phpArray = json_decode($json, true);
+
+            if(!empty($phpArray)){
+                $result = Functions::FindKey($id, $phpArray);
+                if($result != null)
+                    return $result;
+            }
+        }
+
+        return null;
+    }
+
+    public static function FindKey($id, $phpArray)
+    {
+        foreach ($phpArray as $key => $phpitems) {
+            foreach ($phpitems as $key => $item) {
+                if(isset($item['@attributes']['key']) && $item['@attributes']['key'] == $id){
+                    return $item['@attributes']['value'];
+                }
+            }
+        }
+    }
+
+    public static function GetClassName($class)
+    {
+        switch ($class) {
+            case 'wz':
+                return "Magician";
+                break;
+
+            default:
+                # code...
+                break;
         }
     }
 }

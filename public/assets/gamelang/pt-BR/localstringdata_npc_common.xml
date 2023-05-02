@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="npc" key="N_f02_HuMLib01_001" value="DeGrasse" />
+  <keys type="npc" key="N_f02_HuMEli01_001" value="Bartan" />
+  <keys type="npc" key="N_f03_HuMLib01_001" value="Nerheim" />
+  <keys type="npc" key="N_f03_HuMEli01_001" value="Schutemann" />
+  <keys type="npc" key="N_dportal_001" value="Prast" />
+  <keys type="npc" key="N_dportal_002" value="Bierce" />
+  <keys type="npc" key="N_P01_0_0001_0001" value="Maia" />
+  <keys type="npc" key="N_P01_0_0001_0002" value="Rodham" />
+  <keys type="npc" key="N_P01_0_0001_0003" value="Louiche" />
+  <keys type="npc" key="N_P01_0_0001_0004" value="Chaney Rabbini" />
+  <keys type="npc" key="N_P01_0_0001_0005" value="Paul Rabbini" />
+  <keys type="npc" key="N_P01_0_0001_0006" value="Ruth Rabbini" />
+  <keys type="npc" key="N_P01_0_0001_0007" value="Gorash" />
+  <keys type="npc" key="N_P01_0_0001_0008" value="Escadel" />
+  <keys type="npc" key="N_P01_0_0001_0009" value="Hayk" />
+  <keys type="npc" key="N_P01_0_0001_0010" value="Guilver" />
+  <keys type="npc" key="N_P01_0_0001_0011" value="Latlan" />
+  <keys type="npc" key="N_P01_returnp_001" value="Recall Stone" />
+  <keys type="npc" key="N_P01_0_0001_0012" value="Schutein" />
+  <keys type="npc" key="N_p01_ReturnP_002" value="Recall Stone" />
+  <keys type="npc" key="N_p01_ReturnP_003" value="Recall Stone" />
+  <keys type="npc" key="N_p01_HuFFar01_001" value="Dahlia" />
+  <keys type="npc" key="N_p01_HuMPri03_001" value="Raymond" />
+  <keys type="npc" key="N_p01_HuFPub02_001" value="Phillia" />
+  <keys type="npc" key="N_p01_rabinis1_001" value="Charleston Rabbini" />
+  <keys type="npc" key="N_p01_HuMMil02_001" value="Heckart" />
+  <keys type="npc" key="N_p01_hufkep01_001" value="Kaiyu" />
+  <keys type="npc" key="N_p01_HuFFar02_001" value="Landuil" />
+  <keys type="npc" key="N_p01_rabinis1_002" value="Charlotte Rabbini" />
+  <keys type="npc" key="N_p01_HuMEli01_001" value="Stein" />
+  <keys type="npc" key="N_p01_HuFKni01_001" value="Rodain" />
+  <keys type="npc" key="N_p01_SpirWB2_001" value="Kiki" />
+  <keys type="npc" key="N_p01_HuFServ01_001" value="Leica" />
+  <keys type="npc" key="N_p01_HuMCrew02_001" value="Lima" />
+  <keys type="npc" key="N_P01_0_0001_0013" value="Restless Ghost" />
+  <keys type="npc" key="N_P01_0_0001_0014" value="Cauldron" />
+  <keys type="npc" key="N_f02_dummy_001" value="Blazing Fire" />
+  <keys type="npc" key="N_F01_Portal_100" value="World Shrine" />
+  <keys type="npc" key="N_F01_Portal_001" value="Evento de pesca de verão" />
+  <keys type="npc" key="N_F01_Portal_002" value="Panult" />
+  <keys type="npc" key="N_F01_Portal_003" value="Comércio de cupons de Hakanas" />
+  <keys type="npc" key="N_F01_Portal_004" value="Revendedor Familiar de Moedas" />
+  <keys type="npc" key="N_C01_Portal_100" value="World Shrine" />
+  <keys type="npc" key="N_C01_Portal_001" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_002" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_003" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_004" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_005" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_006" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_007" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_008" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_009" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_010" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_011" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_012" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_013" value="Transit Shrine" />
+  <keys type="npc" key="N_C01_Portal_014" value="Transit Shrine" />
+  <keys type="npc" key="N_F02_Portal_100" value="World Shrine" />
+  <keys type="npc" key="N_F02_Portal_001" value="Transit Shrine" />
+  <keys type="npc" key="N_F02_Portal_002" value="Transit Shrine" />
+  <keys type="npc" key="N_F02_Portal_003" value="Transit Shrine" />
+  <keys type="npc" key="N_F02_Portal_004" value="Transit Shrine" />
+  <keys type="npc" key="N_F02_Portal_005" value="Transit Shrine" />
+  <keys type="npc" key="N_F02_Portal_006" value="Transit Shrine" />
+  <keys type="npc" key="N_F02_Portal_007" value="Transit Shrine" />
+  <keys type="npc" key="N_F09_Portal_100" value="World Shrine" />
+  <keys type="npc" key="N_F09_Portal_001" value="Transit Shrine" />
+  <keys type="npc" key="N_F09_Portal_002" value="Transit Shrine" />
+  <keys type="npc" key="N_F09_Portal_003" value="Transit Shrine" />
+  <keys type="npc" key="N_F09_Portal_004" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_100" value="World Shrine" />
+  <keys type="npc" key="N_F03_Portal_001" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_002" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_003" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_004" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_005" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_006" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_007" value="Transit Shrine" />
+  <keys type="npc" key="N_F03_Portal_008" value="Transit Shrine" />
+  <keys type="npc" key="N_F04_Portal_100" value="World Shrine" />
+  <keys type="npc" key="N_F04_Portal_001" value="Transit Shrine" />
+  <keys type="npc" key="N_F04_Portal_002" value="Transit Shrine" />
+  <keys type="npc" key="N_F04_Portal_003" value="Transit Shrine" />
+  <keys type="npc" key="N_F04_Portal_004" value="Transit Shrine" />
+  <keys type="npc" key="N_F04_Portal_005" value="Transit Shrine" />
+  <keys type="npc" key="N_F04_Portal_006" value="Transit Shrine" />
+  <keys type="npc" key="N_P01_Portal_001" value="Transit Shrine" />
+  <keys type="npc" key="N_P01_Portal_002" value="Transit Shrine" />
+  <keys type="npc" key="N_P01_Portal_003" value="Transit Shrine" />
+  <keys type="npc" key="N_P01_HuMsol_001" value="Guardian Infantry" />
+  <keys type="npc" key="N_P01_HuMsol_002" value="Guardian Mounted Brigade" />
+  <keys type="npc" key="N_P01_Board_001" value="Conqueror's Gate Mission Board" />
+  <keys type="npc" key="N_P01_Board_002" value="Bloodmoon Camp Mission Board" />
+  <keys type="npc" key="N_P01_Board_003" value="Crimsonreach Camp Mission Board" />
+  <keys type="npc" key="N_P01_Board_004" value="Ashwind Camp Mission Board" />
+  <keys type="npc" key="N_F04_Portal_007" value="Transit Shrine" />
+  <keys type="npc" key="N_P01_Portal_004" value="Transit Shrine" />
+  <keys type="npc" key="N_P01_0_0001_0015" value="Breeze" />
+  <keys type="npc" key="N_P01_0_0001_0016" value="Snicket" />
+  <keys type="npc" key="N_P01_0_0001_0017" value="Tamed Rage" />
+  <keys type="npc" key="N_P01_0_0001_0018" value="Pan" />
+  <keys type="npc" key="N_P01_0_0001_0019" value="Kona" />
+  <keys type="npc" key="N_P01_0_0001_0020" value="Tuark" />
+  <keys type="npc" key="N_P01_0_0001_0021" value="Rachiel" />
+  <keys type="npc" key="N_P01_0_0001_0022" value="Torune" />
+  <keys type="npc" key="N_p01_Smith_001" value="Weapon Anvil" />
+  <keys type="npc" key="N_p01_Smith_002" value="Armor Anvil" />
+  <keys type="npc" key="N_p01_Cook_001" value="Cooking Station" />
+  <keys type="npc" key="N_p01_Alchemy_001" value="Alchemy Lab" />
+  <keys type="npc" key="N_p01_Accessory_001" value="Jewelry Table" />
+  <keys type="npc" key="N_p01_Fellow_001" value="Barder Craft Table" />
+  <keys type="npc" key="N_p01_HuMSmi_001" value="Yashi" />
+  <keys type="npc" key="N_p01_HuMSmi_002" value="Zachery" />
+  <keys type="npc" key="N_p01_HuMarmE_001" value="Xavier" />
+  <keys type="npc" key="N_p01_HuMDmag_001" value="Xander" />
+  <keys type="npc" key="N_p01_HuFFar_001" value="Tracy" />
+  <keys type="npc" key="N_p01_HuMMer_001" value="Shane" />
+  <keys type="npc" key="N_03_0_0002_0083" value="Penelope" />
+  <keys type="npc" key="N_P01_HuMsol_003" value="Guardian Footsoldier" />
+  <keys type="npc" key="N_P01_HuMsol_004" value="Guardian Footsoldier" />
+  <keys type="npc" key="N_P01_HuMNob_001" value="Kaleb" />
+  <keys type="npc" key="N_P01_DarkHound_01" value="Tamed Grudd" />
+  <keys type="npc" key="N_P01_BlackSauru_01" value="Tamed Sonos" />
+  <keys type="npc" key="N_P01_0_0001_0023" value="Batel" />
+  <keys type="npc" key="N_P01_0_0001_0024" value="Shumer" />
+  <keys type="npc" key="N_F04_Portal_900" value="Transit Shrine" />
+  <keys type="npc" key="N_F04_Portal_901" value="Transit Shrine" />
+  <keys type="npc" key="N_P01_DraYoung_01" value="Tamed Ura" />
+  <keys type="npc" key="N_c01_Event_100" value="Glass" />
+  <keys type="npc" key="N_c01_Event_Pc" value="PCbunny" />
+  <keys type="npc" key="N_p01_UniteLeader_01" value="Gleon" />
+  <keys type="npc" key="N_c01_RabMer01_003" value="Christoph Rabbini" />
+  <keys type="npc" key="N_f04_HuMFar_103" value="Zeron" />
+  <keys type="npc" key="N_f04_HuMNob_002" value="Nadan" />
+  <keys type="npc" key="N_p01_hum_01" value="Zako" />
+  <keys type="npc" key="N_C01_CoinEx_01" value="Goldie Rabbini" />
+  <keys type="npc" key="N_C01_BoxSell_01" value="Eddy Smith" />
+  <keys type="npc" key="N_C01_BoxSell_02" value="John Smith" />
+  <keys type="npc" key="N_c01_Event_Hal_1" value="Bones" />
+  <keys type="npc" key="N_c01_Event_Hal_2" value="Pumpkin" />
+  <keys type="npc" key="N_C01_CoinEx_02" value="Jacob Rabbini" />
+  <keys type="npc" key="N_C01_BoxSell_03" value="Justice Taylor" />
+  <keys type="npc" key="N_C01_BoxSell_04" value="Harold Taylor" />
+  <keys type="npc" key="N_F98_Portal_100" value="World Shrine" />
+  <keys type="npc" key="N_p01_UniteLeader_02" value="Palas" />
+  <keys type="npc" key="N_p01_UniteLeader_03" value="Alace" />
+  <keys type="npc" key="N_p01_UniteLeader_04" value="Akatos" />
+  <keys type="npc" key="N_C01_Custom_1" value="Edie" />
+  <keys type="npc" key="N_P02_Board_01" value="Freemen Village Mission Board" />
+  <keys type="npc" key="N_P02_Board_02" value="Trigg's Pub Mission Board" />
+  <keys type="npc" key="N_P02_Board_03" value="Midnight Lighthouse Mission Board" />
+  <keys type="npc" key="N_P02_Board_04" value="Eternity Lake Mission Board" />
+  <keys type="npc" key="N_P02_Portal_01" value="Transit Shrine" />
+  <keys type="npc" key="N_P02_Portal_02" value="Transit Shrine" />
+  <keys type="npc" key="N_P02_Portal_03" value="Transit Shrine" />
+  <keys type="npc" key="N_P02_Storage_01" value="Toze" />
+  <keys type="npc" key="N_P02_Stroage_02" value="Kello" />
+  <keys type="npc" key="N_P02_Arti_weapon" value="Hefler" />
+  <keys type="npc" key="N_P02_Arti_Armor" value="Stark" />
+  <keys type="npc" key="N_P02_Arti_Fellow" value="Giselle" />
+  <keys type="npc" key="N_P02_Arti_Acc" value="Gomez" />
+  <keys type="npc" key="N_P02_Arti_Arch" value="Terracci" />
+  <keys type="npc" key="N_P02_arti_Cook" value="Bernyn" />
+  <keys type="npc" key="N_P02_UnitLeader_01" value="Felix" />
+  <keys type="npc" key="N_P02_Consume_01" value="Ritia" />
+  <keys type="npc" key="N_P02_Consume_02" value="Sen" />
+  <keys type="npc" key="N_P02_Consume_03" value="Truk" />
+  <keys type="npc" key="N_P02_Guard_01" value="Zealem" />
+  <keys type="npc" key="N_P02_Guard_02" value="Civil Militiaman" />
+  <keys type="npc" key="N_P02_Guard_03" value="Zapata" />
+  <keys type="npc" key="N_P02_Guard_04" value="Batan" />
+  <keys type="npc" key="N_P02_UnitLeader_02" value="Frantz" />
+  <keys type="npc" key="N_P02_UnitLeader_03" value="Hanin" />
+  <keys type="npc" key="N_P02_UnitLeader_04" value="Jamir" />
+  <keys type="npc" key="N_P02_Lightman" value="Robinson" />
+  <keys type="npc" key="N_P02_Heal_01" value="Neth" />
+  <keys type="npc" key="N_P02_Heal_02" value="Karienne" />
+  <keys type="npc" key="N_P02_Heal_03" value="Ghulam" />
+  <keys type="npc" key="N_P02_Coin_1" value="Johannes" />
+  <keys type="npc" key="N_P02_Coin_2" value="Strobble" />
+  <keys type="npc" key="N_P02_Town" value="Vlaar" />
+  <keys type="npc" key="N_P02_Cooker" value="Nader" />
+  <keys type="npc" key="N_P02_Fellow_1" value="Flanc" />
+  <keys type="npc" key="N_P02_Fellow_2" value="Weisser" />
+  <keys type="npc" key="N_P02_Fellow_3" value="Khahou" />
+  <keys type="npc" key="N_P02_Fellow_4" value="Idrisi" />
+  <keys type="npc" key="N_P02_Sell_1" value="Beck" />
+  <keys type="npc" key="N_P02_Sell_2" value="Napeau" />
+  <keys type="npc" key="N_P02_Bartender" value="Trigg" />
+  <keys type="npc" key="N_P02_Coin_3" value="Pecan" />
+  <keys type="npc" key="N_P02_coin_4" value="Warinus Rabbini" />
+  <keys type="npc" key="N_P01_parbri" value="Fabri" />
+  <keys type="npc" key="N_P02_bashu" value="Bashu of the Round Table" />
+  <keys type="npc" key="N_P02_oilet_01" value="Ollet" />
+  <keys type="npc" key="N_P02_oilet_02" value="Ollet" />
+  <keys type="npc" key="N_P02_tara" value="Taracio" />
+  <keys type="npc" key="N_P02_peria" value="Peria" />
+  <keys type="npc" key="N_P02_tabram" value="Tabram of the Round Table" />
+  <keys type="npc" key="N_P02_ciel" value="Cielle of the Round Table" />
+  <keys type="npc" key="N_P02_jass" value="Jass" />
+  <keys type="npc" key="N_P02_baros" value="Baros of the Round Table" />
+  <keys type="npc" key="N_P02_orneta" value="Ornetta" />
+  <keys type="npc" key="N_P02_rineta" value="Linetta of the Round Table" />
+  <keys type="npc" key="N_P02_hagmaja_01" value="Hagmaza of the Round Table" />
+  <keys type="npc" key="N_P02_hagmaja_02" value="Hagmaza of the Round Table" />
+  <keys type="npc" key="N_P02_yusei" value="Yusei" />
+  <keys type="npc" key="N_P02_Portal_04" value="Transit Shrine" />
+  <keys type="npc" key="N_P02_Heal_04" value="Maian" />
+  <keys type="npc" key="N_P02_Consume_04" value="Mekkel" />
+  <keys type="npc" key="N_P02_Coin_5" value="Aslehmann" />
+  <keys type="npc" key="N_P02_coin_6" value="Lazet" />
+  <keys type="npc" key="N_C01_Collect_01" value="Deskar" />
+  <keys type="npc" key="N_f02_Collect_01" value="Arcanjo GM" />
+  <keys type="npc" key="N_f09_Collect_01" value="Hark" />
+  <keys type="npc" key="N_f03_Collect_01" value="Jaoulin" />
+  <keys type="npc" key="N_f04_Collect_01" value="Beredot" />
+  <keys type="npc" key="N_f05_Collect_03" value="Touliol" />
+  <keys type="npc" key="N_f07_Collect_08" value="Darencha" />
+  <keys type="npc" key="N_P02_Narudu_01" value="Narru" />
+  <keys type="npc" key="N_P02_Portal_05" value="Transit Shrine" />
+  <keys type="npc" key="N_P02_Seaana_01" value="Ceanna" />
+  <keys type="npc" key="N_P02_Nesco_01" value="Nestor" />
+  <keys type="npc" key="N_P02_Coolrash_01" value="Kulashi" />
+  <keys type="npc" key="N_P02_Board_05" value="Mission Board" />
+  <keys type="npc" key="N_P02_RabMer01_01" value="Eleanor Rabbini" />
+  <keys type="npc" key="N_P02_Sell_02" value="Noel" />
+  <keys type="npc" key="N_P02_Stroage_03" value="Everett" />
+  <keys type="npc" key="N_P02_Coin_7" value="Karoth" />
+  <keys type="npc" key="N_P02_Coin_8" value="Chervin" />
+  <keys type="npc" key="N_P02_UnitLeader_05" value="Granthis" />
+  <keys type="npc" key="N_P02_UnitLeader_06" value="Yoran" />
+  <keys type="npc" key="N_P02_Guard_05" value="Civil Militia Member" />
+  <keys type="npc" key="N_P02_Scaan_01" value="Stan" />
+  <keys type="npc" key="N_P02_Scaan_02" value="Stan" />
+  <keys type="npc" key="N_P02_Panney_01" value="Penny" />
+  <keys type="npc" key="N_P02_Panney_02" value="Penny" />
+  <keys type="npc" key="N_P02_Roberee_01" value="Robertson" />
+  <keys type="npc" key="N_P02_Alpaes_01" value="Alveress" />
+  <keys type="npc" key="N_P02_Anna_01" value="Enna" />
+  <keys type="npc" key="N_P02_Baros_02" value="Baros of the Round Table" />
+  <keys type="npc" key="N_P02_Menov_01" value="Menera" />
+  <keys type="npc" key="N_P02_rineta_02" value="Linetta of the Round Table" />
+  <keys type="npc" key="N_P02_toruba_01" value="Torva" />
+  <keys type="npc" key="N_P02_Coin_9" value="Farkhan" />
+  <keys type="npc" key="N_C01_Rabisow_01" value="Sowoni Rabbini" />
+  <keys type="npc" key="N_D00_RabiNina_01" value="Ninino Rabbini" />
+  <keys type="npc" key="N_D02_RabiNina_02" value="Ninino Rabbini" />
+  <keys type="npc" key="N_D01_RabiNina_03" value="Ninino Rabbini" />
+  <keys type="npc" key="N_c01_Event_103" value="Glass" />
+  <keys type="npc" key="N_C01_Rabieve_01" value="Gagangi Rabbini" />
+  <keys type="npc" key="N_C01_Rabieve_02" value="Suwole Rabbini" />
+  <keys type="npc" key="N_F02_Mstone_01" value="Vantara Manastone Oracle" />
+  <keys type="npc" key="N_C01_Daily_001" value="Dhouras" />
+  <keys type="npc" key="N_C01_Custom_2" value="Casey" />
+  <keys type="npc" key="N_p02_bantara_01" value="Arbiter of Courage" />
+  <keys type="npc" key="N_c01_Event_102" value="Glass" />
+  <keys type="npc" key="n_c01_hufyd_03" value="Asteria" />
+  <keys type="npc" key="N_C01_FishShop_01" value="Lessair" />
+  <keys type="npc" key="N_C01_FishQuest_01" value="Noel" />
+  <keys type="npc" key="N_C01_FishBoard_01" value="Fishing Board" />
+  <keys type="npc" key="N_C01_FishShop_02" value="Lessair" />
+  <keys type="npc" key="N_C01_FishQuest_02" value="Noel" />
+  <keys type="npc" key="N_C01_FishShop_03" value="Lessair" />
+  <keys type="npc" key="N_C01_FishQuest_03" value="Noel" />
+  <keys type="npc" key="N_C01_FishShop_04" value="Lessair" />
+  <keys type="npc" key="N_C01_FishQuest_04" value="Noel" />
+  <keys type="npc" key="N_C01_FishShop_05" value="Aileen" />
+  <keys type="npc" key="N_C01_FishShop_06" value="Aileen" />
+  <keys type="npc" key="N_C01_FishShop_07" value="Aileen" />
+  <keys type="npc" key="N_C01_FishShop_08" value="Aileen" />
+  <keys type="npc" key="N_C01_Daily_002" value="Belle" />
+  <keys type="npc" key="N_C01_QuestDevy_01" value="Vigorous Daveen" />
+  <keys type="npc" key="N_I01_Portal_001" value="Dungeon Lobby (Lv. 15-25)" />
+  <keys type="npc" key="N_I01_Portal_002" value="Dungeon Lobby (Lv. 35-40)" />
+  <keys type="npc" key="N_I01_Portal_003" value="Dungeon Lobby (Lv. 50)" />
+  <keys type="npc" key="N_I01_Portal_004" value="Dungeon Lobby (Raid)" />
+  <keys type="npc" key="N_I01_Portal_005" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_006" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_007" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_008" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_009" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_010" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_011" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_012" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_013" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_101" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_102" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_103" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_104" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_105" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_106" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_107" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_108" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_109" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_110" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_111" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_112" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_113" value="Cross-Server Transit Shrine" />
+  <keys type="npc" key="N_I01_Portal_201" value="Carleon Manor" />
+  <keys type="npc" key="N_I01_Portal_202" value="Ruins of Matren" />
+  <keys type="npc" key="N_I01_Portal_203" value="Lavalight Cave" />
+  <keys type="npc" key="N_I01_Portal_204" value="Ruins of Matren" />
+  <keys type="npc" key="N_I01_Portal_205" value="Lavalight Cave" />
+  <keys type="npc" key="N_I01_Portal_206" value="Carleon Manor" />
+  <keys type="npc" key="N_I01_Portal_211" value="Frost Keep" />
+  <keys type="npc" key="N_I01_Portal_212" value="The Breach" />
+  <keys type="npc" key="N_I01_Portal_213" value="Cavern of the Veil" />
+  <keys type="npc" key="N_I01_Portal_214" value="The Breach" />
+  <keys type="npc" key="N_I01_Portal_215" value="Cavern of the Veil" />
+  <keys type="npc" key="N_I01_Portal_216" value="Frost Keep" />
+  <keys type="npc" key="N_I01_Portal_221" value="Fortress of Sorrows" />
+  <keys type="npc" key="N_I01_Portal_222" value="Forgotten Shrine" />
+  <keys type="npc" key="N_I01_Portal_223" value="Temple of Sands" />
+  <keys type="npc" key="N_I01_Portal_224" value="Forgotten Shrine" />
+  <keys type="npc" key="N_I01_Portal_225" value="Temple of Sands" />
+  <keys type="npc" key="N_I01_Portal_226" value="Fortress of Sorrows" />
+  <keys type="npc" key="N_I01_Portal_231" value="Gustling Isle" />
+  <keys type="npc" key="N_I01_Portal_232" value="Fractura" />
+  <keys type="npc" key="N_I01_Portal_233" value="Attaius Peak" />
+  <keys type="npc" key="N_I01_Portal_234" value="Fractura" />
+  <keys type="npc" key="N_I01_Portal_235" value="Attaius Peak" />
+  <keys type="npc" key="N_I01_Portal_236" value="Gustling Isle" />
+  <keys type="npc" key="N_F02_Mstone_02" value="Aramath" />
+  <keys type="npc" key="N_P02_bantara_02" value="Arbiter of Courage" />
+  <keys type="npc" key="N_p01_raramis_01" value="Lalamin" />
+  <keys type="npc" key="N_I01_ratana_01" value="Latanyan" />
+  <keys type="npc" key="N_G01_HuMMer_001" value="Jayde" />
+  <keys type="npc" key="N_G01_HuMMer_002" value="Redrick" />
+  <keys type="npc" key="N_G01_hufpub_001" value="Raydran" />
+  <keys type="npc" key="N_G01_HuMMer_003" value="Jason" />
+  <keys type="npc" key="N_G01_HuMMer_004" value="Hendrick" />
+  <keys type="npc" key="N_G01_hufmer_001" value="Lalia" />
+  <keys type="npc" key="n_i01_zportal_40" value="Cross-Server Dungeon Lobby" />
+  <keys type="npc" key="n_i01_zportal_50" value="Cross-Server Dungeon Lobby" />
+  <keys type="npc" key="n_i01_zportal_60" value="Cross-Server Dungeon Lobby" />
+  <keys type="npc" key="n_i01_raid" value="Cross-Server Dungeon Lobby" />
+  <keys type="npc" key="n_c01_total" value="Cross-Server Dungeon Lobby (All)" />
+  <keys type="npc" key="n_i01_40out" value="Outer Rift Shrine" />
+  <keys type="npc" key="n_i01_50out" value="Outer Rift Shrine" />
+  <keys type="npc" key="n_i01_60out" value="Outer Rift Shrine" />
+  <keys type="npc" key="n_i01_raidout" value="Outer Rift Shrine" />
+  <keys type="npc" key="N_C01_FishShop_09" value="Smith" />
+  <keys type="npc" key="N_C01_FishShop_10" value="Smith" />
+  <keys type="npc" key="N_C01_FishShop_11" value="Smith" />
+  <keys type="npc" key="N_C01_FishShop_12" value="Smith" />
+  <keys type="npc" key="n_p02_coinex_01" value="Rowena Rabbini" />
+  <keys type="npc" key="n_d97_portal_1" value="Victory Shrine" />
+  <keys type="npc" key="n_d97_fish_1" value="Fizz" />
+  <keys type="npc" key="n_d97_fish_2" value="Moses" />
+  <keys type="npc" key="n_d97_fish_3" value="Willy" />
+  <keys type="npc" key="n_d97_fish_4" value="Molly" />
+  <keys type="npc" key="n_d97_fish_5" value="Paradise Island Board" />
+  <keys type="npc" key="N_i01_Portal_Ak" value="Cross-Server Lobby (Akrat)" />
+  <keys type="npc" key="N_i01_Akout" value="Outer Rift Shrine" />
+  <keys type="npc" key="N_C01_FishShop_13" value="Lessair" />
+  <keys type="npc" key="N_C01_FishShop_14" value="Aileen" />
+  <keys type="npc" key="N_C01_FishQuest_06" value="Noel" />
+  <keys type="npc" key="N_P02_Coin_Special" value="Kingston Rabbini" />
+  <keys type="npc" key="N_C01_FishShop_15" value="Arthur" />
+  <keys type="npc" key="N_F96_weapon_02" value="Frank" />
+  <keys type="npc" key="N_F96_amor_02" value="Mallick" />
+  <keys type="npc" key="N_F96_Cook_02" value="Karl Burr" />
+  <keys type="npc" key="N_F96_Alchemy_02" value="Alrok" />
+  <keys type="npc" key="N_F96_Accessory_02" value="Celine" />
+  <keys type="npc" key="N_F96_Fellow_03" value="Zamek" />
+  <keys type="npc" key="N_F96_HuMMer_001" value="Jess" />
+  <keys type="npc" key="N_F96_HuMMer_002" value="Winston" />
+  <keys type="npc" key="N_F96_hufpub_001" value="Aryl" />
+  <keys type="npc" key="N_F96_HuMMer_003" value="Ellion" />
+  <keys type="npc" key="N_F96_HuMMer_004" value="Kallis" />
+  <keys type="npc" key="N_F96_hufmer_001" value="Allack" />
+  <keys type="npc" key="N_F96_weapon_01" value="Weapon Anvil" />
+  <keys type="npc" key="N_F96_amor_01" value="Armor Anvil" />
+  <keys type="npc" key="N_F96_Cook_01" value="Cooking Station" />
+  <keys type="npc" key="N_F96_Alchemy_01" value="Alchemy Lab" />
+  <keys type="npc" key="N_F96_Accessory_01" value="Jewelry Table" />
+  <keys type="npc" key="N_F96_Fellow_02" value="Barder Craft Table" />
+  <keys type="npc" key="N_F96_Fishshop_01" value="Reath" />
+  <keys type="npc" key="N_F96_Sell_01" value="Dafarr" />
+  <keys type="npc" key="n_F96_portal_100" value="World Shrine" />
+  <keys type="npc" key="n_i01_pvpout" value="External mobile portal (PVP battlefield)" />
+  <keys type="npc" key="n_co1_everab_01" value="Ravini Aromi" />
+  <keys type="npc" key="n_co1_everab_02" value="Ravini Gourmi" />
+  <keys type="npc" key="n_co1_everab_03" value="Ravini Bang Bang" />
+  <keys type="npc" key="n_i01_pvp_portal" value="Integrated lobby movement (PVP battlefield)" />
+  <keys type="npc" key="N_D07_Portal_sc" value="Space Lee Dong -seok" />
+  <keys type="npc" key="N_D07_Portal_el" value="Space Lee Dong -seok" />
+  <keys type="npc" key="N_D07_Portal_Q" value="Light" />
+  <keys type="npc" key="n_i01_Turimout" value="Outer Rift Shrine" />
+  <keys type="npc" key="n_i01_Turim_portal" value="Cross-Server Lobby (Turimnan)" />
+  <keys type="npc" key="n_i01_board_01" value="Juju's corridor bulletin board" />
+  <keys type="npc" key="N_d98_0001" value="Ruby" />
+  <keys type="npc" key="N_d98_0002" value="Sapphire" />
+  <keys type="npc" key="N_P02_Phantom_01" value="[Event] Kaito Lipy" />
+  <keys type="npc" key="N_C01_weaponev_1" value="number of animals" />
+  <keys type="npc" key="n_d95_guide_01" value="Desconhecido" />
+  <keys type="npc" key="n_d95_singer" value="Chapley Singer" />
+  <keys type="npc" key="N_D07_Portal_L" value="Space Lee Dong -seok" />
+  <keys type="npc" key="N_D07_Portal_W" value="Space Lee Dong -seok" />
+  <keys type="npc" key="N_D95_Portal_001" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_002" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_003" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_004" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_005" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_006" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_007" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_008" value="Santuário de Trânsito" />
+  <keys type="npc" key="N_D95_Portal_009" value="Santuário de Trânsito" />
+  <keys type="npc" key="n_g01_total" value="Integrated lobby movement (all)" />
+  <keys type="npc" key="n_d23_board_01" value="Lavini Garden Guideboard" />
+  <keys type="npc" key="n_d26_board_01" value="Bragi Mine Guideboard" />
+  <keys type="npc" key="N_D11_Portal_03" value="Space Lee Dong -seok" />
+  <keys type="npc" key="n_i01_change_01" value="Change" />
+  <keys type="npc" key="n_d97_week_1" value="Kant" />
+  <keys type="npc" key="N_C01_FishQuestev_01" value="Rael" />
+  <keys type="npc" key="N_P02_pvpshop_001" value="John MacBain" />
+  <keys type="npc" key="N_C01_pvpzone_in" value="Terras Devastadas de Exarahn / Portal de Stygaea" />
+  <keys type="npc" key="n_p01_pvpzone_out" value="Portal da Travessia de Hakanas" />
+  <keys type="npc" key="n_p02_pvpzone_out" value="Portal da Travessia de Hakanas" />
+  <keys type="npc" key="N_P02_pvpshop_002" value="Johnny MacBain" />
+  <keys type="npc" key="N_c01_pvpboard_001" value="MacBain Mission Board" />
+  <keys type="npc" key="n_d94_i01_enter" value="Cross-Server Lobby (Ellora's Trials)" />
+  <keys type="npc" key="n_d94_i01_out" value="Outer Rift Shrine" />
+  <keys type="npc" key="n_d94_i01_lobby" value="Cross-Server Lobby (Ellora's Trials)" />
+  <keys type="npc" key="n_c01_wc_a" value="Rabbini A" />
+  <keys type="npc" key="n_c01_wc_b" value="Rabbini B" />
+  <keys type="npc" key="n_c01_wc_c" value="Rabbini C" />
+  <keys type="npc" key="n_c01_wc_d" value="Rabbini D" />
+  <keys type="npc" key="n_c01_wc_e" value="Rabbini E" />
+  <keys type="npc" key="n_c01_wc_f" value="Rabbini F" />
+  <keys type="npc" key="n_c01_wc_g" value="Rabbini G" />
+  <keys type="npc" key="n_c01_wc_h" value="Rabbini H" />
+  <keys type="npc" key="n_c01_wc_shop" value="Rabbini Sporty" />
+  <keys type="npc" key="n_c01_se_2018_01" value="Haley" />
+  <keys type="npc" key="n_f02_se_2018_02" value="Popeye Rabbini" />
+  <keys type="npc" key="n_c01_se_2018_03" value="Summer Banquet" />
+  <keys type="npc" key="n_c01_se_2018_04" value="Celina" />
+  <keys type="npc" key="n_c01_se_2018_05" value="Bernadette" />
+  <keys type="npc" key="N_d11_Crow_01" value="Wounded crow" />
+  <keys type="npc" key="n_d11_portal_05" value="Drop on the restored dimension" />
+  <keys type="npc" key="N_D11_Portal_04" value="Light" />
+  <keys type="npc" key="N_d11_Croctus_01" value="Cracus" />
+  <keys type="npc" key="n_d11_portal_06" value="Drop on the restored dimension" />
+  <keys type="npc" key="N_d11_dstone_01" value="Red -colored horsepower stone" />
+  <keys type="npc" key="N_d11_dstone_01detail" value="N_C01_SUMMERRAVI_01_name" />
+  <keys type="npc" key="n_d88_portal_001" value="Gate of Choice" />
+  <keys type="npc" key="n_d88_portal_002" value="Gate of Choice" />
+  <keys type="npc" key="n_d88_portal_003" value="Gate of Choice" />
+  <keys type="npc" key="n_d88_portal_004" value="Gate of Choice" />
+  <keys type="npc" key="n_d88_portal_005" value="Gate of Choice" />
+  <keys type="npc" key="n_d88_portal_006" value="Gate of Choice" />
+  <keys type="npc" key="n_d88_portal_007" value="Dragon Statue" />
+  <keys type="npc" key="n_d88_portal_008" value="Dragon Statue" />
+  <keys type="npc" key="n_d88_portal_009" value="Dragon Statue" />
+  <keys type="npc" key="n_d88_portal_010" value="Dragon Statue" />
+  <keys type="npc" key="n_d88_portal_011" value="Burning Gate" />
+  <keys type="npc" key="n_d88_portal_012" value="Burning Gate" />
+  <keys type="npc" key="N_C01_Daily_003" value="Bomel" />
+  <keys type="npc" key="N_C01_Daily_004" value="Bosel" />
+  <keys type="npc" key="n_d89_portal_001" value="Gate of Choice" />
+  <keys type="npc" key="n_d89_portal_002" value="Gate of Choice" />
+  <keys type="npc" key="n_d89_portal_003" value="Gate of Choice" />
+  <keys type="npc" key="n_d89_portal_004" value="Gate of Choice" />
+  <keys type="npc" key="n_d89_portal_005" value="Gate of Choice" />
+  <keys type="npc" key="n_d89_portal_006" value="Gate of Choice" />
+  <keys type="npc" key="n_d89_portal_007" value="Dragon Statue" />
+  <keys type="npc" key="n_d89_portal_008" value="Dragon Statue" />
+  <keys type="npc" key="n_d89_portal_009" value="Dragon Statue" />
+  <keys type="npc" key="n_d89_portal_010" value="Dragon Statue" />
+  <keys type="npc" key="n_d89_portal_011" value="Burning Gate" />
+  <keys type="npc" key="n_d89_portal_012" value="Burning Gate" />
+</files>

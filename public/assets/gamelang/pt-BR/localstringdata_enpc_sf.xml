@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="npc" key="E_01_0_0001_0000" value="Guarda Ryno" />
+  <keys type="npc" key="E_01_0_0002_0000" value="Soldado Ryno" />
+  <keys type="npc" key="E_02_1_0007_0000" value="Lobo-Cinzento" />
+  <keys type="npc" key="E_02_1_0007_0001" value="Lobo-Cinzento Selvagem" />
+  <keys type="npc" key="E_02_1_0007_0002" value="Lobo-Cinzento Selvagem" />
+  <keys type="npc" key="E_02_4_0008_0000" value="Fada Arbórea" />
+  <keys type="npc" key="E_02_1_0010_0000" value="Javali do Arvoredo" />
+  <keys type="npc" key="E_02_1_0010_0001" value="Javali do Arvoredo" />
+  <keys type="npc" key="E_02_1_0011_0000" value="Javali Selvagem" />
+  <keys type="npc" key="E_02_1_0011_0001" value="Javali Selvagem" />
+  <keys type="npc" key="E_02_1_0011_0002" value="Razorback" />
+  <keys type="npc" key="E_02_0_0012_0000" value="Patrulheiro Braghin" />
+  <keys type="npc" key="E_02_0_0016_0000" value="Trabalhador Braghin" />
+  <keys type="npc" key="E_02_0_0017_0000" value="Lutador Braghin" />
+  <keys type="npc" key="E_02_0_0018_0000" value="Caçador Braghin" />
+  <keys type="npc" key="E_02_0_0021_0000" value="Xamã Braghin" />
+  <keys type="npc" key="E_02_1_0030_0000" value="Javali Feroz" />
+  <keys type="npc" key="E_02_0_0032_0000" value="Treinador Braghin de Familiares" />
+  <keys type="npc" key="E_01_0_0007_0000" value="Guarda Ryno" />
+  <keys type="npc" key="E_01_0_0008_0000" value="Guarda Ryno" />
+  <keys type="npc" key="E_01_0_0009_0000" value="Soldado Ryno" />
+  <keys type="npc" key="E_02_0_0036_0000" value="Trabalhador Braghin" />
+  <keys type="npc" key="E_02_0_0037_0000" value="Trabalhador Braghin" />
+  <keys type="npc" key="E_02_0_0040_0000" value="Saqueador Braghin" />
+  <keys type="npc" key="E_02_0_0041_0000" value="Sumo Xamã Braghin" />
+  <keys type="npc" key="E_02_0_0042_0000" value="Bruto Braghin" />
+  <keys type="npc" key="E_02_0_0043_0000" value="Trabalhador Braghin" />
+  <keys type="npc" key="E_02_0_0044_0000" value="Trabalhador Braghin" />
+  <keys type="npc" key="E_02_0_0045_0000" value="Trabalhador Braghin" />
+  <keys type="npc" key="E_02_0_0046_0000" value="Lutador Braghin" />
+  <keys type="npc" key="E_02_0_0016_0001" value="Trabalhador Braghin" />
+  <keys type="npc" key="E_01_4_0637_0000" value="Guardião Rex" />
+  <keys type="npc" key="E_02_0_1022_0000" value="Braghin Overseer" />
+  <keys type="npc" key="E_02_0_0644_0000" value="Ruins Ghost" />
+  <keys type="npc" key="E_02_0_0012_0001" value="Braghin Scout" />
+  <keys type="npc" key="E_02_0_0661_0000" value="Braghin Skirmish Master" />
+  <keys type="npc" key="E_02_0_0017_0002" value="Braghin Fighter" />
+  <keys type="npc" key="E_02_0_0653_0000" value="Sunsap Blossom" />
+  <keys type="npc" key="E_02_0_0654_0000" value="Shimmerwood Sprite" />
+  <keys type="npc" key="E_02_0_0654_0001" value="Shimmerwood Sprite" />
+  <keys type="npc" key="E_02_0_0655_0000" value="Queen Elquines" />
+  <keys type="npc" key="E_02_0_0656_0000" value="Ruins Specter" />
+  <keys type="npc" key="E_02_0_0657_0000" value="Braghin Gatherer" />
+  <keys type="npc" key="E_02_0_0658_0000" value="Braghin Warrior" />
+  <keys type="npc" key="E_02_0_0658_0001" value="Braghin Warrior" />
+  <keys type="npc" key="E_02_0_0659_0000" value="Braghin Chieftain" />
+  <keys type="npc" key="E_02_0_0660_0000" value="Shiverglass Spiritl" />
+  <keys type="npc" key="E_02_1_0007_0003" value="Ruins Wolf" />
+  <keys type="npc" key="E_02_0_0021_0001" value="Braghin Shaman" />
+  <keys type="npc" key="E_02_0_0661_0001" value="Braghin Skirmisher" />
+  <keys type="npc" key="E_02_0_0662_0000" value="Braghin Gatherer" />
+  <keys type="npc" key="E_02_1_0344_0000" value="Ruins Fox" />
+  <keys type="npc" key="E_02_0_0033_0001" value="Braghin Worker" />
+  <keys type="npc" key="E_02_0_0036_0001" value="Braghin Worker" />
+  <keys type="npc" key="E_02_0_0037_0001" value="Braghin Worker" />
+  <keys type="npc" key="E_02_0_0045_0001" value="Braghin Worker" />
+  <keys type="npc" key="E_02_0_0607_0000" value="Juvenile Boar" />
+  <keys type="npc" key="E_02_0_0012_0002" value="Braghin Scout" />
+  <keys type="npc" key="E_02_5_0001_0002" value="Braghin Ballista" />
+  <keys type="npc" key="E_02_0_0043_0001" value="Braghin Engineer" />
+  <keys type="npc" key="E_02_0_0654_0002" value="Mad Tree Fairy" />
+  <keys type="npc" key="E_02_0_0045_0002" value="Braghin Runner" />
+  <keys type="npc" key="E_02_0_0662_0001" value="Braghin Gatherer" />
+  <keys type="npc" key="E_02_0_0044_0001" value="Braghin Runner" />
+  <keys type="npc" key="E_02_0_0043_0002" value="Braghin Runner" />
+  <keys type="npc" key="E_02_0_0658_0002" value="Braghin Guard" />
+  <keys type="npc" key="E_50_0_0666_0000" value="Burning Skeleton Soldier" />
+  <keys type="npc" key="E_50_0_0666_0001" value="Burning Skeleton Soldier" />
+  <keys type="npc" key="E_50_0_0667_0000" value="Burning Skeleton Knight" />
+  <keys type="npc" key="E_50_0_0667_0001" value="Burning Skeleton Knight" />
+  <keys type="npc" key="E_50_0_0718_0000" value="Burning Skeleton Archer" />
+  <keys type="npc" key="E_50_0_0613_0000" value="Emberstone Sentinel" />
+  <keys type="npc" key="E_50_0_0650_0000" value="Emberstone Rockling" />
+  <keys type="npc" key="E_50_0_0648_0000" value="Emberstone Golem" />
+  <keys type="npc" key="E_02_1_0344_0001" value="Red Fox" />
+  <keys type="npc" key="E_02_0_0309_0000" value="Pritsha the Cannibal" />
+  <keys type="npc" key="E_02_0_0309_0001" value="Pritsha" />
+  <keys type="npc" key="E_02_0_0309_0002" value="Gray Wolf Alpha" />
+  <keys type="npc" key="E_02_0_0676_0000" value="Ghost Spider" />
+  <keys type="npc" key="E_02_0_0676_0001" value="Taslan the Devourer" />
+  <keys type="npc" key="E_02_0_0676_0002" value="Ruins Tarantula" />
+  <keys type="npc" key="E_01_5_0001_0000" value="Warden Stone" />
+  <keys type="npc" key="E_02_1_0606_0000" value="Fury Boar" />
+  <keys type="npc" key="E_02_1_0344_0002" value="Feral Red Fox" />
+  <keys type="npc" key="E_02_0_0718_0000" value="Ascetic Apparition" />
+  <keys type="npc" key="E_02_0_0013_0001" value="Shimmerwisp" />
+  <keys type="npc" key="E_50_0_0667_0002" value="Burning Skeleton Captain" />
+  <keys type="npc" key="E_50_0_0666_0003" value="Resting Skeleton" />
+  <keys type="npc" key="E_02_0_0676_0003" value="Arakene the Ravenous" />
+  <keys type="npc" key="E_02_0_0676_0004" value="Taslan's Spawn" />
+  <keys type="npc" key="E_02_0_0013_0002" value="Wandering Vengeful Spirit" />
+  <keys type="npc" key="E_02_1_0007_0004" value="Wild Wolf" />
+  <keys type="npc" key="E_02_1_0606_0001" value="Chief's Boar" />
+  <keys type="npc" key="E_02_1_0606_0002" value="Cold-Tusk" />
+  <keys type="npc" key="E_02_1_0606_0003" value="Domesticated Boar" />
+  <keys type="npc" key="E_02_1_0309_0000" value="Black Wolf" />
+  <keys type="npc" key="E_50_0_0245_0000" value="Magma Hound" />
+  <keys type="npc" key="E_02_1_0606_0004" value="Domesticated Boar" />
+  <keys type="npc" key="E_02_0_0245_0000" value="Shadow Panther" />
+  <keys type="npc" key="E_02_0_0040_0001" value="Elite Raider" />
+  <keys type="npc" key="E_02_0_0032_0001" value="Supervisor's Beast Trainer" />
+  <keys type="npc" key="E_02_0_0017_0003" value="Honor Guard" />
+  <keys type="npc" key="E_02_0_0602_0000" value="Braghin Rider" />
+  <keys type="npc" key="E_02_5_0001_0000" value="Tainted Sapling" />
+  <keys type="npc" key="E_02_0_0676_0005" value="Young Spider" />
+  <keys type="npc" key="E_02_0_0012_9999" value="Braghin Battle Guard" />
+  <keys type="npc" key="E_01_0_0001_0002" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0010_0000" value="TEST_Ryno Combat Trooper(Test HP)" />
+  <keys type="npc" key="E_01_0_0011_0000" value="TEST_Ryno Combat Trooper(Test MOVE)" />
+  <keys type="npc" key="E_02_4_0008_0001" value="Small Tree Fairy" />
+  <keys type="npc" key="E_02_0_0013_0003" value="Sparkling Wisplet" />
+  <keys type="npc" key="E_01_0_0001_0001" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0002_0001" value="Ryno Soldier" />
+  <keys type="npc" key="E_01_0_0007_0001" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0008_0001" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0009_0001" value="Ryno Soldier" />
+  <keys type="npc" key="E_01_4_0637_0001" value="Warden Rex" />
+  <keys type="npc" key="E_01_5_0001_0001" value="Warden Stone" />
+  <keys type="npc" key="E_01_0_0001_0003" value="Ryno Guard" />
+  <keys type="npc" key="E_03_0_0708_7004" value="Zealot" />
+  <keys type="npc" key="E_01_0_0009_0002" value="Ryno Soldier" />
+  <keys type="npc" key="E_01_0_0009_0003" value="Ryno Soldier" />
+  <keys type="npc" key="E_01_0_0010_0001" value="Dummy Box" />
+  <keys type="npc" key="E_01_0_0007_0002" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0007_0003" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0007_0004" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0007_0005" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0007_0006" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0007_0007" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0007_0008" value="Ryno Guard" />
+  <keys type="npc" key="E_01_0_0007_0009" value="Ryno Guard" />
+  <keys type="npc" key="e_f01_GhosA_0000" value="Ruins Guardian" />
+  <keys type="npc" key="E_f01_FanaDawiz_001" value="Khabimist Mage" />
+  <keys type="npc" key="E_f01_SpidBlzza_001" value="Ghost Spider" />
+  <keys type="npc" key="E_f01_FanaDevco_001" value="Khabim Spellweaver" />
+  <keys type="npc" key="E_02_5_0001_0003" value="Braghin Ballista" />
+  <keys type="npc" key="E_02_5_0001_0004" value="Braghin Ballista" />
+  <keys type="npc" key="E_02_5_0001_0005" value="Braghin Ballista" />
+  <keys type="npc" key="E_02_5_0001_0006" value="Braghin Ballista" />
+  <keys type="npc" key="E_02_0_0043_0003" value="Braghin Engineer" />
+  <keys type="npc" key="E_02_0_0043_0004" value="Braghin Engineer" />
+  <keys type="npc" key="E_02_0_0043_0005" value="Braghin Engineer" />
+  <keys type="npc" key="E_02_0_0043_0006" value="Braghin Engineer" />
+  <keys type="npc" key="E_01_0_0002_0007" value="Ryno Soldier" />
+  <keys type="npc" key="a00_CM_ham_0007" value="Ancient Hammer" />
+  <keys type="npc" key="E_03_barricade_0004" value="Braghin Barricade" />
+  <keys type="npc" key="E_02_BragCapeH1_0001" value="Braghin Runner" />
+  <keys type="npc" key="f01_sf_bomb_0000" value="Braghin Sapper" />
+  <keys type="npc" key="E_F01_BraHunter_0000" value="Braghin Lookout" />
+  <keys type="npc" key="E_f01_hufpub_g_001" value="Mother's Evil Spirit" />
+  <keys type="npc" key="E_f01_HuMSol01_001" value="Elsa" />
+  <keys type="npc" key="E_50_0_0648_0001" value="Emberstone Golem" />
+  <keys type="npc" key="E_50_0_0648_0002" value="Emberstone Golem" />
+  <keys type="npc" key="E_50_0_0667_0003" value="Scorched Skeleton Captain" />
+  <keys type="npc" key="E_50_0_0667_0004" value="Ruins Skeleton Knight Tamus" />
+  <keys type="npc" key="E_50_0_0666_0004" value="Resting Skeleton" />
+  <keys type="npc" key="E_f01_WolfDC_0000" value="Possessed Wolf" />
+  <keys type="npc" key="E_50_0_0667_0005" value="Scorched Skeleton Captain" />
+  <keys type="npc" key="E_50_0_0648_0003" value="Emberstone Golem" />
+  <keys type="npc" key="E_F00_Ryno_001" value="Ryno Soldier" />
+  <keys type="npc" key="E_D00_CabeE_01" value="Blackened Skeleton Commander" />
+  <keys type="npc" key="E_F01_FanaAndro_01" value="Andro imortal" />
+</files>

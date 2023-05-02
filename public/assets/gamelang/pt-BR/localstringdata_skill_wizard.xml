@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="skill" key="wz_waterprotect" value="Bolha de Água" />
+  <keys type="skill" key="wz_judgeofspear" value="Explosão de Luz" />
+  <keys type="skill" key="wz_curseofreaper" value="Maldição do Ceifeiro" />
+  <keys type="skill" key="wz_firemissilecl" value="Barreira de Chamas" />
+  <keys type="skill" key="wz_firemissilecm" value="Barreira de Chamas (Máxima)" />
+  <keys type="skill" key="poweratkcl" value="Corte Severo" />
+  <keys type="skill" key="poweratkcm" value="Corte Severo" />
+  <keys type="skill" key="wz_fireexplosion" value="Explosão de Faíscas" />
+  <keys type="skill" key="wz_apillaroffire" value="Trilha de Fogo" />
+  <keys type="skill" key="wz_teleport" value="Piscar" />
+  <keys type="skill" key="wz_icearmor" value="Armadura Leve de Gelo" />
+  <keys type="skill" key="wz_bitingwind" value="Vento Navalha" />
+  <keys type="skill" key="wz_freezing1" value="Congelado" />
+  <keys type="skill" key="apillaroffirelink" value="Pilar de Fogo" />
+  <keys type="skill" key="waterprotectlink1" value="Bolha de Água" />
+  <keys type="skill" key="wz_sleepmushroom" value="Cogumelo Sonífero" />
+  <keys type="skill" key="wz_createpuppet" value="Ressurreição de Cadáver" />
+  <keys type="skill" key="wz_puppetexplosion" value="Explosão de Cadáver" />
+  <keys type="skill" key="wz_normalattack" value="Autoataque" />
+  <keys type="skill" key="wz_iceexplosion" value="Explosão de Gelo" />
+  <keys type="skill" key="wz_2handstaff" value="Maestria de Cajado" />
+  <keys type="skill" key="wz_cloth" value="Maestria de Armadura de Tecido" />
+  <keys type="skill" key="wz_icegimlet" value="Presa de Gelo" />
+  <keys type="skill" key="wz_handoflight" value="Explosão de Luz" />
+  <keys type="skill" key="wz_fireharpooncs" value="Bomba de Brasa" />
+  <keys type="skill" key="wz_fireharpooncl" value="Bomba de Brasa" />
+  <keys type="skill" key="wz_fireharpooncm" value="Bomba de Brasa" />
+  <keys type="skill" key="wz_painofdark" value="Aflição Sombria" />
+  <keys type="skill" key="wz_calllighting" value="Trovoada" />
+  <keys type="skill" key="wz_handofdeath" value="Maldição Envolvente" />
+  <keys type="skill" key="wz_firemissilecs" value="Barreira de Chamas" />
+  <keys type="skill" key="wz_fogoffreezing" value="Nevoeiro Congelante" />
+  <keys type="skill" key="wz_firearrow" value="Explosão de Chamas" />
+  <keys type="skill" key="wz_hevryrain" value="Chuva de Granizo" />
+  <keys type="skill" key="wz_meteorshower" value="Meteoro Infernal" />
+  <keys type="skill" key="wz_fireblowup" value="Explosão Incendiária" />
+  <keys type="skill" key="wz_fireblowup2" value="Explosão Incendiária" />
+  <keys type="skill" key="wz_fireblowup3" value="Explosão Incendiária" />
+  <keys type="skill" key="wz_fireblowup4" value="Explosão Incendiária" />
+  <keys type="skill" key="wz_fireblowup5" value="Explosão Incendiária" />
+  <keys type="skill" key="fireblowuplink" value="Explosão Incendiária" />
+  <keys type="skill" key="wz_iceblowup" value="Explosão Glacial" />
+  <keys type="skill" key="wz_iceblowup2" value="Explosão Glacial" />
+  <keys type="skill" key="wz_iceblowup3" value="Explosão Glacial" />
+  <keys type="skill" key="wz_iceblowup4" value="Explosão Glacial" />
+  <keys type="skill" key="wz_iceblowup5" value="Explosão Glacial" />
+  <keys type="skill" key="iceblowuplink" value="Explosão Glacial" />
+  <keys type="skill" key="wz_fireblowupatk" value="Explosão Incendiária" />
+  <keys type="skill" key="wz_iceblowupatk" value="Explosão Glacial" />
+  <keys type="skill" key="wz_iceharpooncm" value="Bomba de Gelo" />
+  <keys type="skill" key="firerainlink1" value="Tempestade de Fogo" />
+  <keys type="skill" key="iceshowerlink" value="Meteoro de Gelo" />
+  <keys type="skill" key="wz_boardbuffskill" value="Bênção Sombria" />
+  <keys type="skill" key="wz_hellfire" value="Trilha de Fogo" />
+  <keys type="skill" key="wz_hellfireb" value="Trilha de Fogo" />
+  <keys type="skill" key="wz_hellfirer" value="Trilha de Fogo" />
+  <keys type="skill" key="wz_hellfirerb" value="Trilha de Fogo" />
+  <keys type="skill" key="wz_hellice" value="Rastro de Gelo" />
+  <keys type="skill" key="wz_helliceg" value="Rastro de Gelo" />
+  <keys type="skill" key="wz_hellicegb" value="Rastro de Gelo" />
+  <keys type="skill" key="wz_hevryrainlc" value="Chuva de Granizo" />
+  <keys type="skill" key="wz_painofdarklc" value="Aflição Sombria" />
+  <keys type="skill" key="wz_handofdeathlc" value="Maldição Envolvente" />
+  <keys type="skill" key="wz_meteorshowerlc" value="Meteoro Infernal" />
+  <keys type="skill" key="wz_newbies01" value="Graça de Ellora" />
+  <keys type="skill" key="wz_blacklight" value="Luz Negra" />
+  <keys type="skill" key="wz_toneofmarblecs" value="Tom de Mármore" />
+  <keys type="skill" key="firemissileinhercs" value="Barreira de Chamas" />
+  <keys type="skill" key="firemissileinhercl" value="Barreira de Chamas" />
+  <keys type="skill" key="firemissileinhercm" value="Barreira de Chamas" />
+  <keys type="skill" key="meteorshowerinher" value="Meteoro Infernal" />
+  <keys type="skill" key="wz_ancientlightdark" value="[Ancient] Luz e Escuridão " />
+  <keys type="skill" key="wz_63skillbook" value="Feitiço Primitivo" />
+  <keys type="skill" key="wz_65skillbook" value="Elementos Primitivos" />
+  <keys type="skill" key="wz_67skillbook" value="Ensinamentos de Baellas" />
+</files>

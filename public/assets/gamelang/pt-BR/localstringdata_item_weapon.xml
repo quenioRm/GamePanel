@@ -1,0 +1,1918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="item" key="EW0_001_0_0000" value="Espada de Salant (Antiga)" />
+  <keys type="item" key="EW0_003_0_0000" value="Serra de Trabalhador Braghin" />
+  <keys type="item" key="EW0_003_0_0001" value="Lâmina Serrilhada de Caçador Braghin" />
+  <keys type="item" key="EW0_004_0_0000" value="Espeto de Trabalhador Braghin" />
+  <keys type="item" key="EW0_006_0_0000" value="Espada de Patrulheiro Braghin" />
+  <keys type="item" key="EW0_006_0_0001" value="Espada de Patrulheiro Braghin (Longo Alcance)" />
+  <keys type="item" key="EW0_008_0_0000" value="Espada de Guerreiro Braghin de Elite" />
+  <keys type="item" key="EW0_009_0_0000" value="Espada de Soldado Esqueleto" />
+  <keys type="item" key="EW0_999_0_0000" value="Espada de Ferro Enferrujada (NPC)" />
+  <keys type="item" key="EW0_999_0_0001" value="Espada-longa (NPC)" />
+  <keys type="item" key="EW0_010_0_0000" value="Machadinha do Protetor dos Piratas Karade" />
+  <keys type="item" key="EW0_011_0_0000" value="Lâmina Serrilhada do Imediato Keelhaul" />
+  <keys type="item" key="EW0_012_0_0000" value="Espada do Rei Pirata Varanac" />
+  <keys type="item" key="EW0_012_0_0001" value="Lança Curta do Guerreiro Merumi" />
+  <keys type="item" key="EW0_013_0_0000" value="Faca de Arremesso do Guarda Pirata Karade" />
+  <keys type="item" key="EW0_014_0_0000" value="Alfanje do Ajudante de Convés Pirata Karade" />
+  <keys type="item" key="EW0_014_0_0001" value="Espada do Patrulheiro Soberano" />
+  <keys type="item" key="EW0_014_0_0002" value="Azagaia do Lanceiro Merumi" />
+  <keys type="item" key="EW0_015_0_0000" value="Lança de Ossos do Caçador Agul" />
+  <keys type="item" key="EW0_016_0_0000" value="Espada de Ossos do Chefe Muglock" />
+  <keys type="item" key="EW0_017_0_0000" value="Espada de Defensor Esqueleto" />
+  <keys type="item" key="EW0_019_0_0000" value="Espada de Crokhoon" />
+  <keys type="item" key="EW0_020_0_0000" value="Machadinha de Crokhoon" />
+  <keys type="item" key="EW0_021_0_0000" value="Espada de Lyga" />
+  <keys type="item" key="EW0_022_0_0000" value="Espada de Yeritz" />
+  <keys type="item" key="EW0_023_0_0000" value="Espada do Cavaleiro do Exército Sombrio" />
+  <keys type="item" key="EW0_024_0_0000" value="Espada do Comandante Hellpa" />
+  <keys type="item" key="EW0_025_0_0000" value="Espada do Urvus" />
+  <keys type="item" key="EW0_047_0_0000" value="Escudo do Enviado da Luz" />
+  <keys type="item" key="EW0_053_0_0000" value="Espada do Conde Rondo" />
+  <keys type="item" key="EW1_002_0_0000" value="Shu'khan's Heavy Axe" />
+  <keys type="item" key="EW1_004_0_0000" value="Ashuram's Scythe" />
+  <keys type="item" key="EW1_012_0_0000" value="Rondo's Greatsword" />
+  <keys type="item" key="EW2_000_0_0000" value="Merumi Javelin (Transparent)" />
+  <keys type="item" key="EW2_001_0_0000" value="Yeti Hunter's Spear" />
+  <keys type="item" key="EW2_001_0_0001" value="Yeti Warrior's Spear" />
+  <keys type="item" key="EW2_001_0_0002" value="Ryno Soldier's Axe" />
+  <keys type="item" key="EW2_002_0_0000" value="Braghin Worker's Pickaxe" />
+  <keys type="item" key="EW2_002_0_0001" value="Braghin Worker's Axe" />
+  <keys type="item" key="EW2_003_0_0000" value="Braghin Worker's Hammer" />
+  <keys type="item" key="EW2_005_0_0000" value="Braghin Overseer's Weapon" />
+  <keys type="item" key="EW2_005_0_0001" value="Braghin Chieftain's Weapon (Transformed)" />
+  <keys type="item" key="EW2_005_0_0002" value="Hecterson's Instrument" />
+  <keys type="item" key="EW2_005_0_0003" value="Vampire Guard's One-Handed Weapon" />
+  <keys type="item" key="EW2_007_0_0000" value="Braghin Worker's Axe" />
+  <keys type="item" key="EW2_008_0_0000" value="Braghin Worker's Hoe" />
+  <keys type="item" key="EW2_009_0_0000" value="NPC Guard_Spear" />
+  <keys type="item" key="EW2_010_0_0000" value="Skeleton Soldier's Axe" />
+  <keys type="item" key="EW2_011_0_0000" value="Ryno Soldier's Hatchet" />
+  <keys type="item" key="EW2_013_0_0000" value="Yeti Warrior's Club" />
+  <keys type="item" key="EW2_015_0_0000" value="Agul Fighter's Bone Club" />
+  <keys type="item" key="EW2_016_0_0001" value="Gustav's Ladle" />
+  <keys type="item" key="EW2_019_0_0000" value="Crokhoon Leopard Rider's Spear" />
+  <keys type="item" key="EW2_020_0_0000" value="Makontin's Smithing Hammer" />
+  <keys type="item" key="EW2_022_0_0000" value="Male Blacksmith's Hammer" />
+  <keys type="item" key="EW2_030_0_0000" value="Titan Hunter's Club" />
+  <keys type="item" key="EW2_033_0_0000" value="Titan Patrol's Hatchet" />
+  <keys type="item" key="EW2_044_0_0000" value="Rex's Weapon" />
+  <keys type="item" key="EW2_045_0_0000" value="Daveen's Gem Hammer" />
+  <keys type="item" key="EW2_046_0_0000" value="Ashuram's Spear" />
+  <keys type="item" key="EW2_048_0_0000" value="Avalanche Orcus' Totem" />
+  <keys type="item" key="EW3_001_0_0001" value="Ryno Soldier's Axe" />
+  <keys type="item" key="EW3_002_0_0001" value="Ryno Guard's Spear" />
+  <keys type="item" key="EW3_002_0_0002" value="Jeranin's Heavy Axe" />
+  <keys type="item" key="EW3_003_0_0000" value="Akrashin's Hammer" />
+  <keys type="item" key="EW3_004_0_0000" value="Braghin Warrior's Log" />
+  <keys type="item" key="EW3_005_0_0000" value="NPC Guard_Pike" />
+  <keys type="item" key="EW3_005_0_0001" value="Raider Irmion's Trident" />
+  <keys type="item" key="EW3_006_0_0000" value="Chief Keron's Ice Hammer" />
+  <keys type="item" key="EW3_007_0_0000" value="Merumi Raider's Trident" />
+  <keys type="item" key="EW3_008_0_0000" value="Vampire Guard's Spear" />
+  <keys type="item" key="EW3_008_0_0001" value="Vampire Guard Captain's Spear" />
+  <keys type="item" key="EW3_009_0_0000" value="Vampire Farmer's Pickaxe" />
+  <keys type="item" key="EW3_010_0_0000" value="Terranus' Maul" />
+  <keys type="item" key="EW3_011_0_0000" value="Tulba's Pike" />
+  <keys type="item" key="EW4_001_0_0000" value="Rabbini Dagger" />
+  <keys type="item" key="EW4_002_0_0000" value="Gustavo's Kitchen Knife" />
+  <keys type="item" key="EW4_002_0_0001" value="Vampire Lady's Kitchen Knife" />
+  <keys type="item" key="EW4_011_0_9000" value="Chief Mate Keelhaul's Bandsaw (Dagger)" />
+  <keys type="item" key="EW4_011_0_9001" value="Jason Clakey's Dagger" />
+  <keys type="item" key="EW4_013_0_9000" value="Karade Lookout's Throwing Dagger" />
+  <keys type="item" key="EW4_013_0_9001" value="Comital Warrior's Dagger" />
+  <keys type="item" key="EW4_028_0_0000" value="Anton Clachey's Sword" />
+  <keys type="item" key="EW4_029_0_0000" value="Count Rondo's Dual Weapons" />
+  <keys type="item" key="EW5_001_0_0000" value="Braghin Shaman's Rod" />
+  <keys type="item" key="EW5_001_0_0001" value="Keeper Ghost's Rod" />
+  <keys type="item" key="EW5_001_0_0002" value="Burning Ghost's Rod" />
+  <keys type="item" key="EW5_002_0_0000" value="High Priestess Verna's Rod" />
+  <keys type="item" key="EW5_006_0_0000" value="Merumi Priest's Rod" />
+  <keys type="item" key="EW5_006_0_0001" value="Ancient Ghost's Rod" />
+  <keys type="item" key="EW5_007_0_0000" value="Crow's Rod" />
+  <keys type="item" key="EW5_007_0_0001" value="Healer's Rod" />
+  <keys type="item" key="EW5_008_0_0000" value="Agul Shaman's Bone Rod" />
+  <keys type="item" key="EW5_010_0_0000" value="Blood Shaman's Rod" />
+  <keys type="item" key="EW5_011_0_0000" value="Mat'tuul's Rod" />
+  <keys type="item" key="EW5_012_0_0000" value="Frozen Iren's Rod" />
+  <keys type="item" key="EW5_023_0_0000" value="Reaper Scythe" />
+  <keys type="item" key="EW5_024_0_0000" value="Lead Archaeologist's Rod" />
+  <keys type="item" key="EW6_000_0_0000" value="Chapley Singer's Rod" />
+  <keys type="item" key="EW6_006_0_0000" value="Kaito's Staff 01" />
+  <keys type="item" key="EW6_007_0_0000" value="Kaito's Staff 02" />
+  <keys type="item" key="EW6_008_0_0000" value="Mitanas' Staff 01" />
+  <keys type="item" key="EW6_009_0_0000" value="Mitanas' Staff 02" />
+  <keys type="item" key="EW6_010_0_0000" value="Kamillan's Staff" />
+  <keys type="item" key="EW6_011_0_0000" value="Manaz'tuul's Staff" />
+  <keys type="item" key="EW6_015_0_0000" value="Apprentice's Scepter" />
+  <keys type="item" key="EW7_001_0_0000" value="Braghin Scout's Throwing Dagger (Ranged)" />
+  <keys type="item" key="EW7_001_0_0001" value="Yeti Hunter's Spear" />
+  <keys type="item" key="EW7_002_0_0001" value="Braghin Hunter Bow" />
+  <keys type="item" key="EW7_002_0_0002" value="Comital Marksman Bow" />
+  <keys type="item" key="EW7_002_0_0003" value="Skeleton Archer Bow" />
+  <keys type="item" key="EW7_003_0_0000" value="Shimmerwood Sprite Bow" />
+  <keys type="item" key="EW7_004_0_0000" value="Poseana Bow" />
+  <keys type="item" key="EW7_005_0_0000" value="Merumi Archer Bow" />
+  <keys type="item" key="EW7_006_0_0000" value="Pirate King Varanac's Scorcher" />
+  <keys type="item" key="EW7_027_0_0000" value="Merumi Javelinier's Javelin" />
+  <keys type="item" key="EW0_034_0_ch_0000" value="NPC Ferramenta de Agricultura 1" />
+  <keys type="item" key="EW2_008_0_ch_0000" value="NPC Farming Tool 2 (Hoe)" />
+  <keys type="item" key="EW3_009_0_ch_0000" value="NPC Farming Tool 3 (Claw Washer)" />
+  <keys type="item" key="EW3_017_0_ch_0000" value="NPC Farming Tool 4 (Pickaxe)" />
+  <keys type="item" key="EW0_035_0_0000" value="NPC Faca de Cozinha" />
+  <keys type="item" key="EW2_021_0_0000" value="NPC Hammer" />
+  <keys type="item" key="EW4_005_0_0000" value="Commander Rondo's Sword" />
+  <keys type="item" key="EW0_026_0_0000" value="Espada do Sentinela de Aço" />
+  <keys type="item" key="EW3_012_0_0000" value="Frost Guard's Pike" />
+  <keys type="item" key="EW3_014_0_0000" value="Balbora's Hammer" />
+  <keys type="item" key="EW5_013_0_0000" value="Frost Mage's Rod" />
+  <keys type="item" key="EW5_014_0_0000" value="Frost Battlecaster's Rod" />
+  <keys type="item" key="EW7_010_0_0000" value="Frost Sentry Bow" />
+  <keys type="item" key="EW0_027_0_0000" value="Espada do Rondo" />
+  <keys type="item" key="EW0_050_0_0000" value="TEMP - Não Utilizado" />
+  <keys type="item" key="EW0_051_0_0000" value="TEMP - Não Utilizado" />
+  <keys type="item" key="EW0_052_0_0000" value="TEMP - Não Utilizado" />
+  <keys type="item" key="EW4_028_0_0001" value="TEMP - Not Used" />
+  <keys type="item" key="CW0_001_0_0000" value="Martelo Ancestral Melhorado" />
+  <keys type="item" key="CW0_002_0_0000" value="Talhadeira de Fada Ativada" />
+  <keys type="item" key="WE0_000_0_9999" value="Lobby Sword 000_0" />
+  <keys type="item" key="WE0_000_1_9999" value="Lobby Sword 000_1" />
+  <keys type="item" key="WE0_000_2_9999" value="Lobby Sword 000_2" />
+  <keys type="item" key="WE0_000_3_9999" value="Lobby Sword 000_3" />
+  <keys type="item" key="WE0_001_0_9999" value="Lobby Sword 001_0" />
+  <keys type="item" key="WE0_001_1_9999" value="Lobby Sword 001_1" />
+  <keys type="item" key="WE0_001_2_9999" value="Lobby Sword 001_2" />
+  <keys type="item" key="WE0_001_3_9999" value="Lobby Sword 001_3" />
+  <keys type="item" key="WE0_002_0_9999" value="Lobby Sword 002_0" />
+  <keys type="item" key="WE0_002_1_9999" value="Lobby Sword 002_1" />
+  <keys type="item" key="WE0_002_2_9999" value="Lobby Sword 002_2" />
+  <keys type="item" key="WE0_002_3_9999" value="Lobby Sword 002_3" />
+  <keys type="item" key="WE0_003_0_9999" value="Lobby Sword 003_0" />
+  <keys type="item" key="WE0_003_1_9999" value="Lobby Sword 003_1" />
+  <keys type="item" key="WE0_003_2_9999" value="Lobby Sword 003_2" />
+  <keys type="item" key="WE0_003_3_9999" value="Lobby Sword 003_3" />
+  <keys type="item" key="WE0_004_0_9999" value="Lobby Sword 004_0" />
+  <keys type="item" key="WE0_004_1_9999" value="Lobby Sword 004_1" />
+  <keys type="item" key="WE0_004_2_9999" value="Lobby Sword 004_2" />
+  <keys type="item" key="WE0_004_3_9999" value="Lobby Sword 004_3" />
+  <keys type="item" key="WE0_005_0_9999" value="Lobby Sword 005_0" />
+  <keys type="item" key="WE0_005_1_9999" value="Lobby Sword 005_1" />
+  <keys type="item" key="WE0_005_2_9999" value="Lobby Sword 005_2" />
+  <keys type="item" key="WE0_005_3_9999" value="Lobby Sword 005_3" />
+  <keys type="item" key="WE0_006_0_9999" value="Lobby Sword 006_0" />
+  <keys type="item" key="WE0_006_1_9999" value="Lobby Sword 006_1" />
+  <keys type="item" key="WE0_006_2_9999" value="Lobby Sword 006_2" />
+  <keys type="item" key="WE0_006_3_9999" value="Lobby Sword 006_3" />
+  <keys type="item" key="WE0_106_0_9999" value="Lobby Sword 106_0" />
+  <keys type="item" key="WE0_106_1_9999" value="Lobby Sword 106_1" />
+  <keys type="item" key="WE0_106_2_9999" value="Lobby Sword 106_2" />
+  <keys type="item" key="WE0_007_0_9999" value="Lobby Sword 007_0" />
+  <keys type="item" key="WE0_007_1_9999" value="Lobby Sword 007_1" />
+  <keys type="item" key="WE0_007_2_9999" value="Lobby Sword 007_2" />
+  <keys type="item" key="WE0_007_3_9999" value="Lobby Sword 007_3" />
+  <keys type="item" key="WE0_107_0_9999" value="Lobby Sword 107_0" />
+  <keys type="item" key="WE0_107_1_9999" value="Lobby Sword 107_1" />
+  <keys type="item" key="WE0_107_2_9999" value="Lobby Sword 107_2" />
+  <keys type="item" key="WE0_008_0_9999" value="Lobby Sword 008_0" />
+  <keys type="item" key="WE0_008_1_9999" value="Lobby Sword 008_1" />
+  <keys type="item" key="WE0_008_2_9999" value="Lobby Sword 008_2" />
+  <keys type="item" key="WE0_008_3_9999" value="Lobby Sword 008_3" />
+  <keys type="item" key="WE0_108_0_9999" value="Lobby Sword 108_0" />
+  <keys type="item" key="WE0_108_1_9999" value="Lobby Sword 108_1" />
+  <keys type="item" key="WE0_108_2_9999" value="Lobby Sword 108_2" />
+  <keys type="item" key="WE0_009_0_9999" value="Lobby Sword 009_0" />
+  <keys type="item" key="WE0_009_1_9999" value="Lobby Sword 009_1" />
+  <keys type="item" key="WE0_009_2_9999" value="Lobby Sword 009_2" />
+  <keys type="item" key="WE0_009_3_9999" value="Lobby Sword 009_3" />
+  <keys type="item" key="WE0_109_0_9999" value="Lobby Sword 109_0" />
+  <keys type="item" key="WE0_109_1_9999" value="Lobby Sword 109_1" />
+  <keys type="item" key="WE0_109_2_9999" value="Lobby Sword 109_2" />
+  <keys type="item" key="WE0_010_0_9999" value="Lobby Sword 010_0" />
+  <keys type="item" key="WE0_010_1_9999" value="Lobby Sword 010_1" />
+  <keys type="item" key="WE0_010_2_9999" value="Lobby Sword 010_2" />
+  <keys type="item" key="WE0_010_3_9999" value="Lobby Sword 010_3" />
+  <keys type="item" key="WE0_110_0_9999" value="Lobby Sword 110_0" />
+  <keys type="item" key="WE0_110_1_9999" value="Lobby Sword 110_1" />
+  <keys type="item" key="WE0_110_2_9999" value="Lobby Sword 110_2" />
+  <keys type="item" key="WE0_011_0_9999" value="Lobby Sword 011_0" />
+  <keys type="item" key="WE0_011_1_9999" value="Lobby Sword 011_1" />
+  <keys type="item" key="WE0_011_2_9999" value="Lobby Sword 011_2" />
+  <keys type="item" key="WE0_011_3_9999" value="Lobby Sword 011_3" />
+  <keys type="item" key="WE0_111_0_9999" value="Lobby Sword 111_0" />
+  <keys type="item" key="WE0_111_1_9999" value="Lobby Sword 111_1" />
+  <keys type="item" key="WE0_111_2_9999" value="Lobby Sword 111_2" />
+  <keys type="item" key="WE0_012_0_9999" value="Lobby Sword 012_0" />
+  <keys type="item" key="WE0_012_1_9999" value="Lobby Sword 012_1" />
+  <keys type="item" key="WE0_012_2_9999" value="Lobby Sword 012_2" />
+  <keys type="item" key="WE0_012_3_9999" value="Lobby Sword 012_3" />
+  <keys type="item" key="WE0_112_0_9999" value="Lobby Sword 112_0" />
+  <keys type="item" key="WE0_112_1_9999" value="Lobby Sword 112_1" />
+  <keys type="item" key="WE0_112_2_9999" value="Lobby Sword 112_2" />
+  <keys type="item" key="WE1_000_0_9999" value="Lobby Greatsword 000_0" />
+  <keys type="item" key="WE1_000_1_9999" value="Lobby Greatsword 000_1" />
+  <keys type="item" key="WE1_000_2_9999" value="Lobby Greatsword 000_2" />
+  <keys type="item" key="WE1_000_3_9999" value="Lobby Greatsword 000_3" />
+  <keys type="item" key="WE1_001_0_9999" value="Lobby Greatsword 001_0" />
+  <keys type="item" key="WE1_001_1_9999" value="Lobby Greatsword 001_1" />
+  <keys type="item" key="WE1_001_2_9999" value="Lobby Greatsword 001_2" />
+  <keys type="item" key="WE1_001_3_9999" value="Lobby Greatsword 001_3" />
+  <keys type="item" key="WE1_002_0_9999" value="Lobby Greatsword 002_0" />
+  <keys type="item" key="WE1_002_1_9999" value="Lobby Greatsword 002_1" />
+  <keys type="item" key="WE1_002_2_9999" value="Lobby Greatsword 002_2" />
+  <keys type="item" key="WE1_002_3_9999" value="Lobby Greatsword 002_3" />
+  <keys type="item" key="WE1_003_0_9999" value="Lobby Greatsword 003_0" />
+  <keys type="item" key="WE1_003_1_9999" value="Lobby Greatsword 003_1" />
+  <keys type="item" key="WE1_003_2_9999" value="Lobby Greatsword 003_2" />
+  <keys type="item" key="WE1_003_3_9999" value="Lobby Greatsword 003_3" />
+  <keys type="item" key="WE1_004_0_9999" value="Lobby Greatsword 004_0" />
+  <keys type="item" key="WE1_004_1_9999" value="Lobby Greatsword 004_1" />
+  <keys type="item" key="WE1_004_2_9999" value="Lobby Greatsword 004_2" />
+  <keys type="item" key="WE1_004_3_9999" value="Lobby Greatsword 004_3" />
+  <keys type="item" key="WE1_005_0_9999" value="Lobby Greatsword 005_0" />
+  <keys type="item" key="WE1_005_1_9999" value="Lobby Greatsword 005_1" />
+  <keys type="item" key="WE1_005_2_9999" value="Lobby Greatsword 005_2" />
+  <keys type="item" key="WE1_005_3_9999" value="Lobby Greatsword 005_3" />
+  <keys type="item" key="WE1_006_0_9999" value="Lobby Greatsword 006_0" />
+  <keys type="item" key="WE1_006_1_9999" value="Lobby Greatsword 006_1" />
+  <keys type="item" key="WE1_006_2_9999" value="Lobby Greatsword 006_2" />
+  <keys type="item" key="WE1_006_3_9999" value="Lobby Greatsword 006_3" />
+  <keys type="item" key="WE1_106_0_9999" value="Lobby Greatsword 106_0" />
+  <keys type="item" key="WE1_106_1_9999" value="Lobby Greatsword 106_1" />
+  <keys type="item" key="WE1_106_2_9999" value="Lobby Greatsword 106_2" />
+  <keys type="item" key="WE1_007_0_9999" value="Lobby Greatsword 007_0" />
+  <keys type="item" key="WE1_007_1_9999" value="Lobby Greatsword 007_1" />
+  <keys type="item" key="WE1_007_2_9999" value="Lobby Greatsword 007_2" />
+  <keys type="item" key="WE1_007_3_9999" value="Lobby Greatsword 007_3" />
+  <keys type="item" key="WE1_107_0_9999" value="Lobby Greatsword 107_0" />
+  <keys type="item" key="WE1_107_1_9999" value="Lobby Greatsword 107_1" />
+  <keys type="item" key="WE1_107_2_9999" value="Lobby Greatsword 107_2" />
+  <keys type="item" key="WE1_008_0_9999" value="Lobby Greatsword 008_0" />
+  <keys type="item" key="WE1_008_1_9999" value="Lobby Greatsword 008_1" />
+  <keys type="item" key="WE1_008_2_9999" value="Lobby Greatsword 008_2" />
+  <keys type="item" key="WE1_008_3_9999" value="Lobby Greatsword 008_3" />
+  <keys type="item" key="WE1_108_0_9999" value="Lobby Greatsword 108_0" />
+  <keys type="item" key="WE1_108_1_9999" value="Lobby Greatsword 108_1" />
+  <keys type="item" key="WE1_108_2_9999" value="Lobby Greatsword 108_2" />
+  <keys type="item" key="WE1_009_0_9999" value="Lobby Greatsword 009_0" />
+  <keys type="item" key="WE1_009_1_9999" value="Lobby Greatsword 009_1" />
+  <keys type="item" key="WE1_009_2_9999" value="Lobby Greatsword 009_2" />
+  <keys type="item" key="WE1_009_3_9999" value="Lobby Greatsword 009_3" />
+  <keys type="item" key="WE1_109_0_9999" value="Lobby Greatsword 109_0" />
+  <keys type="item" key="WE1_109_1_9999" value="Lobby Greatsword 109_1" />
+  <keys type="item" key="WE1_109_2_9999" value="Lobby Greatsword 109_2" />
+  <keys type="item" key="WE1_010_0_9999" value="Lobby Greatsword 010_0" />
+  <keys type="item" key="WE1_010_1_9999" value="Lobby Greatsword 010_1" />
+  <keys type="item" key="WE1_010_2_9999" value="Lobby Greatsword 010_2" />
+  <keys type="item" key="WE1_010_3_9999" value="Lobby Greatsword 010_3" />
+  <keys type="item" key="WE1_110_0_9999" value="Lobby Greatsword 110_0" />
+  <keys type="item" key="WE1_110_1_9999" value="Lobby Greatsword 110_1" />
+  <keys type="item" key="WE1_110_2_9999" value="Lobby Greatsword 110_2" />
+  <keys type="item" key="WE1_011_0_9999" value="Lobby Greatsword 011_0" />
+  <keys type="item" key="WE1_011_1_9999" value="Lobby Greatsword 011_1" />
+  <keys type="item" key="WE1_011_2_9999" value="Lobby Greatsword 011_2" />
+  <keys type="item" key="WE1_011_3_9999" value="Lobby Greatsword 011_3" />
+  <keys type="item" key="WE1_111_0_9999" value="Lobby Greatsword 111_0" />
+  <keys type="item" key="WE1_111_1_9999" value="Lobby Greatsword 111_1" />
+  <keys type="item" key="WE1_111_2_9999" value="Lobby Greatsword 111_2" />
+  <keys type="item" key="WE1_012_0_9999" value="Lobby Greatsword 012_0" />
+  <keys type="item" key="WE1_012_1_9999" value="Lobby Greatsword 012_1" />
+  <keys type="item" key="WE1_012_2_9999" value="Lobby Greatsword 012_2" />
+  <keys type="item" key="WE1_012_3_9999" value="Lobby Greatsword 012_3" />
+  <keys type="item" key="WE1_112_0_9999" value="Lobby Greatsword 112_0" />
+  <keys type="item" key="WE1_112_1_9999" value="Lobby Greatsword 112_1" />
+  <keys type="item" key="WE1_112_2_9999" value="Lobby Greatsword 112_2" />
+  <keys type="item" key="WE5_000_0_9999" value="Lobby Scepter 000_0" />
+  <keys type="item" key="WE5_000_1_9999" value="Lobby Scepter 000_1" />
+  <keys type="item" key="WE5_000_2_9999" value="Lobby Scepter 000_2" />
+  <keys type="item" key="WE5_000_3_9999" value="Lobby Scepter 000_3" />
+  <keys type="item" key="WE5_001_0_9999" value="Lobby Scepter 001_0" />
+  <keys type="item" key="WE5_001_1_9999" value="Lobby Scepter 001_1" />
+  <keys type="item" key="WE5_001_2_9999" value="Lobby Scepter 001_2" />
+  <keys type="item" key="WE5_001_3_9999" value="Lobby Scepter 001_3" />
+  <keys type="item" key="WE5_002_0_9999" value="Lobby Scepter 002_0" />
+  <keys type="item" key="WE5_002_1_9999" value="Lobby Scepter 002_1" />
+  <keys type="item" key="WE5_002_2_9999" value="Lobby Scepter 002_2" />
+  <keys type="item" key="WE5_002_3_9999" value="Lobby Scepter 002_3" />
+  <keys type="item" key="WE5_003_0_9999" value="Lobby Scepter 003_0" />
+  <keys type="item" key="WE5_003_1_9999" value="Lobby Scepter 003_1" />
+  <keys type="item" key="WE5_003_2_9999" value="Lobby Scepter 003_2" />
+  <keys type="item" key="WE5_003_3_9999" value="Lobby Scepter 003_3" />
+  <keys type="item" key="WE5_004_0_9999" value="Lobby Scepter 004_0" />
+  <keys type="item" key="WE5_004_1_9999" value="Lobby Scepter 004_1" />
+  <keys type="item" key="WE5_004_2_9999" value="Lobby Scepter 004_2" />
+  <keys type="item" key="WE5_004_3_9999" value="Lobby Scepter 004_3" />
+  <keys type="item" key="WE5_005_0_9999" value="Lobby Scepter 005_0" />
+  <keys type="item" key="WE5_005_1_9999" value="Lobby Scepter 005_1" />
+  <keys type="item" key="WE5_005_2_9999" value="Lobby Scepter 005_2" />
+  <keys type="item" key="WE5_005_3_9999" value="Lobby Scepter 005_3" />
+  <keys type="item" key="WE5_006_0_9999" value="Lobby Scepter 006_0" />
+  <keys type="item" key="WE5_006_1_9999" value="Lobby Scepter 006_1" />
+  <keys type="item" key="WE5_006_2_9999" value="Lobby Scepter 006_2" />
+  <keys type="item" key="WE5_006_3_9999" value="Lobby Scepter 006_3" />
+  <keys type="item" key="WE5_106_0_9999" value="Lobby Scepter 106_0" />
+  <keys type="item" key="WE5_106_1_9999" value="Lobby Scepter 106_1" />
+  <keys type="item" key="WE5_106_2_9999" value="Lobby Scepter 106_2" />
+  <keys type="item" key="WE5_007_0_9999" value="Lobby Scepter 007_0" />
+  <keys type="item" key="WE5_007_1_9999" value="Lobby Scepter 007_1" />
+  <keys type="item" key="WE5_007_2_9999" value="Lobby Scepter 007_2" />
+  <keys type="item" key="WE5_007_3_9999" value="Lobby Scepter 007_3" />
+  <keys type="item" key="WE5_107_0_9999" value="Lobby Scepter 107_0" />
+  <keys type="item" key="WE5_107_1_9999" value="Lobby Scepter 107_1" />
+  <keys type="item" key="WE5_107_2_9999" value="Lobby Scepter 107_2" />
+  <keys type="item" key="WE5_008_0_9999" value="Lobby Scepter 008_0" />
+  <keys type="item" key="WE5_008_1_9999" value="Lobby Scepter 008_1" />
+  <keys type="item" key="WE5_008_2_9999" value="Lobby Scepter 008_2" />
+  <keys type="item" key="WE5_008_3_9999" value="Lobby Scepter 008_3" />
+  <keys type="item" key="WE5_108_0_9999" value="Lobby Scepter 108_0" />
+  <keys type="item" key="WE5_108_1_9999" value="Lobby Scepter 108_1" />
+  <keys type="item" key="WE5_108_2_9999" value="Lobby Scepter 108_2" />
+  <keys type="item" key="WE5_009_0_9999" value="Lobby Scepter 009_0" />
+  <keys type="item" key="WE5_009_1_9999" value="Lobby Scepter 009_1" />
+  <keys type="item" key="WE5_009_2_9999" value="Lobby Scepter 009_2" />
+  <keys type="item" key="WE5_009_3_9999" value="Lobby Scepter 009_3" />
+  <keys type="item" key="WE5_109_0_9999" value="Lobby Scepter 109_0" />
+  <keys type="item" key="WE5_109_1_9999" value="Lobby Scepter 109_1" />
+  <keys type="item" key="WE5_109_2_9999" value="Lobby Scepter 109_2" />
+  <keys type="item" key="WE5_010_0_9999" value="Lobby Scepter 010_0" />
+  <keys type="item" key="WE5_010_1_9999" value="Lobby Scepter 010_1" />
+  <keys type="item" key="WE5_010_2_9999" value="Lobby Scepter 010_2" />
+  <keys type="item" key="WE5_010_3_9999" value="Lobby Scepter 010_3" />
+  <keys type="item" key="WE5_110_0_9999" value="Lobby Scepter 110_0" />
+  <keys type="item" key="WE5_110_1_9999" value="Lobby Scepter 110_1" />
+  <keys type="item" key="WE5_110_2_9999" value="Lobby Scepter 110_2" />
+  <keys type="item" key="WE5_011_0_9999" value="Lobby Scepter 011_0" />
+  <keys type="item" key="WE5_011_1_9999" value="Lobby Scepter 011_1" />
+  <keys type="item" key="WE5_011_2_9999" value="Lobby Scepter 011_2" />
+  <keys type="item" key="WE5_011_3_9999" value="Lobby Scepter 011_3" />
+  <keys type="item" key="WE5_111_0_9999" value="Lobby Scepter 111_0" />
+  <keys type="item" key="WE5_111_1_9999" value="Lobby Scepter 111_1" />
+  <keys type="item" key="WE5_111_2_9999" value="Lobby Scepter 111_2" />
+  <keys type="item" key="WE5_012_0_9999" value="Lobby Scepter 012_0" />
+  <keys type="item" key="WE5_012_1_9999" value="Lobby Scepter 012_1" />
+  <keys type="item" key="WE5_012_2_9999" value="Lobby Scepter 012_2" />
+  <keys type="item" key="WE5_012_3_9999" value="Lobby Scepter 012_3" />
+  <keys type="item" key="WE5_112_0_9999" value="Lobby Scepter 112_0" />
+  <keys type="item" key="WE5_112_1_9999" value="Lobby Scepter 112_1" />
+  <keys type="item" key="WE5_112_2_9999" value="Lobby Scepter 112_2" />
+  <keys type="item" key="WE6_000_0_9999" value="Lobby Staff 000_0" />
+  <keys type="item" key="WE6_000_1_9999" value="Lobby Staff 000_1" />
+  <keys type="item" key="WE6_000_2_9999" value="Lobby Staff 000_2" />
+  <keys type="item" key="WE6_000_3_9999" value="Lobby Staff 000_3" />
+  <keys type="item" key="WE6_001_0_9999" value="Lobby Staff 001_0" />
+  <keys type="item" key="WE6_001_1_9999" value="Lobby Staff 001_1" />
+  <keys type="item" key="WE6_001_2_9999" value="Lobby Staff 001_2" />
+  <keys type="item" key="WE6_001_3_9999" value="Lobby Staff 001_3" />
+  <keys type="item" key="WE6_002_0_9999" value="Lobby Staff 002_0" />
+  <keys type="item" key="WE6_002_1_9999" value="Lobby Staff 002_1" />
+  <keys type="item" key="WE6_002_2_9999" value="Lobby Staff 002_2" />
+  <keys type="item" key="WE6_002_3_9999" value="Lobby Staff 002_3" />
+  <keys type="item" key="WE6_003_0_9999" value="Lobby Staff 003_0" />
+  <keys type="item" key="WE6_003_1_9999" value="Lobby Staff 003_1" />
+  <keys type="item" key="WE6_003_2_9999" value="Lobby Staff 003_2" />
+  <keys type="item" key="WE6_003_3_9999" value="Lobby Staff 003_3" />
+  <keys type="item" key="WE6_004_0_9999" value="Lobby Staff 004_0" />
+  <keys type="item" key="WE6_004_1_9999" value="Lobby Staff 004_1" />
+  <keys type="item" key="WE6_004_2_9999" value="Lobby Staff 004_2" />
+  <keys type="item" key="WE6_004_3_9999" value="Lobby Staff 004_3" />
+  <keys type="item" key="WE6_005_0_9999" value="Lobby Staff 005_0" />
+  <keys type="item" key="WE6_005_1_9999" value="Lobby Staff 005_1" />
+  <keys type="item" key="WE6_005_2_9999" value="Lobby Staff 005_2" />
+  <keys type="item" key="WE6_005_3_9999" value="Lobby Staff 005_3" />
+  <keys type="item" key="WE6_006_0_9999" value="Lobby Staff 006_0" />
+  <keys type="item" key="WE6_006_1_9999" value="Lobby Staff 006_1" />
+  <keys type="item" key="WE6_006_2_9999" value="Lobby Staff 006_2" />
+  <keys type="item" key="WE6_006_3_9999" value="Lobby Staff 006_3" />
+  <keys type="item" key="WE6_106_0_9999" value="Lobby Staff 106_0" />
+  <keys type="item" key="WE6_106_1_9999" value="Lobby Staff 106_1" />
+  <keys type="item" key="WE6_106_2_9999" value="Lobby Staff 106_2" />
+  <keys type="item" key="WE6_007_0_9999" value="Lobby Staff 007_0" />
+  <keys type="item" key="WE6_007_1_9999" value="Lobby Staff 007_1" />
+  <keys type="item" key="WE6_007_2_9999" value="Lobby Staff 007_2" />
+  <keys type="item" key="WE6_007_3_9999" value="Lobby Staff 007_3" />
+  <keys type="item" key="WE6_107_0_9999" value="Lobby Staff 107_0" />
+  <keys type="item" key="WE6_107_1_9999" value="Lobby Staff 107_1" />
+  <keys type="item" key="WE6_107_2_9999" value="Lobby Staff 107_2" />
+  <keys type="item" key="WE6_008_0_9999" value="Lobby Staff 008_0" />
+  <keys type="item" key="WE6_008_1_9999" value="Lobby Staff 008_1" />
+  <keys type="item" key="WE6_008_2_9999" value="Lobby Staff 008_2" />
+  <keys type="item" key="WE6_008_3_9999" value="Lobby Staff 008_3" />
+  <keys type="item" key="WE6_108_0_9999" value="Lobby Staff 108_0" />
+  <keys type="item" key="WE6_108_1_9999" value="Lobby Staff 108_1" />
+  <keys type="item" key="WE6_108_2_9999" value="Lobby Staff 108_2" />
+  <keys type="item" key="WE6_009_0_9999" value="Lobby Staff 009_0" />
+  <keys type="item" key="WE6_009_1_9999" value="Lobby Staff 009_1" />
+  <keys type="item" key="WE6_009_2_9999" value="Lobby Staff 009_2" />
+  <keys type="item" key="WE6_009_3_9999" value="Lobby Staff 009_3" />
+  <keys type="item" key="WE6_109_0_9999" value="Lobby Staff 109_0" />
+  <keys type="item" key="WE6_109_1_9999" value="Lobby Staff 109_1" />
+  <keys type="item" key="WE6_109_2_9999" value="Lobby Staff 109_2" />
+  <keys type="item" key="WE6_010_0_9999" value="Lobby Staff 010_0" />
+  <keys type="item" key="WE6_010_1_9999" value="Lobby Staff 010_1" />
+  <keys type="item" key="WE6_010_2_9999" value="Lobby Staff 010_2" />
+  <keys type="item" key="WE6_010_3_9999" value="Lobby Staff 010_3" />
+  <keys type="item" key="WE6_110_0_9999" value="Lobby Staff 110_0" />
+  <keys type="item" key="WE6_110_1_9999" value="Lobby Staff 110_1" />
+  <keys type="item" key="WE6_110_2_9999" value="Lobby Staff 110_2" />
+  <keys type="item" key="WE6_011_0_9999" value="Lobby Staff 011_0" />
+  <keys type="item" key="WE6_011_1_9999" value="Lobby Staff 011_1" />
+  <keys type="item" key="WE6_011_2_9999" value="Lobby Staff 011_2" />
+  <keys type="item" key="WE6_011_3_9999" value="Lobby Staff 011_3" />
+  <keys type="item" key="WE6_111_0_9999" value="Lobby Staff 111_0" />
+  <keys type="item" key="WE6_111_1_9999" value="Lobby Staff 111_1" />
+  <keys type="item" key="WE6_111_2_9999" value="Lobby Staff 111_2" />
+  <keys type="item" key="WE6_012_0_9999" value="Lobby Staff 012_0" />
+  <keys type="item" key="WE6_012_1_9999" value="Lobby Staff 012_1" />
+  <keys type="item" key="WE6_012_2_9999" value="Lobby Staff 012_2" />
+  <keys type="item" key="WE6_012_3_9999" value="Lobby Staff 012_3" />
+  <keys type="item" key="WE6_112_0_9999" value="Lobby Staff 112_0" />
+  <keys type="item" key="WE6_112_1_9999" value="Lobby Staff 112_1" />
+  <keys type="item" key="WE6_112_2_9999" value="Lobby Staff 112_2" />
+  <keys type="item" key="WE4_000_0_9999" value="Lobby Dagger 000_0" />
+  <keys type="item" key="WE4_000_1_9999" value="Lobby Dagger 000_1" />
+  <keys type="item" key="WE4_000_2_9999" value="Lobby Dagger 000_2" />
+  <keys type="item" key="WE4_000_3_9999" value="Lobby Dagger 000_3" />
+  <keys type="item" key="WE4_001_0_9999" value="Lobby Dagger 001_0" />
+  <keys type="item" key="WE4_001_1_9999" value="Lobby Dagger 001_1" />
+  <keys type="item" key="WE4_001_2_9999" value="Lobby Dagger 001_2" />
+  <keys type="item" key="WE4_001_3_9999" value="Lobby Dagger 001_3" />
+  <keys type="item" key="WE4_002_0_9999" value="Lobby Dagger 002_0" />
+  <keys type="item" key="WE4_002_1_9999" value="Lobby Dagger 002_1" />
+  <keys type="item" key="WE4_002_2_9999" value="Lobby Dagger 002_2" />
+  <keys type="item" key="WE4_002_3_9999" value="Lobby Dagger 002_3" />
+  <keys type="item" key="WE4_003_0_9999" value="Lobby Dagger 003_0" />
+  <keys type="item" key="WE4_003_1_9999" value="Lobby Dagger 003_1" />
+  <keys type="item" key="WE4_003_2_9999" value="Lobby Dagger 003_2" />
+  <keys type="item" key="WE4_003_3_9999" value="Lobby Dagger 003_3" />
+  <keys type="item" key="WE4_004_0_9999" value="Lobby Dagger 004_0" />
+  <keys type="item" key="WE4_004_1_9999" value="Lobby Dagger 004_1" />
+  <keys type="item" key="WE4_004_2_9999" value="Lobby Dagger 004_2" />
+  <keys type="item" key="WE4_004_3_9999" value="Lobby Dagger 004_3" />
+  <keys type="item" key="WE4_005_0_9999" value="Lobby Dagger 005_0" />
+  <keys type="item" key="WE4_005_1_9999" value="Lobby Dagger 005_1" />
+  <keys type="item" key="WE4_005_2_9999" value="Lobby Dagger 005_2" />
+  <keys type="item" key="WE4_005_3_9999" value="Lobby Dagger 005_3" />
+  <keys type="item" key="WE4_006_0_9999" value="Lobby Dagger 006_0" />
+  <keys type="item" key="WE4_006_1_9999" value="Lobby Dagger 006_1" />
+  <keys type="item" key="WE4_006_2_9999" value="Lobby Dagger 006_2" />
+  <keys type="item" key="WE4_006_3_9999" value="Lobby Dagger 006_3" />
+  <keys type="item" key="WE4_106_0_9999" value="Lobby Dagger 106_0" />
+  <keys type="item" key="WE4_106_1_9999" value="Lobby Dagger 106_1" />
+  <keys type="item" key="WE4_106_2_9999" value="Lobby Dagger 106_2" />
+  <keys type="item" key="WE4_007_0_9999" value="Lobby Dagger 007_0" />
+  <keys type="item" key="WE4_007_1_9999" value="Lobby Dagger 007_1" />
+  <keys type="item" key="WE4_007_2_9999" value="Lobby Dagger 007_2" />
+  <keys type="item" key="WE4_007_3_9999" value="Lobby Dagger 007_3" />
+  <keys type="item" key="WE4_107_0_9999" value="Lobby Dagger 107_0" />
+  <keys type="item" key="WE4_107_1_9999" value="Lobby Dagger 107_1" />
+  <keys type="item" key="WE4_107_2_9999" value="Lobby Dagger 107_2" />
+  <keys type="item" key="WE4_008_0_9999" value="Lobby Dagger 008_0" />
+  <keys type="item" key="WE4_008_1_9999" value="Lobby Dagger 008_1" />
+  <keys type="item" key="WE4_008_2_9999" value="Lobby Dagger 008_2" />
+  <keys type="item" key="WE4_008_3_9999" value="Lobby Dagger 008_3" />
+  <keys type="item" key="WE4_108_0_9999" value="Lobby Dagger 108_0" />
+  <keys type="item" key="WE4_108_1_9999" value="Lobby Dagger 108_1" />
+  <keys type="item" key="WE4_108_2_9999" value="Lobby Dagger 108_2" />
+  <keys type="item" key="WE4_009_0_9999" value="Lobby Dagger 009_0" />
+  <keys type="item" key="WE4_009_1_9999" value="Lobby Dagger 009_1" />
+  <keys type="item" key="WE4_009_2_9999" value="Lobby Dagger 009_2" />
+  <keys type="item" key="WE4_009_3_9999" value="Lobby Dagger 009_3" />
+  <keys type="item" key="WE4_109_0_9999" value="Lobby Dagger 109_0" />
+  <keys type="item" key="WE4_109_1_9999" value="Lobby Dagger 109_1" />
+  <keys type="item" key="WE4_109_2_9999" value="Lobby Dagger 109_2" />
+  <keys type="item" key="WE4_010_0_9999" value="Lobby Dagger 010_0" />
+  <keys type="item" key="WE4_010_1_9999" value="Lobby Dagger 010_1" />
+  <keys type="item" key="WE4_010_2_9999" value="Lobby Dagger 010_2" />
+  <keys type="item" key="WE4_010_3_9999" value="Lobby Dagger 010_3" />
+  <keys type="item" key="WE4_110_0_9999" value="Lobby Dagger 110_0" />
+  <keys type="item" key="WE4_110_1_9999" value="Lobby Dagger 110_1" />
+  <keys type="item" key="WE4_110_2_9999" value="Lobby Dagger 110_2" />
+  <keys type="item" key="WE4_011_0_9999" value="Lobby Dagger 011_0" />
+  <keys type="item" key="WE4_011_1_9999" value="Lobby Dagger 011_1" />
+  <keys type="item" key="WE4_011_2_9999" value="Lobby Dagger 011_2" />
+  <keys type="item" key="WE4_011_3_9999" value="Lobby Dagger 011_3" />
+  <keys type="item" key="WE4_111_0_9999" value="Lobby Dagger 111_0" />
+  <keys type="item" key="WE4_111_1_9999" value="Lobby Dagger 111_1" />
+  <keys type="item" key="WE4_111_2_9999" value="Lobby Dagger 111_2" />
+  <keys type="item" key="WE4_012_0_9999" value="Lobby Dagger 012_0" />
+  <keys type="item" key="WE4_012_1_9999" value="Lobby Dagger 012_1" />
+  <keys type="item" key="WE4_012_2_9999" value="Lobby Dagger 012_2" />
+  <keys type="item" key="WE4_012_3_9999" value="Lobby Dagger 012_3" />
+  <keys type="item" key="WE4_112_0_9999" value="Lobby Dagger 112_0" />
+  <keys type="item" key="WE4_112_1_9999" value="Lobby Dagger 112_1" />
+  <keys type="item" key="WE4_112_2_9999" value="Lobby Dagger 112_2" />
+  <keys type="item" key="WE8_000_0_9999" value="Lobby Spear 000_0" />
+  <keys type="item" key="WE8_000_1_9999" value="Lobby Spear 000_1" />
+  <keys type="item" key="WE8_000_2_9999" value="Lobby Spear 000_2" />
+  <keys type="item" key="WE8_000_3_9999" value="Lobby Spear 000_3" />
+  <keys type="item" key="WE8_001_0_9999" value="Lobby Spear 001_0" />
+  <keys type="item" key="WE8_001_1_9999" value="Lobby Spear 001_1" />
+  <keys type="item" key="WE8_001_2_9999" value="Lobby Spear 001_2" />
+  <keys type="item" key="WE8_001_3_9999" value="Lobby Spear 001_3" />
+  <keys type="item" key="WE8_002_0_9999" value="Lobby Spear 002_0" />
+  <keys type="item" key="WE8_002_1_9999" value="Lobby Spear 002_1" />
+  <keys type="item" key="WE8_002_2_9999" value="Lobby Spear 002_2" />
+  <keys type="item" key="WE8_002_3_9999" value="Lobby Spear 002_3" />
+  <keys type="item" key="WE8_003_0_9999" value="Lobby Spear 003_0" />
+  <keys type="item" key="WE8_003_1_9999" value="Lobby Spear 003_1" />
+  <keys type="item" key="WE8_003_2_9999" value="Lobby Spear 003_2" />
+  <keys type="item" key="WE8_003_3_9999" value="Lobby Spear 003_3" />
+  <keys type="item" key="WE8_004_0_9999" value="Lobby Spear 004_0" />
+  <keys type="item" key="WE8_004_1_9999" value="Lobby Spear 004_1" />
+  <keys type="item" key="WE8_004_2_9999" value="Lobby Spear 004_2" />
+  <keys type="item" key="WE8_004_3_9999" value="Lobby Spear 004_3" />
+  <keys type="item" key="WE8_005_0_9999" value="Lobby Spear 005_0" />
+  <keys type="item" key="WE8_005_1_9999" value="Lobby Spear 005_1" />
+  <keys type="item" key="WE8_005_2_9999" value="Lobby Spear 005_2" />
+  <keys type="item" key="WE8_005_3_9999" value="Lobby Spear 005_3" />
+  <keys type="item" key="WE8_006_0_9999" value="Lobby Spear 006_0" />
+  <keys type="item" key="WE8_006_1_9999" value="Lobby Spear 006_1" />
+  <keys type="item" key="WE8_006_2_9999" value="Lobby Spear 006_2" />
+  <keys type="item" key="WE8_006_3_9999" value="Lobby Spear 006_3" />
+  <keys type="item" key="WE8_106_0_9999" value="Lobby Spear 106_0" />
+  <keys type="item" key="WE8_106_1_9999" value="Lobby Spear 106_1" />
+  <keys type="item" key="WE8_106_2_9999" value="Lobby Spear 106_2" />
+  <keys type="item" key="WE8_007_0_9999" value="Lobby Spear 007_0" />
+  <keys type="item" key="WE8_007_1_9999" value="Lobby Spear 007_1" />
+  <keys type="item" key="WE8_007_2_9999" value="Lobby Spear 007_2" />
+  <keys type="item" key="WE8_007_3_9999" value="Lobby Spear 007_3" />
+  <keys type="item" key="WE8_107_0_9999" value="Lobby Spear 107_0" />
+  <keys type="item" key="WE8_107_1_9999" value="Lobby Spear 107_1" />
+  <keys type="item" key="WE8_107_2_9999" value="Lobby Spear 107_2" />
+  <keys type="item" key="WE8_008_0_9999" value="Lobby Spear 008_0" />
+  <keys type="item" key="WE8_008_1_9999" value="Lobby Spear 008_1" />
+  <keys type="item" key="WE8_008_2_9999" value="Lobby Spear 008_2" />
+  <keys type="item" key="WE8_008_3_9999" value="Lobby Spear 008_3" />
+  <keys type="item" key="WE8_108_0_9999" value="Lobby Spear 108_0" />
+  <keys type="item" key="WE8_108_1_9999" value="Lobby Spear 108_1" />
+  <keys type="item" key="WE8_108_2_9999" value="Lobby Spear 108_2" />
+  <keys type="item" key="WE8_009_0_9999" value="Lobby Spear 009_0" />
+  <keys type="item" key="WE8_009_1_9999" value="Lobby Spear 009_1" />
+  <keys type="item" key="WE8_009_2_9999" value="Lobby Spear 009_2" />
+  <keys type="item" key="WE8_009_3_9999" value="Lobby Spear 009_3" />
+  <keys type="item" key="WE8_109_0_9999" value="Lobby Spear 109_0" />
+  <keys type="item" key="WE8_109_1_9999" value="Lobby Spear 109_1" />
+  <keys type="item" key="WE8_109_2_9999" value="Lobby Spear 109_2" />
+  <keys type="item" key="WE8_010_0_9999" value="Lobby Spear 010_0" />
+  <keys type="item" key="WE8_010_1_9999" value="Lobby Spear 010_1" />
+  <keys type="item" key="WE8_010_2_9999" value="Lobby Spear 010_2" />
+  <keys type="item" key="WE8_010_3_9999" value="Lobby Spear 010_3" />
+  <keys type="item" key="WE8_110_0_9999" value="Lobby Spear 110_0" />
+  <keys type="item" key="WE8_110_1_9999" value="Lobby Spear 110_1" />
+  <keys type="item" key="WE8_110_2_9999" value="Lobby Spear 110_2" />
+  <keys type="item" key="WE8_011_0_9999" value="Lobby Spear 011_0" />
+  <keys type="item" key="WE8_011_1_9999" value="Lobby Spear 011_1" />
+  <keys type="item" key="WE8_011_2_9999" value="Lobby Spear 011_2" />
+  <keys type="item" key="WE8_011_3_9999" value="Lobby Spear 011_3" />
+  <keys type="item" key="WE8_111_0_9999" value="Lobby Spear 111_0" />
+  <keys type="item" key="WE8_111_1_9999" value="Lobby Spear 111_1" />
+  <keys type="item" key="WE8_111_2_9999" value="Lobby Spear 111_2" />
+  <keys type="item" key="WE8_012_0_9999" value="Lobby Spear 012_0" />
+  <keys type="item" key="WE8_012_1_9999" value="Lobby Spear 012_1" />
+  <keys type="item" key="WE8_012_2_9999" value="Lobby Spear 012_2" />
+  <keys type="item" key="WE8_012_3_9999" value="Lobby Spear 012_3" />
+  <keys type="item" key="WE8_112_0_9999" value="Lobby Spear 112_0" />
+  <keys type="item" key="WE8_112_1_9999" value="Lobby Spear 112_1" />
+  <keys type="item" key="WE8_112_2_9999" value="Lobby Spear 112_2" />
+  <keys type="item" key="WE9_000_0_9999" value="Lobby Crossbow 000_0" />
+  <keys type="item" key="WE9_000_1_9999" value="Lobby Crossbow 000_1" />
+  <keys type="item" key="WE9_000_2_9999" value="Lobby Crossbow 000_2" />
+  <keys type="item" key="WE9_000_3_9999" value="Lobby Crossbow 000_3" />
+  <keys type="item" key="WE9_001_0_9999" value="Lobby Crossbow 001_0" />
+  <keys type="item" key="WE9_001_1_9999" value="Lobby Crossbow 001_1" />
+  <keys type="item" key="WE9_001_2_9999" value="Lobby Crossbow 001_2" />
+  <keys type="item" key="WE9_001_3_9999" value="Lobby Crossbow 001_3" />
+  <keys type="item" key="WE9_002_0_9999" value="Lobby Crossbow 002_0" />
+  <keys type="item" key="WE9_002_1_9999" value="Lobby Crossbow 002_1" />
+  <keys type="item" key="WE9_002_2_9999" value="Lobby Crossbow 002_2" />
+  <keys type="item" key="WE9_002_3_9999" value="Lobby Crossbow 002_3" />
+  <keys type="item" key="WE9_003_0_9999" value="Lobby Crossbow 003_0" />
+  <keys type="item" key="WE9_003_1_9999" value="Lobby Crossbow 003_1" />
+  <keys type="item" key="WE9_003_2_9999" value="Lobby Crossbow 003_2" />
+  <keys type="item" key="WE9_003_3_9999" value="Lobby Crossbow 003_3" />
+  <keys type="item" key="WE9_004_0_9999" value="Lobby Crossbow 004_0" />
+  <keys type="item" key="WE9_004_1_9999" value="Lobby Crossbow 004_1" />
+  <keys type="item" key="WE9_004_2_9999" value="Lobby Crossbow 004_2" />
+  <keys type="item" key="WE9_004_3_9999" value="Lobby Crossbow 004_3" />
+  <keys type="item" key="WE9_005_0_9999" value="Lobby Crossbow 005_0" />
+  <keys type="item" key="WE9_005_1_9999" value="Lobby Crossbow 005_1" />
+  <keys type="item" key="WE9_005_2_9999" value="Lobby Crossbow 005_2" />
+  <keys type="item" key="WE9_005_3_9999" value="Lobby Crossbow 005_3" />
+  <keys type="item" key="WE9_006_0_9999" value="Lobby Crossbow 006_0" />
+  <keys type="item" key="WE9_006_1_9999" value="Lobby Crossbow 006_1" />
+  <keys type="item" key="WE9_006_2_9999" value="Lobby Crossbow 006_2" />
+  <keys type="item" key="WE9_006_3_9999" value="Lobby Crossbow 006_3" />
+  <keys type="item" key="WE9_106_0_9999" value="Lobby Crossbow 106_0" />
+  <keys type="item" key="WE9_106_1_9999" value="Lobby Crossbow 106_1" />
+  <keys type="item" key="WE9_106_2_9999" value="Lobby Crossbow 106_2" />
+  <keys type="item" key="WE9_007_0_9999" value="Lobby Crossbow 007_0" />
+  <keys type="item" key="WE9_007_1_9999" value="Lobby Crossbow 007_1" />
+  <keys type="item" key="WE9_007_2_9999" value="Lobby Crossbow 007_2" />
+  <keys type="item" key="WE9_007_3_9999" value="Lobby Crossbow 007_3" />
+  <keys type="item" key="WE9_107_0_9999" value="Lobby Crossbow 107_0" />
+  <keys type="item" key="WE9_107_1_9999" value="Lobby Crossbow 107_1" />
+  <keys type="item" key="WE9_107_2_9999" value="Lobby Crossbow 107_2" />
+  <keys type="item" key="WE9_008_0_9999" value="Lobby Crossbow 008_0" />
+  <keys type="item" key="WE9_008_1_9999" value="Lobby Crossbow 008_1" />
+  <keys type="item" key="WE9_008_2_9999" value="Lobby Crossbow 008_2" />
+  <keys type="item" key="WE9_008_3_9999" value="Lobby Crossbow 008_3" />
+  <keys type="item" key="WE9_108_0_9999" value="Lobby Crossbow 108_0" />
+  <keys type="item" key="WE9_108_1_9999" value="Lobby Crossbow 108_1" />
+  <keys type="item" key="WE9_108_2_9999" value="Lobby Crossbow 108_2" />
+  <keys type="item" key="WE9_009_0_9999" value="Lobby Crossbow 009_0" />
+  <keys type="item" key="WE9_009_1_9999" value="Lobby Crossbow 009_1" />
+  <keys type="item" key="WE9_009_2_9999" value="Lobby Crossbow 009_2" />
+  <keys type="item" key="WE9_009_3_9999" value="Lobby Crossbow 009_3" />
+  <keys type="item" key="WE9_109_0_9999" value="Lobby Crossbow 109_0" />
+  <keys type="item" key="WE9_109_1_9999" value="Lobby Crossbow 109_1" />
+  <keys type="item" key="WE9_109_2_9999" value="Lobby Crossbow 109_2" />
+  <keys type="item" key="WE9_010_0_9999" value="Lobby Crossbow 010_0" />
+  <keys type="item" key="WE9_010_1_9999" value="Lobby Crossbow 010_1" />
+  <keys type="item" key="WE9_010_2_9999" value="Lobby Crossbow 010_2" />
+  <keys type="item" key="WE9_010_3_9999" value="Lobby Crossbow 010_3" />
+  <keys type="item" key="WE9_110_0_9999" value="Lobby Crossbow 110_0" />
+  <keys type="item" key="WE9_110_1_9999" value="Lobby Crossbow 110_1" />
+  <keys type="item" key="WE9_110_2_9999" value="Lobby Crossbow 110_2" />
+  <keys type="item" key="WE9_011_0_9999" value="Lobby Crossbow 011_0" />
+  <keys type="item" key="WE9_011_1_9999" value="Lobby Crossbow 011_1" />
+  <keys type="item" key="WE9_011_2_9999" value="Lobby Crossbow 011_2" />
+  <keys type="item" key="WE9_011_3_9999" value="Lobby Crossbow 011_3" />
+  <keys type="item" key="WE9_111_0_9999" value="Lobby Crossbow 111_0" />
+  <keys type="item" key="WE9_111_1_9999" value="Lobby Crossbow 111_1" />
+  <keys type="item" key="WE9_111_2_9999" value="Lobby Crossbow 111_2" />
+  <keys type="item" key="WE9_012_0_9999" value="Lobby Crossbow 012_0" />
+  <keys type="item" key="WE9_012_1_9999" value="Lobby Crossbow 012_1" />
+  <keys type="item" key="WE9_012_2_9999" value="Lobby Crossbow 012_2" />
+  <keys type="item" key="WE9_012_3_9999" value="Lobby Crossbow 012_3" />
+  <keys type="item" key="WE9_112_0_9999" value="Lobby Crossbow 112_0" />
+  <keys type="item" key="WE9_112_1_9999" value="Lobby Crossbow 112_1" />
+  <keys type="item" key="WE9_112_2_9999" value="Lobby Crossbow 112_2" />
+  <keys type="item" key="WE0_014_0_0000" value="Rusted Iron Sword" />
+  <keys type="item" key="WE6_001_0_0000" value="Rusted Staff" />
+  <keys type="item" key="WE4_017_0_0000" value="Rusted Dagger" />
+  <keys type="item" key="WE5_001_0_0001" value="Rusted Scepter" />
+  <keys type="item" key="WE1_001_0_0000" value="Rusted Greatsword" />
+  <keys type="item" key="WE7_001_0_0000" value="Rusted Bow" />
+  <keys type="item" key="WE0_039_0_0000" value="Chaos Elven Sword" />
+  <keys type="item" key="WE1_013_0_0000" value="Rodheim's Greatsword" />
+  <keys type="item" key="WE4_014_0_0000" value="Lenanzar's Sword" />
+  <keys type="item" key="WE4_015_0_0000" value="Chaos Elven Zweihander" />
+  <keys type="item" key="WE5_025_0_0000" value="Demociel's Scepter" />
+  <keys type="item" key="WE5_026_0_0000" value="Chaos Elven Scepter" />
+  <keys type="item" key="WE6_032_0_0000" value="Pridon Roa's Staff" />
+  <keys type="item" key="WE6_033_0_0000" value="Chaos Elven Staff" />
+  <keys type="item" key="EW7_020_0_0000" value="Aurea Bow" />
+  <keys type="item" key="WE7_021_0_0000" value="Chaos Elf Bow" />
+  <keys type="item" key="WE0_014_0_1051" value="Simple Sword" />
+  <keys type="item" key="WE1_001_0_1051" value="Simple Greatsword" />
+  <keys type="item" key="WE4_017_0_1051" value="Simple Dagger" />
+  <keys type="item" key="WE2_017_0_1051" value="Simple Warhammer" />
+  <keys type="item" key="WE6_001_0_1051" value="Simple Staff" />
+  <keys type="item" key="WE7_001_0_1051" value="Simple Bow" />
+  <keys type="item" key="WE5_001_0_1051" value="Simple Scepter" />
+  <keys type="item" key="WE0_002_0_2051" value="Dragon Knight Sword" />
+  <keys type="item" key="WE1_002_0_2051" value="Dragon Knight Greatsword" />
+  <keys type="item" key="WE4_003_0_2051" value="Dragon Knight Dagger" />
+  <keys type="item" key="WE2_027_0_2051" value="Dragon Knight Warhammer" />
+  <keys type="item" key="WE6_002_0_2051" value="Dragon Knight Staff" />
+  <keys type="item" key="WE7_004_0_2051" value="Dragon Knight Bow" />
+  <keys type="item" key="WE5_002_0_2051" value="Dragon Knight Scepter" />
+  <keys type="item" key="WE0_021_0_2101" value="Woodland Sword" />
+  <keys type="item" key="WE4_001_0_2101" value="Woodland Dagger" />
+  <keys type="item" key="WE6_003_0_2101" value="Woodland Staff" />
+  <keys type="item" key="WE7_010_0_2101" value="Woodland Bow" />
+  <keys type="item" key="WE1_003_0_2101" value="Woodland Greatsword" />
+  <keys type="item" key="WE3_010_0_2101" value="Woodland Battle Axe" />
+  <keys type="item" key="WE5_003_0_2101" value="Woodland Scepter" />
+  <keys type="item" key="WE2_005_0_2101" value="Woodland Warhammer" />
+  <keys type="item" key="WE0_021_0_1101" value="Sturdy Sword" />
+  <keys type="item" key="WE4_001_0_1101" value="Sturdy Dagger" />
+  <keys type="item" key="WE6_003_0_1101" value="Sturdy Staff" />
+  <keys type="item" key="WE7_010_0_1101" value="Sturdy Bow" />
+  <keys type="item" key="WE1_003_0_1101" value="Sturdy Greatsword" />
+  <keys type="item" key="WE3_010_0_1101" value="Sturdy Battle Axe" />
+  <keys type="item" key="WE5_003_0_1101" value="Sturdy Scepter" />
+  <keys type="item" key="WE2_005_0_1101" value="Sturdy Warhammer" />
+  <keys type="item" key="WE0_015_0_2102" value="Fairy Sword" />
+  <keys type="item" key="WE4_002_0_2102" value="Fairy Dagger" />
+  <keys type="item" key="WE6_011_0_2102" value="Fairy Staff" />
+  <keys type="item" key="WE7_003_0_2102" value="Fairy Bow" />
+  <keys type="item" key="WE1_004_0_2102" value="Fairy Greatsword" />
+  <keys type="item" key="WE3_020_0_2102" value="Fairy Battle Ax" />
+  <keys type="item" key="WE5_004_0_2102" value="Fairy Scepter" />
+  <keys type="item" key="WE2_006_0_2102" value="Fairy Warhammer" />
+  <keys type="item" key="WE0_015_0_1151" value="Infantry Sword" />
+  <keys type="item" key="WE4_002_0_1151" value="Infantry Dagger" />
+  <keys type="item" key="WE6_011_0_1151" value="Infantry Staff" />
+  <keys type="item" key="WE7_003_0_1151" value="Infantry Bow" />
+  <keys type="item" key="WE1_004_0_1151" value="Infantry Greatsword" />
+  <keys type="item" key="WE3_020_0_1151" value="Infantry Battle Axe" />
+  <keys type="item" key="WE5_004_0_1151" value="Infantry Scepter" />
+  <keys type="item" key="WE2_006_0_1151" value="Infantry Warhammer" />
+  <keys type="item" key="WE0_004_0_2141" value="Emberstone Sword" />
+  <keys type="item" key="WE4_005_0_2141" value="Emberstone Dagger" />
+  <keys type="item" key="WE6_005_0_2141" value="Emberstone Staff" />
+  <keys type="item" key="WE7_027_0_2141" value="Emberstone Bow" />
+  <keys type="item" key="WE1_008_0_2141" value="Emberstone Greatsword" />
+  <keys type="item" key="WE3_019_0_2141" value="Emberstone Battle Axe" />
+  <keys type="item" key="WE5_007_0_2141" value="Emberstone Scepter" />
+  <keys type="item" key="WE2_027_0_2141" value="Emberstone Warhammer" />
+  <keys type="item" key="WE0_007_0_2151" value="Marauder Sword" />
+  <keys type="item" key="WE4_015_0_2151" value="Marauder Dagger" />
+  <keys type="item" key="WE6_000_0_2151" value="Marauder Staff" />
+  <keys type="item" key="WE7_011_0_2151" value="Marauder Bow" />
+  <keys type="item" key="WE1_005_0_2151" value="Marauder Greatsword" />
+  <keys type="item" key="WE3_005_0_2151" value="Marauder Battle Axe" />
+  <keys type="item" key="WE5_005_0_2151" value="Marauder Scepter" />
+  <keys type="item" key="WE2_007_0_2151" value="Marauder Warhammer" />
+  <keys type="item" key="WE0_007_0_2171" value="Detachment Sword" />
+  <keys type="item" key="WE4_015_0_2171" value="Detachment Dagger" />
+  <keys type="item" key="WE6_000_0_2171" value="Detachment Staff" />
+  <keys type="item" key="WE7_011_0_2171" value="Detachment Bow" />
+  <keys type="item" key="WE1_005_0_2171" value="Detachment Greatsword" />
+  <keys type="item" key="WE3_005_0_2171" value="Detachment Battle Axe" />
+  <keys type="item" key="WE5_005_0_2171" value="Detachment Scepter" />
+  <keys type="item" key="WE2_007_0_2171" value="Detachment Warhammer" />
+  <keys type="item" key="WE0_007_0_1201" value="Battle-hardened Sword" />
+  <keys type="item" key="WE4_015_0_1201" value="Battle-hardened Dagger" />
+  <keys type="item" key="WE6_000_0_1201" value="Battle-hardened Staff" />
+  <keys type="item" key="WE7_011_0_1201" value="Battle-hardened Bow" />
+  <keys type="item" key="WE1_005_0_1201" value="Battle-hardened Greatsword" />
+  <keys type="item" key="WE3_005_0_1201" value="Battle-hardened Battle Axe" />
+  <keys type="item" key="WE5_005_0_1201" value="Battle-hardened Scepter" />
+  <keys type="item" key="WE2_007_0_1201" value="Battle-hardened Warhammer" />
+  <keys type="item" key="WE0_029_0_2201" value="Vampire Sword" />
+  <keys type="item" key="WE4_004_0_2201" value="Vampire Dagger" />
+  <keys type="item" key="WE6_004_0_2201" value="Vampire Staff" />
+  <keys type="item" key="WE7_002_0_2201" value="Vampire Bow" />
+  <keys type="item" key="WE1_006_0_2201" value="Vampire Greatsword" />
+  <keys type="item" key="WE3_006_0_2201" value="Vampire Battle Axe" />
+  <keys type="item" key="WE5_006_0_2201" value="Vampire Scepter" />
+  <keys type="item" key="WE2_013_0_2201" value="Vampire Warhammer" />
+  <keys type="item" key="WE0_029_0_2202" value="Militia Sword" />
+  <keys type="item" key="WE4_004_0_2202" value="Militia Dagger" />
+  <keys type="item" key="WE6_004_0_2202" value="Militia Staff" />
+  <keys type="item" key="WE7_002_0_2202" value="Militia Bow" />
+  <keys type="item" key="WE1_006_0_2202" value="Militia Greatsword" />
+  <keys type="item" key="WE3_006_0_2202" value="Militia Battle Axe" />
+  <keys type="item" key="WE5_006_0_2202" value="Militia Scepter" />
+  <keys type="item" key="WE2_013_0_2202" value="Militia Warhammer" />
+  <keys type="item" key="WE0_034_0_2222" value="Cursed Sword" />
+  <keys type="item" key="WE4_026_0_2222" value="Cursed Dagger" />
+  <keys type="item" key="WE6_026_0_2222" value="Cursed Staff" />
+  <keys type="item" key="WE7_012_0_2222" value="Cursed Bow" />
+  <keys type="item" key="WE1_027_0_2222" value="Cursed Greatsword" />
+  <keys type="item" key="WE3_031_0_2222" value="Cursed Battle Axe" />
+  <keys type="item" key="WE5_027_0_2222" value="Cursed Scepter" />
+  <keys type="item" key="WE2_019_0_2222" value="Cursed Warhammer" />
+  <keys type="item" key="WE0_029_0_1251" value="Officer's Sword" />
+  <keys type="item" key="WE4_004_0_1251" value="Officer's Dagger" />
+  <keys type="item" key="WE6_004_0_1251" value="Officer's Staff" />
+  <keys type="item" key="WE7_002_0_1251" value="Officer's Bow" />
+  <keys type="item" key="WE1_006_0_1251" value="Officer's Greatsword" />
+  <keys type="item" key="WE3_006_0_1251" value="Officer's Battle Axe" />
+  <keys type="item" key="WE5_006_0_1251" value="Officer's Scepter" />
+  <keys type="item" key="WE6_026_0_1251" value="Officer's Warhammer" />
+  <keys type="item" key="WE0_003_0_2241" value="Garrison Sword" />
+  <keys type="item" key="WE4_016_0_2241" value="Garrison Dagger" />
+  <keys type="item" key="WE6_015_0_2241" value="Garrison Staff" />
+  <keys type="item" key="WE7_013_0_2241" value="Garrison Bow" />
+  <keys type="item" key="WE1_007_0_2241" value="Garrison Greatsword" />
+  <keys type="item" key="WE3_031_0_2241" value="Garrison Battle Axe" />
+  <keys type="item" key="WE5_008_0_2241" value="Garrison Scepter" />
+  <keys type="item" key="WE2_010_0_2241" value="Garrison Warhammer" />
+  <keys type="item" key="WE0_012_0_2251" value="Firmament Sword" />
+  <keys type="item" key="WE4_016_0_2251" value="Firmament Dagger" />
+  <keys type="item" key="WE6_015_0_2251" value="Firmament Staff" />
+  <keys type="item" key="WE7_013_0_2251" value="Firmament Bow" />
+  <keys type="item" key="WE1_007_0_2251" value="Firmament Greatsword" />
+  <keys type="item" key="WE3_008_0_2251" value="Firmament Battle Axe" />
+  <keys type="item" key="WE5_008_0_2251" value="Firmament Scepter" />
+  <keys type="item" key="WE2_017_0_2251" value="Firmament Warhammer" />
+  <keys type="item" key="WE0_015_0_1141" value="Snowfield Sword" />
+  <keys type="item" key="WE4_002_0_1141" value="Snowfield Dagger" />
+  <keys type="item" key="WE6_011_0_1141" value="Snowfield Staff" />
+  <keys type="item" key="WE7_003_0_1141" value="Snowfield Bow" />
+  <keys type="item" key="WE1_004_0_1141" value="Snowfield Greatsword" />
+  <keys type="item" key="WE3_020_0_1141" value="Snowfield Battle Axe" />
+  <keys type="item" key="WE5_004_0_1141" value="Snowfield Scepter" />
+  <keys type="item" key="WE2_006_0_1141" value="Snowfield Warhammer" />
+  <keys type="item" key="WE0_006_0_3281" value="Frozen Sword" />
+  <keys type="item" key="WE4_018_0_3281" value="Frozen Dagger" />
+  <keys type="item" key="WE6_013_0_3281" value="Frozen Staff" />
+  <keys type="item" key="WE7_006_0_3281" value="Frozen Bow" />
+  <keys type="item" key="WE1_009_0_3281" value="Frozen Greatsword" />
+  <keys type="item" key="WE3_017_0_3281" value="Frozen Battle Axe" />
+  <keys type="item" key="WE5_009_0_3281" value="Frozen Scepter" />
+  <keys type="item" key="WE2_012_0_3281" value="Frozen Warhammer" />
+  <keys type="item" key="WE0_012_0_2252" value="Titan Sword" />
+  <keys type="item" key="WE4_016_0_2252" value="Titan Dagger" />
+  <keys type="item" key="WE6_015_0_2252" value="Titan Staff" />
+  <keys type="item" key="WE7_013_0_2252" value="Titan Bow" />
+  <keys type="item" key="WE1_007_0_2252" value="Titan Greatsword" />
+  <keys type="item" key="WE3_008_0_2252" value="Titan Battle Axe" />
+  <keys type="item" key="WE5_008_0_2252" value="Titan Scepter" />
+  <keys type="item" key="WE2_017_0_2252" value="Titan Warhammer" />
+  <keys type="item" key="WE0_006_0_3283" value="Attaius Sword" />
+  <keys type="item" key="WE4_018_0_3283" value="Attaius Dagger" />
+  <keys type="item" key="WE6_013_0_3283" value="Attaius Staff" />
+  <keys type="item" key="WE7_006_0_3283" value="Attaius Bow" />
+  <keys type="item" key="WE1_009_0_3283" value="Attaius Greatsword" />
+  <keys type="item" key="WE3_017_0_3283" value="Attaius Battle Axe" />
+  <keys type="item" key="WE5_009_0_3283" value="Attaius Scepter" />
+  <keys type="item" key="WE2_012_0_3283" value="Attaius Warhammer" />
+  <keys type="item" key="WE0_012_0_1301" value="Squire's Sword" />
+  <keys type="item" key="WE4_016_0_1301" value="Squire's Dagger" />
+  <keys type="item" key="WE6_015_0_1301" value="Squire's Staff" />
+  <keys type="item" key="WE7_013_0_1301" value="Squire's Bow" />
+  <keys type="item" key="WE1_007_0_1301" value="Squire's Greatsword" />
+  <keys type="item" key="WE3_008_0_1301" value="Squire's Battle Axe" />
+  <keys type="item" key="WE5_008_0_1301" value="Squire's Scepter" />
+  <keys type="item" key="WE2_017_0_1301" value="Squire's Warhammer" />
+  <keys type="item" key="WE0_006_0_2301" value="Merumi Sword" />
+  <keys type="item" key="WE4_018_0_2301" value="Merumi Dagger" />
+  <keys type="item" key="WE6_013_0_2301" value="Merumi Staff" />
+  <keys type="item" key="WE7_006_0_2301" value="Merumi Bow" />
+  <keys type="item" key="WE1_009_0_2301" value="Merumi Greatsword" />
+  <keys type="item" key="WE3_009_0_2301" value="Merumi Battle Axe" />
+  <keys type="item" key="WE5_009_0_2301" value="Merumi Scepter" />
+  <keys type="item" key="WE2_009_0_2301" value="Merumi Warhammer" />
+  <keys type="item" key="WE0_003_0_2261" value="Windstriker Sword" />
+  <keys type="item" key="WE4_010_0_2261" value="Windstriker Dagger" />
+  <keys type="item" key="WE6_007_0_2261" value="Windstriker Staff" />
+  <keys type="item" key="WE7_019_0_2261" value="Windstriker Bow" />
+  <keys type="item" key="WE1_015_0_2261" value="Windstriker Greatsword" />
+  <keys type="item" key="WE3_017_0_2261" value="Windstriker Battle Axe" />
+  <keys type="item" key="WE5_010_0_2261" value="Windstriker Scepter" />
+  <keys type="item" key="WE2_012_0_2261" value="Windstriker Warhammer" />
+  <keys type="item" key="WE0_003_0_3282" value="Corrupted Sword" />
+  <keys type="item" key="WE4_010_0_3282" value="Corrupted Dagger" />
+  <keys type="item" key="WE6_007_0_3282" value="Corrupted Staff" />
+  <keys type="item" key="WE7_019_0_3282" value="Corrupted Bow" />
+  <keys type="item" key="WE1_015_0_3282" value="Corrupted Greatsword" />
+  <keys type="item" key="WE3_017_0_3282" value="Corrupted Battle Axe" />
+  <keys type="item" key="WE5_010_0_3282" value="Corrupted Scepter" />
+  <keys type="item" key="WE2_012_0_3282" value="Corrupted Warhammer" />
+  <keys type="item" key="WE0_006_0_1351" value="Lord Knight's Sword" />
+  <keys type="item" key="WE4_018_0_1351" value="Lord Knight's Dagger" />
+  <keys type="item" key="WE6_013_0_1351" value="Lord Knight's Staff" />
+  <keys type="item" key="WE7_006_0_1351" value="Lord Knight's Bow" />
+  <keys type="item" key="WE1_009_0_1351" value="Lord Knight's Greatsword" />
+  <keys type="item" key="WE3_009_0_1351" value="Lord Knight's Battle Axe" />
+  <keys type="item" key="WE5_009_0_1351" value="Lord Knight's Scepter" />
+  <keys type="item" key="WE2_009_0_1351" value="Lord Knight's Warhammer" />
+  <keys type="item" key="WE0_018_0_2351" value="Frost Guard Sword" />
+  <keys type="item" key="WE4_019_0_2351" value="Frost Guard Dagger" />
+  <keys type="item" key="WE6_014_0_2351" value="Frost Guard Staff" />
+  <keys type="item" key="WE7_015_0_2351" value="Frost Guard Bow" />
+  <keys type="item" key="WE1_011_0_2351" value="Frost Guard Greatsword" />
+  <keys type="item" key="WE3_011_0_2351" value="Frost Guard Battle Axe" />
+  <keys type="item" key="WE5_011_0_2351" value="Frost Guard Scepter" />
+  <keys type="item" key="WE2_030_0_2351" value="Frost Guard Warhammer" />
+  <keys type="item" key="WE0_018_0_3341" value="Crokhoon Sword" />
+  <keys type="item" key="WE4_019_0_3341" value="Crokhoon Dagger" />
+  <keys type="item" key="WE6_014_0_3341" value="Crokhoon Staff" />
+  <keys type="item" key="WE7_015_0_3341" value="Crokhoon Bow" />
+  <keys type="item" key="WE1_011_0_3341" value="Crokhoon Greatsword" />
+  <keys type="item" key="WE3_011_0_3341" value="Crokhoon Battle Axe" />
+  <keys type="item" key="WE5_011_0_3341" value="Crokhoon Scepter" />
+  <keys type="item" key="WE2_030_0_3341" value="Crokhoon Warhammer" />
+  <keys type="item" key="WE0_005_0_3301" value="Rondo's Sword" />
+  <keys type="item" key="WE4_009_0_3301" value="Rondo's Dagger" />
+  <keys type="item" key="WE6_008_0_3301" value="Aisha's Staff" />
+  <keys type="item" key="WE7_014_0_3301" value="Aisha's Bow" />
+  <keys type="item" key="WE1_012_0_3301" value="Rondo's Greatsword" />
+  <keys type="item" key="WE3_029_0_3301" value="Cruel Frost Command Battle Axe" />
+  <keys type="item" key="WE5_012_0_3301" value="Aisha's Scepter" />
+  <keys type="item" key="WE2_012_0_3301" value="Cruel Frost Command Warhammer" />
+  <keys type="item" key="WE0_018_0_1401" value="Grand Knight Sword" />
+  <keys type="item" key="WE4_019_0_1401" value="Grand Knight Dagger" />
+  <keys type="item" key="WE6_014_0_1401" value="Grand Knight Staff" />
+  <keys type="item" key="WE7_015_0_1401" value="Grand Knight Bow" />
+  <keys type="item" key="WE1_011_0_1401" value="Grand Knight Greatsword" />
+  <keys type="item" key="WE3_011_0_1401" value="Grand Knight Battle Axe" />
+  <keys type="item" key="WE5_011_0_1401" value="Grand Knight Scepter" />
+  <keys type="item" key="WE2_030_0_1401" value="Grand Knight Warhammer" />
+  <keys type="item" key="WE0_019_0_2401" value="Fallen Legion Sword" />
+  <keys type="item" key="WE4_011_0_2401" value="Fallen Legion Dagger" />
+  <keys type="item" key="WE6_012_0_2401" value="Fallen Legion Staff" />
+  <keys type="item" key="WE7_016_0_2401" value="Fallen Legion Bow" />
+  <keys type="item" key="WE1_017_0_2401" value="Fallen Legion Greatsword" />
+  <keys type="item" key="WE3_011_0_2401" value="Fallen Legion Battle Axe" />
+  <keys type="item" key="WE5_014_0_2401" value="Fallen Legion Scepter" />
+  <keys type="item" key="WE2_030_0_2401" value="Fallen Legion Warhammer" />
+  <keys type="item" key="WE0_003_0_2271" value="Pegasus Knight Sword" />
+  <keys type="item" key="WE4_010_0_2271" value="Pegasus Knight Dagger" />
+  <keys type="item" key="WE6_007_0_2271" value="Pegasus Knight Staff" />
+  <keys type="item" key="WE7_019_0_2271" value="Pegasus Knight Bow" />
+  <keys type="item" key="WE1_015_0_2271" value="Pegasus Knight Greatsword" />
+  <keys type="item" key="WE3_017_0_2271" value="Pegasus Knight Battle Axe" />
+  <keys type="item" key="WE5_010_0_2271" value="Pegasus Knight Scepter" />
+  <keys type="item" key="WE2_012_0_2271" value="Pegasus Knight Warhammer" />
+  <keys type="item" key="WE0_009_0_3351" value="Supreme Commander Sword" />
+  <keys type="item" key="WE4_008_0_3351" value="Supreme Commander Dagger" />
+  <keys type="item" key="WE6_018_0_3351" value="Supreme Commander Staff" />
+  <keys type="item" key="WE7_018_0_3351" value="Supreme Commander Bow" />
+  <keys type="item" key="WE1_029_0_3351" value="Supreme Commander Greatsword" />
+  <keys type="item" key="WE3_011_0_3351" value="Supreme Commander Battle Axe" />
+  <keys type="item" key="WE5_018_0_3351" value="Supreme Commander Scepter" />
+  <keys type="item" key="WE2_030_0_3351" value="Supreme Commander Warhammer" />
+  <keys type="item" key="WE9_001_0_1151" value="Infantry Crossbow" />
+  <keys type="item" key="WE9_001_0_2151" value="Militia Crossbow" />
+  <keys type="item" key="WE9_002_0_2151" value="Detachment Crossbow" />
+  <keys type="item" key="WE9_003_0_2201" value="Count's Crossbow" />
+  <keys type="item" key="WE9_003_0_2205" value="Bakir's Crossbow" />
+  <keys type="item" key="WE9_003_0_2405" value="Garrison Crossbow" />
+  <keys type="item" key="WE9_004_0_2251" value="Titan Crossbow" />
+  <keys type="item" key="WE9_007_0_4001" value="Attaius Crossbow" />
+  <keys type="item" key="WE9_005_0_2252" value="Yeti Crossbow" />
+  <keys type="item" key="WE9_005_0_2251" value="Frozen Crossbow" />
+  <keys type="item" key="WE9_006_0_3301" value="Zealot's Crossbow" />
+  <keys type="item" key="WE9_006_0_2351" value="Corrupted Crossbow" />
+  <keys type="item" key="WE9_007_0_3301" value="Frost Guard Officer's Crossbow" />
+  <keys type="item" key="WE9_002_0_1251" value="Frost Command Crossbow" />
+  <keys type="item" key="WE8_001_0_1081" value="Alex's Old Lance" />
+  <keys type="item" key="WE8_001_0_1151" value="Infantry Lance" />
+  <keys type="item" key="WE8_001_0_1082" value="Dragon Knight Skirmish Lance" />
+  <keys type="item" key="WE8_003_0_2201" value="Militia Lance" />
+  <keys type="item" key="WE8_003_0_2202" value="Count's Lance" />
+  <keys type="item" key="WE8_003_0_2205" value="Official's Lance" />
+  <keys type="item" key="WE8_003_0_2305" value="Garrison Lance" />
+  <keys type="item" key="WE8_003_0_2203" value="Titan Glaive" />
+  <keys type="item" key="WE8_007_0_4001" value="Attaius Glaive" />
+  <keys type="item" key="WE8_003_0_2301" value="Yeti Lance" />
+  <keys type="item" key="WE8_003_0_2204" value="Frozen Lance" />
+  <keys type="item" key="WE8_006_0_3301" value="Zealot's Lance" />
+  <keys type="item" key="WE8_006_0_2351" value="Corrupted Lance" />
+  <keys type="item" key="WE8_007_0_3301" value="Frost Guard Officer's Lance" />
+  <keys type="item" key="WE8_002_0_1251" value="Frost Command Lance" />
+  <keys type="item" key="WE0_107_2_99999" value="Guide's Sword" />
+  <keys type="item" key="WE1_005_3_99999" value="Guide's Greatsword" />
+  <keys type="item" key="WE4_109_1_99999" value="Guide's Blue Dragon Dagger" />
+  <keys type="item" key="WE4_111_2_99999" value="Guide's Red Dragon Dagger" />
+  <keys type="item" key="WE5_008_2_99999" value="Guide's Scepter" />
+  <keys type="item" key="WE6_106_2_99999" value="Guide's Staff" />
+  <keys type="item" key="WE8_006_3_99999" value="TEMP - Not Used" />
+  <keys type="item" key="WE9_006_3_99999" value="TEMP - Not Used" />
+  <keys type="item" key="WE9_006_3_99998" value="TEMP - Not Used" />
+  <keys type="item" key="WE9_006_3_99997" value="TEMP - Not Used" />
+  <keys type="item" key="WE9_006_3_99996" value="TEMP - Not Used" />
+  <keys type="item" key="WE9_006_3_99995" value="TEMP - Not Used" />
+  <keys type="item" key="WE9_006_3_99994" value="TEMP - Not Used" />
+  <keys type="item" key="WE0_107_2_99995" value="Fire Sword" />
+  <keys type="item" key="WE0_107_2_99996" value="Ice Sword" />
+  <keys type="item" key="WE0_107_2_99997" value="Shimmering Sword" />
+  <keys type="item" key="WE0_107_2_99998" value="Count's Sword" />
+  <keys type="item" key="WE0_812_0_2151" value="Executioner Sword" />
+  <keys type="item" key="WE4_812_0_2151" value="Executioner Dagger" />
+  <keys type="item" key="WE6_812_0_2151" value="Executioner Staff" />
+  <keys type="item" key="WE1_812_0_2151" value="Executioner Greatsword" />
+  <keys type="item" key="WE5_812_0_2151" value="Executioner Scepter" />
+  <keys type="item" key="WE0_822_0_2251" value="Fabled Sword" />
+  <keys type="item" key="WE4_822_0_2251" value="Fabled Dagger" />
+  <keys type="item" key="WE6_822_0_2251" value="Fabled Staff" />
+  <keys type="item" key="WE1_822_0_2251" value="Fabled Greatsword" />
+  <keys type="item" key="WE5_822_0_2251" value="Fabled Scepter" />
+  <keys type="item" key="WE0_823_0_3251" value="Veteran's Sword" />
+  <keys type="item" key="WE4_823_0_3251" value="Veteran's Dagger" />
+  <keys type="item" key="WE6_823_0_3251" value="Veteran's Staff" />
+  <keys type="item" key="WE1_823_0_3251" value="Veteran's Greatsword" />
+  <keys type="item" key="WE5_823_0_3251" value="Veteran's Scepter" />
+  <keys type="item" key="WE0_711_0_1101" value="Copper Sword" />
+  <keys type="item" key="WE1_711_0_1101" value="Copper Greatsword" />
+  <keys type="item" key="WE4_711_0_1101" value="Copper Dagger" />
+  <keys type="item" key="WE5_711_0_1101" value="Copper Scepter" />
+  <keys type="item" key="WE6_711_0_1101" value="Copper Staff" />
+  <keys type="item" key="WE0_721_0_2201" value="Steel Sword" />
+  <keys type="item" key="WE1_721_0_2201" value="Steel Greatsword" />
+  <keys type="item" key="WE4_721_0_2201" value="Steel Dagger" />
+  <keys type="item" key="WE5_721_0_2201" value="Steel Scepter" />
+  <keys type="item" key="WE6_721_0_2201" value="Steel Staff" />
+  <keys type="item" key="WE0_722_0_2201" value="Tempered Steel Sword" />
+  <keys type="item" key="WE1_722_0_2201" value="Tempered Steel Greatsword" />
+  <keys type="item" key="WE4_722_0_2201" value="Tempered Steel Dagger" />
+  <keys type="item" key="WE5_722_0_2201" value="Tempered Steel Scepter" />
+  <keys type="item" key="WE6_722_0_2201" value="Tempered Steel Staff" />
+  <keys type="item" key="WE0_731_0_3301" value="Mithril Sword" />
+  <keys type="item" key="WE1_731_0_3301" value="Mithril Greatsword" />
+  <keys type="item" key="WE4_731_0_3301" value="Mithril Dagger" />
+  <keys type="item" key="WE5_731_0_3301" value="Mithril Scepter" />
+  <keys type="item" key="WE6_731_0_3301" value="Mithril Staff" />
+  <keys type="item" key="WE0_732_0_3301" value="Tempered Mithril Sword" />
+  <keys type="item" key="WE1_732_0_3301" value="Tempered Mithril Greatsword" />
+  <keys type="item" key="WE4_732_0_3301" value="Tempered Mithril Dagger" />
+  <keys type="item" key="WE5_732_0_3301" value="Tempered Mithril Scepter" />
+  <keys type="item" key="WE6_732_0_3301" value="Tempered Mithril Staff" />
+  <keys type="item" key="WE0_733_0_3301" value="Shining Mithril Sword" />
+  <keys type="item" key="WE1_733_0_3301" value="Shining Mithril Greatsword" />
+  <keys type="item" key="WE4_733_0_3301" value="Shining Mithril Dagger" />
+  <keys type="item" key="WE5_733_0_3301" value="Shining Mithril Scepter" />
+  <keys type="item" key="WE6_733_0_3301" value="Shining Mithril Staff" />
+  <keys type="item" key="WE0_021_0_9001" value="Extracting Sword" />
+  <keys type="item" key="WE4_001_0_9001" value="Extracting Dagger" />
+  <keys type="item" key="WE6_003_0_9001" value="Extracting Staff" />
+  <keys type="item" key="WE7_010_0_9001" value="Extracting Bow" />
+  <keys type="item" key="WE1_003_0_9001" value="Extracting Greatsword" />
+  <keys type="item" key="WE3_010_0_9001" value="Extracting Battle Axe" />
+  <keys type="item" key="WE5_003_0_9001" value="Extracting Scepter" />
+  <keys type="item" key="WE2_005_0_9001" value="Extracting Warhammer" />
+  <keys type="item" key="boxWE0_015_0_1151" value="Espada da Infantaria" />
+  <keys type="item" key="boxWE4_002_0_1151" value="Adaga da Infantaria" />
+  <keys type="item" key="boxWE6_011_0_1151" value="Cajado da Infantaria" />
+  <keys type="item" key="boxWE1_004_0_1151" value="Montante da Infantaria" />
+  <keys type="item" key="boxWE5_004_0_1151" value="Cetro da Infantaria" />
+  <keys type="item" key="boxWE0_007_0_2151" value="Espada do Bandoleiro" />
+  <keys type="item" key="boxWE4_015_0_2151" value="Adaga do Bandoleiro" />
+  <keys type="item" key="boxWE6_000_0_2151" value="Cajado do Bandoleiro" />
+  <keys type="item" key="boxWE1_005_0_2151" value="Montante do Bandoleiro" />
+  <keys type="item" key="boxWE5_005_0_2151" value="Cetro do Bandoleiro" />
+  <keys type="item" key="boxWE0_007_0_1201" value="Espada Aguerrida" />
+  <keys type="item" key="boxWE4_015_0_1201" value="Adaga Aguerrida" />
+  <keys type="item" key="boxWE6_000_0_1201" value="Cajado Aguerrido" />
+  <keys type="item" key="boxWE1_005_0_1201" value="Montante Aguerrido" />
+  <keys type="item" key="boxWE5_005_0_1201" value="Cetro Aguerrido" />
+  <keys type="item" key="boxWE0_029_0_2201" value="Espada de Vampiro" />
+  <keys type="item" key="boxWE4_004_0_2201" value="Adaga de Vampiro" />
+  <keys type="item" key="boxWE6_004_0_2201" value="Cajado Vampírico" />
+  <keys type="item" key="boxWE1_006_0_2201" value="Montante Vampírico" />
+  <keys type="item" key="boxWE5_006_0_2201" value="Cetro Vampírico" />
+  <keys type="item" key="boxWE0_029_0_1251" value="Espada do Oficial" />
+  <keys type="item" key="boxWE4_004_0_1251" value="Adaga do Oficial" />
+  <keys type="item" key="boxWE6_004_0_1251" value="Cajado do Oficial" />
+  <keys type="item" key="boxWE1_006_0_1251" value="Montante do Oficial" />
+  <keys type="item" key="boxWE5_006_0_1251" value="Cetro do Oficial" />
+  <keys type="item" key="boxWE0_012_0_2251" value="Espada dos Céus" />
+  <keys type="item" key="boxWE4_016_0_2251" value="Adaga dos Céus" />
+  <keys type="item" key="boxWE6_015_0_2251" value="Cajado dos Céus" />
+  <keys type="item" key="boxWE1_007_0_2251" value="Montante dos Céus" />
+  <keys type="item" key="boxWE5_008_0_2251" value="Cetro dos Céus" />
+  <keys type="item" key="boxWE0_012_0_1301" value="Espada do Escudeiro" />
+  <keys type="item" key="boxWE4_016_0_1301" value="Adaga do Escudeiro" />
+  <keys type="item" key="boxWE6_015_0_1301" value="Cajado do Escudeiro" />
+  <keys type="item" key="boxWE1_007_0_1301" value="Montante do Escudeiro" />
+  <keys type="item" key="boxWE5_008_0_1301" value="Cetro do Escudeiro" />
+  <keys type="item" key="boxWE0_006_0_2301" value="Espada de Merumi" />
+  <keys type="item" key="boxWE4_018_0_2301" value="Adaga de Merumi" />
+  <keys type="item" key="boxWE6_013_0_2301" value="Cajado de Merumi" />
+  <keys type="item" key="boxWE1_009_0_2301" value="Montante de Merumi" />
+  <keys type="item" key="boxWE5_009_0_2301" value="Cetro de Merumi" />
+  <keys type="item" key="boxWE0_812_0_2151" value="Espada do Executor" />
+  <keys type="item" key="boxWE4_812_0_2151" value="Adaga do Executor" />
+  <keys type="item" key="boxWE6_812_0_2151" value="Cajado do Executor" />
+  <keys type="item" key="boxWE1_812_0_2151" value="Montante do Executor" />
+  <keys type="item" key="boxWE5_812_0_2151" value="Cetro do Executor" />
+  <keys type="item" key="boxWE0_822_0_2251" value="Espada Fabulosa" />
+  <keys type="item" key="boxWE4_822_0_2251" value="Adaga Fabulosa" />
+  <keys type="item" key="boxWE6_822_0_2251" value="Cajado Fabuloso" />
+  <keys type="item" key="boxWE1_822_0_2251" value="Montante Fabuloso" />
+  <keys type="item" key="boxWE5_822_0_2251" value="Cetro Fabuloso" />
+  <keys type="item" key="boxWE0_823_0_3251" value="Espada do Veterano" />
+  <keys type="item" key="boxWE4_823_0_3251" value="Adaga do Veterano" />
+  <keys type="item" key="boxWE6_823_0_3251" value="Cajado do Veterano" />
+  <keys type="item" key="boxWE1_823_0_3251" value="Montante do Veterano" />
+  <keys type="item" key="boxWE5_823_0_3251" value="Cetro do Veterano" />
+  <keys type="item" key="boxWE9_001_0_1151" value="Besta Simples de Cavaleiro" />
+  <keys type="item" key="boxWE9_002_0_2151" value="Besta Premium do Oficial" />
+  <keys type="item" key="boxWE8_001_0_1082" value="Lança de Combate do Cavaleiro do Dragão" />
+  <keys type="item" key="boxWE8_003_0_2201" value="Lança Premium do Oficial" />
+  <keys type="item" key="pvpWE0_001_2_2528" value="Modest Hunter Sword" />
+  <keys type="item" key="pvpWE4_001_2_2528" value="Modest Hunter Dagger" />
+  <keys type="item" key="pvpWE6_001_2_2528" value="Modest Hunter Staff" />
+  <keys type="item" key="pvpWE1_001_2_2528" value="Modest Hunter Greatsword" />
+  <keys type="item" key="pvpWE5_001_2_2528" value="Modest Hunter Scepter" />
+  <keys type="item" key="pvpWE9_002_2_2528" value="Modest Hunter Crossbow" />
+  <keys type="item" key="pvpWE8_002_2_2528" value="Modest Hunter Lance" />
+  <keys type="item" key="pvpWE0_001_2_3033" value="Austere Hunter Sword" />
+  <keys type="item" key="pvpWE4_001_2_3033" value="Austere Hunter Dagger" />
+  <keys type="item" key="pvpWE6_001_2_3033" value="Austere Hunter Staff" />
+  <keys type="item" key="pvpWE1_001_2_3033" value="Austere Hunter Greatsword" />
+  <keys type="item" key="pvpWE5_001_2_3033" value="Austere Hunter Scepter" />
+  <keys type="item" key="pvpWE9_002_2_3033" value="Austere Hunter Crossbow" />
+  <keys type="item" key="pvpWE8_002_2_3033" value="Austere Hunter Lance" />
+  <keys type="item" key="pvpWE0_001_2_3538" value="Complex Hunter Sword" />
+  <keys type="item" key="pvpWE4_001_2_3538" value="Complex Hunter Dagger" />
+  <keys type="item" key="pvpWE6_001_2_3538" value="Complex Hunter Staff" />
+  <keys type="item" key="pvpWE1_001_2_3538" value="Complex Hunter Greatsword" />
+  <keys type="item" key="pvpWE5_001_2_3538" value="Complex Hunter Scepter" />
+  <keys type="item" key="pvpWE9_002_2_3538" value="Complex Hunter Crossbow" />
+  <keys type="item" key="pvpWE8_002_2_3538" value="Complex Hunter Lance" />
+  <keys type="item" key="pvpWE0_001_2_4043" value="Ornate Hunter Sword" />
+  <keys type="item" key="pvpWE4_001_2_4043" value="Ornate Hunter Dagger" />
+  <keys type="item" key="pvpWE6_001_2_4043" value="Ornate Hunter Staff" />
+  <keys type="item" key="pvpWE1_001_2_4043" value="Ornate Hunter Greatsword" />
+  <keys type="item" key="pvpWE5_001_2_4043" value="Ornate Hunter Scepter" />
+  <keys type="item" key="pvpWE9_002_2_4043" value="Ornate Hunter Crossbow" />
+  <keys type="item" key="pvpWE8_002_2_4043" value="Ornate Hunter Lance" />
+  <keys type="item" key="WE9_007_0_3302" value="Ankelion's Crossbow" />
+  <keys type="item" key="WE0_009_0_4001" value="Tranua Sword" />
+  <keys type="item" key="WE4_009_0_4001" value="Tranua Dagger" />
+  <keys type="item" key="WE6_009_0_4001" value="Tranua Staff" />
+  <keys type="item" key="WE1_009_0_4001" value="Tranua Greatsword" />
+  <keys type="item" key="WE5_009_0_4001" value="Tranua Scepter" />
+  <keys type="item" key="WE8_007_3601" value="Ashuram's Glaive" />
+  <keys type="item" key="WE0_003_0_3502" value="Merumi Chieftain's Sword" />
+  <keys type="item" key="WE4_003_0_3502" value="Merumi Chieftain's Dagger" />
+  <keys type="item" key="WE6_003_0_3502" value="Merumi Chieftain's Staff" />
+  <keys type="item" key="WE1_003_0_3502" value="Merumi Chieftain's Greatsword" />
+  <keys type="item" key="WE5_003_0_3502" value="Merumi Chieftain's Scepter" />
+  <keys type="item" key="WE2_010_0_0000" value="Skeleton Soldier's Axe" />
+  <keys type="item" key="WE7_002_0_0003" value="Skeleton Archer Bow" />
+  <keys type="item" key="WE0_007_0_2152" value="Death's Sword" />
+  <keys type="item" key="WE4_015_0_2152" value="Death's Dagger" />
+  <keys type="item" key="WE6_000_0_2152" value="Death's Staff" />
+  <keys type="item" key="WE7_011_0_2152" value="Death's Bow" />
+  <keys type="item" key="WE1_005_0_2152" value="Death's Greatsword" />
+  <keys type="item" key="WE3_005_0_2152" value="Death's Battle Axe" />
+  <keys type="item" key="WE5_005_0_2152" value="Death's Scepter" />
+  <keys type="item" key="WE2_007_0_2152" value="Death's Warhammer" />
+  <keys type="item" key="WE0_029_0_2203" value="Count's Sword" />
+  <keys type="item" key="WE4_004_0_2203" value="Count's Dagger" />
+  <keys type="item" key="WE6_004_0_2203" value="Count's Staff" />
+  <keys type="item" key="WE7_002_0_2203" value="Count's Bow" />
+  <keys type="item" key="WE1_006_0_2203" value="Count's Greatsword" />
+  <keys type="item" key="WE3_006_0_2203" value="Count's Battle Axe" />
+  <keys type="item" key="WE5_006_0_2203" value="Count's Scepter" />
+  <keys type="item" key="WE2_013_0_2203" value="Count's Warhammer" />
+  <keys type="item" key="WE0_012_0_2253" value="Yeti Sword" />
+  <keys type="item" key="WE4_016_0_2253" value="Yeti Dagger" />
+  <keys type="item" key="WE6_015_0_2253" value="Yeti Staff" />
+  <keys type="item" key="WE7_013_0_2253" value="Yeti Bow" />
+  <keys type="item" key="WE1_007_0_2253" value="Yeti Greatsword" />
+  <keys type="item" key="WE3_008_0_2253" value="Yeti Battle Axe" />
+  <keys type="item" key="WE5_008_0_2253" value="Yeti Scepter" />
+  <keys type="item" key="WE2_017_0_2253" value="Yeti Warhammer" />
+  <keys type="item" key="WE0_006_0_2302" value="Zealot's Sword" />
+  <keys type="item" key="WE4_018_0_2302" value="Zealot's Dagger" />
+  <keys type="item" key="WE6_013_0_2302" value="Zealot's Staff" />
+  <keys type="item" key="WE7_006_0_2302" value="Zealot's Bow" />
+  <keys type="item" key="WE1_009_0_2302" value="Zealot's Greatsword" />
+  <keys type="item" key="WE3_009_0_2302" value="Zealot's Battle Axe" />
+  <keys type="item" key="WE5_009_0_2302" value="Zealot's Scepter" />
+  <keys type="item" key="WE2_009_0_2302" value="Zealot's Warhammer" />
+  <keys type="item" key="WE0_018_0_2352" value="Frost Guard Officer's Lance" />
+  <keys type="item" key="WE4_019_0_2352" value="Frost Guard Officer's Dagger" />
+  <keys type="item" key="WE6_014_0_2352" value="Frost Guard Officer's Staff" />
+  <keys type="item" key="WE7_015_0_2352" value="Frost Guard Officer's Bow" />
+  <keys type="item" key="WE1_011_0_2352" value="Frost Guard Officer's Greatsword" />
+  <keys type="item" key="WE3_011_0_2352" value="Frost Guard Officer's Battle Axe" />
+  <keys type="item" key="WE5_011_0_2352" value="Frost Guard Officer's Scepter" />
+  <keys type="item" key="WE2_030_0_2352" value="Frost Guard Officer's Warhammer" />
+  <keys type="item" key="WE0_019_0_2402" value="Izhora Officer's Sword" />
+  <keys type="item" key="WE4_011_0_2402" value="Izhora Officer's Dagger" />
+  <keys type="item" key="WE6_012_0_2402" value="Izhora Officer's Staff" />
+  <keys type="item" key="WE7_016_0_2402" value="Izhora Officer's Bow" />
+  <keys type="item" key="WE1_017_0_2402" value="Izhora Officer's Greatsword" />
+  <keys type="item" key="WE3_011_0_2402" value="Izhora Officer's Battle Axe" />
+  <keys type="item" key="WE5_014_0_2402" value="Izhora Officer's Scepter" />
+  <keys type="item" key="WE2_030_0_2402" value="Izhora Officer's Warhammer" />
+  <keys type="item" key="WE0_015_0_2103" value="Karasha Sword" />
+  <keys type="item" key="WE4_002_0_2103" value="Karasha Dagger" />
+  <keys type="item" key="WE6_011_0_2103" value="Karasha Staff" />
+  <keys type="item" key="WE7_003_0_2103" value="Karasha Bow" />
+  <keys type="item" key="WE1_004_0_2103" value="Karasha Greatsword" />
+  <keys type="item" key="WE3_020_0_2103" value="Karasha Battle Axe" />
+  <keys type="item" key="WE5_004_0_2103" value="Karasha Scepter" />
+  <keys type="item" key="WE2_006_0_2103" value="Karasha Warhammer" />
+  <keys type="item" key="WE9_006_0_2103" value="Karasha Crossbow" />
+  <keys type="item" key="WE8_006_0_2103" value="Karasha Lance" />
+  <keys type="item" key="WE9_004_0_1351" value="Izhora Officer's Crossbow" />
+  <keys type="item" key="WE9_004_0_2351" value="Supreme Commander Crossbow" />
+  <keys type="item" key="WE8_006_0_0000" value="Izhora Officer's Lance" />
+  <keys type="item" key="WE8_004_0_0000" value="Supreme Commander Lance" />
+  <keys type="item" key="WE0_007_0_2153" value="Capital Guard Sword" />
+  <keys type="item" key="WE4_015_0_2153" value="Capital Guard Dagger" />
+  <keys type="item" key="WE6_000_0_2153" value="Capital Guard Staff" />
+  <keys type="item" key="WE7_011_0_2153" value="Capital Guard Bow" />
+  <keys type="item" key="WE1_005_0_2153" value="Capital Guard Greatsword" />
+  <keys type="item" key="WE3_005_0_2153" value="Capital Guard Battle Axe" />
+  <keys type="item" key="WE5_005_0_2153" value="Capital Guard Scepter" />
+  <keys type="item" key="WE2_007_0_2153" value="Capital Guard Warhammer" />
+  <keys type="item" key="WE9_004_0_3351" value="Jumawu's Crossbow" />
+  <keys type="item" key="WE8_006_0_3351" value="Jumawu's Lance" />
+  <keys type="item" key="WE0_005_0_3401" value="Chieftain Keron's Sword" />
+  <keys type="item" key="WE4_009_0_3401" value="Chieftain Keron's Dagger" />
+  <keys type="item" key="WE6_008_0_3401" value="Chieftain Keron's Staff" />
+  <keys type="item" key="WE1_012_0_3401" value="Chieftain Keron's Greatsword" />
+  <keys type="item" key="WE5_012_0_3401" value="Chieftain Keron's Scepter" />
+  <keys type="item" key="WE0_007_0_2151_EV" value="Marauding Knight's Sword" />
+  <keys type="item" key="WE4_015_0_2151_EV" value="Marauding Knight's Dagger" />
+  <keys type="item" key="WE6_000_0_2151_EV" value="Marauding Knight's Staff" />
+  <keys type="item" key="WE1_005_0_2151_EV" value="Marauding Knight's Greatsword" />
+  <keys type="item" key="WE5_005_0_2151_EV" value="Marauding Knight's Scepter" />
+  <keys type="item" key="WE0_012_0_2251_EV" value="Firmament Sword" />
+  <keys type="item" key="WE4_016_0_2251_EV" value="Firmament Dagger" />
+  <keys type="item" key="WE6_015_0_2251_EV" value="Firmament Staff" />
+  <keys type="item" key="WE1_007_0_2251_EV" value="Firmament Greatsword" />
+  <keys type="item" key="WE5_008_0_2251_EV" value="Firmament Scepter" />
+  <keys type="item" key="boxWE0_006_0_2301_EV" value="Espada de Merumi" />
+  <keys type="item" key="boxWE4_018_0_2301_EV" value="Adaga de Merumi" />
+  <keys type="item" key="boxWE6_013_0_2301_EV" value="Cajado de Merumi" />
+  <keys type="item" key="boxWE1_009_0_2301_EV" value="Montante de Merumi" />
+  <keys type="item" key="boxWE5_009_0_2301_EV" value="Cetro de Merumi" />
+  <keys type="item" key="WE0_006_0_3281_EV" value="Frozen Sword" />
+  <keys type="item" key="WE4_018_0_3281_EV" value="Frozen Dagger" />
+  <keys type="item" key="WE6_013_0_3281_EV" value="Frozen Staff" />
+  <keys type="item" key="WE1_009_0_3281_EV" value="Frozen Greatsword" />
+  <keys type="item" key="WE5_009_0_3281_EV" value="Frozen Scepter" />
+  <keys type="item" key="WE0_003_0_3282_EV" value="Corrupted Sword" />
+  <keys type="item" key="WE4_010_0_3282_EV" value="Corrupted Dagger" />
+  <keys type="item" key="WE6_007_0_3282_EV" value="Corrupted Staff" />
+  <keys type="item" key="WE1_015_0_3282_EV" value="Corrupted Greatsword" />
+  <keys type="item" key="WE5_010_0_3282_EV" value="Corrupted Scepter" />
+  <keys type="item" key="WE0_007_0_2171_RE" value="Sword of Hope I" />
+  <keys type="item" key="WE4_015_0_2171_RE" value="Dagger of Hope I" />
+  <keys type="item" key="WE6_000_0_2171_RE" value="Staff of Hope I" />
+  <keys type="item" key="WE1_005_0_2171_RE" value="Greatsword of Hope I" />
+  <keys type="item" key="WE5_005_0_2171_RE" value="Scepter of Hope I" />
+  <keys type="item" key="WE0_007_0_2151_RE" value="Sword of Hope II" />
+  <keys type="item" key="WE4_015_0_2151_RE" value="Dagger of Hope II" />
+  <keys type="item" key="WE6_000_0_2151_RE" value="Staff of Hope II" />
+  <keys type="item" key="WE1_005_0_2151_RE" value="Greatsword of Hope II" />
+  <keys type="item" key="WE5_005_0_2151_RE" value="Scepter of Hope II" />
+  <keys type="item" key="WE0_007_0_1201_RE" value="Sword of Hope III" />
+  <keys type="item" key="WE4_015_0_1201_RE" value="Dagger of Hope III" />
+  <keys type="item" key="WE6_000_0_1201_RE" value="Staff of Hope III" />
+  <keys type="item" key="WE1_005_0_1201_RE" value="Greatsword of Hope III" />
+  <keys type="item" key="WE5_005_0_1201_RE" value="Scepter of Hope III" />
+  <keys type="item" key="WE0_012_0_2251_RE" value="Sword of Hope IV" />
+  <keys type="item" key="WE4_016_0_2251_RE" value="Dagger of Hope IV" />
+  <keys type="item" key="WE6_015_0_2251_RE" value="Staff of Hope IV" />
+  <keys type="item" key="WE1_007_0_2251_RE" value="Greatsword of Hope IV" />
+  <keys type="item" key="WE5_008_0_2251_RE" value="Scepter of Hope IV" />
+  <keys type="item" key="WE0_015_0_1141_RE" value="Sword of Hope V" />
+  <keys type="item" key="WE4_002_0_1141_RE" value="Dagger of Hope V" />
+  <keys type="item" key="WE6_011_0_1141_RE" value="Staff of Hope V" />
+  <keys type="item" key="WE1_004_0_1141_RE" value="Greatsword of Hope V" />
+  <keys type="item" key="WE5_004_0_1141_RE" value="Scepter of Hope V" />
+  <keys type="item" key="WE0_006_0_2301_RE" value="Sword of Hope VI" />
+  <keys type="item" key="WE4_018_0_2301_RE" value="Dagger of Hope VI" />
+  <keys type="item" key="WE6_013_0_2301_RE" value="Staff of Hope VI" />
+  <keys type="item" key="WE1_009_0_2301_RE" value="Greatsword of Hope VI" />
+  <keys type="item" key="WE5_009_0_2301_RE" value="Scepter of Hope VI" />
+  <keys type="item" key="WE0_018_0_2351_RE" value="Sword of Hope VII" />
+  <keys type="item" key="WE4_019_0_2351_RE" value="Dagger of Hope VII" />
+  <keys type="item" key="WE6_014_0_2351_RE" value="Staff of Hope VII" />
+  <keys type="item" key="WE1_011_0_2351_RE" value="Greatsword of Hope VII" />
+  <keys type="item" key="WE5_011_0_2351_RE" value="Scepter of Hope VII" />
+  <keys type="item" key="WE9_002_0_2151_RE" value="Detachment Crossbow" />
+  <keys type="item" key="WE8_003_0_2201_RE" value="Militia Lance" />
+  <keys type="item" key="WE9_005_0_2251_EV" value="Frozen Crossbow" />
+  <keys type="item" key="WE8_003_0_2204_EV" value="Frozen Lance" />
+  <keys type="item" key="WE0_015_0_1142" value="Snowfield Sword" />
+  <keys type="item" key="WE4_002_0_1142" value="Snowfield Dagger" />
+  <keys type="item" key="WE6_011_0_1142" value="Snowfield Staff" />
+  <keys type="item" key="WE7_003_0_1142" value="Snowfield Bow" />
+  <keys type="item" key="WE1_004_0_1142" value="Snowfield Greatsword" />
+  <keys type="item" key="WE3_020_0_1142" value="Snowfield Battle Axe" />
+  <keys type="item" key="WE5_004_0_1142" value="Snowfield Scepter" />
+  <keys type="item" key="WE2_006_0_1142" value="Snowfield Warhammer" />
+  <keys type="item" key="WE0_005_0_3501" value="Ruinous Sword" />
+  <keys type="item" key="WE4_009_0_3501" value="Ruinous Dagger" />
+  <keys type="item" key="WE6_008_0_3501" value="Ruinous Staff" />
+  <keys type="item" key="WE1_012_0_3501" value="Ruinous Greatsword" />
+  <keys type="item" key="WE5_012_0_3501" value="Ruinous Scepter" />
+  <keys type="item" key="WE9_002_0_3501" value="Ruinous Crossbow" />
+  <keys type="item" key="WE8_002_0_3501" value="Ruinous Lance" />
+  <keys type="item" key="WE0_733_0_3351" value="Shining Tempered Mithril Sword" />
+  <keys type="item" key="WE1_733_0_3351" value="Shining Tempered Mithril Greatsword" />
+  <keys type="item" key="WE4_733_0_3351" value="Shining Tempered Mithril Dagger" />
+  <keys type="item" key="WE5_733_0_3351" value="Shining Tempered Mithril Scepter" />
+  <keys type="item" key="WE6_733_0_3351" value="Shining Tempered Mithril Staff" />
+  <keys type="item" key="WE9_002_0_1351" value="Shining Tempered Mithril Crossbow" />
+  <keys type="item" key="WE8_002_0_1351" value="Shining Tempered Mithril Lance" />
+  <keys type="item" key="WE0_733_0_3401" value="Shining Turalium Sword" />
+  <keys type="item" key="WE1_733_0_3401" value="Shining Turalium Greatsword" />
+  <keys type="item" key="WE4_733_0_3401" value="Shining Turalium Dagger" />
+  <keys type="item" key="WE5_733_0_3401" value="Shining Turalium Scepter" />
+  <keys type="item" key="WE6_733_0_3401" value="Shining Turalium Staff" />
+  <keys type="item" key="WE9_002_0_1401" value="Shining Turalium Crossbow" />
+  <keys type="item" key="WE8_002_0_1401" value="Shining Turalium Lance" />
+  <keys type="item" key="WE0_006_0_3383" value="Attaius Sword" />
+  <keys type="item" key="WE4_018_0_3383" value="Attaius Dagger" />
+  <keys type="item" key="WE6_013_0_3383" value="Attaius Staff" />
+  <keys type="item" key="WE7_006_0_3383" value="Attaius Bow" />
+  <keys type="item" key="WE1_009_0_3383" value="Attaius Greatsword" />
+  <keys type="item" key="WE3_017_0_3383" value="Attaius Battle Axe" />
+  <keys type="item" key="WE5_009_0_3383" value="Attaius Scepter" />
+  <keys type="item" key="WE2_012_0_3383" value="Attaius Warhammer" />
+  <keys type="item" key="WE9_006_0_2103_qu" value="Karasha Old Crossbow" />
+  <keys type="item" key="WE8_006_0_2103_qu" value="Karasha Old Lance" />
+  <keys type="item" key="BX_WE0_018_0_2351" value="Espada Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE4_019_0_2351" value="Adaga Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE6_014_0_2351" value="Cajado Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE7_015_0_2351" value="Arco Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE1_011_0_2351" value="Montante Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE5_011_0_2351" value="Cetro Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE9_007_0_3301" value="Besta Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE8_007_0_3301" value="Lança Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE0_005_0_3301" value="Espada Esmerada dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE4_009_0_3301" value="Adaga Esmerada dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE6_008_0_3301" value="Cajado Esmerado dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE7_014_0_3301" value="Arco Esmerado dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE1_012_0_3301" value="Montante Esmerado dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE5_012_0_3301" value="Cetro Esmerado dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE9_002_0_1251" value="Besta Esmerada dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE8_002_0_1251" value="Lança Afiada dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE0_019_0_2402" value="Espada dos Comerciantes da Lua Crescente Temperada" />
+  <keys type="item" key="BX_WE4_011_0_2402" value="Adaga dos Comerciantes da Lua Crescente Temperada" />
+  <keys type="item" key="BX_WE6_012_0_2402" value="Cajado dos Comerciantes da Lua Crescente Temperado" />
+  <keys type="item" key="BX_WE7_016_0_2402" value="Arco dos Comerciantes da Lua Crescente Temperado" />
+  <keys type="item" key="BX_WE1_017_0_2402" value="Montante dos Comerciantes da Lua Crescente Temperado" />
+  <keys type="item" key="BX_WE5_014_0_2402" value="Cetro dos Comerciantes da Lua Crescente Temperado" />
+  <keys type="item" key="BX_WE9_004_0_1351" value="Besta dos Comerciantes da Lua Crescente Temperada" />
+  <keys type="item" key="BX_WE8_006_0_0000" value="Lança dos Comerciantes da Lua Crescente Temperada" />
+  <keys type="item" key="BX_WE0_009_0_3351" value="Espada Distinta dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE4_008_0_3351" value="Adaga Distinta dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE6_018_0_3351" value="Cajado Distinto dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE7_018_0_3351" value="Arco Distinto dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE1_029_0_3351" value="Montante Distinto dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE5_018_0_3351" value="Cetro Distinto dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE9_004_0_2351" value="Besta Distinta dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_WE8_004_0_0000" value="Lança Distinta dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="WE0_021_0_2101_EV1" value="Hero's Sword I" />
+  <keys type="item" key="WE4_001_0_2101_EV1" value="Hero's Dagger I" />
+  <keys type="item" key="WE6_003_0_2101_EV1" value="Hero's Staff I" />
+  <keys type="item" key="WE1_003_0_2101_EV1" value="Hero's Greatsword I" />
+  <keys type="item" key="WE5_003_0_2101_EV1" value="Hero's Scepter I" />
+  <keys type="item" key="WE0_015_0_2102_EV1" value="Hero's Sword II" />
+  <keys type="item" key="WE4_002_0_2102_EV1" value="Hero's Dagger II" />
+  <keys type="item" key="WE6_011_0_2102_EV1" value="Hero's Staff II" />
+  <keys type="item" key="WE1_004_0_2102_EV1" value="Hero's Greatsword II" />
+  <keys type="item" key="WE5_004_0_2102_EV1" value="Hero's Scepter II" />
+  <keys type="item" key="WE0_007_0_2151_EV1" value="Hero's Sword III" />
+  <keys type="item" key="WE4_015_0_2151_EV1" value="Hero's Dagger III" />
+  <keys type="item" key="WE6_000_0_2151_EV1" value="Hero's Staff III" />
+  <keys type="item" key="WE1_005_0_2151_EV1" value="Hero's Greatsword III" />
+  <keys type="item" key="WE5_005_0_2151_EV1" value="Hero's Scepter III" />
+  <keys type="item" key="WE0_029_0_2202_EV1" value="Hero's Sword IV" />
+  <keys type="item" key="WE4_004_0_2202_EV1" value="Hero's Dagger IV" />
+  <keys type="item" key="WE6_004_0_2202_EV1" value="Hero's Staff IV" />
+  <keys type="item" key="WE1_006_0_2202_EV1" value="Hero's Greatsword IV" />
+  <keys type="item" key="WE5_006_0_2202_EV1" value="Hero's Scepter IV" />
+  <keys type="item" key="WE0_006_0_3281_EV1" value="Hero's Sword V" />
+  <keys type="item" key="WE4_018_0_3281_EV1" value="Hero's Dagger V" />
+  <keys type="item" key="WE6_013_0_3281_EV1" value="Hero's Staff V" />
+  <keys type="item" key="WE1_009_0_3281_EV1" value="Hero's Greatsword V" />
+  <keys type="item" key="WE5_009_0_3281_EV1" value="Hero's Scepter V" />
+  <keys type="item" key="WE0_003_0_3282_EV1" value="Hero's Sword VI" />
+  <keys type="item" key="WE4_010_0_3282_EV1" value="Hero's Dagger VI" />
+  <keys type="item" key="WE6_007_0_3282_EV1" value="Hero's Staff VI" />
+  <keys type="item" key="WE1_015_0_3282_EV1" value="Hero's Greatsword VI" />
+  <keys type="item" key="WE5_010_0_3282_EV1" value="Hero's Scepter VI" />
+  <keys type="item" key="WE0_009_0_3352" value="Blessed Supreme Commander Sword" />
+  <keys type="item" key="WE4_008_0_3352" value="Blessed Supreme Commander Dagger" />
+  <keys type="item" key="WE6_018_0_3352" value="Blessed Supreme Commander Staff" />
+  <keys type="item" key="WE7_018_0_3352" value="Blessed Supreme Commander Bow" />
+  <keys type="item" key="WE1_029_0_3352" value="Blessed Supreme Commander Greatsword" />
+  <keys type="item" key="WE3_011_0_3352" value="Blessed Supreme Commander Battle Axe" />
+  <keys type="item" key="WE5_018_0_3352" value="Blessed Supreme Commander Scepter" />
+  <keys type="item" key="WE2_030_0_3352" value="Blessed Supreme Commander Warhammer" />
+  <keys type="item" key="WE9_004_0_2352" value="Blessed Supreme Commander Crossbow" />
+  <keys type="item" key="WE8_004_0_0001" value="Blessed Supreme Commander Lance" />
+  <keys type="item" key="ew0_039_0_0000" value="Espada Élfica Caótica" />
+  <keys type="item" key="ew1_001_0_0000" value="Kashim's Greatsword" />
+  <keys type="item" key="ew1_013_0_0000" value="Rodheim's Greatsword" />
+  <keys type="item" key="ew2_004_0_0000" value="Desert Braghin Overseer's Hammer" />
+  <keys type="item" key="ew2_032_0_0000" value="Palken's Giant Hammer" />
+  <keys type="item" key="ew4_014_0_0000" value="Lenanzar's Sword" />
+  <keys type="item" key="ew4_015_0_0000" value="Chaos Elven Zweihander" />
+  <keys type="item" key="ew5_004_0_0000" value="Lanasson's Rod" />
+  <keys type="item" key="ew5_025_0_0000" value="Demociel's Scepter" />
+  <keys type="item" key="ew5_026_0_0000" value="Chaos Elven Scepter" />
+  <keys type="item" key="ew6_031_0_0000" value="Amandos' Rod" />
+  <keys type="item" key="ew6_032_0_0000" value="Pridon Roa's Staff" />
+  <keys type="item" key="ew6_033_0_0000" value="Chaos Elven Staff" />
+  <keys type="item" key="ew7_017_0_0000" value="Captain Al's Javelin" />
+  <keys type="item" key="ew7_018_0_0000" value="Mohaban Javelinier's Javelin" />
+  <keys type="item" key="ew7_019_0_0000" value="Yorminsul's Bow" />
+  <keys type="item" key="ew7_020_0_0000" value="Aurea's Bow" />
+  <keys type="item" key="ew7_021_0_0000" value="Chaos Elf Bow" />
+  <keys type="item" key="ew7_022_0_0000" value="Mermaid Harp" />
+  <keys type="item" key="ew7_028_0_0000" value="Molta's Crossbow" />
+  <keys type="item" key="WE0_009_0_3353" value="Glorious Leader Sword" />
+  <keys type="item" key="WE4_008_0_3353" value="Glorious Leader Dagger" />
+  <keys type="item" key="WE6_018_0_3353" value="Glorious Leader Staff" />
+  <keys type="item" key="WE7_018_0_3353" value="Glorious Leader Bow" />
+  <keys type="item" key="WE1_029_0_3353" value="Glorious Leader Greatsword" />
+  <keys type="item" key="WE3_011_0_3353" value="Glorious Leader Battle Axe" />
+  <keys type="item" key="WE5_018_0_3353" value="Glorious Leader Scepter" />
+  <keys type="item" key="WE2_030_0_3353" value="Glorious Leader Warhammer" />
+  <keys type="item" key="WE9_004_0_2353" value="Glorious Leader Crossbow" />
+  <keys type="item" key="WE8_004_0_0002" value="Glorious Leader Lance" />
+  <keys type="item" key="WE9_002_0_1402" value="Attaius Lance" />
+  <keys type="item" key="WE8_002_0_1402" value="Tranua Crossbow" />
+  <keys type="item" key="WE0_045_1_4501" value="Royal Guard Sword" />
+  <keys type="item" key="WE4_045_1_4501" value="Royal Guard Dagger" />
+  <keys type="item" key="WE6_045_1_4501" value="Royal Guard Staff" />
+  <keys type="item" key="WE1_045_1_4501" value="Royal Guard Greatsword" />
+  <keys type="item" key="WE5_045_1_4501" value="Royal Guard Scepter" />
+  <keys type="item" key="WE0_045_0_4501" value="Alseik Guard Sword" />
+  <keys type="item" key="WE4_045_0_4501" value="Alseik Guard Dagger" />
+  <keys type="item" key="WE6_045_0_4501" value="Alseik Guard Staff" />
+  <keys type="item" key="WE1_045_0_4501" value="Alseik Guard Greatsword" />
+  <keys type="item" key="WE5_045_0_4501" value="Alseik Guard Scepter" />
+  <keys type="item" key="WE0_045_0_4502" value="Griffin Knight Sword" />
+  <keys type="item" key="WE4_045_0_4502" value="Griffin Knight Dagger" />
+  <keys type="item" key="WE6_045_0_4502" value="Griffin Knight Staff" />
+  <keys type="item" key="WE1_045_0_4502" value="Griffin Knight Greatsword" />
+  <keys type="item" key="WE5_045_0_4502" value="Griffin Knight Scepter" />
+  <keys type="item" key="WE9_045_0_4502" value="Griffin Knight Crossbow" />
+  <keys type="item" key="WE8_045_0_4502" value="Griffin Knight Lance" />
+  <keys type="item" key="WE0_045_8_4501" value="Mohaba Mercenary Sword" />
+  <keys type="item" key="WE4_045_8_4501" value="Mohaba Mercenary Dagger" />
+  <keys type="item" key="WE6_045_8_4501" value="Mohaba Mercenary Staff" />
+  <keys type="item" key="WE1_045_8_4501" value="Mohaba Mercenary Greatsword" />
+  <keys type="item" key="WE5_045_8_4501" value="Mohaba Mercenary Scepter" />
+  <keys type="item" key="WE0_045_3_4501" value="Ruins Guard Sword" />
+  <keys type="item" key="WE4_045_3_4501" value="Ruins Guard Dagger" />
+  <keys type="item" key="WE6_045_3_4501" value="Ruins Guard Staff" />
+  <keys type="item" key="WE1_045_3_4501" value="Ruins Guard Greatsword" />
+  <keys type="item" key="WE5_045_3_4501" value="Ruins Guard Scepter" />
+  <keys type="item" key="WE9_045_3_4501" value="Ruins Guard Crossbow" />
+  <keys type="item" key="WE8_045_3_4501" value="Ruins Guard Lance" />
+  <keys type="item" key="WE0_045_3_4502" value="Khabimist Sword" />
+  <keys type="item" key="WE4_045_3_4502" value="Khabimist Dagger" />
+  <keys type="item" key="WE6_045_3_4502" value="Khabimist Staff" />
+  <keys type="item" key="WE1_045_3_4502" value="Khabimist Greatsword" />
+  <keys type="item" key="WE5_045_3_4502" value="Khabimist Scepter" />
+  <keys type="item" key="WE9_045_3_4502" value="Khabimist Crossbow" />
+  <keys type="item" key="WE8_045_3_4502" value="Khabimist Lance" />
+  <keys type="item" key="WE0_050_1_5001" value="Capital Commander's Sword" />
+  <keys type="item" key="WE4_050_1_5001" value="Capital Commander's Dagger" />
+  <keys type="item" key="WE6_050_1_5001" value="Capital Commander's Staff" />
+  <keys type="item" key="WE1_050_1_5001" value="Capital Commander's Greatsword" />
+  <keys type="item" key="WE5_050_1_5001" value="Capital Commander's Scepter" />
+  <keys type="item" key="WE0_050_8_5001" value="Desert Braghin Sword" />
+  <keys type="item" key="WE4_050_8_5001" value="Desert Braghin Dagger" />
+  <keys type="item" key="WE6_050_8_5001" value="Desert Braghin Staff" />
+  <keys type="item" key="WE1_050_8_5001" value="Desert Braghin Greatsword" />
+  <keys type="item" key="WE5_050_8_5001" value="Desert Braghin Scepter" />
+  <keys type="item" key="WE0_050_3_5001" value="Despot's Sword" />
+  <keys type="item" key="WE4_050_3_5001" value="Despot's Dagger" />
+  <keys type="item" key="WE6_050_3_5001" value="Despot's Staff" />
+  <keys type="item" key="WE1_050_3_5001" value="Despot's Greatsword" />
+  <keys type="item" key="WE5_050_3_5001" value="Despot's Scepter" />
+  <keys type="item" key="WE9_050_3_5001" value="Despot's Crossbow" />
+  <keys type="item" key="WE8_050_3_5001" value="Despot's Lance" />
+  <keys type="item" key="WE0_050_0_5002" value="Hermit's Sword" />
+  <keys type="item" key="WE4_050_0_5002" value="Hermit's Dagger" />
+  <keys type="item" key="WE6_050_0_5002" value="Hermit's Staff" />
+  <keys type="item" key="WE1_050_0_5002" value="Hermit's Greatsword" />
+  <keys type="item" key="WE5_050_0_5002" value="Hermit's Scepter" />
+  <keys type="item" key="WE0_050_3_5002" value="Tyrant's Sword" />
+  <keys type="item" key="WE4_050_3_5002" value="Tyrant's Dagger" />
+  <keys type="item" key="WE6_050_3_5002" value="Tyrant's Staff" />
+  <keys type="item" key="WE1_050_3_5002" value="Tyrant's Greatsword" />
+  <keys type="item" key="WE5_050_3_5002" value="Tyrant's Scepter" />
+  <keys type="item" key="WE9_050_3_5002" value="Tyrant's Crossbow" />
+  <keys type="item" key="WE8_050_3_5002" value="Tyrant's Lance" />
+  <keys type="item" key="pvpWE0_001_2_4564" value="Modest Slayer Sword" />
+  <keys type="item" key="pvpWE4_001_2_4564" value="Modest Slayer Dagger" />
+  <keys type="item" key="pvpWE6_001_2_4564" value="Modest Slayer Staff" />
+  <keys type="item" key="pvpWE1_001_2_4564" value="Modest Slayer Greatsword" />
+  <keys type="item" key="pvpWE5_001_2_4564" value="Modest Slayer Scepter" />
+  <keys type="item" key="pvpWE9_002_2_4564" value="Modest Slayer Crossbow" />
+  <keys type="item" key="pvpWE8_002_2_4564" value="Modest Slayer Lance" />
+  <keys type="item" key="pvpWE0_001_2_5069" value="Austere Slayer Sword" />
+  <keys type="item" key="pvpWE4_001_2_5069" value="Austere Slayer Dagger" />
+  <keys type="item" key="pvpWE6_001_2_5069" value="Austere Slayer Staff" />
+  <keys type="item" key="pvpWE1_001_2_5069" value="Austere Slayer Greatsword" />
+  <keys type="item" key="pvpWE5_001_2_5069" value="Austere Slayer Scepter" />
+  <keys type="item" key="pvpWE9_002_2_5069" value="Austere Slayer Crossbow" />
+  <keys type="item" key="pvpWE8_002_2_5069" value="Austere Slayer Lance" />
+  <keys type="item" key="WE0_045_3_4502_CR" value="Shining Adamantite Sword" />
+  <keys type="item" key="WE4_045_3_4502_CR" value="Shining Adamantite Dagger" />
+  <keys type="item" key="WE6_045_3_4502_CR" value="Shining Adamantite Staff" />
+  <keys type="item" key="WE1_045_3_4502_CR" value="Shining Adamantite Greatsword" />
+  <keys type="item" key="WE5_045_3_4502_CR" value="Shining Adamantite Scepter" />
+  <keys type="item" key="WE9_045_3_4502_CR" value="Shining Adamantite Crossbow" />
+  <keys type="item" key="WE8_045_3_4502_CR" value="Shining Adamantite Lance" />
+  <keys type="item" key="WE0_050_3_5002_CR" value="Shining Tempered Adamantite Sword" />
+  <keys type="item" key="WE4_050_3_5002_CR" value="Shining Tempered Adamantite Dagger" />
+  <keys type="item" key="WE6_050_3_5002_CR" value="Shining Tempered Adamantite Staff" />
+  <keys type="item" key="WE1_050_3_5002_CR" value="Shining Tempered Adamantite Greatsword" />
+  <keys type="item" key="WE5_050_3_5002_CR" value="Shining Tempered Adamantite Scepter" />
+  <keys type="item" key="WE9_050_3_5002_CR" value="Shining Tempered Adamantite Crossbow" />
+  <keys type="item" key="WE8_050_3_5002_CR" value="Shining Tempered Adamantite Lance" />
+  <keys type="item" key="WE0_050_3_5003" value="Blessed Tyrant's Sword" />
+  <keys type="item" key="WE4_050_3_5003" value="Blessed Tyrant's Dagger" />
+  <keys type="item" key="WE6_050_3_5003" value="Blessed Tyrant's Staff" />
+  <keys type="item" key="WE1_050_3_5003" value="Blessed Tyrant's Greatsword" />
+  <keys type="item" key="WE5_050_3_5003" value="Blessed Tyrant's Scepter" />
+  <keys type="item" key="WE9_050_3_5003" value="Blessed Tyrant's Crossbow" />
+  <keys type="item" key="WE8_050_3_5003" value="Blessed Tyrant's Lance" />
+  <keys type="item" key="WE0_005_0_3301_EV1" value="Hero's Sword VII" />
+  <keys type="item" key="WE4_009_0_3301_EV1" value="Hero's Dagger VII" />
+  <keys type="item" key="WE6_008_0_3301_EV1" value="Hero's Staff VII" />
+  <keys type="item" key="WE1_012_0_3301_EV1" value="Hero's Greatsword VII" />
+  <keys type="item" key="WE5_012_0_3301_EV1" value="Hero's Scepter VII" />
+  <keys type="item" key="WE9_002_0_1251_EV1" value="Hero's Crossbow III" />
+  <keys type="item" key="WE8_002_0_1251_EV1" value="Hero's Lance III" />
+  <keys type="item" key="WE0_009_0_3351_EV1" value="Hero's Sword VIII" />
+  <keys type="item" key="WE4_008_0_3351_EV1" value="Hero's Dagger VIII" />
+  <keys type="item" key="WE6_018_0_3351_EV1" value="Hero's Staff VIII" />
+  <keys type="item" key="WE1_029_0_3351_EV1" value="Hero's Greatsword VIII" />
+  <keys type="item" key="WE5_018_0_3351_EV1" value="Hero's Scepter VIII" />
+  <keys type="item" key="WE9_004_0_2351_EV1" value="Hero's Crossbow V" />
+  <keys type="item" key="WE8_004_0_0000_EV1" value="Hero's Lance V" />
+  <keys type="item" key="WE9_050_4_4501" value="Ancient Virtue Crossbow" />
+  <keys type="item" key="WE8_050_4_4501" value="Ancient Virtue Lance" />
+  <keys type="item" key="WE0_045_0_4502_RE" value="Sword of Hope VIII" />
+  <keys type="item" key="WE4_045_0_4502_RE" value="Dagger of Hope VIII" />
+  <keys type="item" key="WE6_045_0_4502_RE" value="Staff of Hope VIII" />
+  <keys type="item" key="WE1_045_0_4502_RE" value="Greatsword of Hope VIII" />
+  <keys type="item" key="WE5_045_0_4502_RE" value="Scepter of Hope VIII" />
+  <keys type="item" key="WE9_045_0_4502_RE" value="Crossbow of Hope VIII" />
+  <keys type="item" key="WE8_045_0_4502_RE" value="Lance of Hope VIII" />
+  <keys type="item" key="WE0_050_0_5002_RE" value="Sword of Hope IX" />
+  <keys type="item" key="WE4_050_0_5002_RE" value="Dagger of Hope IX" />
+  <keys type="item" key="WE6_050_0_5002_RE" value="Staff of Hope VIII" />
+  <keys type="item" key="WE1_050_0_5002_RE" value="Greatsword of Hope IX" />
+  <keys type="item" key="WE5_050_0_5002_RE" value="Scepter of Hope IX" />
+  <keys type="item" key="WE9_045_0_5002_RE" value="Crossbow of Hope IX" />
+  <keys type="item" key="WE8_045_0_5002_RE" value="Lance of Hope IX" />
+  <keys type="item" key="WE0_XMAS_0_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE4_XMAS_0_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE6_XMAS_0_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE1_XMAS_0_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE5_XMAS_0_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE0_ev1_1_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE4_ev1_1_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE6_ev1_1_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE1_ev1_1_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE5_ev1_1_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE0_ev1_2_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE4_ev1_2_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE6_ev1_2_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE1_ev1_2_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE5_ev1_2_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE0_504_2103" value="Exalted Sword" />
+  <keys type="item" key="WE1_504_2103" value="Exalted Greatsword" />
+  <keys type="item" key="WE4_504_2103" value="Exalted Dagger" />
+  <keys type="item" key="WE5_504_2103" value="Exalted Scepter" />
+  <keys type="item" key="WE6_504_2103" value="Exalted Staff" />
+  <keys type="item" key="WE8_504_2103" value="Exalted Lance" />
+  <keys type="item" key="WE9_504_2103" value="Exalted Crossbow" />
+  <keys type="item" key="WE0_021_0_2101_EV2" value="Hero's Sword I (30 Days)" />
+  <keys type="item" key="WE4_001_0_2101_EV2" value="Hero's Dagger I (30 Days)" />
+  <keys type="item" key="WE6_003_0_2101_EV2" value="Hero's Staff I (30 Days)" />
+  <keys type="item" key="WE1_003_0_2101_EV2" value="Hero's Greatsword I (30 Days)" />
+  <keys type="item" key="WE5_003_0_2101_EV2" value="Hero's Scepter I (30 Days)" />
+  <keys type="item" key="WE0_015_0_2102_EV2" value="Hero's Sword II (30 Days)" />
+  <keys type="item" key="WE4_002_0_2102_EV2" value="Hero's Dagger II (30 Days)" />
+  <keys type="item" key="WE6_011_0_2102_EV2" value="Hero's Staff II (30 Days)" />
+  <keys type="item" key="WE1_004_0_2102_EV2" value="Hero's Greatsword II (30 Days)" />
+  <keys type="item" key="WE5_004_0_2102_EV2" value="Hero's Scepter II (30 Days)" />
+  <keys type="item" key="WE0_007_0_2151_EV2" value="Hero's Sword II (30 Days)" />
+  <keys type="item" key="WE4_015_0_2151_EV2" value="Hero's Dagger II (30 Days)" />
+  <keys type="item" key="WE6_000_0_2151_EV2" value="Hero's Staff III (30 Days)" />
+  <keys type="item" key="WE1_005_0_2151_EV2" value="Hero's Greatsword III (30 Days)" />
+  <keys type="item" key="WE5_005_0_2151_EV2" value="Hero's Scepter III (30 Days)" />
+  <keys type="item" key="WE0_029_0_2202_EV2" value="Hero's Sword IV (30 Days)" />
+  <keys type="item" key="WE4_004_0_2202_EV2" value="Hero's Dagger IV (30 Days)" />
+  <keys type="item" key="WE6_004_0_2202_EV2" value="Hero's Staff IV (30 Days)" />
+  <keys type="item" key="WE1_006_0_2202_EV2" value="Hero's Greatsword IV (30 Days)" />
+  <keys type="item" key="WE5_006_0_2202_EV2" value="Hero's Scepter IV (30 Days)" />
+  <keys type="item" key="WE0_006_0_3281_EV2" value="Hero's Sword V (30 Days)" />
+  <keys type="item" key="WE4_018_0_3281_EV2" value="Hero's Dagger V (30 Days)" />
+  <keys type="item" key="WE6_013_0_3281_EV2" value="Hero's Staff V (30 Days)" />
+  <keys type="item" key="WE1_009_0_3281_EV2" value="Hero's Greatsword V (30 Days)" />
+  <keys type="item" key="WE5_009_0_3281_EV2" value="Hero's Scepter V (30 Days)" />
+  <keys type="item" key="WE0_003_0_3282_EV2" value="Hero's Sword VI (30 Days)" />
+  <keys type="item" key="WE4_010_0_3282_EV2" value="Hero's Dagger VI (30 Days)" />
+  <keys type="item" key="WE6_007_0_3282_EV2" value="Hero's Staff VI (30 Days)" />
+  <keys type="item" key="WE1_015_0_3282_EV2" value="Hero's Greatsword VI (30 Days)" />
+  <keys type="item" key="WE5_010_0_3282_EV2" value="Hero's Scepter VI (30 Days)" />
+  <keys type="item" key="WE0_005_0_3301_EV2" value="Hero's Sword VII (30 Days)" />
+  <keys type="item" key="WE4_009_0_3301_EV2" value="Hero's Dagger VII (30 Days)" />
+  <keys type="item" key="WE6_008_0_3301_EV2" value="Hero's Staff VII (30 Days)" />
+  <keys type="item" key="WE1_012_0_3301_EV2" value="Hero's Greatsword VII (30 Days)" />
+  <keys type="item" key="WE5_012_0_3301_EV2" value="Hero's Scepter VII (30 Days)" />
+  <keys type="item" key="WE9_002_0_1251_EV2" value="Hero's Crossbow VII (30 days)" />
+  <keys type="item" key="WE8_002_0_1251_EV2" value="Hero's Lance VII (30 days)" />
+  <keys type="item" key="WE0_009_0_3351_EV2" value="Hero's Sword VIII (30 Days)" />
+  <keys type="item" key="WE4_008_0_3351_EV2" value="Hero's Dagger VIII (30 Days)" />
+  <keys type="item" key="WE6_018_0_3351_EV2" value="Hero's Staff VIII (30 Days)" />
+  <keys type="item" key="WE1_029_0_3351_EV2" value="Hero's Greatsword VIII (30 Days)" />
+  <keys type="item" key="WE5_018_0_3351_EV2" value="Hero's Scepter VIII (30 Days)" />
+  <keys type="item" key="WE9_004_0_2351_EV2" value="Hero's Crossbow VIII (30 days)" />
+  <keys type="item" key="WE8_004_0_0000_EV2" value="Hero's Lance VIII (30 days)" />
+  <keys type="item" key="WE0_001_0_0001" value="Ronua Infantry Sword" />
+  <keys type="item" key="WE4_002_0_0002" value="Ronua Infantry Dagger" />
+  <keys type="item" key="WE6_003_0_0003" value="Ronua Infantry Staff" />
+  <keys type="item" key="WE1_004_0_0004" value="Ronua Infantry Greatsword" />
+  <keys type="item" key="WE5_005_0_0005" value="Ronua Infantry Scepter" />
+  <keys type="item" key="WE0_001_0_0008" value="Elgaden Officer's Sword" />
+  <keys type="item" key="WE4_002_0_0009" value="Elgaden Officer's Dagger" />
+  <keys type="item" key="WE6_003_0_0010" value="Elgaden Officer's Staff" />
+  <keys type="item" key="WE1_004_0_0011" value="Elgaden Officer's Greatsword" />
+  <keys type="item" key="WE5_005_0_0012" value="Elgaden Officer's Scepter" />
+  <keys type="item" key="WE9_006_0_0013" value="Elgaden Officer's Crossbow" />
+  <keys type="item" key="WE8_007_0_0014" value="Elgaden Officer's Lance" />
+  <keys type="item" key="WE0_001_0_0015" value="Ravager Sword" />
+  <keys type="item" key="WE4_002_0_0016" value="Ravager Dagger" />
+  <keys type="item" key="WE6_003_0_0017" value="Ravager Staff" />
+  <keys type="item" key="WE1_004_0_0018" value="Ravager Greatsword" />
+  <keys type="item" key="WE5_005_0_0019" value="Ravager Scepter" />
+  <keys type="item" key="WE9_006_0_0020" value="Ravager Crossbow" />
+  <keys type="item" key="WE8_007_0_0021" value="Ravager Lance" />
+  <keys type="item" key="WE0_001_0_0022" value="Chaotic Sword" />
+  <keys type="item" key="WE4_002_0_0023" value="Chaotic Dagger" />
+  <keys type="item" key="WE6_003_0_0024" value="Chaotic Staff" />
+  <keys type="item" key="WE1_004_0_0025" value="Chaotic Greatsword" />
+  <keys type="item" key="WE5_005_0_0026" value="Chaotic Scepter" />
+  <keys type="item" key="WE9_006_0_0027" value="Chaotic Crossbow" />
+  <keys type="item" key="WE8_007_0_0028" value="Chaotic Lance" />
+  <keys type="item" key="WE0_001_0_0001_CR" value="Dragonite Sword" />
+  <keys type="item" key="WE4_002_0_0002_CR" value="Dragonite Dagger" />
+  <keys type="item" key="WE6_003_0_0003_CR" value="Dragonite Staff" />
+  <keys type="item" key="WE1_004_0_0004_CR" value="Dragonite Greatsword" />
+  <keys type="item" key="WE5_005_0_0005_CR" value="Dragonite Scepter" />
+  <keys type="item" key="WE9_006_0_0006_CR" value="Dragonite Crossbow" />
+  <keys type="item" key="WE8_007_0_0007_CR" value="Dragonite Lance" />
+  <keys type="item" key="WE0_004_0_2141_1" value="Blessed Emberstone Sword" />
+  <keys type="item" key="WE4_005_0_2141_1" value="Blessed Emberstone Dagger" />
+  <keys type="item" key="WE6_005_0_2141_1" value="Blessed Emberstone Staff" />
+  <keys type="item" key="WE7_027_0_2141_1" value="Blessed Emberstone Bow" />
+  <keys type="item" key="WE1_008_0_2141_1" value="Blessed Emberstone Greatsword" />
+  <keys type="item" key="WE3_019_0_2141_1" value="Blessed Emberstone Battle Axe" />
+  <keys type="item" key="WE5_007_0_2141_1" value="Blessed Emberstone Scepter" />
+  <keys type="item" key="WE2_027_0_2141_1" value="Blessed Emberstone Warhammer" />
+  <keys type="item" key="WE0_034_0_2222_1" value="Blessed Cursed Sword" />
+  <keys type="item" key="WE4_026_0_2222_1" value="Blessed Cursed Dagger" />
+  <keys type="item" key="WE6_026_0_2222_1" value="Blessed Cursed Staff" />
+  <keys type="item" key="WE7_012_0_2222_1" value="Blessed Cursed Bow" />
+  <keys type="item" key="WE1_027_0_2222_1" value="Blessed Cursed Greatsword" />
+  <keys type="item" key="WE3_031_0_2222_1" value="Blessed Cursed Battle Axe" />
+  <keys type="item" key="WE5_027_0_2222_1" value="Blessed Cursed Scepter" />
+  <keys type="item" key="WE2_019_0_2222_1" value="Blessed Cursed Warhammer" />
+  <keys type="item" key="WE0_006_0_3281_1" value="Blessed Frozen Sword" />
+  <keys type="item" key="WE4_018_0_3281_1" value="Blessed Frozen Dagger" />
+  <keys type="item" key="WE6_013_0_3281_1" value="Blessed Frozen Staff" />
+  <keys type="item" key="WE7_006_0_3281_1" value="Blessed Frozen Bow" />
+  <keys type="item" key="WE1_009_0_3281_1" value="Blessed Frozen Greatsword" />
+  <keys type="item" key="WE3_017_0_3281_1" value="Blessed Frozen Battle Axe" />
+  <keys type="item" key="WE5_009_0_3281_1" value="Blessed Frozen Scepter" />
+  <keys type="item" key="WE2_012_0_3281_1" value="Blessed Frozen Warhammer" />
+  <keys type="item" key="WE0_003_0_3282_1" value="Blessed Corrupted Sword" />
+  <keys type="item" key="WE4_010_0_3282_1" value="Blessed Corrupted Dagger" />
+  <keys type="item" key="WE6_007_0_3282_1" value="Blessed Corrupted Staff" />
+  <keys type="item" key="WE7_019_0_3282_1" value="Blessed Corrupted Bow" />
+  <keys type="item" key="WE1_015_0_3282_1" value="Blessed Corrupted Greatsword" />
+  <keys type="item" key="WE3_017_0_3282_1" value="Blessed Corrupted Battle Axe" />
+  <keys type="item" key="WE5_010_0_3282_1" value="Blessed Corrupted Scepter" />
+  <keys type="item" key="WE2_012_0_3282_1" value="Blessed Corrupted Warhammer" />
+  <keys type="item" key="WE0_005_0_3301_1" value="Blessed Rondo's Sword" />
+  <keys type="item" key="WE4_009_0_3301_1" value="Blessed Rondo's Dagger" />
+  <keys type="item" key="WE6_008_0_3301_1" value="Blessed Aisha's Staff" />
+  <keys type="item" key="WE7_014_0_3301_1" value="Blessed Aisha's Bow" />
+  <keys type="item" key="WE1_012_0_3301_1" value="Blessed Rondo's Greatsword" />
+  <keys type="item" key="WE3_029_0_3301_1" value="Blessed Frost Command Battle Axe" />
+  <keys type="item" key="WE5_012_0_3301_1" value="Blessed Aisha's Scepter" />
+  <keys type="item" key="WE2_012_0_3301_1" value="Blessed Frost Command Warhammer" />
+  <keys type="item" key="WE9_005_0_2251_1" value="Blessed Frozen Crossbow" />
+  <keys type="item" key="WE9_006_0_2351_1" value="Blessed Corrupted Crossbow" />
+  <keys type="item" key="WE9_002_0_1251_1" value="Blessed Frost Command Crossbow" />
+  <keys type="item" key="WE8_003_0_2204_1" value="Blessed Frozen Lance" />
+  <keys type="item" key="WE8_006_0_2351_1" value="Blessed Corrupted Lance" />
+  <keys type="item" key="WE8_002_0_1251_1" value="Blessed Frost Command Lance" />
+  <keys type="item" key="WE0_006_0_2301_RE2" value="Sword of Hope I" />
+  <keys type="item" key="WE4_018_0_2301_RE2" value="Dagger of Hope I" />
+  <keys type="item" key="WE6_013_0_2301_RE2" value="Staff of Hope I" />
+  <keys type="item" key="WE1_009_0_2301_RE2" value="Greatsword of Hope I" />
+  <keys type="item" key="WE5_009_0_2301_RE2" value="Scepter of Hope I" />
+  <keys type="item" key="WE9_002_0_2151_RE2" value="Crossbow of Hope I" />
+  <keys type="item" key="WE8_003_0_2201_RE2" value="Lance of Hope I" />
+  <keys type="item" key="WE0_018_0_2351_RE2" value="Sword of Hope II" />
+  <keys type="item" key="WE4_019_0_2351_RE2" value="Dagger of Hope II" />
+  <keys type="item" key="WE6_014_0_2351_RE2" value="Staff of Hope II" />
+  <keys type="item" key="WE1_011_0_2351_RE2" value="Greatsword of Hope II" />
+  <keys type="item" key="WE5_011_0_2351_RE2" value="Scepter of Hope II" />
+  <keys type="item" key="WE9_045_0_4502_RE2" value="Crossbow of Hope II" />
+  <keys type="item" key="WE8_045_0_4502_RE2" value="Lance of Hope II" />
+  <keys type="item" key="WE0_050_0_5002_RE2" value="Sword of Hope III" />
+  <keys type="item" key="WE4_050_0_5002_RE2" value="Dagger of Hope III" />
+  <keys type="item" key="WE6_050_0_5002_RE2" value="Staff of Hope III" />
+  <keys type="item" key="WE1_050_0_5002_RE2" value="Greatsword of Hope III" />
+  <keys type="item" key="WE5_050_0_5002_RE2" value="Scepter of Hope III" />
+  <keys type="item" key="WE9_045_0_5002_RE2" value="Crossbow of Hope III" />
+  <keys type="item" key="WE8_045_0_5002_RE2" value="Lance of Hope III" />
+  <keys type="item" key="WE0_ev1_3_2103" value="(Quest) Karasha Sword (14 Day)" />
+  <keys type="item" key="WE4_ev1_3_2103" value="(Quest) Karasha Dagger (14 Day)" />
+  <keys type="item" key="WE6_ev1_3_2103" value="(Quest) Karasha Staff (14 Day)" />
+  <keys type="item" key="WE1_ev1_3_2103" value="(Quest) Karasha Greatsword (14 Day)" />
+  <keys type="item" key="WE5_ev1_3_2103" value="(Quest) Karasha Scepter (14 Day)" />
+  <keys type="item" key="WE0_ev1_4_2103" value="(Event) Karasha Sword (30 Day)" />
+  <keys type="item" key="WE4_ev1_4_2103" value="(Event) Karasha Dagger (30 Day)" />
+  <keys type="item" key="WE6_ev1_4_2103" value="(Event) Karasha Staff (30 Day)" />
+  <keys type="item" key="WE1_ev1_4_2103" value="(Event) Karasha Greatsword (30 Day)" />
+  <keys type="item" key="WE5_ev1_4_2103" value="(Event) Karasha Scepter (30 Days)" />
+  <keys type="item" key="WE0_ev2_3_2103" value="Karasha Sword (14 Day)" />
+  <keys type="item" key="WE4_ev2_3_2103" value="Karasha Dagger (14 Day)" />
+  <keys type="item" key="WE6_ev2_3_2103" value="Karasha Staff (14 Day)" />
+  <keys type="item" key="WE1_ev2_3_2103" value="Karasha Greatsword (14 Day)" />
+  <keys type="item" key="WE5_ev2_3_2103" value="Karasha Scepter (14 Day)" />
+  <keys type="item" key="WE0_001_1_0022" value="Blessed Chaotic Sword" />
+  <keys type="item" key="WE4_002_1_0023" value="Blessed Chaotic Dagger" />
+  <keys type="item" key="WE6_003_1_0024" value="Blessed Chaotic Staff" />
+  <keys type="item" key="WE1_004_1_0025" value="Blessed Chaotic Greatsword" />
+  <keys type="item" key="WE5_005_1_0026" value="Blessed Chaotic Scepter" />
+  <keys type="item" key="WE9_006_1_0027" value="Blessed Chaotic Crossbow" />
+  <keys type="item" key="WE8_007_1_0028" value="Blessed Chaotic Lance" />
+  <keys type="item" key="WE0_001_2_0022" value="Level Option Test Sword" />
+  <keys type="item" key="WE4_002_2_0023" value="Level Option Test Dagger" />
+  <keys type="item" key="WE6_003_2_0024" value="Level Option Test Staff" />
+  <keys type="item" key="WE1_004_2_0025" value="Level Option Test Greatsword" />
+  <keys type="item" key="WE5_005_2_0026" value="Level Option Test Scepter" />
+  <keys type="item" key="WE9_006_2_0027" value="Thunder Titan Crossbow" />
+  <keys type="item" key="WE8_007_2_0028" value="Earth Titan Lance" />
+  <keys type="item" key="WE9_055_2_0001" value="Yorminsul's Exalted Crossbow" />
+  <keys type="item" key="WE8_055_2_0002" value="Yorminsul's Exalted Lance" />
+  <keys type="item" key="WE9_055_2_0003" value="Nerhes's Development Crossbow" />
+  <keys type="item" key="WE8_055_2_0004" value="Nerhes's Development Lance" />
+  <keys type="item" key="WE0_SUMMER_0_0001" value="Ice Cream Sword" />
+  <keys type="item" key="WE4_SUMMER_0_0002" value="Ice Cream Dagger" />
+  <keys type="item" key="WE6_SUMMER_0_0003" value="Ice Cream Staff" />
+  <keys type="item" key="WE1_SUMMER_0_0004" value="Ice Cream Greatsword" />
+  <keys type="item" key="WE5_SUMMER_0_0005" value="Ice Cream Scepter" />
+  <keys type="item" key="WE7_812_0_2151" value="Executioner Bow" />
+  <keys type="item" key="WE7_822_0_2251" value="Fabled Bow" />
+  <keys type="item" key="WE7_823_0_3251" value="Veteran's Bow" />
+  <keys type="item" key="WE7_711_0_1101" value="Copper Bow" />
+  <keys type="item" key="WE7_721_0_2201" value="Steel Bow" />
+  <keys type="item" key="WE7_722_0_2201" value="Tempered Steel Bow" />
+  <keys type="item" key="WE7_731_0_3301" value="Mithril Bow" />
+  <keys type="item" key="WE7_732_0_3301" value="Tempered Mithril Bow" />
+  <keys type="item" key="WE7_733_0_3301" value="Shining Mithril Bow" />
+  <keys type="item" key="WE7_733_0_3351" value="Shining Tempered Mithril Bow" />
+  <keys type="item" key="WE7_733_0_3401" value="Shining Turalium Bow" />
+  <keys type="item" key="pvpWE7_001_2_2528" value="Modest Hunter Bow" />
+  <keys type="item" key="pvpWE7_001_2_3033" value="Austere Hunter Bow" />
+  <keys type="item" key="pvpWE7_001_2_3538" value="Complex Hunter Bow" />
+  <keys type="item" key="pvpWE7_001_2_4043" value="Ornate Hunter Bow" />
+  <keys type="item" key="WE7_009_0_4001" value="Tranua Bow" />
+  <keys type="item" key="WE7_003_0_3502" value="Merumi Chieftain Bow" />
+  <keys type="item" key="WE7_015_0_2171_RE" value="Bow of Hope I" />
+  <keys type="item" key="WE7_015_0_2151_RE" value="Bow of Hope II" />
+  <keys type="item" key="WE7_015_0_1201_RE" value="Bow of Hope III" />
+  <keys type="item" key="WE7_016_0_2251_RE" value="Bow of Hope IV" />
+  <keys type="item" key="WE7_002_0_1141_RE" value="Bow of Hope V" />
+  <keys type="item" key="WE7_018_0_2301_RE" value="Bow of Hope VI" />
+  <keys type="item" key="WE7_019_0_2351_RE" value="Bow of Hope VII" />
+  <keys type="item" key="WE7_045_0_4502_RE" value="Bow of Hope VIII" />
+  <keys type="item" key="WE7_050_0_5002_RE" value="Bow of Hope IX" />
+  <keys type="item" key="WE7_001_0_2101_EV1" value="Hero's Bow I" />
+  <keys type="item" key="WE7_002_0_2102_EV1" value="Hero's Bow II" />
+  <keys type="item" key="WE7_015_0_2151_EV1" value="Hero's Bow III" />
+  <keys type="item" key="WE7_004_0_2202_EV1" value="Hero's Bow IV" />
+  <keys type="item" key="WE7_018_0_3281_EV1" value="Hero's Bow V" />
+  <keys type="item" key="WE7_010_0_3282_EV1" value="Hero's Bow VI" />
+  <keys type="item" key="WE7_009_0_3301_EV1" value="Hero's Bow VII" />
+  <keys type="item" key="WE7_008_0_3351_EV1" value="Hero's Bow VIII" />
+  <keys type="item" key="WE7_045_1_4501" value="Capital Guard Bow" />
+  <keys type="item" key="WE7_045_0_4501" value="Alseik Guard Bow" />
+  <keys type="item" key="WE7_045_0_4502" value="Griffin Knight Bow" />
+  <keys type="item" key="WE7_045_8_4501" value="Mohaba Mercenary Bow" />
+  <keys type="item" key="WE7_045_3_4501" value="Ruins Guard Bow" />
+  <keys type="item" key="WE7_045_3_4502" value="Khabimist Bow" />
+  <keys type="item" key="WE7_050_1_5001" value="Capital Commander's Bow" />
+  <keys type="item" key="WE7_050_8_5001" value="Desert Braghin Bow" />
+  <keys type="item" key="WE7_050_3_5001" value="Despot's Bow" />
+  <keys type="item" key="WE7_050_0_5002" value="Hermit's Bow" />
+  <keys type="item" key="WE7_050_3_5002" value="Tyrant's Bow" />
+  <keys type="item" key="pvpWE7_001_2_4564" value="Modest Slayer Bow" />
+  <keys type="item" key="pvpWE7_001_2_5069" value="Austere Slayer Bow" />
+  <keys type="item" key="WE7_045_3_4502_CR" value="Shining Adamantite Bow" />
+  <keys type="item" key="WE7_050_3_5002_CR" value="Shining Tempered Adamantite Bow" />
+  <keys type="item" key="WE7_050_3_5003" value="Blessed Tyrant's Bow" />
+  <keys type="item" key="WE7_XMAS_0_2103" value="Ellandfel Bow" />
+  <keys type="item" key="WE7_504_2103" value="Exalted Bow" />
+  <keys type="item" key="WE7_ev1_1_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE7_ev1_2_2103" value="TEMP - Not Used" />
+  <keys type="item" key="WE7_001_0_2101_EV2" value="Hero's Bow I" />
+  <keys type="item" key="WE7_002_0_2102_EV2" value="Hero's Bow II" />
+  <keys type="item" key="WE7_015_0_2151_EV2" value="Hero's Bow III" />
+  <keys type="item" key="WE7_004_0_2202_EV2" value="Hero's Bow IV" />
+  <keys type="item" key="WE7_018_0_3281_EV2" value="Hero's Bow V" />
+  <keys type="item" key="WE7_010_0_3282_EV2" value="Hero's Bow VI" />
+  <keys type="item" key="WE7_009_0_3301_EV2" value="Hero's Bow VII" />
+  <keys type="item" key="WE7_008_0_3351_EV2" value="Hero's Bow VIII" />
+  <keys type="item" key="WE7_002_0_0002" value="Ronua Infantry Bow" />
+  <keys type="item" key="WE7_002_0_0009" value="Elgaden Officer's Bow" />
+  <keys type="item" key="WE7_002_0_0016" value="Ravager Bow" />
+  <keys type="item" key="WE7_002_0_0023" value="Chaotic Bow" />
+  <keys type="item" key="WE7_002_0_0002_CR" value="Dragonium Bow" />
+  <keys type="item" key="WE7_018_0_2301_RE2" value="Bow of Hope VI" />
+  <keys type="item" key="WE7_019_0_2351_RE2" value="Bow of Hope VII" />
+  <keys type="item" key="WE7_050_0_5002_RE2" value="Bow of Hope IX" />
+  <keys type="item" key="WE7_ev1_3_2103" value="(Quest) Karasha Bow (14 Day)" />
+  <keys type="item" key="WE7_ev1_4_2103" value="(Event) Karasha Bow (30 Day)" />
+  <keys type="item" key="WE7_ev2_3_2103" value="Karasha Bow (14 Day)" />
+  <keys type="item" key="WE7_002_1_0023" value="Blessed Chaotic Bow" />
+  <keys type="item" key="boxwe7_002_0_1151" value="Arco da Infantaria" />
+  <keys type="item" key="boxwe7_015_0_2151" value="Arco do Bandoleiro" />
+  <keys type="item" key="boxwe7_015_0_1201" value="Arco Aguerrido" />
+  <keys type="item" key="boxwe7_004_0_2201" value="Arco Vampírico" />
+  <keys type="item" key="boxwe7_004_0_1251" value="Arco do Oficial" />
+  <keys type="item" key="boxwe7_016_0_2251" value="Arco dos Céus" />
+  <keys type="item" key="boxwe7_016_0_1301" value="Arco do Escudeiro" />
+  <keys type="item" key="boxwe7_018_0_2301" value="Arco de Merumi" />
+  <keys type="item" key="boxwe7_812_0_2151" value="Arco do Executor" />
+  <keys type="item" key="boxwe7_822_0_2251" value="Arco Fabuloso" />
+  <keys type="item" key="boxwe7_823_0_3251" value="Arco do Veterano" />
+  <keys type="item" key="boxwe7_018_0_2301_EV" value="Arco de Merumi" />
+  <keys type="item" key="BX_we7_019_0_2351" value="Arco Simples dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_we7_009_0_3301" value="Arco Esmerado dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="BX_we7_011_0_2402" value="Arco dos Comerciantes da Lua Crescente Temperado" />
+  <keys type="item" key="BX_we7_008_0_3351" value="Arco Distinto dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="WE7_015_0_2151_EV" value="Marauding Knight's Bow" />
+  <keys type="item" key="WE7_015_0_2151" value="Marauder Bow" />
+  <keys type="item" key="WE0_ca1_4_2103" value="(rental) Karasha Sword (7 days)" />
+  <keys type="item" key="WE4_ca1_4_2103" value="(rental) Karasha Dagger (7 days)" />
+  <keys type="item" key="WE6_ca1_4_2103" value="(rental) Karasha Staff (7 days)" />
+  <keys type="item" key="WE1_ca1_4_2103" value="(rental) Karasha Greatsword (7 days)" />
+  <keys type="item" key="WE5_ca1_4_2103" value="(rental) Karasha Scepter (7 days)" />
+  <keys type="item" key="WE7_ca1_4_2103" value="(rental) Karasha Shortbow (7 days)" />
+  <keys type="item" key="WE7_009_0_3501" value="Ruinous Bow" />
+  <keys type="item" key="WE0_ev2_4_2103" value="Karasha Hope Sword (30 days)" />
+  <keys type="item" key="WE4_ev2_4_2103" value="Karasha Hope Dagger (30 days)" />
+  <keys type="item" key="WE6_ev2_4_2103" value="Karasha Hope Staff (30 days)" />
+  <keys type="item" key="WE1_ev2_4_2103" value="Karasha Hope Greatsword (30 days)" />
+  <keys type="item" key="WE5_ev2_4_2103" value="Karasha Hope Scepter (30 days)" />
+  <keys type="item" key="WE7_ev2_4_2103" value="Karasha Hope Shortbow (30 days)" />
+  <keys type="item" key="we7_009_0_3401" value="Chieftain Keron Bow" />
+  <keys type="item" key="WE9_504_2106" value="Besta de Attaius Desperto" />
+  <keys type="item" key="WE8_504_2106" value="Awakened Attaius Lance" />
+  <keys type="item" key="pvpWE0_001_2_5569" value="Complex Slayer Sword" />
+  <keys type="item" key="pvpWE4_001_2_5569" value="Complex Slayer Dagger" />
+  <keys type="item" key="pvpWE6_001_2_5569" value="Complex Slayer Staff" />
+  <keys type="item" key="pvpWE1_001_2_5569" value="Complex Slayer Greatsword" />
+  <keys type="item" key="pvpWE5_001_2_5569" value="Complex Slayer Scepter" />
+  <keys type="item" key="pvpWE7_001_2_5569" value="Complex Slayer Bow" />
+  <keys type="item" key="pvpWE9_002_2_5569" value="Complex Slayer Crossbow" />
+  <keys type="item" key="pvpWE8_002_2_5569" value="Complex Slayer Lance" />
+  <keys type="item" key="WE0_015_0_2110" value="Golden Karasha Sword Costume Test" />
+  <keys type="item" key="WE4_002_0_2110" value="Golden Karasha Dagger Costume Test" />
+  <keys type="item" key="WE6_011_0_2110" value="Golden Karasha Staff Costume Test" />
+  <keys type="item" key="WE1_004_0_2110" value="Golden Karasha Greatsword Costume Test" />
+  <keys type="item" key="WE5_004_0_2110" value="Golden Karasha Scepter Costume Test" />
+  <keys type="item" key="WE7_003_0_2110" value="Golden Karasha Shortbow Costume Test" />
+  <keys type="item" key="pvpWE0_001_3_5569" value="Manastone Master Sword" />
+  <keys type="item" key="pvpWE4_001_3_5569" value="Manastone Master Dagger" />
+  <keys type="item" key="pvpWE6_001_3_5569" value="Manastone Master Staff" />
+  <keys type="item" key="pvpWE1_001_3_5569" value="Manastone Master Greatsword" />
+  <keys type="item" key="pvpWE5_001_3_5569" value="Manastone Master Scepter" />
+  <keys type="item" key="pvpWE7_001_3_5569" value="Manastone Master Bow" />
+  <keys type="item" key="pvpWE9_002_3_5569" value="Manastone Master Crossbow" />
+  <keys type="item" key="pvpWE8_002_3_5569" value="Manastone Master Lance" />
+  <keys type="item" key="WE0_ca2_4_2103" value="(rental) Karasha Sword (1 day)" />
+  <keys type="item" key="WE4_ca2_4_2103" value="(rental) Karasha Dagger (1 day)" />
+  <keys type="item" key="WE6_ca2_4_2103" value="(rental) Karasha Staff (1 day)" />
+  <keys type="item" key="WE1_ca2_4_2103" value="(rental) Karasha Greatsword (1 day)" />
+  <keys type="item" key="WE5_ca2_4_2103" value="(rental) Karasha Scepter (1 day)" />
+  <keys type="item" key="WE7_ca2_4_2103" value="(rental) Karasha Shortbow (1 day)" />
+  <keys type="item" key="WE0_001_1_6000" value="Jatulan Guard Sword" />
+  <keys type="item" key="WE4_002_1_6000" value="Jatulan Guard Dagger" />
+  <keys type="item" key="WE6_003_1_6000" value="Jatulan Guard Staff" />
+  <keys type="item" key="WE1_004_1_6000" value="Jatulan Guard Greatsword" />
+  <keys type="item" key="WE5_005_1_6000" value="Jatulan Guard Scepter" />
+  <keys type="item" key="WE7_005_1_6000" value="Jatulan Guard Bow" />
+  <keys type="item" key="WE0_001_2_6001" value="Red Revolutionary Sword" />
+  <keys type="item" key="WE4_002_2_6002" value="Red Revolutionary Dagger" />
+  <keys type="item" key="WE6_003_2_6002" value="Red Revolutionary Staff" />
+  <keys type="item" key="WE1_004_2_6002" value="Red Revolutionary Greatsword" />
+  <keys type="item" key="WE5_005_2_6002" value="Red Revolutionary Scepter" />
+  <keys type="item" key="WE7_005_2_6000" value="Red Revolutionary Bow" />
+  <keys type="item" key="WE0_001_3_6000" value="Illusion Sword" />
+  <keys type="item" key="WE4_002_3_6000" value="Illusion Dagger" />
+  <keys type="item" key="WE6_003_3_6000" value="Illusion Staff" />
+  <keys type="item" key="WE1_004_3_6000" value="Illusion Greatsword" />
+  <keys type="item" key="WE5_005_3_6000" value="Illusion Scepter" />
+  <keys type="item" key="WE7_006_3_6000" value="Illusion Bow" />
+  <keys type="item" key="WE0_001_3_6001" value="Blessed Forest Sword" />
+  <keys type="item" key="WE4_002_3_6001" value="Blessed Forest Dagger" />
+  <keys type="item" key="WE6_003_3_6001" value="Blessed Forest Staff" />
+  <keys type="item" key="WE1_004_3_6001" value="Blessed Forest Greatsword" />
+  <keys type="item" key="WE5_005_3_6001" value="Blessed Forest Scepter" />
+  <keys type="item" key="WE7_006_3_6001" value="Blessed Forest Bow" />
+  <keys type="item" key="WE9_006_3_6000" value="Blessed Forest Crossbow" />
+  <keys type="item" key="WE8_007_3_6000" value="Blessed Forest Lance" />
+  <keys type="item" key="WE0_001_3_6002" value="Forest Sword" />
+  <keys type="item" key="WE4_002_3_6002" value="Forest Dagger" />
+  <keys type="item" key="WE6_003_3_6002" value="Forest Staff" />
+  <keys type="item" key="WE1_004_3_6002" value="Forest Greatsword" />
+  <keys type="item" key="WE5_005_3_6002" value="Forest Scepter" />
+  <keys type="item" key="WE7_006_3_6002" value="Forest Bow" />
+  <keys type="item" key="WE9_006_2_6000" value="Red Revolutionary Crossbow" />
+  <keys type="item" key="WE8_007_2_6000" value="Red Revolutionary Lance" />
+  <keys type="item" key="WE9_006_3_6001" value="Forest Crossbow" />
+  <keys type="item" key="WE8_007_3_6001" value="Forest Lance" />
+  <keys type="item" key="WE0_001_5_6001" value="Zelnaris Sword" />
+  <keys type="item" key="WE4_002_5_6001" value="Zelnaris Dagger" />
+  <keys type="item" key="WE6_003_5_6001" value="Zelnaris Staff" />
+  <keys type="item" key="WE1_004_5_6001" value="Zelnaris Greatsword" />
+  <keys type="item" key="WE5_005_5_6001" value="Zelnaris Scepter" />
+  <keys type="item" key="WE7_006_5_6001" value="Zelnaris Bow" />
+  <keys type="item" key="WE9_006_5_6000" value="Zelnaris Crossbow" />
+  <keys type="item" key="WE8_007_5_6000" value="Zelnaris Lance" />
+</files>

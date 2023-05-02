@@ -18,33 +18,17 @@ class GuildMarkHistory extends Model
         'id',
         'accountId',
         'characterId',
-        'guildId'
+        'guildId',
+        'guildMarkId'
     ];
 
-    public static function FindAndCreate($accountId, $characterId, $guildId)
+    public static function CreteGuildMarkLog($input)
     {
-        $data = self::where('accountId', $accountId)->where('characterId', $characterId)->where('guildId', $guildId)
-        ->orderBy('updated_at', 'desc')->first();
-
-        if($data){
-
-            $datework = new Carbon($data->updated_at);
-            $diff = $datework->diffInDays($datework);
-
-            if($diff < 10){
-                return "Ainda faltam " . (10 - $diff) . " dias para poder atualizar a logo da sua guild";
-            }
-
-            $data->updated_at = now();
-            $data->save();
-
-            return "";
-        }
-
         $newReg = new GuildMarkHistory();
-        $newReg->accountId = $accountId;
-        $newReg->characterId = $characterId;
-        $newReg->guildId = $guildId;
+        $newReg->accountId = $input['accountId'];
+        $newReg->characterId = $input['characterId'];
+        $newReg->guildId = $input['guildId'];
+        $newReg->guildId = $input['guildMarkId'];
         $newReg->save();
 
         return "";

@@ -1,0 +1,1011 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="item" key="MS_RA_DO_0001" value="Baú Heroico do Matador (Trickster)" />
+  <keys type="item" key="CA_RA_00_0343" value="Rion's Lucky Box" />
+  <keys type="item" key="CA_RA_00_0344" value="Rion's Bless Box" />
+  <keys type="item" key="CA_RA_00_0345" value="Legendary+ Identification Tool Lucky Box" />
+  <keys type="item" key="CA_RA_00_0346" value="Familiar Laboratory Mark Box II" />
+  <keys type="item" key="CA_RA_00_0347" value="Familiar Legendary Seal Stone Extractor Lucky Box" />
+  <keys type="item" key="CA_RA_00_0348" value="Familiar Taming Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0349" value="Item Crafting Talismans Lucky Box" />
+  <keys type="item" key="CA_RA_00_0350" value="Item Tempering Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0351" value="Item Auction Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0352" value="July Ica Day Lucky Box" />
+  <keys type="item" key="FI_RA_PvP_0001" value="Teleo Dark Accessory Box" />
+  <keys type="item" key="FI_RA_PvP_0002" value="Teleo Dark Armor Box" />
+  <keys type="item" key="FI_RA_PvP_0003" value="Teleo Dark Weapon Box" />
+  <keys type="item" key="CA_RA_00_0353" value="Awakened Familiar Mark Lucky Box" />
+  <keys type="item" key="CA_RA_00_0354" value="Awakened Sewing Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0355" value="Awakened Mecca Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0356" value="Unique Item Lucky Box" />
+  <keys type="item" key="CA_RA_00_0357" value="Awakened Lucky Box" />
+  <keys type="item" key="GD_RA_PvP_0001" value="Teleo's Dark Equipment Box(Guardian)" />
+  <keys type="item" key="WR_RA_PvP_0001" value="Teleo's Dark Equipment Box(Berserker)" />
+  <keys type="item" key="TF_RA_PvP_0001" value="Teleo's Dark Equipment Box(Assassin)" />
+  <keys type="item" key="WZ_RA_PvP_0001" value="Teleo's Dark Equipment Box(Wizard)" />
+  <keys type="item" key="PR_RA_PvP_0001" value="Teleo's Dark Equipment Box(Priest)" />
+  <keys type="item" key="AC_RA_PvP_0001" value="Teleo's Dark Equipment Box(Ranger)" />
+  <keys type="item" key="DO_RA_PvP_0001" value="Teleo's Dark Equipment Box(Idol)" />
+  <keys type="item" key="PVP_WE0_RA_6000" value="Sealed Teleo's Sword" />
+  <keys type="item" key="PVP_WE2_RA_6002" value="Sealed Teleo's Dagger" />
+  <keys type="item" key="PVP_WE4_RA_6004" value="Sealed Teleo's Staff" />
+  <keys type="item" key="PVP_WE1_RA_6001" value="Sealed Teleo's Greatsword" />
+  <keys type="item" key="PVP_WE3_RA_6003" value="Sealed Teleo's Scepter" />
+  <keys type="item" key="PVP_WE6_RA_6007" value="Sealed Teleo's Shortbow" />
+  <keys type="item" key="PVP_WE6_RA_6006" value="Sealed Teleo's Crossbow" />
+  <keys type="item" key="PVP_WE5_RA_6005" value="Sealed Teleo's Lance" />
+  <keys type="item" key="PVP_AR0_RA_a_1_6000" value="Elmo Leal Sombrio de Teleo Selado" />
+  <keys type="item" key="PVP_AR0_RA_a_2_6001" value="Brafoneira Leal Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR0_RA_a_3_6002" value="Armadura Pesada Leal Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR0_RA_a_4_6003" value="Luvas Leais Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR0_RA_a_5_6004" value="Botas Leais Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR1_RA_a_1_6005" value="Elmo Atroz Sombrio de Teleo Selado" />
+  <keys type="item" key="PVP_AR1_RA_a_2_6006" value="Brafoneira Atroz Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR1_RA_a_3_6007" value="Armadura Pesada Atroz Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR1_RA_a_4_6008" value="Luvas Atrozes Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR1_RA_a_5_6009" value="Botas Atrozes Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR3_RA_a_1_6010" value="Elmo Velado Sombrio de Teleo Selado" />
+  <keys type="item" key="PVP_AR3_RA_a_2_6011" value="Brafoneira Velada Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR3_RA_a_3_6012" value="Armadura Leve Velada Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR3_RA_a_4_6013" value="Luvas Veladas Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR3_RA_a_5_6014" value="Botas Veladas Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR4_RA_a_1_6015" value="Chapéu Arcano Sombrio de Teleo Selado" />
+  <keys type="item" key="PVP_AR4_RA_a_2_6016" value="Brafoneira Arcana Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR4_RA_a_3_6017" value="Túnica Arcana Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR4_RA_a_4_6018" value="Luvas Arcanas Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR4_RA_a_5_6019" value="Botas Arcanas Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR5_RA_a_1_6020" value="Chapéu Sombrio da Devoção de Teleo Selado" />
+  <keys type="item" key="PVP_AR5_RA_a_2_6021" value="Brafoneira Sombria da Devoção de Teleo Selada" />
+  <keys type="item" key="PVP_AR5_RA_a_3_6022" value="Túnica Sombria da Devoção de Teleo Selada" />
+  <keys type="item" key="PVP_AR5_RA_a_4_6023" value="Luvas Sombrias da Devoção de Teleo Seladas" />
+  <keys type="item" key="PVP_AR5_RA_a_5_6024" value="Botas Sombrias da Devoção de Teleo Seladas" />
+  <keys type="item" key="PVP_AR2_RA_a_1_6025" value="Elmo Selvagem Sombrio de Teleo Selado" />
+  <keys type="item" key="PVP_AR2_RA_a_2_6026" value="Brafoneira Selvagem Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR2_RA_a_3_6027" value="Armadura Leve Selvagem Sombria de Teleo Selada" />
+  <keys type="item" key="PVP_AR2_RA_a_4_6028" value="Luvas Selvagens Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_AR2_RA_a_5_6029" value="Botas Selvagens Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_SU0_RA_018_6000" value="Sealed Teleo's Shield" />
+  <keys type="item" key="PVP_SU1_RA_000_6001" value="Sealed Teleo's Crest" />
+  <keys type="item" key="PVP_SU2_RA_011_6002" value="Sealed Teleo's Gauntlet" />
+  <keys type="item" key="PVP_AC_A_RA_6000" value="Sealed Teleo's Ring I" />
+  <keys type="item" key="PVP_AC_A_RA_6001" value="Sealed Teleo's Ring II" />
+  <keys type="item" key="PVP_AC_A_RA_6002" value="Sealed Teleo's Necklace" />
+  <keys type="item" key="PVPWE11_RA_1_060" value="Sealed Teleo's Magic Wand" />
+  <keys type="item" key="PVPAR10_RA_1_0060" value="Chapéu Pristino Sombrio de Teleo Selado" />
+  <keys type="item" key="PVPAR10_RA_2_0060" value="Brafoneira Pristina Sombria de Teleo Selada" />
+  <keys type="item" key="PVPAR10_RA_3_0060" value="Túnica Pristina Sombria de Teleo Selada" />
+  <keys type="item" key="PVPAR10_RA_4_0060" value="Luvas Pristinas Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVPAR10_RA_5_0060" value="Botas Pristinas Sombrias de Teleo Seladas" />
+  <keys type="item" key="PVP_SU3_RA_000_6001" value="Sealed Teleo's Teddybear" />
+  <keys type="item" key="PVP_MS_FE_SUMMON" value="Akeron Familiar Summon Box" />
+  <keys type="item" key="PvP_RA_FE_0001" value="Badlands Legendary Familiar Mark Box" />
+  <keys type="item" key="CA_RA_00_0358" value="Ellora's Staff" />
+  <keys type="item" key="RA_ALL_WE_0001" value="Tempered +10 Karasha Weapon Box" />
+  <keys type="item" key="RA_WR_AR_0001" value="Tempered +10 Karasha Armor Box(Berserker)" />
+  <keys type="item" key="RA_GD_AR_0001" value="Tempered +10 Karasha Armor Box(Guardian)" />
+  <keys type="item" key="RA_TF_AR_0001" value="Tempered +10 Karasha Armor Box(Assassin)" />
+  <keys type="item" key="RA_PR_AR_0001" value="Tempered +10 Karasha Armor Box(Priest)" />
+  <keys type="item" key="RA_WZ_AR_0001" value="Tempered +10 Karasha Armor Box(Wizard)" />
+  <keys type="item" key="RA_AC_AR_0001" value="Tempered +10 Karasha Armor Box(Ranger)" />
+  <keys type="item" key="RA_DO_AR_0001" value="Tempered +10 Karasha Armor Box(Shahling)" />
+  <keys type="item" key="RA_ALL_WE_0002" value="Tempered +15 Karasha Weapon Box" />
+  <keys type="item" key="RA_WR_AR_0002" value="Tempered +15 Karasha Armor Box(Berserker)" />
+  <keys type="item" key="RA_GD_AR_0002" value="Tempered +15 Karasha Armor Box(Guardian)" />
+  <keys type="item" key="RA_TF_AR_0002" value="Tempered +15 Karasha Armor Box(Assassin)" />
+  <keys type="item" key="RA_PR_AR_0002" value="Tempered +15 Karasha Armor Box(Priest)" />
+  <keys type="item" key="RA_WZ_AR_0002" value="Tempered +15 Karasha Armor Box(Wizard)" />
+  <keys type="item" key="RA_AC_AR_0002" value="Tempered +15 Karasha Armor Box(Ranger)" />
+  <keys type="item" key="RA_DO_AR_0002" value="Tempered +15 Karasha Armor Box(Shahling)" />
+  <keys type="item" key="EV_RA_00_0214" value="Golden Watermelon Lucky Box" />
+  <keys type="item" key="EV_RA_00_0215" value="Alsas Armor Lucky Box" />
+  <keys type="item" key="CA_RA_00_0359" value="Alsas Accessory Box" />
+  <keys type="item" key="CA_RA_00_0360" value="Premium Lucky Box II" />
+  <keys type="item" key="CA_RA_00_0361" value="Familiar Taming Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0362" value="Item Crafting Talismans Lucky Box" />
+  <keys type="item" key="CA_RA_00_0363" value="Item Tempering Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0364" value="Item Auction Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0365" value="Familiar Mark Box V" />
+  <keys type="item" key="CA_RA_00_0366" value="Summer Lucky Box" />
+  <keys type="item" key="EV_RA_00_0216" value="Awakened Heroic Familiar Fragment Box III" />
+  <keys type="item" key="EV_RA_00_0217" value="Superior Legendary Fragment Box" />
+  <keys type="item" key="CA_RA_00_0367" value="Familiar Fragment Lucky Box III" />
+  <keys type="item" key="CA_RA_00_0368" value="Caixa da Sorte de Moeda de Ouro de Pedra de Têmpera II" />
+  <keys type="item" key="EV_RA_00_0218" value="Dead Jeranin's Treasure Box" />
+  <keys type="item" key="EV_RA_00_0219" value="Zelnaris Accessory Box" />
+  <keys type="item" key="EV_RA_00_0220" value="Zelnaris Boarding Weapon Box" />
+  <keys type="item" key="EV_RA_00_0221" value="Sealed Alsas Ring I" />
+  <keys type="item" key="EV_RA_00_0222" value="Sealed Alsas Ring II" />
+  <keys type="item" key="EV_RA_00_0223" value="Sealed Alsas Necklace" />
+  <keys type="item" key="CA_RA_00_0369" value="Awakened Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0370" value="Divine Tempering Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0371" value="Celebration Tempering Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0372" value="Cheap Lucky Box" />
+  <keys type="item" key="CA_RA_00_0373" value="Familiar Crescent Lucky Box" />
+  <keys type="item" key="EV_RA_DO_0022" value="Ellora Armor Box(Idol)" />
+  <keys type="item" key="FI_RA_MAP09_0001" value="Refining Stone Lucky Box" />
+  <keys type="item" key="EV_RA_01_0001" value="Daily Tempering Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0374" value="Sealed Reaper's Crossbow" />
+  <keys type="item" key="CA_RA_00_0375" value="Sealed Reaper's Lance" />
+  <keys type="item" key="CA_RA_00_0376" value="August Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0377" value="Premium Taming Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0378" value="Premium Crafting Talismans Lucky Box" />
+  <keys type="item" key="CA_RA_00_0379" value="Premium Tempering Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0380" value="Premium Auction Boost Talisman Lucky Box" />
+  <keys type="item" key="CA_RA_00_0381" value="August Ica Day Lucky Box" />
+  <keys type="item" key="IT_RA_00_0018" value="Gold Coin Lucky Box" />
+  <keys type="item" key="CA_RA_00_0382" value="Watermelon Lucky Box" />
+  <keys type="item" key="IT_RA_00_0019" value="Gold Coin Shop Lucky Box" />
+  <keys type="item" key="IT_RA_00_0020" value="Familiar Laboratory Mark Box II" />
+  <keys type="item" key="IT_RA_00_0021" value="Caixa da Sorte da Moeda de Ouro de Rabbini" />
+  <keys type="item" key="FI_RA_00_0037" value="Remote Paradise Box" />
+  <keys type="item" key="FI_RA_00_0038" value="Splendid Paradise Box" />
+  <keys type="item" key="FI_RA_00_0039" value="Alsacian Weapon Lucky Box" />
+  <keys type="item" key="EV_RA_01_0002" value="PC Bunny Ellun Lucky Box" />
+  <keys type="item" key="EV_RA_01_0003" value="Secret Ellun Lucky Box" />
+  <keys type="item" key="EV_RA_01_0004" value="Torkai Secret Lucky Box" />
+  <keys type="item" key="CA_RA_00_0383" value="Ica Lucky Box" />
+  <keys type="item" key="CA_RA_00_0384" value="Wings Lucky Box(14 days)" />
+  <keys type="item" key="CA_RA_00_0385" value="Sealed Reaper's Ring I" />
+  <keys type="item" key="CA_RA_00_0386" value="Sealed Reaper's Ring II" />
+  <keys type="item" key="CA_RA_00_0387" value="Sealed Reaper's Necklace" />
+  <keys type="item" key="CA_RA_00_0388" value="Rabbini Lucky Box II" />
+  <keys type="item" key="CA_RA_00_0389" value="Event Shop Lucky Box" />
+  <keys type="item" key="EV_RA_01_0005" value="Legendary &amp; Dragon Lucky Box" />
+  <keys type="item" key="EV_RA_01_0006" value="Bronze Fishing Box" />
+  <keys type="item" key="EV_RA_01_0007" value="Silver Fishing Box" />
+  <keys type="item" key="EV_RA_01_0008" value="Gold Fishing Box" />
+  <keys type="item" key="EV_RA_01_0009" value="Laboratory MarkBox III" />
+  <keys type="item" key="CA_RA_00_0390" value="Full of Item Gift Lucky Box" />
+  <keys type="item" key="CA_RA_00_0391" value="Full of Tempering Stone Gift Lucky Box" />
+  <keys type="item" key="CA_RA_00_0392" value="Full of Familiar Gift Lucky Box" />
+  <keys type="item" key="CA_RA_00_0393" value="Caixa da Sorte de Receita Alsaciana (Arma)" />
+  <keys type="item" key="CA_RA_00_0394" value="Caixa da Sorte da Bênção / Herança Alasciana (Armadura)" />
+  <keys type="item" key="CA_RA_00_0395" value="Caixa da Sorte da Ira / Herança Alasciana (Armadura)" />
+  <keys type="item" key="CA_RA_00_0396" value="September Ica Day Lucky Box" />
+  <keys type="item" key="CA_RA_00_0397" value="Rabbini's Suspicious Costume Box" />
+  <keys type="item" key="CA_RA_00_0398" value="Ica Day Special Lucky Box" />
+  <keys type="item" key="FI_RA_MAP09_0002" value="Treasure Island Costume Lucky Box(3 days)" />
+  <keys type="item" key="EV_RA_01_0010" value="PC Bunny Lab Special Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0399" value="Bright Moon Familiar Crescent Lucky Box" />
+  <keys type="item" key="EV_RA_16_0900" value="Seal Extractor Lucky Box" />
+  <keys type="item" key="EV_RA_16_0901" value="Icaman lucky box (30 days)" />
+  <keys type="item" key="CA_RA_00_0400" value="Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0401" value="Ica Day Ellun Lucky Box" />
+  <keys type="item" key="CA_RA_00_0402" value="Wing Fortune Box (14 days)" />
+  <keys type="item" key="CA_RA_00_0403" value="October Ica Day lucky box" />
+  <keys type="item" key="IT_RA_00_0022" value="Adventure's Mark box I" />
+  <keys type="item" key="IT_RA_00_0023" value="Adventure's Mark box II" />
+  <keys type="item" key="CA_RA_00_0404" value="Legendary Familiar Honeypot" />
+  <keys type="item" key="CA_RA_00_0405" value="Legendary Pet Honeypot" />
+  <keys type="item" key="CA_RA_00_0406" value="Legendary Tempering Stone Honeypot" />
+  <keys type="item" key="CA_RA_00_0407" value="Reaper Equipment Honeypot" />
+  <keys type="item" key="CA_RA_00_0408" value="Refining Stone Honeypot" />
+  <keys type="item" key="CA_RA_00_0409" value="Shoulder Pet Honeypot (14 days)" />
+  <keys type="item" key="CA_RA_00_0410" value="Recipe Honeypot" />
+  <keys type="item" key="CA_RA_00_0411" value="Legendary Seal Extractor Honeypot" />
+  <keys type="item" key="CA_RA_00_0412" value="Weapon Skin Honeypot (14 days)" />
+  <keys type="item" key="CA_RA_00_0413" value="Costume Honeypot (14 days)" />
+  <keys type="item" key="CA_RA_00_0414" value="Wings Honeypot (14 days)" />
+  <keys type="item" key="CA_RA_00_0415" value="Alsas Weapon Recipe Lucky Box." />
+  <keys type="item" key="CA_RA_00_0416" value="Alsas Jewelry Recipe Lucky Box." />
+  <keys type="item" key="CA_RA_00_0417" value="Alsas Bless Recipe Lucky Box" />
+  <keys type="item" key="CA_RA_00_0418" value="Alsas Divine Wrath Recipe Lucky Box" />
+  <keys type="item" key="CA_RA_00_0419" value="Lucky Honeypot" />
+  <keys type="item" key="CA_RA_00_0420" value="Albany Chamber of Commerce Mark Box" />
+  <keys type="item" key="CA_RA_00_0421" value="Wing Fortune Box (30 days)" />
+  <keys type="item" key="CA_RA_00_0422" value="GM's special gift box" />
+  <keys type="item" key="IT_RA_00_0024" value="Adventure Lucky Box" />
+  <keys type="item" key="CA_RA_00_0423" value="Wing Fortune Box (30 days)" />
+  <keys type="item" key="EV_RA_16_0902" value="Aram's fortune box" />
+  <keys type="item" key="CA_RA_00_0424" value="Special lucky box" />
+  <keys type="item" key="CA_RA_00_0425" value="Legendary Tempering Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0426" value="Legendary Pet Honeypot" />
+  <keys type="item" key="CA_RA_00_0427" value="Refining Stone Honeypot" />
+  <keys type="item" key="CA_RA_00_0428" value="Special Enhancement Lucky Box" />
+  <keys type="item" key="EV_RA_16_1006" value="Specification Tempering Stone Lucky box" />
+  <keys type="item" key="EV_RA_16_1007" value="PC Bunny Mark Lucky Box" />
+  <keys type="item" key="GD_EV_04_6002" value="Sealed Alsas Stalwart Helm" />
+  <keys type="item" key="GD_EV_04_6003" value="Sealed Alsas Stalwart Pauldron" />
+  <keys type="item" key="GD_EV_04_6004" value="Sealed Alsas Stalwart Heavy Armor" />
+  <keys type="item" key="GD_EV_04_6005" value="Sealed Alsas Stalwart Gloves" />
+  <keys type="item" key="GD_EV_04_6006" value="Sealed Alsas Stalwart Boots" />
+  <keys type="item" key="WR_EV_04_6002" value="Sealed Alsas Brutal Helm" />
+  <keys type="item" key="WR_EV_04_6003" value="Sealed Alsas Brutal Pauldron" />
+  <keys type="item" key="WR_EV_04_6004" value="Sealed Alsas Brutal Heavy Armor" />
+  <keys type="item" key="WR_EV_04_6005" value="Sealed Alsas Brutal Gloves" />
+  <keys type="item" key="WR_EV_04_6006" value="Sealed Alsas Brutal Boots" />
+  <keys type="item" key="TF_EV_04_6002" value="Sealed Alsas Veiled Helm" />
+  <keys type="item" key="TF_EV_04_6003" value="Sealed Alsas Veiled Pauldron" />
+  <keys type="item" key="TF_EV_04_6004" value="Sealed Alsas Veiled Light Armor" />
+  <keys type="item" key="TF_EV_04_6005" value="Sealed Alsas Veiled Gloves" />
+  <keys type="item" key="TF_EV_04_6006" value="Sealed Alsas Veiled Boots" />
+  <keys type="item" key="WZ_EV_04_6002" value="Sealed Alsas Arcane Hat" />
+  <keys type="item" key="WZ_EV_04_6003" value="Sealed Alsas Arcane Pauldron" />
+  <keys type="item" key="WZ_EV_04_6004" value="Sealed Alsas Arcane Robe" />
+  <keys type="item" key="WZ_EV_04_6005" value="Sealed Alsas Arcane Gloves" />
+  <keys type="item" key="WZ_EV_04_6006" value="Sealed Alsas Arcane Boots" />
+  <keys type="item" key="PR_EV_04_6002" value="Sealed Alsas Devout Hat" />
+  <keys type="item" key="PR_EV_04_6003" value="Sealed Alsas Devout Pauldron" />
+  <keys type="item" key="PR_EV_04_6004" value="Sealed Alsas Devout Robe" />
+  <keys type="item" key="PR_EV_04_6005" value="Sealed Alsas Devout Gloves" />
+  <keys type="item" key="PR_EV_04_6006" value="Sealed Alsas Devout Boots" />
+  <keys type="item" key="AC_EV_04_6002" value="Sealed Alsas Wild Helm" />
+  <keys type="item" key="AC_EV_04_6003" value="Sealed Alsas Wild Pauldron" />
+  <keys type="item" key="AC_EV_04_6004" value="Sealed Alsas Wild Light Armor" />
+  <keys type="item" key="AC_EV_04_6005" value="Sealed Alsas Wild Gloves" />
+  <keys type="item" key="AC_EV_04_6006" value="Sealed Alsas Wild Boots" />
+  <keys type="item" key="DO_EV_04_6002" value="Chapéu Pristino Alsaciano Selado" />
+  <keys type="item" key="DO_EV_04_6003" value="Brafoneira Pristina Alsaciana Selada" />
+  <keys type="item" key="DO_EV_04_6004" value="Túnica Pristina Alsaciana Selada" />
+  <keys type="item" key="DO_EV_04_6005" value="Luvas Pristinas Alsacianas Seladas" />
+  <keys type="item" key="DO_EV_04_6006" value="Botas Pristinas Alsacianas Seladas." />
+  <keys type="item" key="GD_EV_04_6001" value="Sealed Alsas Sword" />
+  <keys type="item" key="TF_EV_04_6001" value="Sealed Alsas Dagger" />
+  <keys type="item" key="WZ_EV_04_6001" value="Sealed Alsas Staff" />
+  <keys type="item" key="WR_EV_04_6001" value="Sealed Alsas Greatsword" />
+  <keys type="item" key="PR_EV_04_6001" value="Sealed Alsas Scepter" />
+  <keys type="item" key="AC_EV_04_6001" value="Sealed Alsas Shortbow" />
+  <keys type="item" key="DO_EV_04_6001" value="Sealed Alsas Magic Wand" />
+  <keys type="item" key="CA_RA_00_0429" value="Alsas Jewelry Box" />
+  <keys type="item" key="CA_RA_00_0430" value="Ellun Lucky Box" />
+  <keys type="item" key="CA_RA_00_0431" value="(Appearance) Costume Lucky box" />
+  <keys type="item" key="CA_RA_00_0432" value="Physical Gem Lucky Box" />
+  <keys type="item" key="CA_RA_00_0433" value="Magical Gem Lucky Box" />
+  <keys type="item" key="CA_RA_00_0434" value="Shining lucky box" />
+  <keys type="item" key="CA_RA_00_0435" value="Halloween Lucky box" />
+  <keys type="item" key="EV_RA_00_0224" value="Pumpkin Costume Lucky Box" />
+  <keys type="item" key="CA_RA_00_0436" value="November Ica Day Lucky box" />
+  <keys type="item" key="CA_RA_00_0437" value="November Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0438" value="GM's November special gift box" />
+  <keys type="item" key="CA_RA_00_0439" value="Good luck box" />
+  <keys type="item" key="CA_RA_00_0440" value="Gem Lucky Box (Lv. 10)" />
+  <keys type="item" key="IT_RA_00_0025" value="Manastone Fragment Random Box" />
+  <keys type="item" key="GD_RA_PvP_0002" value="Teleo's Dark Equipment Box (Guardian)" />
+  <keys type="item" key="WR_RA_PvP_0002" value="Teleo's Dark Equipment Box (Berserker)" />
+  <keys type="item" key="TF_RA_PvP_0002" value="Teleo's Dark Equipment Box (Assassin)" />
+  <keys type="item" key="WZ_RA_PvP_0002" value="Teleo's Dark Equipment Box (Wizard / Magician)" />
+  <keys type="item" key="PR_RA_PvP_0002" value="Teleo's Dark Equipment Box (Priest)" />
+  <keys type="item" key="AC_RA_PvP_0002" value="Teleo's Dark Equipment Box (Ranger)" />
+  <keys type="item" key="DO_RA_PvP_0002" value="Teleo's Dark Equipment Box (Idol)" />
+  <keys type="item" key="CA_RA_00_0441" value="Shining Lucky Box II" />
+  <keys type="item" key="EV_RA_00_0225" value="The Lord's Secret Lucky Box" />
+  <keys type="item" key="IT_DO_04_0001" value="Sealed Ellora's Magic Wand" />
+  <keys type="item" key="IT_DO_04_0002" value="Sealed Exalted Favor Pristine Hat" />
+  <keys type="item" key="IT_DO_04_0003" value="Sealed Exalted Favor Pristine Pauldron" />
+  <keys type="item" key="IT_DO_04_0004" value="Sealed Exalted Favor Pristine Robe" />
+  <keys type="item" key="IT_DO_04_0005" value="Sealed Exalted Favor Pristine Gloves" />
+  <keys type="item" key="IT_DO_04_0006" value="Sealed Exalted Favor Pristine Boots" />
+  <keys type="item" key="IT_DO_04_0002_1" value="Sealed Exalted Wrath Pristine Hat" />
+  <keys type="item" key="IT_DO_04_0003_1" value="Sealed Exalted Wrath Pristine Pauldron" />
+  <keys type="item" key="IT_DO_04_0004_1" value="Sealed Exalted Wrath Pristine Robe" />
+  <keys type="item" key="IT_DO_04_0005_1" value="Sealed Exalted Wrath Pristine Gloves" />
+  <keys type="item" key="IT_DO_04_0006_1" value="Sealed Exalted Wrath Pristine Boots" />
+  <keys type="item" key="IT_DO_04_0007" value="Sealed Ellora's Teddybear" />
+  <keys type="item" key="CA_RA_00_0442" value="December Ica Day Lucky Box" />
+  <keys type="item" key="CA_RA_00_0443" value="December Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0444" value="Legendary Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0445" value="Legendary Pet Lucky Box" />
+  <keys type="item" key="CA_RA_00_0446" value="Event Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0447" value="Lucky Familiar Mark Box IV" />
+  <keys type="item" key="CA_RA_00_0448" value="GM's December special gift box" />
+  <keys type="item" key="EV_RA_00_0226" value="Golden watermelon lucky box" />
+  <keys type="item" key="EV_RA_00_0227" value="Waiting Lucky Box" />
+  <keys type="item" key="EV_RA_00_0228" value="Dead Jeranin's Treasure Chest" />
+  <keys type="item" key="CA_RA_00_0449" value="Santa's Lucky Box" />
+  <keys type="item" key="IT_RA_00_0026" value="Turiman Elite Familiar Mark Box" />
+  <keys type="item" key="EV_RA_00_0229" value="Ancient Familiar Mark Lucky Box" />
+  <keys type="item" key="EV_RA_00_0230" value="Jewelry Tempering Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0450" value="Christmas Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0451" value="Santa's Familiar Crescent Lucky Box" />
+  <keys type="item" key="CA_RA_00_0452" value="Celebration Tempering Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0453" value="2016 Pet &amp; Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0454" value="Ardu Lucky Box" />
+  <keys type="item" key="CA_RA_00_0455" value="January Icay Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0456" value="January Ica Day Lucky Box" />
+  <keys type="item" key="IT_RA_00_0027" value="Turiman low-level Mark box" />
+  <keys type="item" key="IT_D98_00_0000" value="Duke Random Box" />
+  <keys type="item" key="IT_D98_00_0001" value="Count Random Box" />
+  <keys type="item" key="IT_D98_00_0002" value="Baron Random Box" />
+  <keys type="item" key="IT_D98_00_0003" value="PVP Booster Random Box Lv3" />
+  <keys type="item" key="IT_D98_00_0004" value="PVP Booster Random Box (Lv1 ~ Lv2)" />
+  <keys type="item" key="IT_D98_00_0005" value="PVP Booster Random Box Lv1" />
+  <keys type="item" key="IT_D98_00_0006" value="Duke Random Mark Box" />
+  <keys type="item" key="IT_D98_00_0007" value="Count Random Mark Box" />
+  <keys type="item" key="IT_D98_00_0008" value="Barom Random Mark Box" />
+  <keys type="item" key="IT_D98_00_0009" value="Battlefield Random Box" />
+  <keys type="item" key="WR_RA_PvE_0001" value="Alsas Equipment Box (Berserker)" />
+  <keys type="item" key="TF_RA_PvE_0001" value="Alsas Equipment Box (Assassin)" />
+  <keys type="item" key="WZ_RA_PvE_0001" value="Alsas Equipment Box (Wizard / Magician)" />
+  <keys type="item" key="PR_RA_PvE_0001" value="Alsas Equipment Box (Priest)" />
+  <keys type="item" key="AC_RA_PvE_0001" value="Alsas Equipment Box (Rangers)" />
+  <keys type="item" key="DO_RA_PvE_0001" value="Alsas Equipment Box (Idol)" />
+  <keys type="item" key="GD_RA_PvE_0001" value="Alsas Equipment Box (Guardian)" />
+  <keys type="item" key="EV_RA_00_0231" value="Sealed Zelnaris Sword" />
+  <keys type="item" key="EV_RA_00_0232" value="Sealed Zelnaris Greatsword" />
+  <keys type="item" key="EV_RA_00_0233" value="Sealed Zelnaris Dagger" />
+  <keys type="item" key="EV_RA_00_0234" value="Sealed Zelnaris Staff" />
+  <keys type="item" key="EV_RA_00_0235" value="Sealed Zelnaris Scepter" />
+  <keys type="item" key="EV_RA_00_0236" value="Sealed Zelnaris Shortbow" />
+  <keys type="item" key="EV_RA_00_0237" value="Sealed Zelnaris Magic Wand" />
+  <keys type="item" key="JU_RA_00_0000" value="Sealed Alsas Sword" />
+  <keys type="item" key="JU_RA_00_0001" value="Sealed Alsas Dagger" />
+  <keys type="item" key="JU_RA_00_0002" value="Sealed Alsas Staff" />
+  <keys type="item" key="JU_RA_00_0003" value="Sealed Alsas Greatsword" />
+  <keys type="item" key="JU_RA_00_0004" value="Sealed Alsas Scepter" />
+  <keys type="item" key="JU_RA_00_0005" value="Sealed Alsas Shortbow" />
+  <keys type="item" key="JU_RA_00_0006" value="Sealed Alsas Crossbow" />
+  <keys type="item" key="JU_RA_00_0007" value="Sealed Alsas Lance" />
+  <keys type="item" key="JU_RA_00_0008" value="Sealed Alsas Stalwart Helm" />
+  <keys type="item" key="JU_RA_00_0009" value="Sealed Alsas Stalwart Pauldron" />
+  <keys type="item" key="JU_RA_00_0010" value="Sealed Alsas Stalwart Heavy Armor" />
+  <keys type="item" key="JU_RA_00_0011" value="Sealed Alsas Stalwart Gloves" />
+  <keys type="item" key="JU_RA_00_0012" value="Sealed Alsas Stalwart Boots" />
+  <keys type="item" key="JU_RA_00_0013" value="Sealed Alsas Brutal Helm" />
+  <keys type="item" key="JU_RA_00_0014" value="Sealed Alsas Brutal Pauldron" />
+  <keys type="item" key="JU_RA_00_0015" value="Sealed Alsas Brutal Heavy Armor" />
+  <keys type="item" key="JU_RA_00_0016" value="Sealed Alsas Brutal Gloves" />
+  <keys type="item" key="JU_RA_00_0017" value="Sealed Alsas Brutal Boots" />
+  <keys type="item" key="JU_RA_00_0018" value="Sealed Alsas Veiled Helm" />
+  <keys type="item" key="JU_RA_00_0019" value="Sealed Alsas Veiled Pauldron" />
+  <keys type="item" key="JU_RA_00_0020" value="Sealed Alsas Veiled Light Armor" />
+  <keys type="item" key="JU_RA_00_0021" value="Sealed Alsas Veiled Gloves" />
+  <keys type="item" key="JU_RA_00_0022" value="Sealed Alsas Veiled Boots" />
+  <keys type="item" key="JU_RA_00_0023" value="Sealed Alsas Arcane Hat" />
+  <keys type="item" key="JU_RA_00_0024" value="Sealed Alsas Arcane Pauldron" />
+  <keys type="item" key="JU_RA_00_0025" value="Sealed Alsas Arcane Robe" />
+  <keys type="item" key="JU_RA_00_0026" value="Sealed Alsas Arcane Gloves" />
+  <keys type="item" key="JU_RA_00_0027" value="Sealed Alsas Arcane Boots" />
+  <keys type="item" key="JU_RA_00_0028" value="Sealed Alsas Devout Hat" />
+  <keys type="item" key="JU_RA_00_0029" value="Sealed Alsas Devout Pauldron" />
+  <keys type="item" key="JU_RA_00_0030" value="Sealed Alsas Devout Robe" />
+  <keys type="item" key="JU_RA_00_0031" value="Sealed Alsas Devout Gloves" />
+  <keys type="item" key="JU_RA_00_0032" value="Sealed Alsas Devout Boots" />
+  <keys type="item" key="JU_RA_00_0033" value="Sealed Alsas Wild Helm" />
+  <keys type="item" key="JU_RA_00_0034" value="Sealed Alsas Wild Pauldron" />
+  <keys type="item" key="JU_RA_00_0035" value="Sealed Alsas Wild Light Armor" />
+  <keys type="item" key="JU_RA_00_0036" value="Sealed Alsas Wild Gloves" />
+  <keys type="item" key="JU_RA_00_0037" value="Sealed Alsas Wild Boots" />
+  <keys type="item" key="JU_RA_00_0038" value="Sealed Alsas Shield" />
+  <keys type="item" key="JU_RA_00_0039" value="Sealed Alsas Crest" />
+  <keys type="item" key="JU_RA_00_0040" value="Sealed Alsas Gauntlet" />
+  <keys type="item" key="JU_RA_00_0041" value="Sealed Alsas Ring I" />
+  <keys type="item" key="JU_RA_00_0042" value="Sealed Alsas Ring II" />
+  <keys type="item" key="JU_RA_00_0043" value="Sealed Alsas Necklace" />
+  <keys type="item" key="JU_RA_00_0044" value="Sealed Alsas Magic Wand" />
+  <keys type="item" key="JU_RA_00_0045" value="Sealed Alsacian Pristine Hat" />
+  <keys type="item" key="JU_RA_00_0046" value="Sealed Alsacian Pristine Pauldron" />
+  <keys type="item" key="JU_RA_00_0047" value="Sealed Alsacian Pristine Robe" />
+  <keys type="item" key="JU_RA_00_0048" value="Sealed Alsacian Pristine Gloves" />
+  <keys type="item" key="JU_RA_00_0049" value="Sealed Alsacian Pristine Boots." />
+  <keys type="item" key="JU_RA_00_0050" value="Sealed Alsas Teddybear" />
+  <keys type="item" key="JU_RA_00_0051" value="Sealed Teleo's Sword" />
+  <keys type="item" key="JU_RA_00_0052" value="Sealed Teleo's Dagger" />
+  <keys type="item" key="JU_RA_00_0053" value="Sealed Teleo's Staff" />
+  <keys type="item" key="JU_RA_00_0054" value="Sealed Teleo's Greatsword" />
+  <keys type="item" key="JU_RA_00_0055" value="Sealed Teleo's Scepter" />
+  <keys type="item" key="JU_RA_00_0056" value="Sealed Teleo's Shortbow" />
+  <keys type="item" key="JU_RA_00_0057" value="Sealed Teleo's Crossbow" />
+  <keys type="item" key="JU_RA_00_0058" value="Sealed Teleo's Lance" />
+  <keys type="item" key="JU_RA_00_0059" value="Sealed Teleo's Stalwart Helm" />
+  <keys type="item" key="JU_RA_00_0060" value="Sealed Teleo's Stalwart Pauldron" />
+  <keys type="item" key="JU_RA_00_0061" value="Sealed Teleo's Stalwart Heavy Armor" />
+  <keys type="item" key="JU_RA_00_0062" value="Sealed Teleo's Stalwart Gloves" />
+  <keys type="item" key="JU_RA_00_0063" value="Sealed Teleo's Stalwart Boots" />
+  <keys type="item" key="JU_RA_00_0064" value="Sealed Teleo's Brutal Helm" />
+  <keys type="item" key="JU_RA_00_0065" value="Sealed Teleo's Brutal Pauldron" />
+  <keys type="item" key="JU_RA_00_0066" value="Sealed Teleo's Brutal Heavy Armor" />
+  <keys type="item" key="JU_RA_00_0067" value="Sealed Teleo's Brutal Gloves" />
+  <keys type="item" key="JU_RA_00_0068" value="Sealed Teleo's Brutal Boots" />
+  <keys type="item" key="JU_RA_00_0069" value="Sealed Teleo's Veiled Helm" />
+  <keys type="item" key="JU_RA_00_0070" value="Sealed Teleo's Veiled Pauldron" />
+  <keys type="item" key="JU_RA_00_0071" value="Sealed Teleo's Veiled Light Armor" />
+  <keys type="item" key="JU_RA_00_0072" value="Sealed Teleo's Veiled Gloves" />
+  <keys type="item" key="JU_RA_00_0073" value="Sealed Teleo's Veiled Boots" />
+  <keys type="item" key="JU_RA_00_0074" value="Sealed Teleo's Arcane Hat" />
+  <keys type="item" key="JU_RA_00_0075" value="Sealed Teleo's Arcane Pauldron" />
+  <keys type="item" key="JU_RA_00_0076" value="Sealed Teleo's Arcane Robe" />
+  <keys type="item" key="JU_RA_00_0077" value="Sealed Teleo's Arcane Gloves" />
+  <keys type="item" key="JU_RA_00_0078" value="Sealed Teleo's Arcane Boots" />
+  <keys type="item" key="JU_RA_00_0079" value="Sealed Teleo's Devout Hat" />
+  <keys type="item" key="JU_RA_00_0080" value="Sealed Teleo's Devout Pauldron" />
+  <keys type="item" key="JU_RA_00_0081" value="Sealed Teleo's Devout Robe" />
+  <keys type="item" key="JU_RA_00_0082" value="Sealed Teleo's Devout Gloves" />
+  <keys type="item" key="JU_RA_00_0083" value="Sealed Teleo's Devout Boots" />
+  <keys type="item" key="JU_RA_00_0084" value="Sealed Teleo's Wild Helm" />
+  <keys type="item" key="JU_RA_00_0085" value="Sealed Teleo's Wild Pauldron" />
+  <keys type="item" key="JU_RA_00_0086" value="Sealed Teleo's Wild Light Armor" />
+  <keys type="item" key="JU_RA_00_0087" value="Sealed Teleo's Wild Gloves" />
+  <keys type="item" key="JU_RA_00_0088" value="Sealed Teleo's Wild Boots" />
+  <keys type="item" key="JU_RA_00_0089" value="Sealed Teleo's Shield" />
+  <keys type="item" key="JU_RA_00_0090" value="Sealed Teleo's Crest" />
+  <keys type="item" key="JU_RA_00_0091" value="Sealed Teleo's Gauntlet" />
+  <keys type="item" key="JU_RA_00_0092" value="Sealed Teleo's Ring I" />
+  <keys type="item" key="JU_RA_00_0093" value="Sealed Teleo's Ring II" />
+  <keys type="item" key="JU_RA_00_0094" value="Sealed Teleo's Necklace" />
+  <keys type="item" key="JU_RA_00_0095" value="Sealed Teleo's Magic Wand" />
+  <keys type="item" key="JU_RA_00_0096" value="Sealed Teleo's Dark Pristine Hat" />
+  <keys type="item" key="JU_RA_00_0097" value="Sealed Teleo's Dark Pristine Pauldron" />
+  <keys type="item" key="JU_RA_00_0098" value="Sealed Teleo's Dark Pristine Robe" />
+  <keys type="item" key="JU_RA_00_0099" value="Sealed Teleo's Dark Pristine Gloves" />
+  <keys type="item" key="JU_RA_00_0100" value="Sealed Teleo's Dark Pristine Boots" />
+  <keys type="item" key="JU_RA_00_0101" value="Sealed Teleo's Teddybear" />
+  <keys type="item" key="IT_RA_00_0028" value="Turiman Advanced Mark Box" />
+  <keys type="item" key="IT_RA_00_0029" value="Sealed Lazard's Sword" />
+  <keys type="item" key="IT_RA_00_0030" value="Sealed Lazard's Greatsword" />
+  <keys type="item" key="IT_RA_00_0031" value="Sealed Lazard's Dagger" />
+  <keys type="item" key="IT_RA_00_0032" value="Sealed Lazard's Scepter" />
+  <keys type="item" key="IT_RA_00_0033" value="Sealed Lazard's Staff" />
+  <keys type="item" key="IT_RA_00_0034" value="Sealed Lazard's Lance" />
+  <keys type="item" key="IT_RA_00_0035" value="Sealed Lazard's Crossbow" />
+  <keys type="item" key="IT_RA_00_0036" value="Sealed Lazard's Shortbow" />
+  <keys type="item" key="IT_RA_00_0037" value="Sealed Lazard's Magic Wand" />
+  <keys type="item" key="IT_RA_00_0038" value="Sealed Lazard's Stalwart Helm" />
+  <keys type="item" key="IT_RA_00_0039" value="Sealed Lazard's Stalwart Pauldron" />
+  <keys type="item" key="IT_RA_00_0040" value="Sealed Lazard's Stalwart Heavy Armor" />
+  <keys type="item" key="IT_RA_00_0041" value="Sealed Lazard's Stalwart Gloves" />
+  <keys type="item" key="IT_RA_00_0042" value="Sealed Lazard's Stalwart Boots" />
+  <keys type="item" key="IT_RA_00_0043" value="Sealed Lazard's Brutal Helm" />
+  <keys type="item" key="IT_RA_00_0044" value="Sealed Lazard's Brutal Pauldron" />
+  <keys type="item" key="IT_RA_00_0045" value="Sealed Lazard's Brutal Heavy Armor" />
+  <keys type="item" key="IT_RA_00_0046" value="Sealed Lazard's Brutal Gloves" />
+  <keys type="item" key="IT_RA_00_0047" value="Sealed Lazard's Brutal Boots" />
+  <keys type="item" key="IT_RA_00_0048" value="Sealed Lazard's Veiled Helm" />
+  <keys type="item" key="IT_RA_00_0049" value="Sealed Lazard's Veiled Pauldron" />
+  <keys type="item" key="IT_RA_00_0050" value="Sealed Lazard's Veiled Light Armor" />
+  <keys type="item" key="IT_RA_00_0051" value="Sealed Lazard's Veiled Gloves" />
+  <keys type="item" key="IT_RA_00_0052" value="Sealed Lazard's Veiled Boots" />
+  <keys type="item" key="IT_RA_00_0053" value="Sealed Lazard's Arcane Hat" />
+  <keys type="item" key="IT_RA_00_0054" value="Sealed Lazard's Arcane Pauldron" />
+  <keys type="item" key="IT_RA_00_0055" value="Sealed Lazard's Arcane Robe" />
+  <keys type="item" key="IT_RA_00_0056" value="Sealed Lazard's Arcane Gloves" />
+  <keys type="item" key="IT_RA_00_0057" value="Sealed Lazard's Arcane Boots" />
+  <keys type="item" key="IT_RA_00_0058" value="Sealed Lazard's Devout Hat" />
+  <keys type="item" key="IT_RA_00_0059" value="Sealed Lazard's Devout Pauldron" />
+  <keys type="item" key="IT_RA_00_0060" value="Sealed Lazard's Devout Robe" />
+  <keys type="item" key="IT_RA_00_0061" value="Sealed Lazard's Devout Gloves" />
+  <keys type="item" key="IT_RA_00_0062" value="Sealed Lazard's Devout Boots" />
+  <keys type="item" key="IT_RA_00_0063" value="Sealed Lazard's Wild Helm" />
+  <keys type="item" key="IT_RA_00_0064" value="Sealed Lazard's Wild Pauldron" />
+  <keys type="item" key="IT_RA_00_0065" value="Sealed Lazard's Wild Light Armor" />
+  <keys type="item" key="IT_RA_00_0066" value="Sealed Lazard's Wild Gloves" />
+  <keys type="item" key="IT_RA_00_0067" value="Sealed Lazard's Wild Boots" />
+  <keys type="item" key="IT_RA_00_0068" value="Sealed Lazard Pristine Hat" />
+  <keys type="item" key="IT_RA_00_0069" value="Sealed Lazard Pristine Pauldron " />
+  <keys type="item" key="IT_RA_00_0070" value="Sealed Lazard Pristine Robe " />
+  <keys type="item" key="IT_RA_00_0071" value="Sealed Lazard Pristine Gloves " />
+  <keys type="item" key="IT_RA_00_0072" value="Sealed Lazard Pristine Boots " />
+  <keys type="item" key="IT_RA_00_0073" value="Sealed Lazard's Shield" />
+  <keys type="item" key="IT_RA_00_0074" value="Sealed Lazard's Crest" />
+  <keys type="item" key="IT_RA_00_0075" value="Sealed Lazard's Gauntlet" />
+  <keys type="item" key="IT_RA_00_0076" value="Sealed Lazard's Teddybear" />
+  <keys type="item" key="IT_RA_00_0077" value="Sealed Lazard's Ring I" />
+  <keys type="item" key="IT_RA_00_0078" value="Sealed Lazard's Ring II" />
+  <keys type="item" key="IT_RA_00_0079" value="Sealed Lazard's Necklace" />
+  <keys type="item" key="CA_RA_00_0457" value="GM's January Special Gift Box" />
+  <keys type="item" key="EV_RA_00_0238" value="New Year's Pouch" />
+  <keys type="item" key="CA_RA_00_0458" value="Year of the Monkey Pouch" />
+  <keys type="item" key="CA_RA_00_0459" value="Familiar Crescent Lucky Box" />
+  <keys type="item" key="CA_RA_00_0460" value="Superior Familiar Crescent Lucky Box" />
+  <keys type="item" key="CA_RA_00_0461" value="New Year Pet &amp; Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0462" value="Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0463" value="Lottery Ticket" />
+  <keys type="item" key="CA_RA_00_0464" value="February Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0465" value="February Ica Day lucky box" />
+  <keys type="item" key="IT_RA_00_0080" value="Ancient Familiar Summon Random Box" />
+  <keys type="item" key="IT_RA_00_0081" value="Ancient Familiar Mark Random Box" />
+  <keys type="item" key="CA_RA_00_0466" value="GM's February special gift box" />
+  <keys type="item" key="CA_RA_00_0467" value="Valentine's Gift Box" />
+  <keys type="item" key="EV_RA_00_0239" value="Sweet valentine lucky box" />
+  <keys type="item" key="CA_RA_00_0468" value="2017's Lucky Box" />
+  <keys type="item" key="CA_RA_00_0469" value="2017's Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0470" value="March Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0471" value="March Ica Day lucky box" />
+  <keys type="item" key="EV_RA_00_0240" value="Mysterious Turiman's Box" />
+  <keys type="item" key="EV_RA_00_0241" value="Royal Banner Lucky Box" />
+  <keys type="item" key="CA_RA_00_0472" value="GM's March special gift box" />
+  <keys type="item" key="CA_RA_00_0473" value="White Day lucky box" />
+  <keys type="item" key="CA_RA_00_0474" value="Teleo's Dark Armor Lucky Box (Guardian)" />
+  <keys type="item" key="CA_RA_00_0475" value="Teleo's Dark Armor Lucky Box (Berserker)" />
+  <keys type="item" key="CA_RA_00_0476" value="Teleo's Dark Armor Lucky Box (Assassin)" />
+  <keys type="item" key="CA_RA_00_0477" value="Teleo's Dark Armor Lucky Box (Wizard/Magician)" />
+  <keys type="item" key="CA_RA_00_0478" value="Teleo's Dark Armor Lucky Box (Priest)" />
+  <keys type="item" key="CA_RA_00_0479" value="Teleo's Dark Armor Lucky Box (Ranger)" />
+  <keys type="item" key="CA_RA_00_0480" value="Teleo's Dark Armor Lucky Box (Idol)" />
+  <keys type="item" key="CA_RA_00_0481" value="Teleo's Dark Weapon Lucky Box" />
+  <keys type="item" key="CA_RA_00_0482" value="Teleo's Dark Armor Fortune Box" />
+  <keys type="item" key="CA_RA_00_0483" value="Teleo's Dark Accessory Lucky Box" />
+  <keys type="item" key="EV_RA_00_0242" value="Parna's Elite Mark Box" />
+  <keys type="item" key="EV_RA_00_0243" value="Tritael Rift Elite Mark Box" />
+  <keys type="item" key="EV_RA_00_0244" value="Akrat Mark Box" />
+  <keys type="item" key="EV_RA_00_0245" value="Turiman Mark Box" />
+  <keys type="item" key="pvpMG2528box" value="Exarahn's Magician Level 30 Random Box" />
+  <keys type="item" key="pvpMG3033box" value="Exarahn's Magician Level 35 Random Box" />
+  <keys type="item" key="pvpMG3538box" value="Exarahn's Magician Level 40 Random Box" />
+  <keys type="item" key="pvpMG4043box" value="Exarahn's Magician Level 45 Random Box" />
+  <keys type="item" key="EV_RA_0_308" value="Hakanas Basic Box for Magicians" />
+  <keys type="item" key="EV_RA_0_309" value="Hakanas Advanced Box for Magicians" />
+  <keys type="item" key="EV_RA_0_310" value="Hakanas Superior Box for Magicians" />
+  <keys type="item" key="EV_RA_0_311" value="Rabbini's Armor Box (Magician)" />
+  <keys type="item" key="pvpMG4564box" value="Akeron's Magician Lv.45 Box" />
+  <keys type="item" key="pvpMG5069box" value="Akeron's Magician Lv.50 Box" />
+  <keys type="item" key="pvpMG5569box" value="Akeron's Magician Lv.55 Box" />
+  <keys type="item" key="EV_RA_05_0020" value="Embelished Slayer's Armor Box (Magician) - Guild Room" />
+  <keys type="item" key="PvP_RA_00_0021" value="Embelished Slayer's Armor Box (Magician) - Akeron Gold Coins" />
+  <keys type="item" key="EV_RA_0_312" value="Ancient box (Magician)" />
+  <keys type="item" key="EV_RA_0_313" value="Alsas Weapon Recipe Box (Magician)" />
+  <keys type="item" key="EV_RA_0_314" value="Alsas Armor Recipe Box (Magician) - Divine Wrath" />
+  <keys type="item" key="EV_RA_0_315" value="Alsas Armor Recipe Box (Magician) - Bless" />
+  <keys type="item" key="CA_RA_00_0500" value="Alsas Armor Recipe Lucky Box (Magician)" />
+  <keys type="item" key="MG_RA_PvP_0001" value="Teleo's Dark Equipment Random Box (Magician)" />
+  <keys type="item" key="MG_RA_PvP_0002" value="Teleo's Dark Equipment Random Box (Magician)" />
+  <keys type="item" key="MG_RA_PvE_0001" value="Alsas Equipment Random Box (Magician)" />
+  <keys type="item" key="EV_RA_0_316" value="Ellora's Staff Box (Magician)" />
+  <keys type="item" key="EV_RA_0_317" value="Alsas Armor Box (Magician)" />
+  <keys type="item" key="EV_RA_0_318" value="Ellora's Armor Box (Magician)" />
+  <keys type="item" key="EV_RA_0_319" value="Karasha's armor box (Magician)" />
+  <keys type="item" key="CA_RA_00_0484" value="Windfall Lucky Box" />
+  <keys type="item" key="CA_RA_00_0485" value="Windfall Premium Lucky Box" />
+  <keys type="item" key="CA_RA_00_0486" value="Honing Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0487" value="New Spring Lucky Box" />
+  <keys type="item" key="CA_RA_00_0488" value="Ancient Familiar Lucky Box" />
+  <keys type="item" key="CA_RA_00_0489" value="Tempered Legendary Seal Extractor Lucky Box" />
+  <keys type="item" key="ms_ra_00_1000" value="Baú Heroico do Matador (Magician)" />
+  <keys type="item" key="CA_RA_00_0490" value="Rabbini Lucky Box II" />
+  <keys type="item" key="CA_RA_00_0491" value="GM's April special gift box" />
+  <keys type="item" key="CA_RA_00_0492" value="Lv.60 Weapon Refining Stone Fortune Box" />
+  <keys type="item" key="CA_RA_00_0493" value="Lv.60 Armor Refining Stone Fortune Box" />
+  <keys type="item" key="CA_RA_00_0494" value="Lv.60 Accessory Refining Stone Fortune Box" />
+  <keys type="item" key="CA_RA_00_0495" value="Premium Gem Lucky Box" />
+  <keys type="item" key="CA_RA_00_0496" value="April Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0497" value="April Ica Day Lucky Box" />
+  <keys type="item" key="CA_RA_00_0498" value="Kitsune of Courage Lucky Box" />
+  <keys type="item" key="CA_RA_00_0499" value="Kitsune of Wisdom Lucky Box" />
+  <keys type="item" key="CA_RA_00_0501" value="Generous Lucky Box" />
+  <keys type="item" key="CA_RA_00_0502" value="Generous Lucky Box Pack" />
+  <keys type="item" key="EV_RA_0_320" value="3rd anniversary letter fortune box" />
+  <keys type="item" key="CA_RA_00_0503" value="Alsas Energy Lucky Box" />
+  <keys type="item" key="CA_RA_00_0504" value="Alsas Bless Lucky Box" />
+  <keys type="item" key="EV_RA_0_321" value="Sealed Alsas Sword" />
+  <keys type="item" key="EV_RA_0_322" value="Sealed Alsas Dagger" />
+  <keys type="item" key="EV_RA_0_323" value="Sealed Alsas Staff" />
+  <keys type="item" key="EV_RA_0_324" value="Sealed Alsas Greatsword" />
+  <keys type="item" key="EV_RA_0_325" value="Sealed Alsas Scepter" />
+  <keys type="item" key="EV_RA_0_326" value="Sealed Alsas Shortbow" />
+  <keys type="item" key="EV_RA_0_327" value="Sealed Alsas Magic Wand" />
+  <keys type="item" key="EV_RA_0_328" value="Teleos Dark Sword" />
+  <keys type="item" key="EV_RA_0_329" value="Teleos Dark Dagger" />
+  <keys type="item" key="EV_RA_0_330" value="Teleos Dark Staff" />
+  <keys type="item" key="EV_RA_0_331" value="Teleos Dark Greatsword" />
+  <keys type="item" key="EV_RA_0_332" value="Teleos Dark Scepter" />
+  <keys type="item" key="EV_RA_0_333" value="Teleos Dark Shortbow" />
+  <keys type="item" key="EV_RA_0_334" value="Teleos Dark Magic Wand" />
+  <keys type="item" key="CA_RA_00_0505" value="Lv. 65 Refining Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0506" value="3rd anniversary Pet luck box" />
+  <keys type="item" key="CA_RA_00_0507" value="3rd Anniversary Familiar Fortune Box" />
+  <keys type="item" key="CA_RA_00_0508" value="3rd Anniversary Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0509" value="Davy's Lucky Box" />
+  <keys type="item" key="CA_RA_00_0510" value="Pet Capture Orb Fortune Box" />
+  <keys type="item" key="CA_RA_00_0511" value="Pet Capture Orb Fortune Box" />
+  <keys type="item" key="CA_RA_00_0512" value="GM May Special Gift Box" />
+  <keys type="item" key="CA_RA_00_0513" value="Golden holiday lucky box" />
+  <keys type="item" key="CA_RA_00_0514" value="Golden Holiday Lucky Box II" />
+  <keys type="item" key="CA_RA_00_0515" value="Golden Holiday Familiars &amp; Pet Fortune Box" />
+  <keys type="item" key="CA_RA_00_0516" value="50 Elluns" />
+  <keys type="item" key="IT_RA_00_0082" value="Caixa da Sorte do Desafio de Hastan" />
+  <keys type="item" key="IT_RA_00_0083" value="Shining +10 Alsas Equipment Lucky Box" />
+  <keys type="item" key="IT_RA_00_0084" value="Caixa da Sorte de Marca de Familiar do Desafio de Hastan" />
+  <keys type="item" key="IT_RA_00_0085" value="Shining Equipment Lucky Box" />
+  <keys type="item" key="IT_RA_00_0086" value="Shining +15 Alsas Equipment Lucky Box" />
+  <keys type="item" key="IT_RA_00_0087" value="Shining +20 Alsas Equipment Lucky Box" />
+  <keys type="item" key="IT_RA_00_0088" value="Kurodian's Mark Lucky Box" />
+  <keys type="item" key="IT_D98_00_0010" value="Temain Succession Recipe Lucky Box (Guardian)" />
+  <keys type="item" key="IT_D98_00_0011" value="Temain Succession Recipe Lucky Box (Berserker)" />
+  <keys type="item" key="IT_D98_00_0012" value="Temain Succession Recipe Lucky Box (Assassin)" />
+  <keys type="item" key="IT_D98_00_0013" value="Temain Succession Recipe Lucky Box (Wizard)" />
+  <keys type="item" key="IT_D98_00_0014" value="Temain Succession Recipe Lucky Box (Priest)" />
+  <keys type="item" key="IT_D98_00_0015" value="Temain Succession Recipe Lucky Box (Ranger)" />
+  <keys type="item" key="IT_D98_00_0016" value="Temain Succession Recipe Lucky Box (Idol)" />
+  <keys type="item" key="CA_RA_00_0517" value="May Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0518" value="May Ica Day Lucky Box" />
+  <keys type="item" key="IT_D98_00_0018" value="Temain Recipe Lucky Box Guardian(Succession/Teleo)" />
+  <keys type="item" key="IT_D98_00_0019" value="Temain Recipe Lucky Box Berserker(Succession/Teleo)" />
+  <keys type="item" key="IT_D98_00_0020" value="Temain Recipe Lucky Box Assassin(Succession/Teleo)" />
+  <keys type="item" key="IT_D98_00_0021" value="Temain Recipe Lucky Box Wizard(Succession/Teleo)" />
+  <keys type="item" key="IT_D98_00_0022" value="Temain Recipe Lucky Box Priest(Succession/Teleo)" />
+  <keys type="item" key="IT_D98_00_0023" value="Temain Recipe Lucky Box Ranger(Succession/Teleo)" />
+  <keys type="item" key="IT_D98_00_0024" value="Temain Recipe Lucky Box Idol(Succession/Teleo)" />
+  <keys type="item" key="IT_D98_00_0025" value="Temain Recipe Lucky Box Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0026" value="Temain Recipe Lucky Box Guardian(Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0027" value="Temain Recipe Lucky Box Berserker(Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0028" value="Temain Recipe Lucky Box Assassin(Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0029" value="Temain Recipe Lucky Box Wizard(Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0030" value="Temain Recipe Lucky Box Priest(Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0031" value="Temain Recipe Lucky Box Ranger(Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0032" value="Temain Recipe Lucky Box Idol(Simple/Teleo)" />
+  <keys type="item" key="IT_D98_00_0017" value="Temain Recipe Lucky Box (Succession/Teleo)" />
+  <keys type="item" key="IT_RA_00_0089" value="Turiman Lucky Box:" />
+  <keys type="item" key="CA_RA_00_0519" value="Good Luck Charm" />
+  <keys type="item" key="CA_RA_00_0520" value="Temain Armor Succession Recipe Lucky Box (Teleo)" />
+  <keys type="item" key="CA_RA_00_0521" value="Temain Weapon Succession Recipe Lucky Box(Teleo)" />
+  <keys type="item" key="CA_RA_00_0522" value="Temain Accessory Succession Recipe Lucky Box(Teleo)" />
+  <keys type="item" key="CA_RA_00_0523" value="Temain Armor Succession Recipe Lucky Box (Alsas)" />
+  <keys type="item" key="CA_RA_00_0524" value="Temain Weapon Succession Recipe Lucky Box (Alsas)" />
+  <keys type="item" key="CA_RA_00_0525" value="Temain Accessory Succession Recipe Lucky Box (Alsas)" />
+  <keys type="item" key="CA_RA_00_0526" value="Temain Succession Recipe Lucky Box (Teleo)" />
+  <keys type="item" key="CA_RA_00_0527" value="Temain Succession Recipe Lucky Box(Alsas)" />
+  <keys type="item" key="IT_RA_00_0090" value="A treasure chest of the Duke Elder Hakain." />
+  <keys type="item" key="EV_RA_00_0246" value="PCBunny VIP Lucky Box" />
+  <keys type="item" key="EV_RA_00_0247" value="PCBunny Lucky Box" />
+  <keys type="item" key="IT_RA_00_0091" value="Lv.65 Refining Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0528" value="June Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0529" value="June Ica Day Lucky Box" />
+  <keys type="item" key="CA_RA_00_0530" value="Foggian of Wisdom Lucky Box" />
+  <keys type="item" key="CA_RA_00_0531" value="Foggian of Courage Lucky Box" />
+  <keys type="item" key="CA_RA_00_0532" value="Legendary Familiar Crescent Lucky Box" />
+  <keys type="item" key="CA_RA_00_0533" value="Special Booster Talisman Recipe Lucky Box" />
+  <keys type="item" key="CA_RA_00_0534" value="Good Luck Lucky Box" />
+  <keys type="item" key="EV_RA_00_0248" value="PC Cafe Roulette Lucky Box" />
+  <keys type="item" key="IT_RA_00_0092" value="Gem Lucky Box (Lvl.7-9)" />
+  <keys type="item" key="IT_RA_00_0093" value="Rabbini Summoning Scroll Lucky Box" />
+  <keys type="item" key="CA_RA_00_0535" value="Reload Lucky Box" />
+  <keys type="item" key="CA_RA_00_0536" value="July Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0537" value="July Ica Day Lucky Box" />
+  <keys type="item" key="CA_RA_00_0538" value="Item Crafting Booster Lucky Box" />
+  <keys type="item" key="IT_RA_00_0094" value="Crow's Treasure Chest" />
+  <keys type="item" key="IT_RA_00_0096" value="Aisha's Treasure Chest" />
+  <keys type="item" key="IT_RA_00_0097" value="Cheemer's Treasure Chest" />
+  <keys type="item" key="IT_RA_00_0098" value="Lazard Treasure Chest" />
+  <keys type="item" key="CA_RA_00_0539" value="Summer Lucky Box" />
+  <keys type="item" key="CA_RA_00_0540" value="Premium Growth Lucky Box" />
+  <keys type="item" key="CA_RA_00_0541" value="Awakening Lucky Box" />
+  <keys type="item" key="CA_RA_00_0542" value="August Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0543" value="August Ica Day Lucky Box" />
+  <keys type="item" key="EV_RA_00_0249" value="Familiar Crescent Lucky Box" />
+  <keys type="item" key="IT_RA_00_0099" value="Awakened Boss Familiar &amp; Pet Orb Random Box" />
+  <keys type="item" key="IT_RA_00_0100" value="Lvl.9 Gem Lucky Box" />
+  <keys type="item" key="CA_RA_00_0544" value="Twilight Pet Lucky Box" />
+  <keys type="item" key="CA_RA_00_0545" value="Void Pet Fortune Box" />
+  <keys type="item" key="CA_RA_00_0546" value="Legendary Reverse Tempering Lucky Box" />
+  <keys type="item" key="CA_RA_00_0547" value="So Cool Tempering Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0548" value="So Cool Lucky Box" />
+  <keys type="item" key="CA_RA_00_0549" value="Cool Time Lucky Box" />
+  <keys type="item" key="CA_RA_00_0550" value="Cool Lucky Box" />
+  <keys type="item" key="CA_RA_00_0551" value="It Rocks Lucky Box" />
+  <keys type="item" key="CA_RA_00_0552" value="It Rocks Lucky Box II" />
+  <keys type="item" key="IT_RA_00_0101" value="Boost Talisman Lucky Box" />
+  <keys type="item" key="IT_RA_00_0102" value="Superior Boost Talisman Lucky Box" />
+  <keys type="item" key="IT_RA_00_0103" value="Fishing Familiar Mark Box &amp; Pet Orb Box" />
+  <keys type="item" key="IT_RA_00_0104" value="Hakanas Drifting Box" />
+  <keys type="item" key="CA_RA_00_0553" value="September Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0554" value="September Ica Day Lucky Box" />
+  <keys type="item" key="CA_RA_00_0555" value="Legendary Familiar Crescent Lucky Box II" />
+  <keys type="item" key="CA_RA_00_0556" value="Event Lucky Box" />
+  <keys type="item" key="CA_RA_00_0557" value="Ica Day Premium Lucky Box" />
+  <keys type="item" key="FI_RA_00_0040" value="Alsacian Armor Lucky Box" />
+  <keys type="item" key="EV_RA_00_0250" value="Gem Lucky Box (Lv.7 - Lv.9)" />
+  <keys type="item" key="EV_RA_00_0251" value="Temain Succession Recipe Lucky Box (Alsas)" />
+  <keys type="item" key="EV_RA_00_0252" value="Alsas Succession Recipe Box (Ellora)" />
+  <keys type="item" key="EV_RA_00_0253" value="Temain Succession Recipe Lucky Box (Teleo)" />
+  <keys type="item" key="EV_RA_00_0254" value="Alsas Succession Recipe Box (Ellora Bless)" />
+  <keys type="item" key="CA_RA_00_0558" value="Autumnal Equinox Lucky Box" />
+  <keys type="item" key="CA_RA_00_0559" value="October Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0560" value="October Ica Day Lucky Box" />
+  <keys type="item" key="CA_RA_00_0561" value="Golden Holiday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0562" value="Golden Holiday Familiars and Pet Lucky Box" />
+  <keys type="item" key="CA_RA_00_0563" value="Golden Holiday Fortune-Telling Lucky Box" />
+  <keys type="item" key="CA_RA_00_0564" value="November Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0565" value="November Ica Day Lucky box" />
+  <keys type="item" key="CA_RA_00_0566" value="Halloween Lucky Box" />
+  <keys type="item" key="EV_RA_00_0255" value="Caixa da Sorte de Gema (Nível 8-10)" />
+  <keys type="item" key="CA_RA_00_0567" value="Pound-Foolish Lucky Box" />
+  <keys type="item" key="CA_RA_00_0568" value="Blessed Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0569" value="Event Lucky Box" />
+  <keys type="item" key="CA_RA_00_0570" value="December Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0571" value="December Ica Day Lucky Box" />
+  <keys type="item" key="IT_RA_00_0105" value="Adventure Mark Box III" />
+  <keys type="item" key="CA_RA_00_0572" value="Christmas Lucky Box" />
+  <keys type="item" key="CA_RA_00_0573" value="January Ica Day Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0574" value="January Ica Day Fortune Box" />
+  <keys type="item" key="CA_RA_00_0575" value="(Appearance) Costume Lucky Box" />
+  <keys type="item" key="CA_RA_00_0576" value="New Year Lucky Box" />
+  <keys type="item" key="CA_RA_00_0577" value="New Year Lucky Box II" />
+  <keys type="item" key="CA_RA_00_0578" value="February Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0579" value="February Icaday Lucky Box" />
+  <keys type="item" key="IT_RA_00_0133" value="ICA Sports Random Box" />
+  <keys type="item" key="IT_RA_00_0134" value="Gold Medal Fucker Kazua Random Box" />
+  <keys type="item" key="IT_RA_00_0135" value="ICA Big! Sports" />
+  <keys type="item" key="IT_RA_00_0136" value="ICA Big! Athletic Dungeon Commissioner Random Box" />
+  <keys type="item" key="CA_RA_00_0580" value="March Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0581" value="March Icaday Lucky Box" />
+  <keys type="item" key="IT_RA_00_0137" value="Advanced Legend Sculpture Box II" />
+  <keys type="item" key="IT_RA_00_0138" value="Legendary Congratulations &amp; Legendary Sculpture Lucky Box" />
+  <keys type="item" key="IT_RA_00_0139" value="Cash item Lucky Box I" />
+  <keys type="item" key="IT_RA_00_0140" value="(Appearance) Costume Lucky Box" />
+  <keys type="item" key="CA_RA_00_0582" value="April Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0583" value="April Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0584" value="Jackpot random Box at the top of Mac vane" />
+  <keys type="item" key="CA_RA_00_0585" value="Spring -dong Costume Random Box" />
+  <keys type="item" key="EV_RA_00_0256" value="Event Lucky Box 4?" />
+  <keys type="item" key="CA_RA_00_0586" value="Legend Legend Somang Stone Lucky Box III" />
+  <keys type="item" key="CA_RA_00_0587" value="Congratulations on the 4th anniversary and lucky Box" />
+  <keys type="item" key="CA_RA_00_0588" value="4th Anniversary Lucky Box" />
+  <keys type="item" key="CA_RA_00_0589" value="New random Boxes in the 4th anniversary" />
+  <keys type="item" key="CA_RA_00_0590" value="4th Anniversary  Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0591" value="Beer lucky Box" />
+  <keys type="item" key="CA_RA_00_0592" value="4th Anniversary Wings Lucky Box (14th)" />
+  <keys type="item" key="CA_RA_00_0593" value="Blessed  Stone Lucky Box" />
+  <keys type="item" key="CA_RA_00_0594" value="4th Anniversary Special Elun Box" />
+  <keys type="item" key="CA_RA_00_0595" value="4th Anniversary Weapon Costume Lucky Box (14th)" />
+  <keys type="item" key="CA_RA_00_0596" value="May Icaday Special Lucky Box in May" />
+  <keys type="item" key="CA_RA_00_0597" value="May Icaday Lucky Box in May" />
+  <keys type="item" key="CA_RA_00_0598" value="Beer Forever Lucky Box" />
+  <keys type="item" key="EV_RA_00_0257" value="A good Box on board" />
+  <keys type="item" key="CA_RA_00_0599" value="May Day Angeling Lucky Box (30 days)" />
+  <keys type="item" key="CA_RA_00_0600" value="Special Elun Box carried in the spring breeze" />
+  <keys type="item" key="CA_RA_00_0601" value="A Box that kills boarding feel" />
+  <keys type="item" key="CA_RA_00_0602" value="Idol beer lucky Box" />
+  <keys type="item" key="CA_RA_00_0603" value="Hakanas Lucky Box" />
+  <keys type="item" key="CA_RA_00_0604" value="June Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0605" value="June Icaday Lucky Box" />
+  <keys type="item" key="EV_RA_00_0258" value="Kick! Off! LuckBox" />
+  <keys type="item" key="CA_RA_00_0606" value="Lucky Box" />
+  <keys type="item" key="CA_RA_00_0607" value="July Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0608" value="July Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0609" value="August Icaday Style Lucky Box" />
+  <keys type="item" key="CA_RA_00_0610" value="August Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0611" value="August Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0612" value="Hot Summer Lucky Box" />
+  <keys type="item" key="CA_RA_00_0613" value="Hot Summer Beer Lucky Box" />
+  <keys type="item" key="CA_RA_00_0614" value="Icaday style lucky Box" />
+  <keys type="item" key="CA_RA_00_0615" value="September Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0616" value="September Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0617" value="Icaday Fellow Lucky Box" />
+  <keys type="item" key="EV_RA_00_0259" value="Songpyeon Random Box" />
+  <keys type="item" key="CA_RA_00_0618" value="October Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0619" value="October Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0620" value="Icaday Elun Lucky Box" />
+  <keys type="item" key="CA_RA_00_0621" value="7DAY Lucky Box" />
+  <keys type="item" key="CA_RA_00_0622" value="7DAY Jeong Ryeon Seok Lucky Box" />
+  <keys type="item" key="CA_RA_00_0623" value="Halloween lucky Box" />
+  <keys type="item" key="CA_RA_00_0624" value="Icaday Lucky Lucky Box" />
+  <keys type="item" key="CA_RA_00_0625" value="Icaday Jeong Ryeok Seok Lucky Box" />
+  <keys type="item" key="CA_RA_00_0626" value="November Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0627" value="November Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0628" value="Black Friday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0629" value="Black Friday Relay Box" />
+  <keys type="item" key="CA_RA_00_0630" value="December Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0631" value="December Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0632" value="January Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0633" value="January Icaday Lucky Box" />
+  <keys type="item" key="EV_RA_00_0260" value="Santa Gift Box" />
+  <keys type="item" key="EV_RA_00_0261" value="Christmas gift Box" />
+  <keys type="item" key="CA_RA_00_0634" value="February Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0635" value="February Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0636" value="March Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0637" value="March Icaday Lucky Box" />
+  <keys type="item" key="EV_RA_00_0262" value="Candini's special candy bag" />
+  <keys type="item" key="CA_RA_00_0638" value="April Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0639" value="April Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0640" value="5th anniversary lucky Box" />
+  <keys type="item" key="CA_RA_00_0641" value="Fellow Lucky Box V" />
+  <keys type="item" key="CA_RA_00_0642" value="May Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0643" value="May Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0644" value="[Limited] Ballov Special Lucky Box!" />
+  <keys type="item" key="CA_RA_00_0645" value="June Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0646" value="June Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0647" value="Icaday style lucky Box s" />
+  <keys type="item" key="CA_RA_00_0648" value="Fellow Lucky Box V2!" />
+  <keys type="item" key="CA_RA_00_0649" value="July Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0650" value="July Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0651" value="August Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0652" value="August Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0653" value="September Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0654" value="September Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0655" value="The best colleague! Lucky Box" />
+  <keys type="item" key="CA_RA_00_0656" value="Eternal companion! Lucky Box" />
+  <keys type="item" key="CA_RA_00_0657" value="Fellow Lucky Box V3!" />
+  <keys type="item" key="EV_RA_00_0263" value="Songpyeon Box (2019)" />
+  <keys type="item" key="CA_RA_00_0658" value="October Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0659" value="October Icaday Lucky Box" />
+  <keys type="item" key="EV_RA_00_0264" value="Halloween pumpkin Box" />
+  <keys type="item" key="CA_RA_00_0660" value="November Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0661" value="November Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0662" value="December Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0663" value="December Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0664" value="January Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0665" value="January Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0666" value="Christmas Fellow Lucky Box!" />
+  <keys type="item" key="CA_RA_00_0667" value="Gyeongja! Fellow Lucky Box!" />
+  <keys type="item" key="CA_RA_00_0668" value="February Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0669" value="February Icaday Lucky Box" />
+  <keys type="item" key="EV_RA_00_0265" value="Valentine Chocolate Box" />
+  <keys type="item" key="CA_RA_00_0670" value="March Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0671" value="March Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0672" value="April Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0673" value="April Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0674" value="Fellow Lucky Box V4!" />
+  <keys type="item" key="CA_RA_00_0675" value="6th anniversary lucky Box" />
+  <keys type="item" key="CA_RA_00_0676" value="May Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0677" value="May Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0678" value="June Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0679" value="June Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0680" value="Gyeongja! Fellow Lucky Box !!" />
+  <keys type="item" key="CA_RA_00_0681" value="July Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0682" value="July Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0683" value="[Limited] Icaday sok Lucky Box" />
+  <keys type="item" key="CA_RA_00_0684" value="August Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0685" value="August Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0686" value="Fellow All -Star Lucky Box" />
+  <keys type="item" key="CA_RA_00_0687" value="September Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0688" value="September Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0689" value="Production material random Box (ore/gemstone)" />
+  <keys type="item" key="CA_RA_00_0690" value="Production material random Box (plant/meat)" />
+  <keys type="item" key="CA_RA_00_0691" value="October Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0692" value="October Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0693" value="Holoween Box" />
+  <keys type="item" key="CA_RA_00_0694" value="One! 3! 5! Elun Lucky Box" />
+  <keys type="item" key="CA_RA_00_0695" value="Caixa de Poções Fantásticas" />
+  <keys type="item" key="CA_RA_00_0696" value="Dream Coin Lucky Box" />
+  <keys type="item" key="CA_RA_00_0697" value="Halloween Fellow Lucky Box" />
+  <keys type="item" key="CA_RA_00_0698" value="November Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0699" value="November Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0700" value="Lucky Box of memories" />
+  <keys type="item" key="CA_RA_00_0701" value="Jar" />
+  <keys type="item" key="CA_RA_00_0702" value="December Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0703" value="December Icaday Lucky Box" />
+  <keys type="item" key="CA_RA_00_0704" value="Lucky Box of friendship" />
+  <keys type="item" key="CA_RA_00_0705" value="An unnamed gift Box" />
+  <keys type="item" key="CA_RA_00_0706" value="Happy Christmas Box" />
+  <keys type="item" key="CA_RA_00_0707" value="Fellow All -Star Lucky Box" />
+  <keys type="item" key="CA_RA_00_0708" value="Fellowship of Hope All -Star Lucky Box" />
+  <keys type="item" key="CA_RA_00_0709" value="Bolsa de comida" />
+  <keys type="item" key="CA_RA_00_0710" value="Icaday Special Lucky Box" />
+  <keys type="item" key="CA_RA_00_0711" value="Icaday lucky Box" />
+  <keys type="item" key="CA_RA_00_0712" value="Box" />
+  <keys type="item" key="CA_RA_00_0713" value="Lucky Box of time fragments" />
+  <keys type="item" key="CA_RA_00_0714" value="New Year Box" />
+  <keys type="item" key="CA_RA_00_0715" value="Suspicious rice cake soup" />
+  <keys type="item" key="CA_RA_00_0716" value="The packaging Box of that day" />
+  <keys type="item" key="CA_RA_00_0717" value="Fairy crystal lucky Box" />
+  <keys type="item" key="CA_RA_00_0718" value="Sweet Box" />
+  <keys type="item" key="CA_RA_00_0719" value="Sweet jelly bear Box" />
+  <keys type="item" key="CA_RA_00_0720" value="7th Anniversary Lucky Box" />
+  <keys type="item" key="CA_RA_00_0721" value="Gelaris weapon Box" />
+  <keys type="item" key="CA_RA_00_0722" value="Amazing gold Box" />
+  <keys type="item" key="CA_RA_00_0723" value="Premium lucky Box renewal" />
+  <keys type="item" key="CA_RA_00_0724" value="7th gift Box" />
+  <keys type="item" key="CA_RA_00_0725" value="7 coin lucky Box" />
+  <keys type="item" key="CA_RA_00_0726" value="Collecting bag" />
+  <keys type="item" key="CA_RA_00_0727" value="7th Anniversary Palow Lucky Box" />
+  <keys type="item" key="CA_RA_00_0728" value="Collector large lucky Box" />
+  <keys type="item" key="CA_RA_00_0729" value="Lucky Box" />
+  <keys type="item" key="CA_RA_00_0730" value="Icaday Fellow Box" />
+  <keys type="item" key="CA_RA_00_0731" value="Let's go to white hunting! Lucky Box" />
+  <keys type="item" key="CA_RA_00_0732" value="RandomBox" />
+  <keys type="item" key="CA_RA_00_0733" value="Icaday Fellow Box (NEW)" />
+  <keys type="item" key="CA_RA_00_0734" value="Mechatronix Lucky Box" />
+  <keys type="item" key="CA_RA_00_0735" value="State of advanced future iron Boxes" />
+  <keys type="item" key="CA_RA_00_0736" value="Basic parts random Box" />
+  <keys type="item" key="CA_RA_00_0737" value="Let's go to white hunting! Lucky Box ver2" />
+  <keys type="item" key="CA_RA_00_0738" value="White bone Box" />
+  <keys type="item" key="CA_RA_00_0739" value="Random Fellowship Box" />
+  <keys type="item" key="CA_RA_00_0740" value="Caixote de gelo no Verão" />
+  <keys type="item" key="CA_RA_00_0741" value="Cool summer Box" />
+  <keys type="item" key="CA_RA_00_0742" value="Snack package" />
+  <keys type="item" key="CA_RA_00_0743" value="Delicioso Banana LuckyBox" />
+  <keys type="item" key="CA_RA_00_0744" value="Zelaris equipment Box" />
+  <keys type="item" key="CA_RA_00_0745" value="Random Box of Alien Funni" />
+  <keys type="item" key="CA_RA_00_0746" value="Gift Box of alien Funni" />
+  <keys type="item" key="CA_RA_00_0747" value="Soul" />
+  <keys type="item" key="CA_RA_00_0748" value="Fellow Lucky Box VI" />
+  <keys type="item" key="CA_RA_00_0749" value="Fellow Lucky Box Special" />
+  <keys type="item" key="CA_RA_00_0750" value="Event Booster Random Box" />
+  <keys type="item" key="CA_RA_00_0751" value="Fellowship of memories" />
+  <keys type="item" key="CA_RA_00_0752" value="Winter night coin Box" />
+  <keys type="item" key="CA_RA_00_0753" value="Golden Moon Box" />
+  <keys type="item" key="CA_RA_00_0754" value="Bright golden moon Box" />
+  <keys type="item" key="CA_RA_00_0755" value="O cofrinho do Lebrini" />
+  <keys type="item" key="CA_RA_00_0756" value="Chaos" />
+  <keys type="item" key="CA_RA_00_0757" value="Jackpot of Elun Box" />
+  <keys type="item" key="CA_RA_00_0758" value="Black Lake and White Pajama Box" />
+  <keys type="item" key="CA_RA_00_0759" value="Craftsman" />
+  <keys type="item" key="CA_RA_00_0761" value="Box containing preparation items" />
+  <keys type="item" key="CA_RA_00_0762" value="Box containing seaweed" />
+  <keys type="item" key="CA_RA_00_0763" value="Citrus's secret dish" />
+  <keys type="item" key="CA_RA_00_0764" value="Ica Box" />
+  <keys type="item" key="CA_RA_00_0765" value="White Day gift basket" />
+  <keys type="item" key="CA_RA_00_0766" value="Candy pocket" />
+  <keys type="item" key="CA_RA_00_0767" value="Debbie's candy pocket" />
+  <keys type="item" key="CA_RA_00_0768" value="Foyo's Friends Box" />
+  <keys type="item" key="CA_RA_00_0769" value="8th Anniversary Lucky Box" />
+  <keys type="item" key="CA_RA_00_0770" value="Heavenly Box (Bikini Armor)" />
+  <keys type="item" key="CA_RA_00_0771" value="Cheolgol Box (silver sheet metal armor)" />
+  <keys type="item" key="CA_RA_00_0772" value="Musa: O Talento de Ser Uma Estrela" />
+  <keys type="item" key="CA_RA_00_0773" value="Legal: Temporada de Férias" />
+  <keys type="item" key="CA_RA_00_0774" value="Paixão: Escuridão Perdida" />
+  <keys type="item" key="CA_RA_00_0775" value="Amor: Planos contra a Guerra Fria" />
+  <keys type="item" key="CA_RA_00_0776" value="Talento: Um Cozinheiro Tradicional" />
+  <keys type="item" key="CA_RA_00_0777" value="Caixa de Traje Ilimitada Secreta" />
+  <keys type="item" key="CA_RA_00_0778" value="Caixa de Pó de Glicínia" />
+  <keys type="item" key="CA_RA_00_0779" value="Caixa da Moda de André" />
+  <keys type="item" key="CA_RA_00_0780" value="Caixa de Sorte de Trio Colorido de Fade" />
+  <keys type="item" key="CA_RA_00_0781" value="Caixa da Sorte Colorida de Fade" />
+  <keys type="item" key="CA_RA_00_0782" value="Garrafa de Vidro de Doce Estrelado" />
+  <keys type="item" key="CA_RA_00_0783" value="Caixa de Doces Estrela das Galáxias" />
+  <keys type="item" key="CA_RA_00_0784" value="Nova Caixa de Gelo de Sobremesa" />
+  <keys type="item" key="CA_RA_00_0785" value="Fellow Lucky Box Renewal" />
+  <keys type="item" key="CA_RA_CS_0001" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0002" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0003" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0004" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0005" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0006" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0007" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0008" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0009" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0010" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0011" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_CS_0012" value="Awakening Sandstorm's Treasure" />
+  <keys type="item" key="CA_RA_00_0786" value="A full moon of the full moon" />
+  <keys type="item" key="CA_RA_00_0787" value="Ravini Town Festival Wish Box" />
+  <keys type="item" key="CA_RA_00_0788" value="Fresh Punny Cooking Kit" />
+  <keys type="item" key="CA_RA_00_0789" value="Cooking tool draw Box" />
+  <keys type="item" key="CA_RA_00_0790" value="Picking a punching Box" />
+  <keys type="item" key="CA_RA_00_0791" value="Chuseok Hanbok Box" />
+  <keys type="item" key="CA_RA_00_0792" value="Caixa da Sorte do Dia das Bruxas Renovada" />
+  <keys type="item" key="CA_RA_00_0793" value="Caixa da Sorte do Manto do Oficial" />
+  <keys type="item" key="CA_RA_00_0794" value="Caixa da Sorte de Rosto de Saco de Papel" />
+  <keys type="item" key="CA_RA_00_0795" value="Caixa da Sorte do Fantasma do Dia das Bruxas" />
+  <keys type="item" key="CA_RA_CS_0013" value="Treasures of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0014" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0015" value="Treasure of Quadragane" />
+  <keys type="item" key="CA_RA_CS_0016" value="Treasures of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0017" value="Treasures of Quadraggain" />
+  <keys type="item" key="CA_RA_CS_0018" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0019" value="Treasures of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0020" value="Treasures of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0021" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0022" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0023" value="Treasures of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0024" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0025" value="Treasure of Quadragane" />
+  <keys type="item" key="CA_RA_CS_0026" value="Treasures of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0027" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0028" value="Treasure of Quadragane" />
+  <keys type="item" key="CA_RA_CS_0029" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_CS_0030" value="Treasure of Quadra Gain" />
+  <keys type="item" key="CA_RA_00_0796" value="Caixa Aleatória de Reforço de Aventura de Familiar" />
+  <keys type="item" key="CA_RA_00_0797" value="Caixa Aleatória de Fragmento de Blosus" />
+  <keys type="item" key="CA_RA_00_0798" value="Caixa de Banana Boat para Brincar na Água" />
+  <keys type="item" key="CA_RA_00_0799" value="Caixa de Bóia de Golfinho para Brincar na Água" />
+  <keys type="item" key="CA_RA_00_0800" value="Caixa de Marca I" />
+  <keys type="item" key="CA_RA_00_0801" value="Caixa de Marca II" />
+  <keys type="item" key="CA_RA_00_0802" value="Caixa de Marca III" />
+  <keys type="item" key="CA_RA_00_0803" value="Caixa de Marca IV" />
+  <keys type="item" key="CA_RA_00_0804" value="Caixa de Marca V" />
+  <keys type="item" key="CA_RA_00_0805" value="Caixa de Marca VI" />
+  <keys type="item" key="CA_RA_00_0806" value="Caixa de Marca VII" />
+  <keys type="item" key="CA_RA_00_0807" value="Collector's Fellow Box" />
+  <keys type="item" key="CA_RA_00_0808" value="Caixa da Sorte do Fantasma do Dia das Bruxas II" />
+  <keys type="item" key="CA_RA_00_0809" value="Bola de Neve de Mao" />
+  <keys type="item" key="CA_RA_00_0810" value="Bola de Neve de Thio" />
+  <keys type="item" key="CA_RA_00_0811" value="Caixa da Sorte de Natal VIP" />
+  <keys type="item" key="CA_RA_00_0812" value="Probabilidade Aumentada! Sorteio Bola de Neve de Mao" />
+  <keys type="item" key="CA_RA_00_0813" value="Probabilidade Aumentada! Sorteio Bola de Neve de Thio" />
+  <keys type="item" key="CA_RA_00_0814" value="O Medicamento Experimental Sombria de Kelly" />
+  <keys type="item" key="CA_RA_00_0815" value="Caixa Aleatória de Pedaços de Pérolas Jumbo" />
+  <keys type="item" key="CA_RA_00_0816" value="Caixa de Memórias 2022" />
+  <keys type="item" key="CA_RA_00_0817" value="FellowBox of 2021 Memories" />
+  <keys type="item" key="CA_RA_00_0818" value="Caixa de Desenho de Pérolas Jumbo" />
+  <keys type="item" key="CA_RA_00_0819" value="Petisco de Carpa de Musgato" />
+  <keys type="item" key="CA_RA_00_0820" value="Prato Especial de Carpa de Musgato " />
+  <keys type="item" key="CA_RA_00_0821" value="Caixa da Sorte da Memória de Nell e Aseop" />
+  <keys type="item" key="CA_RA_00_0823" value="Caixa Aleatória de Cristal de Lágrima da Beleza" />
+  <keys type="item" key="CA_RA_00_0824" value="Caixa Aleatória de Coroa de Flores Sazonais Ilimitada" />
+  <keys type="item" key="CA_RA_00_0825" value="Caixa Aleatória da Beleza Florida" />
+  <keys type="item" key="CA_RA_00_0822" value="Treasure of the Dragon Gods" />
+  <keys type="item" key="KR_RA_00_0001" value="Fellow lucky box new" />
+  <keys type="item" key="KR_RA_00_0002" value="Fellow Box of 2022 Memories" />
+  <keys type="item" key="KR_RA_00_0003" value="2021 Fellow Box of Memories" />
+  <keys type="item" key="KR_RA_00_0004" value="Let's go to Baeknyang! Lucky Box ver.3" />
+</files>

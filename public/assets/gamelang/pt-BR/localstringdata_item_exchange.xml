@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys type="item" key="EX_0_0000" value="Chifre do Ryno" />
+  <keys type="item" key="EX_0_0001" value="Fragmento da Armadura do Ryno" />
+  <keys type="item" key="EX_0_0002" value="Pedaço de Gelo" />
+  <keys type="item" key="EX_0_0003" value="Fragmento de Chama" />
+  <keys type="item" key="EX_0_0004" value="Pedaço de Espírito" />
+  <keys type="item" key="EX_0_0005" value="Grampo de Cabelo do Espírito" />
+  <keys type="item" key="EX_0_0006" value="Presa Estilhaçada de Lobo" />
+  <keys type="item" key="EX_0_0007" value="Couro de Lobo" />
+  <keys type="item" key="EX_0_0008" value="Couro Desgastado de Javali" />
+  <keys type="item" key="EX_0_0009" value="Intestino de Javali" />
+  <keys type="item" key="EX_0_0010" value="Talismã de Braghin" />
+  <keys type="item" key="EX_0_0011" value="Machado Rachado" />
+  <keys type="item" key="EX_0_0012" value="Faca Rachada" />
+  <keys type="item" key="EX_0_0013" value="Cajado Quebrado" />
+  <keys type="item" key="EX_0_0014" value="Flecha Quebrada" />
+  <keys type="item" key="EX_0_0015" value="Insígnia da Legião das Chamas" />
+  <keys type="item" key="EX_0_0016" value="Tesouro Ardente" />
+  <keys type="item" key="EX_0_0017" value="Couro Rasgado de Urso" />
+  <keys type="item" key="EX_0_0018" value="Garra de Urso" />
+  <keys type="item" key="EX_0_0019" value="Brasa Eterna" />
+  <keys type="item" key="EX_0_0020" value="Casco de Yeti" />
+  <keys type="item" key="EX_0_0021" value="Pele de Yeti" />
+  <keys type="item" key="EX_0_0022" value="Talismã do Xamã" />
+  <keys type="item" key="EX_0_0023" value="Flechas de Caçador Yeti" />
+  <keys type="item" key="EX_0_0024" value="Coração Gélido" />
+  <keys type="item" key="EX_0_0025" value="Garra Gélida de Lobo" />
+  <keys type="item" key="EX_0_0026" value="Presa Gélida de Lobo" />
+  <keys type="item" key="EX_0_0027" value="Punho Gélido" />
+  <keys type="item" key="EX_0_0028" value="Fragmento Gélido de Osso" />
+  <keys type="item" key="EX_0_0029" value="Pelo da Juba" />
+  <keys type="item" key="EX_0_0030" value="Juba Áspera" />
+  <keys type="item" key="EX_0_0031" value="Lâmina Afiada" />
+  <keys type="item" key="EX_0_0032" value="Pano Esfarrapado" />
+  <keys type="item" key="EX_0_0033" value="Pedaço de Trapo" />
+  <keys type="item" key="EX_0_0034" value="Carne de Lobo" />
+  <keys type="item" key="EX_0_0035" value="Garra de Lobo" />
+  <keys type="item" key="EX_0_0036" value="Dente de Lobo" />
+  <keys type="item" key="EX_0_0037" value="Presa Dura de Javali" />
+  <keys type="item" key="EX_0_0038" value="Carne de Javali" />
+  <keys type="item" key="EX_0_0039" value="Presa de Javali" />
+  <keys type="item" key="EX_0_0040" value="Machado Cortador" />
+  <keys type="item" key="EX_0_0041" value="Serra de Madeira" />
+  <keys type="item" key="EX_0_0042" value="Fragmento de Armadura" />
+  <keys type="item" key="EX_0_0043" value="Fragmento da Armadura de Madeira" />
+  <keys type="item" key="EX_0_0044" value="Caco de Cristal de Gelo" />
+  <keys type="item" key="EX_0_0045" value="Insígnia de Guerreiro Braghin" />
+  <keys type="item" key="EX_0_0046" value="Insígnia de Guerreiro Braghin de Elite" />
+  <keys type="item" key="EX_0_0047" value="Marca de Líder Braghin" />
+  <keys type="item" key="EX_0_0048" value="Pó de Fada" />
+  <keys type="item" key="EX_0_0049" value="Carne de Raposa" />
+  <keys type="item" key="EX_0_0050" value="Martelo Pequeno" />
+  <keys type="item" key="EX_0_0051" value="Erva" />
+  <keys type="item" key="EX_0_0052" value="Asas Limpas" />
+  <keys type="item" key="EX_0_0053" value="Raiz de Sunsap" />
+  <keys type="item" key="EX_0_0054" value="Pedra Difusa" />
+  <keys type="item" key="EX_0_0055" value="Talismã de Braghin" />
+  <keys type="item" key="EX_0_0056" value="Picareta Velha" />
+  <keys type="item" key="EX_0_0057" value="Cauda de Raposa" />
+  <keys type="item" key="EX_0_0058" value="Osso Queimado" />
+  <keys type="item" key="EX_0_0059" value="Pedaço de Armadura Queimado" />
+  <keys type="item" key="EX_0_0060" value="Tecido Fantasma" />
+  <keys type="item" key="EX_0_0061" value="Marca de Cavaleiro Queimada" />
+  <keys type="item" key="EX_0_0062" value="Pedra Quente" />
+  <keys type="item" key="EX_0_0063" value="Núcleo de Fogo" />
+  <keys type="item" key="EX_0_0064" value="Perna de Aranha" />
+  <keys type="item" key="EX_0_0065" value="Saco de Veneno de Tarântula" />
+  <keys type="item" key="EX_0_0066" value="Teia de Aranha" />
+  <keys type="item" key="EX_0_0067" value="Perna de Aranha Peluda" />
+  <keys type="item" key="EX_0_0068" value="Tendão de Rena" />
+  <keys type="item" key="EX_0_0069" value="Juba de Rena" />
+  <keys type="item" key="EX_0_0070" value="Couro Resistente de Lobo" />
+  <keys type="item" key="EX_0_0071" value="Faísca das Sombras" />
+  <keys type="item" key="EX_0_0072" value="Carne de Vaca" />
+  <keys type="item" key="EX_0_0073" value="Cauda de Lobisomem" />
+  <keys type="item" key="EX_0_0074" value="Bolsa de Medicamentos" />
+  <keys type="item" key="EX_0_0075" value="Armadilha de Fogo" />
+  <keys type="item" key="EX_0_0076" value="Faca de Arremesso" />
+  <keys type="item" key="EX_0_0077" value="Casco de Javali" />
+  <keys type="item" key="EX_0_0078" value="Fragmento de Chifre de Cristal" />
+  <keys type="item" key="EX_0_0079" value="Sobras de Cenoura" />
+  <keys type="item" key="EX_0_0080" value="Pelo Macio de Coelho" />
+  <keys type="item" key="EX_0_0081" value="Antena de Abelha Gigante" />
+  <keys type="item" key="EX_0_0082" value="Asa de Abelha" />
+  <keys type="item" key="EX_0_0083" value="Globo Ocular de Abelha" />
+  <keys type="item" key="EX_0_0084" value="Unha de Tartaruga" />
+  <keys type="item" key="EX_0_0085" value="Casco Duro de Tartaruga" />
+  <keys type="item" key="EX_0_0086" value="Peçonha" />
+  <keys type="item" key="EX_0_0087" value="Perna de Sapo" />
+  <keys type="item" key="EX_0_0088" value="Casco de Búfalo" />
+  <keys type="item" key="EX_0_0089" value="Cauda de Búfalo" />
+  <keys type="item" key="EX_0_0090" value="Dente de Urso" />
+  <keys type="item" key="EX_0_0091" value="Bico de Pelicano" />
+  <keys type="item" key="EX_0_0092" value="Pena Leve" />
+  <keys type="item" key="EX_0_0093" value="Líquido Viscoso" />
+  <keys type="item" key="EX_0_0094" value="Escama Grossa de Peixe" />
+  <keys type="item" key="EX_0_0095" value="Casco Duro de Bisão" />
+  <keys type="item" key="EX_0_0096" value="Cauda Áspero de Bisão" />
+  <keys type="item" key="EX_0_0097" value="Cauda de Leopardo" />
+  <keys type="item" key="EX_0_0098" value="Dente Afiado" />
+  <keys type="item" key="EX_0_0099" value="Foice Sinistra" />
+  <keys type="item" key="EX_0_0100" value="Unha Sombria" />
+  <keys type="item" key="EX_0_0101" value="Coração de Vampiro" />
+  <keys type="item" key="EX_0_0102" value="Bandana Esfarrapada" />
+  <keys type="item" key="EX_0_0103" value="Marca de Cavaleiro Sangrento" />
+  <keys type="item" key="EX_0_0104" value="Farrapo Sangrento" />
+  <keys type="item" key="EX_0_0105" value="Lixo" />
+  <keys type="item" key="EX_0_0106" value="Chapéu de Chef Sangrento" />
+  <keys type="item" key="EX_0_0107" value="Vara de Domesticação" />
+  <keys type="item" key="EX_0_0108" value="Corrente Quebrada" />
+  <keys type="item" key="EX_0_0109" value="Garras Afiadas de Gelo" />
+  <keys type="item" key="EX_0_0110" value="Vara de Domesticação Congelada" />
+  <keys type="item" key="EX_0_0111" value="Fonte Congelada" />
+  <keys type="item" key="EX_0_0112" value="Totem Gélido" />
+  <keys type="item" key="EX_0_0113" value="Perna de Aranha Congelada" />
+  <keys type="item" key="EX_0_0114" value="Teia de Aranha Fria" />
+  <keys type="item" key="EX_0_0115" value="Algemas Enferrujadas" />
+  <keys type="item" key="EX_0_0116" value="Bastão Imundo" />
+  <keys type="item" key="EX_0_0117" value="Osso Apodrecido" />
+  <keys type="item" key="EX_0_0118" value="Perna Longa de Aranha" />
+  <keys type="item" key="EX_0_0119" value="Grampo de Cabelo da Criada Velha" />
+  <keys type="item" key="EX_0_0120" value="Guia Menor de Demonologia Vol. 1" />
+  <keys type="item" key="EX_0_0121" value="Marca de Invocação de Demônio Menor" />
+  <keys type="item" key="EX_0_0122" value="Faísca Fervilhante das Sombras" />
+  <keys type="item" key="EX_0_0123" value="Asas Pequenas de Demônio" />
+  <keys type="item" key="EX_0_0124" value="Cauda Curta de Demônio" />
+  <keys type="item" key="EX_0_0125" value="Marca de Cavaleiro Corroída" />
+  <keys type="item" key="EX_0_0126" value="Osso Corroído" />
+  <keys type="item" key="EX_0_0127" value="Coroa Corroída" />
+  <keys type="item" key="EX_0_0128" value="Escama de Filhote de Dragão Negro" />
+  <keys type="item" key="EX_0_0129" value="Garra de Filhote de Dragão Negro" />
+  <keys type="item" key="EX_0_0130" value="Fusível de Bomba" />
+  <keys type="item" key="EX_0_0131" value="Chapéu Desgastado" />
+  <keys type="item" key="EX_0_0132" value="Fragmento de Armadura Velha" />
+  <keys type="item" key="EX_0_0133" value="Bandeira Pirata Imunda" />
+  <keys type="item" key="EX_0_0135" value="Selo dos Bandidos de Khapir" />
+  <keys type="item" key="EX_0_0136" value="Máscara Desgastada" />
+  <keys type="item" key="EX_0_0137" value="Marca Corroída do Capitão" />
+  <keys type="item" key="EX_0_0138" value="Fragmento de Armadura Corroído" />
+  <keys type="item" key="EX_0_0139" value="Sangue de Abelha" />
+  <keys type="item" key="EX_0_0140" value="Pelo Macia de Raposa" />
+  <keys type="item" key="EX_0_0141" value="Bolsa de Veneno" />
+  <keys type="item" key="EX_0_0142" value="Bolsa de Veneno Mortal" />
+  <keys type="item" key="EX_0_0143" value="Essência de Fogo" />
+  <keys type="item" key="EX_0_0144" value="Grande Essência de Fogo" />
+  <keys type="item" key="EX_0_0145" value="Essência Gélida" />
+  <keys type="item" key="EX_0_0146" value="Grande Essência Gélida" />
+  <keys type="item" key="EX_0_0147" value="Essência de Luz" />
+  <keys type="item" key="EX_0_0148" value="Grande Essência de Luz" />
+  <keys type="item" key="EX_0_0149" value="Essência Sombria" />
+  <keys type="item" key="EX_0_0150" value="Grande Essência Sombria" />
+  <keys type="item" key="EX_0_0151" value="Pedra da Purificação" />
+  <keys type="item" key="EX_0_0152" value="Gosma de Polvo" />
+  <keys type="item" key="EX_0_0153" value="Moeda Suja" />
+  <keys type="item" key="EX_0_0154" value="Pétala Sangrenta" />
+  <keys type="item" key="EX_0_0155" value="Moeda de Exarahn" />
+  <keys type="item" key="EX_0_0156" value="Moeda de Hakanas" />
+  <keys type="item" key="EX_0_0157" value="Aliança da Insígnia de Luz" />
+  <keys type="item" key="EX_0_0158" value="SK hynix SSD" />
+  <keys type="item" key="EX_0_0160" value="Lingote de Cobre de Izhora" />
+  <keys type="item" key="EX_0_0161" value="Lingote de Prata de Izhora" />
+  <keys type="item" key="EX_0_0162" value="Lingote de Ouro de Izhora" />
+  <keys type="item" key="EX_0_0163" value="Peças-chave de Izhora" />
+  <keys type="item" key="ex_0_0159" value="Bola de Futebol" />
+  <keys type="item" key="EX_0_0164" value="Emblema Lendário de Nível 40" />
+  <keys type="item" key="EX_0_0165" value="Emblema Lendário Abençoado de Nível 40" />
+  <keys type="item" key="EX_0_0166" value="Lista de Controle dos Comerciantes da Lua Crescente" />
+  <keys type="item" key="EX_0_0167" value="Excerto de Sete Pecados" />
+  <keys type="item" key="EX_0_0168" value="Trecho da História de Exarahn" />
+  <keys type="item" key="EX_0_0169" value="Lingote de Cobre" />
+  <keys type="item" key="EX_0_0170" value="Lingote de Prata" />
+  <keys type="item" key="EX_0_0171" value="Lingote de Ouro" />
+  <keys type="item" key="EX_0_0172" value="Moeda de Ouro de Exarahn" />
+  <keys type="item" key="EX_0_0173" value="Documento da Assombração de Hadakhan" />
+  <keys type="item" key="EX_0_0174" value="Equipamento de Mineração de Exarium" />
+  <keys type="item" key="EX_0_0175" value="Moeda de Stygaea" />
+  <keys type="item" key="EX_0_0176" value="Moeda de Ouro de Stygaea" />
+  <keys type="item" key="EX_0_0177" value="Moeda de Ouro de Stygaea" />
+  <keys type="item" key="EX_0_0178" value="Lista de Verificação de Presença do Yuri" />
+  <keys type="item" key="EX_0_0179" value="Moeda do Mercado do Luar" />
+  <keys type="item" key="EX_0_0180" value="Moeda de Ouro do Mercado do Luar" />
+  <keys type="item" key="EX_0_0181" value="Medalha Azure do Mercado do Luar" />
+  <keys type="item" key="EX_0_0182" value="Medalha Dourada do Mercado do Luar" />
+  <keys type="item" key="EX_0_0183" value="Moeda do Colecionador" />
+  <keys type="item" key="EX_0_0185" value="Emblema Lendário de Nível 50" />
+  <keys type="item" key="EX_0_0186" value="Emblema Lendário Abençoado de Nível 50" />
+  <keys type="item" key="CA_IT_EX_0000" value="Cupom de Bebê Ovelha" />
+  <keys type="item" key="EX_0_0187" value="Passe do Covil de Ienos" />
+  <keys type="item" key="EX_0_0188" value="Cupom de Karasha Jr. Lendário" />
+  <keys type="item" key="EX_0_0189" value="Cupom de Karasha Jr. Heroico" />
+  <keys type="item" key="EX_0_0190" value="Chave do Karasha Motorizado" />
+  <keys type="item" key="EX_0_0191" value="Cupom de Título" />
+  <keys type="item" key="EX_0_0192" value="Passe de Entrada para o Covil de Ienos do PCoelhinho" />
+  <keys type="item" key="EX_0_0194" value="Lingote de Ouro Puro" />
+  <keys type="item" key="EX_0_0195" value="Lingote de Ouro Branco" />
+  <keys type="item" key="EX_0_0196" value="Lingote de Cobre Falsificado" />
+  <keys type="item" key="EX_0_0197" value="Lingote de Prata Falsificado" />
+  <keys type="item" key="EX_0_0198" value="Lingote de Ouro Falsificado" />
+  <keys type="item" key="EX_0_0199" value="Moeda Lebrini Falsificada" />
+  <keys type="item" key="EX_0_0200" value="Poção Suspeita" />
+  <keys type="item" key="EX_0_0201" value="Medicamento de Cura Definitiva" />
+  <keys type="item" key="EX_0_0202" value="Cupom de Caixa de Lebrini" />
+  <keys type="item" key="EX_0_0203" value="Pérola do Oceano de Lucius Volifax" />
+  <keys type="item" key="EX_0_0204" value="Moeda Premium" />
+  <keys type="item" key="EX_0_0205" value="Certificado de Presença" />
+  <keys type="item" key="EX_0_0206" value="Pergaminho de Reiniciar Coleção" />
+  <keys type="item" key="EX_0_0207" value="Pergaminho de Reiniciar Coleção" />
+  <keys type="item" key="EX_0_0208" value="Certificado de Conquista de Masmorra Lendária" />
+  <keys type="item" key="EX_0_0209" value="Certificado de Grupo com Arqueiro" />
+  <keys type="item" key="EX_0_0210" value="Certificado de Herói" />
+  <keys type="item" key="EX_0_0211" value="Certificado de Lenda" />
+  <keys type="item" key="EX_0_0212" value="Cupom de Armadura de Ellora" />
+  <keys type="item" key="EX_0_0213" value="Cupom de Joias de Ellora" />
+  <keys type="item" key="EX_0_0214" value="Cupom de Boneca de Pelúcia" />
+  <keys type="item" key="EX_0_0215" value="Cupom Danificado de Boneca de Pelúcia" />
+  <keys type="item" key="EX_0_0216" value="Cupom do Evento de Dia de Ação de Graças" />
+  <keys type="item" key="EX_0_0217" value="Documento de Recompensas de Outubro" />
+  <keys type="item" key="EX_0_0218" value="Cupom de Pacote de Pesca Dourado" />
+  <keys type="item" key="EX_0_0219" value="Cupom de Visual de Arma do Dia das Bruxas" />
+  <keys type="item" key="EX_0_0220" value="Documento de Recompensas de Janeiro" />
+  <keys type="item" key="EX_0_0221" value="Documento de Recompensas de Fevereiro" />
+  <keys type="item" key="EX_0_0222" value="Documento de Recompensas de Março" />
+  <keys type="item" key="EX_0_0223" value="Documento de Recompensas de Abril" />
+  <keys type="item" key="EX_0_0224" value="Documento de Recompensas de Maio" />
+  <keys type="item" key="EX_0_0225" value="Documento de Recompensas de Junho" />
+  <keys type="item" key="EX_0_0226" value="Documento de Recompensas de Julho" />
+  <keys type="item" key="EX_0_0227" value="Documento de Recompensas de Agosto" />
+  <keys type="item" key="EX_0_0228" value="Documento de Recompensas de Setembro" />
+  <keys type="item" key="EX_0_0229" value="Documento de Recompensas de Novembro" />
+  <keys type="item" key="EX_0_0230" value="Documento de Recompensas de Dezembro" />
+  <keys type="item" key="EX_0_0231" value="Bordalo" />
+  <keys type="item" key="EX_0_0232" value="Bordalo Verde" />
+  <keys type="item" key="EX_0_0233" value="Arenque Azul" />
+  <keys type="item" key="EX_0_0234" value="Arenque Amarelo" />
+  <keys type="item" key="EX_0_0235" value="Peixe-Palhaço Amarelo" />
+  <keys type="item" key="EX_0_0236" value="Peixe-Palhaço" />
+  <keys type="item" key="EX_0_0237" value="Peixe de Coral" />
+  <keys type="item" key="EX_0_0238" value="Peixe-Palhaço Azul" />
+  <keys type="item" key="EX_0_0239" value="Atum Rabilho" />
+  <keys type="item" key="EX_0_0240" value="Atum Albacora" />
+  <keys type="item" key="EX_0_0241" value="Certificado de PvP" />
+  <keys type="item" key="EX_0_0242" value="Certificado de Masmorra Cross-Server" />
+  <keys type="item" key="EX_0_0243" value="Cupom do Manto" />
+  <keys type="item" key="EX_0_0245" value="Cupom de Boneca de Pelúcia" />
+  <keys type="item" key="EX_0_0246" value="Cupom de Familiar Adorável" />
+  <keys type="item" key="EX_0_0247" value="Moeda YD" />
+  <keys type="item" key="EX_0_0248" value="Moeda da Guilda" />
+  <keys type="item" key="EX_0_0249" value="Bolinho de Arroz" />
+  <keys type="item" key="EX_0_0250" value="Ampulheta do Barqueiro" />
+  <keys type="item" key="EX_0_0251" value="Certificado dos Revolucionários Vermelhos" />
+  <keys type="item" key="EX_0_0252" value="Bilhete de Figura" />
+  <keys type="item" key="EX_10_0001" value="Emblema Lendário de Nível 60" />
+  <keys type="item" key="EX_10_0002" value="Emblema Lendário Abençoado de Nível 60" />
+  <keys type="item" key="EX_0_0253" value="Bolsa de Doces da Daveen" />
+  <keys type="item" key="EX_0_0254" value="Moeda do 2° Aniversário" />
+  <keys type="item" key="EX_0_0255" value="Moeda Ancestral" />
+  <keys type="item" key="EX_0_0256" value="Esfera do Desejo do 2º Aniversário" />
+  <keys type="item" key="EX_0_0257" value="Cupom de Loja do 2º Aniversário" />
+  <keys type="item" key="EX_0_0259" value="Carimbo de Mel de Shaling" />
+  <keys type="item" key="EX_0_0260" value="Cupom de Armadura Alsaciana" />
+  <keys type="item" key="EX_0_0261" value="Cupom de Luna de Mel Luzente" />
+  <keys type="item" key="EX_0_0263" value="Pcbunny's Lair Defense Entry Pass" />
+  <keys type="item" key="EX_0_0262" value="Esfera de Vidro" />
+  <keys type="item" key="EX_0_0264" value="Cupom de Torkai de Magma" />
+  <keys type="item" key="EX_0_0265" value="Cupom de Pergaminho de Familiar Lendário do Bestiário" />
+  <keys type="item" key="EX_0_0266" value="Piranha" />
+  <keys type="item" key="EX_0_0267" value="Enguia Elétrica" />
+  <keys type="item" key="EX_0_0268" value="Tubarão Assassino" />
+  <keys type="item" key="EX_0_0269" value="Fragmento de Pedra de Mana" />
+  <keys type="item" key="EX_0_0270" value="Cupom de Armadura Alsaciana" />
+  <keys type="item" key="EX_0_0271" value="Cupom de Caixa da Sorte do Familiar Sublime II" />
+  <keys type="item" key="EX_0_0272" value="Cupom de Aluguel Permanente de Karasha" />
+  <keys type="item" key="EX_0_0273" value="Passe de Entrada da Mansão Assombrada" />
+  <keys type="item" key="EX_0_0274" value="Documento de Vitória da Mansão Assombrada" />
+  <keys type="item" key="EX_0_0278" value="Moeda Pedra de Desejo" />
+  <keys type="item" key="EX_0_0275" value="Cupom de Armadura Alsaciana" />
+  <keys type="item" key="EX_0_0276" value="Familiar: Cupom de Banana FRY" />
+  <keys type="item" key="EX_0_0277" value="Cupom de Energia da Abóbora (30 dias)" />
+  <keys type="item" key="EX_0_0282" value="Bordalo Lendário" />
+  <keys type="item" key="EX_0_0279" value="Truta Bronzeada" />
+  <keys type="item" key="EX_0_0280" value="Truta Prateada" />
+  <keys type="item" key="EX_0_0281" value="Truta Dourada" />
+  <keys type="item" key="EX_0_0283" value="GWarnet Full Moon" />
+  <keys type="item" key="EX_0_0284" value="Cupom de Anel Alsaciano I" />
+  <keys type="item" key="EX_0_0285" value="Cupom de Anel Alsaciano II" />
+  <keys type="item" key="EX_0_0286" value="Cupom de Colar Alsaciano" />
+  <keys type="item" key="EX_0_0287" value="Lua Cheia" />
+  <keys type="item" key="EX_0_0288" value="Cupom de Caixa Alsaciana de Armas" />
+  <keys type="item" key="EX_0_0289" value="Cupom de Caixa de Armadura Alsaciana" />
+  <keys type="item" key="EX_0_0290" value="Cupom de Pergaminho de Familiar Lendário do Bestiário" />
+  <keys type="item" key="EX_0_0291" value="Cupom de Impulsionador de Lua Cheia (30 dias)" />
+  <keys type="item" key="EX_0_0292" value="Specification Token" />
+  <keys type="item" key="EX_0_0293" value="Specification Premium Token" />
+  <keys type="item" key="EX_0_0294" value="Alsas Exchange Voucher (Helm)" />
+  <keys type="item" key="EX_0_0295" value="Alsas Exchange Voucher (Pauldron)" />
+  <keys type="item" key="EX_0_0296" value="Alsas Exchange Voucher (Armor)" />
+  <keys type="item" key="EX_0_0297" value="Alsas Exchange Voucher (Gloves)" />
+  <keys type="item" key="EX_0_0298" value="Alsas Exchange Voucher (Boots)" />
+  <keys type="item" key="EX_0_0299" value="Alsas Exchange Voucher (Weapon)" />
+  <keys type="item" key="EX_0_0300" value="Teleo Exchange Voucher (Helm)" />
+  <keys type="item" key="EX_0_0301" value="Teleo Exchange Voucher (Pauldron)" />
+  <keys type="item" key="EX_0_0302" value="Teleo Exchange Voucher (Armor)" />
+  <keys type="item" key="EX_0_0303" value="Teleo Exchange Voucher (Gloves)" />
+  <keys type="item" key="EX_0_0304" value="Teleo Exchange Voucher (Boots)" />
+  <keys type="item" key="EX_0_0305" value="Teleo Exchange Voucher (Weapon)" />
+  <keys type="item" key="EX_0_0306" value="Halloween Costume Voucher" />
+  <keys type="item" key="EX_0_0307" value="Honorary Medal of Battleground" />
+  <keys type="item" key="EX_0_0308" value="Documento de Vitória da Mansão Assombrada" />
+  <keys type="item" key="EX_0_0309" value="Moeda MacBain" />
+  <keys type="item" key="EX_0_0310" value="Medalha Comemorativa" />
+  <keys type="item" key="EX_0_0311" value="Silver light Beads" />
+  <keys type="item" key="EX_0_0312" value="Battlefield Coin" />
+  <keys type="item" key="EX_0_0313" value="YD Coin" />
+  <keys type="item" key="EX_0_0314" value="Coins of trust" />
+  <keys type="item" key="EX_0_0315" value="Alsas Weapon Voucher" />
+  <keys type="item" key="EX_0_0316" value="Teleo Weapon Voucher" />
+  <keys type="item" key="EX_0_0317" value="Vinisar's Alsas Exchange Coin" />
+  <keys type="item" key="EX_0_0318" value="Vinisar's Zelnaris Exchange Coin" />
+  <keys type="item" key="EX_0_0319" value="Turiman's Fabled Emblem" />
+  <keys type="item" key="EX_0_0320" value="Turiman's Blessed Fabled Emblem" />
+  <keys type="item" key="EX_0_0321" value="Carrot Flavor" />
+  <keys type="item" key="EX_0_0322" value="Fragmento de Ametista" />
+  <keys type="item" key="EX_0_0323" value="Registro de Velzera" />
+  <keys type="item" key="EX_0_0324" value="Mysterious Fish" />
+  <keys type="item" key="EX_0_0325" value="Sapphire Chromis" />
+  <keys type="item" key="EX_0_0326" value="Ruby Tuna" />
+  <keys type="item" key="EX_0_0327" value="Golden Sea Bass" />
+  <keys type="item" key="EX_0_0328" value="Calendula Fish" />
+  <keys type="item" key="EX_0_0329" value="Wild Snapper" />
+  <keys type="item" key="EX_0_0330" value="Ica Day Premium Coin" />
+  <keys type="item" key="EX_0_0331" value="PC Bunny Gold Carrot Coin" />
+  <keys type="item" key="EX_0_0332" value="McBain Coins" />
+  <keys type="item" key="EX_0_0334" value="Ellora +20 Equipment Exchange Voucher" />
+  <keys type="item" key="EX_0_0335" value="Alsas Equipment Succession Recipe Voucher" />
+  <keys type="item" key="EX_0_0336" value="Sunshine Token" />
+  <keys type="item" key="EX_0_0337" value="Passe da Mina do Bosque de Kell" />
+  <keys type="item" key="EX_0_0338" value="Passe da Mina do Rugido" />
+  <keys type="item" key="EX_0_0339" value="Passe da Mina de Zadaran" />
+  <keys type="item" key="ex_0_0333" value="Survival Certificate" />
+  <keys type="item" key="EX_0_0340" value="Christmas event coin" />
+  <keys type="item" key="EX_0_0341" value="ICA Big! Athletic gold medal" />
+  <keys type="item" key="EX_0_0342" value="Drinking Zelaris Weapon Weapon Inheritance Exchange Ticket" />
+  <keys type="item" key="EX_0_0343" value="ICA Big! Athletic base certificate" />
+  <keys type="item" key="EX_0_0344" value="4th anniversary event exchange ticket" />
+  <keys type="item" key="EX_0_0345" value="Vanity" />
+  <keys type="item" key="EX_0_0346" value="Fatia de Melancia" />
+  <keys type="item" key="EX_0_0347" value="Titanus" />
+  <keys type="item" key="EX_0_0348" value="Chuseok Coin" />
+  <keys type="item" key="EX_0_0349" value="Santa socks" />
+  <keys type="item" key="EX_0_0350" value="Labis Mas Ticket" />
+  <keys type="item" key="EX_0_0351" value="Golden Santa Socks" />
+  <keys type="item" key="EX_0_0352" value="Ravini's gold coins" />
+  <keys type="item" key="EX_0_0353" value="Booster" />
+  <keys type="item" key="EX_0_0354" value="Ravini Candy" />
+  <keys type="item" key="EX_0_0355" value="Regional Fellow Collection Solutions Table" />
+  <keys type="item" key="EX_0_0356" value="Party" />
+  <keys type="item" key="EX_0_0357" value="Guardian" />
+  <keys type="item" key="EX_0_0358" value="Summer memories" />
+  <keys type="item" key="EX_0_0359" value="Ravini Summer Coin" />
+  <keys type="item" key="EX_0_0360" value="Summer coin" />
+  <keys type="item" key="EX_0_0361" value="Dongshine Summer Coin" />
+  <keys type="item" key="EX_0_0362" value="Silver Summer Coin" />
+  <keys type="item" key="EX_0_0363" value="Golden summer coin" />
+  <keys type="item" key="EX_0_0364" value="Hangawi memorial coin" />
+  <keys type="item" key="EX_0_0365" value="Halloween pumpkin" />
+  <keys type="item" key="EX_0_0366" value="white chocolate" />
+  <keys type="item" key="EX_0_0367" value="Winter debris" />
+  <keys type="item" key="EX_0_0368" value="Spring" />
+  <keys type="item" key="EX_0_0369" value="Party" />
+  <keys type="item" key="EX_0_0370" value="Summer memories" />
+  <keys type="item" key="EX_0_0371" value="Ravini Summer Coin" />
+  <keys type="item" key="EX_0_0372" value="Summer coin" />
+  <keys type="item" key="EX_0_0373" value="Dongshine Summer Coin" />
+  <keys type="item" key="EX_0_0374" value="Silver Summer Coin" />
+  <keys type="item" key="EX_0_0375" value="Golden summer coin" />
+  <keys type="item" key="EX_0_0376" value="Chuseok Coin" />
+  <keys type="item" key="EX_0_0377" value="Dream Coin" />
+  <keys type="item" key="EX_0_0378" value="Halloween cookie" />
+  <keys type="item" key="EX_0_0379" value="Sculpture" />
+  <keys type="item" key="EX_0_0380" value="Most of friendship" />
+  <keys type="item" key="EX_0_0381" value="A gift with a warm blanket" />
+  <keys type="item" key="EX_0_0382" value="Gift containing letters" />
+  <keys type="item" key="EX_0_0383" value="Luxurious gift" />
+  <keys type="item" key="EX_0_0384" value="Returned gift" />
+  <keys type="item" key="EX_0_0385" value="Waterproof" />
+  <keys type="item" key="EX_0_0386" value="A gift with repair tools" />
+  <keys type="item" key="EX_0_0387" value="Cat hairy gift" />
+  <keys type="item" key="EX_0_0388" value="Warm snowflake" />
+  <keys type="item" key="EX_0_0389" value="Daily gift delivery" />
+  <keys type="item" key="EX_0_0390" value="Torn Merry Christmas Binding" />
+  <keys type="item" key="EX_0_0391" value="Attendance certificate" />
+  <keys type="item" key="EX_0_0392" value="Fragmentation" />
+  <keys type="item" key="EX_0_0393" value="Condensed soul" />
+  <keys type="item" key="EX_0_0394" value="Lucky money" />
+  <keys type="item" key="EX_0_0395" value="Modification" />
+  <keys type="item" key="EX_0_0396" value="Jelly" />
+  <keys type="item" key="EX_0_0397" value="Magical powder" />
+  <keys type="item" key="EX_0_0398" value="Trial" />
+  <keys type="item" key="EX_0_0399" value="Perforation" />
+  <keys type="item" key="EX_0_0400" value="Lucky sign" />
+  <keys type="item" key="EX_0_0401" value="Lucky sign" />
+  <keys type="item" key="EX_0_0402" value="V weapon exchange tickets" />
+  <keys type="item" key="EX_0_0403" value="Booster" />
+  <keys type="item" key="EX_0_0404" value="777 Lucky Law" />
+  <keys type="item" key="EX_0_0405" value="7 coin" />
+  <keys type="item" key="EX_0_0406" value="Fellow Certificate" />
+  <keys type="item" key="EX_0_0407" value="Balloon" />
+  <keys type="item" key="EX_1_0001" value="May weapon exchange ticket" />
+  <keys type="item" key="EX_1_0002" value="May booster exchange ticket" />
+  <keys type="item" key="EX_1_0003" value="May change in May" />
+  <keys type="item" key="EX_1_0004" value="Ganghwa Stone Essence" />
+  <keys type="item" key="EX_1_0005" value="Level 70 reward exchange ticket" />
+  <keys type="item" key="EX_0_0408" value="Parts A" />
+  <keys type="item" key="EX_0_0409" value="Part B" />
+  <keys type="item" key="EX_0_0410" value="Part C" />
+  <keys type="item" key="EX_0_0411" value="Special parts A" />
+  <keys type="item" key="EX_0_0412" value="Special parts B" />
+  <keys type="item" key="EX_0_0413" value="Special parts C" />
+  <keys type="item" key="EX_1_0006" value="June booster exchange ticket" />
+  <keys type="item" key="EX_1_0007" value="June robot voting rights" />
+  <keys type="item" key="EX_1_0008" value="01 ballot paper" />
+  <keys type="item" key="EX_1_0009" value="02 voting paper" />
+  <keys type="item" key="EX_1_0010" value="No 03 ballot paper" />
+  <keys type="item" key="EX_0_0414" value="Caixa de Motor" />
+  <keys type="item" key="EX_0_0415" value="Caixa de Motor" />
+  <keys type="item" key="EX_0_0416" value="Corridor's coins" />
+  <keys type="item" key="EX_0_0417" value="Soul" />
+  <keys type="item" key="EX_0_0418" value="Soul sculpture" />
+  <keys type="item" key="EX_0_0419" value="soul" />
+  <keys type="item" key="EX_0_0420" value="Funny's magic powder" />
+  <keys type="item" key="EX_0_0421" value="FR coin" />
+  <keys type="item" key="EX_0_0422" value="FR silvercoin" />
+  <keys type="item" key="EX_0_0423" value="Kalibaa's blood" />
+  <keys type="item" key="EX_0_0424" value="Belpher's Flame" />
+  <keys type="item" key="EX_0_0425" value="Blood petal" />
+  <keys type="item" key="EX_0_0426" value="Kalibaago clue" />
+  <keys type="item" key="EX_0_0427" value="Belpher's letter" />
+  <keys type="item" key="EX_0_0428" value="Lost Legend 1" />
+  <keys type="item" key="EX_0_0429" value="Lost Legend 2" />
+  <keys type="item" key="EX_0_0430" value="Lost Legend 3" />
+  <keys type="item" key="EX_0_0431" value="Lost Legend 4" />
+  <keys type="item" key="EX_0_0432" value="Lost Legend 5" />
+  <keys type="item" key="EX_0_0433" value="Winter night coin" />
+  <keys type="item" key="EX_0_0434" value="Unknown Tower Final Class Completion Certificate" />
+  <keys type="item" key="EX_0_0435" value="Wooden statue" />
+  <keys type="item" key="EX_0_0436" value="Craftsman" />
+  <keys type="item" key="EX_0_0437" value="Ice statue" />
+  <keys type="item" key="EX_0_0438" value="Craftsman" />
+  <keys type="item" key="EX_0_0439" value="Stone statue" />
+  <keys type="item" key="EX_0_0440" value="Craftsman" />
+  <keys type="item" key="EX_0_0441" value="Craftsman" />
+  <keys type="item" key="EX_0_0442" value="Pure fire" />
+  <keys type="item" key="EX_0_0443" value="Pure water" />
+  <keys type="item" key="EX_0_0444" value="Spirit" />
+  <keys type="item" key="EX_0_0445" value="Sculpture" />
+  <keys type="item" key="EX_0_0446" value="Management appointment" />
+  <keys type="item" key="EX_0_0447" value="Husband candidate order" />
+  <keys type="item" key="EX_0_0448" value="Preparation" />
+  <keys type="item" key="EX_0_0449" value="seaweeds" />
+  <keys type="item" key="EX_0_0450" value="Rainbow Color Candy Broken Pieces A" />
+  <keys type="item" key="EX_0_0451" value="Rainbow color candy broken piece b" />
+  <keys type="item" key="EX_0_0452" value="Rainbow Color Candy's Broken Sculpture C" />
+  <keys type="item" key="EX_0_0453" value="Rainbow color candy broken piece d" />
+  <keys type="item" key="EX_0_0454" value="Sign" />
+  <keys type="item" key="EX_0_0455" value="Perfect letter" />
+  <keys type="item" key="EX_0_0456" value="Pink" />
+  <keys type="item" key="EX_0_0457" value="8th Anniversary Coin" />
+  <keys type="item" key="EX_0_0458" value="Less digestive development" />
+  <keys type="item" key="EX_0_0459" value="Vote em Uma Mulher Bonita" />
+  <keys type="item" key="EX_0_0460" value="UL's certificate" />
+  <keys type="item" key="EX_0_0461" value="Moeda Estilo Musa" />
+  <keys type="item" key="EX_0_0462" value="Moeda Estilo Legal" />
+  <keys type="item" key="EX_0_0463" value="Moeda Estilo Paixão" />
+  <keys type="item" key="EX_0_0464" value="Moeda Estilo de Amor" />
+  <keys type="item" key="EX_0_0465" value="Moeda Estilo Talento" />
+  <keys type="item" key="EX_0_0466" value="Bilhete André VIP " />
+  <keys type="item" key="EX_0_0467" value="Pó de Glicínia" />
+  <keys type="item" key="EX_0_0468" value="Jóia de Icarus" />
+  <keys type="item" key="EX_0_0469" value="Tintura" />
+  <keys type="item" key="EX_0_0470" value="Garrafa vazia" />
+  <keys type="item" key="EX_0_0471" value="Grande Pedaço de Papel" />
+  <keys type="item" key="EX_0_0472" value="Papel de Lebrini" />
+  <keys type="item" key="EX_0_0473" value="Fragmento de Estrelas" />
+  <keys type="item" key="EX_0_0474" value="Sussurro da Estrela" />
+  <keys type="item" key="EX_0_0475" value="Coração de Estrela" />
+  <keys type="item" key="EX_0_0476" value="Doce Estrela da Galáxia" />
+  <keys type="item" key="EX_0_0477" value="Livro de Receitas Secretas de Waffle da Família Delicious" />
+  <keys type="item" key="EX_0_0478" value="Sorvete de Chocolate" />
+  <keys type="item" key="EX_0_0479" value="Sorvete de Chá Verde" />
+  <keys type="item" key="EX_0_0480" value="Sorvete de Morango" />
+  <keys type="item" key="EX_0_0481" value="Conjunto de Cobertura Doce" />
+  <keys type="item" key="EX_0_0482" value="Conjunto de Cobertura Amarga" />
+  <keys type="item" key="EX_0_0483" value="Conjunto de Cobertura Fresca" />
+  <keys type="item" key="EX_0_0484" value="Well -being" />
+  <keys type="item" key="EX_0_0485" value="Meat cooking tool" />
+  <keys type="item" key="EX_0_0486" value="A full moon" />
+  <keys type="item" key="EX_0_0487" value="Moon mushroom" />
+  <keys type="item" key="EX_0_0488" value="Moon Snake" />
+  <keys type="item" key="EX_0_0489" value="Millennium" />
+  <keys type="item" key="EX_0_0490" value="Spice" />
+  <keys type="item" key="EX_0_0491" value="The energy of the full moon" />
+  <keys type="item" key="EX_0_0492" value="Funny's meat" />
+  <keys type="item" key="EX_0_0493" value="Chef" />
+  <keys type="item" key="EX_0_0494" value="Medalha Fantasma" />
+  <keys type="item" key="EX_0_0495" value="Medalha do Dia das Bruxas" />
+  <keys type="item" key="EX_0_0496" value="Livro do Ritual Demoníaco" />
+  <keys type="item" key="EX_0_0497" value="Fragmento de Energia do Espírito Guardião" />
+  <keys type="item" key="EX_0_0498" value="Missão dos Guardiões Fantasmas" />
+  <keys type="item" key="EX_0_0499" value="Missão Exorcismo Fantasma" />
+  <keys type="item" key="EX_0_0500" value="Saco de Embrulho do Dia das Bruxas" />
+  <keys type="item" key="EX_0_0501" value="Doce do Dia das Bruxas" />
+  <keys type="item" key="EX_0_0502" value="Caramelo de Abóbora do Dia das Bruxas" />
+  <keys type="item" key="EX_0_0503" value="Chocolate do Dia das Bruxas" />
+  <keys type="item" key="EX_0_0504" value="Pacote de Presentes do Dia das Bruxas" />
+  <keys type="item" key="Ex_0_0505" value="Moeda do Mestre Colecionador" />
+  <keys type="item" key="Ex_0_0506" value="Um Chapéu de Natal" />
+  <keys type="item" key="Ex_0_0507" value="Kit para Fazer Árvores" />
+  <keys type="item" key="Ex_0_0508" value="Um Conjunto de Ursinho de Pelúcia" />
+  <keys type="item" key="Ex_0_0509" value="Um Kit de Crochê" />
+  <keys type="item" key="Ex_0_0510" value="Uma Árvore para Decoração" />
+  <keys type="item" key="Ex_0_0511" value="Urso de Pelúcia" />
+  <keys type="item" key="Ex_0_0512" value="Leite Fresco" />
+  <keys type="item" key="Ex_0_0513" value="Amor de Yeti" />
+  <keys type="item" key="Ex_0_0514" value="Um Bilhete de Natal" />
+  <keys type="item" key="Ex_0_0515" value="Um Pacote de Presentes Perdido" />
+  <keys type="item" key="EX_0_0516" value="Arroz glutinoso pegajoso úmido" />
+  <keys type="item" key="EX_0_0517" value="Pérola de Penas de Fada" />
+  <keys type="item" key="EX_0_0518" value="Ração de Pêssego" />
+  <keys type="item" key="EX_0_0519" value="Ração de Mirtilo" />
+  <keys type="item" key="EX_0_0520" value="Ração de Folha de Chá Verde" />
+  <keys type="item" key="EX_0_0521" value="Medicamento Experimental de Kelly" />
+  <keys type="item" key="EX_0_0522" value="Novo Medicamento Altamente Concentrada de Kelly" />
+  <keys type="item" key="EX_0_0523" value="Moeda Coelho Tteok" />
+  <keys type="item" key="EX_0_0524" value="Bolo de Arroz com Mel Nutritivo de Coelho Tteok" />
+  <keys type="item" key="EX_0_0525" value="Mel Doce" />
+  <keys type="item" key="EX_0_0527" value="Fragmento de Memória" />
+  <keys type="item" key="EX_0_0528" value="Pedido de Memórias por Escrito" />
+  <keys type="item" key="EX_0_0529" value="Álbum de Fotos Nostálgico" />
+  <keys type="item" key="EX_0_0530" value="Bilhete de Nell" />
+  <keys type="item" key="EX_0_0531" value="Moeda de Flor" />
+  <keys type="item" key="EX_0_0532" value="Peça de Taffeite" />
+  <keys type="item" key="EX_0_0533" value="Cristal da Lágrima da Beleza Branca." />
+  <keys type="item" key="EX_0_0534" value="Cristal da Lágrima da Beleza Rosa." />
+  <keys type="item" key="EX_0_0535" value="Cordão de Taffeite" />
+  <keys type="item" key="EX_0_0536" value="Matthew's blood" />
+  <keys type="item" key="EX_0_0537" value="red wine" />
+  <keys type="item" key="EX_0_0538" value="Poor wine" />
+  <keys type="item" key="EX_0_0539" value="Mint" />
+  <keys type="item" key="EX_0_0540" value="Special Mint" />
+  <keys type="item" key="EX_0_0541" value="Ice Candy" />
+  <keys type="item" key="EX_0_0542" value="Stuffed Ice Candy" />
+  <keys type="item" key="EX_0_0543" value="Red Feather" />
+  <keys type="item" key="EX_0_0544" value="The Red Book" />
+  <keys type="item" key="EX_0_0545" value="limited candy" />
+  <keys type="item" key="EX_0_0546" value="Broken Jennahorn" />
+  <keys type="item" key="EX_0_0547" value="hot ethmoid bone" />
+  <keys type="item" key="EX_0_0548" value="burning piece of wood" />
+  <keys type="item" key="EX_0_0549" value="Heatrit's Bark" />
+  <keys type="item" key="EX_0_0550" value="Mysterious color reagent" />
+  <keys type="item" key="EX_0_0551" value="God of Magmaphora" />
+  <keys type="item" key="EX_0_0552" value="Crystal Ball" />
+  <keys type="item" key="EX_0_0553" value="Eye of the Dragon God Guardian" />
+  <keys type="item" key="EX_0_0554" value="Martitl and Matthew's Seal of Surrender" />
+  <keys type="item" key="EX_0_0555" value="Spider Cocoon" />
+  <keys type="item" key="EX_0_0556" value="Pile of Gems" />
+  <keys type="item" key="EX_0_0557" value="Queen's Thread" />
+  <keys type="item" key="EX_0_0558" value="Magma Cream" />
+  <keys type="item" key="EX_0_0559" value="Ordinary Rubrom Specials" />
+  <keys type="item" key="EX_0_0560" value="Special Lubrom special meal" />
+  <keys type="item" key="EX_0_0561" value="Dragonscale" />
+  <keys type="item" key="EX_0_0562" value="Blue Stone Piece" />
+  <keys type="item" key="EX_0_0563" value="Blue blood" />
+  <keys type="item" key="EX_0_0564" value="Special memory output machine" />
+  <keys type="item" key="EX_0_0565" value="Experiment Data" />
+  <keys type="item" key="EX_0_0566" value="Confidential Documents" />
+  <keys type="item" key="EX_0_0567" value="9th Anniversary Popular Vote" />
+  <keys type="item" key="EX_0_0568" value="9th anniversary coin" />
+  <keys type="item" key="EX_0_0569" value="Completed ballot" />
+  <keys type="item" key="EX_0_0570" value="Loyalty Certificate" />
+  <keys type="item" key="EX_0_0571" value="9th Anniversary Costume Piece" />
+  <keys type="item" key="EX_0_0572" value="Regular Badge" />
+  <keys type="item" key="EX_0_0573" value="Lavish" />
+  <keys type="item" key="EX_0_0576" value="Dream Bundle" />
+  <keys type="item" key="EX_0_0578" value="Tropical fish" />
+  <keys type="item" key="EX_0_0577" value="Egg Coins" />
+  <keys type="item" key="EX_0_0579" value="Aura of welcome" />
+  <keys type="item" key="EX_0_0580" value="Bad guy's liquor" />
+  <keys type="item" key="EX_0_0574" value="A pile of colorful jewels" />
+  <keys type="item" key="EX_0_0575" value="Delicate Spider Cocoon" />
+  <keys type="item" key="EX_0_0581" value="Toy horse accessories" />
+  <keys type="item" key="EX_0_0582" value="Toy Repair Kit" />
+  <keys type="item" key="EX_0_0583" value="craft varnish" />
+  <keys type="item" key="EX_0_0584" value="Three-color paint" />
+  <keys type="item" key="EX_0_0585" value="Design Horse Tuning Set" />
+  <keys type="item" key="EX_0_0586" value="Toy Coin" />
+  <keys type="item" key="EX_0_0587" value="Toy Exchange Ticket" />
+  <keys type="item" key="EX_0_0588" value="Abandoned Toys" />
+  <keys type="item" key="EX_0_0589" value="Abandoned plaything" />
+</files>
