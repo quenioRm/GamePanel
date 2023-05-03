@@ -89,12 +89,30 @@ class Functions{
     public static function GetClassName($class)
     {
         switch ($class) {
+            case 'gd':
+                return "Guardian";
+                break;
+            case 'tf':
+                return "Assassin";
+                break;
+            case 'pr':
+                return "Priest";
+                break;
             case 'wz':
+                return "Wizard";
+                break;
+            case 'ac':
+                return "Archer";
+                break;
+            case 'do':
+                return "Trickster";
+                break;
+            case 'mg':
                 return "Magician";
                 break;
 
             default:
-                # code...
+                return "";
                 break;
         }
     }
