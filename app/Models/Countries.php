@@ -25,7 +25,7 @@ class Countries extends Model
     {
         $lang = null;
 
-        (Session()->get('applocale') == null ? $lang = config('app.fallback_locale') : $lang = Session()->get('applocale'));
+        (App::currentLocale() == null ? $lang = 'pt-BR' : $lang = App::currentLocale());
 
         dd($lang);
 
