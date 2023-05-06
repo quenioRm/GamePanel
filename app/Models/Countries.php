@@ -28,8 +28,6 @@ class Countries extends Model
 
         (App::currentLocale() == null ? $lang = 'pt-BR' : $lang = App::currentLocale());
 
-        dd($lang);
-
         return Countries::where('code_1', Auth::user()->nationCode)->where('lang',$lang)->first();
     }
 }
