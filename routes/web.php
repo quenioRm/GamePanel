@@ -163,6 +163,7 @@ Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
 
     Route::group(['prefix'=>'Member'] , function(){
         Route::group(['prefix'=>'Join'] , function(){
+
             Route::post('/isBlockEmailDomain', [App\Http\Controllers\Auth\RegisterController::class,'isBlockEmailDomain'])
             ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
             ->name('isblockemaildomain');
