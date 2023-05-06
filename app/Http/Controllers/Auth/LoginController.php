@@ -179,6 +179,11 @@ class LoginController extends Controller
 
     public function ResetPasswordFormSubmit(Request $request)
     {
+        $accountLang = $request->header('Accept-Language');
+
+        Session::put('applocale', $accountLang);
+        App::setLocale(Session()->get('applocale'));
+
         $validator = Validator::make($request->all(), [
             'email' => 'required|string|email|max:255'
         ], [], [
