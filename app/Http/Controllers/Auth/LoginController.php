@@ -191,7 +191,9 @@ class LoginController extends Controller
         ]);
 
         if(!$validator->passes()){
-            return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
+            return $request->wantsJson()
+            ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()],'resultData' => null, 'returnUrl' => '' ], 400)
+            : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
         }
 
         $user = User::ResetPassword($request['email'], $request['password'], $request['isIpCheck']);
