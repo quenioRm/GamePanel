@@ -101,10 +101,10 @@ class MainController extends Controller
 
     public function getNewsCard()
     {
-        $notices = News::where('language', App::currentLocale())->get();
+        $notices = News::where('language', App::currentLocale())->orderBy('created_at', 'desc')->get();
 
         if(empty($notices->toArray())){
-            $notices = News::where('language', 'pt-BR')->get();
+            $notices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->get();
         }
         return view('web.pages.includes.homenotice', ['notices' => $notices]);
     }
