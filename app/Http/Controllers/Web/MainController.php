@@ -43,7 +43,7 @@ class MainController extends Controller
             $latestNotice = News::where('language', App::currentLocale())->latest()->first();
 
             if(empty($notices->toArray())){
-                $notices = News::where('language', 'pt-BR')->take(Session::get('currentContent'))->orderBy('created_at', 'desc')->get();
+                $notices = News::where('language', 'pt-BR')->take(Session::get('currentContent'))->orderBy('created_at', 'asc')->get();
                 $latestNotice = News::where('language', 'pt-BR')->latest()->first();
             }
 
@@ -54,7 +54,7 @@ class MainController extends Controller
             if(empty($notices->toArray())){
 
                 $notices = News::where('language', 'pt-BR')->where('category', $category)->take(Session::get('currentContent'))
-                ->orderBy('created_at', 'desc')->get();
+                ->orderBy('created_at', 'asc')->get();
 
                 $latestNotice = News::where('language', 'pt-BR')->where('category', $category)->latest()->first();
             }
@@ -101,10 +101,10 @@ class MainController extends Controller
 
     public function getNewsCard()
     {
-        $notices = News::where('language', App::currentLocale())->orderBy('created_at', 'desc')->get();
+        $notices = News::where('language', App::currentLocale())->orderBy('created_at', 'asc')->get();
 
         if(empty($notices->toArray())){
-            $notices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->get();
+            $notices = News::where('language', 'pt-BR')->orderBy('created_at', 'asc')->get();
         }
         return view('web.pages.includes.homenotice', ['notices' => $notices]);
     }
