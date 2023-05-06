@@ -50,8 +50,8 @@ return [
     'emailmessage_5' => 'Esse e-mail pode ser resultado de um erro de digitação.',
     'emailmessage_6' => 'Essa é uma mensagem automática. Em caso de dúvidas, entre em contato com o Atendimento ao Cliente.',
     'emailmessage_7' => 'Recuperação de conta',
-    'emailmessage_8' => 'Caro,' .
-    'Utilize a senha abaixo para acessar os serviços.',
+    'emailmessage_8' => 'Caro, jogador' .
+    'utilize a senha abaixo para acessar os serviços.',
     'emailmessage_9' => 'Nova Senha',
     'emailmessage_10' => 'Não passe a sua senha a ninguém.',
     'emailmessage_11' => 'Verifique a caixa de spam ou lixeira.',
