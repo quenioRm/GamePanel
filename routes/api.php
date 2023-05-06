@@ -16,6 +16,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginFormSubmit'])->name('apilogin');
 
+Route::post('/reset', [App\Http\Controllers\Auth\LoginController::class, 'ResetPasswordFormSubmit']);
+
 Route::post('/simpleregister', [App\Http\Controllers\Auth\RegisterController::class, 'SimpleRegister']);
 
 Route::post('/updatediscordaccount', [App\Http\Controllers\Auth\LoginController::class, 'UpdateDiscordId'])->name('updatediscordaccount');
