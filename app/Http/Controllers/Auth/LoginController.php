@@ -199,15 +199,20 @@ class LoginController extends Controller
         switch ($user['code']) {
             case -3:
                 $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
-                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
-                break;
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1003, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null, 'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
             case -2:
                 $validator->errors()->add('email', Lang::get('messages.userNotFound'));
-                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null, 'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
                 break;
             case -1:
                 $validator->errors()->add('email', Lang::get('messages.resetPasswordTimeElapsed'));
-                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1001, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null, 'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
                 break;
         }
 
