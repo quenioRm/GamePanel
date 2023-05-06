@@ -96,6 +96,7 @@ class ControlPanelController extends Controller
 
     public function AccountProfileInfoForm()
     {
+        dd(Countries::GetCountrie());
         return view('controlpanel.pages.accountprofileinfo',
         [
             'accountregion' => Countries::GetCountrie(),

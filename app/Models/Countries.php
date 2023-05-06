@@ -24,6 +24,7 @@ class Countries extends Model
     public static function GetCountrie()
     {
         $lang = null;
+
         (Session()->get('applocale') == null ? $lang = config('app.fallback_locale') : $lang = Session()->get('applocale'));
 
         return Countries::where('code_1', Auth::user()->nationCode)->where('lang',$lang)->first();
