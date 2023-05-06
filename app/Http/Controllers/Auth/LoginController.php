@@ -221,7 +221,7 @@ class LoginController extends Controller
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetPasswordMessage')]);
 
         return $request->wantsJson()
-        ? response()->json(['resultCode' => -1001, 'resultMsg' => ['message' => Lang::get('messages.resetPasswordMessage'), 'errors' => null], 'resultData' => null, 'returnUrl' => '' ], 400)
+        ? response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => Lang::get('messages.resetPasswordMessage'), 'errors' => null], 'resultData' => null, 'returnUrl' => '' ], 200)
         : redirect(route('gamepanel.login'));
     }
 
