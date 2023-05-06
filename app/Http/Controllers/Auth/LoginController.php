@@ -219,7 +219,10 @@ class LoginController extends Controller
         }
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetPasswordMessage')]);
-        return redirect()->route('gamepanel.login');
+
+        return $request->wantsJson()
+        ? response()->json(['resultCode' => -1001, 'resultMsg' => ['message' => Lang::get('messages.resetPasswordMessage'), 'errors' => null], 'resultData' => null, 'returnUrl' => '' ], 400)
+        : redirect(route('gamepanel.login'));
     }
 
     public function UpdateDiscordId(Request $request)
