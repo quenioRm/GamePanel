@@ -30,6 +30,28 @@ Route::get('/getNewsCard/{type}', [App\Http\Controllers\Web\MainController::clas
 Route::get('/GetTopNotice', [App\Http\Controllers\Web\MainController::class,
 'GetTopNotice'])->name('gettopnotice');
 
+// System Routes
+Route::group(['prefix'=>'Member'] , function(){
+    Route::group(['prefix'=>'Join'] , function(){
+
+        Route::post('/isBlockEmailDomain', [App\Http\Controllers\Auth\RegisterController::class,'isBlockEmailDomain'])
+        ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+        ->name('isblockemaildomain');
+
+        Route::post('/EmailAuth', [App\Http\Controllers\Auth\RegisterController::class,'EmailAuth'])
+        ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+        ->name('emailauth');
+
+        Route::post('/AuthMailSend', [App\Http\Controllers\Auth\RegisterController::class, 'AuthMailSend'])
+        ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+        ->name('authmailsend');
+
+        Route::post('/joinMailAuth', [App\Http\Controllers\Auth\RegisterController::class, 'joinMailAuth'])
+        ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+        ->name('joinmailauth');
+    });
+});
+
 // GamePanel
 Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
 
@@ -159,27 +181,6 @@ Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
     Route::prefix('facebook')->name('facebook.')->group( function(){
         Route::get('/auth', [App\Http\Controllers\FacebookController::class, 'facebookRedirect'])->name('login');
         Route::get('auth/callback', [App\Http\Controllers\FacebookController::class, 'loginWithFacebook'])->name('callback');
-    });
-
-    Route::group(['prefix'=>'Member'] , function(){
-        Route::group(['prefix'=>'Join'] , function(){
-
-            Route::post('/isBlockEmailDomain', [App\Http\Controllers\Auth\RegisterController::class,'isBlockEmailDomain'])
-            ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
-            ->name('isblockemaildomain');
-
-            Route::post('/EmailAuth', [App\Http\Controllers\Auth\RegisterController::class,'EmailAuth'])
-            ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
-            ->name('emailauth');
-
-            Route::post('/AuthMailSend', [App\Http\Controllers\Auth\RegisterController::class, 'AuthMailSend'])
-            ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
-            ->name('authmailsend');
-
-            Route::post('/joinMailAuth', [App\Http\Controllers\Auth\RegisterController::class, 'joinMailAuth'])
-            ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
-            ->name('joinmailauth');
-        });
     });
 
     Route::get('/GetCountries/{lang}', [App\Http\Controllers\WebController::class, 'GetCountries'])->name('countries');
