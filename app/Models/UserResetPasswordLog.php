@@ -22,7 +22,8 @@ class UserResetPasswordLog extends Model
         $user = self::where('email', $email)->latest('created_at')->first();
         if($user){
             $days = $user->created_at->diffInDays(now());
-            $hours = $user->created_at->diffInHours(now()->subDays($days));
+            // $hours = $user->created_at->diffInHours(now()->subDays($days));
+            $hours = now()->diffInHours($user->created_at->subDays($days));
 
             dd($hours);
 
