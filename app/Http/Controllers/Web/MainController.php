@@ -43,7 +43,7 @@ class MainController extends Controller
             $latestNotice = News::where('language', App::currentLocale())->latest()->first();
 
             if(empty($notices->toArray())){
-                $notices = News::where('language', 'pt-BR')->take(Session::get('currentContent'))->get();
+                $notices = News::where('language', 'pt-BR')->take(Session::get('currentContent'))->orderBy('created_at', 'desc')->get();
                 $latestNotice = News::where('language', 'pt-BR')->latest()->first();
             }
 
@@ -52,7 +52,10 @@ class MainController extends Controller
             $latestNotice = News::where('language', App::currentLocale())->where('category', $category)->latest()->first();
 
             if(empty($notices->toArray())){
-                $notices = News::where('language', 'pt-BR')->where('category', $category)->take(Session::get('currentContent'))->get();
+
+                $notices = News::where('language', 'pt-BR')->where('category', $category)->take(Session::get('currentContent'))
+                ->orderBy('created_at', 'desc')->get();
+
                 $latestNotice = News::where('language', 'pt-BR')->where('category', $category)->latest()->first();
             }
         }
