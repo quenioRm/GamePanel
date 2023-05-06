@@ -134,7 +134,7 @@
          <br>
         <br>
         <div class="btn_wrap">
-            <button type="submit" style="width: 20%" class="btn btn_big2 btn_blue js-btnJoin">Cadastrar</button>
+            <button type="submit" style="width: 20%" class="btn btn_big2 btn_blue js-btnJoin">Editar</button>
          </div>
     </form>
     </div>

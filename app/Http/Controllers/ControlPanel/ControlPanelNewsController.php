@@ -88,7 +88,7 @@ class ControlPanelNewsController extends Controller
 
 
         if(!$validator->passes())
-            return redirect(route('gamepanel.controlpanel.news.add'))->withInput()->withErrors($validator->errors());
+            return redirect(route('gamepanel.controlpanel.news.edit'))->withInput()->withErrors($validator->errors());
 
         $result = News::makeEdit($id, $request);
 
