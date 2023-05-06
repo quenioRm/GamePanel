@@ -24,7 +24,7 @@ class UserResetPasswordLog extends Model
             $days = $user->created_at->diffInDays($user->updated_at);
             $hours = $user->created_at->diffInHours($user->updated_at->subDays($days));
 
-            dd($days);
+            dd($user);
 
             if($hours < 1){
                 return -1;
