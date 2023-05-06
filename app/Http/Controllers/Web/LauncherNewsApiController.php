@@ -29,10 +29,10 @@ class LauncherNewsApiController extends Controller
         Session::put('applocale', $lang);
         App::setLocale(Session()->get('applocale'));
 
-        $notices = News::where('language', $lang)->take(5)->get();
+        $notices = News::where('language', $lang)->orderBy('created_at', 'desc')->take(5)->get();
 
         if(empty($notices->toArray())){
-            $notices = News::where('language', 'pt-BR')->take(5)->get();
+            $notices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->take(5)->get();
         }
 
         $lastDate = null;
@@ -46,10 +46,10 @@ class LauncherNewsApiController extends Controller
             }
         }
 
-        $subNotices = News::where('language', $lang)->where('created_at', '<', $lastDate)->take(5)->get();
+        $subNotices = News::where('language', $lang)->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
 
         if(empty($subNotices->toArray())){
-            $subNotices = News::where('language', 'pt-BR')->where('created_at', '<', $lastDate)->take(5)->get();
+            $subNotices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
         }
 
         // Ping
