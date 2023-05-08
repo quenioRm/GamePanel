@@ -9,6 +9,8 @@ use App\Models\Game\Character\TableGuildBase;
 use App\Models\Game\User\TableUser;
 use App\Models\Game\Log\TableCharacterItemQueue;
 use App\Models\Game\Log\GuildMarkHistory;
+use App\Models\Game\Log\TableAccountLog;
+
 use App\Helpers\Functions;
 
 class IcarusAccountController extends Controller
@@ -78,5 +80,10 @@ class IcarusAccountController extends Controller
     public function GetUserByUserName($username)
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableUser::where('Account', $username)->first(), 'returnUrl' => '' ], 200);
+    }
+
+    public function GetOnlineAccounts()
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => TableAccountLog::GetOnlineAccounts(), 'returnUrl' => '' ], 200);
     }
 }

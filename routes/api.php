@@ -76,6 +76,9 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::get('moveitemtobuyer/{sellId}/{characterBuyerId}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToBuyer'])->name('moveitemtobuyer');
 
+    Route::get('getonlineaccounts', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'GetOnlineAccounts'])->name('getonlineaccounts');
+
 });
 
 Route::prefix('launcher')->name('launcher.')->group( function(){
