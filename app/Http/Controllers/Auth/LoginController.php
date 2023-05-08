@@ -179,6 +179,11 @@ class LoginController extends Controller
 
     public function ResetPasswordFormSubmit(Request $request)
     {
+        $accountLang = $request->header('Accept-Language');
+
+        Session::put('applocale', $accountLang);
+        App::setLocale(Session()->get('applocale'));
+
         $validator = Validator::make($request->all(), [
             'email' => 'required|string|email|max:255'
         ], [], [
@@ -186,7 +191,9 @@ class LoginController extends Controller
         ]);
 
         if(!$validator->passes()){
-            return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
+            return $request->wantsJson()
+            ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()],'resultData' => null, 'returnUrl' => '' ], 400)
+            : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
         }
 
         $user = User::ResetPassword($request['email'], $request['password'], $request['isIpCheck']);
@@ -194,20 +201,28 @@ class LoginController extends Controller
         switch ($user['code']) {
             case -3:
                 $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));
-                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
-                break;
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1003, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null, 'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
             case -2:
                 $validator->errors()->add('email', Lang::get('messages.userNotFound'));
-                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null, 'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
                 break;
             case -1:
                 $validator->errors()->add('email', Lang::get('messages.resetPasswordTimeElapsed'));
-                return redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1001, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null, 'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.reset'))->withInput()->withErrors($validator->errors());
                 break;
         }
 
         Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetPasswordMessage')]);
-        return redirect()->route('gamepanel.login');
+
+        return $request->wantsJson()
+        ? response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => Lang::get('messages.resetPasswordMessage'), 'errors' => null], 'resultData' => null, 'returnUrl' => '' ], 200)
+        : redirect(route('gamepanel.login'));
     }
 
     public function UpdateDiscordId(Request $request)

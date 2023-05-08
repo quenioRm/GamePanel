@@ -28,4 +28,9 @@ class TableAccountLog extends Model
 
         return $status->onlineStatus;
     }
+
+    public static function GetOnlineAccounts()
+    {
+        return self::where('onlineStatus', 0)->get();
+    }
 }

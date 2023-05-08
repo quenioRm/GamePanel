@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\App;
 
 class Countries extends Model
 {
@@ -24,7 +25,8 @@ class Countries extends Model
     public static function GetCountrie()
     {
         $lang = null;
-        (Session()->get('applocale') == null ? $lang = config('app.fallback_locale') : $lang = Session()->get('applocale'));
+
+        (App::currentLocale() == null ? $lang = 'pt-BR' : $lang = App::currentLocale());
 
         return Countries::where('code_1', Auth::user()->nationCode)->where('lang',$lang)->first();
     }

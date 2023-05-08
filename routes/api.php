@@ -16,6 +16,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::post('/login', [App\Http\Controllers\Auth\LoginController::class, 'LoginFormSubmit'])->name('apilogin');
 
+Route::post('/reset', [App\Http\Controllers\Auth\LoginController::class, 'ResetPasswordFormSubmit'])->name('apipasswordreset');
+
 Route::post('/simpleregister', [App\Http\Controllers\Auth\RegisterController::class, 'SimpleRegister']);
 
 Route::post('/updatediscordaccount', [App\Http\Controllers\Auth\LoginController::class, 'UpdateDiscordId'])->name('updatediscordaccount');
@@ -73,6 +75,9 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
 
     Route::get('moveitemtobuyer/{sellId}/{characterBuyerId}', [App\Http\Controllers\Games\IcarusBuySellApiController::class,
     'MoveItemToBuyer'])->name('moveitemtobuyer');
+
+    Route::get('getonlineaccounts', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'GetOnlineAccounts'])->name('getonlineaccounts');
 
 });
 

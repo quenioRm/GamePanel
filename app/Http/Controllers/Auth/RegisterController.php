@@ -154,8 +154,6 @@ class RegisterController extends Controller
 
         $user = User::CheckIsBlocked($request['email']);
 
-        dd($user);
-
         switch ($user) {
             case -1:
                 $validator->errors()->add('email', Lang::get('messages.isBlockedAccount'));

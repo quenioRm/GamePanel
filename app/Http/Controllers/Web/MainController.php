@@ -39,20 +39,26 @@ class MainController extends Controller
             Session::put('currentContent', $currentSession + 5);
 
         if($category == null || $category == 'all'){
-            $notices = News::where('language', App::currentLocale())->take(Session::get('currentContent'))->get();
+            $notices = News::where('language', App::currentLocale())->orderBy('created_at', 'desc')->take(Session::get('currentContent'))
+            ->get();
             $latestNotice = News::where('language', App::currentLocale())->latest()->first();
 
             if(empty($notices->toArray())){
-                $notices = News::where('language', 'pt-BR')->take(Session::get('currentContent'))->get();
+                $notices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->take(Session::get('currentContent'))->get();
                 $latestNotice = News::where('language', 'pt-BR')->latest()->first();
             }
 
         }else{
-            $notices = News::where('language', App::currentLocale())->where('category', $category)->take(Session::get('currentContent'))->get();
+            $notices = News::where('language', App::currentLocale())->where('category', $category)->orderBy('created_at', 'desc')
+            ->take(Session::get('currentContent'))
+            ->get();
             $latestNotice = News::where('language', App::currentLocale())->where('category', $category)->latest()->first();
 
             if(empty($notices->toArray())){
-                $notices = News::where('language', 'pt-BR')->where('category', $category)->take(Session::get('currentContent'))->get();
+
+                $notices = News::where('language', 'pt-BR')->where('category', $category)->take(Session::get('currentContent'))
+                ->orderBy('created_at', 'desc')->get();
+
                 $latestNotice = News::where('language', 'pt-BR')->where('category', $category)->latest()->first();
             }
         }
@@ -98,10 +104,10 @@ class MainController extends Controller
 
     public function getNewsCard()
     {
-        $notices = News::where('language', App::currentLocale())->get();
+        $notices = News::where('language', App::currentLocale())->orderBy('created_at', 'desc')->get();
 
         if(empty($notices->toArray())){
-            $notices = News::where('language', 'pt-BR')->get();
+            $notices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->get();
         }
         return view('web.pages.includes.homenotice', ['notices' => $notices]);
     }
