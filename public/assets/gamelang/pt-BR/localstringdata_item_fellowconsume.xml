@@ -1,112 +1,351 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="FM_000_0009" value="Pergaminho de Familiar Comum" />
-  <keys type="item" key="FM_000_0011" value="Pergaminho de Familiar de Elite" />
-  <keys type="item" key="FM_000_0012" value="Pergaminho de Familiar Heroico" />
-  <keys type="item" key="FM_000_0013" value="Pergaminho de Familiar Lendário" />
-  <keys type="item" key="FM_000_0010" value="Item de Conversão de Pet (Teste)" />
-  <keys type="item" key="SF1_1_000_0003" value="Pedra-Lacre Heroica de Exarahn" />
-  <keys type="item" key="IT_FE_UF_0000" value="Pedra de Deslacre Elite" />
-  <keys type="item" key="IT_FE_UF_0001" value="Pedra de Deslacre Heroica" />
-  <keys type="item" key="CA_FE_UF_0000" value="Pedra de Deslacre Elite" />
-  <keys type="item" key="CA_FE_UF_0001" value="Pedra de Deslacre Heroica" />
-  <keys type="item" key="IT_FE_EF_0000" value="Extrator de Pedra-Lacre Elite" />
-  <keys type="item" key="IT_FE_EF_0001" value="Extrator de Pedra-Lacre Elite de Stygaea" />
-  <keys type="item" key="IT_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
-  <keys type="item" key="IT_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
-  <keys type="item" key="IT_FE_EF_0004" value="Extrator de Pedra-Lacre Elite V" />
-  <keys type="item" key="IT_FE_EF_0005" value="Extrator de Pedra-Lacre Heroica" />
-  <keys type="item" key="IT_FE_EF_0006" value="Extrator de Pedra-Lacre Heroica de Stygaea" />
-  <keys type="item" key="IT_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
-  <keys type="item" key="IT_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
-  <keys type="item" key="IT_FE_EF_0009" value="Extrator de Pedra-Lacre Heroica V" />
-  <keys type="item" key="CA_FE_EF_0000" value="Extrator de Pedra-Lacre Elite Abençoado" />
-  <keys type="item" key="CA_FE_EF_0001" value="Extrator de Pedra-Lacre Elite II" />
-  <keys type="item" key="CA_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
-  <keys type="item" key="CA_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
-  <keys type="item" key="CA_FE_EF_0004" value="Extrator de Pedra-Lacre Heroica" />
-  <keys type="item" key="CA_FE_EF_0005" value="Extrator de Pedra-Lacre Heroica Abençoado" />
-  <keys type="item" key="CA_FE_EF_0006" value="Extrator de Pedra-Lacre Heroica II" />
-  <keys type="item" key="CA_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
-  <keys type="item" key="CA_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
-  <keys type="item" key="CA_FE_EF_0009" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="CA_FE_EF_0010" value="Extrator de Pedra-Lacre Lendária Abençoado" />
-  <keys type="item" key="CA_FE_FB_0098" value="Ração de Provisão (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0099" value="Ração de Provisão (3 horas)" />
-  <keys type="item" key="CA_FE_FB_0100" value="Ração de Provisão (6 horas)" />
-  <keys type="item" key="CA_FE_FB_0101" value="Ração de Provisão (12 horas)" />
-  <keys type="item" key="CA_FE_FB_0000" value="Ração Premium (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0001" value="Ração Premium (6 horas)" />
-  <keys type="item" key="CA_FE_FB_0002" value="Ração Premium (12 horas)" />
-  <keys type="item" key="CA_FE_FB_0003" value="Ração Suprema (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0004" value="Ração Suprema (6 horas)" />
-  <keys type="item" key="CA_FE_FB_0005" value="Ração Suprema (12 horas)" />
-  <keys type="item" key="IT_FE_TS_0001" value="Teste de Extração de Pedra-Lacre (Elite)" />
-  <keys type="item" key="IT_FE_TS_0002" value="Teste de Extração de Pedra-Lacre (Elite)" />
-  <keys type="item" key="IT_FE_TS_0003" value="Teste de Extração de Pedra-Lacre (Elite)" />
-  <keys type="item" key="IT_FE_TS_0004" value="Teste de Extração de Pedra-Lacre (+1)" />
-  <keys type="item" key="IT_FE_TS_0005" value="Teste de Extração de Pedra-Lacre (+2)" />
-  <keys type="item" key="IT_FE_TS_0006" value="Teste de Extração de Pedra-Lacre (+3)" />
-  <keys type="item" key="IT_FE_TS_0007" value="Teste de Extração de Pedra-Lacre (+4)" />
-  <keys type="item" key="IT_FE_TS_0008" value="Teste de Extração de Pedra-Lacre (+5)" />
-  <keys type="item" key="SF1_1_000_0004" value="Pedra-Lacre Comum Nível 60" />
-  <keys type="item" key="IT_FE_EF_0010" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="CA_FE_ES_0000" value="Ferramenta Teste de Gravar Familiar (1 min)" />
-  <keys type="item" key="CA_FE_ES_0001" value="Ferramenta Teste de Gravar Familiar (10 min)" />
-  <keys type="item" key="IT_FE_ES_0000" value="Cinzel de Familiares (1 dia)" />
-  <keys type="item" key="IT_FE_ES_0001" value="Cinzel de Familiares (7 dias)" />
-  <keys type="item" key="IT_FE_ES_0002" value="Cinzel de Familiares (15 dias)" />
-  <keys type="item" key="IT_FE_ES_0003" value="Cinzel de Familiares (30 dias)" />
-  <keys type="item" key="CA_FE_EM_0000" value="Extrator de Pedra-Lacre Heroica +5" />
-  <keys type="item" key="CA_FE_EM_0001" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="CA_FE_EM_0002" value="Extrator de Pedra-Lacre Heroica +5" />
-  <keys type="item" key="CA_FE_EM_0003" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="FM_000_0017" value="Pergaminho de Familiar Comum" />
-  <keys type="item" key="FM_000_0018" value="Pergaminho de Familiar de Elite" />
-  <keys type="item" key="FM_000_0019" value="Pergaminho de Familiar Heroico" />
-  <keys type="item" key="FM_000_0020" value="Pergaminho de Familiar Lendário" />
-  <keys type="item" key="SF1_4_001_0000" value="Pedra-Lacre Lendária" />
-  <keys type="item" key="PvP_CO_FE_0001" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="FI_FE_EM_0001" value="Extrator de Pedra-Lacre Heroica +5" />
-  <keys type="item" key="FI_FE_EM_0002" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="IT_FE_EF_0011" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="CA_FE_EM_0004" value="Extrator de Pedra-Lacre Heroica +7" />
-  <keys type="item" key="CA_FE_EM_0005" value="Extrator de Pedra-Lacre Lendária +7" />
-  <keys type="item" key="CA_FE_EM_0006" value="Extrator de Pedra-Lacre Heroica +7" />
-  <keys type="item" key="CA_FE_EM_0007" value="Extrator de Pedra-Lacre Lendária +7" />
-  <keys type="item" key="CA_FE_EM_0008" value="Extrator de Pedra-Lacre Heroica +6" />
-  <keys type="item" key="CA_FE_EM_0009" value="Extrator de Pedra-Lacre Lendária +6" />
-  <keys type="item" key="CA_FE_EM_0010" value="Extrator de Pedra-Lacre Heroica +6" />
-  <keys type="item" key="CA_FE_EM_0011" value="Extrator de Pedra-Lacre Lendária +6" />
-  <keys type="item" key="TS_FA_FB_0999" value="Impulsionador de Aventura de Familiar (Teste)" />
-  <keys type="item" key="PvP_CO_FE_0002" value="Extrator Lendário +5" />
-  <keys type="item" key="CA_FE_FB_0008" value="Impulsionador da Evolução (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0009" value="Impulsionador da Evolução (3 horas)" />
-  <keys type="item" key="CA_FE_FB_0010" value="Impulsionador da Evolução (6 horas)" />
-  <keys type="item" key="IT_FE_EF_0012" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="SF1_4_000_0103" value="Pedra-Lacre Lendária" />
-  <keys type="item" key="EV_FE_FC_0001" value="Pergaminho de Reiniciar Coleção de Familiar" />
-  <keys type="item" key="IT_FA_FB_0001" value="Adventure Booster (10%)" />
-  <keys type="item" key="IT_FA_FB_0002" value="Adventure Booster (30%)" />
-  <keys type="item" key="IT_FA_FB_0003" value="Adventure Booster (35%)" />
-  <keys type="item" key="IT_FA_FB_0004" value="Adventure Booster (45%)" />
-  <keys type="item" key="IT_FA_FB_0005" value="Adventure Booster (50%)" />
-  <keys type="item" key="IT_FA_FB_0006" value="Adventure Booster (100%)" />
-  <keys type="item" key="IT_FE_FB_0000" value="Growth booster (2 hours)" />
-  <keys type="item" key="IT_FE_FB_0001" value="High-Speed Growth Booster (2 hours)" />
-  <keys type="item" key="IT_FE_CA_0004" value="Cartão de Captura" />
-  <keys type="item" key="IT_FE_CA_0005" value="Cartão de Captura Brilhante" />
-  <keys type="item" key="IT_FE_CA_0006" value="Cartão de Captura Predestinada" />
-  <keys type="item" key="IT_FE_CA_0007" value="Cartão de captura Para Prática" />
-  <keys type="item" key="IT_FE_CA_0008" value="Cartão de Captura Predestinada" />
-  <keys type="item" key="FM_000_0002_1" value="Heroic Pet Scroll" />
-  <keys type="item" key="IT_FE_CA_0009" value="Cartão de Captura Brilhante" />
-  <keys type="item" key="CA_FE_EM_0101" value="Mythic Extractor" />
-  <keys type="item" key="CA_FE_EM_0102" value="+5 Enhanced Mythic Extractor" />
-  <keys type="item" key="CA_FE_EM_0103" value="+6 Enhanced Mythic Extractor" />
-  <keys type="item" key="CA_FE_EM_0104" value="+7 Enhanced Mythic Extractor" />
-  <keys type="item" key="FM_000_0111" value="Mythic Fellow Order" />
-  <keys type="item" key="FM_000_0112" value="Mythic Pet Order" />
-  <keys type="item" key="SF1_7_000_0000" value="Mythic Sealing Stone" />
-  <keys type="item" key="IT_FE_CA_0101" value="Mythic Capture Card" />
+  <keys prop="Description" type="item" key="FM_000_0000" value="Common Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0000" value="A scroll that can transform common mount familiars into pets, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0001" value="Elite Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0001" value="A scroll that can transform elite mount familiars into pets, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0002" value="Heroic Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0002" value="A scroll that can transform heroic mount familiars into pets, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0014" value="Legendary Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0014" value="A scroll that can transform legendary mount familiars into pets, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0003" value="Exarahn Heroic Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0003" value="A scroll that can transform heroic mount familiars into pets, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0004" value="Lv. 25 Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0004" value="A scroll that can transform Lv. 1-25 common familiars.&#xD;&#xA;Right-click a familiar you wish to change into a pet&#xD;&#xA;(Only for those at a lower level than the character's)&#xD;&#xA;&#xD;&#xA;It_G&gt; - Must have the same grade as the familiar's in order to use it/It_G&gt;&#xD;&#xA;It_G&gt; - Once a familiar has been changed into a pet, it cannot change back to a familiar/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0005" value="Lv. 25 Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0005" value="A scroll that can transform Lv. 1-25 elite familiars.&#xD;&#xA;Right-click a familiar you wish to change into a pet&#xD;&#xA;(Only for those at a lower level than the character's)&#xD;&#xA;&#xD;&#xA;It_G&gt; - Must have the same grade as the familiar's in order to use it/It_G&gt;&#xD;&#xA;It_G&gt; - Once a familiar has been changed into a pet, cannot return as a familiar/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0006" value="Lv. 30 Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0006" value="A scroll that can transform Lv. 1-30 common familiars.&#xD;&#xA;Right-click a familiar you wish to change into a pet&#xD;&#xA;(Only for those at a lower level than the character's)&#xD;&#xA;&#xD;&#xA;It_G&gt; - Must have the same grade as the familiar's in order to use it/It_G&gt;&#xD;&#xA;It_G&gt; - Once a familiar has been changed into a pet, cannot return as a familiar/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0007" value="Lv. 30 Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0007" value="A scroll that can transform Lv. 1-30 elite familiars.&#xD;&#xA;Right-click a familiar you wish to change into a pet&#xD;&#xA;(Only for those at a lower level than the character's)&#xD;&#xA;&#xD;&#xA;It_G&gt; - Must have the same grade as the familiar's in order to use it/It_G&gt;&#xD;&#xA;It_G&gt; - Once a familiar has been changed into a pet, cannot return as a familiar/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0008" value="Lv. 30 Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0008" value="A scroll that can transform Lv. 1-30 heroic familiars.&#xD;&#xA;Right-click a familiar you wish to change into a pet/familiar&#xD;&#xA;(Only for those at a lower level than the character's)&#xD;&#xA;&#xD;&#xA;It_G&gt; - Must have the same grade as the familiar's in order to use it/It_G&gt;&#xD;&#xA;It_G&gt; - Once a familiar has been changed into a pet, cannot return as a familiar/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_0_000_0000" value="Lv. 10 Common Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_0_000_0000" value="Used to seal Lv. 1-10 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_0_000_0001" value="Elite Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_0_000_0001" value="A stone that can seal elite familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0000" value="Heroic Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_1_000_0000" value="A stone that can seal heroic familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0000" value="Legendary Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_4_000_0000" value="A stone that can seal level legendary familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0001" value="Lv. 40 Common Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_1_000_0001" value="Used to seal Lv. 1-40 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0002" value="Lv. 50 Common Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_1_000_0002" value="Used to seal Lv. 1-50 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_2_000_0000" value="Lv. 20 Common Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_2_000_0000" value="Used to seal Lv. 1-20 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_2_000_0001" value="Lv. 25 Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_2_000_0001" value="Used to seal Lv. 1-25 elite familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_3_000_0000" value="Lv. 30 Common Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_3_000_0000" value="Used to seal Lv. 1-30 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_3_000_0001" value="Lv. 30 Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_3_000_0001" value="Used to seal Lv. 1-30 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_9000" value="Experience: Lv. 20 Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_9000" value="Used to turn a Lv. 1-20 common familiar into a pet.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Once converted, a pet cannot be turned back into a mount./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_9000" value="Experience: Lv. 20 Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_1_000_9000" value="Used to seal Lv. 1-30 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0009" value="Common Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0009" value="A scroll that can transform common pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0011" value="Elite Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0011" value="A scroll that can transform elite pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0012" value="Heroic Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0012" value="A scroll that can transform heroic pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0013" value="Legendary Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0013" value="A scroll that can transform legendary pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0010" value="Pet Conversion Item (Test)" />
+  <keys prop="Description" type="item" key="FM_000_0010" value="This item is for testing that can change a familiar into a pet." />
+  <keys prop="Name" type="item" key="SF1_1_000_0003" value="Exarahn Heroic Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_1_000_0003" value="A stone that can seal heroic familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_UF_0000" value="Elite Unseal Stone" />
+  <keys prop="Description" type="item" key="IT_FE_UF_0000" value="A stone that can unseal familiars below elite grade.&#xD;&#xA;&#xD;&#xA;O_Y&gt;When unsealed, the familiar is stored as a pet./O_Y&gt;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_UF_0001" value="Heroic Unseal Stone" />
+  <keys prop="Description" type="item" key="IT_FE_UF_0001" value="A stone that can unseal familiars below heroic grade.&#xD;&#xA;&#xD;&#xA;O_Y&gt;When unsealed, the familiar is stored as a pet./O_Y&gt;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_UF_0000" value="Elite Unseal Stone" />
+  <keys prop="Description" type="item" key="CA_FE_UF_0000" value="A stone that can unseal familiars below elite grade.&#xD;&#xA;&#xD;&#xA;O_Y&gt;When unsealed, the familiar is stored as a pet./O_Y&gt;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_UF_0001" value="Heroic Unseal Stone" />
+  <keys prop="Description" type="item" key="CA_FE_UF_0001" value="A stone that can unseal familiars below heroic grade.&#xD;&#xA;&#xD;&#xA;O_Y&gt;When unsealed, the familiar is stored as a pet./O_Y&gt;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0000" value="Elite Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0000" value="Allows you to extract an elite or below sealed familiar from an elite or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0001" value="Stygea Elite Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0001" value="Allows you to extract an elite or below sealed familiar from an elite or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0002" value="Elite Seal Stone Extractor III" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0002" value="Elite Seal Stone Extractor III" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0003" value="Elite Seal Stone Extractor IV" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0003" value="Elite Seal Stone Extractor IV" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0004" value="Elite Seal Stone Extractor V" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0004" value="Elite Seal Stone Extractor V" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0005" value="Heroic Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0005" value="Allows you to extract a heroic or below sealed familiar from a heroic or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0006" value="Stygea Heroic Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0006" value="Allows you to extract a heroic or below sealed familiar from a heroic or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0007" value="Heroic Seal Stone Extractor III" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0007" value="Heroic Seal Stone Extractor III" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0008" value="Heroic Seal Stone Extractor IV" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0008" value="Heroic Seal Stone Extractor IV" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0009" value="Heroic Seal Stone Extractor V" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0009" value="Heroic Seal Stone Extractor V" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0000" value="Blessed Elite Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0000" value="Allows you to extract an elite or below sealed familiar from an elite or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0001" value="Elite Seal Stone Extractor II" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0001" value="Elite Seal Stone Extractor II" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0002" value="Elite Seal Stone Extractor III" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0002" value="Elite Seal Stone Extractor III" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0003" value="Elite Seal Stone Extractor IV" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0003" value="Elite Seal Stone Extractor IV" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0004" value="Heroic Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0004" value="Used to extract a heroic or lower familiar seal stone from a piece of gear. Once extracted, the familiar will be stored as a level 1 pet with its enhancement level and effects reset. &#xD;&#xA;&#xD;&#xA;Your seal stone extractor must be the same grade as the familiar you're trying to extract." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0005" value="Blessed Heroic Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0005" value="Allows you to extract a heroic or below sealed familiar from a heroic or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0006" value="Heroic Seal Stone Extractor II" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0006" value="Heroic Seal Stone Extractor II" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0007" value="Heroic Seal Stone Extractor III" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0007" value="Heroic Seal Stone Extractor III" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0008" value="Heroic Seal Stone Extractor IV" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0008" value="Heroic Seal Stone Extractor IV" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0009" value="Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0009" value="Used to extract a legendary or lower familiar seal stone from a piece of gear. Once extracted, the familiar will be stored as a level 1 pet with its tempering level and effects reset. &#xD;&#xA;&#xD;&#xA;Your seal stone extractor must be the same grade as the familiar you're trying to extract." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0010" value="Blessed Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0010" value="Allows you to extract a legendary or below sealed familiar from a legendary or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any tempering levels and effects on the item." />
+  <keys prop="Name" type="item" key="CA_FE_FB_0098" value="Familiar Fostering 2x EXP Booster (3 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0098" value="Familiar x2 EXP Booster for Testing" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0099" value="Familiar Fostering 4x EXP Booster (3 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0099" value="Familiar x4 EXP Booster for Testing" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0100" value="Foster Familiar x500 EXP Booster (5m)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0100" value="Familiar x2 EXP Booster for Testing" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0101" value="Foster Familiar x1000 EXP Booster (5m)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0101" value="Familiar x4 EXP Booster for Testing" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0000" value="Familiar EXP Booster (1 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0000" value="Used to foster a familiar. Doubles your familiar foster EXP rate for 1 hour(s).&#xD;&#xA;&#xD;&#xA;!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0001" value="Familiar EXP Booster (3 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0001" value="Used to foster a familiar. Doubles your familiar foster EXP rate for 3 hour(s).&#xD;&#xA;&#xD;&#xA;!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0002" value="Familiar EXP Booster (6 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0002" value="Used to foster a familiar. Doubles your familiar foster EXP rate for 6 hour(s).&#xD;&#xA;&#xD;&#xA;!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0003" value="Rapid Familiar EXP Booster (1 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0003" value="Used to foster a familiar. Quadruples your familiar foster EXP rate for 1 hour(s).&#xD;&#xA;&#xD;&#xA;!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0004" value="Rapid Familiar EXP Booster (3 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0004" value="Used to foster a familiar. Quadruples your familiar foster EXP rate for 3 hour(s).&#xD;&#xA;&#xD;&#xA;!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0005" value="Rapid Familiar EXP Booster (6 Hour)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0005" value="Used to foster a familiar. Quadruples your familiar foster EXP rate for 6 hour(s).&#xD;&#xA;&#xD;&#xA;!R_Y!Cannot be canceled once used. When you retrieve your fostered familiar, this item will be consumed.!/R_Y!" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0001" value="Seal Stone Extraction Test (Elite)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0002" value="Seal Stone Extraction Test (Elite)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0003" value="Seal Stone Extraction Test (Elite)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0004" value="Seal Stone Extraction Test (+1)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0005" value="Seal Stone Extraction Test (+2)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0006" value="Seal Stone Extraction Test (+3)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0007" value="Seal Stone Extraction Test (+4)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0008" value="Seal Stone Extraction Test (+5)" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0001" value="This is for testing" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0002" value="This is for testing" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0003" value="This is for testing" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0004" value="This is for testing" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0005" value="This is for testing" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0006" value="This is for testing" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0007" value="This is for testing" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0008" value="This is for testing" />
+  <keys prop="Name" type="item" key="SF1_1_000_0004" value="Lv. 60 Common Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_1_000_0004" value="Used to seal Lv. 1-60 common familiars.&#xD;&#xA;&#xD;&#xA;It_G&gt; - Can only be used on familiars of the same grade as this item./It_G&gt;&#xD;&#xA;It_G&gt; - Sealed familiars can be used to improve gear and increase talent power./It_G&gt;&#xD;&#xA;It_G&gt; - Once sealed, a familiar cannot be unsealed./It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0010" value="Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0010" value="Allows you to extract a legendary or below sealed familiar from a legendary or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="CA_FE_ES_0000" value="Test Familiar Engraving Tool (1 min)" />
+  <keys prop="Description" type="item" key="CA_FE_ES_0000" value="Test Familiar Engraving Tool (1 min)" />
+  <keys prop="Name" type="item" key="CA_FE_ES_0001" value="Test Familiar Engraving Tool (10 min)" />
+  <keys prop="Description" type="item" key="CA_FE_ES_0001" value="Test Familiar Engraving Tool (10 min)" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0000" value="Familiar Engraving Tool (1 Day)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0000" value="Engraves a familiar for 1 day.&#xD;&#xA;&#xD;&#xA;O_Y&gt;An engraved familiar cannot be freed or sealed./O_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0001" value="Familiar Engraving Tool (7 Day)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0001" value="Engraves a familiar for 7 days.&#xD;&#xA;&#xD;&#xA;O_Y&gt;An engraved familiar cannot be freed or sealed./O_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0002" value="Familiar Engraving Tool (15 Day)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0002" value="Engraves a familiar for 15 days.&#xD;&#xA;&#xD;&#xA;O_Y&gt;An engraved familiar cannot be freed or sealed./O_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0003" value="Familiar Engraving Tool (30 Day)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0003" value="Engraves a familiar for 30 days.&#xD;&#xA;&#xD;&#xA;O_Y&gt;An engraved familiar cannot be freed or sealed./O_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0000" value="+5 Heroic Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0000" value="Used to extract a heroic or lower familiar seal stone from a piece of gear enhanced up to +5. Once extracted, the familiar will be stored as a level 1 pet with +5 added to its max level.&#xD;&#xA;&#xD;&#xA;Your character level must be higher than the familiar's max level.&#xD;&#xA;&#xD;&#xA;Your seal stone extractor must be the same grade as the familiar you're trying to extract." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0001" value="+5 Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0001" value="Used to extract a legendary or lower familiar seal stone from a piece of gear enhanced up to +5. Once extracted, the familiar will be stored as a max. level pet with +5 tempering level.&#xD;&#xA;&#xD;&#xA;Your character level must be higher than the familiar's max level.&#xD;&#xA;&#xD;&#xA;Your seal stone extractor must be the same grade as the familiar you're trying to extract." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0002" value="+5 Heroic Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0002" value="Allows you to extract a heroic or below sealed familiar from a heroic or below +5 item. Your character level must be at least as high as the familiar max level to perform the extraction. Once extracted, the familiar will be stored as a max. level pet with +5 tempering level." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0003" value="+5 Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0003" value="Allows you to extract a legendary or below sealed familiar from a legendary or below +5 item. Your character level must be at least as high as the familiar max level to perform the extraction. Once extracted, the familiar will be stored as a max. level pet with +5 tempering level." />
+  <keys prop="Description" type="item" key="FM_000_0015" value="Legendary Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0015" value="A scroll that can transform legendary mount familiars into pets, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0101" value="Legendary Bestiary Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0101" value="Transforms legendary and below pets into mounts. The target pet must be at least 1 level below you. The transformed familiar will be automatically added to your bestiary.&#xD;&#xA;&#xD;&#xA;Right-click, then select the pet you wish the transform int a mount. The transformed mount will be added to your bestiary." />
+  <keys prop="Description" type="item" key="FM_000_0016" value="Legendary Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0016" value="A scroll that can transform legendary pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0102" value="Collector's Legendary Familiar Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0102" value="Transforms legendary and below pets into mounts&#xD;&#xA;The transformed familiar will be automatically added to your bestiary.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount familiar/It_G&gt;&#xD;&#xA;It_G&gt;Can be registered on collection when transformed using the item./It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0103" value="Collector's Heroic Familiar Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0103" value="Transforms heroic and below pets into mounts&#xD;&#xA;The transformed familiar will be automatically added to your bestiary.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the pet you wish the transform int a mount familiar/It_G&gt;&#xD;&#xA;It_G&gt;Can be registered on collection when transformed using the item/It_G&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0006" value="Familiar x24 EXP Booster (1hrs.)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0007" value="Familiar x24 EXP Booster (3hrs.)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0006_description" value="Item used to foster a familiar&#xD;&#xA;Can be used on fostered familiar and the fostering speed will be increased by 24 times for 1 hour.&#xD;&#xA;!R_Y!Cannot cancel the item that has been applied. When the fostered familiar is retrieved, the item will disappear.!/R_Y!" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0007_description" value="Item used to foster a familiar&#xD;&#xA;Can be used on fostered familiar and the fostering speed will be increased by 24 times for 3 hours.&#xD;&#xA;!R_Y!Cannot cancel the item that has been applied. When the fostered familiar is retrieved, the item will disappear.!/R_Y!" />
+  <keys prop="Description" type="item" key="SF1_1_000_1001" value="Heroic Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_4_000_4001" value="Legendary Seal Stone" />
+  <keys prop="Description" type="item" key="IT_FE_EF_1000" value="Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="SF1_1_000_1001_description" value="A stone that can seal heroic familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_4001_description" value="A stone that can seal level legendary familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_EF_1000_description" value="Allows you to extract a legendary or below sealed familiar from a legendary or below item. Once extracted, the familiar will be stored as a level 1 pet. This process resets any enhancement levels and effects on the item." />
+  <keys prop="Name" type="item" key="FM_000_0017" value="Common Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0017" value="A scroll that can transform common pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0018" value="Elite Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0018" value="A scroll that can transform elite pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0019" value="Heroic Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0019" value="A scroll that can transform heroic pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0020" value="Legendary Mount Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0020" value="A scroll that can transform legendary pet familiars into mounts, so long as their level is at least 1 below yours.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a mount./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_0_000_0101" value="Elite Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_0_000_0101" value="A stone that can seal elite familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0100" value="Heroic Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_1_000_0100" value="A stone that can seal heroic familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0100" value="Legendary Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_4_000_0100" value="A stone that can seal level legendary familiars so that they can be socketed onto equipment or consumed to increase talent points.&#xD;&#xA;&#xD;&#xA;It_G&gt;The familiar must be the same grade as the stone./It_G&gt;&#xD;&#xA;It_G&gt;The familiar must be lower level than your character./It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed./It_G&gt;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0101" value="Modest Legendary Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_4_000_0101" value="Lv.45 or Below Legendary Grade Familiar Seal Stone, Including Lower Grade, Familiars at the Chracter's Level or Lv.45 or below can be sealed.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select a familiar/pet to seal/It_G&gt;&#xD;&#xA;It_G&gt;Seal familiars give extra equipment properties and increases Sealed familiars can be used to improve Equipment and increase talent power/It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0102" value="Modest Legendary Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_4_000_0102" value="Lv.45 or Below Legendary Grade Familiar Seal Stone, Including Lower Grade, Familiars at the Chracter's Level or Lv.45 or below can be sealed.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select a familiar/pet to seal/It_G&gt;&#xD;&#xA;It_G&gt;Sealed familiars can be used to improve Equipment and increase talent power/It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed/It_G&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0000" value="Familiar Collection Initialization Scroll" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0000" value="Can initialize special collections.&#xD;&#xA;Can Initialize without consuming Accomplishment Points and Elluns.&#xD;&#xA;&#xD;&#xA;O_Y&gt;Can be used in the middle of cooldown time. The cooldown time will be initialized./O_Y&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0001" value="Familiar Collection Initialization Scroll" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0001" value="Can initialize special collections.&#xD;&#xA;Can Initialize without consuming Accomplishment Points and Elluns.&#xD;&#xA;&#xD;&#xA;O_Y&gt;Can be used in the middle of cooldown time. The cooldown time will be initialized./O_Y&gt;" />
+  <keys prop="Name" type="item" key="SF1_4_001_0000" value="Legendary Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_4_001_0000" value="Legendary Grade Familiar Seal Stone&#xD;&#xA;Including lower grade only the familiars at the character's level or below can be sealed.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select a familiar/pet to seal/It_G&gt;&#xD;&#xA;It_G&gt;Sealed familiars can be used to improve Equipment and increase talent power/It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed/It_G&gt;" />
+  <keys prop="Name" type="item" key="PvP_CO_FE_0001" value="Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="PvP_CO_FE_0001" value="Extracts the Legendary Familiar attached to an item. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, a Lv.1 pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;When extracted, tempered values and effects are initialized./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="FI_FE_EM_0001" value="+5 Tempered Heroic Extractor" />
+  <keys prop="Description" type="item" key="FI_FE_EM_0001" value="Extracts the Heroic Familiar seal stone at +5 Tempered status. Only heroic or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, a Max. level +5 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="FI_FE_EM_0002" value="+5 Tempered Legendary Extractor" />
+  <keys prop="Description" type="item" key="FI_FE_EM_0002" value="Extracts the Legendary Familiar seal stone at +5 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +5 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0011" value="+5 Tempered Legendary Extractor" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0011" value="Extracts the Legendary Familiar seal stone at +5 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +5 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0004" value="+7 Tempered Heroic Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0004" value="Extracts the Heroic Familiar seal stone at +7 Tempered status. Only heroic or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +7 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0005" value="+7 Tempered Legendary Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0005" value="Extracts the Legendary Familiar seal stone at +7 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +7 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0006" value="+7 Tempered Heroic Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0006" value="Extracts the Heroic Familiar seal stone at +7 Tempered status. Only heroic or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +7 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0007" value="+7 Tempered Legendary Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0007" value="Extracts the Legendary Familiar seal stone at +7 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +7 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0008" value="+6 Tempered Heroic Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0008" value="Extracts the Heroic Familiar seal stone at +6 Tempered status. Only heroic or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +6 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0009" value="+6 Tempered Legendary Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0009" value="Extracts the Legendary Familiar seal stone at +6 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +6 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0010" value="+6 Tempered Heroic Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0010" value="Extracts the Heroic Familiar seal stone at +6 Tempered status. Only heroic or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +6 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0011" value="+6 Tempered Legendary Extractor" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0011" value="Extracts the Legendary Familiar seal stone at +6 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +6 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="TS_FA_FB_0999" value="Familiar Adventure Boost Talisman (Test)" />
+  <keys prop="Description" type="item" key="TS_FA_FB_0999" value="Test Familiar Adventure Boost Talisman" />
+  <keys prop="Name" type="item" key="PvP_CO_FE_0002" value="+5 Tempered Legendary Extractor" />
+  <keys prop="Description" type="item" key="PvP_CO_FE_0002" value="Extracts the Legendary Familiar seal stone at +5 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Max. level +5 Tempered pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0008" value="Growth Boost Talisman (1hrs.)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0008" value="An item used for familiar obedience training&#xD;&#xA;Can be used on a familiar at obedience training. When used, effects are doubled for 1hr.&#xD;&#xA;!R_Y!Items applied cannot be canceled. When the familiar at training is returned, the item disappears.!/R_Y!" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0009" value="Growth Boost Talisman (3hrs.)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0009" value="An item used for familiar obedience training&#xD;&#xA;Can be used on a familiar at obedience training. When used, effects are doubled for 3hrs.&#xD;&#xA;!R_Y!Items applied cannot be canceled. When the familiar at training is returned, the item disappears.!/R_Y!" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0010" value="Growth Boost Talisman (6hrs.)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0010" value="An item used for familiar obedience training&#xD;&#xA;Can be used on a familiar at obedience training. When used, effects are doubled for 6hrs.&#xD;&#xA;!R_Y!Items applied cannot be canceled. When the familiar at training is returned, the item disappears.!/R_Y!" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0012" value="Legendary Seal Stone Extractor" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0012" value="Extracts the Legendary Familiar attached to an item. Only legendary or below familiars are viable.&#xD;&#xA;O_Y&gt;When extracted, Lv.1 pet is registered in the familiar storage/O_Y&gt;&#xD;&#xA;O_Y&gt;When extracted, tempered values and effects are initialized./O_Y&gt;&#xD;&#xA;&#xD;&#xA;It_G&gt; - Familiar's grade should be matched/It_G&gt;" />
+  <keys prop="Name" type="item" key="SF1_4_000_0103" value="Legendary Seal Stone" />
+  <keys prop="Description" type="item" key="SF1_4_000_0103" value="Legendary Grade Familiar Seal Stone&#xD;&#xA;Including lower grade only the familiars at the character's level or below can be sealed.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select a familiar/pet to seal/It_G&gt;&#xD;&#xA;It_G&gt;Sealed familiars can be used to improve Equipment and increase talent power/It_G&gt;&#xD;&#xA;It_G&gt;Once a familiar is sealed, cannot be unsealed/It_G&gt;" />
+  <keys prop="Name" type="item" key="EV_FE_FC_0001" value="Familiar Collection Initialization Scroll" />
+  <keys prop="Description" type="item" key="EV_FE_FC_0001" value="Can initialize special collections.&#xD;&#xA;Can Initialize without consuming Accomplishment Points and Elluns.&#xD;&#xA;&#xD;&#xA;O_Y&gt;Can be used in the middle of cooldown time. The cooldown time will be initialized./O_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0001" value="Fellow Adventure Booster I" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0002" value="Fellow Adventure Booster II" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0003" value="Fellow Adventure Booster (60%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0004" value="Fellow Adventure Booster (80%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0005" value="Fellow Adventure Booster (100%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0006" value="Fellow Adventure Booster (200%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0001" value="The time required to take a Fellow Adventure is reduced by 10%.&#xD;&#xA; &#xD;&#xA;  R_Y&gt; Items used in the adventure play are not recyclable and will be applied throughout the adventure time. /R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0002" value="The time required to take a Fellow Adventure is reduced by 30%.&#xD;&#xA; &#xD;&#xA;  R_Y&gt; Items used in the adventure play are not recyclable and will be applied throughout the adventure time. /R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0003" value="O_Y&gt;The time required to take a Fellow Adventure is reduced by 60%./O_Y&gt;&#xD;&#xA;  R_Y&gt; Items used in the adventure play are not recyclable and will be applied throughout the adventure time. /R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0004" value="O_Y&gt;The time required to take a Fellow Adventure is reduced by 80%./O_Y&gt;&#xD;&#xA;  R_Y&gt; Items used in the adventure play are not recyclable and will be applied throughout the adventure time. /R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0005" value="O_Y&gt;The time required to take a Fellow Adventure is reduced by 100%./O_Y&gt;&#xD;&#xA;  R_Y&gt; Items used in the adventure play are not recyclable and will be applied throughout the adventure time. /R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0006" value="O_Y&gt;The time required to take a Fellow Adventure is reduced by 200%./O_Y&gt;&#xD;&#xA;  R_Y&gt; Items used in the adventure play are not recyclable and will be applied throughout the adventure time. /R_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_FB_0000" value="Growth booster (2 hours)" />
+  <keys prop="Name" type="item" key="IT_FE_FB_0001" value="High-Speed Growth Booster (2 hours)" />
+  <keys prop="Description" type="item" key="IT_FE_FB_0000" value="Items used for Familiar Forstering&#xD;&#xA;  It can be used for the familair who is fostered, and twice the effect is applied for 2 hours when applied.&#xD;&#xA;  R_Y&gt; Applied items can not be canceled, and items will disappear when recalling the fostered familiar. /R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_FB_0001" value="Items used for Familiar Forstering&#xD;&#xA;  It can be used for the familair who is fostered, and 4 times the effect is applied for 2 hours when applied.&#xD;&#xA;  R_Y&gt; Applied items can not be canceled, and items will disappear when recalling the fostered familiar. /R_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0004" value="Capture card" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0005" value="Shining Capture Card" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0006" value="Blessed Capture card" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0004" value="You can capture a monster by summoning a capture magic with a card with magical power.&#xD;&#xA; &#xD;&#xA;  - It_G&gt; Used by positioning over pet you want to capture after right-clicking /It_G&gt;&#xD;&#xA;  - It_G&gt; The item will not be consumed if there is no target to capture. /It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0005" value="You can capture a monster by summoning a capture magic with a card with magical power.&#xD;&#xA; &#xD;&#xA;- It_G&gt; Used by positioning over pet you want to capture after right-clicking /It_G&gt;&#xD;&#xA;  - It_G&gt; The item will not be consumed if there is no target to capture. /It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0006" value="You can capture a monster by summoning a capture magic with a card with magical power.&#xD;&#xA; &#xD;&#xA;  It has a higher success probability than other capture cards.&#xD;&#xA;&#xD;&#xA;- It_G&gt; Used by positioning over pet you want to capture after right-clicking /It_G&gt;&#xD;&#xA;  - It_G&gt; The item will not be consumed if there is no target to capture. /It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0007" value="Practice Capture Card" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0007" value="You can capture a monster by summoning a capture magic with a card with magical power.&#xD;&#xA; &#xD;&#xA;- It_G&gt; Used by positioning over pet you want to capture after right-clicking /It_G&gt;&#xD;&#xA;  - It_G&gt; The item will not be consumed if there is no target to capture. /It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0008" value="Blessed Capture card" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0008" value="You can capture a monster by summoning a capture-circle with the Capture Card.&#xD;&#xA; &#xD;&#xA;  It has a higher success probability than other capture cards.&#xD;&#xA;&#xD;&#xA;- It_G&gt; Used by positioning over pet you want to capture after right-clicking /It_G&gt;&#xD;&#xA;  - It_G&gt; The item will not be consumed if there is no target to capture. /It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0002_1" value="Heroic Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0002_1" value="A scroll that can transform heroic mount familiars into pets, so long as their level is the smae as yours or below.&#xD;&#xA;&#xD;&#xA;It_G&gt;Right-click, then select the familiar you wish to change into a pet./It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0009" value="Shining Capture Card" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0009" value="You can capture a monster by summoning a capture-circle with the Capture Card.&#xD;&#xA; &#xD;&#xA;- It_G&gt; Used by positioning over pet you want to capture after right-clicking /It_G&gt;&#xD;&#xA;  - It_G&gt; The item will not be consumed if there is no target to capture. /It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0007" value="Fellow Adventure Booster (5%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0008" value="Fellow Adventure Booster (15%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0009" value="Fellow Adventure Booster (20%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0010" value="Fellow Adventure Booster (25%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0011" value="Fellow Adventure Booster (35%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0012" value="Fellow Adventure Booster (40%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0013" value="Fellow Adventure Booster (45%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0014" value="Fellow Adventure Booster (55%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0015" value="Fellow Adventure Booster (65%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0016" value="Fellow Adventure Booster (70%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0017" value="Fellow Adventure Booster (75%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0018" value="Fellow Adventure Booster (85%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0019" value="Fellow Adventure Booster (90%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0020" value="Fellow Adventure Booster (95%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0021" value="Fellow Adventure Booster (10 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0022" value="Fellow Adventure Booster (15 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0023" value="Fellow Adventure Booster (20 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0024" value="Fellow Adventure Booster (25 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0025" value="Fellow Adventure Booster (30 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0026" value="Fellow Adventure Booster (35 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0027" value="Fellow Adventure Booster (40 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0028" value="Fellow Adventure Booster (45 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0029" value="Fellow Adventure Booster (50 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0030" value="Fellow Adventure Booster (55 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0031" value="Fellow Adventure Booster (60 mins)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0032" value="Fellow Adventure Booster (65 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0033" value="Fellow Adventure Booster (70 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0034" value="Fellow Adventure Booster (75 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0035" value="Fellow Adventure Booster (80 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0036" value="Fellow Adventure Booster (85 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0037" value="Fellow Adventure Booster (90 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0038" value="Fellow Adventure Booster (95 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0039" value="Fellow Adventure Booster (100 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0040" value="Fellow Adventure Booster (105 minutes)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0007" value="When used, Fellow adventure time is reduced by 5%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0008" value="When used, Fellow adventure time is reduced by 15%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0009" value="When used, Fellow adventure time is reduced by 20%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0010" value="When used, Fellow adventure time is reduced by 25%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0011" value="When used, Fellow adventure time is reduced by 35%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0012" value="When used, Fellow adventure time is reduced by 40%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0013" value="When used, Fellow adventure time is reduced by 45%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0014" value="When used, Fellow adventure time is reduced by 55%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0015" value="When used, Fellow adventure time is reduced by 65%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0016" value="When used, Fellow adventure time is reduced by 70%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0017" value="When used, Fellow adventure time is reduced by 75%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0018" value="When used, Fellow adventure time is reduced by 85%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0019" value="When used, Fellow adventure time is reduced by 90%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0020" value="When used, Fellow adventure time is reduced by 95%.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0021" value="When used, the Fellow adventure time is shortened by 10 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0022" value="When used, the Fellow adventure time is shortened by 15 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0023" value="When used, the Fellow adventure time is reduced by 20 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0024" value="When used, the Fellow adventure time is reduced by 25 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0025" value="When used, the fellow adventure time is shortened by 30 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0026" value="When used, the Fellow adventure time is shortened by 35 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0027" value="When used, the Fellow adventure time is reduced by 40 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0028" value="When used, the Fellow adventure time is shortened by 45 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0029" value="When used, the Fellow adventure time is shortened by 50 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0030" value="When used, the Fellow adventure time is shortened by 55 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0031" value="When used, the Fellow adventure time is reduced by 60 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0032" value="When used, the Fellow adventure time is shortened by 65 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0033" value="When used, the Fellow adventure time is shortened by 70 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0034" value="When used, the Fellow adventure time is shortened by 75 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0035" value="When used, the Fellow adventure time is reduced by 80 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0036" value="When used, the Fellow adventure time is shortened by 85 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0037" value="When used, the Fellow adventure time is shortened by 90 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0038" value="When used, the Fellow adventure time is shortened by 95 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0039" value="When used, the Fellow adventure time is reduced by 100 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0040" value="When used, the Fellow adventure time is shortened by 105 minutes.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Items used in the adventure cannot be retrieved, and they are applied throughout the adventure./R_Y&gt;" />
 </files>

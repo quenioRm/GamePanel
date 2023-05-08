@@ -1,17 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="BRACELET000" value="Bracelet for testing 1" />
-  <keys type="item" key="BRACELET001" value="Bracelet for testing 2" />
-  <keys type="item" key="BRACELET002" value="Bracelet for testing 3" />
-  <keys type="item" key="IT_BR_CM_0000" value="Bracelet 1" />
-  <keys type="item" key="IT_BR_CM_0001" value="Bracelet 2" />
-  <keys type="item" key="IT_BR_CM_0002" value="Bracelet 3" />
-  <keys type="item" key="CA_BR_CM_0000" value="Rain Moon Door Light" />
-  <keys type="item" key="EV_BR_CM_0000" value="Balanced Snowflake Bracelet" />
-  <keys type="item" key="CA_BR_CM_0001" value="Corosimo's Treasure" />
-  <keys type="item" key="CA_BR_CM_0002" value="Perfect Ice Bracelet" />
-  <keys type="item" key="CA_BR_CM_0003" value="Best Ice Bracelet" />
-  <keys type="item" key="CA_BR_CM_0004" value="Perfect Ice Bracelet" />
-  <keys type="item" key="CA_BR_CM_0005" value="Hakane's Bravery" />
-  <keys type="item" key="CA_BR_CM_0006" value="Baela's Wisdom" />
+  <keys prop="Name" type="item" key="BRACELET000" value="Bracelet for testing 1" />
+  <keys prop="Name" type="item" key="BRACELET001" value="Bracelet for testing 2" />
+  <keys prop="Name" type="item" key="BRACELET002" value="Bracelet for testing 3" />
+  <keys prop="Name" type="item" key="IT_BR_CM_0000" value="Bracelet 1" />
+  <keys prop="Name" type="item" key="IT_BR_CM_0001" value="Bracelet 2" />
+  <keys prop="Name" type="item" key="IT_BR_CM_0002" value="Bracelet 3" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0000" value="Rain Moon Door Light" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0000" value="A treasure left by the elf guardian O_Y&gt;Rain Moondoor/O_Y&gt;.&#xD;&#xA;During the War of Light. Rain Mundor sealed the power of demons on the battlefield and combined O_Y&gt;3 Jewels/O_Y&gt; into the bracelet.&#xD;&#xA;Currently. the three jewels have disappeared. but the O_Y&gt;power of harmony/O_Y&gt; of the bracelet itself is said to be alive and well.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
+  <keys prop="Name" type="item" key="EV_BR_CM_0000" value="Balanced Snowflake Bracelet" />
+  <keys prop="Description" type="item" key="EV_BR_CM_0000" value="R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0001" value="Corosimo's Treasure" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0001" value="A bracelet left by O_Y&gt;Corossimo/O_Y&gt; of the shadow. the progenitor of assassins who were active during the War of Light.&#xD;&#xA;Corosimo used O_Y&gt;4 jewels/O_Y&gt; sealed with O_Y&gt;spirit power/O_Y&gt; as a gift from the great elf spirit master Banashiola to this bracelet.&#xD;&#xA;Currently. the four jewels have disappeared. but the O_Y&gt;power of harmony/O_Y&gt; of the bracelet itself is said to be alive and well.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0002" value="Perfect Ice Bracelet" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0002" value="R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0003" value="Best Ice Bracelet" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0003" value="R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0004" value="Perfect Ice Bracelet" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0004" value="R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0005" value="Hakane's Bravery" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0005" value="A bracelet left by O_Y&gt;Hakane/O_Y&gt;, the founding king of Hakanas.&#xD;&#xA;King Hakane used O_Y&gt;5 jewels/O_Y&gt; sealed with O_Y&gt;Balaur's power/O_Y&gt;. which was given to him by the guardian god Velzeroth. in return for his bravery against the black dragon. .&#xD;&#xA;Currently. 5 jewels have disappeared. but the O_Y&gt;power of harmony/O_Y&gt; of the bracelet itself is said to be alive and well.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0006" value="Baela's Wisdom" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0006" value="A treasure used by O_Y&gt;Baelas/O_Y&gt;. who founded the Kingdom of Hakanas with Hakane and founded the Wizard of Truth.&#xD;&#xA;Just before his death. Baelas combined O_Y&gt;6 jewels/O_Y&gt; containing O_Y&gt;his abilities/O_Y&gt; to this bracelet.&#xD;&#xA;Currently. 6 jewels have disappeared. but the O_Y&gt;power of harmony/O_Y&gt; of the bracelet itself is said to be alive and well.&#xD;&#xA;&#xD;&#xA;R_Y&gt;Bracelet items cannot be removed after wearing./R_Y&gt;" />
 </files>

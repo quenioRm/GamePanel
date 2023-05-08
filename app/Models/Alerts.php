@@ -21,4 +21,15 @@ class Alerts extends Model
         'message',
         'interactionURL'
     ];
+
+    public static function CheckIfExistsMaintenance()
+    {
+        $alerts = self::get();
+        foreach ($alerts as $key => $alert) {
+            if($alert->showAfterDate > now())
+                return -1;
+        }
+
+        return 0;
+    }
 }

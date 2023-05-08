@@ -1,83 +1,163 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="E_C02_GHorse_001" value="Zebra das Planícies" />
-  <keys type="npc" key="E_C02_GHorse_002" value="Zebra Ligeira" />
-  <keys type="npc" key="E_C02_Rhino_001" value="Rinoceronte Velho" />
-  <keys type="npc" key="E_C02_Rhino_002" value="Rinoceronte Selvagem" />
-  <keys type="npc" key="E_C02_Rhino_003" value="Rinoceronte Treinado" />
-  <keys type="npc" key="E_C02_Giraffe_001" value="Girafa das Planícies" />
-  <keys type="npc" key="E_C02_Giraffe_002" value="Girafa Ligeira" />
-  <keys type="npc" key="E_C02_ChildB_001" value="Garoto Endemoniado" />
-  <keys type="npc" key="E_C02_ChildG_002" value="Garota Endemoniada" />
-  <keys type="npc" key="E_C02_TucaPatro_001" value="Patrulheiro Tukan" />
-  <keys type="npc" key="E_C02_BrhaTride_001" value="Treinador Tukan de Familiares" />
-  <keys type="npc" key="E_C02_TucaFpris_001" value="Sacerdote de Batalha Tukan" />
-  <keys type="npc" key="E_C02_BrhaCata_001" value="Soldado de Catapulta Tukan" />
-  <keys type="npc" key="E_C02_Lion_001" value="Latoras" />
-  <keys type="npc" key="E_C02_Lion_002" value="Latoras Treinado" />
-  <keys type="npc" key="E_C02_Lion_003" value="Latoras Faminto" />
-  <keys type="npc" key="E_C02_Lioness_001" value="Leoness" />
-  <keys type="npc" key="E_C02_Lioness_002" value="Leoness Faminto" />
-  <keys type="npc" key="E_C02_Crocodile_001" value="Crocodilo das Planícies" />
-  <keys type="npc" key="E_C02_Gazelle_001" value="Gazel Chifre Afiado" />
-  <keys type="npc" key="E_C02_Elephant_001" value="Korunu" />
-  <keys type="npc" key="E_C02_Elephant_002" value="Pirune" />
-  <keys type="npc" key="E_C02_Basilisk_001" value="Basilisco da Planície" />
-  <keys type="npc" key="E_C02_FanaTony_001" value="Aman Laslo" />
-  <keys type="npc" key="E_C02_VampHecto_001" value="Chefe Handers" />
-  <keys type="npc" key="E_C02_Hbee1_001" value="Marimbondo Selvagem" />
-  <keys type="npc" key="E_C02_SoulWater_001" value="Espírito de Água Ressecado" />
-  <keys type="npc" key="E_C02_FanaRabart_001" value="Rabat Clarividente" />
-  <keys type="npc" key="E_C02_RabartEye_001" value="Olho de Rabat" />
-  <keys type="npc" key="E_C02_Balanin_001" value="Supervisor da Mina Balanin" />
-  <keys type="npc" key="E_C02_DevilDog_001" value="Adhel" />
-  <keys type="npc" key="E_C02_FanaRecon_001" value="Espadachim dos Mercenários Mohaban" />
-  <keys type="npc" key="E_C02_FanaRecon_003" value="Espadachim Mohaban" />
-  <keys type="npc" key="E_C02_MohaScout_001" value="Cão de Guarda  Mohaban" />
-  <keys type="npc" key="E_C02_MohaScout_003" value="Cão de Guarda  Mohaban" />
-  <keys type="npc" key="E_C02_MohaHealer_001" value="Mohaban  do Rodízio de Vento" />
-  <keys type="npc" key="E_C02_MohaHealer_002" value="Mohaban  do Rodízio de Vento" />
-  <keys type="npc" key="E_C02_FanaThera_001" value="Khealthier Thieves Emergency Care Practitioner" />
-  <keys type="npc" key="E_C02_MohaShotr_001" value="Lutador  Mohaban" />
-  <keys type="npc" key="E_C02_MohaShotr_002" value="Lutador  Mohaban" />
-  <keys type="npc" key="E_C02_mohaSnipe_001" value="Treinador de Leões  Mohaban" />
-  <keys type="npc" key="E_C02_Ostrich_001" value="Avestruz do Prado" />
-  <keys type="npc" key="E_C02_BaldEagle_001" value="Falcão Faminto" />
-  <keys type="npc" key="E_C02_BaldThun_001" value="Falcão das Planícies" />
-  <keys type="npc" key="E_C02_BullBlack_001" value="Búfalo Negro" />
-  <keys type="npc" key="E_C02_BullBrown_001" value="Búfalo Gentil" />
-  <keys type="npc" key="E_C02_PeliBill_001" value="Pelicano das Planícies" />
-  <keys type="npc" key="E_C02_BoarMane_001" value="Javali das Planícies" />
-  <keys type="npc" key="E_C02_Etur_001" value="Tartaruga de Casco Rachado" />
-  <keys type="npc" key="E_C02_ImmoMagi_001" value="Demônio Devorador de Sonhos" />
-  <keys type="npc" key="E_C02_ImmoSoldi_001" value="Demônio da Ambição" />
-  <keys type="npc" key="E_C02_GoleAncgu_001" value="Espírito de Pedra" />
-  <keys type="npc" key="E_C02_MohaScout_002" value="Khealthier Sentinel" />
-  <keys type="npc" key="E_C02_FanaRecon_002" value="Khealthier Patrolman" />
-  <keys type="npc" key="E_C02_FanaTroop_001" value="Khealthier Surveillant" />
-  <keys type="npc" key="E_C02_FanaStone_001" value="Khealthier Thieves Merchant" />
-  <keys type="npc" key="E_C02_VampFarm_001" value="Fazendeiro Endemoniado" />
-  <keys type="npc" key="E_C02_VampLance_001" value="Guarda Endemoniado" />
-  <keys type="npc" key="E_C02_VampWoman_001" value="Mulher Endemoniada" />
-  <keys type="npc" key="E_C02_GhosAncien_001" value="Espírito do Monge Ancião" />
-  <keys type="npc" key="E_C02_GhosManag_001" value="Espírito do Sacerdote Ancião" />
-  <keys type="npc" key="E_C02_CabeElitg_001" value="Esqueleto do Soldado Ancião" />
-  <keys type="npc" key="E_C02_AgulWoker_001" value="Agul do Pântano" />
-  <keys type="npc" key="E_C02_AgulHunti_001" value="Caçador Agul" />
-  <keys type="npc" key="E_C02_AgulFight_001" value="Lutador Agul" />
-  <keys type="npc" key="E_C02_AgulMagi_001" value="Xamã Agul" />
-  <keys type="npc" key="E_C02_AgulMugl_001" value="Chefe Agul Glamlook" />
-  <keys type="npc" key="E_C02_MoorJavel_001" value="Lanceiro do Culto de Radan" />
-  <keys type="npc" key="E_C02_MoorBow_001" value="Arqueiro do Culto de Radan" />
-  <keys type="npc" key="E_C02_MoorTroop_001" value="Guerreiro do Culto de Radan" />
-  <keys type="npc" key="E_C02_MoorCharge_001" value="Saqueador do Culto de Radan" />
-  <keys type="npc" key="E_C02_Shaman_001" value="Sacerdote do Culto de Radan" />
-  <keys type="npc" key="E_C02_CarmDeckh_001" value="Saqueador Karade" />
-  <keys type="npc" key="E_C02_CarmWatch_001" value="Pirata Karade Sentinela" />
-  <keys type="npc" key="E_C02_CarmTreas_001" value="Alinhador Karade" />
-  <keys type="npc" key="E_C02_CarmBarub_001" value="Conselheiro  Karade" />
-  <keys type="npc" key="E_C02_Raptor_001" value="Lapter" />
-  <keys type="npc" key="E_C02_Hydra_001" value="Hidra do Pântano" />
-  <keys type="npc" key="E_C02_WingSnake_001" value="Cascavel Alada" />
-  <keys type="npc" key="E_C02_Brindle_001" value="Tigrado" />
+  <keys prop="Name" type="monster" key="E_C02_GHorse_001" value="Zebra das Planícies" />
+  <keys prop="Description" type="monster" key="E_C02_GHorse_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_GHorse_002" value="Zebra Ligeira" />
+  <keys prop="Description" type="monster" key="E_C02_GHorse_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Rhino_001" value="Rinoceronte Velho" />
+  <keys prop="Description" type="monster" key="E_C02_Rhino_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Rhino_002" value="Rinoceronte Selvagem" />
+  <keys prop="Description" type="monster" key="E_C02_Rhino_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Rhino_003" value="Rinoceronte Treinado" />
+  <keys prop="Description" type="monster" key="E_C02_Rhino_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Giraffe_001" value="Girafa das Planícies" />
+  <keys prop="Description" type="monster" key="E_C02_Giraffe_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Giraffe_002" value="Girafa Ligeira" />
+  <keys prop="Description" type="monster" key="E_C02_Giraffe_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_ChildB_001" value="Garoto Endemoniado" />
+  <keys prop="Description" type="monster" key="E_C02_ChildB_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_ChildG_002" value="Garota Endemoniada" />
+  <keys prop="Description" type="monster" key="E_C02_ChildG_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_TucaPatro_001" value="Patrulheiro Tukan" />
+  <keys prop="Description" type="monster" key="E_C02_TucaPatro_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_BrhaTride_001" value="Treinador Tukan de Familiares" />
+  <keys prop="Description" type="monster" key="E_C02_BrhaTride_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_TucaFpris_001" value="Sacerdote de Batalha Tukan" />
+  <keys prop="Description" type="monster" key="E_C02_TucaFpris_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_BrhaCata_001" value="Soldado de Catapulta Tukan" />
+  <keys prop="Description" type="monster" key="E_C02_BrhaCata_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Lion_001" value="Latoras" />
+  <keys prop="Description" type="monster" key="E_C02_Lion_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Lion_002" value="Latoras Treinado" />
+  <keys prop="Description" type="monster" key="E_C02_Lion_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Lion_003" value="Latoras Faminto" />
+  <keys prop="Description" type="monster" key="E_C02_Lion_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Lioness_001" value="Leoness" />
+  <keys prop="Description" type="monster" key="E_C02_Lioness_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Lioness_002" value="Leoness Faminto" />
+  <keys prop="Description" type="monster" key="E_C02_Lioness_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Crocodile_001" value="Crocodilo das Planícies" />
+  <keys prop="Description" type="monster" key="E_C02_Crocodile_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Gazelle_001" value="Gazel Chifre Afiado" />
+  <keys prop="Description" type="monster" key="E_C02_Gazelle_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Elephant_001" value="Korunu" />
+  <keys prop="Description" type="monster" key="E_C02_Elephant_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Elephant_002" value="Pirune" />
+  <keys prop="Description" type="monster" key="E_C02_Elephant_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Basilisk_001" value="Basilisco da Planície" />
+  <keys prop="Description" type="monster" key="E_C02_Basilisk_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaTony_001" value="Aman Laslo" />
+  <keys prop="Description" type="monster" key="E_C02_FanaTony_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_VampHecto_001" value="Chefe Handers" />
+  <keys prop="Description" type="monster" key="E_C02_VampHecto_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Hbee1_001" value="Marimbondo Selvagem" />
+  <keys prop="Description" type="monster" key="E_C02_Hbee1_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_SoulWater_001" value="Espírito de Água Ressecado" />
+  <keys prop="Description" type="monster" key="E_C02_SoulWater_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaRabart_001" value="Rabat Clarividente" />
+  <keys prop="Description" type="monster" key="E_C02_FanaRabart_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_RabartEye_001" value="Olho de Rabat" />
+  <keys prop="Description" type="monster" key="E_C02_RabartEye_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Balanin_001" value="Supervisor da Mina Balanin" />
+  <keys prop="Description" type="monster" key="E_C02_Balanin_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_DevilDog_001" value="Adhel" />
+  <keys prop="Description" type="monster" key="E_C02_DevilDog_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaRecon_001" value="Espadachim dos Mercenários Mohaban" />
+  <keys prop="Description" type="monster" key="E_C02_FanaRecon_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaRecon_003" value="Espadachim Mohaban" />
+  <keys prop="Description" type="monster" key="E_C02_FanaRecon_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MohaScout_001" value="Cão de Guarda  Mohaban" />
+  <keys prop="Description" type="monster" key="E_C02_MohaScout_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MohaScout_003" value="Cão de Guarda  Mohaban" />
+  <keys prop="Description" type="monster" key="E_C02_MohaScout_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MohaHealer_001" value="Mohaban  do Rodízio de Vento" />
+  <keys prop="Description" type="monster" key="E_C02_MohaHealer_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MohaHealer_002" value="Mohaban  do Rodízio de Vento" />
+  <keys prop="Description" type="monster" key="E_C02_MohaHealer_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaThera_001" value="Khealthier Thieves Emergency Care Practitioner" />
+  <keys prop="Description" type="monster" key="E_C02_FanaThera_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MohaShotr_001" value="Lutador  Mohaban" />
+  <keys prop="Description" type="monster" key="E_C02_MohaShotr_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MohaShotr_002" value="Lutador  Mohaban" />
+  <keys prop="Description" type="monster" key="E_C02_MohaShotr_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_mohaSnipe_001" value="Treinador de Leões  Mohaban" />
+  <keys prop="Description" type="monster" key="E_C02_mohaSnipe_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Ostrich_001" value="Avestruz do Prado" />
+  <keys prop="Description" type="monster" key="E_C02_Ostrich_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_BaldEagle_001" value="Falcão Faminto" />
+  <keys prop="Description" type="monster" key="E_C02_BaldEagle_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_BaldThun_001" value="Falcão das Planícies" />
+  <keys prop="Description" type="monster" key="E_C02_BaldThun_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_BullBlack_001" value="Búfalo Negro" />
+  <keys prop="Description" type="monster" key="E_C02_BullBlack_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_BullBrown_001" value="Búfalo Gentil" />
+  <keys prop="Description" type="monster" key="E_C02_BullBrown_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_PeliBill_001" value="Pelicano das Planícies" />
+  <keys prop="Description" type="monster" key="E_C02_PeliBill_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_BoarMane_001" value="Javali das Planícies" />
+  <keys prop="Description" type="monster" key="E_C02_BoarMane_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Etur_001" value="Tartaruga de Casco Rachado" />
+  <keys prop="Description" type="monster" key="E_C02_Etur_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_ImmoMagi_001" value="Demônio Devorador de Sonhos" />
+  <keys prop="Description" type="monster" key="E_C02_ImmoMagi_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_ImmoSoldi_001" value="Demônio da Ambição" />
+  <keys prop="Description" type="monster" key="E_C02_ImmoSoldi_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_GoleAncgu_001" value="Espírito de Pedra" />
+  <keys prop="Description" type="monster" key="E_C02_GoleAncgu_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MohaScout_002" value="Khealthier Sentinel" />
+  <keys prop="Description" type="monster" key="E_C02_MohaScout_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaRecon_002" value="Khealthier Patrolman" />
+  <keys prop="Description" type="monster" key="E_C02_FanaRecon_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaTroop_001" value="Khealthier Surveillant" />
+  <keys prop="Description" type="monster" key="E_C02_FanaTroop_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_FanaStone_001" value="Khealthier Thieves Merchant" />
+  <keys prop="Description" type="monster" key="E_C02_FanaStone_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_VampFarm_001" value="Fazendeiro Endemoniado" />
+  <keys prop="Description" type="monster" key="E_C02_VampFarm_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_VampLance_001" value="Guarda Endemoniado" />
+  <keys prop="Description" type="monster" key="E_C02_VampLance_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_VampWoman_001" value="Mulher Endemoniada" />
+  <keys prop="Description" type="monster" key="E_C02_VampWoman_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_GhosAncien_001" value="Espírito do Monge Ancião" />
+  <keys prop="Description" type="monster" key="E_C02_GhosAncien_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_GhosManag_001" value="Espírito do Sacerdote Ancião" />
+  <keys prop="Description" type="monster" key="E_C02_GhosManag_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_CabeElitg_001" value="Esqueleto do Soldado Ancião" />
+  <keys prop="Description" type="monster" key="E_C02_CabeElitg_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_AgulWoker_001" value="Agul do Pântano" />
+  <keys prop="Description" type="monster" key="E_C02_AgulWoker_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_AgulHunti_001" value="Caçador Agul" />
+  <keys prop="Description" type="monster" key="E_C02_AgulHunti_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_AgulFight_001" value="Lutador Agul" />
+  <keys prop="Description" type="monster" key="E_C02_AgulFight_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_AgulMagi_001" value="Xamã Agul" />
+  <keys prop="Description" type="monster" key="E_C02_AgulMagi_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_AgulMugl_001" value="Chefe Agul Glamlook" />
+  <keys prop="Description" type="monster" key="E_C02_AgulMugl_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MoorJavel_001" value="Lanceiro do Culto de Radan" />
+  <keys prop="Description" type="monster" key="E_C02_MoorJavel_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MoorBow_001" value="Arqueiro do Culto de Radan" />
+  <keys prop="Description" type="monster" key="E_C02_MoorBow_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MoorTroop_001" value="Guerreiro do Culto de Radan" />
+  <keys prop="Description" type="monster" key="E_C02_MoorTroop_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_MoorCharge_001" value="Saqueador do Culto de Radan" />
+  <keys prop="Description" type="monster" key="E_C02_MoorCharge_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Shaman_001" value="Sacerdote do Culto de Radan" />
+  <keys prop="Description" type="monster" key="E_C02_Shaman_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_CarmDeckh_001" value="Saqueador Karade" />
+  <keys prop="Description" type="monster" key="E_C02_CarmDeckh_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_CarmWatch_001" value="Pirata Karade Sentinela" />
+  <keys prop="Description" type="monster" key="E_C02_CarmWatch_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_CarmTreas_001" value="Alinhador Karade" />
+  <keys prop="Description" type="monster" key="E_C02_CarmTreas_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_CarmBarub_001" value="Conselheiro  Karade" />
+  <keys prop="Description" type="monster" key="E_C02_CarmBarub_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Raptor_001" value="Lapter" />
+  <keys prop="Description" type="monster" key="E_C02_Raptor_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Hydra_001" value="Hidra do Pântano" />
+  <keys prop="Description" type="monster" key="E_C02_Hydra_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_WingSnake_001" value="Cascavel Alada" />
+  <keys prop="Description" type="monster" key="E_C02_WingSnake_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_C02_Brindle_001" value="Tigrado" />
+  <keys prop="Description" type="monster" key="E_C02_Brindle_001Detail" value="" />
 </files>

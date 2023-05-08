@@ -1,17 +1,101 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="e_f04_flybabray_001" value="Kiiz" />
-  <keys type="npc" key="e_f04_force_ac_001" value="Prisma Caótico" />
-  <keys type="npc" key="E_f04_SkullH1_001" value="Guerreiro Sinistro" />
-  <keys type="npc" key="E_f04_CabeElit_001" value="Vanguarda Sinistra" />
-  <keys type="npc" key="E_f04_SkullB2_002" value="Arqueiro Sinistro" />
-  <keys type="npc" key="e_f04_ImmoMagi_003" value="Invocador Asanegra" />
-  <keys type="npc" key="e_f04_ImmoKnigh_003" value="Vanguarda Asanegra" />
-  <keys type="npc" key="e_f04_ImmoSoldi_002" value="Espadachim Asanegra" />
-  <keys type="npc" key="E_f04_Wisp_001" value="Energia Invisível" />
-  <keys type="npc" key="E_f04_Wisp_002" value="Energia Invisível" />
-  <keys type="npc" key="E_F04_Spid_003" value="Aranha Espiritual" />
-  <keys type="npc" key="E_F04_Spir_001" value="Fada Corrompida" />
-  <keys type="npc" key="e_f04_flybabray_003" value="Kenniz" />
-  <keys type="npc" key="e_f04_flybabray_004" value="Kumiz" />
+  <keys prop="Name" type="monster" key="e_f04_flybabray_001" value="Kiiz" />
+  <keys prop="Description" type="monster" key="e_f04_flybabray_001Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f04_force_ac_001" value="Prisma Caótico" />
+  <keys prop="Description" type="monster" key="e_f04_force_ac_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f04_SkullH1_001" value="Guerreiro Sinistro" />
+  <keys prop="Description" type="monster" key="E_f04_SkullH1_001Detail" value="Legião Ancestral " />
+  <keys prop="Name" type="monster" key="E_f04_CabeElit_001" value="Vanguarda Sinistra" />
+  <keys prop="Description" type="monster" key="E_f04_CabeElit_001Detail" value="Legião Ancestral" />
+  <keys prop="Name" type="monster" key="E_f04_SkullB2_002" value="Arqueiro Sinistro" />
+  <keys prop="Description" type="monster" key="E_f04_SkullB2_002Detail" value="Legião Ancestral" />
+  <keys prop="Name" type="monster" key="e_f04_ImmoMagi_003" value="Invocador Asanegra" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoMagi_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_f04_ImmoKnigh_003" value="Vanguarda Asanegra" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoKnigh_003Detail" value="Legião Caída " />
+  <keys prop="Name" type="monster" key="e_f04_ImmoSoldi_002" value="Espadachim Asanegra" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoSoldi_002Detail" value="Legião Caída " />
+  <keys prop="Name" type="monster" key="E_f04_Wisp_001" value="Energia Invisível" />
+  <keys prop="Description" type="monster" key="E_f04_Wisp_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f04_Wisp_002" value="Energia Invisível" />
+  <keys prop="Description" type="monster" key="E_f04_Wisp_002Detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Soul_Stone_001" value="Fragmento de Vida" />
+  <keys prop="Description" type="monster" key="E_f04_Soul_Stone_001detail" value="" />
+  <keys prop="Description" type="monster" key="e_f05_whale_0001" value="Letonsia do Vazio" />
+  <keys prop="Description" type="monster" key="e_f05_whale_0001detail" value="" />
+  <keys prop="Description" type="monster" key="e_f05_dragbone_001" value="Kravid do Vazio" />
+  <keys prop="Description" type="monster" key="e_f05_dragbone_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_D22_flybabray_001" value="Kouooz" />
+  <keys prop="Description" type="monster" key="E_D22_flybabray_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_Griffon_0001" value="Kargyle do Vazio" />
+  <keys prop="Description" type="monster" key="E_F04_Griffon_0001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_Griffon_0002" value="Kargyle do Crepúsculo" />
+  <keys prop="Description" type="monster" key="E_F04_Griffon_0002detail" value="" />
+  <keys prop="Description" type="monster" key="e_f04_DimpM1_0000" value="Diabinho da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f04_DimpM1_0000detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_StormEgg_0001" value="Ovo de Draku" />
+  <keys prop="Description" type="monster" key="E_F04_StormEgg_0001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_VampBat_0001" value="Morcego Sombrio Alfa" />
+  <keys prop="Description" type="monster" key="E_F04_VampBat_0001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_VampBat_0002" value="Morcego Sombrio" />
+  <keys prop="Description" type="monster" key="E_F04_VampBat_0002detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Beldon_0001" value="Veldon" />
+  <keys prop="Description" type="monster" key="E_f04_Beldon_0001detail" value="" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoLilis_002" value="Lilith da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoLilis_002detail" value="" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoSoldi_003" value="Soldado da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoSoldi_003detail" value="" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoHopli_004" value="Tenente da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoHopli_004detail" value="" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoKnigh_006" value="Cavaleiro da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoKnigh_006detail" value="" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoMagi_006" value="Xamã da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoMagi_006detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_ElquFairy_001" value="Ikeria" />
+  <keys prop="Description" type="monster" key="E_f04_ElquFairy_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_001" value="Feixe Vermelho" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_002" value="Feixe Azul" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_002detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_ChaoDeram_001" value="Faudrus" />
+  <keys prop="Description" type="monster" key="E_f04_ChaoDeram_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_003" value="Alma Sombria" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_003detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_ghost_001" value="Alma Errante" />
+  <keys prop="Description" type="monster" key="E_f04_ghost_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_GoleAncf_001" value="Flam" />
+  <keys prop="Description" type="monster" key="E_f04_GoleAncf_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_GoleAncu_002" value="Firam" />
+  <keys prop="Description" type="monster" key="E_f04_GoleAncu_002detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_hatchling_001" value="Blay" />
+  <keys prop="Description" type="monster" key="E_f04_hatchling_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_ColdAncfi_001" value="Kelsier" />
+  <keys prop="Description" type="monster" key="E_F04_ColdAncfi_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_MoorCharg_001" value="Espírito Congelado" />
+  <keys prop="Description" type="monster" key="E_f04_MoorCharg_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Moorjavel_001" value="Espírito Arrepiante" />
+  <keys prop="Description" type="monster" key="E_f04_Moorjavel_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_Golebomb_001" value="Bomba de Fogo Vivo" />
+  <keys prop="Description" type="monster" key="E_F04_Golebomb_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_spidTa_001" value="Abagne" />
+  <keys prop="Description" type="monster" key="E_F04_spidTa_001detail" value="Predador de Almas" />
+  <keys prop="Description" type="monster" key="E_F04_spid_001" value="Saqueador de Alma" />
+  <keys prop="Description" type="monster" key="E_F04_spid_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_spid_002" value="Devorador de Almas" />
+  <keys prop="Description" type="monster" key="E_F04_spid_002detail" value="" />
+  <keys prop="Description" type="monster" key="E_F04_spidEgg_0001" value="Ovo de Dragão Ancião" />
+  <keys prop="Description" type="monster" key="E_F04_spidEgg_0001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_004" value="Alma Amaldiçoada" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_004detail" value="" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_005" value="Alma Aflita" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_005detail" value="" />
+  <keys prop="Name" type="monster" key="E_F04_Spid_003" value="Aranha Espiritual" />
+  <keys prop="Description" type="monster" key="E_F04_Spid_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F04_Spir_001" value="Fada Corrompida" />
+  <keys prop="Description" type="monster" key="E_F04_Spir_001Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f04_flybabray_003" value="Kenniz" />
+  <keys prop="Description" type="monster" key="e_f04_flybabray_003Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f04_flybabray_004" value="Kumiz" />
+  <keys prop="Description" type="monster" key="e_f04_flybabray_004Detail" value="" />
 </files>

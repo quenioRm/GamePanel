@@ -1,13 +1,192 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="fq_C00_lt_0007" value="Auto-loot Emblem (1 Day)" />
-  <keys type="item" key="fq_C00_sl_0008" value="Breeder's Saddle (30 days)" />
-  <keys type="item" key="fq_C00_ar_0008" value="Breeder's Soul Stone (30 days)" />
-  <keys type="item" key="fq_C00_lt_0008" value="Auto-loot Emblem (15 days)" />
-  <keys type="item" key="fq_C00_fk_0011" value="Faint Blessing Claw" />
-  <keys type="item" key="fq_C00_sl_0011" value="Faint Blessing Saddle" />
-  <keys type="item" key="fq_C00_ar_0011" value="Faint Blessing Soulstone" />
-  <keys type="item" key="fq_C00_fk_0012" value="Airspace Claw" />
-  <keys type="item" key="fq_C00_sl_0012" value="Airspace Saddle" />
-  <keys type="item" key="fq_C00_ar_0012" value="Airspace Soulstone" />
+  <keys prop="Description" type="item" key="fq_01_fk_0001" value="Garras de Dragão Divino" />
+  <keys prop="Description" type="item" key="fq_01_sl_0001" value="Sela do Dragão Divino" />
+  <keys prop="Description" type="item" key="fq_01_ar_0001" value="Pedra da Alma do Dragão Divino" />
+  <keys prop="Description" type="item" key="fq_02_fk_0001" value="Garras de Dragão Divino Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0001" value="Sela do Dragão Divino Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0001" value="Pedra da Alma do Dragão Divino Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0001" value="Rare Divine Dragon Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0001" value="Rare Divine Dragon Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0001" value="Pedra da Alma do Dragão Divino Rara" />
+  <keys prop="Description" type="item" key="fq_01_fk_0002" value="Garras do Espírito" />
+  <keys prop="Description" type="item" key="fq_01_sl_0002" value="Sela do Espírito" />
+  <keys prop="Description" type="item" key="fq_01_ar_0002" value="Pedra da Alma do Espírito" />
+  <keys prop="Description" type="item" key="fq_02_fk_0002" value="Garras do Espírito Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0002" value="Sela do Espírito Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0002" value="Pedra da Alma do Espírito Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0002" value="Rare Spirit Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0002" value="Rare Spirit Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0002" value="Pedra da Alma do Espírito Rara" />
+  <keys prop="Description" type="item" key="fq_01_fk_0003" value="Garras do Guardião" />
+  <keys prop="Description" type="item" key="fq_01_sl_0003" value="Sela do Guardião" />
+  <keys prop="Description" type="item" key="fq_01_ar_0003" value="Pedra da Alma do Guardião" />
+  <keys prop="Description" type="item" key="fq_02_fk_0003" value="Garras do Guardião Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0003" value="Sela do Guardião Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0003" value="Pedra da Alma do Guardião Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0003" value="Rare Guardian Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0003" value="Rare Guardian Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0003" value="Pedra da Alma do Guardião Rara" />
+  <keys prop="Description" type="item" key="fq_01_fk_0004" value="Garras Abençoadas" />
+  <keys prop="Description" type="item" key="fq_01_sl_0004" value="Sela Abençoada" />
+  <keys prop="Description" type="item" key="fq_01_ar_0004" value="Pedra da Alma Abençoada" />
+  <keys prop="Description" type="item" key="fq_02_fk_0004" value="Garras Abençoadas Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0004" value="Sela Abençoada Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0004" value="Pedra da Alma Abençoada Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0004" value="Rare Blessed Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0004" value="Rare Blessed Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0004" value="Pedra da Alma Abençoada Rara" />
+  <keys prop="Description" type="item" key="fq_01_fk_0005" value="Garras Amaldiçoadas" />
+  <keys prop="Description" type="item" key="fq_01_sl_0005" value="Sela Amaldiçoada" />
+  <keys prop="Description" type="item" key="fq_01_ar_0005" value="Pedra da Alma Amaldiçoada" />
+  <keys prop="Description" type="item" key="fq_02_fk_0005" value="Garras Amaldiçoadas Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0005" value="Sela Amaldiçoada Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0005" value="Pedra da Alma Amaldiçoada Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0005" value="Rare Cursed Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0005" value="Rare Cursed  Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0005" value="Pedra da Alma Amaldiçoada Rara" />
+  <keys prop="Description" type="item" key="fq_02_fk_0006" value="Garras Modestas do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_sl_0006" value="Sela Modesta do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_ar_0006" value="Pedra da Alma Modesta do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_fk_0007" value="Garras Austeras do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_sl_0007" value="Sela Austera do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_ar_0007" value="Pedra da Alma Austera do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_fk_0008" value="Garras Exímias do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_sl_0008" value="Sela Exímia do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_ar_0008" value="Pedra da Alma Exímia do Caçador" />
+  <keys prop="Description" type="item" key="fq_02_fk_0009" value="Garras Modestas do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_02_sl_0009" value="Sela Modesta do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_02_ar_0009" value="Pedra da Alma Modesta do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_02_fk_1009" value="Garras Austeras do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_02_sl_1009" value="Sela Austera do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_02_ar_1009" value="Pedra da Alma Austera do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_01_fk_0006" value="Garras Sagradas" />
+  <keys prop="Description" type="item" key="fq_01_sl_0006" value="Sela Sagrada" />
+  <keys prop="Description" type="item" key="fq_01_ar_0006" value="Pedra da Alma Sagrada" />
+  <keys prop="Description" type="item" key="fq_02_fk_0010" value="Garras Sagradas Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0010" value="Sela Sagrada Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0010" value="Pedra da Alma Sagrada Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0006" value="Rare Sacred Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0006" value="Rare Sacred Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0006" value="Pedra da Alma Sagrada Rara" />
+  <keys prop="Description" type="item" key="fq_02_fk_0011" value="Garras do Cavalo Azul Especiais" />
+  <keys prop="Description" type="item" key="fq_02_sl_0011" value="Sela do Cavalo Azul Especial" />
+  <keys prop="Description" type="item" key="fq_02_ar_0011" value="Pedra da Alma do Cavalo Azul Especial" />
+  <keys prop="Description" type="item" key="fq_03_fk_0007" value="Blessed Blue Horse Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0007" value="Blessed Blue Horse Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0007" value="Blessed Blue Horse Soul Stone" />
+  <keys prop="Description" type="item" key="fq_03_fk_0008" value="Cullaghan Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0008" value="Cullaghan Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0008" value="Pedra da Alma de Cullaghan" />
+  <keys prop="Description" type="item" key="fq_02_fk_0012" value="Garras do Cavaleiro Grandioso" />
+  <keys prop="Description" type="item" key="fq_02_sl_0012" value="Sela do Cavaleiro Grandioso" />
+  <keys prop="Description" type="item" key="fq_02_ar_0012" value="Pedra da Alma do Cavaleiro Grandioso" />
+  <keys prop="Description" type="item" key="fq_01_fk_0007" value="Garras do Pesadelo Regulares" />
+  <keys prop="Description" type="item" key="fq_01_sl_0007" value="Sela do Pesadelo Regular" />
+  <keys prop="Description" type="item" key="fq_01_ar_0007" value="Pedra da Alma do Pesadelo Regular" />
+  <keys prop="Description" type="item" key="fq_02_fk_0013" value="Garras do Pesadelo Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0013" value="Sela do Pesadelo Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0013" value="Pedra da Alma do Pesadelo Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0009" value="Rare Nightmare Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0009" value="Rare Nightmare Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0009" value="Pedra da Alma do Pesadelo Rara" />
+  <keys prop="Description" type="item" key="fq_04_fk_0001" value="Noble Nightmare Claws" />
+  <keys prop="Description" type="item" key="fq_04_sl_0001" value="Noble Nightmare Saddle" />
+  <keys prop="Description" type="item" key="fq_04_ar_0001" value="Noble Nightmare Soul Stone" />
+  <keys prop="Description" type="item" key="fq_01_fk_0008" value="Garras do Breu Regulares" />
+  <keys prop="Description" type="item" key="fq_01_sl_0008" value="Sela do Breu Regular" />
+  <keys prop="Description" type="item" key="fq_01_ar_0008" value="Pedra da Alma do Breu Regular" />
+  <keys prop="Description" type="item" key="fq_02_fk_0014" value="Garras do Breu Premium" />
+  <keys prop="Description" type="item" key="fq_02_sl_0014" value="Sela do Breu Premium" />
+  <keys prop="Description" type="item" key="fq_02_ar_0014" value="Pedra da Alma do Breu Premium" />
+  <keys prop="Description" type="item" key="fq_03_fk_0010" value="Rare Pitch Black Claws" />
+  <keys prop="Description" type="item" key="fq_03_sl_0010" value="Rare Pitch Black Saddle" />
+  <keys prop="Description" type="item" key="fq_03_ar_0010" value="Pedra da Alma do Breu Rara" />
+  <keys prop="Description" type="item" key="fq_04_fk_0002" value="Noble Pitch Black Claws" />
+  <keys prop="Description" type="item" key="fq_04_sl_0002" value="Noble Pitch Black Saddle" />
+  <keys prop="Description" type="item" key="fq_04_ar_0002" value="Noble Pitch Black Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0001" value="Sand Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0001" value="Sand Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0001" value="Sand Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0002" value="Premium Pitch Black Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0002" value="Premium Pitch Black Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0002" value="Premium Pitch Black Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0003" value="Mirage Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0003" value="Mirage Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0003" value="Mirage Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0004" value="Rodesh Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0004" value="Rodesh Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0004" value="Rodesh Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0011" value="Desert Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0011" value="Desert Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0011" value="Desert Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0012" value="Premium Desert Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0012" value="Premium Desert Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0012" value="Premium Desert Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0013" value="Burning Desert Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0013" value="Burning Desert Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0013" value="Burning Desert Soul Stone" />
+  <keys prop="Description" type="item" key="fq_06_fk_0014" value="Shakiba Claws" />
+  <keys prop="Description" type="item" key="fq_06_sl_0014" value="Shakiba Saddle" />
+  <keys prop="Description" type="item" key="fq_06_ar_0014" value="Shakiba Soul Stone" />
+  <keys prop="Description" type="item" key="fq_00_fk_0001" value="Garras do Dilúvio" />
+  <keys prop="Description" type="item" key="fq_00_sl_0001" value="Sela da Capital" />
+  <keys prop="Description" type="item" key="fq_00_ar_0001" value="Pedra da Alma do Oceano" />
+  <keys prop="Description" type="item" key="fq_07_fk_0001" value="Flood Claws (Unused)" />
+  <keys prop="Description" type="item" key="fq_07_sl_0001" value="Flood Saddle (Unused)" />
+  <keys prop="Description" type="item" key="fq_07_ar_0001" value="Flood Soul Stone (Unused)" />
+  <keys prop="Description" type="item" key="fq_07_fk_0002" value="Flood Claws" />
+  <keys prop="Description" type="item" key="fq_07_sl_0002" value="Flood Saddle" />
+  <keys prop="Description" type="item" key="fq_07_ar_0002" value="Flood Soul Stone" />
+  <keys prop="Description" type="item" key="fq_07_fk_0003" value="Turquoise Claws" />
+  <keys prop="Description" type="item" key="fq_07_sl_0003" value="Turquoise Saddle" />
+  <keys prop="Description" type="item" key="fq_07_ar_0003" value="Turquoise Soul Stone" />
+  <keys prop="Description" type="item" key="fq_07_fk_0004" value="Torkai Claws" />
+  <keys prop="Description" type="item" key="fq_07_sl_0004" value="Torkai Saddle" />
+  <keys prop="Description" type="item" key="fq_07_ar_0004" value="Torkai Soul Stone" />
+  <keys prop="Description" type="item" key="fq_07_fk_0005" value="Ancient Claws" />
+  <keys prop="Description" type="item" key="fq_07_sl_0005" value="Ancient Saddle" />
+  <keys prop="Description" type="item" key="fq_07_ar_0005" value="Ancient Soul Stone" />
+  <keys prop="Description" type="item" key="fq_02_fk_2009" value="Garras Exímias do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_02_sl_2009" value="Sela Exímia do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_02_ar_2009" value="Pedra da Alma Exímia do Sanguinário" />
+  <keys prop="Description" type="item" key="fq_C00_fk_0006" value="Blessing Claw (30 days)" />
+  <keys prop="Description" type="item" key="fq_C00_sl_0006" value="Blessing Saddle (30 days)" />
+  <keys prop="Description" type="item" key="fq_C00_ar_0006" value="Blessing Soulstone (30 days)" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0001" value="Auto-loot Emblem (14 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0002" value="Auto-loot Emblem (30 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0003" value="Auto-loot Emblem" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0004" value="Auto-loot Emblem (45 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0001_description" value="Equip this on your pet to allow it to auto-loot items. Your pet must be set to auto-loot mode to pick up items." />
+  <keys prop="Description" type="item" key="fq_C00_lt_0002_description" value="Equip this on your pet to allow it to auto-loot items. Your pet must be set to auto-loot mode to pick up items." />
+  <keys prop="Description" type="item" key="fq_C00_lt_0003_description" value="Equip this on your pet to allow it to auto-loot items. Your pet must be set to auto-loot mode to pick up items." />
+  <keys prop="Description" type="item" key="fq_C00_lt_0004_description" value="Equip this on your pet to allow it to auto-loot items. Your pet must be set to auto-loot mode to pick up items." />
+  <keys prop="Description" type="item" key="fq_C00_lt_0001_Desc" value="A seal that allows the worn pet to acquire items automatically" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0002_Desc" value="A seal that allows the worn pet to acquire items automatically" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0003_Desc" value="A seal that allows the worn pet to acquire items automatically" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0004_Desc" value="A seal that allows the worn pet to acquire items automatically" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0005" value="Auto-loot Emblem (3 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0006" value="Auto-loot Emblem (7 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_fk_0007" value="Blessing Claws" />
+  <keys prop="Description" type="item" key="fq_C00_sl_0007" value="Blessing Saddle" />
+  <keys prop="Description" type="item" key="fq_C00_ar_0007" value="Blessing Soulstone" />
+  <keys prop="Name" type="item" key="fq_C00_lt_0007" value="Auto-loot Emblem (1 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0007" value="Equip this on your pet to allow it to auto-loot items. Your pet must be set to auto-loot mode to pick up items." />
+  <keys prop="Description" type="item" key="fq_C00_fk_0008" value="Breeder's Claw (30 days)" />
+  <keys prop="Name" type="item" key="fq_C00_sl_0008" value="Breeder's Saddle (30 days)" />
+  <keys prop="Name" type="item" key="fq_C00_ar_0008" value="Breeder's Soul Stone (30 days)" />
+  <keys prop="Name" type="item" key="fq_C00_lt_0008" value="Auto-loot Emblem (15 days)" />
+  <keys prop="Description" type="item" key="fq_C00_lt_0008" value="A seal that allows the worn pet to acquire items automatically" />
+  <keys prop="Description" type="item" key="fq_C00_fk_0009" value="Alliance Claws (15 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_sl_0009" value="Alliance Saddle (15 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_ar_0009" value="Alliance Soul Stone (15 Day)" />
+  <keys prop="Description" type="item" key="fq_C00_fk_0010" value="Adrian's Claws" />
+  <keys prop="Description" type="item" key="fq_C00_sl_0010" value="Adrian's Saddle" />
+  <keys prop="Description" type="item" key="fq_C00_ar_0010" value="Adrian's Soul Crystal" />
+  <keys prop="Name" type="item" key="fq_C00_fk_0011" value="Faint Blessing Claw" />
+  <keys prop="Name" type="item" key="fq_C00_sl_0011" value="Faint Blessing Saddle" />
+  <keys prop="Name" type="item" key="fq_C00_ar_0011" value="Faint Blessing Soulstone" />
+  <keys prop="Name" type="item" key="fq_C00_fk_0012" value="Airspace Claw" />
+  <keys prop="Name" type="item" key="fq_C00_sl_0012" value="Airspace Saddle" />
+  <keys prop="Name" type="item" key="fq_C00_ar_0012" value="Airspace Soulstone" />
 </files>

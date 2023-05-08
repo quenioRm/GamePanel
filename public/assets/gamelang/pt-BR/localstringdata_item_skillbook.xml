@@ -1,464 +1,925 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="SB_1_0_0001" value="Golpe Legítimo 1" />
-  <keys type="item" key="SB_1_0_0002" value="Golpe Legítimo 2" />
-  <keys type="item" key="SB_1_0_0003" value="Golpe Legítimo 3" />
-  <keys type="item" key="SB_1_0_0004" value="Golpe Legítimo 4" />
-  <keys type="item" key="SB_1_0_0005" value="Golpe Legítimo 5" />
-  <keys type="item" key="SB_1_0_0006" value="Golpe Legítimo 6" />
-  <keys type="item" key="SB_1_0_0007" value="Golpe Legítimo 7" />
-  <keys type="item" key="SB_1_0_0008" value="Golpe Legítimo 8" />
-  <keys type="item" key="SB_1_0_0009" value="Corte Duplo 1" />
-  <keys type="item" key="SB_1_0_0010" value="Corte Duplo 2" />
-  <keys type="item" key="SB_1_0_0011" value="Corte Duplo 3" />
-  <keys type="item" key="SB_1_0_0012" value="Corte Duplo 4" />
-  <keys type="item" key="SB_1_0_0013" value="Corte Duplo 5" />
-  <keys type="item" key="SB_1_0_0014" value="Corte Duplo 6" />
-  <keys type="item" key="SB_1_0_0015" value="Corte Duplo 7" />
-  <keys type="item" key="SB_1_0_0016" value="Corte Duplo 8" />
-  <keys type="item" key="SB_1_0_0017" value="Tenacidade 1" />
-  <keys type="item" key="SB_1_0_0018" value="Tenacidade 2" />
-  <keys type="item" key="SB_1_0_0019" value="Força 3" />
-  <keys type="item" key="SB_1_0_0020" value="Tenacidade 4" />
-  <keys type="item" key="SB_1_0_0021" value="Tenacidade 5" />
-  <keys type="item" key="SB_1_0_0022" value="Colisão Bruta 1" />
-  <keys type="item" key="SB_1_0_0023" value="Colisão Bruta 2" />
-  <keys type="item" key="SB_1_0_0024" value="Colisão Bruta 3" />
-  <keys type="item" key="SB_1_0_0025" value="Colisão Bruta 4" />
-  <keys type="item" key="SB_1_0_0026" value="Colisão Bruta 5" />
-  <keys type="item" key="SB_1_0_0027" value="Colisão Bruta 6" />
-  <keys type="item" key="SB_1_0_0028" value="Colisão Bruta 7" />
-  <keys type="item" key="SB_1_0_0029" value="Colisão Bruta 8" />
-  <keys type="item" key="SB_1_0_0033" value="Corpo de Ferro 1" />
-  <keys type="item" key="SB_1_0_0034" value="Corpo de Ferro 2" />
-  <keys type="item" key="SB_1_0_0035" value="Corpo de Ferro 3" />
-  <keys type="item" key="SB_1_0_0036" value="Corpo de Ferro 4" />
-  <keys type="item" key="SB_1_0_0037" value="Corpo de Ferro 5" />
-  <keys type="item" key="SB_1_0_0038" value="Corpo de Ferro 6" />
-  <keys type="item" key="SB_1_0_0039" value="Corpo de Ferro 7" />
-  <keys type="item" key="SB_1_0_0053" value="Golpe de Ombro 1" />
-  <keys type="item" key="SB_1_0_0054" value="Golpe de Ombro 2" />
-  <keys type="item" key="SB_1_0_0055" value="Golpe de Ombro 3" />
-  <keys type="item" key="SB_1_0_0056" value="Golpe de Ombro 4" />
-  <keys type="item" key="SB_1_0_0057" value="Corte Triplo 1" />
-  <keys type="item" key="SB_1_0_0058" value="Corte Triplo 2" />
-  <keys type="item" key="SB_1_0_0059" value="Corte Triplo 3" />
-  <keys type="item" key="SB_1_0_0060" value="Corte Triplo 4" />
-  <keys type="item" key="SB_1_0_0061" value="Corte Triplo 5" />
-  <keys type="item" key="SB_1_0_0062" value="Corte Triplo 6" />
-  <keys type="item" key="SB_1_0_0063" value="Corte Triplo 7" />
-  <keys type="item" key="SB_1_0_0064" value="Grito Valoroso 1" />
-  <keys type="item" key="SB_1_0_0065" value="Grito Valoroso 2" />
-  <keys type="item" key="SB_1_0_0066" value="Grito Valoroso 3" />
-  <keys type="item" key="SB_1_0_0067" value="Grito Valoroso 4" />
-  <keys type="item" key="SB_1_0_0068" value="Grito Valoroso 5" />
-  <keys type="item" key="SB_1_0_0073" value="Lâmina Rodopiante 1" />
-  <keys type="item" key="SB_1_0_0074" value="Lâmina Rodopiante 2" />
-  <keys type="item" key="SB_1_0_0075" value="Lâmina Rodopiante 3" />
-  <keys type="item" key="SB_1_0_0076" value="Lâmina Rodopiante 4" />
-  <keys type="item" key="SB_1_0_0077" value="Lâmina Rodopiante 5" />
-  <keys type="item" key="SB_1_0_0082" value="Provocar 1" />
-  <keys type="item" key="SB_1_0_0083" value="Provocar 2" />
-  <keys type="item" key="SB_1_0_0084" value="Provocar 3" />
-  <keys type="item" key="SB_1_0_0104" value="Aumento de Força 1" />
-  <keys type="item" key="SB_1_0_0105" value="Aumento de Força 2" />
-  <keys type="item" key="SB_1_0_0106" value="Aumento de Força 3" />
-  <keys type="item" key="SB_1_0_0107" value="Aumento de Força 4" />
-  <keys type="item" key="SB_1_0_0108" value="Aumento de Força 5" />
-  <keys type="item" key="SB_1_0_0109" value="Aumento de Força 6" />
-  <keys type="item" key="SB_1_0_0117" value="Terremoto 1" />
-  <keys type="item" key="SB_1_0_0118" value="Terremoto 2" />
-  <keys type="item" key="SB_1_0_0119" value="Terremoto 3" />
-  <keys type="item" key="SB_1_0_0120" value="Terremoto 4" />
-  <keys type="item" key="SB_1_0_0121" value="Terremoto 5" />
-  <keys type="item" key="SB_1_0_0122" value="Terremoto 6" />
-  <keys type="item" key="SB_2_0_0001" value="Cura 1" />
-  <keys type="item" key="SB_2_0_0002" value="Cura 2" />
-  <keys type="item" key="SB_2_0_0003" value="Cura 3" />
-  <keys type="item" key="SB_2_0_0004" value="Cura 4" />
-  <keys type="item" key="SB_2_0_0005" value="Cura 5" />
-  <keys type="item" key="SB_2_0_0006" value="Cura 6" />
-  <keys type="item" key="SB_2_0_0007" value="Cura 7" />
-  <keys type="item" key="SB_2_0_0008" value="Cura 8" />
-  <keys type="item" key="SB_2_0_0009" value="Luz das Estrelas 1" />
-  <keys type="item" key="SB_2_0_0010" value="Luz das Estrelas 2" />
-  <keys type="item" key="SB_2_0_0011" value="Luz das Estrelas 3" />
-  <keys type="item" key="SB_2_0_0012" value="Luz das Estrelas 4" />
-  <keys type="item" key="SB_2_0_0013" value="Luz das Estrelas 5" />
-  <keys type="item" key="SB_2_0_0014" value="Luz das Estrelas 6" />
-  <keys type="item" key="SB_2_0_0015" value="Luz das Estrelas 7" />
-  <keys type="item" key="SB_2_0_0016" value="Luz das Estrelas 8" />
-  <keys type="item" key="SB_2_0_0017" value="Martelo Celestial 1" />
-  <keys type="item" key="SB_2_0_0018" value="Martelo Celestial 2" />
-  <keys type="item" key="SB_2_0_0019" value="Martelo Celestial 3" />
-  <keys type="item" key="SB_2_0_0020" value="Martelo Celestial 4" />
-  <keys type="item" key="SB_2_0_0021" value="Martelo Celestial 5" />
-  <keys type="item" key="SB_2_0_0022" value="Vontade Nobre 1" />
-  <keys type="item" key="SB_2_0_0023" value="Vontade Nobre 2" />
-  <keys type="item" key="SB_2_0_0024" value="Vontade Nobre 3" />
-  <keys type="item" key="SB_2_0_0025" value="Vontade Nobre 4" />
-  <keys type="item" key="SB_2_0_0026" value="Vontade Nobre 5" />
-  <keys type="item" key="SB_2_0_0027" value="Vontade Nobre 6" />
-  <keys type="item" key="SB_2_0_0028" value="Vontade Nobre 7" />
-  <keys type="item" key="SB_2_0_0029" value="Vontade Nobre 8" />
-  <keys type="item" key="SB_2_0_0030" value="Recuperação 1" />
-  <keys type="item" key="SB_2_0_0031" value="Recuperação 2" />
-  <keys type="item" key="SB_2_0_0032" value="Recuperação 3" />
-  <keys type="item" key="SB_2_0_0033" value="Recuperação 4" />
-  <keys type="item" key="SB_2_0_0034" value="Recuperação 5" />
-  <keys type="item" key="SB_2_0_0035" value="Recuperação 6" />
-  <keys type="item" key="SB_2_0_0036" value="Recuperação 7" />
-  <keys type="item" key="SB_2_0_0037" value="Recuperação 8" />
-  <keys type="item" key="SB_2_0_0038" value="Imersão 1" />
-  <keys type="item" key="SB_2_0_0039" value="Imersão 2" />
-  <keys type="item" key="SB_2_0_0040" value="Imersão 3" />
-  <keys type="item" key="SB_2_0_0041" value="Imersão 4" />
-  <keys type="item" key="SB_2_0_0042" value="Imersão 5" />
-  <keys type="item" key="SB_2_0_0043" value="Imersão 6" />
-  <keys type="item" key="SB_2_0_0044" value="Imersão 7" />
-  <keys type="item" key="SB_2_0_0045" value="Imersão 8" />
-  <keys type="item" key="SB_2_0_0046" value="Possessão 1" />
-  <keys type="item" key="SB_2_0_0047" value="Possessão 2" />
-  <keys type="item" key="SB_2_0_0048" value="Possessão 3" />
-  <keys type="item" key="SB_2_0_0049" value="Possessão 4" />
-  <keys type="item" key="SB_2_0_0050" value="Possessão 5" />
-  <keys type="item" key="SB_2_0_0051" value="Possessão 6" />
-  <keys type="item" key="SB_2_0_0052" value="Possessão 7" />
-  <keys type="item" key="SB_2_0_0053" value="Possessão 8" />
-  <keys type="item" key="SB_2_0_0054" value="Bênção de Deus 1" />
-  <keys type="item" key="SB_2_0_0055" value="Bênção de Deus 2" />
-  <keys type="item" key="SB_2_0_0056" value="Bênção de Deus 3" />
-  <keys type="item" key="SB_2_0_0057" value="Bênção de Deus 4" />
-  <keys type="item" key="SB_2_0_0058" value="Aglomerado de Estrelas 1" />
-  <keys type="item" key="SB_2_0_0059" value="Aglomerado de Estrelas 2" />
-  <keys type="item" key="SB_2_0_0060" value="Aglomerado de Estrelas 3" />
-  <keys type="item" key="SB_2_0_0061" value="Aglomerado de Estrelas 4" />
-  <keys type="item" key="SB_2_0_0062" value="Aglomerado de Estrelas 5" />
-  <keys type="item" key="SB_2_0_0063" value="Aglomerado de Estrelas 6" />
-  <keys type="item" key="SB_2_0_0064" value="Aglomerado de Estrelas 7" />
-  <keys type="item" key="SB_2_0_0065" value="Proteção Divina 1" />
-  <keys type="item" key="SB_2_0_0066" value="Proteção Divina 2" />
-  <keys type="item" key="SB_2_0_0067" value="Proteção Divina 3" />
-  <keys type="item" key="SB_2_0_0068" value="Proteção Divina 4" />
-  <keys type="item" key="SB_2_0_0069" value="Barreira de Vida 1" />
-  <keys type="item" key="SB_2_0_0070" value="Barreira de Vida 2" />
-  <keys type="item" key="SB_2_0_0071" value="Barreira de Vida 3" />
-  <keys type="item" key="SB_2_0_0072" value="Barreira de Vida 4" />
-  <keys type="item" key="SB_2_0_0073" value="Barreira de Vida 5" />
-  <keys type="item" key="SB_2_0_0074" value="Barreira de Vida 6" />
-  <keys type="item" key="SB_2_0_0075" value="Barreira de Vida 7" />
-  <keys type="item" key="SB_2_0_0076" value="Oração Abençoada 1" />
-  <keys type="item" key="SB_2_0_0077" value="Oração Abençoada 2" />
-  <keys type="item" key="SB_2_0_0078" value="Oração Abençoada 3" />
-  <keys type="item" key="SB_2_0_0079" value="Oração Abençoada 4" />
-  <keys type="item" key="SB_2_0_0080" value="Oração Abençoada 5" />
-  <keys type="item" key="SB_2_0_0081" value="Ressurreição 1" />
-  <keys type="item" key="SB_2_0_0082" value="Ressurreição 2" />
-  <keys type="item" key="SB_2_0_0083" value="Ressurreição 3" />
-  <keys type="item" key="SB_2_0_0084" value="Ressurreição 4" />
-  <keys type="item" key="SB_2_0_0085" value="Ressurreição 5" />
-  <keys type="item" key="SB_2_0_0086" value="Vontade Forte 1" />
-  <keys type="item" key="SB_2_0_0087" value="Vontade Forte 2" />
-  <keys type="item" key="SB_2_0_0088" value="Vontade Forte 3" />
-  <keys type="item" key="SB_2_0_0089" value="Vontade Forte 4" />
-  <keys type="item" key="SB_2_0_0090" value="Telecinese 1" />
-  <keys type="item" key="SB_2_0_0091" value="Telecinese 2" />
-  <keys type="item" key="SB_2_0_0092" value="Telecinese 3" />
-  <keys type="item" key="SB_2_0_0093" value="Telecinese 4" />
-  <keys type="item" key="SB_2_0_0094" value="Telecinese 5" />
-  <keys type="item" key="SB_2_0_0095" value="Telecinese 6" />
-  <keys type="item" key="SB_2_0_0096" value="Telecinese 7" />
-  <keys type="item" key="SB_2_0_0097" value="Queimadura Estelar 1" />
-  <keys type="item" key="SB_2_0_0098" value="Queimadura Estelar 2" />
-  <keys type="item" key="SB_2_0_0099" value="Queimadura Estelar 3" />
-  <keys type="item" key="SB_2_0_0100" value="Buraco Negro 1" />
-  <keys type="item" key="SB_2_0_0101" value="Buraco Negro 2" />
-  <keys type="item" key="SB_2_0_0102" value="Buraco Negro 3" />
-  <keys type="item" key="SB_2_0_0103" value="Buraco Negro 4" />
-  <keys type="item" key="SB_2_0_0104" value="Unidos na Fé 1" />
-  <keys type="item" key="SB_2_0_0105" value="Unidos na Fé 2" />
-  <keys type="item" key="SB_2_0_0106" value="Unidos na Fé 3" />
-  <keys type="item" key="SB_2_0_0107" value="Unidos na Fé 4" />
-  <keys type="item" key="SB_2_0_0108" value="Unidos na Fé 5" />
-  <keys type="item" key="SB_2_0_0109" value="Unidos na Fé 6" />
-  <keys type="item" key="SB_2_0_0110" value="Aumento de Determinação 1" />
-  <keys type="item" key="SB_2_0_0111" value="Aumento de Determinação 2" />
-  <keys type="item" key="SB_2_0_0112" value="Aumento de Determinação 3" />
-  <keys type="item" key="SB_2_0_0113" value="Aumento de Determinação 4" />
-  <keys type="item" key="SB_2_0_0114" value="Aumento de Determinação 5" />
-  <keys type="item" key="SB_2_0_0115" value="Aumento de Determinação 6" />
-  <keys type="item" key="SB_2_0_0116" value="Espírito Maligno de Fúria 1" />
-  <keys type="item" key="SB_2_0_0117" value="Espírito Maligno de Fúria 2" />
-  <keys type="item" key="SB_2_0_0118" value="Espírito Maligno de Fúria 3" />
-  <keys type="item" key="SB_2_0_0119" value="Espírito Maligno de Fúria 4" />
-  <keys type="item" key="SB_2_0_0120" value="Espírito Maligno de Fúria 5" />
-  <keys type="item" key="SB_2_0_0121" value="Espírito Maligno de Fúria 6" />
-  <keys type="item" key="SB_2_0_0125" value="Barreira Curva 1" />
-  <keys type="item" key="SB_2_0_0126" value="Barreira Curva 2" />
-  <keys type="item" key="SB_2_0_0127" value="Barreira Curva 3" />
-  <keys type="item" key="SB_2_0_0128" value="Barreira Curva 4" />
-  <keys type="item" key="SB_2_0_0129" value="Julgamento Estrondoso 1" />
-  <keys type="item" key="SB_2_0_0130" value="Julgamento Estrondoso 2" />
-  <keys type="item" key="SB_2_0_0131" value="Julgamento Estrondoso 3" />
-  <keys type="item" key="SB_2_0_0132" value="Sol Sagrado 1" />
-  <keys type="item" key="SB_2_0_0133" value="Sol Sagrado 2" />
-  <keys type="item" key="SB_2_0_0134" value="Sol Sagrado 3" />
-  <keys type="item" key="SB_2_0_0135" value="Sol Sagrado 4" />
-  <keys type="item" key="SB_2_0_0136" value="Sol Sagrado 5" />
-  <keys type="item" key="SB_2_0_0138" value="Queda Explosiva 1" />
-  <keys type="item" key="SB_2_0_0139" value="Queda Explosiva 2" />
-  <keys type="item" key="SB_2_0_0140" value="Queda Explosiva 3" />
-  <keys type="item" key="SB_2_0_0141" value="Queda Explosiva 4" />
-  <keys type="item" key="SB_2_0_0142" value="Queda Explosiva 5" />
-  <keys type="item" key="SB_2_0_0143" value="Medo 1" />
-  <keys type="item" key="SB_2_0_0144" value="Medo 2" />
-  <keys type="item" key="SB_2_0_0145" value="Medo 3" />
-  <keys type="item" key="SB_2_0_0146" value="Medo 4" />
-  <keys type="item" key="SB_4_0_0000" value="Estocada Dupla 1" />
-  <keys type="item" key="SB_4_0_0001" value="Estocada Dupla 2" />
-  <keys type="item" key="SB_4_0_0002" value="Estocada Dupla 3" />
-  <keys type="item" key="SB_4_0_0003" value="Estocada Dupla 4" />
-  <keys type="item" key="SB_4_0_0004" value="Estocada Dupla 5" />
-  <keys type="item" key="SB_4_0_0005" value="Estocada Dupla 6" />
-  <keys type="item" key="SB_4_0_0006" value="Estocada Dupla 7" />
-  <keys type="item" key="SB_4_0_0007" value="Estocada Dupla 8" />
-  <keys type="item" key="SB_4_0_0008" value="Estocada Dupla 9" />
-  <keys type="item" key="SB_4_0_0009" value="Golpe Por Trás 1" />
-  <keys type="item" key="SB_4_0_0010" value="Golpe Por Trás 2" />
-  <keys type="item" key="SB_4_0_0011" value="Golpe Por Trás 3" />
-  <keys type="item" key="SB_4_0_0012" value="Golpe Por Trás 4" />
-  <keys type="item" key="SB_4_0_0013" value="Golpe Por Trás 5" />
-  <keys type="item" key="SB_4_0_0014" value="Golpe Por Trás 6" />
-  <keys type="item" key="SB_4_0_0015" value="Golpe Por Trás 7" />
-  <keys type="item" key="SB_4_0_0016" value="Golpe Por Trás 8" />
-  <keys type="item" key="SB_4_0_0030" value="Miragem 1" />
-  <keys type="item" key="SB_4_0_0031" value="Miragem 2" />
-  <keys type="item" key="SB_4_0_0032" value="Miragem 3" />
-  <keys type="item" key="SB_4_0_0033" value="Miragem 4" />
-  <keys type="item" key="SB_4_0_0034" value="Miragem 5" />
-  <keys type="item" key="SB_4_0_0035" value="Estocada 1" />
-  <keys type="item" key="SB_4_0_0036" value="Estocada 2" />
-  <keys type="item" key="SB_4_0_0037" value="Estocada 3" />
-  <keys type="item" key="SB_4_0_0038" value="Estocada 4" />
-  <keys type="item" key="SB_4_0_0039" value="Estocada 5" />
-  <keys type="item" key="SB_4_0_0040" value="Estocada 6" />
-  <keys type="item" key="SB_4_0_0041" value="Estocada 7" />
-  <keys type="item" key="SB_4_0_0042" value="Estocada 8" />
-  <keys type="item" key="SB_4_0_0059" value="Arrancada 1" />
-  <keys type="item" key="SB_4_0_0060" value="Arrancada 2" />
-  <keys type="item" key="SB_4_0_0061" value="Arrancada 3" />
-  <keys type="item" key="SB_4_0_0062" value="Arrancada 4" />
-  <keys type="item" key="SB_4_0_0076" value="Sombra Rodopiante 1" />
-  <keys type="item" key="SB_4_0_0077" value="Sombra Rodopiante 2" />
-  <keys type="item" key="SB_4_0_0078" value="Sombra Rodopiante 3" />
-  <keys type="item" key="SB_4_0_0079" value="Sombra Rodopiante 4" />
-  <keys type="item" key="SB_4_0_0080" value="Sombra Rodopiante 5" />
-  <keys type="item" key="SB_4_0_0085" value="Amnésia 1" />
-  <keys type="item" key="SB_4_0_0086" value="Amnésia 2" />
-  <keys type="item" key="SB_4_0_0087" value="Amnésia 3" />
-  <keys type="item" key="SB_4_0_0088" value="Amnésia 4" />
-  <keys type="item" key="SB_4_0_0128" value="Golpe Baixo 1" />
-  <keys type="item" key="SB_4_0_0129" value="Golpe Baixo 2" />
-  <keys type="item" key="SB_4_0_0130" value="Golpe Baixo 3" />
-  <keys type="item" key="SB_4_0_0131" value="Golpe Baixo 4" />
-  <keys type="item" key="SB_4_0_0132" value="Golpe Baixo 5" />
-  <keys type="item" key="SB_4_0_0133" value="Golpe Baixo 6" />
-  <keys type="item" key="SB_4_0_0134" value="Golpe Baixo 7" />
-  <keys type="item" key="SB_4_0_0135" value="Golpe Baixo 8" />
-  <keys type="item" key="SB_0_0_0001" value="Domando" />
-  <keys type="item" key="SB_0_0_0011" value="Fogo Rápido" />
-  <keys type="item" key="SB_0_0_0012" value="Fogo Rápido" />
-  <keys type="item" key="SB_0_0_0013" value="Fogo Rápido" />
-  <keys type="item" key="SB_0_0_0014" value="Fogo Rápido" />
-  <keys type="item" key="SB_9_0_0001" value="Corte Severo" />
-  <keys type="item" key="SB_10_0_0001" value="Tiro no Tornozelo" />
-  <keys type="item" key="SB_10_0_0002" value="Tiro Certeiro" />
-  <keys type="item" key="SB_0_0_0021" value="Controle Mental (Berserker)" />
-  <keys type="item" key="SB_11_0_0001" value="[Livro de Habilidade] Vontade Forte" />
-  <keys type="item" key="SB_12_0_0001" value="[Livro de Habilidade] Superioridade Física" />
-  <keys type="item" key="SB_13_0_0001" value="[Livro de Habilidade] Adaga Viva" />
-  <keys type="item" key="SB_14_0_0001" value="[Livro de Habilidade] Introspecção" />
-  <keys type="item" key="SB_15_0_0001" value="[Livro de Habilidade] Amplificação Mágica" />
-  <keys type="item" key="SB_11_0_0002" value="[Livro de Habilidade] Aura Encurralada" />
-  <keys type="item" key="SB_12_0_0002" value="[Livro de Habilidade] Armadura Sólida" />
-  <keys type="item" key="SB_13_0_0002" value="[Livro de Habilidade] Movimento Cauteloso" />
-  <keys type="item" key="SB_14_0_0002" value="[Livro de Habilidade] Glória Sacrificial" />
-  <keys type="item" key="SB_15_0_0002" value="[Livro de Habilidade] Concentração Intensa" />
-  <keys type="item" key="SB_12_0_0003" value="[Livro de Habilidade] Escudo da Verdade" />
-  <keys type="item" key="SB_14_0_0003" value="[Livro de Habilidade] Oração Final" />
-  <keys type="item" key="SB_11_0_0004" value="[Livro de Habilidade] Olhar Ardente" />
-  <keys type="item" key="SB_12_0_0004" value="[Livro de Habilidade] Condicionamento Impecável" />
-  <keys type="item" key="SB_13_0_0004" value="[Livro de Habilidade] Adaga Afiada" />
-  <keys type="item" key="SB_14_0_0004" value="[Livro de Habilidade] Sabedoria Sem Limites" />
-  <keys type="item" key="SB_15_0_0004" value="[Livro de Habilidade] Afinidade Espiritual" />
-  <keys type="item" key="SB_11_0_0005" value="[Livro de Habilidade] Glória à Lâmina" />
-  <keys type="item" key="SB_12_0_0005" value="[Livro de Habilidade] Orgulho e Glória" />
-  <keys type="item" key="SB_13_0_0005" value="[Livro de Habilidade] Coragem Mortal" />
-  <keys type="item" key="SB_14_0_0005" value="[Livro de Habilidade] Glória Acima" />
-  <keys type="item" key="SB_15_0_0005" value="[Livro de Habilidade] Glória do Feiticeiro" />
-  <keys type="item" key="SB_11_0_0006" value="[Livro de Habilidade] Golpe Aprimorado" />
-  <keys type="item" key="SB_12_0_0006" value="[Livro de Habilidade] Presença Imponente" />
-  <keys type="item" key="SB_13_0_0006" value="[Livro de Habilidade] Flexibilidade" />
-  <keys type="item" key="SB_14_0_0006" value="[Livro de Habilidade] Unidos na Fé" />
-  <keys type="item" key="SB_15_0_0006" value="[Livro de Habilidade] Zona de Afinidade" />
-  <keys type="item" key="SB_0_0_0002" value="[Livro de Habilidade] Ápice do Cavaleiro" />
-  <keys type="item" key="SB_16_0_0001" value="[Livro de Habilidade] Avanço da Ruína" />
-  <keys type="item" key="SB_16_0_0002" value="[Livro de Habilidade] Talento Natural" />
-  <keys type="item" key="SB_16_0_0004" value="[Livro de Habilidade] Descendente da Ruína" />
-  <keys type="item" key="SB_16_0_0005" value="[Livro de Habilidade] Triunfo do Arqueiro" />
-  <keys type="item" key="SB_16_0_0006" value="[Livro de Habilidade] Devoto do Corvo" />
-  <keys type="item" key="SB_11_0_0007" value="[Berserker] Selvageria Sem Limites" />
-  <keys type="item" key="SB_12_0_0007" value="[Guardian] Alma da Lâmina" />
-  <keys type="item" key="SB_13_0_0007" value="[Assassin] Paliçada Sangrenta" />
-  <keys type="item" key="SB_14_0_0007" value="[Priest] Alma de Magia" />
-  <keys type="item" key="SB_15_0_0007" value="[Wizard] Luz e Sombra" />
-  <keys type="item" key="SB_16_0_0007" value="[Ranger] Domínio" />
-  <keys type="item" key="SB_11_0_0008" value="Livro de Habilidade: [Awakened] Determinação de Ferro" />
-  <keys type="item" key="SB_12_0_0008" value="Livro de Habilidade: [Awakened] Autoridade Leal" />
-  <keys type="item" key="SB_13_0_0008" value="Livro de Habilidade: [Awakened] Sombra de Koroshimo" />
-  <keys type="item" key="SB_14_0_0008" value="Livro de Habilidade: [Awakened] Vento de Ellora" />
-  <keys type="item" key="SB_15_0_0008" value="Livro de Habilidade: [Awakened] Afinidade Espiritual" />
-  <keys type="item" key="SB_16_0_0008" value="Livro de Habilidade: [Awakened] Mestre do Caos" />
-  <keys type="item" key="SB_17_0_0001" value="[Skill Book] Crossbow Attack" />
-  <keys type="item" key="SB_17_0_0002" value="[Skill Book] Lance Attack" />
-  <keys type="item" key="SB_17_0_0004" value="Double Strike" />
-  <keys type="item" key="SB_17_0_0005" value="[Skill Book] Trickster Disguise" />
-  <keys type="item" key="SB_17_0_0006" value="[Skill Book] Starry Festival" />
-  <keys type="item" key="SB_17_0_0007" value="[Trickster] Radiance" />
-  <keys type="item" key="SB_17_0_0008" value="Skillbook: [Awakened] Virtuous Spirit" />
-  <keys type="item" key="SB_12_0_6301" value="[Guardian] Bastião Primitivo (Nível 1)" />
-  <keys type="item" key="SB_12_0_6302" value="[Guardian] Bastião Primitivo (Nível 2)" />
-  <keys type="item" key="SB_12_0_6303" value="[Guardian] Bastião Primitivo (Nível 3)" />
-  <keys type="item" key="SB_12_0_6304" value="[Guardian] Bastião Primitivo (Nível 4)" />
-  <keys type="item" key="SB_12_0_6305" value="[Guardian] Bastião Primitivo (Nível 5)" />
-  <keys type="item" key="SB_12_0_6306" value="[Guardian] Bastião Primitivo (Nível 6)" />
-  <keys type="item" key="SB_12_0_6307" value="[Guardian] Bastião Primitivo (Nível 7)" />
-  <keys type="item" key="SB_12_0_6308" value="[Guardian] Bastião Primitivo (Nível 8)" />
-  <keys type="item" key="SB_12_0_6309" value="[Guardian] Bastião Primitivo (Nível 9)" />
-  <keys type="item" key="SB_12_0_6310" value="[Guardian] Bastião Primitivo (Nível 10)" />
-  <keys type="item" key="SB_11_0_6301" value="[Berserker] Espada Primitiva (Nível 1)" />
-  <keys type="item" key="SB_11_0_6302" value="[Berserker] Espada Primitiva (Nível 2)" />
-  <keys type="item" key="SB_11_0_6303" value="[Berserker] Feitiço Primitivo (Nível 3)" />
-  <keys type="item" key="SB_11_0_6304" value="[Berserker] Espada Primitiva (Nível 4)" />
-  <keys type="item" key="SB_11_0_6305" value="[Berserker] Espada Primitiva (Nível 5)" />
-  <keys type="item" key="SB_11_0_6306" value="[Berserker] Espada Primitiva (Nível 6)" />
-  <keys type="item" key="SB_11_0_6307" value="[Berserker] Espada Primitiva (Nível 7)" />
-  <keys type="item" key="SB_11_0_6308" value="[Berserker] Espada Primitiva (Nível 8)" />
-  <keys type="item" key="SB_11_0_6309" value="[Berserker] Espada Primitiva (Nível 9)" />
-  <keys type="item" key="SB_11_0_6310" value="[Berserker] Espada Primitiva (Nível 10)" />
-  <keys type="item" key="SB_13_0_6301" value="[Assassin] Solidão Primitiva (Nível 1)" />
-  <keys type="item" key="SB_13_0_6302" value="[Assassin] Solidão Primitiva (Nível 2)" />
-  <keys type="item" key="SB_13_0_6303" value="[Assassin] Solidão Primitiva (Nível 3)" />
-  <keys type="item" key="SB_13_0_6304" value="[Assassin] Solidão Primitiva (Nível 4)" />
-  <keys type="item" key="SB_13_0_6305" value="[Assassin] Solidão Primitiva (Nível 5)" />
-  <keys type="item" key="SB_13_0_6306" value="[Assassin] Solidão Primitiva (Nível 6)" />
-  <keys type="item" key="SB_13_0_6307" value="[Assassin] Solidão Primitiva (Nível 7)" />
-  <keys type="item" key="SB_13_0_6308" value="[Assassin] Solidão Primitiva (Nível 8)" />
-  <keys type="item" key="SB_13_0_6309" value="[Assassin] Solidão Primitiva (Nível 9)" />
-  <keys type="item" key="SB_13_0_6310" value="[Assassin] Solidão Primitiva (Nível 10)" />
-  <keys type="item" key="SB_14_0_6301" value="[Priest] Divindade Primitiva (Nível 1)" />
-  <keys type="item" key="SB_14_0_6302" value="[Priest] Divindade Primitiva (Nível 2)" />
-  <keys type="item" key="SB_14_0_6303" value="[Priest] Divindade Primitiva (Nível 3)" />
-  <keys type="item" key="SB_14_0_6304" value="[Priest] Divindade Primitiva (Nível 4)" />
-  <keys type="item" key="SB_14_0_6305" value="[Priest] Divindade Primitiva (Nível 5)" />
-  <keys type="item" key="SB_14_0_6306" value="[Priest] Divindade Primitiva (Nível 6)" />
-  <keys type="item" key="SB_14_0_6307" value="[Priest] Divindade Primitiva (Nível 7)" />
-  <keys type="item" key="SB_14_0_6308" value="[Priest] Divindade Primitiva (Nível 8)" />
-  <keys type="item" key="SB_14_0_6309" value="[Priest] Divindade Primitiva (Nível 9)" />
-  <keys type="item" key="SB_14_0_6310" value="[Priest] Divindade Primitiva (Nível 10)" />
-  <keys type="item" key="SB_15_0_6301" value="[Wizard] Feitiço Primitivo (Nível 1)" />
-  <keys type="item" key="SB_15_0_6302" value="[Wizard] Feitiço Primitivo (Nível 2)" />
-  <keys type="item" key="SB_15_0_6303" value="[Wizard] Feitiço Primitivo (Nível 3)" />
-  <keys type="item" key="SB_15_0_6304" value="[Wizard] Feitiço Primitivo (Nível 4)" />
-  <keys type="item" key="SB_15_0_6305" value="[Wizard] Feitiço Primitivo (Nível 5)" />
-  <keys type="item" key="SB_15_0_6306" value="[Wizard] Feitiço Primitivo (Nível 6)" />
-  <keys type="item" key="SB_15_0_6307" value="[Wizard] Feitiço Primitivo (Nível 7)" />
-  <keys type="item" key="SB_15_0_6308" value="[Wizard] Feitiço Primitivo (Nível 8)" />
-  <keys type="item" key="SB_15_0_6309" value="[Wizard] Feitiço Primitivo (Nível 9)" />
-  <keys type="item" key="SB_15_0_6310" value="[Wizard] Feitiço Primitivo (Nível 10)" />
-  <keys type="item" key="SB_16_0_6301" value="[Ranger] Caos Primitivo (Nível 1)" />
-  <keys type="item" key="SB_16_0_6302" value="[Ranger] Caos Primitivo (Nível 2)" />
-  <keys type="item" key="SB_16_0_6303" value="[Ranger] Caos Primitivo (Nível 3)" />
-  <keys type="item" key="SB_16_0_6304" value="[Ranger] Caos Primitivo (Nível 4)" />
-  <keys type="item" key="SB_16_0_6305" value="[Ranger] Caos Primitivo (Nível 5)" />
-  <keys type="item" key="SB_16_0_6306" value="[Ranger] Caos Primitivo (Nível 6)" />
-  <keys type="item" key="SB_16_0_6307" value="[Ranger] Caos Primitivo (Nível 7)" />
-  <keys type="item" key="SB_16_0_6308" value="[Ranger] Caos Primitivo (Nível 8)" />
-  <keys type="item" key="SB_16_0_6309" value="[Ranger] Caos Primitivo (Nível 9)" />
-  <keys type="item" key="SB_16_0_6310" value="[Ranger] Caos Primitivo (Nível 10)" />
-  <keys type="item" key="SB_17_0_6301" value="[Trickster] Primal Bliss (Lv. 1)" />
-  <keys type="item" key="SB_17_0_6302" value="[Trickster] Primal Bliss (Lv. 2)" />
-  <keys type="item" key="SB_17_0_6303" value="[Trickster] Primal Bliss (Lv. 3)" />
-  <keys type="item" key="SB_17_0_6304" value="[Trickster] Primal Bliss (Lv. 4)" />
-  <keys type="item" key="SB_17_0_6305" value="[Trickster] Primal Bliss (Lv. 5)" />
-  <keys type="item" key="SB_17_0_6306" value="[Trickster] Primal Bliss (Lv. 6)" />
-  <keys type="item" key="SB_17_0_6307" value="[Trickster] Primal Bliss (Lv. 7)" />
-  <keys type="item" key="SB_17_0_6308" value="[Trickster] Primal Bliss (Lv. 8)" />
-  <keys type="item" key="SB_17_0_6309" value="[Trickster] Primal Bliss (Lv. 9)" />
-  <keys type="item" key="SB_17_0_6310" value="[Trickster] Primal Bliss (Lv. 10)" />
-  <keys type="item" key="SB_12_0_6501" value="[Guardian] Resistência Primitiva" />
-  <keys type="item" key="SB_11_0_6501" value="[Berserker] Fúria Primitiva" />
-  <keys type="item" key="SB_13_0_6501" value="[Assassin] Adaga Primitiva" />
-  <keys type="item" key="SB_14_0_6501" value="[Priest] Luz Primitiva" />
-  <keys type="item" key="SB_15_0_6501" value="[Wizard] Elementos Primitivos" />
-  <keys type="item" key="SB_16_0_6501" value="[Ranger] Flecha Primitiva" />
-  <keys type="item" key="SB_17_0_6501" value="[Trickster] Primal Radiance" />
-  <keys type="item" key="SB_18_0_0001" value="[Skill Book] Evil Presence" />
-  <keys type="item" key="SB_18_0_0002" value="[Skill Book] Chaotic Focus" />
-  <keys type="item" key="SB_18_0_0003" value="[Skill Book] Suppressed Memory" />
-  <keys type="item" key="SB_18_0_0004" value="[Skill Book] Magician's Glory" />
-  <keys type="item" key="SB_18_0_0005" value="[Skill Book] Inner Touch" />
-  <keys type="item" key="SB_18_0_0006" value="[Skill Book] Magical Protection" />
-  <keys type="item" key="SB_18_0_0007" value="[Awakening] The Age of Evil" />
-  <keys type="item" key="SB_18_0_6301" value="[Magician] Inveja Primitiva (Nível 1)" />
-  <keys type="item" key="SB_18_0_6302" value="[Magician] Inveja Primitiva (Nível 2)" />
-  <keys type="item" key="SB_18_0_6303" value="[Magician] Inveja Primitiva (Nível 3)" />
-  <keys type="item" key="SB_18_0_6304" value="[Magician] Inveja Primitiva (Nível 4)" />
-  <keys type="item" key="SB_18_0_6305" value="[Magician] Inveja Primitiva (Nível 5)" />
-  <keys type="item" key="SB_18_0_6306" value="[Magician] Inveja Primitiva (Nível 6)" />
-  <keys type="item" key="SB_18_0_6307" value="[Magician] Inveja Primitiva (Nível 7)" />
-  <keys type="item" key="SB_18_0_6308" value="[Magician] Inveja Primitiva (Nível 8)" />
-  <keys type="item" key="SB_18_0_6309" value="[Magician] Inveja Primitiva (Nível 9)" />
-  <keys type="item" key="SB_18_0_6310" value="[Magician] Inveja Primitiva (Nível 10)" />
-  <keys type="item" key="SB_18_0_6501" value="[Magician] Deslocamento Primitivo" />
-  <keys type="item" key="SB_12_0_7001" value="[Guardião] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_12_0_7002" value="[Guardião] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_12_0_7003" value="[Guardião] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_12_0_7004" value="[Guardião] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_12_0_7005" value="[Guardião] Livro Secreto de Velzera (Lv5)" />
-  <keys type="item" key="SB_11_0_7001" value="[Guerreiro] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_11_0_7002" value="[Guerreiro] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_11_0_7003" value="[Guerreiro] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_11_0_7004" value="[Guerreiro] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_11_0_7005" value="[Guerreiro] Livro Secreto de Velzera (Lv5)" />
-  <keys type="item" key="SB_13_0_7001" value="[Assassino] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_13_0_7002" value="[Assassino] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_13_0_7003" value="[Assassino] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_13_0_7004" value="[Assassino] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_13_0_7005" value="[Assassino] Livro Secreto de Velzera (Lv5)" />
-  <keys type="item" key="SB_15_0_7001" value="[Mago] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_15_0_7002" value="[Mago] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_15_0_7003" value="[Mago] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_15_0_7004" value="[Mago] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_15_0_7005" value="[Mago] Livro Secreto de Velzera (Lv5)" />
-  <keys type="item" key="SB_14_0_7001" value="[Sacerdote] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_14_0_7002" value="[Sacerdote] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_14_0_7003" value="[Sacerdote] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_14_0_7004" value="[Sacerdote] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_14_0_7005" value="[Sacerdote] Livro Secreto de Velzera (Lv5)" />
-  <keys type="item" key="SB_16_0_7001" value="[Ranger] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_16_0_7002" value="[Ranger] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_16_0_7003" value="[Ranger] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_16_0_7004" value="[Ranger] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_16_0_7005" value="[Ranger] Livro Secreto de Velzera (Lv5)" />
-  <keys type="item" key="SB_17_0_7001" value="[Trickster] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_17_0_7002" value="[Trickster] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_17_0_7003" value="[Trickster] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_17_0_7004" value="[Trickster] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_17_0_7005" value="[Trickster] Livro Secreto de Velzera (Lv5)" />
-  <keys type="item" key="SB_18_0_7001" value="[Magician] Livro Secreto de Velzera (Lv1)" />
-  <keys type="item" key="SB_18_0_7002" value="[Magician] Livro Secreto de Velzera (Lv2)" />
-  <keys type="item" key="SB_18_0_7003" value="[Magician] Livro Secreto de Velzera (Lv3)" />
-  <keys type="item" key="SB_18_0_7004" value="[Magician] Livro Secreto de Velzera (Lv4)" />
-  <keys type="item" key="SB_18_0_7005" value="[Magician] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_1_0_0001" value="Golpe Legítimo 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0001" value="Leia esse livro para aprender Golpe Legítimo nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0002" value="Golpe Legítimo 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0002" value="Leia esse livro para aprender Golpe Legítimo nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0003" value="Golpe Legítimo 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0003" value="Leia esse livro para aprender Golpe Legítimo nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0004" value="Golpe Legítimo 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0004" value="Leia esse livro para aprender Golpe Legítimo nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0005" value="Golpe Legítimo 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0005" value="Leia esse livro para aprender Golpe Legítimo nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0006" value="Golpe Legítimo 6" />
+  <keys prop="Description" type="item" key="SB_1_0_0006" value="Leia esse livro para aprender Golpe Legítimo nível 6." />
+  <keys prop="Name" type="item" key="SB_1_0_0007" value="Golpe Legítimo 7" />
+  <keys prop="Description" type="item" key="SB_1_0_0007" value="Leia esse livro para aprender Golpe Legítimo nível 7." />
+  <keys prop="Name" type="item" key="SB_1_0_0008" value="Golpe Legítimo 8" />
+  <keys prop="Description" type="item" key="SB_1_0_0008" value="Leia esse livro para aprender Golpe Legítimo nível 8." />
+  <keys prop="Name" type="item" key="SB_1_0_0009" value="Corte Duplo 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0009" value="Leia esse livro para aprender Corte Duplo nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0010" value="Corte Duplo 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0010" value="Leia esse livro para aprender Corte Duplo nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0011" value="Corte Duplo 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0011" value="Leia esse livro para aprender Corte Duplo nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0012" value="Corte Duplo 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0012" value="Leia esse livro para aprender Corte Duplo nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0013" value="Corte Duplo 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0013" value="Leia esse livro para aprender Corte Duplo nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0014" value="Corte Duplo 6" />
+  <keys prop="Description" type="item" key="SB_1_0_0014" value="Leia esse livro para aprender Corte Duplo nível 6." />
+  <keys prop="Name" type="item" key="SB_1_0_0015" value="Corte Duplo 7" />
+  <keys prop="Description" type="item" key="SB_1_0_0015" value="Leia esse livro para aprender Corte Duplo nível 7." />
+  <keys prop="Name" type="item" key="SB_1_0_0016" value="Corte Duplo 8" />
+  <keys prop="Description" type="item" key="SB_1_0_0016" value="Leia esse livro para aprender Corte Duplo nível 8." />
+  <keys prop="Name" type="item" key="SB_1_0_0017" value="Tenacidade 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0017" value="Leia esse livro para aprender Tenacidade Nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0018" value="Tenacidade 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0018" value="Leia esse livro para aprender Tenacidade Nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0019" value="Força 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0019" value="Leia esse livro para aprender Tenacidade Nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0020" value="Tenacidade 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0020" value="Leia esse livro para aprender Tenacidade Nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0021" value="Tenacidade 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0021" value="Leia esse livro para aprender Tenacidade Nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0022" value="Colisão Bruta 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0022" value="Leia esse livro para aprender Colisão Bruta nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0023" value="Colisão Bruta 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0023" value="Leia esse livro para aprender Colisão Bruta nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0024" value="Colisão Bruta 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0024" value="Leia esse livro para aprender Colisão Bruta nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0025" value="Colisão Bruta 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0025" value="Leia esse livro para aprender Colisão Bruta nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0026" value="Colisão Bruta 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0026" value="Leia esse livro para aprender Colisão Bruta nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0027" value="Colisão Bruta 6" />
+  <keys prop="Description" type="item" key="SB_1_0_0027" value="Leia esse livro para aprender Colisão Bruta nível 6." />
+  <keys prop="Name" type="item" key="SB_1_0_0028" value="Colisão Bruta 7" />
+  <keys prop="Description" type="item" key="SB_1_0_0028" value="Leia esse livro para aprender Colisão Bruta nível 7." />
+  <keys prop="Name" type="item" key="SB_1_0_0029" value="Colisão Bruta 8" />
+  <keys prop="Description" type="item" key="SB_1_0_0029" value="Leia esse livro para aprender Colisão Bruta nível 8." />
+  <keys prop="Name" type="item" key="SB_1_0_0033" value="Corpo de Ferro 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0033" value="Leia esse livro para aprender Corpo de Ferro nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0034" value="Corpo de Ferro 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0034" value="Leia esse livro para aprender Corpo de Ferro nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0035" value="Corpo de Ferro 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0035" value="Leia esse livro para aprender Corpo de Ferro nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0036" value="Corpo de Ferro 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0036" value="Leia esse livro para aprender Corpo de Ferro nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0037" value="Corpo de Ferro 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0037" value="Leia esse livro para aprender Corpo de Ferro nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0038" value="Corpo de Ferro 6" />
+  <keys prop="Description" type="item" key="SB_1_0_0038" value="Leia esse livro para aprender Corpo de Ferro nível 6." />
+  <keys prop="Name" type="item" key="SB_1_0_0039" value="Corpo de Ferro 7" />
+  <keys prop="Description" type="item" key="SB_1_0_0039" value="Leia esse livro para aprender Corpo de Ferro nível 7." />
+  <keys prop="Name" type="item" key="SB_1_0_0053" value="Golpe de Ombro 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0053" value="Leia esse livro para aprender Golpe de Ombro nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0054" value="Golpe de Ombro 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0054" value="Leia esse livro para aprender Golpe de Ombro nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0055" value="Golpe de Ombro 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0055" value="Leia esse livro para aprender Golpe de Ombro nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0056" value="Golpe de Ombro 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0056" value="Leia esse livro para aprender Golpe de Ombro nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0057" value="Corte Triplo 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0057" value="Leia esse livro para aprender Corte Triplo nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0058" value="Corte Triplo 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0058" value="Leia esse livro para aprender Corte Triplo nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0059" value="Corte Triplo 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0059" value="Leia esse livro para aprender Corte Triplo nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0060" value="Corte Triplo 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0060" value="Leia esse livro para aprender Corte Triplo nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0061" value="Corte Triplo 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0061" value="Leia esse livro para aprender Corte Triplo nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0062" value="Corte Triplo 6" />
+  <keys prop="Description" type="item" key="SB_1_0_0062" value="Leia esse livro para aprender Corte Triplo nível 6." />
+  <keys prop="Name" type="item" key="SB_1_0_0063" value="Corte Triplo 7" />
+  <keys prop="Description" type="item" key="SB_1_0_0063" value="Leia esse livro para aprender Corte Triplo nível 7." />
+  <keys prop="Name" type="item" key="SB_1_0_0064" value="Grito Valoroso 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0064" value="Leia esse livro para aprender Grito Valoroso nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0065" value="Grito Valoroso 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0065" value="Leia esse livro para aprender Grito Valoroso nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0066" value="Grito Valoroso 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0066" value="Leia esse livro para aprender Grito Valoroso nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0067" value="Grito Valoroso 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0067" value="Leia esse livro para aprender Grito Valoroso nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0068" value="Grito Valoroso 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0068" value="Leia esse livro para aprender Grito Valoroso nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0073" value="Lâmina Rodopiante 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0073" value="Leia esse livro para aprender Lâmina Rodopiante nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0074" value="Lâmina Rodopiante 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0074" value="Leia esse livro para aprender Lâmina Rodopiante nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0075" value="Lâmina Rodopiante 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0075" value="Leia esse livro para aprender Lâmina Rodopiante nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0076" value="Lâmina Rodopiante 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0076" value="Leia esse livro para aprender Lâmina Rodopiante nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0077" value="Lâmina Rodopiante 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0077" value="Leia esse livro para aprender Lâmina Rodopiante nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0082" value="Provocar 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0082" value="Leia esse livro para aprender Provocar nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0083" value="Provocar 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0083" value="Leia esse livro para aprender Provocar nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0084" value="Provocar 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0084" value="Leia esse livro para aprender Provocar nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0104" value="Aumento de Força 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0104" value="Leia esse livro para aprender Aumento de Força nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0105" value="Aumento de Força 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0105" value="Leia esse livro para aprender Aumento de Força nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0106" value="Aumento de Força 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0106" value="Leia esse livro para aprender Aumento de Força nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0107" value="Aumento de Força 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0107" value="Leia esse livro para aprender Aumento de Força nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0108" value="Aumento de Força 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0108" value="Leia esse livro para aprender Aumento de Força nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0109" value="Aumento de Força 6" />
+  <keys prop="Description" type="item" key="SB_1_0_0109" value="Leia esse livro para aprender Aumento de Força nível 6." />
+  <keys prop="Name" type="item" key="SB_1_0_0117" value="Terremoto 1" />
+  <keys prop="Description" type="item" key="SB_1_0_0117" value="Leia esse livro para aprender Terremoto nível 1." />
+  <keys prop="Name" type="item" key="SB_1_0_0118" value="Terremoto 2" />
+  <keys prop="Description" type="item" key="SB_1_0_0118" value="Leia esse livro para aprender Terremoto nível 2." />
+  <keys prop="Name" type="item" key="SB_1_0_0119" value="Terremoto 3" />
+  <keys prop="Description" type="item" key="SB_1_0_0119" value="Leia esse livro para aprender Terremoto nível 3." />
+  <keys prop="Name" type="item" key="SB_1_0_0120" value="Terremoto 4" />
+  <keys prop="Description" type="item" key="SB_1_0_0120" value="Leia esse livro para aprender Terremoto nível 4." />
+  <keys prop="Name" type="item" key="SB_1_0_0121" value="Terremoto 5" />
+  <keys prop="Description" type="item" key="SB_1_0_0121" value="Leia esse livro para aprender Terremoto nível 5." />
+  <keys prop="Name" type="item" key="SB_1_0_0122" value="Terremoto 6" />
+  <keys prop="Description" type="item" key="SB_1_0_0122" value="Leia esse livro para aprender Terremoto nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0001" value="Cura 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0001" value="Leia esse livro para aprender Cura nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0002" value="Cura 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0002" value="Leia esse livro para aprender Cura nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0003" value="Cura 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0003" value="Leia esse livro para aprender Cura nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0004" value="Cura 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0004" value="Leia esse livro para aprender Cura nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0005" value="Cura 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0005" value="Leia esse livro para aprender Cura nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0006" value="Cura 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0006" value="Leia esse livro para aprender Cura nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0007" value="Cura 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0007" value="Leia esse livro para aprender Cura nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0008" value="Cura 8" />
+  <keys prop="Description" type="item" key="SB_2_0_0008" value="Leia esse livro para aprender Cura nível 8." />
+  <keys prop="Name" type="item" key="SB_2_0_0009" value="Luz das Estrelas 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0009" value="Leia esse livro para aprender Luz das Estrelas nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0010" value="Luz das Estrelas 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0010" value="Leia esse livro para aprender Luz das Estrelas nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0011" value="Luz das Estrelas 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0011" value="Leia esse livro para aprender Luz das Estrelas nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0012" value="Luz das Estrelas 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0012" value="Leia esse livro para aprender Luz das Estrelas nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0013" value="Luz das Estrelas 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0013" value="Leia esse livro para aprender Luz das Estrelas nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0014" value="Luz das Estrelas 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0014" value="Leia esse livro para aprender Luz das Estrelas nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0015" value="Luz das Estrelas 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0015" value="Leia esse livro para aprender Luz das Estrelas nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0016" value="Luz das Estrelas 8" />
+  <keys prop="Description" type="item" key="SB_2_0_0016" value="Leia esse livro para aprender Luz das Estrelas nível 8." />
+  <keys prop="Name" type="item" key="SB_2_0_0017" value="Martelo Celestial 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0017" value="Leia esse livro para aprender Martelo Celestial nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0018" value="Martelo Celestial 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0018" value="Leia esse livro para aprender Martelo Celestial nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0019" value="Martelo Celestial 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0019" value="Leia esse livro para aprender Martelo Celestial nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0020" value="Martelo Celestial 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0020" value="Leia esse livro para aprender Martelo Celestial nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0021" value="Martelo Celestial 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0021" value="Leia esse livro para aprender Martelo Celestial nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0022" value="Vontade Nobre 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0022" value="Leia esse livro para aprender Vontade Nobre nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0023" value="Vontade Nobre 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0023" value="Leia esse livro para aprender Vontade Nobre nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0024" value="Vontade Nobre 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0024" value="Leia esse livro para aprender Vontade Nobre nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0025" value="Vontade Nobre 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0025" value="Leia esse livro para aprender Vontade Nobre nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0026" value="Vontade Nobre 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0026" value="Leia esse livro para aprender Vontade Nobre nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0027" value="Vontade Nobre 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0027" value="Leia esse livro para aprender Vontade Nobre nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0028" value="Vontade Nobre 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0028" value="Leia esse livro para aprender Vontade Nobre nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0029" value="Vontade Nobre 8" />
+  <keys prop="Description" type="item" key="SB_2_0_0029" value="Leia esse livro para aprender Vontade Nobre nível 8." />
+  <keys prop="Name" type="item" key="SB_2_0_0030" value="Recuperação 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0030" value="Leia esse livro para aprender Recuperação nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0031" value="Recuperação 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0031" value="Leia esse livro para aprender Recuperação nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0032" value="Recuperação 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0032" value="Leia esse livro para aprender Recuperação nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0033" value="Recuperação 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0033" value="Leia esse livro para aprender Recuperação nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0034" value="Recuperação 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0034" value="Leia esse livro para aprender Recuperação nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0035" value="Recuperação 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0035" value="Leia esse livro para aprender Recuperação nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0036" value="Recuperação 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0036" value="Leia esse livro para aprender Recuperação nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0037" value="Recuperação 8" />
+  <keys prop="Description" type="item" key="SB_2_0_0037" value="Leia esse livro para aprender Recuperação nível 8." />
+  <keys prop="Name" type="item" key="SB_2_0_0038" value="Imersão 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0038" value="Leia esse livro para aprender Imersão nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0039" value="Imersão 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0039" value="Leia esse livro para aprender Imersão nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0040" value="Imersão 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0040" value="Leia esse livro para aprender Imersão nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0041" value="Imersão 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0041" value="Leia esse livro para aprender Imersão nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0042" value="Imersão 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0042" value="Leia esse livro para aprender Imersão nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0043" value="Imersão 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0043" value="Leia esse livro para aprender Imersão nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0044" value="Imersão 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0044" value="Leia esse livro para aprender Imersão nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0045" value="Imersão 8" />
+  <keys prop="Description" type="item" key="SB_2_0_0045" value="Leia esse livro para aprender Imersão nível 8." />
+  <keys prop="Name" type="item" key="SB_2_0_0046" value="Possessão 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0046" value="Leia esse livro para aprender Possessão nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0047" value="Possessão 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0047" value="Leia esse livro para aprender Possessão nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0048" value="Possessão 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0048" value="Leia esse livro para aprender Possessão nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0049" value="Possessão 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0049" value="Leia esse livro para aprender Possessão nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0050" value="Possessão 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0050" value="Leia esse livro para aprender Possessão nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0051" value="Possessão 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0051" value="Leia esse livro para aprender Possessão nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0052" value="Possessão 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0052" value="Leia esse livro para aprender Possessão nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0053" value="Possessão 8" />
+  <keys prop="Description" type="item" key="SB_2_0_0053" value="Leia esse livro para aprender Possessão nível 8." />
+  <keys prop="Name" type="item" key="SB_2_0_0054" value="Bênção de Deus 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0054" value="Leia esse livro para aprender Bênção de Deus nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0055" value="Bênção de Deus 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0055" value="Leia esse livro para aprender Bênção de Deus nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0056" value="Bênção de Deus 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0056" value="Leia esse livro para aprender Bênção de Deus nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0057" value="Bênção de Deus 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0057" value="Leia esse livro para aprender Bênção de Deus nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0058" value="Aglomerado de Estrelas 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0058" value="Leia esse livro para aprender Aglomerado de Estrelas nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0059" value="Aglomerado de Estrelas 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0059" value="Leia esse livro para aprender Aglomerado de Estrelas nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0060" value="Aglomerado de Estrelas 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0060" value="Leia esse livro para aprender Aglomerado de Estrelas nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0061" value="Aglomerado de Estrelas 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0061" value="Leia esse livro para aprender Aglomerado de Estrelas nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0062" value="Aglomerado de Estrelas 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0062" value="Leia esse livro para aprender Aglomerado de Estrelas nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0063" value="Aglomerado de Estrelas 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0063" value="Leia esse livro para aprender Aglomerado de Estrelas nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0064" value="Aglomerado de Estrelas 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0064" value="Leia esse livro para aprender Aglomerado de Estrelas nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0065" value="Proteção Divina 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0065" value="Leia esse livro para aprender Proteção Divina nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0066" value="Proteção Divina 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0066" value="Leia esse livro para aprender Proteção Divina nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0067" value="Proteção Divina 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0067" value="Leia esse livro para aprender Proteção Divina nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0068" value="Proteção Divina 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0068" value="Leia esse livro para aprender Proteção Divina nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0069" value="Barreira de Vida 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0069" value="Leia esse livro para aprender Barreira de Vida nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0070" value="Barreira de Vida 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0070" value="Leia esse livro para aprender Barreira de Vida nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0071" value="Barreira de Vida 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0071" value="Leia esse livro para aprender Barreira de Vida nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0072" value="Barreira de Vida 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0072" value="Leia esse livro para aprender Barreira de Vida nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0073" value="Barreira de Vida 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0073" value="Leia esse livro para aprender Barreira de Vida nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0074" value="Barreira de Vida 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0074" value="Leia esse livro para aprender Barreira de Vida nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0075" value="Barreira de Vida 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0075" value="Leia esse livro para aprender Barreira de Vida nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0076" value="Oração Abençoada 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0076" value="Leia esse livro para aprender Oração Abençoada nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0077" value="Oração Abençoada 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0077" value="Leia esse livro para aprender Oração Abençoada nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0078" value="Oração Abençoada 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0078" value="Leia esse livro para aprender Oração Abençoada nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0079" value="Oração Abençoada 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0079" value="Leia esse livro para aprender Oração Abençoada nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0080" value="Oração Abençoada 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0080" value="Leia esse livro para aprender Oração Abençoada nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0081" value="Ressurreição 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0081" value="Leia esse livro para aprender Ressurreição nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0082" value="Ressurreição 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0082" value="Leia esse livro para aprender Ressurreição nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0083" value="Ressurreição 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0083" value="Leia esse livro para aprender Ressurreição nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0084" value="Ressurreição 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0084" value="Leia esse livro para aprender Ressurreição nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0085" value="Ressurreição 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0085" value="Leia esse livro para aprender Ressurreição nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0086" value="Vontade Forte 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0086" value="Leia esse livro para aprender Vontade Forte nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0087" value="Vontade Forte 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0087" value="Leia esse livro para aprender Vontade Forte nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0088" value="Vontade Forte 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0088" value="Leia esse livro para aprender Vontade Forte nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0089" value="Vontade Forte 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0089" value="Leia esse livro para aprender Vontade Forte nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0090" value="Telecinese 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0090" value="Leia esse livro para aprender Telecinese nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0091" value="Telecinese 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0091" value="Leia esse livro para aprender Telecinese nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0092" value="Telecinese 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0092" value="Leia esse livro para aprender Telecinese nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0093" value="Telecinese 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0093" value="Leia esse livro para aprender Telecinese nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0094" value="Telecinese 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0094" value="Leia esse livro para aprender Telecinese nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0095" value="Telecinese 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0095" value="Leia esse livro para aprender Telecinese nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0096" value="Telecinese 7" />
+  <keys prop="Description" type="item" key="SB_2_0_0096" value="Leia esse livro para aprender Telecinese nível 7." />
+  <keys prop="Name" type="item" key="SB_2_0_0097" value="Queimadura Estelar 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0097" value="Leia esse livro para aprender Queimadura Estelar nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0098" value="Queimadura Estelar 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0098" value="Leia esse livro para aprender Queimadura Estelar nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0099" value="Queimadura Estelar 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0099" value="Leia esse livro para aprender Queimadura Estelar nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0100" value="Buraco Negro 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0100" value="Leia esse livro para aprender Buraco Negro nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0101" value="Buraco Negro 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0101" value="Leia esse livro para aprender Buraco Negro nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0102" value="Buraco Negro 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0102" value="Leia esse livro para aprender Buraco Negro nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0103" value="Buraco Negro 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0103" value="Leia esse livro para aprender Buraco Negro nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0104" value="Unidos na Fé 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0104" value="Leia esse livro para aprender Unidos na Fé nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0105" value="Unidos na Fé 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0105" value="Leia esse livro para aprender Unidos na Fé nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0106" value="Unidos na Fé 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0106" value="Leia esse livro para aprender Unidos na Fé nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0107" value="Unidos na Fé 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0107" value="Leia esse livro para aprender Unidos na Fé nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0108" value="Unidos na Fé 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0108" value="Leia esse livro para aprender Unidos na Fé nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0109" value="Unidos na Fé 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0109" value="Leia esse livro para aprender Unidos na Fé nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0110" value="Aumento de Determinação 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0110" value="Leia esse livro para aprender Aumento de Determinação nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0111" value="Aumento de Determinação 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0111" value="Leia esse livro para aprender Aumento de Determinação nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0112" value="Aumento de Determinação 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0112" value="Leia esse livro para aprender Aumento de Determinação nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0113" value="Aumento de Determinação 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0113" value="Leia esse livro para aprender Aumento de Determinação nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0114" value="Aumento de Determinação 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0114" value="Leia esse livro para aprender Aumento de Determinação nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0115" value="Aumento de Determinação 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0115" value="Leia esse livro para aprender Aumento de Determinação nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0116" value="Espírito Maligno de Fúria 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0116" value="Leia esse livro para aprender Espírito Maligno de Fúria nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0117" value="Espírito Maligno de Fúria 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0117" value="Leia esse livro para aprender Espírito Maligno de Fúria nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0118" value="Espírito Maligno de Fúria 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0118" value="Leia esse livro para aprender Espírito Maligno de Fúria nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0119" value="Espírito Maligno de Fúria 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0119" value="Leia esse livro para aprender Espírito Maligno de Fúria nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0120" value="Espírito Maligno de Fúria 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0120" value="Leia esse livro para aprender Espírito Maligno de Fúria nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0121" value="Espírito Maligno de Fúria 6" />
+  <keys prop="Description" type="item" key="SB_2_0_0121" value="Leia esse livro para aprender Espírito Maligno de Fúria nível 6." />
+  <keys prop="Name" type="item" key="SB_2_0_0125" value="Barreira Curva 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0125" value="Leia esse livro para aprender Barreira Curva nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0126" value="Barreira Curva 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0126" value="Leia esse livro para aprender Barreira Curva nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0127" value="Barreira Curva 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0127" value="Leia esse livro para aprender Barreira Curva nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0128" value="Barreira Curva 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0128" value="Leia esse livro para aprender Barreira Curva nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0129" value="Julgamento Estrondoso 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0129" value="Leia esse livro para aprender Julgamento Estrondoso nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0130" value="Julgamento Estrondoso 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0130" value="Leia esse livro para aprender Julgamento Estrondoso nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0131" value="Julgamento Estrondoso 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0131" value="Leia esse livro para aprender Julgamento Estrondoso nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0132" value="Sol Sagrado 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0132" value="Leia esse livro para aprender Sol Sagrado nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0133" value="Sol Sagrado 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0133" value="Leia esse livro para aprender Sol Sagrado nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0134" value="Sol Sagrado 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0134" value="Leia esse livro para aprender Sol Sagrado nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0135" value="Sol Sagrado 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0135" value="Leia esse livro para aprender Sol Sagrado nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0136" value="Sol Sagrado 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0136" value="Leia esse livro para aprender Sol Sagrado nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0138" value="Queda Explosiva 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0138" value="Leia esse livro para aprender Queda Explosiva nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0139" value="Queda Explosiva 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0139" value="Leia esse livro para aprender Queda Explosiva nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0140" value="Queda Explosiva 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0140" value="Leia esse livro para aprender Queda Explosiva nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0141" value="Queda Explosiva 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0141" value="Leia esse livro para aprender Queda Explosiva nível 4." />
+  <keys prop="Name" type="item" key="SB_2_0_0142" value="Queda Explosiva 5" />
+  <keys prop="Description" type="item" key="SB_2_0_0142" value="Leia esse livro para aprender Queda Explosiva nível 5." />
+  <keys prop="Name" type="item" key="SB_2_0_0143" value="Medo 1" />
+  <keys prop="Description" type="item" key="SB_2_0_0143" value="Leia esse livro para aprender Medo nível 1." />
+  <keys prop="Name" type="item" key="SB_2_0_0144" value="Medo 2" />
+  <keys prop="Description" type="item" key="SB_2_0_0144" value="Leia esse livro para aprender Medo nível 2." />
+  <keys prop="Name" type="item" key="SB_2_0_0145" value="Medo 3" />
+  <keys prop="Description" type="item" key="SB_2_0_0145" value="Leia esse livro para aprender Medo nível 3." />
+  <keys prop="Name" type="item" key="SB_2_0_0146" value="Medo 4" />
+  <keys prop="Description" type="item" key="SB_2_0_0146" value="Leia esse livro para aprender Medo nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0000" value="Estocada Dupla 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0000" value="Leia esse livro para aprender Estocada Dupla nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0001" value="Estocada Dupla 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0001" value="Leia esse livro para aprender Estocada Dupla nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0002" value="Estocada Dupla 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0002" value="Leia esse livro para aprender Estocada Dupla nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0003" value="Estocada Dupla 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0003" value="Leia esse livro para aprender Estocada Dupla nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0004" value="Estocada Dupla 5" />
+  <keys prop="Description" type="item" key="SB_4_0_0004" value="Leia esse livro para aprender Estocada Dupla nível 5." />
+  <keys prop="Name" type="item" key="SB_4_0_0005" value="Estocada Dupla 6" />
+  <keys prop="Description" type="item" key="SB_4_0_0005" value="Leia esse livro para aprender Estocada Dupla nível 6." />
+  <keys prop="Name" type="item" key="SB_4_0_0006" value="Estocada Dupla 7" />
+  <keys prop="Description" type="item" key="SB_4_0_0006" value="Leia esse livro para aprender Estocada Dupla nível 7." />
+  <keys prop="Name" type="item" key="SB_4_0_0007" value="Estocada Dupla 8" />
+  <keys prop="Description" type="item" key="SB_4_0_0007" value="Leia esse livro para aprender Estocada Dupla nível 8." />
+  <keys prop="Name" type="item" key="SB_4_0_0008" value="Estocada Dupla 9" />
+  <keys prop="Description" type="item" key="SB_4_0_0008" value="Leia esse livro para aprender Estocada Dupla nível 9." />
+  <keys prop="Name" type="item" key="SB_4_0_0009" value="Golpe Por Trás 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0009" value="Leia esse livro para aprender Golpe Por Trás nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0010" value="Golpe Por Trás 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0010" value="Leia esse livro para aprender Golpe Por Trás nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0011" value="Golpe Por Trás 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0011" value="Leia esse livro para aprender Golpe Por Trás nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0012" value="Golpe Por Trás 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0012" value="Leia esse livro para aprender Golpe Por Trás nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0013" value="Golpe Por Trás 5" />
+  <keys prop="Description" type="item" key="SB_4_0_0013" value="Leia esse livro para aprender Golpe Por Trás nível 5." />
+  <keys prop="Name" type="item" key="SB_4_0_0014" value="Golpe Por Trás 6" />
+  <keys prop="Description" type="item" key="SB_4_0_0014" value="Leia esse livro para aprender Golpe Por Trás nível 6." />
+  <keys prop="Name" type="item" key="SB_4_0_0015" value="Golpe Por Trás 7" />
+  <keys prop="Description" type="item" key="SB_4_0_0015" value="Leia esse livro para aprender Golpe Por Trás nível 7." />
+  <keys prop="Name" type="item" key="SB_4_0_0016" value="Golpe Por Trás 8" />
+  <keys prop="Description" type="item" key="SB_4_0_0016" value="Leia esse livro para aprender Golpe Por Trás nível 8." />
+  <keys prop="Name" type="item" key="SB_4_0_0030" value="Miragem 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0030" value="Leia esse livro para aprender Miragem nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0031" value="Miragem 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0031" value="Leia esse livro para aprender Miragem nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0032" value="Miragem 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0032" value="Leia esse livro para aprender Miragem nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0033" value="Miragem 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0033" value="Leia esse livro para aprender Miragem nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0034" value="Miragem 5" />
+  <keys prop="Description" type="item" key="SB_4_0_0034" value="Leia esse livro para aprender Miragem nível 5." />
+  <keys prop="Name" type="item" key="SB_4_0_0035" value="Estocada 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0035" value="Leia esse livro para aprender Estocada nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0036" value="Estocada 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0036" value="Leia esse livro para aprender Estocada nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0037" value="Estocada 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0037" value="Leia esse livro para aprender Estocada nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0038" value="Estocada 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0038" value="Leia esse livro para aprender Estocada nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0039" value="Estocada 5" />
+  <keys prop="Description" type="item" key="SB_4_0_0039" value="Leia esse livro para aprender Estocada nível 5." />
+  <keys prop="Name" type="item" key="SB_4_0_0040" value="Estocada 6" />
+  <keys prop="Description" type="item" key="SB_4_0_0040" value="Leia esse livro para aprender Estocada nível 6." />
+  <keys prop="Name" type="item" key="SB_4_0_0041" value="Estocada 7" />
+  <keys prop="Description" type="item" key="SB_4_0_0041" value="Leia esse livro para aprender Estocada nível 7." />
+  <keys prop="Name" type="item" key="SB_4_0_0042" value="Estocada 8" />
+  <keys prop="Description" type="item" key="SB_4_0_0042" value="Leia esse livro para aprender Estocada nível 8." />
+  <keys prop="Name" type="item" key="SB_4_0_0059" value="Arrancada 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0059" value="Leia esse livro para aprender Arrancada nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0060" value="Arrancada 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0060" value="Leia esse livro para aprender Arrancada nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0061" value="Arrancada 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0061" value="Leia esse livro para aprender Arrancada nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0062" value="Arrancada 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0062" value="Leia esse livro para aprender Arrancada nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0076" value="Sombra Rodopiante 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0076" value="Leia esse livro para aprender Perecer Sombrio nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0077" value="Sombra Rodopiante 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0077" value="Leia esse livro para aprender Perecer Sombrio nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0078" value="Sombra Rodopiante 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0078" value="Leia esse livro para aprender Perecer Sombrio nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0079" value="Sombra Rodopiante 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0079" value="Leia esse livro para aprender Perecer Sombrio nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0080" value="Sombra Rodopiante 5" />
+  <keys prop="Description" type="item" key="SB_4_0_0080" value="Leia esse livro para aprender Perecer Sombrio nível 5." />
+  <keys prop="Name" type="item" key="SB_4_0_0085" value="Amnésia 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0085" value="Leia esse livro para aprender Amnésia nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0086" value="Amnésia 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0086" value="Leia esse livro para aprender Amnésia nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0087" value="Amnésia 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0087" value="Leia esse livro para aprender Amnésia nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0088" value="Amnésia 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0088" value="Leia esse livro para aprender Amnésia nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0128" value="Golpe Baixo 1" />
+  <keys prop="Description" type="item" key="SB_4_0_0128" value="Leia esse livro para aprender Golpe Baixo nível 1." />
+  <keys prop="Name" type="item" key="SB_4_0_0129" value="Golpe Baixo 2" />
+  <keys prop="Description" type="item" key="SB_4_0_0129" value="Leia esse livro para aprender Golpe Baixo nível 2." />
+  <keys prop="Name" type="item" key="SB_4_0_0130" value="Golpe Baixo 3" />
+  <keys prop="Description" type="item" key="SB_4_0_0130" value="Leia esse livro para aprender Golpe Baixo nível 3." />
+  <keys prop="Name" type="item" key="SB_4_0_0131" value="Golpe Baixo 4" />
+  <keys prop="Description" type="item" key="SB_4_0_0131" value="Leia esse livro para aprender Golpe Baixo nível 4." />
+  <keys prop="Name" type="item" key="SB_4_0_0132" value="Golpe Baixo 5" />
+  <keys prop="Description" type="item" key="SB_4_0_0132" value="Leia esse livro para aprender Golpe Baixo nível 5." />
+  <keys prop="Name" type="item" key="SB_4_0_0133" value="Golpe Baixo 6" />
+  <keys prop="Description" type="item" key="SB_4_0_0133" value="Leia esse livro para aprender Golpe Baixo nível 6." />
+  <keys prop="Name" type="item" key="SB_4_0_0134" value="Golpe Baixo 7" />
+  <keys prop="Description" type="item" key="SB_4_0_0134" value="Leia esse livro para aprender Golpe Baixo nível 7." />
+  <keys prop="Name" type="item" key="SB_4_0_0135" value="Golpe Baixo 8" />
+  <keys prop="Description" type="item" key="SB_4_0_0135" value="Leia esse livro para aprender Golpe Baixo nível 8." />
+  <keys prop="Name" type="item" key="SB_0_0_0001" value="Domando" />
+  <keys prop="Description" type="item" key="SB_0_0_0001" value="Leia esse livro para aprender Doma." />
+  <keys prop="Name" type="item" key="SB_0_0_0011" value="Fogo Rápido" />
+  <keys prop="Description" type="item" key="SB_0_0_0011" value="Leia esse livro para aprender a habilidade de besta em montaria, Fogo Rápido." />
+  <keys prop="Name" type="item" key="SB_0_0_0012" value="Fogo Rápido" />
+  <keys prop="Description" type="item" key="SB_0_0_0012" value="Leia esse livro para aprender a habilidade de besta em montaria, Fogo Rápido." />
+  <keys prop="Name" type="item" key="SB_0_0_0013" value="Fogo Rápido" />
+  <keys prop="Description" type="item" key="SB_0_0_0013" value="Leia esse livro para aprender a habilidade de besta em montaria, Fogo Rápido." />
+  <keys prop="Name" type="item" key="SB_0_0_0014" value="Fogo Rápido" />
+  <keys prop="Description" type="item" key="SB_0_0_0014" value="Leia esse livro para aprender a habilidade de besta em montaria, Fogo Rápido." />
+  <keys prop="Name" type="item" key="SB_9_0_0001" value="Corte Severo" />
+  <keys prop="Description" type="item" key="SB_9_0_0001" value="Leia esse livro para aprender a habilidade de lança em montaria, Corte Severo." />
+  <keys prop="Name" type="item" key="SB_10_0_0001" value="Tiro no Tornozelo" />
+  <keys prop="Description" type="item" key="SB_10_0_0001" value="Leia esse livro para aprender a habilidade de besta em montaria, Tiro no Tornozelo." />
+  <keys prop="Name" type="item" key="SB_10_0_0002" value="Tiro Certeiro" />
+  <keys prop="Description" type="item" key="SB_10_0_0002" value="Leia esse livro para aprender a habilidade de besta em montaria, Tiro Certeiro." />
+  <keys prop="Name" type="item" key="SB_0_0_0021" value="Controle Mental (Berserker)" />
+  <keys prop="Description" type="item" key="SB_0_0_0021" value="Leia esse livro para aprender a habilidade Controle Mental. Apenas Berserker." />
+  <keys prop="Name" type="item" key="SB_11_0_0001" value="[Livro de Habilidade] Vontade Forte" />
+  <keys prop="Name" type="item" key="SB_12_0_0001" value="[Livro de Habilidade] Superioridade Física" />
+  <keys prop="Name" type="item" key="SB_13_0_0001" value="[Livro de Habilidade] Adaga Viva" />
+  <keys prop="Name" type="item" key="SB_14_0_0001" value="[Livro de Habilidade] Introspecção" />
+  <keys prop="Name" type="item" key="SB_15_0_0001" value="[Livro de Habilidade] Amplificação Mágica" />
+  <keys prop="Name" type="item" key="SB_11_0_0002" value="[Livro de Habilidade] Aura Encurralada" />
+  <keys prop="Name" type="item" key="SB_12_0_0002" value="[Livro de Habilidade] Armadura Sólida" />
+  <keys prop="Name" type="item" key="SB_13_0_0002" value="[Livro de Habilidade] Movimento Cauteloso" />
+  <keys prop="Name" type="item" key="SB_14_0_0002" value="[Livro de Habilidade] Glória Sacrificial" />
+  <keys prop="Name" type="item" key="SB_15_0_0002" value="[Livro de Habilidade] Concentração Intensa" />
+  <keys prop="Description" type="item" key="SB_11_0_0001" value="Leia esse livro para aprender uma habilidade oculta de berserker.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_12_0_0001" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_13_0_0001" value="Leia esse livro para aprender uma habilidade oculta de assassino.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_14_0_0001" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_15_0_0001" value="Leia esse livro para aprender uma habilidade oculta de feiticeiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_11_0_0002" value="Leia esse livro para aprender uma habilidade oculta de berserker.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_12_0_0002" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_13_0_0002" value="Leia esse livro para aprender uma habilidade oculta de assassino.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_14_0_0002" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_15_0_0002" value="Leia esse livro para aprender uma habilidade oculta de feiticeiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Name" type="item" key="SB_12_0_0003" value="[Livro de Habilidade] Escudo da Verdade" />
+  <keys prop="Name" type="item" key="SB_14_0_0003" value="[Livro de Habilidade] Oração Final" />
+  <keys prop="Description" type="item" key="SB_12_0_0003" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_14_0_0003" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Name" type="item" key="SB_11_0_0004" value="[Livro de Habilidade] Olhar Ardente" />
+  <keys prop="Name" type="item" key="SB_12_0_0004" value="[Livro de Habilidade] Condicionamento Impecável" />
+  <keys prop="Name" type="item" key="SB_13_0_0004" value="[Livro de Habilidade] Adaga Afiada" />
+  <keys prop="Name" type="item" key="SB_14_0_0004" value="[Livro de Habilidade] Sabedoria Sem Limites" />
+  <keys prop="Name" type="item" key="SB_15_0_0004" value="[Livro de Habilidade] Afinidade Espiritual" />
+  <keys prop="Description" type="item" key="SB_11_0_0004" value="Leia esse livro para aprender uma habilidade oculta de berserker.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_12_0_0004" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_13_0_0004" value="Leia esse livro para aprender uma habilidade oculta de assassino.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_14_0_0004" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_15_0_0004" value="Leia esse livro para aprender uma habilidade oculta de feiticeiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Name" type="item" key="SB_11_0_0005" value="[Livro de Habilidade] Glória à Lâmina" />
+  <keys prop="Name" type="item" key="SB_12_0_0005" value="[Livro de Habilidade] Orgulho e Glória" />
+  <keys prop="Name" type="item" key="SB_13_0_0005" value="[Livro de Habilidade] Coragem Mortal" />
+  <keys prop="Name" type="item" key="SB_14_0_0005" value="[Livro de Habilidade] Glória Acima" />
+  <keys prop="Name" type="item" key="SB_15_0_0005" value="[Livro de Habilidade] Glória do Feiticeiro" />
+  <keys prop="Description" type="item" key="SB_11_0_0005" value="Leia esse livro para aprender uma habilidade oculta de berserker.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_12_0_0005" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_13_0_0005" value="Leia esse livro para aprender uma habilidade oculta de assassino.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_14_0_0005" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_15_0_0005" value="Leia esse livro para aprender uma habilidade oculta de feiticeiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Name" type="item" key="SB_11_0_0006" value="[Livro de Habilidade] Golpe Aprimorado" />
+  <keys prop="Name" type="item" key="SB_12_0_0006" value="[Livro de Habilidade] Presença Imponente" />
+  <keys prop="Name" type="item" key="SB_13_0_0006" value="[Livro de Habilidade] Flexibilidade" />
+  <keys prop="Name" type="item" key="SB_14_0_0006" value="[Livro de Habilidade] Unidos na Fé" />
+  <keys prop="Name" type="item" key="SB_15_0_0006" value="[Livro de Habilidade] Zona de Afinidade" />
+  <keys prop="Description" type="item" key="SB_11_0_0006" value="Leia esse livro para aprender uma habilidade oculta de berserker.br&gt;br&gt;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_12_0_0006" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_13_0_0006" value="Leia esse livro para aprender uma habilidade oculta de assassino.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_14_0_0006" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_15_0_0006" value="Leia esse livro para aprender uma habilidade oculta de feiticeiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Name" type="item" key="SB_0_0_0002" value="[Livro de Habilidade] Ápice do Cavaleiro" />
+  <keys prop="Description" type="item" key="SB_0_0_0002" value="G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Name" type="item" key="SB_16_0_0001" value="[Livro de Habilidade] Avanço da Ruína" />
+  <keys prop="Name" type="item" key="SB_16_0_0002" value="[Livro de Habilidade] Talento Natural" />
+  <keys prop="Name" type="item" key="SB_16_0_0004" value="[Livro de Habilidade] Descendente da Ruína" />
+  <keys prop="Name" type="item" key="SB_16_0_0005" value="[Livro de Habilidade] Triunfo do Arqueiro" />
+  <keys prop="Name" type="item" key="SB_16_0_0006" value="[Livro de Habilidade] Devoto do Corvo" />
+  <keys prop="Description" type="item" key="SB_16_0_0001" value="Leia esse livro para aprender uma habilidade oculta de arqueiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_16_0_0002" value="Leia esse livro para aprender uma habilidade oculta de arqueiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_16_0_0004" value="Leia esse livro para aprender uma habilidade oculta de arqueiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_16_0_0005" value="Leia esse livro para aprender uma habilidade oculta de arqueiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_16_0_0006" value="Leia esse livro para aprender uma habilidade oculta de arqueiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Name" type="item" key="SB_11_0_0007" value="[Berserker] Selvageria Sem Limites" />
+  <keys prop="Name" type="item" key="SB_12_0_0007" value="[Guardian] Alma da Lâmina" />
+  <keys prop="Name" type="item" key="SB_13_0_0007" value="[Assassin] Paliçada Sangrenta" />
+  <keys prop="Name" type="item" key="SB_14_0_0007" value="[Priest] Alma de Magia" />
+  <keys prop="Name" type="item" key="SB_15_0_0007" value="[Wizard] Luz e Sombra" />
+  <keys prop="Name" type="item" key="SB_16_0_0007" value="[Ranger] Domínio" />
+  <keys prop="Description" type="item" key="SB_11_0_0007" value="Beba esta poção para abrir sua mente para uma habilidade oculta de Berserker.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com o botão direito do mouse/G_Y&gt; para adicionar Y_Y&gt;Selvageria Sem Limites/Y_Y&gt; a sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_12_0_0007" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_13_0_0007" value="Leia esse livro para aprender uma habilidade oculta de assassino.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_14_0_0007" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_15_0_0007" value="Leia esse livro para aprender uma habilidade oculta de feiticeiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_16_0_0007" value="Leia esse livro para aprender uma habilidade oculta de arqueiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Name" type="item" key="SB_11_0_0008" value="Livro de Habilidade: [Awakened] Determinação de Ferro" />
+  <keys prop="Name" type="item" key="SB_12_0_0008" value="Livro de Habilidade: [Awakened] Autoridade Leal" />
+  <keys prop="Name" type="item" key="SB_13_0_0008" value="Livro de Habilidade: [Awakened] Sombra de Koroshimo" />
+  <keys prop="Name" type="item" key="SB_14_0_0008" value="Livro de Habilidade: [Awakened] Vento de Ellora" />
+  <keys prop="Name" type="item" key="SB_15_0_0008" value="Livro de Habilidade: [Awakened] Afinidade Espiritual" />
+  <keys prop="Name" type="item" key="SB_16_0_0008" value="Livro de Habilidade: [Awakened] Mestre do Caos" />
+  <keys prop="Description" type="item" key="SB_11_0_0008" value="Leia esse livro para aprender uma habilidade oculta de berserker.br&gt;br&gt;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_12_0_0008" value="É um livro místico que pode ensinar as habilidades ocultas de um Berserker.&#xD;&#xA;&#xD;&#xA; - G_Y&gt;[Clique com o botão direito do mouse]/G_Y&gt; para aprender a habilidade.&#xD;&#xA; - A habilidade aprendida pode ser vista na janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_13_0_0008" value="Leia esse livro para aprender uma habilidade oculta de assassino.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_14_0_0008" value="Leia esse livro para aprender uma habilidade oculta de sacerdote.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_15_0_0008" value="Leia esse livro para aprender uma habilidade oculta de feiticeiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_16_0_0008" value="Leia esse livro para aprender uma habilidade oculta de arqueiro.&#xD;&#xA;&#xD;&#xA;G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Name" type="item" key="SB_17_0_0001" value="[Skill Book] Crossbow Attack" />
+  <keys prop="Name" type="item" key="SB_17_0_0002" value="[Skill Book] Lance Attack" />
+  <keys prop="Name" type="item" key="SB_17_0_0004" value="Double Strike" />
+  <keys prop="Name" type="item" key="SB_17_0_0005" value="[Skill Book] Trickster Disguise" />
+  <keys prop="Name" type="item" key="SB_17_0_0006" value="[Skill Book] Starry Festival" />
+  <keys prop="Name" type="item" key="SB_17_0_0007" value="[Trickster] Radiance" />
+  <keys prop="Name" type="item" key="SB_17_0_0008" value="Skillbook: [Awakened] Virtuous Spirit" />
+  <keys prop="Description" type="item" key="SB_17_0_0001" value="G_Y&gt;Clique com botão direito/G_Y&gt; para adicionar a habilidade em sua janela de habilidades. " />
+  <keys prop="Description" type="item" key="SB_17_0_0002" value="G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_17_0_0004" value="G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_17_0_0005" value="Read this book to learn a hidden trickster skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_17_0_0006" value="Read this book to learn a hidden trickster skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_17_0_0007" value="Drinking this potion will allow you to use a hidden trickster skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add Y_Y&gt;Radiance/Y_Y&gt; to your skills window." />
+  <keys prop="Description" type="item" key="SB_17_0_0008" value="Read this book to learn a hidden trickster skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Name" type="item" key="SB_12_0_6301" value="[Guardian] Bastião Primitivo (Nível 1)" />
+  <keys prop="Name" type="item" key="SB_12_0_6302" value="[Guardian] Bastião Primitivo (Nível 2)" />
+  <keys prop="Name" type="item" key="SB_12_0_6303" value="[Guardian] Bastião Primitivo (Nível 3)" />
+  <keys prop="Name" type="item" key="SB_12_0_6304" value="[Guardian] Bastião Primitivo (Nível 4)" />
+  <keys prop="Name" type="item" key="SB_12_0_6305" value="[Guardian] Bastião Primitivo (Nível 5)" />
+  <keys prop="Name" type="item" key="SB_12_0_6306" value="[Guardian] Bastião Primitivo (Nível 6)" />
+  <keys prop="Name" type="item" key="SB_12_0_6307" value="[Guardian] Bastião Primitivo (Nível 7)" />
+  <keys prop="Name" type="item" key="SB_12_0_6308" value="[Guardian] Bastião Primitivo (Nível 8)" />
+  <keys prop="Name" type="item" key="SB_12_0_6309" value="[Guardian] Bastião Primitivo (Nível 9)" />
+  <keys prop="Name" type="item" key="SB_12_0_6310" value="[Guardian] Bastião Primitivo (Nível 10)" />
+  <keys prop="Name" type="item" key="SB_11_0_6301" value="[Berserker] Espada Primitiva (Nível 1)" />
+  <keys prop="Name" type="item" key="SB_11_0_6302" value="[Berserker] Espada Primitiva (Nível 2)" />
+  <keys prop="Name" type="item" key="SB_11_0_6303" value="[Berserker] Feitiço Primitivo (Nível 3)" />
+  <keys prop="Name" type="item" key="SB_11_0_6304" value="[Berserker] Espada Primitiva (Nível 4)" />
+  <keys prop="Name" type="item" key="SB_11_0_6305" value="[Berserker] Espada Primitiva (Nível 5)" />
+  <keys prop="Name" type="item" key="SB_11_0_6306" value="[Berserker] Espada Primitiva (Nível 6)" />
+  <keys prop="Name" type="item" key="SB_11_0_6307" value="[Berserker] Espada Primitiva (Nível 7)" />
+  <keys prop="Name" type="item" key="SB_11_0_6308" value="[Berserker] Espada Primitiva (Nível 8)" />
+  <keys prop="Name" type="item" key="SB_11_0_6309" value="[Berserker] Espada Primitiva (Nível 9)" />
+  <keys prop="Name" type="item" key="SB_11_0_6310" value="[Berserker] Espada Primitiva (Nível 10)" />
+  <keys prop="Name" type="item" key="SB_13_0_6301" value="[Assassin] Solidão Primitiva (Nível 1)" />
+  <keys prop="Name" type="item" key="SB_13_0_6302" value="[Assassin] Solidão Primitiva (Nível 2)" />
+  <keys prop="Name" type="item" key="SB_13_0_6303" value="[Assassin] Solidão Primitiva (Nível 3)" />
+  <keys prop="Name" type="item" key="SB_13_0_6304" value="[Assassin] Solidão Primitiva (Nível 4)" />
+  <keys prop="Name" type="item" key="SB_13_0_6305" value="[Assassin] Solidão Primitiva (Nível 5)" />
+  <keys prop="Name" type="item" key="SB_13_0_6306" value="[Assassin] Solidão Primitiva (Nível 6)" />
+  <keys prop="Name" type="item" key="SB_13_0_6307" value="[Assassin] Solidão Primitiva (Nível 7)" />
+  <keys prop="Name" type="item" key="SB_13_0_6308" value="[Assassin] Solidão Primitiva (Nível 8)" />
+  <keys prop="Name" type="item" key="SB_13_0_6309" value="[Assassin] Solidão Primitiva (Nível 9)" />
+  <keys prop="Name" type="item" key="SB_13_0_6310" value="[Assassin] Solidão Primitiva (Nível 10)" />
+  <keys prop="Name" type="item" key="SB_14_0_6301" value="[Priest] Divindade Primitiva (Nível 1)" />
+  <keys prop="Name" type="item" key="SB_14_0_6302" value="[Priest] Divindade Primitiva (Nível 2)" />
+  <keys prop="Name" type="item" key="SB_14_0_6303" value="[Priest] Divindade Primitiva (Nível 3)" />
+  <keys prop="Name" type="item" key="SB_14_0_6304" value="[Priest] Divindade Primitiva (Nível 4)" />
+  <keys prop="Name" type="item" key="SB_14_0_6305" value="[Priest] Divindade Primitiva (Nível 5)" />
+  <keys prop="Name" type="item" key="SB_14_0_6306" value="[Priest] Divindade Primitiva (Nível 6)" />
+  <keys prop="Name" type="item" key="SB_14_0_6307" value="[Priest] Divindade Primitiva (Nível 7)" />
+  <keys prop="Name" type="item" key="SB_14_0_6308" value="[Priest] Divindade Primitiva (Nível 8)" />
+  <keys prop="Name" type="item" key="SB_14_0_6309" value="[Priest] Divindade Primitiva (Nível 9)" />
+  <keys prop="Name" type="item" key="SB_14_0_6310" value="[Priest] Divindade Primitiva (Nível 10)" />
+  <keys prop="Name" type="item" key="SB_15_0_6301" value="[Wizard] Feitiço Primitivo (Nível 1)" />
+  <keys prop="Name" type="item" key="SB_15_0_6302" value="[Wizard] Feitiço Primitivo (Nível 2)" />
+  <keys prop="Name" type="item" key="SB_15_0_6303" value="[Wizard] Feitiço Primitivo (Nível 3)" />
+  <keys prop="Name" type="item" key="SB_15_0_6304" value="[Wizard] Feitiço Primitivo (Nível 4)" />
+  <keys prop="Name" type="item" key="SB_15_0_6305" value="[Wizard] Feitiço Primitivo (Nível 5)" />
+  <keys prop="Name" type="item" key="SB_15_0_6306" value="[Wizard] Feitiço Primitivo (Nível 6)" />
+  <keys prop="Name" type="item" key="SB_15_0_6307" value="[Wizard] Feitiço Primitivo (Nível 7)" />
+  <keys prop="Name" type="item" key="SB_15_0_6308" value="[Wizard] Feitiço Primitivo (Nível 8)" />
+  <keys prop="Name" type="item" key="SB_15_0_6309" value="[Wizard] Feitiço Primitivo (Nível 9)" />
+  <keys prop="Name" type="item" key="SB_15_0_6310" value="[Wizard] Feitiço Primitivo (Nível 10)" />
+  <keys prop="Name" type="item" key="SB_16_0_6301" value="[Ranger] Caos Primitivo (Nível 1)" />
+  <keys prop="Name" type="item" key="SB_16_0_6302" value="[Ranger] Caos Primitivo (Nível 2)" />
+  <keys prop="Name" type="item" key="SB_16_0_6303" value="[Ranger] Caos Primitivo (Nível 3)" />
+  <keys prop="Name" type="item" key="SB_16_0_6304" value="[Ranger] Caos Primitivo (Nível 4)" />
+  <keys prop="Name" type="item" key="SB_16_0_6305" value="[Ranger] Caos Primitivo (Nível 5)" />
+  <keys prop="Name" type="item" key="SB_16_0_6306" value="[Ranger] Caos Primitivo (Nível 6)" />
+  <keys prop="Name" type="item" key="SB_16_0_6307" value="[Ranger] Caos Primitivo (Nível 7)" />
+  <keys prop="Name" type="item" key="SB_16_0_6308" value="[Ranger] Caos Primitivo (Nível 8)" />
+  <keys prop="Name" type="item" key="SB_16_0_6309" value="[Ranger] Caos Primitivo (Nível 9)" />
+  <keys prop="Name" type="item" key="SB_16_0_6310" value="[Ranger] Caos Primitivo (Nível 10)" />
+  <keys prop="Name" type="item" key="SB_17_0_6301" value="[Trickster] Primal Bliss (Lv. 1)" />
+  <keys prop="Name" type="item" key="SB_17_0_6302" value="[Trickster] Primal Bliss (Lv. 2)" />
+  <keys prop="Name" type="item" key="SB_17_0_6303" value="[Trickster] Primal Bliss (Lv. 3)" />
+  <keys prop="Name" type="item" key="SB_17_0_6304" value="[Trickster] Primal Bliss (Lv. 4)" />
+  <keys prop="Name" type="item" key="SB_17_0_6305" value="[Trickster] Primal Bliss (Lv. 5)" />
+  <keys prop="Name" type="item" key="SB_17_0_6306" value="[Trickster] Primal Bliss (Lv. 6)" />
+  <keys prop="Name" type="item" key="SB_17_0_6307" value="[Trickster] Primal Bliss (Lv. 7)" />
+  <keys prop="Name" type="item" key="SB_17_0_6308" value="[Trickster] Primal Bliss (Lv. 8)" />
+  <keys prop="Name" type="item" key="SB_17_0_6309" value="[Trickster] Primal Bliss (Lv. 9)" />
+  <keys prop="Name" type="item" key="SB_17_0_6310" value="[Trickster] Primal Bliss (Lv. 10)" />
+  <keys prop="Name" type="item" key="SB_12_0_6501" value="[Guardian] Resistência Primitiva" />
+  <keys prop="Name" type="item" key="SB_11_0_6501" value="[Berserker] Fúria Primitiva" />
+  <keys prop="Name" type="item" key="SB_13_0_6501" value="[Assassin] Adaga Primitiva" />
+  <keys prop="Name" type="item" key="SB_14_0_6501" value="[Priest] Luz Primitiva" />
+  <keys prop="Name" type="item" key="SB_15_0_6501" value="[Wizard] Elementos Primitivos" />
+  <keys prop="Name" type="item" key="SB_16_0_6501" value="[Ranger] Flecha Primitiva" />
+  <keys prop="Name" type="item" key="SB_17_0_6501" value="[Trickster] Primal Radiance" />
+  <keys prop="Description" type="item" key="SB_12_0_6301" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6302" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6303" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6304" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6305" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6306" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6307" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6308" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6309" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6310" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6301" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6302" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6303" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6304" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6305" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6306" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6307" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6308" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6309" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6310" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6301" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6302" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6303" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6304" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6305" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6306" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6307" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6308" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6309" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6310" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6301" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6302" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6303" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6304" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6305" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6306" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6307" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6308" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6309" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6310" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6301" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6302" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6303" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6304" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6305" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6306" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6307" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6308" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6309" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6310" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6301" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6302" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6303" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6304" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6305" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6306" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6307" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6308" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6309" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6310" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6301" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6302" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6303" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6304" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6305" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6306" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6307" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6308" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6309" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6310" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_12_0_6501" value="Read this mystical book to learn a hidden Guardian Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_11_0_6501" value="Read this mystical book to learn a hidden Berserker Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_13_0_6501" value="Read this mystical book to learn a hidden Assassin Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_14_0_6501" value="Read this mystical book to learn a hidden Priest Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_15_0_6501" value="Read this mystical book to learn a hidden Wizard Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_16_0_6501" value="Read this mystical book to learn a hidden Ranger Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_17_0_6501" value="Read this mystical book to learn a hidden Idol Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Name" type="item" key="SB_18_0_0001" value="[Skill Book] Evil Presence" />
+  <keys prop="Name" type="item" key="SB_18_0_0002" value="[Skill Book] Chaotic Focus" />
+  <keys prop="Name" type="item" key="SB_18_0_0003" value="[Skill Book] Suppressed Memory" />
+  <keys prop="Name" type="item" key="SB_18_0_0004" value="[Skill Book] Magician's Glory" />
+  <keys prop="Name" type="item" key="SB_18_0_0005" value="[Skill Book] Inner Touch" />
+  <keys prop="Name" type="item" key="SB_18_0_0006" value="[Skill Book] Magical Protection" />
+  <keys prop="Name" type="item" key="SB_18_0_0007" value="[Awakening] The Age of Evil" />
+  <keys prop="Name" type="item" key="SB_18_0_6301" value="[Magician] Inveja Primitiva (Nível 1)" />
+  <keys prop="Name" type="item" key="SB_18_0_6302" value="[Magician] Inveja Primitiva (Nível 2)" />
+  <keys prop="Name" type="item" key="SB_18_0_6303" value="[Magician] Inveja Primitiva (Nível 3)" />
+  <keys prop="Name" type="item" key="SB_18_0_6304" value="[Magician] Inveja Primitiva (Nível 4)" />
+  <keys prop="Name" type="item" key="SB_18_0_6305" value="[Magician] Inveja Primitiva (Nível 5)" />
+  <keys prop="Name" type="item" key="SB_18_0_6306" value="[Magician] Inveja Primitiva (Nível 6)" />
+  <keys prop="Name" type="item" key="SB_18_0_6307" value="[Magician] Inveja Primitiva (Nível 7)" />
+  <keys prop="Name" type="item" key="SB_18_0_6308" value="[Magician] Inveja Primitiva (Nível 8)" />
+  <keys prop="Name" type="item" key="SB_18_0_6309" value="[Magician] Inveja Primitiva (Nível 9)" />
+  <keys prop="Name" type="item" key="SB_18_0_6310" value="[Magician] Inveja Primitiva (Nível 10)" />
+  <keys prop="Name" type="item" key="SB_18_0_6501" value="[Magician] Deslocamento Primitivo" />
+  <keys prop="Description" type="item" key="SB_18_0_0001" value="Read this book to learn a hidden magician skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_18_0_0002" value="Read this book to learn a hidden magician skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_18_0_0003" value="Read this book to learn a hidden magician skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_18_0_0004" value="Read this book to learn a hidden magician skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_18_0_0005" value="Read this book to learn a hidden magician skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_18_0_0006" value="Read this book to learn a hidden magician skill.br&gt;br&gt;G_Y&gt;Right-click/G_Y&gt; to add the skill to your skills window. " />
+  <keys prop="Description" type="item" key="SB_18_0_0007" value="G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades." />
+  <keys prop="Description" type="item" key="SB_18_0_6301" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6302" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6303" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6304" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6305" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6306" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6307" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6308" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6309" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6310" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Description" type="item" key="SB_18_0_6501" value="Read this mystical book to learn a hidden Magician Skill.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; [Right click] /G_Y&gt; to learn the Skill.&#xD;&#xA;- Skills learned can be found in the Skill window." />
+  <keys prop="Name" type="item" key="SB_12_0_7001" value="[Guardião] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_12_0_7002" value="[Guardião] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_12_0_7003" value="[Guardião] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_12_0_7004" value="[Guardião] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_12_0_7005" value="[Guardião] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_11_0_7001" value="[Guerreiro] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_11_0_7002" value="[Guerreiro] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_11_0_7003" value="[Guerreiro] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_11_0_7004" value="[Guerreiro] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_11_0_7005" value="[Guerreiro] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_13_0_7001" value="[Assassino] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_13_0_7002" value="[Assassino] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_13_0_7003" value="[Assassino] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_13_0_7004" value="[Assassino] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_13_0_7005" value="[Assassino] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_15_0_7001" value="[Mago] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_15_0_7002" value="[Mago] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_15_0_7003" value="[Mago] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_15_0_7004" value="[Mago] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_15_0_7005" value="[Mago] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_14_0_7001" value="[Sacerdote] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_14_0_7002" value="[Sacerdote] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_14_0_7003" value="[Sacerdote] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_14_0_7004" value="[Sacerdote] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_14_0_7005" value="[Sacerdote] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_16_0_7001" value="[Ranger] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_16_0_7002" value="[Ranger] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_16_0_7003" value="[Ranger] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_16_0_7004" value="[Ranger] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_16_0_7005" value="[Ranger] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_17_0_7001" value="[Trickster] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_17_0_7002" value="[Trickster] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_17_0_7003" value="[Trickster] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_17_0_7004" value="[Trickster] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_17_0_7005" value="[Trickster] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Name" type="item" key="SB_18_0_7001" value="[Magician] Livro Secreto de Velzera (Lv1)" />
+  <keys prop="Name" type="item" key="SB_18_0_7002" value="[Magician] Livro Secreto de Velzera (Lv2)" />
+  <keys prop="Name" type="item" key="SB_18_0_7003" value="[Magician] Livro Secreto de Velzera (Lv3)" />
+  <keys prop="Name" type="item" key="SB_18_0_7004" value="[Magician] Livro Secreto de Velzera (Lv4)" />
+  <keys prop="Name" type="item" key="SB_18_0_7005" value="[Magician] Livro Secreto de Velzera (Lv5)" />
+  <keys prop="Description" type="item" key="SB_12_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_12_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_12_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_12_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_12_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_11_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_11_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_11_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_11_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_11_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_13_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_13_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_13_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_13_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_13_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_15_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_15_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_15_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_15_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_15_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_14_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_14_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_14_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_14_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_14_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_16_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_16_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_16_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_16_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_16_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_17_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_17_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_17_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_17_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_17_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_18_0_7001" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_18_0_7002" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_18_0_7003" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_18_0_7004" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
+  <keys prop="Description" type="item" key="SB_18_0_7005" value="Um livro misterioso onde você pode aprender sobre as habilidades secretas de Velzera.&#xD;&#xA;&#xD;&#xA;- G_Y&gt; Clique com o botão direito do mouse /G_Y&gt; para adicionar a habilidade à sua janela de habilidades.&#xD;&#xA;- As habilidades aprendidas de ataque de transformação podem ser aprimoradas até o nível 5" />
 </files>

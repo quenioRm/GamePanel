@@ -1,228 +1,393 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="CA_ST_CM_0445" value="Red Flame Wings (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0446" value="Blue Flame Wings (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0447" value="Red Flame Wings (45 Days)" />
-  <keys type="item" key="CA_ST_CM_0448" value="Blue Flame Wings (45 Days)" />
-  <keys type="item" key="CA_ST_CM_0449" value="(Appearance) Orange Skeleton Costume" />
-  <keys type="item" key="CA_ST_CM_0450" value="(Appearance) Midwinter Costume" />
-  <keys type="item" key="CA_ST_CM_0451" value="(Appearance) Red Winter Costume" />
-  <keys type="item" key="CA_ST_CM_0452" value="(Appearance) Blue Dragon Costume" />
-  <keys type="item" key="CA_ST_CM_0453" value="(Appearance) Fallen Angel Costume" />
-  <keys type="item" key="CA_ST_CM_0454" value="(Appearance) White Wicked Costume" />
-  <keys type="item" key="CA_ST_CM_0455" value="(Appearance) Bunny Girl &amp; Bunny Boy" />
-  <keys type="item" key="CA_ST_CM_0456" value="(Appearance) Traditional Narin" />
-  <keys type="item" key="CA_ST_CM_0457" value="(Appearance) Fashion Model" />
-  <keys type="item" key="CA_ST_CM_0458" value="(Appearance) Traditional Costume" />
-  <keys type="item" key="CA_ST_CM_0459" value="(Appearance) White Qipao" />
-  <keys type="item" key="CA_ST_CM_0460" value="(Appearance) Red Vampire" />
-  <keys type="item" key="CA_ST_CM_0461" value="(Appearance) Purple Vampire" />
-  <keys type="item" key="CA_ST_CM_0462" value="(Appearance) Black Vampire" />
-  <keys type="item" key="CA_ST_CM_0463" value="(Appearance) White Vampire" />
-  <keys type="item" key="CA_ST_CM_0464" value="(Appearance) Reaper Cloak" />
-  <keys type="item" key="CA_ST_CM_0465" value="(Appearance) Witch Costume" />
-  <keys type="item" key="CA_ST_CM_0466" value="(Appearance) Black Wicked Costume" />
-  <keys type="item" key="CA_ST_CM_0467" value="(Appearance) Samurai Outfit" />
-  <keys type="item" key="CA_ST_CM_0468" value="(Appearance) Lovely Maid and Butler" />
-  <keys type="item" key="CA_ST_CM_0469" value="(Appearance)  Man O' Rabbini" />
-  <keys type="item" key="CA_ST_CM_0470" value="(Appearance) Bynder's Qipao" />
-  <keys type="item" key="CA_ST_CM_0471" value="(Appearance) Red Qipao" />
-  <keys type="item" key="CA_ST_CM_0472" value="(Appearance) White Kungfu" />
-  <keys type="item" key="EV_ST_CM_0151" value="ICA White Long Padding Jacket (7 Days)" />
-  <keys type="item" key="EV_ST_CM_0152" value="ICA Black Long Padding Jacket (7 Days)" />
-  <keys type="item" key="EV_ST_CM_0153" value="(Appearance) ICA White Long Padding Jacket" />
-  <keys type="item" key="EV_ST_CM_0154" value="(Appearance) ICA Black Long Padding Jacket" />
-  <keys type="item" key="EV_ST_CM_0155" value="(Appearance) Winter Armor" />
-  <keys type="item" key="EV_ST_CM_0156" value="(Appearance) Traditional Russian Costume" />
-  <keys type="item" key="CA_ST_CM_0473" value="(Appearance) Cute Small Devil Costume" />
-  <keys type="item" key="CA_ST_CM_0474" value="(Appearance) Dark Small Devil Costume" />
-  <keys type="item" key="tt_1_0_0019" value="Special Title: Welcome To Icarus (15 Days)" />
-  <keys type="item" key="tt_1_0_0020" value="Special Title: 4th Anniversary" />
-  <keys type="item" key="tt_1_0_0021" value="Special Title: Overflowing Familiar Love" />
-  <keys type="item" key="CA_ST_CM_0475" value="Little Devil Horns (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0476" value="Little Devil Horns" />
-  <keys type="item" key="CA_ST_CM_0477" value="Cute Little Devil Costume (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0478" value="Little Devil Horns (30 Days)" />
-  <keys type="item" key="tt_1_0_0022" value="Special Title: 4 Years Me and Icarus! (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0480" value="Event Devil Mask (4 Days)" />
-  <keys type="item" key="CA_ST_CM_0481" value="Red Square Glasses (7 Days)" />
-  <keys type="item" key="CA_ST_CM_0482" value="Black Sunglasses (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0483" value="Golden Blossom (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0484" value="Red Flame Wings (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0485" value="Blue Flame Wings (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0486" value="Angel Wings (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0487" value="Blue Halo (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0488" value="Golden Halo (30 Days)" />
-  <keys type="item" key="tt_1_0_0023" value="Special Title: Go Argentinia! (30 Days)" />
-  <keys type="item" key="tt_1_0_0024" value="Special Title: Go Brazil! (30 Days)" />
-  <keys type="item" key="tt_1_0_0025" value="Special Title: Go Columbia! (30 Days)" />
-  <keys type="item" key="tt_1_0_0026" value="Special Title: Go Peru! (30 Days)" />
-  <keys type="item" key="tt_1_0_0027" value="Special Title: Go Uruguay! (30 Days)" />
-  <keys type="item" key="tt_1_0_0028" value="Special Title: Go Costa Rica! (30 Days)" />
-  <keys type="item" key="tt_1_0_0029" value="Special Title: Go Mexico! (30 Days)" />
-  <keys type="item" key="tt_1_0_0030" value="Special Title: Go Panama! (30 Days)" />
-  <keys type="item" key="tt_1_0_0031" value="Special Title: Go Belgium! (30 Days)" />
-  <keys type="item" key="tt_1_0_0032" value="Special Title: Go Croatia! (30 Days)" />
-  <keys type="item" key="tt_1_0_0033" value="Special Title: Go Denmark! (30 Days)" />
-  <keys type="item" key="tt_1_0_0034" value="Special Title: Go England! (30 Days)" />
-  <keys type="item" key="tt_1_0_0035" value="Special Title: Go France! (30 Days)" />
-  <keys type="item" key="tt_1_0_0036" value="Special Title: Go Germany! (30 Days)" />
-  <keys type="item" key="tt_1_0_0037" value="Special Title: Go Iceland! (30 Days)" />
-  <keys type="item" key="tt_1_0_0038" value="Special Title: Go Poland! (30 Days)" />
-  <keys type="item" key="tt_1_0_0039" value="Special Title: Go Portugal! (30 Days)" />
-  <keys type="item" key="tt_1_0_0040" value="Special Title: Go Russia! (30 Days)" />
-  <keys type="item" key="tt_1_0_0041" value="Special Title: Go Serbia! (30 Days)" />
-  <keys type="item" key="tt_1_0_0042" value="Special Title: Go Spain! (30 Days)" />
-  <keys type="item" key="tt_1_0_0043" value="Special Title: Go Sweden! (30 Days)" />
-  <keys type="item" key="tt_1_0_0044" value="Special Title: Go Switzerland! (30 Days)" />
-  <keys type="item" key="tt_1_0_0045" value="Special Title: Go Australia! (30 Days)" />
-  <keys type="item" key="tt_1_0_0046" value="Special Title: Go Iran! (30 Days)" />
-  <keys type="item" key="tt_1_0_0047" value="Special Title: Go Japan! (30 Days)" />
-  <keys type="item" key="tt_1_0_0048" value="Special Title: Go Korea! (30 Days)" />
-  <keys type="item" key="tt_1_0_0049" value="Special Title: Go Saudi Arabia! (30 Days)" />
-  <keys type="item" key="tt_1_0_0050" value="Special Title: Go Egypt! (30 Days)" />
-  <keys type="item" key="tt_1_0_0051" value="Special Title: Go Morocco! (30 Days)" />
-  <keys type="item" key="tt_1_0_0052" value="Special Title: Go Nigeria! (30 Days)" />
-  <keys type="item" key="tt_1_0_0053" value="Special Title: Go Senegal! (30 Days)" />
-  <keys type="item" key="tt_1_0_0054" value="Special Title: Go Tunisia! (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0489" value="Baby Sushi Seal (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0490" value="Frankenstein's Shoulder Pet (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0491" value="Blessed Fallen Angel Costume (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0492" value="Blessed Fallen Angel Wings (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0493" value="Blessed Fallen Angel Weapon Skin (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0494" value="Blessed Frost Dragon Costume (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0495" value="Blessed Frost Dragon Wings (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0496" value="Blessed Frost Dragon Weapon Skin (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0497" value="Blessed Son Wukong's Costume (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0498" value="Blessed Son Wukong's Shoulder Pet (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0499" value="Blessed Son Wukong's Weapon Skin (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0500" value="Blessed Reaper Cloak (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0501" value="Blessed Kurodian's Wings (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0502" value="Blessed Kurodian's Horns (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0503" value="Blessed Onyx Order Costume (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0504" value="Blessed Shoulder Crow (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0505" value="Blessed Crow Mask (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0506" value="Blessed Blue Skeleton Costume (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0507" value="Blessed Blue Flame Wings (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0508" value="Blessed Blue Halo (14 Days)" />
-  <keys type="item" key="EV_ST_CM_0157" value="Blue Blossom Bikini (30 Days)" />
-  <keys type="item" key="EV_ST_CM_0158" value="Ice Cream Weapon Skin (30 days)" />
-  <keys type="item" key="EV_ST_CM_0159" value="Black Ribbon Strawhat (30 Days)" />
-  <keys type="item" key="EV_ST_CM_0160" value="Turtle Pet Backpack (30 Days)" />
-  <keys type="item" key="EV_ST_CM_0161" value="Sushi Seal Shoulder Pet (30 Days)" />
-  <keys type="item" key="EV_ST_CM_0162" value="Sushi Seal Shoulder Pet (14 Days)" />
-  <keys type="item" key="EV_ST_CM_0163" value="Sushi Seal Shoulder Pet (7 Days)" />
-  <keys type="item" key="EV_ST_CM_0164" value="Sushi Seal Shoulder Pet (3 Days)" />
-  <keys type="item" key="EV_ST_CM_0165" value="Frankendog Shoulder Pet (30 Days)" />
-  <keys type="item" key="EV_ST_CM_0166" value="Frankendog Shoulder Pet (14 Days)" />
-  <keys type="item" key="EV_ST_CM_0167" value="Frankendog Shoulder Pet (7 Days)" />
-  <keys type="item" key="EV_ST_CM_0168" value="Frankendog Shoulder Pet (3 Days)" />
-  <keys type="item" key="tt_1_0_0055" value="Special Title Step 1: A good Start" />
-  <keys type="item" key="tt_1_0_0056" value="Special Title Step 2: Receiving Love" />
-  <keys type="item" key="tt_1_0_0057" value="Special Title Step 3: Received the gift of Pink" />
-  <keys type="item" key="tt_1_0_0058" value="Special Title Step 4: Received the blessing of Ice" />
-  <keys type="item" key="tt_1_0_0059" value="Special Title Step 5: Controlling the Cold" />
-  <keys type="item" key="tt_1_0_0060" value="Special Title Step 6: Starlight Ruler" />
-  <keys type="item" key="tt_1_0_0061" value="Special Title Final Step: Moonlight Ruler" />
-  <keys type="item" key="EV_ST_CM_0169" value="Blessed Halloween Pumpkin Head (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0509" value="Blessed Halloween Weapon Skin (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0510" value="Christmas Spirune Shoulder Pet" />
-  <keys type="item" key="CA_ST_CM_0511" value="Christmas Spirune Shoulder Pet (1 Day)" />
-  <keys type="item" key="CA_ST_CM_0512" value="Christmas Spirune Shoulder Pet (3 Days)" />
-  <keys type="item" key="CA_ST_CM_0513" value="Christmas Spirune Shoulder Pet (7 Days)" />
-  <keys type="item" key="CA_ST_CM_0514" value="Christmas Spirune Shoulder Pet (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0515" value="Christmas Spirune Shoulder Pet (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0516" value="Blessed Christmas Spirune Shoulder Pet" />
-  <keys type="item" key="CA_ST_CM_0517" value="2019-New Years Glasses (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0518" value="Super Rabbini Costume (7 Days)" />
-  <keys type="item" key="CA_ST_CM_0519" value="Heroic Frost Dragon Weapon Skin (7 Days)" />
-  <keys type="item" key="CA_ST_CM_0520" value="Blessed Traditional Russian Costume (14 Days)" />
-  <keys type="item" key="tt_1_0_0062" value="Special Title: Lousy Sweets (3 Days)" />
-  <keys type="item" key="tt_1_0_0063" value="Special Title: Candy Maker (7 Days)" />
-  <keys type="item" key="tt_1_0_0064" value="Special Title: A Good Cook (14 Days)" />
-  <keys type="item" key="tt_1_0_0065" value="Special Title: Candy Professional (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0521" value="Sweet Candy Weapon Skin (30 Days)" />
-  <keys type="item" key="tt_1_0_0066" value="Special Title: What is Taming?" />
-  <keys type="item" key="tt_1_0_0067" value="Special Title: Taming Beginner" />
-  <keys type="item" key="tt_1_0_0068" value="Special Title: Taming Novice" />
-  <keys type="item" key="tt_1_0_0069" value="Special Title: Taming Apprentice" />
-  <keys type="item" key="tt_1_0_0070" value="Special Title: Taming Adept" />
-  <keys type="item" key="tt_1_0_0071" value="Special Title: Taming Routinier" />
-  <keys type="item" key="tt_1_0_0072" value="Special Title: Taming Expert" />
-  <keys type="item" key="tt_1_0_0073" value="Special Title: Taming Professional" />
-  <keys type="item" key="tt_1_0_0074" value="Special Title: Taming Master" />
-  <keys type="item" key="tt_1_0_0075" value="Special Title: Taming God" />
-  <keys type="item" key="IT_ST_CM_0011" value="(Appearance) Soccer Uniform (Brazil)" />
-  <keys type="item" key="LA_ST_CM_0001" value="(Appearance) ICA Soccer Uniform (Brazil)" />
-  <keys type="item" key="LA_ST_CM_0002" value="(Appearance) ICA Soccer Uniform (Blue)" />
-  <keys type="item" key="LA_ST_CM_0003" value="(Appearance) ICA Soccer Uniform (Red)" />
-  <keys type="item" key="LA_ST_CM_0004" value="(Appearance) ICA Soccer Uniform (Green)" />
-  <keys type="item" key="LA_ST_CM_0005" value="(Appearance) ICA Soccer Uniform (Black-Red)" />
-  <keys type="item" key="LA_ST_CM_0006" value="(Appearance) ICA Soccer Uniform (Blue-Red-White)" />
-  <keys type="item" key="LA_ST_CM_0007" value="(Appearance) ICA Soccer Uniform (Green-Red-White)" />
-  <keys type="item" key="LA_ST_CM_0008" value="(Appearance) ICA Soccer Uniform (Black-Blue-White)" />
-  <keys type="item" key="LA_ST_CM_0009" value="(Appearance) ICA Soccer Uniform (Black-White)" />
-  <keys type="item" key="LA_ST_CM_0010" value="(Appearance) ICA Soccer Uniform (White-Black)" />
-  <keys type="item" key="LA_ST_CM_0011" value="(Appearance) ICA Soccer Uniform (Red-Black)" />
-  <keys type="item" key="LA_ST_CM_0012" value="(Appearance) ICA Soccer Uniform (White-Green)" />
-  <keys type="item" key="LA_ST_CM_0013" value="(Appearance) ICA Soccer Uniform (Black)" />
-  <keys type="item" key="CA_ST_CM_0522" value="Rainbow Wings (3 Days)" />
-  <keys type="item" key="CA_ST_CM_0523" value="Elite Rainbow Wings (7 Days)" />
-  <keys type="item" key="CA_ST_CM_0524" value="Heroic Rainbow Wings (14 Days)" />
-  <keys type="item" key="CA_ST_CM_0525" value="Legendary Rainbow Wings (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0526" value="School Supplies Weapon Skin (30 Days)" />
-  <keys type="item" key="EV_ST_CM_0170" value="Icarus' Novice Badge (3 Days)" />
-  <keys type="item" key="EV_ST_CM_0171" value="Icarus' Soldier Badge (7 Days)" />
-  <keys type="item" key="EV_ST_CM_0172" value="Icarus' Knight Badge (14 Days)" />
-  <keys type="item" key="EV_ST_CM_0173" value="Icarus' Guardian Badge (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0527" value="Holy Kitsune Mask (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0528" value="Panda Mouthguard" />
-  <keys type="item" key="CA_ST_CM_0529" value="Skull Mouthguard" />
-  <keys type="item" key="CA_ST_CM_0530" value="Smiling Mouthguard" />
-  <keys type="item" key="CA_ST_CM_0531" value="White Demon Mask" />
-  <keys type="item" key="CA_ST_CM_0532" value="Black Demon Mask" />
-  <keys type="item" key="CA_ST_CM_0533" value="Golden Buddha" />
-  <keys type="item" key="CA_ST_CM_0534" value="Bronze Buddha" />
-  <keys type="item" key="CA_ST_CM_0535" value="Golden ICA Helm" />
-  <keys type="item" key="CA_ST_CM_0536" value="Silver ICA Helm" />
-  <keys type="item" key="CA_ST_CM_0537" value="Horse Head Mask" />
-  <keys type="item" key="CA_ST_CM_0538" value="Dark Horse Head Mask" />
-  <keys type="item" key="CA_ST_CM_0539" value="Kitsune Mask" />
-  <keys type="item" key="CA_ST_CM_0540" value="Dark Kitsune Mask" />
-  <keys type="item" key="CA_ST_CM_0541" value="Black Mouthguard" />
-  <keys type="item" key="CA_ST_CM_0542" value="White Mouthguard" />
-  <keys type="item" key="CA_ST_CM_0543" value="The Fool's Mask" />
-  <keys type="item" key="CA_ST_CM_0544" value="Crossed Mouthguard" />
-  <keys type="item" key="CA_ST_CM_0545" value="(Appearance) Casual Wearing" />
-  <keys type="item" key="CA_ST_CM_05451" value="(Appearance) Better Game's Vacation" />
-  <keys type="item" key="CA_ST_CM_0547" value="(Appearance) Coast Guard Swimsuit (Blue)" />
-  <keys type="item" key="CA_ST_CM_0548" value="(Appearance) Coast Guard Swimsuit (Pink)" />
-  <keys type="item" key="CA_ST_CM_0549" value="(Appearance) Coast Guard Swimsuit (White-Blue)" />
-  <keys type="item" key="CA_ST_CM_0550" value="(Appearance) Coast Guard Swimsuit (Blue-Green)" />
-  <keys type="item" key="tt_1_0_0079" value="Special Title: Heat Scout (3 Days)" />
-  <keys type="item" key="tt_1_0_0080" value="Special Title: Heat Hunter (7 Days)" />
-  <keys type="item" key="tt_1_0_0081" value="Special Title: Heat Stalker (14 Days)" />
-  <keys type="item" key="tt_1_0_0082" value="Special Title: Heat Terminator (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0602" value="Spirun Mask" />
-  <keys type="item" key="CA_ST_CM_0603" value="Aquavrios Mask" />
-  <keys type="item" key="CA_ST_CM_0604" value="Tropical Ramphastos Mask" />
-  <keys type="item" key="CA_ST_CM_0606" value="Spirune Mask (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0614" value="2020 New-Years Glasses (30 Days)" />
-  <keys type="item" key="tt_1_0_0086" value="Special Title: You are my spark (3 Days)" />
-  <keys type="item" key="tt_1_0_0087" value="Special Title: Best Luck Wishes (7 Days)" />
-  <keys type="item" key="tt_1_0_0088" value="Special Title: Confession and Confusion (14 Days)" />
-  <keys type="item" key="tt_1_0_0089" value="Special Title: One More Day! (30 Days)" />
-  <keys type="item" key="EV_ST_CM_0179" value="(Appearance) Crescent Moon Bear Pyjama" />
-  <keys type="item" key="EV_ST_CM_0180" value="(Appearance) Pink Unicorn Pyjama" />
-  <keys type="item" key="EV_ST_CM_0181" value="Spring Time! (3 Days)" />
-  <keys type="item" key="EV_ST_CM_0182" value="Spring Time! (7 Days)" />
-  <keys type="item" key="EV_ST_CM_0183" value="Spring Time! (14 Days)" />
-  <keys type="item" key="EV_ST_CM_0184" value="Spring Time! (30 Days)" />
-  <keys type="item" key="tt_1_0_0090" value="Happy Thanksgiving! (30 Days)" />
-  <keys type="item" key="CA_ST_CM_0620" value="Ballon Weapon Skin (30 Days)" />
-  <keys type="item" key="tt_1_0_0093" value="Special Title: Level up! Spec-up! Power up! (30 days)" />
-  <keys type="item" key="IT_ST_CM_0012" value="(Accessoir) Ancient Dragon's Helmet (3 Days)" />
-  <keys type="item" key="IT_ST_CM_0013" value="(Underwear) Ancient Dragon's Armor (3 Days)" />
-  <keys type="item" key="CA_ST_CM_0615" value="(Appearance) Crescent Moon Bear Pyjama" />
-  <keys type="item" key="CA_ST_CM_0616" value="(Appearance) Pink Unicorn Pyjama" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0445" value="Red Flame Wings (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0446" value="Blue Flame Wings (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0447" value="Red Flame Wings (45 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0448" value="Blue Flame Wings (45 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0449" value="(Appearance) Orange Skeleton Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0450" value="(Appearance) Midwinter Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0451" value="(Appearance) Red Winter Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0452" value="(Appearance) Blue Dragon Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0453" value="(Appearance) Fallen Angel Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0454" value="(Appearance) White Wicked Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0455" value="(Appearance) Bunny Girl &amp; Bunny Boy" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0456" value="(Appearance) Traditional Narin" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0457" value="(Appearance) Fashion Model" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0458" value="(Appearance) Traditional Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0459" value="(Appearance) White Qipao" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0460" value="(Appearance) Red Vampire" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0461" value="(Appearance) Purple Vampire" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0462" value="(Appearance) Black Vampire" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0463" value="(Appearance) White Vampire" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0464" value="(Appearance) Reaper Cloak" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0465" value="(Appearance) Witch Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0466" value="(Appearance) Black Wicked Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0467" value="(Appearance) Samurai Outfit" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0468" value="(Appearance) Lovely Maid and Butler" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0469" value="(Appearance)  Man O' Rabbini" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0470" value="(Appearance) Bynder's Qipao" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0471" value="(Appearance) Red Qipao" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0472" value="(Appearance) White Kungfu" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0151" value="ICA White Long Padding Jacket (7 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0152" value="ICA Black Long Padding Jacket (7 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0153" value="(Appearance) ICA White Long Padding Jacket" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0154" value="(Appearance) ICA Black Long Padding Jacket" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0155" value="(Appearance) Winter Armor" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0156" value="(Appearance) Traditional Russian Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0473" value="(Appearance) Cute Small Devil Costume" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0474" value="(Appearance) Dark Small Devil Costume" />
+  <keys prop="Name" type="monster" key="tt_1_0_0019" value="Special Title: Welcome To Icarus (15 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0020" value="Special Title: 4th Anniversary" />
+  <keys prop="Name" type="monster" key="tt_1_0_0021" value="Special Title: Overflowing Familiar Love" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0475" value="Little Devil Horns (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0476" value="Little Devil Horns" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0477" value="Cute Little Devil Costume (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0478" value="Little Devil Horns (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0022" value="Special Title: 4 Years Me and Icarus! (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0480" value="Event Devil Mask (4 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0481" value="Red Square Glasses (7 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0482" value="Black Sunglasses (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0483" value="Golden Blossom (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0484" value="Red Flame Wings (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0485" value="Blue Flame Wings (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0486" value="Angel Wings (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0487" value="Blue Halo (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0488" value="Golden Halo (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0023" value="Special Title: Go Argentinia! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0024" value="Special Title: Go Brazil! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0025" value="Special Title: Go Columbia! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0026" value="Special Title: Go Peru! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0027" value="Special Title: Go Uruguay! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0028" value="Special Title: Go Costa Rica! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0029" value="Special Title: Go Mexico! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0030" value="Special Title: Go Panama! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0031" value="Special Title: Go Belgium! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0032" value="Special Title: Go Croatia! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0033" value="Special Title: Go Denmark! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0034" value="Special Title: Go England! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0035" value="Special Title: Go France! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0036" value="Special Title: Go Germany! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0037" value="Special Title: Go Iceland! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0038" value="Special Title: Go Poland! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0039" value="Special Title: Go Portugal! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0040" value="Special Title: Go Russia! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0041" value="Special Title: Go Serbia! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0042" value="Special Title: Go Spain! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0043" value="Special Title: Go Sweden! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0044" value="Special Title: Go Switzerland! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0045" value="Special Title: Go Australia! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0046" value="Special Title: Go Iran! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0047" value="Special Title: Go Japan! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0048" value="Special Title: Go Korea! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0049" value="Special Title: Go Saudi Arabia! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0050" value="Special Title: Go Egypt! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0051" value="Special Title: Go Morocco! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0052" value="Special Title: Go Nigeria! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0053" value="Special Title: Go Senegal! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0054" value="Special Title: Go Tunisia! (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0489" value="Baby Sushi Seal (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0490" value="Frankenstein's Shoulder Pet (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0491" value="Blessed Fallen Angel Costume (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0492" value="Blessed Fallen Angel Wings (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0493" value="Blessed Fallen Angel Weapon Skin (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0494" value="Blessed Frost Dragon Costume (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0495" value="Blessed Frost Dragon Wings (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0496" value="Blessed Frost Dragon Weapon Skin (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0497" value="Blessed Son Wukong's Costume (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0498" value="Blessed Son Wukong's Shoulder Pet (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0499" value="Blessed Son Wukong's Weapon Skin (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0500" value="Blessed Reaper Cloak (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0501" value="Blessed Kurodian's Wings (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0502" value="Blessed Kurodian's Horns (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0503" value="Blessed Onyx Order Costume (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0504" value="Blessed Shoulder Crow (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0505" value="Blessed Crow Mask (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0506" value="Blessed Blue Skeleton Costume (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0507" value="Blessed Blue Flame Wings (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0508" value="Blessed Blue Halo (14 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0157" value="Blue Blossom Bikini (30 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0158" value="Ice Cream Weapon Skin (30 days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0159" value="Black Ribbon Strawhat (30 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0160" value="Turtle Pet Backpack (30 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0161" value="Sushi Seal Shoulder Pet (30 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0162" value="Sushi Seal Shoulder Pet (14 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0163" value="Sushi Seal Shoulder Pet (7 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0164" value="Sushi Seal Shoulder Pet (3 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0165" value="Frankendog Shoulder Pet (30 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0166" value="Frankendog Shoulder Pet (14 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0167" value="Frankendog Shoulder Pet (7 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0168" value="Frankendog Shoulder Pet (3 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0055" value="Special Title Step 1: A good Start" />
+  <keys prop="Name" type="monster" key="tt_1_0_0056" value="Special Title Step 2: Receiving Love" />
+  <keys prop="Name" type="monster" key="tt_1_0_0057" value="Special Title Step 3: Received the gift of Pink" />
+  <keys prop="Name" type="monster" key="tt_1_0_0058" value="Special Title Step 4: Received the blessing of Ice" />
+  <keys prop="Name" type="monster" key="tt_1_0_0059" value="Special Title Step 5: Controlling the Cold" />
+  <keys prop="Name" type="monster" key="tt_1_0_0060" value="Special Title Step 6: Starlight Ruler" />
+  <keys prop="Name" type="monster" key="tt_1_0_0061" value="Special Title Final Step: Moonlight Ruler" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0169" value="Blessed Halloween Pumpkin Head (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0509" value="Blessed Halloween Weapon Skin (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0510" value="Christmas Spirune Shoulder Pet" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0511" value="Christmas Spirune Shoulder Pet (1 Day)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0512" value="Christmas Spirune Shoulder Pet (3 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0513" value="Christmas Spirune Shoulder Pet (7 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0514" value="Christmas Spirune Shoulder Pet (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0515" value="Christmas Spirune Shoulder Pet (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0516" value="Blessed Christmas Spirune Shoulder Pet" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0517" value="2019-New Years Glasses (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0518" value="Super Rabbini Costume (7 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0519" value="Heroic Frost Dragon Weapon Skin (7 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0520" value="Blessed Traditional Russian Costume (14 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0062" value="Special Title: Lousy Sweets (3 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0063" value="Special Title: Candy Maker (7 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0064" value="Special Title: A Good Cook (14 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0065" value="Special Title: Candy Professional (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0521" value="Sweet Candy Weapon Skin (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0066" value="Special Title: What is Taming?" />
+  <keys prop="Name" type="monster" key="tt_1_0_0067" value="Special Title: Taming Beginner" />
+  <keys prop="Name" type="monster" key="tt_1_0_0068" value="Special Title: Taming Novice" />
+  <keys prop="Name" type="monster" key="tt_1_0_0069" value="Special Title: Taming Apprentice" />
+  <keys prop="Name" type="monster" key="tt_1_0_0070" value="Special Title: Taming Adept" />
+  <keys prop="Name" type="monster" key="tt_1_0_0071" value="Special Title: Taming Routinier" />
+  <keys prop="Name" type="monster" key="tt_1_0_0072" value="Special Title: Taming Expert" />
+  <keys prop="Name" type="monster" key="tt_1_0_0073" value="Special Title: Taming Professional" />
+  <keys prop="Name" type="monster" key="tt_1_0_0074" value="Special Title: Taming Master" />
+  <keys prop="Name" type="monster" key="tt_1_0_0075" value="Special Title: Taming God" />
+  <keys prop="Name" type="monster" key="IT_ST_CM_0011" value="(Appearance) Soccer Uniform (Brazil)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0001" value="(Appearance) ICA Soccer Uniform (Brazil)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0002" value="(Appearance) ICA Soccer Uniform (Blue)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0003" value="(Appearance) ICA Soccer Uniform (Red)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0004" value="(Appearance) ICA Soccer Uniform (Green)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0005" value="(Appearance) ICA Soccer Uniform (Black-Red)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0006" value="(Appearance) ICA Soccer Uniform (Blue-Red-White)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0007" value="(Appearance) ICA Soccer Uniform (Green-Red-White)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0008" value="(Appearance) ICA Soccer Uniform (Black-Blue-White)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0009" value="(Appearance) ICA Soccer Uniform (Black-White)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0010" value="(Appearance) ICA Soccer Uniform (White-Black)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0011" value="(Appearance) ICA Soccer Uniform (Red-Black)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0012" value="(Appearance) ICA Soccer Uniform (White-Green)" />
+  <keys prop="Name" type="monster" key="LA_ST_CM_0013" value="(Appearance) ICA Soccer Uniform (Black)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0522" value="Rainbow Wings (3 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0523" value="Elite Rainbow Wings (7 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0524" value="Heroic Rainbow Wings (14 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0525" value="Legendary Rainbow Wings (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0526" value="School Supplies Weapon Skin (30 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0170" value="Icarus' Novice Badge (3 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0171" value="Icarus' Soldier Badge (7 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0172" value="Icarus' Knight Badge (14 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0173" value="Icarus' Guardian Badge (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0527" value="Holy Kitsune Mask (30 Days)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0528" value="Panda Mouthguard" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0529" value="Skull Mouthguard" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0530" value="Smiling Mouthguard" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0531" value="White Demon Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0532" value="Black Demon Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0533" value="Golden Buddha" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0534" value="Bronze Buddha" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0535" value="Golden ICA Helm" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0536" value="Silver ICA Helm" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0537" value="Horse Head Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0538" value="Dark Horse Head Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0539" value="Kitsune Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0540" value="Dark Kitsune Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0541" value="Black Mouthguard" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0542" value="White Mouthguard" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0543" value="The Fool's Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0544" value="Crossed Mouthguard" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0545" value="(Appearance) Casual Wearing" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_05451" value="(Appearance) Better Game's Vacation" />
+  <keys prop="Description" type="monster" key="jp_ca_st_cm_1777" value="(Appearance) Archlord Suit" />
+  <keys prop="Description" type="monster" key="jp_ca_st_cm_177" value="(Appearance) Blessed Archlord Suit" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0353" value="(Appearance) Witch Costume" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0406" value="(Appearance) White Wicked Costume" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0557" value="(Appearance) Witch Costume(30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0558" value="(Appearance) Dark Vampire (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0559" value="(Appearance) White Vampire (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0560" value="(Appearance) Purple Vampire (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0561" value="(Appearance) Red Vampire (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0562" value="(Appearance) Red Skeleton (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0593" value="Black Demon Mask (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0597" value="Dark Horse Head Mask (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0590" value="Skull Mouthguard (30 Days)" />
+  <keys prop="Description" type="monster" key="ca_st_cm_01466" value="(Appearance) Midnight Vampire Suit" />
+  <keys prop="Description" type="monster" key="ca_st_cm_04655" value="(Appearance) Spooky Witch Costume" />
+  <keys prop="Description" type="monster" key="ca_st_cm_04644" value="(Appearance) Grim Reaper's Cloak" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0547" value="(Appearance) Coast Guard Swimsuit (Blue)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0548" value="(Appearance) Coast Guard Swimsuit (Pink)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0549" value="(Appearance) Coast Guard Swimsuit (White-Blue)" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0550" value="(Appearance) Coast Guard Swimsuit (Blue-Green)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0079" value="Special Title: Heat Scout (3 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0080" value="Special Title: Heat Hunter (7 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0081" value="Special Title: Heat Stalker (14 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0082" value="Special Title: Heat Terminator (30 Days)" />
+  <keys prop="Description" type="monster" key="tt_1_0_0079" value="R_Y&gt; Heat Scout (3 Days) can be worn for 3 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="tt_1_0_0080" value="R_Y&gt; Heat Hunter (7 Days) can be worn for 7 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="tt_1_0_0081" value="R_Y&gt; Heat Stalker (14 Days) can be worn for 14 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="tt_1_0_0082" value="R_Y&gt; Heat Terminator (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0602" value="Spirun Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0603" value="Aquavrios Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0604" value="Tropical Ramphastos Mask" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0606" value="Spirune Mask (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0606" value="R_Y&gt; Spirune Mask (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0607" value="Christmas Shoulder Griffon (3 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0608" value="Christmas Shoulder Griffon (7 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0609" value="Christmas Shoulder Griffon (14 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0610" value="Christmas Shoulder Griffon (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0607" value="R_Y&gt; Christmas Shoulder Griffon (3 Days) can be worn for 3 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0608" value="R_Y&gt; Christmas Shoulder Griffon (7 Days) can be worn for 7 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0609" value="R_Y&gt; Christmas Shoulder Griffon (14 Days) can be worn for 14 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0610" value="R_Y&gt; Christmas Shoulder Griffon (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0614" value="2020 New-Years Glasses (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0614" value="R_Y&gt; 2020 New-Years Glasses (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="tt_1_0_0086" value="Special Title: You are my spark (3 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0087" value="Special Title: Best Luck Wishes (7 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0088" value="Special Title: Confession and Confusion (14 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0089" value="Special Title: One More Day! (30 Days)" />
+  <keys prop="Description" type="monster" key="tt_1_0_0086" value="R_Y&gt; You are my spark (3 Days) can be worn for 3 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="tt_1_0_0087" value="R_Y&gt; Best Luck Wishes (7 Days) can be worn for 7 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="tt_1_0_0088" value="R_Y&gt; Confession and Confusion (14 Days) can be worn for 14 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="tt_1_0_0089" value="R_Y&gt; One More Day! (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0179" value="(Appearance) Crescent Moon Bear Pyjama" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0180" value="(Appearance) Pink Unicorn Pyjama" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0181" value="Spring Time! (3 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0182" value="Spring Time! (7 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0183" value="Spring Time! (14 Days)" />
+  <keys prop="Name" type="monster" key="EV_ST_CM_0184" value="Spring Time! (30 Days)" />
+  <keys prop="Name" type="monster" key="tt_1_0_0090" value="Happy Thanksgiving! (30 Days)" />
+  <keys prop="Description" type="monster" key="EV_ST_CM_0181" value="R_Y&gt; Spring Time! (3 Days) can be worn for 3 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="EV_ST_CM_0182" value="R_Y&gt; Spring Time! (7 Days) can be worn for 7 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="EV_ST_CM_0183" value="R_Y&gt; Spring Time! (14 Days) can be worn for 14 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="EV_ST_CM_0184" value="R_Y&gt; Spring Time! (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Description" type="monster" key="tt_1_0_0090" value="R_Y&gt; Happy Thanksgiving! (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0620" value="Ballon Weapon Skin (30 Days)" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0620" value="R_Y&gt; Ballon Weapon Skin (30 Days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="tt_1_0_0093" value="Special Title: Level up! Spec-up! Power up! (30 days)" />
+  <keys prop="Description" type="monster" key="tt_1_0_0093" value="R_Y&gt; Level up! Spec-up! Power up! (30 days) can be worn for 30 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="IT_ST_CM_0012" value="(Accessoir) Ancient Dragon's Helmet (3 Days)" />
+  <keys prop="Description" type="monster" key="IT_ST_CM_0012" value="R_Y&gt; (Accessoir) Ancient Dragon's Helmet (3 Days) can be worn for 3 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="IT_ST_CM_0013" value="(Underwear) Ancient Dragon's Armor (3 Days)" />
+  <keys prop="Description" type="monster" key="IT_ST_CM_0013" value="R_Y&gt; (Accessoir) Ancient Dragon's Armor (3 Days) can be worn for 3 days, and disappears automatically after the timer expired. br&gt;br&gt;The timer will start from the moment the item enters your inventory bag./R_Y&gt;" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0615" value="(Appearance) Crescent Moon Bear Pyjama" />
+  <keys prop="Name" type="monster" key="CA_ST_CM_0616" value="(Appearance) Pink Unicorn Pyjama" />
+  <keys prop="Description" type="monster" key="ca_st_cm_dra_001" value="(Appearance) Ancient Gold Dragon's Armor" />
+  <keys prop="Description" type="monster" key="ca_st_cm_dra_001_Descriptio" value="An ancient, golden Armor worn by the leaders of the Dragon God Hideout." />
+  <keys prop="Description" type="monster" key="ca_st_cm_dra_002" value="(Appearance) Dark Ancient Dragon's Armor" />
+  <keys prop="Description" type="monster" key="ca_st_cm_dra_002" value="An ancient Armor, overflowing with power worn by the leaders of the Dragon God Hideout.br&gt;UI_G&gt;This appearance has a unique Red/Black glow effect./UI_G&gt;" />
+  <keys prop="Description" type="monster" key="ca_st_cm_stork" value="Crimson Torkai Shoulder Pet" />
+  <keys prop="Description" type="monster" key="ca_st_cm_awings" value="Awakened Hero's Wings" />
+  <keys prop="Description" type="monster" key="ca_st_cm_gmwings" value="Divine Blessing Wings" />
+  <keys prop="Description" type="monster" key="ca_st_cm_gtiara" value="Golden Tiara" />
+  <keys prop="Description" type="monster" key="jp_ca_st_cm_219" value="Tishanan Shoulder Pet" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0612" value="(Appearance) Crescent Moon Bear Pyjama" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0613" value="(Appearance) Pink Unicorn Pyjama" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0332_c" value="(Appearance) Stylish Leopard Bikini" />
+  <keys prop="Description" type="monster" key="ev_st_cm_0157_c" value="(Appearance) Bright Blue Blossom Bikini" />
+  <keys prop="Description" type="monster" key="ev_st_cm_0145_c" value="Roshi's Back Pet" />
+  <keys prop="Description" type="monster" key="ev_st_cm_0164_c" value="Tamago Baby Seal" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0603_c" value="Aquavrios Mask" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0482_c" value="Stylish Sunglasses" />
+  <keys prop="Description" type="monster" key="ca_st_cm_devil1_c" value="Winged Devil Headband" />
+  <keys prop="Description" type="monster" key="ca_st_cm_devil2_c" value="Red Devil Horns" />
+  <keys prop="Description" type="monster" key="ca_st_cm_devil3_c" value="Cute Devil's Horns" />
+  <keys prop="Description" type="monster" key="ca_st_cm_knife_c" value="Stabbed Head" />
+  <keys prop="Description" type="monster" key="ca_st_cm_franky_c" value="Frankendog Shoulderpet" />
+  <keys prop="Description" type="monster" key="ca_st_cm_spirune_c" value="Spirune Mask" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0529_c" value="Skull Mask" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0531_c" value="White Demon Mask" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0532_c" value="Dark Demon Mask" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0538_c" value="Dark Horse Mask" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0539_c" value="Kitsune Mask" />
+  <keys prop="Description" type="monster" key="ca_st_cm_0540_c" value="Dark Kitsune Mask" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_KURO2" value="True Kurodian's Wings" />
+  <keys prop="Description" type="monster" key="CA_ST_COLDBLOOD" value="(Appearance) Bloodless Armor Costume" />
+  <keys prop="Description" type="monster" key="CA_ST_BALOON" value="(Appearance) Toy Balloon Costume" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0639" value="(Appearance) Hakana's Steampunk Outfit" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_076" value="Special Title: What Is Eastern?" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_076_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_077" value="Special Title: I Found An Easter Egg!" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_077_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_078" value="Special Title: Found Another One!" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_078_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_079" value="Special Title: Finding Even More Eggs!" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_079_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_080" value="Special Title: Finding Eggs Blindfolded" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_080_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_081" value="Special Title: Easter Rabbini Hunter" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_081_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_082" value="Special Title: Give Me Your Easter Eggs!" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_082_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_083" value="Special Title: I Love Easter!3" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_083_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_084" value="Special Title: Easter Enthusiast" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_084_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_085" value="Special Title: Gotta Find 'Em All" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_085_description" value="Title obtained during Icarus' Easter event." />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_091" value="Special Title: Dragon God Slayer" />
+  <keys prop="Description" type="monster" key="jp_tt_1_0_091_description" value="Title obtained by clearing the Dragon God Hideout with S rank 100 times." />
+  <keys prop="Description" type="monster" key="ca_st_blosstork" value="Blossom Torkai Shoulder Pet" />
+  <keys prop="Description" type="monster" key="ca_st_blosstork_description" value="Blossom Torkai as a shoulder pet, watching over you at all times.br&gt;The familiar skin was UI_G&gt;designed by Nimue/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="ca_st_cm_devila" value="(Appearance) Little Black Devil Outfit" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_GD_1" value="Stygea's Supreme Ruler Weapon Skin (Guardian)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_GD_1_description" value="A weapon skin, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_GD_2" value="(Appearance) Stygea's Supreme Ruler (Guardian)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_GD_2_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WR_1" value="Stygea's Supreme Ruler Weapon Skin (Berserker)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WR_1_description" value="A weapon skin, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WR_2" value="(Appearance) Stygea's Supreme Ruler (Berserker)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WR_2_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_TF_1" value="Stygea's Supreme Ruler Weapon Skin (Assassin)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_TF_1_description" value="A weapon skin, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_TF_2" value="(Appearance) Stygea's Supreme Ruler (Assassin)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_TF_2_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WZ_1" value="Stygea's Supreme Ruler Weapon Skin (Wizard/Magician)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WZ_1_description" value="A weapon skin, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WZ_2" value="(Appearance) Stygea's Supreme Ruler (Wizard)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_WZ_2_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_PR_1" value="Stygea's Supreme Ruler Weapon Skin (Priest)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_PR_1_description" value="A weapon skin, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_PR_2" value="(Appearance) Stygea's Supreme Ruler (Priest)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_PR_2_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_AC_1" value="Stygea's Supreme Ruler Weapon Skin (Ranger)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_AC_1_description" value="A weapon skin, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_AC_2" value="(Appearance) Stygea's Supreme Ruler (Ranger)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_AC_2_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_DO_1" value="Stygea's Supreme Ruler Weapon Skin (Idol)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_DO_1_description" value="A weapon skin, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_DO_2" value="(Appearance) Stygea's Supreme Ruler (Idol)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_DO_2_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_MG_1" value="(Appearance) Stygea's Supreme Ruler (Magician)" />
+  <keys prop="Description" type="monster" key="ST_PVP_DIV_MG_1_description" value="An appearance, that proves your superiority in the underworld of Stygea." />
+  <keys prop="Description" type="monster" key="ST_Vanstorm_001" value="VanStorm's Personal Outfit" />
+  <keys prop="Description" type="monster" key="ST_Vanstorm_001" value="Awarded for countless hours of blood, sweat &amp; Photoshop magic, that proves his superiority over the CryWankEngine." />
+  <keys prop="Description" type="monster" key="CA_ST_CM_Flame_b" value="Blue Flame Wings" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_Flame_g" value="Green Flame Wings" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_GD" value="(Skin) Bloodless Sword" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_GD_description" value="A black-gold variant of the Bloodless weapon for your class." />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_WR" value="(Skin) Bloodless Greatword" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_WR_description" value="A black-gold variant of the Bloodless weapon for your class." />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_TF" value="(Skin) Bloodless Dagger" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_TF_description" value="A black-gold variant of the Bloodless weapon for your class." />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_WZ" value="(Skin) Bloodless Staff" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_WZ_description" value="A black-gold variant of the Bloodless weapon for your class." />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_PR" value="(Skin) Bloodless Scepter" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_PR_description" value="A black-gold variant of the Bloodless weapon for your class." />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_AC" value="(Skin) Bloodless Shortbow" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_AC_description" value="A black-gold variant of the Bloodless weapon for your class." />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_DO" value="(Skin) Bloodless Magic Wand" />
+  <keys prop="Description" type="monster" key="ST_wp_ColdBlood_DO_description" value="A black-gold variant of the Bloodless weapon for your class." />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_GD" value="(Skin) Awakened Sword" />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_GD_description" value="A black-gold weapon skin matching the Awakened armor set design." />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_WR" value="(Skin) Awakened Greatsword" />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_WR_description" value="A black-gold weapon skin matching the Awakened armor set design." />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_TF" value="(Skin) Awakened Dagger" />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_TF_description" value="A black-gold weapon skin matching the Awakened armor set design." />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_WZ" value="(Skin) Awakened Staff" />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_WZ_description" value="A black-gold weapon skin matching the Awakened armor set design." />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_PR" value="(Skin) Awakened Scepter" />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_PR_description" value="A black-gold weapon skin matching the Awakened armor set design." />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_AC" value="(Skin) Awakened Shortbow" />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_AC_description" value="A black-gold weapon skin matching the Awakened armor set design." />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_DO" value="(Skin) Awakened Magic Wand" />
+  <keys prop="Description" type="monster" key="ST_wp_Divine_DO_description" value="A black-gold weapon skin matching the Awakened armor set design." />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0487_c" value="Blue Halo" />
+  <keys prop="Description" type="monster" key="CA_ST_CM_0488_c" value="Golden Halo" />
 </files>

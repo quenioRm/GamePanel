@@ -1,396 +1,789 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="E_f08_IlikBomb_01" value="Infantaria da Raide de Insetos" />
-  <keys type="npc" key="E_f08_Bughor1_01" value="Atirador da Raide de Insetos" />
-  <keys type="npc" key="E_f08_Bugstag_01" value="Lanceiro da Raide de Insetos" />
-  <keys type="npc" key="E_f08_Bugmanti_01" value="Ladino da Raide de Insetos" />
-  <keys type="npc" key="E_f08_Bugsworm3_01" value="Verme Touro da Raide de Insetos" />
-  <keys type="npc" key="E_f08_ExceBet_01" value="Milícia da Raide de Insetos" />
-  <keys type="npc" key="E_f08_BugBet_01" value="Sentinelas da Raide de Insetos" />
-  <keys type="npc" key="E_f08_ValleyCrab_01" value="Caranguejo de Escudo do Vale" />
-  <keys type="npc" key="E_f08_ValleyTur_01" value="Jabuti de Ithilis" />
-  <keys type="npc" key="E_f08_ValleyCro_01" value="Crocodilo de Ithilis" />
-  <keys type="npc" key="E_f08_ValleySpir_01" value="Espírito de Ithilis" />
-  <keys type="npc" key="E_f08_ValleyPeli_01" value="Pelicano de Ithilis" />
-  <keys type="npc" key="E_f08_Prisonlarv_01" value="Larva de Excid" />
-  <keys type="npc" key="E_f08_PrisonWbee_01" value="Marimbondo Domado" />
-  <keys type="npc" key="E_f08_PrisonCspid_01" value="Aranha da Caverna Domada" />
-  <keys type="npc" key="E_f08_PrisonQbee_01" value="Marimbondo Rainha Domada" />
-  <keys type="npc" key="E_f08_Bugstag_02" value="Lanceiro da Prisão" />
-  <keys type="npc" key="E_f08_ExceMot_01" value="Mariposa Branca Domada" />
-  <keys type="npc" key="E_f08_IlikMenti_01" value="Fatiador Chifrelongo" />
-  <keys type="npc" key="E_f08_BugsTrain_01" value="Guardião da Ninhada" />
-  <keys type="npc" key="E_f08_ExceSpoFly_01" value="Zangão Domado" />
-  <keys type="npc" key="E_f08_ExceMenti_01" value="Fatiador Chifresinistro" />
-  <keys type="npc" key="E_f08_ExceStag1_01" value="Fatiador Chifrecervídeo" />
-  <keys type="npc" key="E_f08_Bughor1_02" value="Atirador do Habitat" />
-  <keys type="npc" key="E_f08_BugBet_02" value="Sentinela dos Insetos" />
-  <keys type="npc" key="E_f08_IlikWork_01" value="Milícia Bruta de Exid" />
-  <keys type="npc" key="E_f08_IlikMenti_02" value="Fatiador Chifrelongo" />
-  <keys type="npc" key="E_f08_ExceFly_01" value="Zangão Domado" />
-  <keys type="npc" key="E_f08_ExceFly_02" value="Zangão Domado" />
-  <keys type="npc" key="E_f08_ExceBet_02" value="Âmbar Fatiador de Exid" />
-  <keys type="npc" key="E_f08_ExceBet_03" value="Âmbar Fatiador de Exid" />
-  <keys type="npc" key="E_f08_ExceMenti_02" value="Chifrerino Lâmina de Serra" />
-  <keys type="npc" key="E_f08_Bughor1_03" value="Atirador da Prisão" />
-  <keys type="npc" key="E_f08_Bughor1_04" value="Atirador da Prisão" />
-  <keys type="npc" key="E_f08_BugsTrain_02" value="Guardião da Ninhada" />
-  <keys type="npc" key="E_f08_BugsTrain_03" value="Guardião da Ninhada" />
-  <keys type="npc" key="E_f08_BugBet2_01" value="Sentinela de Coração Vermelho" />
-  <keys type="npc" key="E_f08_PetWolf_01" value="Lobo Domado" />
-  <keys type="npc" key="E_f08_PetScor_01" value="Escorpião Domado" />
-  <keys type="npc" key="E_f08_fanaThief_01" value="Ladino Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_fanaThief_02" value="Ladino Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavesol_01" value="Soldado Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavesol_02" value="Soldado Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavRobber_01" value="Assassino Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavRobber_02" value="Assassino Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavcaptain_01" value="Oficial Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavMagi_01" value="Feiticeiro Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_landBee_01" value="Marimbondo do Prado de Aklan" />
-  <keys type="npc" key="E_f08_landSpid_01" value="Aranha do Prado de Aklan" />
-  <keys type="npc" key="E_f08_landscor_01" value="Escorpião do Prado de Aklan" />
-  <keys type="npc" key="E_f08_ExceMot_02" value="Traça do Prado de Aklan" />
-  <keys type="npc" key="E_f08_landsour_01" value="Sauro do Prado de Aklan" />
-  <keys type="npc" key="E_f08_Bugmanti_02" value="Ladino do Prado de Aklan" />
-  <keys type="npc" key="E_f08_landspid_02" value="Aranha da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_Bugworker_01" value="Trabalhador da Floresta Aklan" />
-  <keys type="npc" key="E_f08_Bugworker_02" value="Patrulheiro da Floresta Aklan" />
-  <keys type="npc" key="E_f08_arcplant_01" value="Hexaflora da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_arcplant_02" value="Hexaflora da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_Bugmanti_03" value="Ladino da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_Bugmanti_04" value="Ladino da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_ArcSpir_01" value="Espírito da Floresta Aklan" />
-  <keys type="npc" key="E_f08_ArcSpir_02" value="Espírito da Floresta Aklan" />
-  <keys type="npc" key="E_f08_ArcSqui_01" value="Cinzenta da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_ArcSqui_02" value="Cinzenta da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_giantArc_01" value="Cacto Varredor" />
-  <keys type="npc" key="E_f08_giantArc_02" value="Cacto Varredor" />
-  <keys type="npc" key="E_f08_ArcBee_01" value="Vespa da Floresta de Aklan" />
-  <keys type="npc" key="E_f08_giantArc_03" value="Andarilho da Floresta Aklan" />
-  <keys type="npc" key="E_f08_ExceMot_03" value="Traça de Esporos de Viridiana" />
-  <keys type="npc" key="E_f08_BugBet2_02" value="Patrulheiro da Ninhada" />
-  <keys type="npc" key="E_f08_poisonscor_01" value="Escorpião Venenoso" />
-  <keys type="npc" key="E_f08_yastbear_01" value="Urso Tukan" />
-  <keys type="npc" key="E_f08_yastbear_02" value="Urso Tukan" />
-  <keys type="npc" key="E_f08_yastfight_01" value="Lutador Saqueador da Cidade" />
-  <keys type="npc" key="E_f08_yastfight_02" value="Lutador Saqueador da Cidade" />
-  <keys type="npc" key="E_f08_yastfight_03" value="Rufião Saqueador da Cidade" />
-  <keys type="npc" key="E_f08_yastfight_04" value="Rufião Saqueador da Cidade" />
-  <keys type="npc" key="E_f08_yastfight_05" value="Guerreiro Saqueador da Cidade" />
-  <keys type="npc" key="E_f08_yastfight_06" value="Guerreiro Saqueador da Cidade" />
-  <keys type="npc" key="E_f08_murcan_01" value="Chefe Mourkhan" />
-  <keys type="npc" key="E_f08_ystangian_01" value="Patrulha da Área de Yakutan" />
-  <keys type="npc" key="E_f08_ystangian_02" value="Rufião Saqueador da Cidade" />
-  <keys type="npc" key="E_f08_ystangian_03" value="Observador da Área de Yakutan" />
-  <keys type="npc" key="E_f08_ystangian_04" value="Guardião da Área de Yakutan" />
-  <keys type="npc" key="E_f08_poisonscor_02" value="Escorpião da Área de Yakutan" />
-  <keys type="npc" key="E_f08_yastbear_03" value="Urso Tukan" />
-  <keys type="npc" key="E_f08_ExceFly_03" value="Zangão Corrompido" />
-  <keys type="npc" key="E_f08_BugStag_04" value="Lanceiro Patrulheiro" />
-  <keys type="npc" key="E_f08_Bughor1_07" value="Atirador Patrulheiro" />
-  <keys type="npc" key="E_f08_Bugsworm3_02" value="Verme Touro Patrulheiro" />
-  <keys type="npc" key="E_f08_Bugmanti_05" value="Ladino Patrulheiro" />
-  <keys type="npc" key="E_f08_ExceBet_04" value="Fatiador Patrulheiro" />
-  <keys type="npc" key="E_f08_ExceMenti_04" value="Serra Patrulheira" />
-  <keys type="npc" key="E_f08_BugBet_03" value="Sentinela Patrulheiro" />
-  <keys type="npc" key="E_f08_ExceSpoFly_02" value="Zangão Vil Corrompido" />
-  <keys type="npc" key="E_f08_Bugsworm3_03" value="Verme Touro do Ninho" />
-  <keys type="npc" key="E_f08_BugStag_05" value="Lanceiro do Ninho" />
-  <keys type="npc" key="E_f08_Bughor1_08" value="Atirador do Ninho" />
-  <keys type="npc" key="E_f08_Bugmanti2_01" value="Ladino do Ninho" />
-  <keys type="npc" key="E_f08_ExceBettle2_01" value="Fatiador Chifrecervídeo do Ninho" />
-  <keys type="npc" key="E_f08_Excemanti2_01" value="Ninho do Chifrerino Lâmina de Serra" />
-  <keys type="npc" key="E_f08_ExceBettle2_02" value="Fatiador Chifrecervídeo do Ninho" />
-  <keys type="npc" key="E_f08_Excemanti2_02" value="Ninho do Chifrerino Lâmina de Serra" />
-  <keys type="npc" key="E_f08_BugBet_04" value="Sentinela do Ninho" />
-  <keys type="npc" key="E_f08_Bugmanti2_02" value="Inseto Alfa Ladino" />
-  <keys type="npc" key="E_f08_BugStag2_01" value="Inseto Alfa Lanceiro" />
-  <keys type="npc" key="E_f08_Bughor3_01" value="Inseto Alfa Atirador" />
-  <keys type="npc" key="E_f08_Excemanti2_03" value="Inseto Alfa Serra" />
-  <keys type="npc" key="E_f08_ExceBettle2_03" value="Inseto Alfa Chifrecervídeo" />
-  <keys type="npc" key="E_f08_Excetur_01" value="Turkka" />
-  <keys type="npc" key="E_f08_BugSal_01" value="Comandante Salazar" />
-  <keys type="npc" key="E_f08_IlikWork_02" value="Milícia de Ilric" />
-  <keys type="npc" key="E_f08_IlikMenti_03" value="Chifrerino Lâmina de Serra de Ilric" />
-  <keys type="npc" key="E_f08_IlikBomb_02" value="Infantaria de Ilric" />
-  <keys type="npc" key="E_f08_ExceBet_05" value="Fatiador Lucano de Ilric" />
-  <keys type="npc" key="E_f08_IlikSpid_01" value="Aranha de Ilric" />
-  <keys type="npc" key="E_f08_IlikRoscal_01" value="Larva de Ilric" />
-  <keys type="npc" key="E_f08_IlikStag_01" value="Fatiador Chifrecervídeo de Ilric" />
-  <keys type="npc" key="E_f08_IlikBug_01" value="Ilric" />
-  <keys type="npc" key="E_D07_ExceMot_01" value="Traça de Esporos de Viridiana" />
-  <keys type="npc" key="E_D07_BugLanc_01" value="Soldado Mutante" />
-  <keys type="npc" key="E_D07_Bughostm_01" value="Homem Mutante" />
-  <keys type="npc" key="E_D07_Bughostf_01" value="Mulher Mutante" />
-  <keys type="npc" key="E_D07_wormlava_01" value="Larva de Truaz" />
-  <keys type="npc" key="E_D07_BugBet_01" value="Sentinela Sepulcral" />
-  <keys type="npc" key="E_D07_Bughor2_01" value="Atirador Sepulcral" />
-  <keys type="npc" key="E_D07_BugTrain_01" value="Guardião da Ninhada Sepulcral" />
-  <keys type="npc" key="E_D07_Spirwisp_01" value="Feixe Sepulcral" />
-  <keys type="npc" key="E_D07_ExceSpoFly_01" value="Zangão Mutante" />
-  <keys type="npc" key="E_D07_ExceBet_01" value="Milícia de Insetos Sepulcrais" />
-  <keys type="npc" key="E_D07_sandworm_01" value="Truaz" />
-  <keys type="npc" key="E_D07_IlikBug1_01" value="Kinugak" />
-  <keys type="npc" key="E_D07_IlikBug2_01" value="Zarq" />
-  <keys type="npc" key="E_D07_IlikBug3_01" value="Zurq" />
-  <keys type="npc" key="E_D07_BugKuro_01" value="Kurodian" />
-  <keys type="npc" key="E_D07_sandworm_02" value="Truaz" />
-  <keys type="npc" key="E_D07_IlikBug1_02" value="Kinugak" />
-  <keys type="npc" key="E_D07_IlikBug2_02" value="Zarq" />
-  <keys type="npc" key="E_D07_IlikBug3_02" value="Zurq" />
-  <keys type="npc" key="E_D07_BugKuro_02" value="Kurodian" />
-  <keys type="npc" key="E_D07_sandworm_03" value="Truaz" />
-  <keys type="npc" key="E_D07_IlikBug1_03" value="Kinugak" />
-  <keys type="npc" key="E_D07_IlikBug2_03" value="Zarq" />
-  <keys type="npc" key="E_D07_IlikBug3_03" value="Zurq" />
-  <keys type="npc" key="E_D07_BugKuro_03" value="Kurodian" />
-  <keys type="npc" key="E_f08_Adelik_01" value="Adelic" />
-  <keys type="npc" key="E_f08_BugBet2_03" value="Comandante Hatakus" />
-  <keys type="npc" key="E_f08_Bughor1_09" value="[Elite] Patrulha do Santuário" />
-  <keys type="npc" key="E_f08_Bughor3_02" value="[Elite] Atirador Zeta do Habitat" />
-  <keys type="npc" key="E_f08_Bugmanti2_03" value="[Elite] Ladino Zeta do Santuário" />
-  <keys type="npc" key="E_f08_Bugmanti2_04" value="[Elite] Ladino Zeta do Habitat" />
-  <keys type="npc" key="E_f08_BugStag_06" value="[Elite] Lanceiro do Santuário" />
-  <keys type="npc" key="E_f08_BugStag2_02" value="[Elite] Lanceiro do Habitat" />
-  <keys type="npc" key="E_f08_BugsTrain_04" value="[Elite] Guardião da Ninhada do Habitat" />
-  <keys type="npc" key="E_f08_Bugsworm3_04" value="[Elite] Antropóide do Habitat" />
-  <keys type="npc" key="E_f08_ExceBet_06" value="[Elite] Milícia do Santuário" />
-  <keys type="npc" key="E_f08_ExceBettle2_04" value="[Elite] Fatiador Chifrecervídeo do Habitat" />
-  <keys type="npc" key="E_f08_Excemanti2_04" value="[Elite] Santuário do Chifrerino Lâmina de Serra" />
-  <keys type="npc" key="E_f08_ExceMenti_05" value="[Elite]Chifrerino Lâmina de Serra" />
-  <keys type="npc" key="E_f08_ExceMot_04" value="[Elite] Mariposa Domada" />
-  <keys type="npc" key="E_f08_fanaThief_03" value="[Elite] Ladino Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_fanaThief_04" value="[Elite] Ladino Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavcaptain_02" value="Oficial Desertor de Tirino" />
-  <keys type="npc" key="E_f08_leavesol_03" value="[Elite] Soldado Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavesol_04" value="[Elite] Soldado Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavRobber_03" value="[Elite] Assassino Desertor de Ithilis" />
-  <keys type="npc" key="E_f08_leavRobber_04" value="[Elite] Assassino Desertor de Ithilis" />
-  <keys type="npc" key="E_D07_BugKeeper_01" value="Guardião da Legião dos Insetos" />
-  <keys type="npc" key="E_D07_BugKeeper_02" value="Guardião da Legião dos Insetos" />
-  <keys type="npc" key="E_D07_BugKeeper_03" value="Guardião da Legião dos Insetos" />
-  <keys type="npc" key="E_D07_BugKeeper_04" value="Guardião da Legião dos Insetos" />
-  <keys type="npc" key="E_D07_BugKeeper_05" value="Guardião da Legião dos Insetos" />
-  <keys type="npc" key="E_D07_BugKeeper_06" value="Guardião da Legião dos Insetos" />
-  <keys type="npc" key="E_D07_eggbug_01" value="Aranha Parasita" />
-  <keys type="npc" key="E_D07_eggheap_01" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eggheap_02" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eggheap_03" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eggheap_04" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eggheap_05" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eggheap_06" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eggheap_07" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eggheap_08" value="Monte de Ovos de Truaz" />
-  <keys type="npc" key="E_D07_eIncubator_01" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_eIncubator_02" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_hIncubator_01" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_hIncubator_02" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_Incubator_01" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_Incubator_02" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_nIncubator_01" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_nIncubator_02" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_wormegg_02" value="Ovos de Truaz" />
-  <keys type="npc" key="E_D07_wormegg_03" value="Ovos de Truaz" />
-  <keys type="npc" key="E_D07_wormegg_04" value="Ovos de Truaz" />
-  <keys type="npc" key="E_D07_wormegg_05" value="Ovos de Truaz" />
-  <keys type="npc" key="E_D07_wormegg_06" value="Ovos de Truaz" />
-  <keys type="npc" key="E_D07_wormlava_02" value="Larva de Truaz" />
-  <keys type="npc" key="E_D07_wormegg_01" value="Larva de Truaz" />
-  <keys type="npc" key="E_D07_wormlava_03" value="Larva de Truaz" />
-  <keys type="npc" key="E_D07_ExceMot_02" value="Traça Sepulcral" />
-  <keys type="npc" key="E_D07_Incubator_03" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_Incubator_04" value="Tubo de Contenção de Mutações" />
-  <keys type="npc" key="E_D07_IlikBug1_06" value="Kinugak" />
-  <keys type="npc" key="E_f08_Antares_01" value="Antares Furioso" />
-  <keys type="npc" key="E_f08_CatSpirun_01" value="Soluna, o Spiroon" />
-  <keys type="npc" key="E_f08_ValleyWhale_01" value="Plutonsia Mutante" />
-  <keys type="npc" key="E_f08_ValleyPega_01" value="Riventia da Liberdade" />
-  <keys type="npc" key="E_f08_BlackLion_01" value="Vulcanus Ancião" />
-  <keys type="npc" key="E_f08_WaterDragon_01" value="Kaliart Oceânico" />
-  <keys type="npc" key="E_f08_Dragonfly_01" value="Zangão" />
-  <keys type="npc" key="E_f08_ValleyHorse_01" value="Amatoa de Viridiana" />
-  <keys type="npc" key="E_f08_BugScor_01" value="Escorpião Mutante" />
-  <keys type="npc" key="E_f08_ValleyFrog_01" value="Freig" />
-  <keys type="npc" key="E_f08_ValleyFloat_01" value="Corbelt" />
-  <keys type="npc" key="E_f08_ValleyCat_01" value="Snarl" />
-  <keys type="npc" key="E_f08_RustedDrake_01" value="Wyrm Esmeralda" />
-  <keys type="npc" key="E_f08_ValleySpid_01" value="Daiden" />
-  <keys type="npc" key="E_f08_ExceBet_07" value="Fatiador Chifrecervídeo de Exid" />
-  <keys type="npc" key="E_f08_IlikMenti_04" value="Fatiador Chifrelongo de Exid" />
-  <keys type="npc" key="E_f08_arcplant_03" value="Hexaflor de Aklan" />
-  <keys type="npc" key="E_f08_landspid_03" value="Aranha Pintada de Aklan" />
-  <keys type="npc" key="E_f08_IlikWork_03" value="Milícia Bruta de Ilric" />
-  <keys type="npc" key="E_f08_IlikMenti_05" value="Chifrerino Lâmina de Serra de Ilric" />
-  <keys type="npc" key="E_f08_IlikBomb_03" value="Infantaria de Ilric" />
-  <keys type="npc" key="E_f08_ExceBet_08" value="Milícia de Ilric" />
-  <keys type="npc" key="E_f08_IlikSpid_02" value="Aranha da Caverna de Ilric" />
-  <keys type="npc" key="E_f08_IlikRoscal_02" value="Larva da Caverna de Ilric" />
-  <keys type="npc" key="E_f08_Bugmanti2_05" value="Inseto Suspeito" />
-  <keys type="npc" key="E_f08_Bugmanti2_06" value="Ladino de Raide" />
-  <keys type="npc" key="E_f08_Bugmanti2_07" value="Rosha" />
-  <keys type="npc" key="E_f08_Bugmanti2_08" value="Roque" />
-  <keys type="npc" key="E_f08_ExceBettle2_05" value="Nurchak" />
-  <keys type="npc" key="E_f08_IlikRoscal_03" value="Larva da Caverna de Ilric" />
-  <keys type="npc" key="E_f08_cavespid_01" value="Aranha da Caverna" />
-  <keys type="npc" key="E_f08_cavespid_02" value="Filhote de Aranha da Caverna" />
-  <keys type="npc" key="E_f08_brokenagl_01" value="Coletor do Escudo Destruído" />
-  <keys type="npc" key="E_f08_brokenagl_02" value="Protetor do Escudo Destruído" />
-  <keys type="npc" key="E_f08_brokenagl_03" value="Sacerdote do Escudo Destruído" />
-  <keys type="npc" key="E_f08_brokenagl_04" value="Caçador do Escudo Destruído" />
-  <keys type="npc" key="E_f08_brokenagl_05" value="Diglyc" />
-  <keys type="npc" key="E_f08_lanceagl_01" value="Coletor do Escudo Destruído" />
-  <keys type="npc" key="E_f08_lanceagl_02" value="Protetor da Lança Destruída" />
-  <keys type="npc" key="E_f08_lanceagl_03" value="Sacerdote da Lança Destruída" />
-  <keys type="npc" key="E_f08_lanceagl_04" value="Caçador da Lança Destruída" />
-  <keys type="npc" key="E_f08_lanceagl_05" value="Mercrok" />
-  <keys type="npc" key="E_f08_WaterDragon_02" value="Kaliart do Relâmpago" />
-  <keys type="npc" key="E_f08_forestspid_01" value="Aranha Pintada Domada" />
-  <keys type="npc" key="E_f08_forestspid_02" value="Aranha Pintada Domada" />
-  <keys type="npc" key="E_f08_forestspid_03" value="Aranha Pintada Domada" />
-  <keys type="npc" key="E_f08_forestdeer_01" value="Cervo da Floresta Robusta" />
-  <keys type="npc" key="E_f08_forestdeer_02" value="Cervo da Floresta Robusta" />
-  <keys type="npc" key="E_f08_forestdeer_03" value="Cervo da Floresta Robusta" />
-  <keys type="npc" key="E_f08_forestboar_01" value="Javali de Turimnan" />
-  <keys type="npc" key="E_f08_forestboar_02" value="Javali de Turimnan" />
-  <keys type="npc" key="E_f08_forestboar_03" value="Javali de Turimnan" />
-  <keys type="npc" key="E_f08_forestfox_01" value="Raposa de Turimnan" />
-  <keys type="npc" key="E_f08_forestfox_02" value="Raposa de Turimnan" />
-  <keys type="npc" key="E_f08_forestfox_03" value="Raposa de Turimnan" />
-  <keys type="npc" key="E_f08_Bugsha_01" value="Shagar" />
-  <keys type="npc" key="E_f08_hideexced_01" value="Chifrecervídeo de Ataque de Exid" />
-  <keys type="npc" key="E_f08_hideexced_02" value="Infantaria de Ataque de Exid" />
-  <keys type="npc" key="E_f08_hideexced_03" value="Milícia de Ataque de Exid" />
-  <keys type="npc" key="E_f08_hideexced_04" value="Fatiador Chifrelongo de Ataque" />
-  <keys type="npc" key="E_f08_hideexced_05" value="Chifrecervídeo de Ataque de Exid" />
-  <keys type="npc" key="E_f08_hideexced_06" value="Infantaria de Ataque de Exid" />
-  <keys type="npc" key="E_f08_hideexced_07" value="Milícia de Ataque de Exid" />
-  <keys type="npc" key="E_f08_hideexced_08" value="Fatiador Chifrelongo de Ataque" />
-  <keys type="npc" key="E_f08_sommonIlik_01" value="Fatiador de Ataque" />
-  <keys type="npc" key="E_f08_Spirwisp_01" value="Feixe Errante" />
-  <keys type="npc" key="E_f08_Spirwisp_02" value="Feixe Errante" />
-  <keys type="npc" key="E_f08_Spirwisp_03" value="Feixe Errante" />
-  <keys type="npc" key="E_f08_giantExce_01" value="Chifrecervídeo Colossal" />
-  <keys type="npc" key="E_f08_SpoFly_01" value="Zangão Selvagem de Turimnan" />
-  <keys type="npc" key="E_f08_SpoFly_02" value="Zangão Selvagem de Turimnan" />
-  <keys type="npc" key="E_f08_SpoFly_03" value="Zangão Selvagem de Turimnan" />
-  <keys type="npc" key="E_D07_ExceBet_02" value="Fatiador Chifrecervídeo" />
-  <keys type="npc" key="E_D07_ExceBet_03" value="Artilheiro Chifrecervídeo" />
-  <keys type="npc" key="E_D07_ExceBet_04" value="Lacaio Artilheiro Chifrecervídeo" />
-  <keys type="npc" key="E_f08_BugBet2_05" value="Mensageiro de Salazar" />
-  <keys type="npc" key="E_f08_BugBet2_06" value="Moqza da Vanguarda" />
-  <keys type="npc" key="E_f08_BugStag2_03" value="Oficial Ataruk" />
-  <keys type="npc" key="E_f08_BugStag2_04" value="Delegado Bashar" />
-  <keys type="npc" key="E_f08_Bugmanti2_09" value="Chefe de Operações Pettica" />
-  <keys type="npc" key="E_f08_BugStag_07" value="Guarda do Ninho" />
-  <keys type="npc" key="E_f08_Bugsworm3_05" value="Verme Touro do Ninho" />
-  <keys type="npc" key="E_f08_hideexced_09" value="Chifrecervídeo de Ataque de Exid" />
-  <keys type="npc" key="E_f08_hideexced_10" value="Chifrecervídeo de Ataque de Exid" />
-  <keys type="npc" key="E_f08_yastfight_07" value="Saqueador do Povoado" />
-  <keys type="npc" key="E_f08_chakan_01" value="Chefe Tribal Chakan" />
-  <keys type="npc" key="E_f08_arcplant_04" value="Habitat da Flor Vampírica" />
-  <keys type="npc" key="E_f08_arcplant_05" value="Flor Vampírica de Aklan" />
-  <keys type="npc" key="E_f08_arctree_01" value="Árvore do Esplendor de Aklan" />
-  <keys type="npc" key="E_f08_arctree_02" value="Árvore do Esplendor de Aklan" />
-  <keys type="npc" key="E_f08_yastfight_08" value="Chefe de Tarefa Bukan" />
-  <keys type="npc" key="E_f08_yastfight_09" value="Akan Furioso" />
-  <keys type="npc" key="E_f08_yastfight_10" value="Sumo Sacerdote Sakan" />
-  <keys type="npc" key="E_f08_bugzeca_01" value="Comandante Zekhar" />
-  <keys type="npc" key="E_f08_ValleyCro_02" value="Crocodilo Superior" />
-  <keys type="npc" key="E_f08_aglworker_01" value="Coletor" />
-  <keys type="npc" key="E_f08_GagoTampl_01" value="Gárgula do Desfiladeiro" />
-  <keys type="npc" key="E_f08_GagoTampl_02" value="Gárgula do Desfiladeiro" />
-  <keys type="npc" key="E_f08_draca_01" value="Dracarus" />
-  <keys type="npc" key="E_f08_bonedra_01" value="Dragão de Ossos Verdejantes" />
-  <keys type="npc" key="E_f08_flyfrog_01" value="Gruppe" />
-  <keys type="npc" key="E_f08_flyfloat_01" value="Vale Runurata" />
-  <keys type="npc" key="E_f08_shriek_01" value="Berrante do Vale" />
-  <keys type="npc" key="E_f08_drag_01" value="Dracanis" />
-  <keys type="npc" key="E_f08_kama_01" value="Camara" />
-  <keys type="npc" key="E_f08_cabeassa_01" value="Assassino Khabimista" />
-  <keys type="npc" key="E_f08_cabehunt_01" value="Caçador Khabimista" />
-  <keys type="npc" key="E_f08_cabeassa_02" value="Assassino Khabimista" />
-  <keys type="npc" key="E_f08_cabehunt_02" value="Caçador Khabimista" />
-  <keys type="npc" key="E_f08_cabeMcian_01" value="Mago Khabimista" />
-  <keys type="npc" key="E_f08_cabeMarte_02" value="Marte" />
-  <keys type="npc" key="E_f08_cabedar_01" value="Darmillian, o Carrasco" />
-  <keys type="npc" key="E_f08_cabeymi_01" value="Iminus, o Açougueiro" />
-  <keys type="npc" key="E_D07_ExceWork_01" value="Trabalhador de Contenção de Mutações" />
-  <keys type="npc" key="E_f08_yastfight_11" value="Curandeiro Zujan" />
-  <keys type="npc" key="E_D07_Excebomb_01" value="Infantaria Sepulcral" />
-  <keys type="npc" key="E_f08_ArcSpir_03" value="Espírito da Árvore da Luz Trêmula" />
-  <keys type="npc" key="E_D07_IlikBug1_05" value="Kinugak" />
-  <keys type="npc" key="E_f08_yastfight_12" value="Sumo Sacerdote Yukan" />
-  <keys type="npc" key="E_f08_yastfight_13" value="Guardião de Mourkhan" />
-  <keys type="npc" key="E_f08_yastfight_14" value="Lacaio de Mourkhan" />
-  <keys type="npc" key="E_f08_yastfight_15" value="Guardião Jones" />
-  <keys type="npc" key="E_f08_IlikBug_02" value="Ensovis Terrível" />
-  <keys type="npc" key="E_f08_IlikBug_03" value="Elis" />
-  <keys type="npc" key="E_f08_prisoner_01" value="Fugitivo Condenado" />
-  <keys type="npc" key="E_d07_sand_01" value="Veneno Corrosivo" />
-  <keys type="npc" key="E_f08_Antares_02" value="Antares Benevolente" />
-  <keys type="npc" key="E_f08_BugsTrain_05" value="[Elite] Guardião da Ninhada do Santuário" />
-  <keys type="npc" key="E_f08_ExceBet_09" value="Santuário do Chifrerino Lâmina de Serra" />
-  <keys type="npc" key="E_f08_ExceMenti_06" value="[Elite] Milícia do Santuário" />
-  <keys type="npc" key="E_f08_IlikBug_04" value="[Elite] Tsuraka" />
-  <keys type="npc" key="E_f08_IlikBug_05" value="[Elite] Zuluta" />
-  <keys type="npc" key="E_f08_IlikWork_04" value="Filhotes" />
-  <keys type="npc" key="E_f08_IlikWork_05" value="Filhotes" />
-  <keys type="npc" key="E_f08_hestin_01" value="Hestine Infernal" />
-  <keys type="npc" key="e_f08_celfneebl_01" value="Pretor Rodheim" />
-  <keys type="npc" key="e_f08_firegole_01" value="Golem Ancião da Pedra Incandescente" />
-  <keys type="npc" key="e_f08_giancrab_01" value="Skalion" />
-  <keys type="npc" key="e_f08_ImmoMerc_01" value="Executor Mercurius" />
-  <keys type="npc" key="e_f08_poisonira_01" value="Cicuta Aira" />
-  <keys type="npc" key="E_f08_cabeassa_03" value="Assassino Khabimista" />
-  <keys type="npc" key="E_f08_cabehunt_03" value="Caçador Khabimista" />
-  <keys type="npc" key="E_f08_cabelancer01" value="Ladino Khabhimist" />
-  <keys type="npc" key="e_f08_dragrasha_001" value="Dragão Placa Vermelha" />
-  <keys type="npc" key="E_f08_GagoTampl_03" value="Gárgula da Ilha Flutuante" />
-  <keys type="npc" key="E_f08_cabebomb01" value="Canhoneiro Khabhimist" />
-  <keys type="npc" key="E_f08_cabetroop01" value="Inquisidor Khabimista" />
-  <keys type="npc" key="E_F08_CarmWatch_01" value="Caçador dos Saqueadores Skan" />
-  <keys type="npc" key="E_F08_CarmWatch_02" value="Cavaleiro Sombrio dos Saqueadores Skan" />
-  <keys type="npc" key="E_F08_FanaSnipe_01" value="Franco-atirador dos Saqueadores Skan" />
-  <keys type="npc" key="E_f08_firebird_01" value="Bico Flamejante da Caldeira" />
-  <keys type="npc" key="E_f08_firebird_02" value="Crista da Chama da Pedra Incandescente" />
-  <keys type="npc" key="E_f08_firedrag_01" value="Tempestasa Negra" />
-  <keys type="npc" key="e_f08_ImmoGorak_01" value="Goraktus Grande Senhor da Guerra" />
-  <keys type="npc" key="e_f08_ImmoKnigh_01" value="Cavaleiro da Legião Caída" />
-  <keys type="npc" key="e_f08_ImmoKnigh_02" value="Cavaleiro do Wyrm da Legião Caída" />
-  <keys type="npc" key="e_f08_ImmoKnigh_03" value="Cavaleiro da Legião Caída" />
-  <keys type="npc" key="e_f08_ImmoKnigh_04" value="Cavaleiro do Dragão da Legião Caída" />
-  <keys type="npc" key="e_f08_ImmoMagi_01" value="Xamã da Legião Caída" />
-  <keys type="npc" key="e_f08_ImmoMagi_02" value="Invocador da Legião Caída" />
-  <keys type="npc" key="e_f08_ImmoTeran_01" value="Teranus Senhor da Guerra" />
-  <keys type="npc" key="e_f08_ImmoUranu_01" value="Urvus Senhor da Guerra" />
-  <keys type="npc" key="E_f08_Rabiniyo_01" value="Lebrini Yummi" />
-  <keys type="npc" key="E_D07_sandworm_04" value="Truaz" />
-  <keys type="npc" key="E_D07_IlikBug1_07" value="Kinugak" />
-  <keys type="npc" key="E_D07_IlikBug2_04" value="Zarq" />
-  <keys type="npc" key="E_D07_IlikBug3_04" value="Zurq" />
-  <keys type="npc" key="E_D07_BugKuro_05" value="Kurodian" />
-  <keys type="npc" key="E_D07_BugKuro_06" value="Kurodian" />
-  <keys type="npc" key="E_D07_IlikBug2_05" value="Zarq" />
-  <keys type="npc" key="E_D07_IlikBug3_05" value="Zurq" />
-  <keys type="npc" key="E_D07_bioinsect_01" value="Organismo Mutante" />
-  <keys type="npc" key="E_D07_eggbug_02" value="Parasita Vil" />
-  <keys type="npc" key="E_D07_BugLanc_02" value="Soldado Mutante" />
-  <keys type="npc" key="E_D07_Bughostf_02" value="Mulher Mutante" />
-  <keys type="npc" key="E_D07_ExceBet_05" value="Fatiador Chifrecervídeo Corrosivo" />
-  <keys type="npc" key="E_D07_wormlava_04" value="Larva de Truaz" />
-  <keys type="npc" key="E_D07_Bugsworm_01" value="Truaz Maduro" />
-  <keys type="npc" key="E_D07_IlikBug1_08" value="Kinugak" />
-  <keys type="npc" key="E_D07_IlikBug2_06" value="Zarq" />
-  <keys type="npc" key="E_D07_IlikBug3_06" value="Zurq" />
-  <keys type="npc" key="E_D07_IlikBug2_07" value="Zarq" />
-  <keys type="npc" key="E_D07_IlikBug3_07" value="Zurq" />
-  <keys type="npc" key="E_d07_GoleBelte_01" value="Beltenus Rubro" />
-  <keys type="npc" key="E_d07_GoleBelte_02" value="Beltenus Azure" />
-  <keys type="npc" key="E_d07_CapBelte_01" value="Beltenus de Rubi Enfraquecido" />
-  <keys type="npc" key="E_d07_CapBelte_02" value="Beltenus de Safira Enfraquecido" />
-  <keys type="npc" key="E_D07_CapKuro_01" value="Kurodian Enfraquecida" />
-  <keys type="npc" key="E_D07_fail_01" value="Poder Misterioso" />
-  <keys type="npc" key="E_D07_Spirwisp_02" value="Feixe Sepulcral" />
-  <keys type="npc" key="E_D07_ExceMot_03" value="Traça Sepulcral" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBomb_01" value="Infantaria da Raide de Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBomb_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor1_01" value="Atirador da Raide de Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor1_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_Bugstag_01" value="Lanceiro da Raide de Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_Bugstag_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti_01" value="Ladino da Raide de Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_Bugsworm3_01" value="Verme Touro da Raide de Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_Bugsworm3_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_01" value="Milícia da Raide de Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet_01" value="Esquadrão de Sentinelas da Raide de Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyCrab_01" value="Caranguejo de Escudo do Vale" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyCrab_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyTur_01" value="Jabuti de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyTur_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyCro_01" value="Crocodilo de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyCro_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleySpir_01" value="Espírito de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_ValleySpir_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyPeli_01" value="Pelicano de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyPeli_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Prisonlarv_01" value="Larva de Excid" />
+  <keys prop="Description" type="monster" key="E_f08_Prisonlarv_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_PrisonWbee_01" value="Marimbondo Domado" />
+  <keys prop="Description" type="monster" key="E_f08_PrisonWbee_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_PrisonCspid_01" value="Aranha da Caverna Domada" />
+  <keys prop="Description" type="monster" key="E_f08_PrisonCspid_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_PrisonQbee_01" value="Marimbondo Rainha Domada" />
+  <keys prop="Description" type="monster" key="E_f08_PrisonQbee_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugstag_02" value="Lanceiro da Prisão" />
+  <keys prop="Description" type="monster" key="E_f08_Bugstag_02Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMot_01" value="Mariposa Branca Domada" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMot_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikMenti_01" value="Fatiador Chifrelongo" />
+  <keys prop="Description" type="monster" key="E_f08_IlikMenti_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugsTrain_01" value="Guardião da Ninhada" />
+  <keys prop="Description" type="monster" key="E_f08_BugsTrain_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_ExceSpoFly_01" value="Zangão Domado" />
+  <keys prop="Description" type="monster" key="E_f08_ExceSpoFly_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMenti_01" value="Fatiador Chifresinistro" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMenti_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceStag1_01" value="Fatiador Chifrecervídeo" />
+  <keys prop="Description" type="monster" key="E_f08_ExceStag1_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor1_02" value="Atirador do Habitat" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor1_02Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet_02" value="Sentinela dos Insetos" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet_02Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_IlikWork_01" value="Milícia Bruta de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_IlikWork_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikMenti_02" value="Fatiador Chifrelongo de Viridiana" />
+  <keys prop="Description" type="monster" key="E_f08_IlikMenti_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceFly_01" value="Zangão Domado" />
+  <keys prop="Description" type="monster" key="E_f08_ExceFly_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceFly_02" value="Zangão Domado" />
+  <keys prop="Description" type="monster" key="E_f08_ExceFly_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_02" value="Âmbar Fatiador de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_03" value="Âmbar Fatiador de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMenti_02" value="Chifrerino Lâmina de Serra" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMenti_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor1_03" value="Atirador da Prisão" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor1_03Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor1_04" value="Atirador da Prisão" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor1_04Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_BugsTrain_02" value="Guardião da Ninhada" />
+  <keys prop="Description" type="monster" key="E_f08_BugsTrain_02Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_BugsTrain_03" value="Guardião da Ninhada" />
+  <keys prop="Description" type="monster" key="E_f08_BugsTrain_03Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet2_01" value="Sentinela de Coração Vermelho" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet2_01Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_PetWolf_01" value="Lobo Domado" />
+  <keys prop="Description" type="monster" key="E_f08_PetWolf_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_PetScor_01" value="Escorpião Domado" />
+  <keys prop="Description" type="monster" key="E_f08_PetScor_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_fanaThief_01" value="Ladino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_fanaThief_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_fanaThief_02" value="Ladino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_fanaThief_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavesol_01" value="Soldado Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavesol_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavesol_02" value="Soldado Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavesol_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavRobber_01" value="Assassino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavRobber_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavRobber_02" value="Assassino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavRobber_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavcaptain_01" value="Oficial Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavcaptain_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavMagi_01" value="Feiticeiro Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavMagi_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_landBee_01" value="Marimbondo do Prado de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_landBee_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_landSpid_01" value="Aranha do Prado de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_landSpid_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_landscor_01" value="Escorpião do Prado de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_landscor_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMot_02" value="Traça do Prado de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMot_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_landsour_01" value="Sauro do Prado de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_landsour_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti_02" value="Ladino do Prado de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti_02Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_landspid_02" value="Aranha da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_landspid_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugworker_01" value="Trabalhador da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_Bugworker_01Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_Bugworker_02" value="Patrulheiro da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_Bugworker_02Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_arcplant_01" value="Hexaflora da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_arcplant_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_arcplant_02" value="Hexaflora da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_arcplant_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti_03" value="Ladino da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti_03Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti_04" value="Ladino da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti_04Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_ArcSpir_01" value="Espírito da Floresta Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_ArcSpir_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ArcSpir_02" value="Espírito da Floresta Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_ArcSpir_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ArcSqui_01" value="Cinzas de Madeira da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_ArcSqui_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ArcSqui_02" value="Cinzas de Madeira da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_ArcSqui_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_giantArc_01" value="Cacto Varredor" />
+  <keys prop="Description" type="monster" key="E_f08_giantArc_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_giantArc_02" value="Cacto Varredor" />
+  <keys prop="Description" type="monster" key="E_f08_giantArc_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ArcBee_01" value="Vespa da Floresta de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_ArcBee_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_giantArc_03" value="Andarilho da Floresta Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_giantArc_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMot_03" value="Traça de Esporos de Viridiana" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMot_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet2_02" value="Patrulheiro da Ninhada" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet2_02Detail" value="Legião do Coração Rubro" />
+  <keys prop="Name" type="monster" key="E_f08_poisonscor_01" value="Escorpião Venenoso" />
+  <keys prop="Description" type="monster" key="E_f08_poisonscor_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastbear_01" value="Urso Tukan" />
+  <keys prop="Description" type="monster" key="E_f08_yastbear_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastbear_02" value="Urso Tukan" />
+  <keys prop="Description" type="monster" key="E_f08_yastbear_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_01" value="Lutador Saqueador da Cidade" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_01Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_02" value="Lutador Saqueador da Cidade" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_02Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_03" value="Rufião Saqueador da Cidade" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_03Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_04" value="Rufião Saqueador da Cidade" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_04Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_05" value="Guerreiro Saqueador da Cidade" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_05Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_06" value="Guerreiro Saqueador da Cidade" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_06Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_murcan_01" value="Chefe Mourkhan" />
+  <keys prop="Description" type="monster" key="E_f08_murcan_01Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_ystangian_01" value="Patrulha da Área de Yakutan" />
+  <keys prop="Description" type="monster" key="E_f08_ystangian_01Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_ystangian_02" value="Rufião Saqueador da Cidade" />
+  <keys prop="Description" type="monster" key="E_f08_ystangian_02Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_ystangian_03" value="Observador da Área de Yakutan" />
+  <keys prop="Description" type="monster" key="E_f08_ystangian_03Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_ystangian_04" value="Guardião da Área de Yakutan" />
+  <keys prop="Description" type="monster" key="E_f08_ystangian_04Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_poisonscor_02" value="Escorpião da Área de Yakutan" />
+  <keys prop="Description" type="monster" key="E_f08_poisonscor_02Detail" value="Tukan" />
+  <keys prop="Name" type="monster" key="E_f08_yastbear_03" value="Urso Tukan" />
+  <keys prop="Description" type="monster" key="E_f08_yastbear_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceFly_03" value="Zangão Corrompido" />
+  <keys prop="Description" type="monster" key="E_f08_ExceFly_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag_04" value="Lanceiro Patrulheiro" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor1_07" value="Atirador Patrulheiro" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor1_07Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bugsworm3_02" value="Verme Touro Patrulheiro" />
+  <keys prop="Description" type="monster" key="E_f08_Bugsworm3_02Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti_05" value="Ladino Patrulheiro" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti_05Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_04" value="Fatiador Patrulheiro" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMenti_04" value="Serra Patrulheira" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMenti_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet_03" value="Sentinela Patrulheiro" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet_03Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceSpoFly_02" value="Zangão Vil Corrompido" />
+  <keys prop="Description" type="monster" key="E_f08_ExceSpoFly_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugsworm3_03" value="Verme Touro do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_Bugsworm3_03Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag_05" value="Lanceiro do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag_05Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor1_08" value="Atirador do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor1_08Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_01" value="Ladino do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBettle2_01" value="Fatiador Chifrecervídeo do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBettle2_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Excemanti2_01" value="Ninho do Chifrerino Lâmina de Serra" />
+  <keys prop="Description" type="monster" key="E_f08_Excemanti2_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBettle2_02" value="Fatiador Chifrecervídeo do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBettle2_02Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Excemanti2_02" value="Ninho do Chifrerino Lâmina de Serra" />
+  <keys prop="Description" type="monster" key="E_f08_Excemanti2_02Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet_04" value="Sentinela do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_02" value="Inseto Alfa Ladino" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_02Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag2_01" value="Inseto Alfa Lanceiro" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag2_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor3_01" value="Inseto Alfa Atirador" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor3_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Excemanti2_03" value="Inseto Alfa Serra" />
+  <keys prop="Description" type="monster" key="E_f08_Excemanti2_03Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBettle2_03" value="Inseto Alfa Chifrecervídeo" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBettle2_03Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Excetur_01" value="Turkka" />
+  <keys prop="Description" type="monster" key="E_f08_Excetur_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugSal_01" value="Comandante Salazar" />
+  <keys prop="Description" type="monster" key="E_f08_BugSal_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_IlikWork_02" value="Milícia de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikWork_02Detail" value="Lacaios de Ilric" />
+  <keys prop="Name" type="monster" key="E_f08_IlikMenti_03" value="Chifrerino Lâmina de Serra de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikMenti_03Detail" value="Lacaios de Ilric" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBomb_02" value="Infantaria de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBomb_02Detail" value="Lacaios de Ilric" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_05" value="Fatiador Lucano de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_05Detail" value="Lacaios de Ilric" />
+  <keys prop="Name" type="monster" key="E_f08_IlikSpid_01" value="Aranha de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikSpid_01Detail" value="Lacaios de Ilric" />
+  <keys prop="Name" type="monster" key="E_f08_IlikRoscal_01" value="Larva de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikRoscal_01Detail" value="Lacaios de Ilric" />
+  <keys prop="Name" type="monster" key="E_f08_IlikStag_01" value="Fatiador Chifrecervídeo de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikStag_01Detail" value="Lacaios de Ilric" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBug_01" value="Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBug_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceMot_01" value="Traça de Esporos de Viridiana" />
+  <keys prop="Description" type="monster" key="E_D07_ExceMot_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugLanc_01" value="Soldado Mutante" />
+  <keys prop="Description" type="monster" key="E_D07_BugLanc_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Bughostm_01" value="Homem Mutante" />
+  <keys prop="Description" type="monster" key="E_D07_Bughostm_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Bughostf_01" value="Mulher Mutante" />
+  <keys prop="Description" type="monster" key="E_D07_Bughostf_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormlava_01" value="Larva de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormlava_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugBet_01" value="Sentinela Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_BugBet_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Bughor2_01" value="Atirador Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_Bughor2_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugTrain_01" value="Guardião da Ninhada Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_BugTrain_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Spirwisp_01" value="Feixe Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_Spirwisp_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceSpoFly_01" value="Zangão Mutante" />
+  <keys prop="Description" type="monster" key="E_D07_ExceSpoFly_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceBet_01" value="Milícia de Insetos Sepulcrais" />
+  <keys prop="Description" type="monster" key="E_D07_ExceBet_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_sandworm_01" value="Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_sandworm_01Detail" value="Predador de Túmulos" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug1_01" value="Kinugak" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug1_01Detail" value="Guarda do Laboratório de Mutações" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug2_01" value="Zarq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug2_01Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug3_01" value="Zurq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug3_01Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_BugKuro_01" value="Kurodian" />
+  <keys prop="Description" type="monster" key="E_D07_BugKuro_01Detail" value="Biólogo da Legião dos Insetos" />
+  <keys prop="Name" type="monster" key="E_D07_sandworm_02" value="Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_sandworm_02Detail" value="Predador de Túmulos" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug1_02" value="Kinugak" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug1_02Detail" value="Guarda do Laboratório de Mutações" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug2_02" value="Zarq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug2_02Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug3_02" value="Zurq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug3_02Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_BugKuro_02" value="Kurodian" />
+  <keys prop="Description" type="monster" key="E_D07_BugKuro_02Detail" value="Biólogo da Legião dos Insetos" />
+  <keys prop="Name" type="monster" key="E_D07_sandworm_03" value="Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_sandworm_03Detail" value="Predador de Túmulos" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug1_03" value="Kinugak" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug1_03Detail" value="Guarda do Laboratório de Mutações" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug2_03" value="Zarq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug2_03Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug3_03" value="Zurq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug3_03Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_BugKuro_03" value="Kurodian" />
+  <keys prop="Description" type="monster" key="E_D07_BugKuro_03Detail" value="Biólogo da Legião dos Insetos" />
+  <keys prop="Name" type="monster" key="E_f08_Adelik_01" value="Adelic" />
+  <keys prop="Description" type="monster" key="E_f08_Adelik_01Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet2_03" value="Comandante Hatakus" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet2_03Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor1_09" value="[Elite] Patrulha do Santuário" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor1_09Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_Bughor3_02" value="[Elite] Atirador Zeta do Habitat" />
+  <keys prop="Description" type="monster" key="E_f08_Bughor3_02Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_03" value="[Elite] Ladino Zeta do Santuário" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_03Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_04" value="[Elite] Ladino Zeta do Habitat" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag_06" value="[Elite] Lanceiro do Santuário" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag_06Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag2_02" value="[Elite] Lanceiro do Habitat" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag2_02Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_BugsTrain_04" value="[Elite] Guardião da Ninhada do Habitat" />
+  <keys prop="Description" type="monster" key="E_f08_BugsTrain_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Bugsworm3_04" value="[Elite] Antropóide do Habitat" />
+  <keys prop="Description" type="monster" key="E_f08_Bugsworm3_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_06" value="[Elite] Milícia do Santuário" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_06Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBettle2_04" value="[Elite] Fatiador Chifrecervídeo do Habitat" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBettle2_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_Excemanti2_04" value="[Elite] Santuário do Chifrerino Lâmina de Serra" />
+  <keys prop="Description" type="monster" key="E_f08_Excemanti2_04Detail" value="Legião do Coração Âmbar" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMenti_05" value="[Elite]Chifrerino Lâmina de Serra" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMenti_05Detail" value="Legião do Coração Azul" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMot_04" value="[Elite] Mariposa Domada" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMot_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_fanaThief_03" value="[Elite] Ladino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_fanaThief_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_fanaThief_04" value="[Elite] Ladino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_fanaThief_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavcaptain_02" value="Oficial Desertor de Tirino" />
+  <keys prop="Description" type="monster" key="E_f08_leavcaptain_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavesol_03" value="[Elite] Soldado Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavesol_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavesol_04" value="[Elite] Soldado Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavesol_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavRobber_03" value="[Elite] Assassino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavRobber_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_leavRobber_04" value="[Elite] Assassino Desertor de Ithilis" />
+  <keys prop="Description" type="monster" key="E_f08_leavRobber_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugKeeper_01" value="Guardião da Legião dos Insetos" />
+  <keys prop="Description" type="monster" key="E_D07_BugKeeper_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugKeeper_02" value="Guardião da Legião dos Insetos" />
+  <keys prop="Description" type="monster" key="E_D07_BugKeeper_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugKeeper_03" value="Guardião da Legião dos Insetos" />
+  <keys prop="Description" type="monster" key="E_D07_BugKeeper_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugKeeper_04" value="Guardião da Legião dos Insetos" />
+  <keys prop="Description" type="monster" key="E_D07_BugKeeper_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugKeeper_05" value="Guardião da Legião dos Insetos" />
+  <keys prop="Description" type="monster" key="E_D07_BugKeeper_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugKeeper_06" value="Guardião da Legião dos Insetos" />
+  <keys prop="Description" type="monster" key="E_D07_BugKeeper_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggbug_01" value="Aranha Parasita" />
+  <keys prop="Description" type="monster" key="E_D07_eggbug_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_01" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_02" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_03" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_04" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_05" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_06" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_07" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggheap_08" value="Monte de Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_eggheap_08Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eIncubator_01" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_eIncubator_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eIncubator_02" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_eIncubator_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_hIncubator_01" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_hIncubator_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_hIncubator_02" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_hIncubator_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Incubator_01" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_Incubator_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Incubator_02" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_Incubator_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_nIncubator_01" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_nIncubator_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_nIncubator_02" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_nIncubator_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormegg_02" value="Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormegg_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormegg_03" value="Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormegg_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormegg_04" value="Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormegg_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormegg_05" value="Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormegg_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormegg_06" value="Ovos de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormegg_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormlava_02" value="Larva de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormlava_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormegg_01" value="Larva de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormegg_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormlava_03" value="Larva de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormlava_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceMot_02" value="Traça Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_ExceMot_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Incubator_03" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_Incubator_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Incubator_04" value="Tubo de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_Incubator_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug1_06" value="Kinugak" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug1_06Detail" value="Guarda do Laboratório de Mutações" />
+  <keys prop="Name" type="monster" key="E_f08_Antares_01" value="Antares Furioso" />
+  <keys prop="Description" type="monster" key="E_f08_Antares_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_CatSpirun_01" value="Soluna, o Spiroon" />
+  <keys prop="Description" type="monster" key="E_f08_CatSpirun_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyWhale_01" value="Plutonsia Mutante" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyWhale_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyPega_01" value="Riventia da Liberdade" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyPega_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BlackLion_01" value="Vulcanus Ancião" />
+  <keys prop="Description" type="monster" key="E_f08_BlackLion_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_WaterDragon_01" value="Kaliart Oceânico" />
+  <keys prop="Description" type="monster" key="E_f08_WaterDragon_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Dragonfly_01" value="Zangão" />
+  <keys prop="Description" type="monster" key="E_f08_Dragonfly_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyHorse_01" value="Amatoa de Viridiana" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyHorse_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugScor_01" value="Escorpião Mutante" />
+  <keys prop="Description" type="monster" key="E_f08_BugScor_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyFrog_01" value="Freig" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyFrog_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyFloat_01" value="Corbelt" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyFloat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyCat_01" value="Snarl" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyCat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_RustedDrake_01" value="Wyrm Esmeralda" />
+  <keys prop="Description" type="monster" key="E_f08_RustedDrake_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleySpid_01" value="Daiden" />
+  <keys prop="Description" type="monster" key="E_f08_ValleySpid_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_07" value="Fatiador Chifrecervídeo de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikMenti_04" value="Fatiador Chifrelongo de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_IlikMenti_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_arcplant_03" value="Hexaflor de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_arcplant_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_landspid_03" value="Aranha Pintada de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_landspid_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikWork_03" value="Milícia Bruta de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikWork_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikMenti_05" value="Chifrerino Lâmina de Serra de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikMenti_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBomb_03" value="Infantaria de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBomb_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_08" value="Milícia de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_08Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikSpid_02" value="Aranha da Caverna de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikSpid_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikRoscal_02" value="Larva da Caverna de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikRoscal_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_05" value="Inseto Suspeito" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_06" value="Ladino de Raide" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_07" value="Rosha" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_08" value="Roque" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_08Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBettle2_05" value="Nurchak" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBettle2_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikRoscal_03" value="Larva da Caverna de Ilric" />
+  <keys prop="Description" type="monster" key="E_f08_IlikRoscal_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cavespid_01" value="Aranha da Caverna" />
+  <keys prop="Description" type="monster" key="E_f08_cavespid_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cavespid_02" value="Filhote de Aranha da Caverna" />
+  <keys prop="Description" type="monster" key="E_f08_cavespid_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_brokenagl_01" value="Coletor do Escudo Destruído" />
+  <keys prop="Description" type="monster" key="E_f08_brokenagl_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_brokenagl_02" value="Protetor do Escudo Destruído" />
+  <keys prop="Description" type="monster" key="E_f08_brokenagl_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_brokenagl_03" value="Sacerdote do Escudo Destruído" />
+  <keys prop="Description" type="monster" key="E_f08_brokenagl_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_brokenagl_04" value="Caçador do Escudo Destruído" />
+  <keys prop="Description" type="monster" key="E_f08_brokenagl_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_brokenagl_05" value="Diglyc" />
+  <keys prop="Description" type="monster" key="E_f08_brokenagl_05Detail" value="Chefe do Escudo Destruído" />
+  <keys prop="Name" type="monster" key="E_f08_lanceagl_01" value="Coletor do Escudo Destruído" />
+  <keys prop="Description" type="monster" key="E_f08_lanceagl_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_lanceagl_02" value="Protetor da Lança Destruída" />
+  <keys prop="Description" type="monster" key="E_f08_lanceagl_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_lanceagl_03" value="Sacerdote da Lança Destruída" />
+  <keys prop="Description" type="monster" key="E_f08_lanceagl_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_lanceagl_04" value="Caçador da Lança Destruída" />
+  <keys prop="Description" type="monster" key="E_f08_lanceagl_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_lanceagl_05" value="Mercrok" />
+  <keys prop="Description" type="monster" key="E_f08_lanceagl_05Detail" value="Chefe da Lança Destruída" />
+  <keys prop="Name" type="monster" key="E_f08_WaterDragon_02" value="Kaliart do Relâmpago" />
+  <keys prop="Description" type="monster" key="E_f08_WaterDragon_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestspid_01" value="Aranha Pintada Domada" />
+  <keys prop="Description" type="monster" key="E_f08_forestspid_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestspid_02" value="Aranha Pintada Domada" />
+  <keys prop="Description" type="monster" key="E_f08_forestspid_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestspid_03" value="Aranha Pintada Domada" />
+  <keys prop="Description" type="monster" key="E_f08_forestspid_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestdeer_01" value="Cervo da Floresta Robusta" />
+  <keys prop="Description" type="monster" key="E_f08_forestdeer_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestdeer_02" value="Cervo da Floresta Robusta" />
+  <keys prop="Description" type="monster" key="E_f08_forestdeer_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestdeer_03" value="Cervo da Floresta Robusta" />
+  <keys prop="Description" type="monster" key="E_f08_forestdeer_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestboar_01" value="Javali de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_forestboar_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestboar_02" value="Javali de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_forestboar_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestboar_03" value="Javali de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_forestboar_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestfox_01" value="Raposa de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_forestfox_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestfox_02" value="Raposa de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_forestfox_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_forestfox_03" value="Raposa de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_forestfox_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugsha_01" value="Shagar" />
+  <keys prop="Description" type="monster" key="E_f08_Bugsha_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_01" value="Chifrecervídeo de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_02" value="Infantaria de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_03" value="Milícia de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_04" value="Fatiador Chifrelongo de Ataque" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_05" value="Chifrecervídeo de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_06" value="Infantaria de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_07" value="Milícia de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_08" value="Fatiador Chifrelongo de Ataque" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_08Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_sommonIlik_01" value="Fatiador de Ataque" />
+  <keys prop="Description" type="monster" key="E_f08_sommonIlik_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Spirwisp_01" value="Feixe Errante" />
+  <keys prop="Description" type="monster" key="E_f08_Spirwisp_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Spirwisp_02" value="Feixe Errante" />
+  <keys prop="Description" type="monster" key="E_f08_Spirwisp_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Spirwisp_03" value="Feixe Errante" />
+  <keys prop="Description" type="monster" key="E_f08_Spirwisp_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_giantExce_01" value="Chifrecervídeo Colossal" />
+  <keys prop="Description" type="monster" key="E_f08_giantExce_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_SpoFly_01" value="Zangão Selvagem de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_SpoFly_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_SpoFly_02" value="Zangão Selvagem de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_SpoFly_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_SpoFly_03" value="Zangão Selvagem de Turimnan" />
+  <keys prop="Description" type="monster" key="E_f08_SpoFly_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceBet_02" value="Fatiador Chifrecervídeo do Predador" />
+  <keys prop="Description" type="monster" key="E_D07_ExceBet_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceBet_03" value="Artilheiro Chifrecervídeo" />
+  <keys prop="Description" type="monster" key="E_D07_ExceBet_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceBet_04" value="Lacaio Artilheiro Chifrecervídeo" />
+  <keys prop="Description" type="monster" key="E_D07_ExceBet_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet2_05" value="Mensageiro de Salazar" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet2_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet2_06" value="Moqza da Vanguarda" />
+  <keys prop="Description" type="monster" key="E_f08_BugBet2_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag2_03" value="Oficial de Inteligência de Ataruk" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag2_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag2_04" value="Delegado Bashar" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag2_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugmanti2_09" value="Chefe de Operações Pettica" />
+  <keys prop="Description" type="monster" key="E_f08_Bugmanti2_09Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag_07" value="Guarda do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_BugStag_07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Bugsworm3_05" value="Verme Touro do Ninho" />
+  <keys prop="Description" type="monster" key="E_f08_Bugsworm3_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_09" value="Chifrecervídeo de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_09Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hideexced_10" value="Chifrecervídeo de Ataque de Exid" />
+  <keys prop="Description" type="monster" key="E_f08_hideexced_10Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_07" value="Saqueador do Povoado" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_chakan_01" value="Chefe Tribal Chakan" />
+  <keys prop="Description" type="monster" key="E_f08_chakan_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_arcplant_04" value="Habitat da Flor Vampírica" />
+  <keys prop="Description" type="monster" key="E_f08_arcplant_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_arcplant_05" value="Flor Vampírica de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_arcplant_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_arctree_01" value="Árvore do Esplendor de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_arctree_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_arctree_02" value="Árvore do Esplendor de Aklan" />
+  <keys prop="Description" type="monster" key="E_f08_arctree_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_08" value="Chefe de Tarefa Bukan" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_08Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_09" value="Akan Furioso" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_09Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_10" value="Sumo Sacerdote Sakan" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_10Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_bugzeca_01" value="Comandante Zekhar" />
+  <keys prop="Description" type="monster" key="E_f08_bugzeca_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ValleyCro_02" value="Crocodilo Superior" />
+  <keys prop="Description" type="monster" key="E_f08_ValleyCro_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_aglworker_01" value="Coletor" />
+  <keys prop="Description" type="monster" key="E_f08_aglworker_01Detail" value="Agul Destruído" />
+  <keys prop="Name" type="monster" key="E_f08_GagoTampl_01" value="Gárgula do Desfiladeiro" />
+  <keys prop="Description" type="monster" key="E_f08_GagoTampl_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_GagoTampl_02" value="Gárgula do Desfiladeiro" />
+  <keys prop="Description" type="monster" key="E_f08_GagoTampl_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_draca_01" value="Dracarus" />
+  <keys prop="Description" type="monster" key="E_f08_draca_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_bonedra_01" value="Dragão de Ossos Verdejantes" />
+  <keys prop="Description" type="monster" key="E_f08_bonedra_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_flyfrog_01" value="Gruppe" />
+  <keys prop="Description" type="monster" key="E_f08_flyfrog_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_flyfloat_01" value="Vale Runurata" />
+  <keys prop="Description" type="monster" key="E_f08_flyfloat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_shriek_01" value="Berrante do Vale" />
+  <keys prop="Description" type="monster" key="E_f08_shriek_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_drag_01" value="Dracanis" />
+  <keys prop="Description" type="monster" key="E_f08_drag_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_kama_01" value="Camara" />
+  <keys prop="Description" type="monster" key="E_f08_kama_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabeassa_01" value="Assassino Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabeassa_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabehunt_01" value="Caçador Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabehunt_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabeassa_02" value="Assassino Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabeassa_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabehunt_02" value="Caçador Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabehunt_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabeMcian_01" value="Mago Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabeMcian_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabeMarte_02" value="Marte" />
+  <keys prop="Description" type="monster" key="E_f08_cabeMarte_02Detail" value="Mago Esplêndido" />
+  <keys prop="Name" type="monster" key="E_f08_cabedar_01" value="Darmillian, o Carrasco" />
+  <keys prop="Description" type="monster" key="E_f08_cabedar_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabeymi_01" value="Iminus, o Açougueiro" />
+  <keys prop="Description" type="monster" key="E_f08_cabeymi_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceWork_01" value="Trabalhador de Contenção de Mutações" />
+  <keys prop="Description" type="monster" key="E_D07_ExceWork_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_11" value="Curandeiro Zujan" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_11Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Excebomb_01" value="Infantaria Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_Excebomb_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ArcSpir_03" value="Espírito da Árvore da Luz Trêmula" />
+  <keys prop="Description" type="monster" key="E_f08_ArcSpir_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug1_05" value="Kinugak" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug1_05Detail" value="Guarda do Laboratório de Mutações" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_12" value="Sumo Sacerdote Yukan" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_12Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_13" value="Guardião de Mourkhan" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_13Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_14" value="Lacaio de Mourkhan" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_14Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_yastfight_15" value="Guardião Jones" />
+  <keys prop="Description" type="monster" key="E_f08_yastfight_15Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBug_02" value="Ensovis Terrível" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBug_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBug_03" value="Elis" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBug_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_prisoner_01" value="Fugitivo Condenado" />
+  <keys prop="Description" type="monster" key="E_f08_prisoner_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d07_sand_01" value="Veneno Corrosivo" />
+  <keys prop="Description" type="monster" key="E_d07_sand_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Antares_02" value="Antares Benevolente" />
+  <keys prop="Description" type="monster" key="E_f08_Antares_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_BugsTrain_05" value="[Elite] Guardião da Ninhada do Santuário" />
+  <keys prop="Description" type="monster" key="E_f08_BugsTrain_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceBet_09" value="Santuário do Chifrerino Lâmina de Serra" />
+  <keys prop="Description" type="monster" key="E_f08_ExceBet_09Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_ExceMenti_06" value="[Elite] Milícia do Santuário" />
+  <keys prop="Description" type="monster" key="E_f08_ExceMenti_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBug_04" value="[Elite] Tsuraka" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBug_04Detail" value="Primeiro Guarda" />
+  <keys prop="Name" type="monster" key="E_f08_IlikBug_05" value="[Elite] Zuluta" />
+  <keys prop="Description" type="monster" key="E_f08_IlikBug_05Detail" value="Segundo Guarda" />
+  <keys prop="Name" type="monster" key="E_f08_IlikWork_04" value="Filhotes" />
+  <keys prop="Description" type="monster" key="E_f08_IlikWork_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_IlikWork_05" value="Filhotes" />
+  <keys prop="Description" type="monster" key="E_f08_IlikWork_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_hestin_01" value="Hestine Infernal" />
+  <keys prop="Description" type="monster" key="E_f08_hestin_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_celfneebl_01" value="Pretor Rodheim" />
+  <keys prop="Description" type="monster" key="e_f08_celfneebl_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_firegole_01" value="Golem Ancião da Pedra Incandescente" />
+  <keys prop="Description" type="monster" key="e_f08_firegole_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_giancrab_01" value="Skalion" />
+  <keys prop="Description" type="monster" key="e_f08_giancrab_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoMerc_01" value="Executor Mercurius" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoMerc_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_poisonira_01" value="Cicuta Aira" />
+  <keys prop="Description" type="monster" key="e_f08_poisonira_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabeassa_03" value="Assassino Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabeassa_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabehunt_03" value="Caçador Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabehunt_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabelancer01" value="Ladino Khabhimist" />
+  <keys prop="Description" type="monster" key="E_f08_cabelancer01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_dragrasha_001" value="Dragão Placa Vermelha" />
+  <keys prop="Description" type="monster" key="e_f08_dragrasha_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_GagoTampl_03" value="Gárgula da Ilha Flutuante" />
+  <keys prop="Description" type="monster" key="E_f08_GagoTampl_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabebomb01" value="Canhoneiro Khabhimist" />
+  <keys prop="Description" type="monster" key="E_f08_cabebomb01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_cabetroop01" value="Inquisidor Khabimista" />
+  <keys prop="Description" type="monster" key="E_f08_cabetroop01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F08_CarmWatch_01" value="Caçador dos Saqueadores Skan" />
+  <keys prop="Description" type="monster" key="E_F08_CarmWatch_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F08_CarmWatch_02" value="Cavaleiro Sombrio dos Saqueadores Skan" />
+  <keys prop="Description" type="monster" key="E_F08_CarmWatch_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F08_FanaSnipe_01" value="Franco-atirador dos Saqueadores Skan" />
+  <keys prop="Description" type="monster" key="E_F08_FanaSnipe_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_firebird_01" value="Bico Flamejante da Caldeira" />
+  <keys prop="Description" type="monster" key="E_f08_firebird_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_firebird_02" value="Crista da Chama da Pedra Incandescente" />
+  <keys prop="Description" type="monster" key="E_f08_firebird_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_firedrag_01" value="Tempestasa Negra" />
+  <keys prop="Description" type="monster" key="E_f08_firedrag_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoGorak_01" value="Goraktus Grande Senhor da Guerra" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoGorak_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoKnigh_01" value="Cavaleiro da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoKnigh_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoKnigh_02" value="Cavaleiro do Wyrm da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoKnigh_02Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoKnigh_03" value="Cavaleiro da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoKnigh_03Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoKnigh_04" value="Cavaleiro do Dragão da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoKnigh_04Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoMagi_01" value="Xamã da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoMagi_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoMagi_02" value="Invocador da Legião Caída" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoMagi_02Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoTeran_01" value="Teranus Senhor da Guerra" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoTeran_01Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f08_ImmoUranu_01" value="Urvus Senhor da Guerra" />
+  <keys prop="Description" type="monster" key="e_f08_ImmoUranu_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f08_Rabiniyo_01" value="Lebrini Yummi" />
+  <keys prop="Description" type="monster" key="E_f08_Rabiniyo_01Detail" value="Loja Secreta" />
+  <keys prop="Name" type="monster" key="E_D07_sandworm_04" value="Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_sandworm_04Detail" value="Predador de Túmulos" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug1_07" value="Kinugak" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug1_07Detail" value="Guarda do Laboratório de Mutações" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug2_04" value="Zarq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug2_04Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug3_04" value="Zurq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug3_04Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_BugKuro_05" value="Kurodian" />
+  <keys prop="Description" type="monster" key="E_D07_BugKuro_05Detail" value="Biólogo da Legião dos Insetos" />
+  <keys prop="Name" type="monster" key="E_D07_BugKuro_06" value="Kurodian" />
+  <keys prop="Description" type="monster" key="E_D07_BugKuro_06Detail" value="Biólogo da Legião dos Insetos" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug2_05" value="Zarq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug2_05Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug3_05" value="Zurq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug3_05Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_bioinsect_01" value="Organismo Mutante" />
+  <keys prop="Description" type="monster" key="E_D07_bioinsect_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_eggbug_02" value="Parasita Vil" />
+  <keys prop="Description" type="monster" key="E_D07_eggbug_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_BugLanc_02" value="Soldado Mutante" />
+  <keys prop="Description" type="monster" key="E_D07_BugLanc_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Bughostf_02" value="Mulher Mutante" />
+  <keys prop="Description" type="monster" key="E_D07_Bughostf_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceBet_05" value="Fatiador Chifrecervídeo Corrosivo" />
+  <keys prop="Description" type="monster" key="E_D07_ExceBet_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_wormlava_04" value="Larva de Truaz" />
+  <keys prop="Description" type="monster" key="E_D07_wormlava_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Bugsworm_01" value="Truaz Maduro" />
+  <keys prop="Description" type="monster" key="E_D07_Bugsworm_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug1_08" value="Kinugak" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug1_08Detail" value="Guarda do Laboratório de Mutações" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug2_06" value="Zarq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug2_06Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug3_06" value="Zurq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug3_06Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug2_07" value="Zarq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug2_07Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_D07_IlikBug3_07" value="Zurq" />
+  <keys prop="Description" type="monster" key="E_D07_IlikBug3_07Detail" value="Aranhinha de Kinugak" />
+  <keys prop="Name" type="monster" key="E_d07_GoleBelte_01" value="Beltenus Rubro" />
+  <keys prop="Description" type="monster" key="E_d07_GoleBelte_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d07_GoleBelte_02" value="Beltenus Azure" />
+  <keys prop="Description" type="monster" key="E_d07_GoleBelte_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d07_CapBelte_01" value="Beltenus de Rubi Enfraquecido" />
+  <keys prop="Description" type="monster" key="E_d07_CapBelte_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d07_CapBelte_02" value="Beltenus de Safira Enfraquecido" />
+  <keys prop="Description" type="monster" key="E_d07_CapBelte_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_CapKuro_01" value="Kurodian Enfraquecida" />
+  <keys prop="Description" type="monster" key="E_D07_CapKuro_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_fail_01" value="Poder Misterioso" />
+  <keys prop="Description" type="monster" key="E_D07_fail_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_Spirwisp_02" value="Feixe Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_Spirwisp_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D07_ExceMot_03" value="Traça Sepulcral" />
+  <keys prop="Description" type="monster" key="E_D07_ExceMot_03Detail" value="" />
 </files>
