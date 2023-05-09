@@ -6,13 +6,24 @@
 <section class="section-download">
     <div class="wrapper">
         <h3>DOWNLOAD</h3>
-        <a href="#" download="#" class="btn primary download">
+
+        <a href="https://download.icarus101xp.com.br/downloads/PlayIcarus101XPInstaller.msi" download="#" class="btn primary download">
             <div class="bk_logos">
                 <div class="logo"></div>
                 <div class="logo_bar"></div>
                 <div class="logo_uc"></div>
             </div>
-            <span class="txt_g" style="color:#fff;">DOWNLOAD</span>
+            <span class="txt_g" style="color:#fff;">DOWNLOAD SMALL CLIENT</span>
+            <span class="ico"></span>
+        </a>
+
+        <a href="https://download.icarus101xp.com.br/downloads/Icarus101XPFullInstaller.rar" download="#" class="btn primary download">
+            <div class="bk_logos">
+                <div class="logo"></div>
+                <div class="logo_bar"></div>
+                <div class="logo_uc"></div>
+            </div>
+            <span class="txt_g" style="color:#fff;">DOWNLOAD FULL CLIENT</span>
             <span class="ico"></span>
         </a>
     </div>
