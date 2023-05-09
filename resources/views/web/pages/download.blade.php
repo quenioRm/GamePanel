@@ -13,7 +13,7 @@
                 <div class="logo_bar"></div>
                 <div class="logo_uc"></div>
             </div>
-            <span class="txt_g" style="color:#fff;">DOWNLOAD SMALL CLIENT</span>
+            <span class="txt_g" style="color:#fff;">DOWNLOAD SMALL</span>
             <span class="ico"></span>
         </a>
 
@@ -23,7 +23,7 @@
                 <div class="logo_bar"></div>
                 <div class="logo_uc"></div>
             </div>
-            <span class="txt_g" style="color:#fff;">DOWNLOAD FULL CLIENT</span>
+            <span class="txt_g" style="color:#fff;">DOWNLOAD FULL</span>
             <span class="ico"></span>
         </a>
     </div>
