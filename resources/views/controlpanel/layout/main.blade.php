@@ -13,7 +13,7 @@
     <div id="js-leftNavAcitve" class="aside_wrap left">
         <div class="aside_top">
             <a href="https://www.pearlabyss.com/pt-BR" class="logo_box" title="PearlAbyss"></a>
-            <span class="blind">Pearl Abyss</span>
+            <span class="blind">Icarus101XP</span>
             <i class="pi pi_nav_close js-navClose"></i>
         </div>
         <div class="inner aside_body">
