@@ -79,6 +79,9 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::get('getonlineaccounts', [App\Http\Controllers\Games\IcarusAccountController::class,
     'GetOnlineAccounts'])->name('getonlineaccounts');
 
+    Route::get('getuserbyid/{id}', [App\Http\Controllers\Games\IcarusAccountController::class,
+    'GetUserById'])->name('getuserbyid');
+
     // WIKI
     Route::prefix('wiki')->name('wiki.')->group( function(){
 

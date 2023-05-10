@@ -86,4 +86,9 @@ class IcarusAccountController extends Controller
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableAccountLog::GetOnlineAccounts(), 'returnUrl' => '' ], 200);
     }
+
+    public function GetUserById($id)
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => TableUser::where('DbKey', $id)->first(), 'returnUrl' => '' ], 200);
+    }
 }
