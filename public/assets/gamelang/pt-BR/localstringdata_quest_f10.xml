@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="f10_0_1_0001_Title" value="Primeira base de Magmapora, Red Furnace Village" />
+  <keys prop="Description" type="monster" key="f10_0_1_0001_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="f10_0_1_0001_Request_Text" value="Huh... Não estava tão quente, mas... é difícil se mover.&lt;br&gt;Esta é uma vila de fornalha vermelha onde vivem Crocoons que se estabeleceram em Magmaphora.&lt;br&gt;Estes Crocoons provavelmente sabe melhor sobre o fenômeno.&lt;br&gt;Eu já contei a eles sobre você antes de chegar.&lt;br&gt;Vou deixar você se mover independentemente. Avisarei se encontrar alguma informação sobre o demônio. Enquanto isso, verifique a situação." />
+  <keys prop="Description" type="monster" key="f10_0_1_0001_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0001_Ongoing_Text" value="Se você olhar para a direita, verá uma grande fornalha.&lt;br&gt;Haverá um gerente geral que administra a vila, então vá e ouça." />
+  <keys prop="Description" type="monster" key="f10_0_1_0001_Complete_Text" value="Bem, sim. Você é o herói daquele Hakanas?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0002_Title" value="Supervisor da vila" />
+  <keys prop="Description" type="monster" key="f10_0_1_0002_RewarderDesc" value="Diretor Geral" />
+  <keys prop="Description" type="monster" key="f10_0_1_0002_Request_Text" value="Mmm. Então, você é o herói daquele Hakanasu?&lt;br&gt;Eu sou o superintendente geral da vila da Fornalha Vermelha. Todos os chamam de supervisores, então você deve chamá-los assim. &lt;br&gt;A maioria de nós Crocoons são ferreiros que lidam com ferro. Sua arma fala por si. A estrada que você andou" />
+  <keys prop="Description" type="monster" key="f10_0_1_0002_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0002_Ongoing_Text" value="...Você passou por muita coisa em um curto período de tempo. Crocoons que viram seu equipamento não terão escolha a não ser mostrar seu respeito." />
+  <keys prop="Description" type="monster" key="f10_0_1_0002_Complete_Text" value="Então você disse que ouviu sobre a situação com este magmapora?&lt;br&gt;Hmm sim... pode ser mais rápido para você experimentar isso sozinho.&lt;br&gt;Vá para o oeste desta cidade. Mande lembranças ao Guarda Esquerdo.&lt;br&gt;Primeiro, precisamos descobrir a causa... É uma situação muito difícil." />
+  <keys prop="Description" type="monster" key="f10_0_1_0003_Title" value="Guarda Oeste Esquerda" />
+  <keys prop="Description" type="monster" key="f10_0_1_0003_RewarderDesc" value="esquerda" />
+  <keys prop="Description" type="monster" key="f10_0_1_0003_Request_Text" value="Nada de errado! Ah, você não é o herói de Hakanasu!&lt;br&gt;Ah! Você veio depois de ouvir o que o supervisor disse!?&lt;br&gt;Um... originalmente estranhos não deveriam sair.&lt;br&gt;Mas deve haver uma razão para o supervisor ter enviado isso! Eu te dou permissão.&lt;br&gt; Se você matar 1 Rofus andando na sua frente e voltar, acho que você vai ter uma ideia do que está acontecendo em Magmapora!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0003_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0003_Ongoing_Text" value="Como você descobriu?&lt;br&gt;Não há ninguém em Magmaphora além do herói que mereça ter um equipamento como este!&lt;br&gt;A propósito, Rofus são caras muito problemáticos.&lt;b&gt;Por perto, talvez é porque eles não têm o que comer... Eles continuam tentando entrar na aldeia.&lt;br&gt;Às vezes é uma pena que haja caras gentis, mas o estrago na aldeia é formidável.&#xD;&#xA;Ficar fora por muito tempo pode ser perigoso, então leve algumas poções para ajudá-lo a se recuperar!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0003_Complete_Text" value="Você matou e voltou! Obrigado!&lt;br&gt;Sim, isso mesmo. A situação fora da aldeia é mais séria do que dentro.&lt;br&gt;Nós, Crocoons, recebemos a proteção de Nerhes, o deus do fogo, e podemos suportar até certo ponto.&lt;br&gt;Outras raças dizem que é difícil suportar. Na verdade, tem estado quente desde antes, mas não tanto." />
+  <keys prop="Description" type="monster" key="f10_0_1_0004_Title" value="causa da abertura" />
+  <keys prop="Description" type="monster" key="f10_0_1_0004_RewarderDesc" value="esquerda" />
+  <keys prop="Description" type="monster" key="f10_0_1_0004_Request_Text" value="causa? hmm… &lt;br&gt;Ah, pensando bem, meu amigo disse algo estranho enquanto bebia ontem.&lt;br&gt;O que ele disse porque Nerges-sama estava com raiva? Não está lá, então por que você não o visita!&lt;br&gt;Você provavelmente já estará na Hospedaria Quenching." />
+  <keys prop="Description" type="monster" key="f10_0_1_0004_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0004_Ongoing_Text" value="A taberna fica do lado do píer!&lt;br&gt;Ah... é porque meu amigo não tem bom humor quando só bebe.&lt;br&gt;Espero que ele não tenha bebido. .." />
+  <keys prop="Description" type="monster" key="f10_0_1_0004_Complete_Text" value="Alguém está falando comigo! Ei, que ótima pessoa você é!?!?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0005_Title" value="Manual do Bêbado" />
+  <keys prop="Description" type="monster" key="f10_0_1_0005_RewarderDesc" value="Manual" />
+  <keys prop="Description" type="monster" key="f10_0_1_0005_Request_Text" value="Você se parece com aquele herói Hakanasu ou o quê?! Tsk. Vá embora!&lt;br&gt;(Vamos comprar uma cerveja do estalajadeiro)" />
+  <keys prop="Description" type="monster" key="f10_0_1_0005_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0005_Ongoing_Text" value="Vá embora! Estou ocupado... Estou ocupado... &lt;br&gt;Sim! Eu me sinto mal porque nem pago pelo álcool, mas você me deixa ainda mais chateado!&lt;br&gt;Saia da minha frente!&lt;br&gt;(Vamos comprar uma cerveja do estalajadeiro)" />
+  <keys prop="Description" type="monster" key="f10_0_1_0005_Complete_Text" value="끅. o que… Você pode me pagar uma bebida?&lt;br&gt;Dá para mim! o que você está olhando? Não tenho nada a dizer.&lt;br&gt;(Acho que será difícil ter uma conversa a menos que você esteja sóbrio.)" />
+  <keys prop="Description" type="monster" key="f10_0_1_0006_Title" value="Father and Daughter" />
+  <keys prop="Description" type="monster" key="f10_0_1_0006_RewarderDesc" value="Mayfrin" />
+  <keys prop="Description" type="monster" key="f10_0_1_0006_Request_Text" value="Pai!! está começando de novo Opa!&lt;br&gt;Ah.. Olhando para o equipamento, é como aquele herói Hakanasu, certo?&lt;br&gt;Acho que há algo que você quer perguntar ao seu pai.&lt;br&gt;Hmm... Então você pode me ajudar fazer uma poção sóbria?&lt;br&gt;Se você comprar cerca de 10 ingredientes de orvalho dourado do estalajadeiro Sr. Luke, eu farei isso para você." />
+  <keys prop="Description" type="monster" key="f10_0_1_0006_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0006_Ongoing_Text" value="Golden Dew é considerado um remédio, mas na verdade também é um tipo de álcool.&lt;br&gt;É chamado de um dos cinco produtos famosos de Magmapora porque tem um sabor incrível o suficiente para clarear sua mente!&lt;br &gt;O nome Golden Dew Silver, foi tão difícil de fazer que ganhou esse nome porque o ouro fica louco haha." />
+  <keys prop="Description" type="monster" key="f10_0_1_0006_Complete_Text" value="Vejamos. Hum... Ah! Eu deveria ter colocado em menos de 0,01%. Devo tentar novamente... &lt;br&gt;Opa... Isso deve mexer por apenas 2 segundos, mas houve um erro de cerca de 0,5 segundos.&lt;br&gt;Desta vez, com certeza vai funcionar! Ufa, por ser o último ingrediente restante, comecei a suar frio porque estava com medo de falhar... Graças a Deus!&lt;br&gt;Você pode trazer o orvalho dourado para o meu pai?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0007_Title" value="Isso é orvalho dourado!?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0007_RewarderDesc" value="Manual" />
+  <keys prop="Description" type="monster" key="f10_0_1_0007_Request_Text" value="O que! Você não me ouviu dizer vá embora?&lt;br&gt;Hein? lol. É diferente quando se trata de álcool. Eu acho que esta é uma bebida high-end? ぅ.&lt;br&gt;Hehe.. Gulp... Este aroma agradavelmente doce de flores roça a ponta do nariz... &lt;br&gt;Uma sensação refrescante que acorda o corpo e a cabeça além do álcool picante..&lt;br&gt;O que é isso... ? Minha cabeça está ficando clara... ha..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0007_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0007_Ongoing_Text" value="Naquele prado verde... Filhotes de crocodilos correndo por aí..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0007_Complete_Text" value="...! Dizer que ele foi um verdadeiro herói... Ops... Me desculpe... Mostrei grosseria... Haha. &lt;br&gt;Isso... o que aconteceu...? Ah... eu vi mesmo estando bêbado!&lt;br&gt;Originalmente, esse magmapo não era tão quente assim.&lt;br&gt;Tudo era um problema causado pelo fechamento da mina por demônios... eu vi. Eu vi." />
+  <keys prop="Description" type="monster" key="f10_0_1_0008_Title" value="O que aconteceu nas minas" />
+  <keys prop="Description" type="monster" key="f10_0_1_0008_RewarderDesc" value="Manual" />
+  <keys prop="Description" type="monster" key="f10_0_1_0008_Request_Text" value="Eu costumava ser um mineiro trabalhando em uma mina.&lt;br&gt;Às vezes, a energia demoníaca começou a fluir de dentro da mina... &lt;br&gt;No final, a mina foi fechada e eu perdi meu emprego.&lt; br&gt;Lembrei-me das ferramentas que deixei para trás à noite, então fui para a mina... Eu vi os subordinados do Deus Demônio entrarem na mina!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0008_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0008_Ongoing_Text" value="Eu estava com muito medo…" />
+  <keys prop="Description" type="monster" key="f10_0_1_0008_Complete_Text" value="Foi a partir desse dia. A razão pela qual Magmapora sofria de um calor desconhecido...&lt;br&gt;Nós, Crocoon de Magmapora, servimos o deus do fogo desde antes.&#xD;&#xA;Não é difícil distinguir o fogo da divindade que você está adorando! Você sabe imediatamente quando vê?&lt;br&gt;Não é besteira. Era definitivamente a chama de Nerhes-sama!&lt;br&gt;Os subordinados do diabo estavam fazendo algo dentro da mina. E deve ter merecido a ira dos deuses!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0009_Title" value="Grupo suspeito" />
+  <keys prop="Description" type="monster" key="f10_0_1_0009_RewarderDesc" value="Manual" />
+  <keys prop="Description" type="monster" key="f10_0_1_0009_Request_Text" value="Você já viu crocodilos vestidos com fantasias estranhas?&lt;br&gt;Quando fugi, peguei um estranho pedaço de pano dentro da mina... &lt;br&gt;Porque parece ser o mesmo pano daqueles roupas de crocoon.. Considerando que começou a se esticar na época em que a energia demoníaca começou a fluir da mina, estou um pouco desconfiado..&lt;br&gt;Que tal perguntar ao supervisor?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0009_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0009_Ongoing_Text" value="Se você é o supervisor, gostaria de saber a situação até certo ponto." />
+  <keys prop="Description" type="monster" key="f10_0_1_0009_Complete_Text" value="Você conhece o Magmapora? Haha&lt;br&gt;...Crocoon com uma roupa estranha? Ah... mesmo assim, foi uma dor de cabeça por causa disso.&lt;br&gt;Cada Crocoon em Magmapora é um artesão. No entanto, mais e mais pessoas abandonam seus empregos e usam roupas estranhas.&lt;br&gt;Até mesmo relatos de pessoas desaparecidas estão chegando.&lt;br&gt;Não podemos simplesmente deixar as coisas assim. Se você não se importa, que tal conversar com eles? Ouvi dizer que há muitas pessoas reunidas no beco." />
+  <keys prop="Description" type="monster" key="f10_0_1_0010_Title" value="Ruelas Escuras" />
+  <keys prop="Description" type="monster" key="f10_0_1_0010_RewarderDesc" value="Dealer Livio" />
+  <keys prop="Description" type="monster" key="f10_0_1_0010_Request_Text" value="Ei mano. Se você nem é Crokun, por que quer vir aqui?&lt;br&gt;Ah, aquele grupo de fanáticos? ha ha ha. sim, é divertido Você quer investigar, certo?&lt;br&gt;Eu sou a inteligência deste distrito. Se você fizer tarefas simples, eu o ajudarei a investigar confortavelmente.&lt;br&gt;Vejamos... Mateus a caminho da mina fechada. Pegue um pouco de sangue." />
+  <keys prop="Description" type="monster" key="f10_0_1_0010_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0010_Ongoing_Text" value="O que você está fazendo? Pegar Matthew no caminho para a mina fechada e tirar um pouco de sangue?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0010_Complete_Text" value="Ao contrário de Martytle, Mathieu não é muito diferente das outras tartarugas em termos de aparência.&lt;br&gt;Mas a lava flui de seu sangue. É por isso que você pode nadar na lava. Não é incrível?&lt;br&gt;Hmm, sim. Bem, há algo que eu gostaria de experimentar.&lt;br&gt;Vou te avisar já que tenho o que você precisa. Deve haver um crocoon de aparência burra no lugar mais fundo. Fale com ele. Já faz um tempo desde que me tornei crente, então ainda sou bonita." />
+  <keys prop="Description" type="monster" key="f10_0_1_0011_Title" value="Novo cultista desajeitado" />
+  <keys prop="Description" type="monster" key="f10_0_1_0011_RewarderDesc" value="Nicky" />
+  <keys prop="Description" type="monster" key="f10_0_1_0011_Request_Text" value="(O estúpido Crocoon está resmungando.)&lt;br&gt;Olá. Você acredita em Deus..&lt;br&gt;Mmmm.. ótimo.. ótimo.. um… &lt;br&gt;Uh... o que vem a seguir...?&lt;br&gt;Oh...! Oh grande. olá. você é... uh... Não é Crocoon? &lt;br&gt;Não tenho nada a dizer!!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0011_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0011_Ongoing_Text" value="Não adianta perguntar!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0011_Complete_Text" value="Aww… Hoje é o primeiro dia de propagação, mas mesmo se eu for pego, não é Crocoon... aliás… Tá muito calor por causa da roupa... &lt;br&gt;Ufa... Como é minha mãe... Você está comendo bem? Eu quero ver a mamãe... &lt;br&gt;(Acho que não quero contar mais. Você parece sentir falta da sua mãe, então por que não procura?)" />
+  <keys prop="Description" type="monster" key="f10_0_1_0012_Title" value="Você tem um filho?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0012_RewarderDesc" value="Presente quente" />
+  <keys prop="Description" type="monster" key="f10_0_1_0012_Request_Text" value="Oh meu Deus, você não é um herói? O lugar onde nossas esposas se reuniam era interessante. O que você está fazendo?&lt;br&gt;Mãe ou filho? Hoho eu não tenho filho!&lt;br&gt;Só tenho uma filha boa e um marido feio que bebe o tempo todo!&lt;br&gt;Sabe de alguma casa com filho? Bom... não conheço todos. Oh Ridere saberia! O Crocoon mais falante e intrometido de Magmaphora." />
+  <keys prop="Description" type="monster" key="f10_0_1_0012_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0012_Ongoing_Text" value="Provavelmente no beco! Tente procurá-lo.&lt;br&gt;Ah, mas... Eu tenho muita ganância, então se eu simplesmente for, eles provavelmente não vão me avisar de graça. Eu gosto de carne especial, mas..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0012_Complete_Text" value="Oh meu Deus, quem é este. Ho ho ho. Você não é um herói famoso?&lt;br&gt;Mesmo assim, o quente Magmaphora é tão quente que está queimando com a história de um herói! obrigado" />
+  <keys prop="Description" type="monster" key="f10_0_1_0013_Title" value="Nada é de graça neste mundo" />
+  <keys prop="Description" type="monster" key="f10_0_1_0013_RewarderDesc" value="Recompensador falador" />
+  <keys prop="Description" type="monster" key="f10_0_1_0013_Request_Text" value="Você sabe em qual casa tem um filho? Diga-me mais especificamente.&lt;br&gt;Essa é a altura... Você está um pouco estupefato e está falando sobre sua mãe, não está? E parece que você acabou de se juntar a um grupo estranho?&lt;br&gt;Aha, eu sei quem é. Hmm.. Mas eu não quero te dizer nada.&lt;br&gt;Hero ficou famoso graças a mim, e ele não recebeu nenhum dinheiro de publicidade!&lt;br&gt;Eu não posso fazer isso. Traga alguma carne especial. Você pode obtê-lo derrotando Martytle e Mathew na mina fechada ali." />
+  <keys prop="Description" type="monster" key="f10_0_1_0013_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0013_Ongoing_Text" value="Avisarei quando trouxer carne especial. Você pode obtê-lo derrotando Martytle e Mathew na mina fechada ali." />
+  <keys prop="Description" type="monster" key="f10_0_1_0013_Complete_Text" value="Sim! Não procrastine, dê para mim rapidamente! Eu deveria me gabar para os vizinhos de que ganhei do herói. Crocante.&lt;br&gt;Sim. Deve ser o filho de Vita. Ouvi dizer que você recentemente saiu de casa e se juntou a um grupo estranho. &lt;br&gt;Vita é artesã de doces, mas não tem loja própria. Ele não está se sentindo bem, então a essa altura ele geralmente estará na frente da casa. Vou te dizer onde fica, então olhe no mapa e encontre. ela é baixinha" />
+  <keys prop="Description" type="monster" key="f10_0_1_0014_Title" value="Novidades do meu filho" />
+  <keys prop="Description" type="monster" key="f10_0_1_0014_RewarderDesc" value="Candy Artisan Vita" />
+  <keys prop="Description" type="monster" key="f10_0_1_0014_Request_Text" value="Olá .. Sim ..? Ah sim é isso mesmo.. eu sou a Vita.&lt;br&gt;Ah meu filho..? É porque eu não estou muito bem..&lt;br&gt;Desde que saí de casa para ganhar muito dinheiro... Você viu seu filho?&lt;br&gt;Se você me der licença, poderia me falar sobre seu filho ?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0014_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0014_Ongoing_Text" value="Ah… Como você está?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0014_Complete_Text" value="Nossa Nikki… Eu fico com muito calor.&lt;br&gt;Talvez seja por isso que eu gosto de sorvete. Os ingredientes do sorvete esfriam o calor do corpo.&lt;br&gt;Quero fazer sorvete que meu filho goste... Tem sido tão difícil encontrar ingredientes ultimamente.. Você pode me ajudar se não se importar?&lt;br&gt; Preciso de açúcar e hortelã..&lt;br&gt;Não estou me sentindo bem... Você deve conseguir os ingredientes na pousada... Eu imploro..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0015_Title" value="Obtenção de ingredientes para doces" />
+  <keys prop="Description" type="monster" key="f10_0_1_0015_RewarderDesc" value="Gerente de Estoque Recompensador" />
+  <keys prop="Description" type="monster" key="f10_0_1_0015_Request_Text" value="Ops, ocupado, ocupado! O que você vai fazer, herói? Huh doçura?&lt;br&gt;Você realmente precisa disso agora? Como você pode ver, não é que não tenhamos dinheiro suficiente para vender açúcar. É porque o número de mascates diminuiu muito.&lt;br&gt;Hmm... Eu ainda preciso, então se você me fizer um favor, eu te dou um pouco de açúcar.&lt;br&gt;Está vendo aqueles barris empilhados ali? Verifique dentro e traga apenas 10 vinhos tintos." />
+  <keys prop="Description" type="monster" key="f10_0_1_0015_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0015_Ongoing_Text" value="Se sair outro vinho, jogue fora! Não consigo lidar com uma coisa de tão baixa qualidade." />
+  <keys prop="Description" type="monster" key="f10_0_1_0015_Complete_Text" value="Oh, você trabalhou duro! Não sei se esta é uma pousada que comia heróis, então não sei se ficará mais famosa. Aqui está!&lt;br&gt;Fortress Magmaphora está tão quente que o número de vendedores diminuiu.&lt;br&gt;Originalmente, é normal estar tão ocupado que você nem tem tempo para falar. O que você faz, herói!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0016_Title" value="Solicitação de coleta de hortelã" />
+  <keys prop="Description" type="monster" key="f10_0_1_0016_RewarderDesc" value="Gerente de Estoque Recompensador" />
+  <keys prop="Description" type="monster" key="f10_0_1_0016_Request_Text" value="Hã? Hortelã? desculpe. O funcionário encarregado da colheita pediu demissão recentemente e se juntou a um grupo estranho.&lt;br&gt;Nós também estamos paralisados agora. O herói não tem escolha a não ser coletar ele mesmo. Procure o caminho para a mina fechada. Haverá balas aqui e ali. Eles são muito fortes.&lt;br&gt;Enquanto você os coleta, traga algo para nós. Em vez disso, certifique-se de recompensá-los generosamente." />
+  <keys prop="Description" type="monster" key="f10_0_1_0016_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0016_Ongoing_Text" value="Observe o caminho para a mina fechada! Deve haver balas por aí!&lt;br&gt;É pequeno, então tome cuidado para não pisar nele." />
+  <keys prop="Description" type="monster" key="f10_0_1_0016_Complete_Text" value="Muito obrigado! Haha, nós também tivemos problemas. É porque a menta é um ingrediente do álcool.&lt;br&gt;Ah, entendo, Vita-san pediu? Desculpe. demorando vou entregar o que coletei para o Sr. Vita!&lt;br&gt;Ah, você também deveria cuidar da devolução. Este é um menu escondido na taverna, mas vou te dar alguns. bom apetite!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0017_Title" value="Amor em Doce de Gelo" />
+  <keys prop="Description" type="monster" key="f10_0_1_0017_RewarderDesc" value="Candy Artisan Vita" />
+  <keys prop="Description" type="monster" key="f10_0_1_0017_Request_Text" value="Ah.. Obrigado. espere um minuto. Ei... você pode dar esse doce para o seu filho? Esta mãe está sempre esperando por você fazendo algo que você gosta ... &lt;br&gt;Não fique doente e cuide da sua saúde.. A saúde é sempre a principal prioridade. &lt;br&gt;Ah... está demorando muito. Me desculpe por segurar você. obrigado." />
+  <keys prop="Description" type="monster" key="f10_0_1_0017_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0017_Ongoing_Text" value="Por favor. Por favor, passe para o seu filho." />
+  <keys prop="Description" type="monster" key="f10_0_1_0017_Complete_Text" value="Ah, então não posso dizer nada a não ser que seja Crocoon.&lt;br&gt;Sim? doce? Bem.. Eu não como nada, mas é grande.&lt;br&gt;Eu não me recuso a dar a você.&lt;br&gt;Hein...!? Isso... minha mãe fez... como..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0018_Title" value="Não há efeito especial" />
+  <keys prop="Description" type="monster" key="f10_0_1_0018_RewarderDesc" value="Nicky" />
+  <keys prop="Description" type="monster" key="f10_0_1_0018_Request_Text" value="Ah, sério... Mamãe também não está se sentindo bem. Se preocupando comigo... &lt;br&gt;Eu sei que o que estou fazendo é ruim..&lt;br&gt;Ainda assim, ela me deu muito dinheiro, então me segurei para não querer ver minha mãe, mas está escuro..&lt; br&gt;Eu deveria ter largado esse emprego e aprendido a fazer doces com minha mãe. &lt;br&gt;...Estou deixando a Ordem... Você disse que tem uma pergunta? Deixe-me dizer-lhe." />
+  <keys prop="Description" type="monster" key="f10_0_1_0018_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0018_Ongoing_Text" value="Você está curioso sobre a Ordem? ah… Foi isso que aconteceu com o magmafora?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0018_Complete_Text" value="No meio da noite, ajudei meus superiores e movi uma certa espada para a frente da mina.&lt;br&gt;Estava envolta em um pano com um padrão sinistro... Estava no forma de uma espada.&lt;br&gt;Você não sabe o quão assustador eu era quando às vezes tropeçava sozinho enquanto a carregava... !&lt;br&gt;No entanto, nunca me disseram onde usá-la. hmm... Na verdade, recebi uma encomenda ao entrar na escola... Na verdade, perdi quando fui à mina naquele dia... rs. Por que você não dá uma olhada? É um livro vermelho!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0019_Title" value="O que Lavini viu" />
+  <keys prop="Description" type="monster" key="f10_0_1_0019_RewarderDesc" value="Lavini Tubini &lt;Lua Crescente Superior&gt;" />
+  <keys prop="Description" type="monster" key="f10_0_1_0019_Request_Text" value="Hã? Não acho que você esteja no mesmo time que os caras do culto?&lt;br&gt;Embora seja um pouco perigoso, sou o único que faz negócios com esses caras, então sou muito bom em ganhar dinheiro.&lt; br&gt;O que você veio fazer aqui? Você já viu um livro vermelho?&lt;br&gt;Hmm.. Pensando bem, eu vi caras Ignave voando por lá segurando algo como um livro.&lt;br&gt;Está no ar, então é complicado, mas você pode pegue as penas daquele cara também. Você não consegue?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0019_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0019_Ongoing_Text" value="Esses caras estão voando na frente da mina fechada. É o momento certo quando você chega perto! &lt;br&gt;Reúna algumas penas vermelhas enquanto você pega Ignave." />
+  <keys prop="Description" type="monster" key="f10_0_1_0019_Complete_Text" value="Oh obrigado! Se você fizer uma caneta com uma pena, ela vende muito bem!&lt;br&gt;Também vou encomendá-la no quadro de avisos no centro da cidade, então ficarei grato se você me ajudar com frequência.&lt;br&gt;Por a propósito, não encontrei o livro que procurava? Hmm. Será que foi queimado por lava? Você pode ter visto algo." />
+  <keys prop="Description" type="monster" key="f10_0_1_0020_Title" value="Aquele que engoliu o livro vermelho" />
+  <keys prop="Description" type="monster" key="f10_0_1_0020_RewarderDesc" value="esquerda" />
+  <keys prop="Description" type="monster" key="f10_0_1_0020_Request_Text" value="Lee Sang Moo! Muito tempo sem ver. herói!! sim? Você já viu algo parecido com um livro?&lt;br&gt;Ah. Você chegou à mina fechada? É perigoso por causa dos Magos, mas você é corajoso!&lt;br&gt;Hmm.. Você já viu um grande lagarto perambulando pelo topo de uma mina fechada?&lt;br&gt;&#xD;&#xA;Acho que se você pegá-lo, algo vai sair." />
+  <keys prop="Description" type="monster" key="f10_0_1_0020_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0020_Ongoing_Text" value="Originalmente, havia um lagarto vermelho criado pelos Lagartos, mas ele perdeu as rédeas por aqui.&lt;br&gt;Agora ele comeu demonia e cresceu tanto que continua a vagar pela mina.&lt;br&gt; &gt;Ignave é Você não disse que o roubou?&lt;br&gt;Eu o vi mastigando Ignave... talvez esteja em seu estômago!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0020_Complete_Text" value="Você estava no estômago dele também!&lt;br&gt;Ugh.. Está úmido, mas o interior é tratado termicamente!&lt;br&gt;Hein..? como você lê isso? Algo como texto cifrado... não consigo ler. Alguém familiarizado com este texto cifrado?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0021_Title" value="O que a igreja está escondendo" />
+  <keys prop="Description" type="monster" key="f10_0_1_0021_RewarderDesc" value="Nicky" />
+  <keys prop="Description" type="monster" key="f10_0_1_0021_Request_Text" value="Hã, né? por que você veio de novo? Eu realmente não sei mais nada!&lt;br&gt;Ah... Você veio me encontrar! Eu esqueci. Para ler isso, você precisa borrifar o remédio fornecido pela igreja para vê-lo.&#xD;&#xA;Mas você só pode conseguir isso se tiver um alto nível de confiança..! Pensando bem, ouvi de um veterano antes que há um ravini na igreja que traz suprimentos para você!&lt;br&gt;Esse ravini deve ter vendido ingredientes para fazer remédios!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0021_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0021_Ongoing_Text" value="Talvez esteja no lado da mina fechada..? Eu já os vi lá antes!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0021_Complete_Text" value="O que? por que você está falando de novo? Meu conselho ajudou você?&lt;br&gt;O quê? Uma droga feita pela igreja? Como você sabe disso?&lt;br&gt;Eu não posso te dizer com a minha boca nua! Ouvi dizer que doces ou algo assim são populares em Red Furnace Village hoje em dia? Como você pode ver, estou ocupado na fila. Em particular, ouvi dizer que há um conjunto de doces limitado!! Traga um pouco disso." />
+  <keys prop="Description" type="monster" key="f10_0_1_0022_Title" value="Reúna ingredientes para doces limitados" />
+  <keys prop="Description" type="monster" key="f10_0_1_0022_RewarderDesc" value="Candy Artisan Vita" />
+  <keys prop="Description" type="monster" key="f10_0_1_0022_Request_Text" value="Ops.. Olá guerreiro. Ah... doces limitados? Sinto muito.. Recebi reservas de clientes por vários meses..&lt;br&gt;Não posso simplesmente dar a você.. Sinto muito. Na verdade, eu nem tinha material suficiente... Publiquei um pedido no quadro de avisos no centro da vila.&lt;br&gt;Se você aceitar o pedido, eu o entrego primeiro... Se você ajudar mim, eu vou te servir..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0022_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0022_Ongoing_Text" value="Os pedidos geralmente são feitos no quadro de avisos central da vila... Desta vez, estou solicitando pessoalmente, mas se você usar, haverá recompensas da cidade, então verifique quando tiver tempo. .. &lt;br&gt;Desta vez, eles coletam balas como da última vez. Eu quero que você colete essas balas..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0022_Complete_Text" value="Você é uma pessoa ocupada, então me desculpe por perguntar isso... &lt;br&gt;… quero dizer, recentemente. Meu filho voltou... Ainda sou imaturo, então sempre faltam os ingredientes. whooping... &lt;br&gt;O conjunto limitado de doces está aqui. E estes são os cristais de açúcar que estou te dando em agradecimento. Eu posso obtê-lo muito ocasionalmente. Espero que ajude. Obrigado." />
+  <keys prop="Description" type="monster" key="f10_0_1_0023_Title" value="descriptografia" />
+  <keys prop="Description" type="monster" key="f10_0_1_0023_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_0_1_0023_Request_Text" value="Ah!! Esse é o famoso bombom limitado? Umm, definitivamente me refresca e esfria o calor deste magmapora quente ao máximo!&lt;br&gt;Dizem que não posso comprá-lo porque não o tenho, mas merece ser vendido por um preço alto no submundo!&lt;br&gt;É este remédio que você está procurando? Parecia que foi borrifado em algo como um livro. Bem, eu não sou meio período." />
+  <keys prop="Description" type="monster" key="f10_0_1_0023_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0023_Ongoing_Text" value="Ah, você tem um livro? Seja meticuloso." />
+  <keys prop="Description" type="monster" key="f10_0_1_0023_Complete_Text" value="O que foi escrito no livro? Oh não, eu acho que você vai se machucar se souber." />
+  <keys prop="Description" type="monster" key="f10_0_1_0024_Title" value="Seguir ordens" />
+  <keys prop="Description" type="monster" key="f10_0_1_0024_RewarderDesc" value="Comandos" />
+  <keys prop="Description" type="monster" key="f10_0_1_0024_Request_Text" value="Quem ler isso será o que teve sucesso na promoção.&lt;br&gt;Assim que você ler, entre na mina fechada e siga suas ordens.&lt;br&gt;Realmente entre na igreja e siga suas ordens . cumem." />
+  <keys prop="Description" type="monster" key="f10_0_1_0024_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0024_Ongoing_Text" value="Qualquer um que ler isso deve ser aquele que teve sucesso na promoção.&lt;br&gt;Assim que você ler, entre na mina fechada e siga suas ordens.&lt;br&gt;Realmente entre na igreja e siga suas ordens . cumem." />
+  <keys prop="Description" type="monster" key="f10_0_1_0024_Complete_Text" value="O que? Você quer entrar?&lt;br&gt;Venha aqui... Você sabe que isso é um covil de fanáticos!?&lt;br&gt;Vai ser perigoso." />
+  <keys prop="Description" type="monster" key="f10_0_1_0025_Title" value="Alcance o nível 72" />
+  <keys prop="Description" type="monster" key="f10_0_1_0025_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_0_1_0025_Request_Text" value="Em seu estado atual, nem mesmo um único pedaço de pano pode ser escovado por eles.&lt;br&gt;Não sei a quem eles servem, mas estão emitindo tanta energia demoníaca. Bem... Ela está bem porque está protegida pelo deus negro Tellio. Ajude com várias missões na cidade ou fique mais forte derrotando inimigos próximos!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0025_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0025_Ongoing_Text" value="Porque eles absorveram energia demoníaca, eles são muito, muito poderosos além da minha imaginação! Ajude com várias missões na cidade ou fique mais forte derrotando inimigos próximos!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0025_Complete_Text" value="Por que você está me ajudando assim? É porque eu estava pensando em sair logo.&lt;br&gt;É melhor ganhar uma quantia moderada de dinheiro para caras perigosos e se destacar antes que eles se aprofundem.&lt;br&gt;Se você fizer isso, tudo bem se um ravini desaparecer, não é? t-lo? Kyakkya.&lt;br&gt;Nesse sentido, darei a você pedidos adicionais e o apoiarei!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0026_Title" value="Líder oculto das minas fechadas" />
+  <keys prop="Description" type="monster" key="f10_0_1_0026_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_0_1_0026_Request_Text" value="Parece que Crocoon Supervisor também notou que um grupo de fanáticos está usando este lugar como seu quartel-general.&lt;br&gt;Parece que eles estão secretamente trabalhando em contra-medidas... Como você sabe? Há uma maneira de saber tudo!&lt;br&gt;Você não vai me dar algo como recompensa se matar o líder?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0026_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0026_Ongoing_Text" value="Se apenas o líder for derrotado, o grupo fanático entrará em colapso naturalmente!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0026_Complete_Text" value="A identidade do líder? Não estou particularmente interessado em coisas assim!&lt;br&gt;A propósito, o que é essa espada quebrada? É incrivelmente perigoso... &lt;br&gt;Qual aço devo levar para o supervisor?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0027_Title" value="Espada Quebrada" />
+  <keys prop="Description" type="monster" key="f10_0_1_0027_RewarderDesc" value="Diretor Geral" />
+  <keys prop="Description" type="monster" key="f10_0_1_0027_Request_Text" value="Você matou o líder da mina fechada? Eu ia pedir um favor, mas para resolver com antecedência, como esperado, os heróis são diferentes haha.&lt;br&gt;Espada quebrada..? Inacreditável… ! Aquele grupo de fanáticos fez o trabalho!&lt;br&gt;Esta espada... a espada falante Xenahorn. É a espada estimada por Nerhes, o deus de nossos crocoons. Estou dormindo agora, então a conversa não vai funcionar, mas... Acho que é certo explicar para você. É um pouco longo, mas você vai ouvir a história?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0027_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0027_Ongoing_Text" value="Eu entendo porque Nerhes estava com raiva. É porque a alma de Jenna está quebrada." />
+  <keys prop="Description" type="monster" key="f10_0_1_0027_Complete_Text" value="Era uma vez, durante a Grande Guerra de Turimran, a princesa do reino dos insetos derreteu seu corpo em uma fornalha para encerrar a batalha.&lt;br&gt;Nosso Crocoon os ajudou a fazer uma linda espada.&lt;br&gt;Nossa deus movido por isso e trabalhou nisso. No caminho, ele soprou seu próprio fôlego nela, e uma espada com um ego apareceu pela primeira vez.&lt;br&gt;E ele deu o nome de Jenahorn.&lt;br&gt;Enquanto Zenahorn não for consertado, a ira do deus continuará ... nos ajude" />
+  <keys prop="Description" type="monster" key="f10_0_1_0028_Title" value="Projetos Perdidos" />
+  <keys prop="Description" type="monster" key="f10_0_1_0028_RewarderDesc" value="Diretor Geral" />
+  <keys prop="Description" type="monster" key="f10_0_1_0028_Request_Text" value="Aqueles que veem diretamente a aparição de Deus não podem lidar com o poder e morrer queimados. Só podíamos ouvir sua voz através de Jenna. Eu não sabia que Zenahon-nim não aparecia normalmente... Eu não esperava que isso acontecesse... &lt;br&gt;Jenna Horn precisa ser consertada. Nossos ancestrais sempre traçavam projetos antes de trabalhar. Eu tenho que encontrar o projeto.&lt;br&gt;Eu me pergunto se ele será publicado na casa de leilões... Eu gostaria de pedir um favor a você." />
+  <keys prop="Description" type="monster" key="f10_0_1_0028_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0028_Ongoing_Text" value="Entregarei o custo à casa de leilões com antecedência.&lt;br&gt;Aqueles que são desbocados, mas enviaram muito dinheiro, então darão algumas informações. Eu desejo você bem." />
+  <keys prop="Description" type="monster" key="f10_0_1_0028_Complete_Text" value="Ah. Eu ouvi do supervisor com antecedência.&lt;br&gt;Na verdade, é impossível, em princípio, fornecer informações sobre o item antes do leilão.&lt;br&gt;No caso da planta que você mencionou, o leilão estava programado para ser realizado no próximo ano . Mas também há coisas que têm sido feitas com sinceridade... Julgando que se tratava de um assunto urgente, veio uma ordem da alta direção de que não havia problema em informar o nome da pessoa que atualmente está com o item." />
+  <keys prop="Description" type="monster" key="f10_0_1_0029_Title" value="Artesão de Hakanasu" />
+  <keys prop="Description" type="monster" key="f10_0_1_0029_RewarderDesc" value="Corretor da casa de leilões" />
+  <keys prop="Description" type="monster" key="f10_0_1_0029_Request_Text" value="A pessoa que tem o projeto de Jenahon é um velho de Hakanasu.&lt;br&gt;Ele se aposentou como um artesão famoso e veio para Magmapora.&lt;br&gt;Bem na hora, o homem rico da vila morreu e a sorte Você comprou toda a casa com boa sorte.&lt;br&gt;Quem diria que haveria um armazenamento secreto dentro. É por isso que ele possui muitos artefatos históricos.&lt;br&gt;Ele também tem as plantas de Jenahorn.&lt;br&gt;Ele sempre dá instruções a Crocoon no Artisan District, então, por favor, visite-o uma vez." />
+  <keys prop="Description" type="monster" key="f10_0_1_0029_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0029_Ongoing_Text" value="Você estará do lado do distrito de Jangin. A ajuda está aqui." />
+  <keys prop="Description" type="monster" key="f10_0_1_0029_Complete_Text" value="Eh? Quem é você? Você me conhece?&lt;br&gt;Oh meu... Dizem que você é um herói popular entre os Crocoons hoje em dia!&lt;br&gt;Que negócio você veio para esse velho aposentado? Não estou mais fazendo arte!&lt;br&gt;O quê? projeto? deve haver Mas o que você sabe, dar-lhe o meu precioso tesouro? Ele é apenas um cara engraçado." />
+  <keys prop="Description" type="monster" key="f10_0_1_0030_Title" value="Coletar ossos etmoidais" />
+  <keys prop="Description" type="monster" key="f10_0_1_0030_RewarderDesc" value="velho teimoso" />
+  <keys prop="Description" type="monster" key="f10_0_1_0030_Request_Text" value="Ooh. Você não pode alugar, não comprar? bem... O que estou fazendo?&lt;br&gt;Claro, eu aprecio muito as plantas. hmm… Bem, então, faça-me um favor.&lt;br&gt;Não posso ver meu tesouro sendo manuseado por aqueles crocodilos imundos. Terei que ajudá-lo a lançar o Encantamento Permanente.&lt;br&gt;Hmm. Veja a floresta vermelha à direita ali? Em primeiro lugar, mate os calceses em chamas e colete alguns ossos! Será mais fácil se você tiver Magmaphora Fellows." />
+  <keys prop="Description" type="monster" key="f10_0_1_0030_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0030_Ongoing_Text" value="Como às vezes eles pousam no chão, vai ser um pouco complicado!&lt;br&gt;Se não fosse Crokun, seria difícil ir para a Floresta Vermelha porque está quente em primeiro lugar?&lt;br&gt; Você terá que domar pelo menos um companheiro de Magmapora em algum lugar. Companheiros que viveram nesta terra deram a seus mestres a energia para superar este calor.&lt;br&gt;Companheiros que nasceram e cresceram aqui foram abençoados pelo deus do fogo." />
+  <keys prop="Description" type="monster" key="f10_0_1_0030_Complete_Text" value="Hehe, isso mesmo! É um pouco complicado já que esses caras estão no ar?&lt;br&gt;Por que você me pediu para coletar os ossos dele? Eu fervi e comi a sopa com os ossos desse cara. É porque você não sabe como é gostoso!&lt;br&gt;Yeki! Ei! Você não conhece o respeito pelos idosos! onde você está mantendo seus olhos abertos? Eu não disse que era o material? Você tem que ouvir o que as pessoas dizem!&lt;br&gt;Você não está tentando viver de tudo? … Ok, então vou pedir os ingredientes reais." />
+  <keys prop="Description" type="monster" key="f10_0_1_0031_Title" value="Material de preservação permanente" />
+  <keys prop="Description" type="monster" key="f10_0_1_0031_RewarderDesc" value="velho teimoso" />
+  <keys prop="Description" type="monster" key="f10_0_1_0031_Request_Text" value="Sim... 50 pedaços de madeira em chamas e 30 projéteis de Hitrit servirão. Depressa!&lt;br&gt;O que é isso? Eu ainda tenho que explicar cada um? Um pedaço de madeira queimando na Floresta Vermelha e a casca de uma máquina aquecida.&lt;br&gt;Você está levando pelo menos um Companheiro de Magmapora? Desenhei porque estava com medo de morrer de calor. Já me disseram muitas vezes, mas da floresta vermelha, tenho que levar os companheiros de Magmapora comigo.&lt;br&gt;...Investigue as árvores em chamas próximas, colete pedaços, pegue peixes quentes e colete as conchas." />
+  <keys prop="Description" type="monster" key="f10_0_1_0031_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0031_Ongoing_Text" value="Pare de falar! ai minha boca dói" />
+  <keys prop="Description" type="monster" key="f10_0_1_0031_Complete_Text" value="Ok, preciso me cuidar dessa vez também.&lt;br&gt;...Eh, o velho não sabe nem brincar? Se você derretê-lo lentamente na fornalha dos crocoons de magmaphora, ele se tornará algo incrível.&lt;br&gt;Vá até as pessoas que trabalham lá e peça a eles para derretê-lo!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0032_Title" value="Desconfiança de Crocoons" />
+  <keys prop="Description" type="monster" key="f10_0_1_0032_RewarderDesc" value="Artesão Minos" />
+  <keys prop="Description" type="monster" key="f10_0_1_0032_Request_Text" value="Sim? Você veio aqui como um pedido de inspiração? sim? Café gelado. não posso ajudar. O mesmo vale para outros crocoons." />
+  <keys prop="Description" type="monster" key="f10_0_1_0032_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0032_Ongoing_Text" value="Fale com outros Crocoons. não posso ajudar" />
+  <keys prop="Description" type="monster" key="f10_0_1_0032_Complete_Text" value="Não. Só de olhar já é inspirador, certo? Você pode dizer apenas olhando para os ingredientes.&lt;br&gt;Ugh… maldita inspiração. Eu ainda tenho pesadelos enquanto durmo?&lt;br&gt;Por que você fez isso desse jeito? por que você não pode fazer isso? É pior que nossos pais." />
+  <keys prop="Description" type="monster" key="f10_0_1_0033_Title" value="Crocoons que rangem os dentes" />
+  <keys prop="Description" type="monster" key="f10_0_1_0033_RewarderDesc" value="Artesão Jedamas" />
+  <keys prop="Description" type="monster" key="f10_0_1_0033_Request_Text" value="Sr. Geo. Sinto muito, mas é melhor desistir.&lt;br&gt;Os crocoons de Magmapora estão orgulhosos de seu trabalho.&lt;br&gt;Mas eu toquei em tais artesãos...&lt;br&gt;Hmm... Bem, não é que não haja caminho.&lt;br&gt;Você viu os amigos sentados ao lado de nossos ferreiros, certo? É um cara chamado Rubrom.&lt;br&gt;A razão pela qual esse cara existe é que ele quer se tornar um artesão. Ela é muito útil ao refinar. Dome e veja. Haverá também um pedido de token no quadro de avisos do centro da cidade." />
+  <keys prop="Description" type="monster" key="f10_0_1_0033_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0033_Ongoing_Text" value="Tame Rubrom. Se você deseja obter um token de domesticação, verifique as missões do quadro de avisos no centro da cidade." />
+  <keys prop="Description" type="monster" key="f10_0_1_0033_Complete_Text" value="Oh. É Rubrom! Haha realmente não sabia que daria certo! Você está fazendo alguma coisa?&lt;br&gt;Desculpe. Na verdade, eu faço artesanato, então se as impurezas forem misturadas, será um grande problema. Não posso ajudar com coisas assim. Pergunte a outro Crocoon. Todos ficarão surpresos e ajudarão se você mostrar Rubrom. &lt;br&gt;Entre nós, o Rubrom do Local tem o melhor poder de fogo. ir para locais" />
+  <keys prop="Description" type="monster" key="f10_0_1_0034_Title" value="Reconhecimento do Artesão" />
+  <keys prop="Description" type="monster" key="f10_0_1_0034_RewarderDesc" value="artesão local" />
+  <keys prop="Description" type="monster" key="f10_0_1_0034_Request_Text" value="O que é real? Você domou Rubrom!? É a primeira vez no mundo que não-crocoons o domesticaram.&lt;br&gt;Lubrom reconheceu, mas não consigo ficar parado. E você disse que ajudou com o Creme Hidratante Magma? Graças a você, nosso Rubrom ficou muito saudável!&lt;br&gt;Farei para você. espere." />
+  <keys prop="Description" type="monster" key="f10_0_1_0034_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0034_Ongoing_Text" value="Espere um minuto." />
+  <keys prop="Description" type="monster" key="f10_0_1_0034_Complete_Text" value="Inspiração. Certifique-se de dizer a eles. Não é por sua causa, é por sua causa." />
+  <keys prop="Description" type="monster" key="f10_0_1_0035_Title" value="Projeto prometido" />
+  <keys prop="Description" type="monster" key="f10_0_1_0035_RewarderDesc" value="velho teimoso" />
+  <keys prop="Description" type="monster" key="f10_0_1_0035_Request_Text" value="Esses caras!!! Eu te ouvi! Como eu ensinei a vocês!! Vamos!! Tsk. Apresse-se e dê para mim!&lt;br&gt;Oh uau. Isto é divertido. Quando eu era jovem novamente, eu era um artesão mágico. espere.&lt;br&gt;Sim. Sim, apenas mudando a fórmula, ela muda drasticamente!&lt;br&gt;E se você colocar no projeto que você precisa... Isso significa que não será danificado até que eu morra." />
+  <keys prop="Description" type="monster" key="f10_0_1_0035_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0035_Ongoing_Text" value="O que é? Não vou agradecer, então eu sei disso!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0035_Complete_Text" value="Ok, onde devo usar isso de novo? Isso mesmo, vou escrever lá também! Sim, o valor é fixo, então terei que usar com mais cuidado. Mmmmm.&lt;br&gt;Hein? O que você está fazendo? … Ah, você resolveu emprestar? Sim, aqui está, aqui está. Sei que ficarei muito chateado se perdê-lo. Também configurei um dispositivo anti-roubo ao alterar a fórmula. Tenho medo do meu talento. Estou com medo." />
+  <keys prop="Description" type="monster" key="f10_0_1_0036_Title" value="Blueprint finalmente obtido" />
+  <keys prop="Description" type="monster" key="f10_0_1_0036_RewarderDesc" value="Diretor Geral" />
+  <keys prop="Description" type="monster" key="f10_0_1_0036_Request_Text" value="Haha. É a primeira vez que vejo essa inspiração dar-se por si mesma.&lt;br&gt;Você trabalhou muito. Eu teria ajudado se não estivesse ocupado com o trabalho.&lt;br&gt;Hmm. Vou ter que cuidar dos reparos. Não importa como você olhe, ele foi escolhido como supervisor geral porque tem as melhores habilidades entre os ferreiros daqui.&lt;br&gt;Então, espere um momento enquanto analiso este projeto." />
+  <keys prop="Description" type="monster" key="f10_0_1_0036_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0036_Ongoing_Text" value="Hum... Isso é importante." />
+  <keys prop="Description" type="monster" key="f10_0_1_0036_Complete_Text" value="Hmm.. Não há grandes problemas com o processo de reparo. mas… &lt;br&gt;Obter materiais especiais também é um problema... O poder de fogo de Rubrom para nos ajudar não é ruim, mas esta é uma substância divina. Ou talvez não haja poder de fogo. Achei que ia parar daqui..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0037_Title" value="Retorno do Corvo" />
+  <keys prop="Description" type="monster" key="f10_0_1_0037_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="f10_0_1_0037_Request_Text" value="… hmm. Enquanto você estava resolvendo vários casos, reuni informações por aqui.&lt;br&gt;Só acho que essas informações serão úteis.&lt;br&gt;Há alguém que sabe muito sobre o lendário Crocoon.&lt;br&gt;O lendário Crocoon. Você também deve saber as informações sobre o Fellow que Crocoon levou com você. Que tal visitar? &lt;br&gt;Hum... Desculpe não poder ajudar. Há circunstâncias que não posso perguntar diretamente." />
+  <keys prop="Description" type="monster" key="f10_0_1_0037_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0037_Ongoing_Text" value="O nome é um erro de digitação… Acho que foi Otakun." />
+  <keys prop="Description" type="monster" key="f10_0_1_0037_Complete_Text" value="Oh meu Deus! A partir da Floresta de Brakar, aqui! Com a determinação de salvar a princesa até Magmaphora!&lt;br&gt;Resolvendo vários casos! Você trilhou o caminho de um herói! [UserName] falou comigo!?&lt;br&gt;É uma honra!! Eu ajudo com qualquer coisa!&lt;br&gt;Talvez eu adicione uma linha ao livro de memórias do herói também, certo? sim? Companheiro domesticado pelo lendário Crocoon? Eu sei melhor neste magmaphora!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0038_Title" value="Conversa de Otakun" />
+  <keys prop="Description" type="monster" key="f10_0_1_0038_RewarderDesc" value="Otakun" />
+  <keys prop="Description" type="monster" key="f10_0_1_0038_Request_Text" value="Se você sabe que tipo de pessoa era o lendário Crocoon, você ficaria surpreso!&lt;br&gt;A história dele segurando um martelo e acordando com um ano de idade é tão famosa que até você já ouviu falar isso!?&lt;br&gt;A Última Guerra... Com a grande conquista de fazer a Pedra Demoníaca bem diante de nossos olhos... O momento em que os lendários Crocoon e Beatus se encontraram na era do caos foi realmente lindo... &lt;br&gt;Ah, Beatus é um companheiro do lendário Crocoon que você mencionou! para? Para onde foi aquele sujeito?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0038_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0038_Ongoing_Text" value="Huh.. Na verdade, eu estive esperando para quando você vai me perguntar isso! Recentemente, fiz uma investigação comparando a área de Magmapora." />
+  <keys prop="Description" type="monster" key="f10_0_1_0038_Complete_Text" value="Bem-vindo Floresta! Fica ao lado da Floresta Vermelha. Como o nome indica, a Floresta das Ilusões causa alucinações, então eu estava fraco, então não pude investigar sozinho.&lt;br&gt;Se você comparar o artigo na literatura que diz que Beatus desapareceu além da névoa imediatamente após ser amaldiçoado, é definitivamente o lugar certo! Por que o lendário Crocoon não foi encontrar Beatus novamente? Será que ele foi procurar Beatus para dizer que suas ações finais eram desconhecidas em seus últimos anos!? Ai estou tão curiosa!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0039_Title" value="Como os hobbies ajudam os heróis" />
+  <keys prop="Description" type="monster" key="f10_0_1_0039_RewarderDesc" value="Otakun" />
+  <keys prop="Description" type="monster" key="f10_0_1_0039_Request_Text" value="Como esperado!! Achei que você fosse ver!&lt;br&gt;A fumaça da Floresta das Ilusões afeta a mente, fazendo você perder o senso de direção e alucinar. &gt;Tem um cara que parece um dragão durante as boas vindas. Ela é um dragão nascido na névoa, então se você derrotá-la, uma substância chamada energia ilusória dela sairá! Eu quero investigar uma vez. lol." />
+  <keys prop="Description" type="monster" key="f10_0_1_0039_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0039_Ongoing_Text" value="Eu realmente quero seguir você até a Floresta das Ilusões!!&lt;br&gt;Mas eu só tenho uma vida... Estou com muita inveja por você ter vindo vê-la com seus próprios olhos! Se você derrotar a ilusão de dragão, poderá obter a energia da ilusão!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0039_Complete_Text" value="Heck, esta é a energia de boas-vindas! Obrigado.&lt;br&gt;Quando olho para ele, sinto que minhas memórias estão sendo moldadas... Ohhh... Oh oh... Se você usar isso, você pode fazer algo interessante... ?&lt;br&gt;I 'll deixar a investigação mais aprofundada como um pedido de quadro de avisos! Isso seria mais útil para o herói. Se você não se importa, por favor, aceite o pedido hehe. Ah, e o espírito de boas-vindas está imbuído do herói. Se você voltar, poderá encontrar algo interessante!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0040_Title" value="Conversa com Ilusão" />
+  <keys prop="Description" type="monster" key="f10_0_1_0040_RewarderDesc" value="Velho Revenant" />
+  <keys prop="Description" type="monster" key="f10_0_1_0040_Request_Text" value="... De jeito nenhum você.. meu. ir. Você pode ver...?&lt;br&gt;Eu .. vagar na floresta de ilusões. Um fantasma andando por aí..&lt;br&gt;... ...Ah, faz tanto tempo que não converso com alguém. &lt;br&gt;...Eu... quem... era? Eu quero tomar uma bebida.&lt;br&gt;&#xD;&#xA;(Parece que você está confuso. Existe algum álcool que possa trazer de volta as memórias de Magmaphora? Vá até a taverna freqüentada por Crocoons e pergunte.)" />
+  <keys prop="Description" type="monster" key="f10_0_1_0040_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0040_Ongoing_Text" value="… eu sou… como…" />
+  <keys prop="Description" type="monster" key="f10_0_1_0040_Complete_Text" value="Bem-vindo! Oh herói, o que você veio fazer de novo?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0041_Title" value="Uma bebida que traz de volta memórias" />
+  <keys prop="Description" type="monster" key="f10_0_1_0041_RewarderDesc" value="Estalajadeiro Luke" />
+  <keys prop="Description" type="monster" key="f10_0_1_0041_Request_Text" value="Hmm.. Licor antigo de Magmapora? É ótimo trazer memórias de volta... &lt;br&gt;Existe uma. Hum... se quiser saber mais, pode me pagar uma cerveja?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0041_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0041_Ongoing_Text" value="Haha eu também tenho que comer. Pense nisso como valor de informação." />
+  <keys prop="Description" type="monster" key="f10_0_1_0041_Complete_Text" value="Obrigado pelo seu pedido.&lt;br&gt;...Há um licor envelhecido por mais de algumas centenas de anos em cada casa. Impossível. Quando nasce uma criança, recolhe-se dinheiro de toda a aldeia para fazer uma garrafa de aguardente e presenteá-la. A criança bebe a bebida comemorativa que seu avô ou pai lhe deu e a passa para seus filhos." />
+  <keys prop="Description" type="monster" key="f10_0_1_0042_Title" value="Presente especial para aniversário de casamento" />
+  <keys prop="Description" type="monster" key="f10_0_1_0042_RewarderDesc" value="Estalajadeiro Luke" />
+  <keys prop="Description" type="monster" key="f10_0_1_0042_Request_Text" value="Hum… Você deve salvá-lo. então... Vou te dar apenas uma bebida por sua causa.&lt;br&gt;Mas você tem que pagar o preço certo. Aconteceu que minha esposa e eu tínhamos um aniversário de casamento chegando.&lt;br&gt;Hum, sim. Um colar bonito com pedras preciosas seria bom. Ravini na cidade dirige o trailer, então por que você não pergunta?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0042_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0042_Ongoing_Text" value="Deve ser no centro da cidade. por favor." />
+  <keys prop="Description" type="monster" key="f10_0_1_0042_Complete_Text" value="Bem-vindo! Nossa Guilda Ravini está sempre à venda ontem, hoje, amanhã!!&lt;br&gt;Não há lugar em Magmapora onde você possa conseguir itens mais baratos que nossa Guilda!&lt;br&gt;Ah...? Você está realmente aqui para comprar? realmente?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0043_Title" value="Colar Especial" />
+  <keys prop="Description" type="monster" key="f10_0_1_0043_RewarderDesc" value="Lavini Wonbini &lt;Crescent Moon Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_0_1_0043_Request_Text" value="Como um colar!? Então é claro que tem!!&lt;br&gt;Eu usei especialmente dessa vez! Cada colar de diamantes!! Crocoon of Magmaphora provavelmente foi o responsável pela decoração... ! … para? Quanto custa?&lt;br&gt;Não se surpreenda depois de ouvir o preço. por 100.000 ouro. É um item de artesão, então é um pouco caro." />
+  <keys prop="Description" type="monster" key="f10_0_1_0043_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0043_Ongoing_Text" value="Como! por produto muito bom." />
+  <keys prop="Description" type="monster" key="f10_0_1_0043_Complete_Text" value="eh… ? espere, espere, espere!! Ah, e claro que está em promoção! O preço com desconto ainda não foi aplicado! grande. Vou cortar o preço pela metade!&lt;br&gt;Isso... ainda é caro? Então 10.000 de ouro estaria bom...?&lt;br&gt;... Oh não! Não vá! espere e cale a boca..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0044_Title" value="Custo de RP" />
+  <keys prop="Description" type="monster" key="f10_0_1_0044_RewarderDesc" value="Lavini Wonbini &lt;Top Crescent Moon&gt;" />
+  <keys prop="Description" type="monster" key="f10_0_1_0044_Request_Text" value="Jeong Então... Se você fizer recados, eu te dou muito dinheiro!! Então fiz pequeno, mas continua sujando." />
+  <keys prop="Description" type="monster" key="f10_0_1_0044_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0044_Ongoing_Text" value="Eles estão por toda a cidade! um pouco… É um pouco pequeno demais!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0044_Complete_Text" value="Olá!! Mas depois de ver o herói agachado e limpando a placa, vários clientes disseram que estava interessado nisso! Droga!&lt;br&gt;Vou apenas dar a você no sentido de que vou pedir-lhe bem no futuro! Obrigado!&lt;br&gt;...Na verdade, comprei barato em uma loja de antiguidades... Acho que não houve nenhum dano. Oh nada!! Adeus!" />
+  <keys prop="Description" type="monster" key="f10_0_1_0045_Title" value="Presente devolvido" />
+  <keys prop="Description" type="monster" key="f10_0_1_0045_RewarderDesc" value="Estalajadeiro Lucas" />
+  <keys prop="Description" type="monster" key="f10_0_1_0045_Request_Text" value="Ah. Você voltou? Você pegou o colar?&lt;br&gt;.. Não? espere um minuto! Você me dá isso?&lt;br&gt;Não é Tears of Magmaphora, a primeira obra que o lendário Crocoon criou!! Isso é real!&lt;br&gt;Este é um item incrível que pode ser negociado por milhões... não, dezenas de milhões de ouro... Você está realmente me dando isso?" />
+  <keys prop="Description" type="monster" key="f10_0_1_0045_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0045_Ongoing_Text" value="Meu Deus..." />
+  <keys prop="Description" type="monster" key="f10_0_1_0045_Complete_Text" value="Recebi um presente que realmente valeu a pena.&lt;br&gt;Eu mencionei que o álcool de um homem forte é passado de geração em geração? Você diz que foi solicitado. Ele deixou o álcool e disse que o estalajadeiro deixaria a critério do estalajadeiro.&lt;br&gt;Por alguma razão… Parece certo dar isso a você. Obrigado." />
+  <keys prop="Description" type="monster" key="f10_0_1_0046_Title" value="Quem sou eu" />
+  <keys prop="Description" type="monster" key="f10_0_1_0046_RewarderDesc" value="Old Revenant" />
+  <keys prop="Description" type="monster" key="f10_0_1_0046_Request_Text" value="Sim... em seus braços ..perfume nostálgico. Eu.. é.&lt;br&gt;...Me dê. Originalmente era meu... Sim... Graças a você, eu percebi quem eu sou... e por que estou vagando aqui.&lt;br&gt;... Mas é difícil falar com você porque os arredores são barulhentos. Mande-os de volta para a névoa. Eles são os seres que você convocou... Vamos falar sobre isso novamente mais tarde." />
+  <keys prop="Description" type="monster" key="f10_0_1_0046_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0046_Ongoing_Text" value="Você aparecerá como pessoas que conhece... Não tenha medo. É apenas uma ilusão emprestando suas memórias." />
+  <keys prop="Description" type="monster" key="f10_0_1_0046_Complete_Text" value="… O barulho ao seu redor diminuiu um pouco.&lt;br&gt;Meu nome é Crown. Você sabe se eu disser Crocoon, quem fez a Pedra Demoníaca? Meu corpo esfriou nessa floresta de ilusões.&lt;br&gt;A floresta que deu meu último suspiro me deixou aqui... Talvez eu não seja uma coroa. No entanto, meu intenso desejo de ajudar meu companheiro Beatus me mantém amarrado aqui." />
+  <keys prop="Description" type="monster" key="f10_0_1_0047_Title" value="velho amigo Beato" />
+  <keys prop="Description" type="monster" key="f10_0_1_0047_RewarderDesc" value="Old Revenant" />
+  <keys prop="Description" type="monster" key="f10_0_1_0047_Request_Text" value="… A Pedra Demoníaca, criada com o poder do tempo e da dimensão, continuou atrasando o tempo até o momento em que o demônio foi enfraquecido.&lt;br&gt;Quando a pedra demoníaca foi selada, ele tentou esfaquear um pedaço de sua alma em mim.&lt;br&gt;... Mas meu amigo pegou a maldição em vez disso. E nesta floresta, tenho suportado a dor sozinho por eras de tempo... Eu... eu sou apenas um espectro... Não posso ajudar meu amigo... pegue isso. vai te ajudar" />
+  <keys prop="Description" type="monster" key="f10_0_1_0047_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0047_Ongoing_Text" value="No momento, Beatus deve estar em uma situação em que seu corpo está sendo devorado pelo poder do demônio. Precisamos enfraquecer o poder do demônio e quebrar o selo... &lt;br&gt;Domestique seu amigo quando o poder do demônio enfraquecer com o item que lhe dei. &lt;br&gt;Se Beatus ainda se lembrar de mim, meu amigo irá segui-lo." />
+  <keys prop="Description" type="monster" key="f10_0_1_0047_Complete_Text" value="… haha. OK. Eu não ia dizer que sinto muito.&lt;br&gt;Obrigado... Beatus. E você...&lt;br&gt;... vá agora com meu amigo O fato de que a maldição de Beatus, na qual o pedaço de Pedra Demoníaca contendo parte da alma do demônio estava embutido, foi levantada... Isso significa que o A Pedra Demoníaca contendo o Espírito Demoníaco também enfraqueceu.&lt;br&gt;... A ressurreição completa do Deus Demônio estava chegando. Ir." />
+  <keys prop="Description" type="monster" key="f10_0_1_0048_Title" value="Medo do campo de lava" />
+  <keys prop="Description" type="monster" key="f10_0_1_0048_RewarderDesc" value="Diretor Geral" />
+  <keys prop="Description" type="monster" key="f10_0_1_0048_Request_Text" value="Não mesmo? Para realmente ver o companheiro do lendário Crocoon-sama que permaneceu apenas na literatura... &lt;br&gt;Graças a você, posso consertar Zenahorn. Contanto que você obtenha os materiais.&lt;br&gt;Não importa do que seja feito, há um mineral exclusivo que o torna mais forte ao recolocar uma lâmina quebrada.&lt;br&gt;É um minério chamado Shine Stone. Originalmente, pode ser colhido nas profundezas do campo de lava. Mas agora... &lt;br&gt;(O cenário será atualizado na parte 2.)" />
+  <keys prop="Description" type="monster" key="f10_0_1_0048_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_0_1_0048_Ongoing_Text" value="(O cenário será atualizado na Parte 2 depois disso.)" />
+  <keys prop="Description" type="monster" key="f10_0_1_0048_Complete_Text" value="(O cenário será atualizado na Parte 2 depois disso.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0001_Title" value="[Daily] Left's worries" />
+  <keys prop="Description" type="monster" key="f10_1_1_0001_RewarderDesc" value="left" />
+  <keys prop="Description" type="monster" key="f10_1_1_0001_Request_Text" value="Ah! Aren't you a hero!&lt;br&gt;Whew... These days, more and more loppers are trying to enter the village, so it's a headache.&lt;br&gt;I want to control the population of loppers, can you help me?&lt;br&gt;I always wander around the village I'm sure you'll find it soon!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0001_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0001_Ongoing_Text" value="They have nothing to eat, so they keep trying to enter the village." />
+  <keys prop="Description" type="monster" key="f10_1_1_0001_Complete_Text" value="Thanks! Thank you for keeping the peace in Red Forge Village!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0002_Title" value="Left's hidden worries" />
+  <keys prop="Description" type="monster" key="f10_1_1_0002_RewarderDesc" value="left" />
+  <keys prop="Description" type="monster" key="f10_1_1_0002_Request_Text" value="Hello! Phew.. I have a lot of worries these days... &lt;br&gt;Oh no! It's not worth borrowing the help of our hero who is busy with construction!&lt;br&gt;&#xD;&#xA;(If you help the people of Magmaphora and gather faith, they may tell you a story.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0002_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0002_Ongoing_Text" value="(If you help the people of Magmaphora and gather faith, they may tell you a story.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0002_Complete_Text" value="(Magmapora's faith shines through and disappears.)&lt;br&gt;I feel like I can tell you something... I don't know!&lt;br&gt;It's big." />
+  <keys prop="Description" type="monster" key="f10_1_1_0003_Title" value="Fallen Ropers" />
+  <keys prop="Description" type="monster" key="f10_1_1_0003_RewarderDesc" value="left" />
+  <keys prop="Description" type="monster" key="f10_1_1_0003_Request_Text" value="Big.. that's... while I was urinating for a while, it seemed like a Roppers broke into the village... &lt;br&gt;I was going to look at that... but it's not long... haha... &lt;br&gt;I'm sorry, but... can you please confirm?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0003_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0003_Ongoing_Text" value="Ugh... The bathroom was unbearable." />
+  <keys prop="Description" type="monster" key="f10_1_1_0003_Complete_Text" value="…" />
+  <keys prop="Description" type="monster" key="f10_1_1_0004_Title" value="Hungry Roppers" />
+  <keys prop="Description" type="monster" key="f10_1_1_0004_RewarderDesc" value="Starving Rofus" />
+  <keys prop="Description" type="monster" key="f10_1_1_0004_Request_Text" value="...(He carefully puts something like garbage into his mouth. He soon feels a presence and raises his weary eyes to look at you.) but doesn't seem to have any intention of attacking.)&lt;br&gt;(They are not raising their guard as if they just want them to pass.)&lt;br&gt;(Let's kill Matthew and Mathieu to collect special meat.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0004_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0004_Ongoing_Text" value="...(He's just licking the dry floor.)&lt;br&gt;(Let's kill Mathitl and Matthew to collect special meat.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0004_Complete_Text" value="Grrrr...! (When he puts the meat on the floor, he stands upright and is wary.)&lt;br&gt;(Looking at it, he won't eat it. Let's leave.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0005_Title" value="[Daily] Roppers Always Hungry" />
+  <keys prop="Description" type="monster" key="f10_1_1_0005_RewarderDesc" value="Starving Rofus" />
+  <keys prop="Description" type="monster" key="f10_1_1_0005_Request_Text" value="... (Looks like they ate the meat I brought you last time.)&lt;br&gt;(Keep some distance, but don't show any more vigilance.)&lt;br&gt;(Looking at your hand. Last time I think I want to eat more special meat.)&lt;br&gt;(Let's kill Martytle and Mathew to collect special meat.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0005_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0005_Ongoing_Text" value="(Kill Martytle and Mathew to collect special meat.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0005_Complete_Text" value="...! Wack wack... &lt;br&gt;(I'm so busy eating the meat that I'm afraid to put the food down.)&lt;br&gt;(Let's bring it back tomorrow.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0006_Title" value="There are no bad Ropers in the world." />
+  <keys prop="Description" type="monster" key="f10_1_1_0006_RewarderDesc" value="Starving Rofus" />
+  <keys prop="Description" type="monster" key="f10_1_1_0006_Request_Text" value="(The dead eyes come to life.)&lt;br&gt;(Noticing you, it wags its tail.)&lt;br&gt;(If you gather Magmaphora's faith, Rofus might open your heart. .)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0006_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0006_Ongoing_Text" value="(If you collect Magmapora's faith, Rofus may open your heart.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0006_Complete_Text" value="(Magmapora's faithfulness glows and then disappears.)&lt;br&gt;...(Rofus cautiously approaches you, licks your hand and wags its tail.)&lt;br&gt;(Damp hands He lifted it up and stroked the head of Rofus, who felt the warmth.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0007_Title" value="[Daily] How to read today's fortune" />
+  <keys prop="Description" type="monster" key="f10_1_1_0007_RewarderDesc" value="Propheta the Grim" />
+  <keys prop="Description" type="monster" key="f10_1_1_0007_Request_Text" value="Hi hi uh. Come on. You... are you curious about today's fortune? &lt;br&gt;Hee hee hee... that's right. La.. Go to Rabini Wonbini and buy a crystal ball!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0007_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0007_Ongoing_Text" value="Hee hee uh.. Hurry up..!&lt;br&gt;Our Goddess... gave me strength!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0007_Complete_Text" value="(Takes the crystal ball as if stealing it, mumbles, then puts the marble in an old pocket.)&lt;br&gt;You... If you want to know, open this wrapping cloth. Hee hee... I hope you like it.. Come tomorrow too..!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0008_Title" value="Genuel's request" />
+  <keys prop="Description" type="monster" key="f10_1_1_0008_RewarderDesc" value="Manual" />
+  <keys prop="Description" type="monster" key="f10_1_1_0008_Request_Text" value="I can't help but get out of here once I've tasted this one. It's written in curly letters. &lt;br&gt;※ This is a request from Jenuel at the Quenching Inn." />
+  <keys prop="Description" type="monster" key="f10_1_1_0008_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0008_Ongoing_Text" value="※ This is a request from Jenuel at the Quenching Inn." />
+  <keys prop="Description" type="monster" key="f10_1_1_0008_Complete_Text" value="ぅ. who is this. Was... a hero? Then I am the hero of Magmapora! keuhuh woowook." />
+  <keys prop="Description" type="monster" key="f10_1_1_0009_Title" value="[Daily] Sober up" />
+  <keys prop="Description" type="monster" key="f10_1_1_0009_RewarderDesc" value="Manual" />
+  <keys prop="Description" type="monster" key="f10_1_1_0009_Request_Text" value="Oh request? Request... uh... that! I want to drink it again, but it's expensive. make it If you make it, I'll call you a hero. Yes? Heh.&lt;br&gt;(Let's make golden dew by purchasing golden dew ingredients from the innkeeper)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0009_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0009_Ongoing_Text" value="(Purchase Golden Dew ingredients from the innkeeper to make Golden Dew)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0009_Complete_Text" value="Eh..? really? Hehe. You should drink it later. Save it. &lt;br&gt;Hey hero! take this!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0010_Title" value="[Daily] If you make it" />
+  <keys prop="Description" type="monster" key="f10_1_1_0010_RewarderDesc" value="Innkeeper Luke" />
+  <keys prop="Description" type="monster" key="f10_1_1_0010_Request_Text" value="I didn't know that there would be people who would buy ingredients to make golden dew.&lt;br&gt;If you make it, you'll be able to make yellow dew. Haha.&lt;br&gt;If you use the golden dew material and get yellow dew, give it to me and I'll reward you." />
+  <keys prop="Description" type="monster" key="f10_1_1_0010_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0010_Ongoing_Text" value="If you make it using golden dew ingredients and fail, yellow dew may come out." />
+  <keys prop="Description" type="monster" key="f10_1_1_0010_Complete_Text" value="In fact, everyone buys these ingredients only for fun or as a penalty for drinking.&lt;br&gt;Sometimes there are people who look for them, but there aren't many. You can think of it as a gift." />
+  <keys prop="Description" type="monster" key="f10_1_1_0011_Title" value="Livio's Request" />
+  <keys prop="Description" type="monster" key="f10_1_1_0011_RewarderDesc" value="Quest Board" />
+  <keys prop="Description" type="monster" key="f10_1_1_0011_Request_Text" value="I'm looking for Matthew's blood.&lt;br&gt;※ This is a request from Livio in the back alley." />
+  <keys prop="Description" type="monster" key="f10_1_1_0011_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0011_Ongoing_Text" value="※ This is a request from Livio in the back alley." />
+  <keys prop="Description" type="monster" key="f10_1_1_0011_Complete_Text" value="Ah. is it you again" />
+  <keys prop="Description" type="monster" key="f10_1_1_0012_Title" value="[Daily] Blood relationship with information merchants" />
+  <keys prop="Description" type="monster" key="f10_1_1_0012_RewarderDesc" value="Dealer Livio" />
+  <keys prop="Description" type="monster" key="f10_1_1_0012_Request_Text" value="Then you don't have to say anything. Gather some of Matthew's blood. many." />
+  <keys prop="Description" type="monster" key="f10_1_1_0012_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0012_Ongoing_Text" value="What are you doing? You know you bleed when you catch Matthew." />
+  <keys prop="Description" type="monster" key="f10_1_1_0012_Complete_Text" value="...Where is it written? ...My sister is a little sick. that blood is effective in suppressing the disease.&lt;br&gt;Well, I don't see you as someone who would harm my brother, so I'm telling you, but if you feel sympathetic, ask for help tomorrow too. ...because he looks like that." />
+  <keys prop="Description" type="monster" key="f10_1_1_0013_Title" value="Livio's brother" />
+  <keys prop="Description" type="monster" key="f10_1_1_0013_RewarderDesc" value="Diallo" />
+  <keys prop="Description" type="monster" key="f10_1_1_0013_Request_Text" value="Ah.. Hello! I heard a lot from you!&lt;br&gt;Cough. You're the one who got me the medicine to take, right? Thank you so much!&lt;br&gt;Ah! There was a gift I wanted to give you when we met!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0013_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0013_Ongoing_Text" value="Let's see..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0013_Complete_Text" value="Here! It's not a big deal, but... she always helps her sister, so I wanted to give her the Elune I've been collecting as a gift hehe." />
+  <keys prop="Description" type="monster" key="f10_1_1_0014_Title" value="Wine identification request" />
+  <keys prop="Description" type="monster" key="f10_1_1_0014_RewarderDesc" value="Quest Board" />
+  <keys prop="Description" type="monster" key="f10_1_1_0014_Request_Text" value="Hello. This is a quenching inn, a specialty of Magmaphora.&lt;br&gt;We are asking you to sort wines to ensure they are always of good quality.&lt;br&gt;For more information, please visit Inventory Manager Levero. Thank you.&lt;br&gt;※ Go to Inventory Manager Levero at the Quenching Inn." />
+  <keys prop="Description" type="monster" key="f10_1_1_0014_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0014_Ongoing_Text" value="※ Go to Inventory Manager Levero at the Quenching Inn." />
+  <keys prop="Description" type="monster" key="f10_1_1_0014_Complete_Text" value="Oh? You came after seeing the request the innkeeper posted, right?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0015_Title" value="[Daily] Wine Taster" />
+  <keys prop="Description" type="monster" key="f10_1_1_0015_RewarderDesc" value="Inventory Manager Rewarder" />
+  <keys prop="Description" type="monster" key="f10_1_1_0015_Request_Text" value="You know you've done it before, right? All you have to do is bring some red wine from the aging barrel over there.&lt;br&gt;A lot of kids in the back alleys are looking for poor quality wine... You can throw it away or bring it back and they'll love it!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0015_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0015_Ongoing_Text" value="Find it in the barrels behind. Why don't you try it once or twice?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0015_Complete_Text" value="Oh! thank you!! If you have time tomorrow, please help!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0016_Title" value="Baaba's Request" />
+  <keys prop="Description" type="monster" key="f10_1_1_0016_RewarderDesc" value="Baaba" />
+  <keys prop="Description" type="monster" key="f10_1_1_0016_Request_Text" value="I need a lot of bad wine.&lt;br&gt;※ This is a request from Baba in the Back Alley." />
+  <keys prop="Description" type="monster" key="f10_1_1_0016_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0016_Ongoing_Text" value="※ This is a request from Baba in the Back Alley." />
+  <keys prop="Description" type="monster" key="f10_1_1_0016_Complete_Text" value="Oh! Come on. Did you see the request? Usually Levero comes! thank you!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0017_Title" value="[Daily] Matters in the back alley" />
+  <keys prop="Description" type="monster" key="f10_1_1_0017_RewarderDesc" value="Baaba" />
+  <keys prop="Description" type="monster" key="f10_1_1_0017_Request_Text" value="You know there's a big inn in town, right? The quenching inn!&lt;br&gt;Since all Crocoons like alcohol, the inn always makes a lot of alcohol in large quantities, but it seems that some wine comes out with the wrong age.&lt;br&gt;I usually throw it away. But for us, that's also a good thing.&lt;br&gt;Assist Levero's inventory management requests, bring them together." />
+  <keys prop="Description" type="monster" key="f10_1_1_0017_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0017_Ongoing_Text" value="Well.. they don't say anything even if you take it with you normally, so it's okay to sneak in the bad quality from the aging barrel at the quenching inn. I mean. I'll ask you a favor.&lt;br&gt;If it's a unique smell, it's probably because I didn't wash it well, but hehe." />
+  <keys prop="Description" type="monster" key="f10_1_1_0017_Complete_Text" value="Drinking is also drinking.. This has a surprisingly variety of uses.&lt;br&gt;Although the color is a bit dull, it is useful when washing clothes because it is washed clean, and even when used in a bath, it is fragrant. haha." />
+  <keys prop="Description" type="monster" key="f10_1_1_0018_Title" value="Quest for collecting candy materials" />
+  <keys prop="Description" type="monster" key="f10_1_1_0018_RewarderDesc" value="Quest Board" />
+  <keys prop="Description" type="monster" key="f10_1_1_0018_Request_Text" value="The mint needed to make candy is in short supply.&lt;br&gt;We are giving you a mint collection request.&lt;br&gt;※ Go to Vita, the candy craftsman in your residence." />
+  <keys prop="Description" type="monster" key="f10_1_1_0018_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0018_Ongoing_Text" value="※ Go to the Candy Craftsman Vita in your residence." />
+  <keys prop="Description" type="monster" key="f10_1_1_0018_Complete_Text" value="Hello... Yes? You came after seeing the request?&lt;br&gt;Ah, thank you. My son... he's been busy since he came home.&lt;br&gt;I'm practicing so hard that I don't have any materials left.&lt;br&gt;You look happy? ...that's right. Whoops. I'm so happy. It's thanks to the hero." />
+  <keys prop="Description" type="monster" key="f10_1_1_0019_Title" value="[Daily] Mother, Son and Candy" />
+  <keys prop="Description" type="monster" key="f10_1_1_0019_RewarderDesc" value="Candy Artisan Vita" />
+  <keys prop="Description" type="monster" key="f10_1_1_0019_Request_Text" value="I want to ask you to collect mint like last time..&lt;br&gt;My son goes to the inn to buy sugar, but he has to get mint from outside... &lt;br&gt;I'm sorry for asking you to do something dangerous." />
+  <keys prop="Description" type="monster" key="f10_1_1_0019_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0019_Ongoing_Text" value="Mint blooms on the way to the closed mine.&lt;br&gt;Please take good care of me." />
+  <keys prop="Description" type="monster" key="f10_1_1_0019_Complete_Text" value="Thank you. May I ask you often?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0020_Title" value="Feather pen material collection request" />
+  <keys prop="Description" type="monster" key="f10_1_1_0020_RewarderDesc" value="Quest Board" />
+  <keys prop="Description" type="monster" key="f10_1_1_0020_Request_Text" value="I need Ignave's Feather.&lt;br&gt;※ Go find Rabini Tubini in the Closed Mine." />
+  <keys prop="Description" type="monster" key="f10_1_1_0020_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0020_Ongoing_Text" value="※ Go to Lavini Tubini in the Closed Mine." />
+  <keys prop="Description" type="monster" key="f10_1_1_0020_Complete_Text" value="Welcome! what. I thought you'd come!&lt;br&gt;I didn't just sell the Ignaive feather I saved the other day as a pen, but I put a very nice decoration on it.&lt;br&gt;So the order is now delayed until a few months later!!&lt;br&gt;The materials are running low! I was in big trouble because I didn't have enough. Hurry up and help me!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0021_Title" value="[Daily] Fashion of feather pens" />
+  <keys prop="Description" type="monster" key="f10_1_1_0021_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0021_Request_Text" value="Kill the Ignave flying in front of here and collect the feathers!&lt;br&gt;Isn't it difficult?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0021_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0021_Ongoing_Text" value="What's difficult! Just be careful not to drop it on lava!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0021_Complete_Text" value="Again, this time, they collected colorful feathers well!&lt;br&gt;It wouldn't be easy to bring the same quality and size every time... At this rate, it seems that each feather will come out or not?&lt;br&gt;Anyway, thank you every time! I'll take care of it for you!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0022_Title" value="Martytle and Matthew's Endless Fight" />
+  <keys prop="Description" type="monster" key="f10_1_1_0022_RewarderDesc" value="Mamel" />
+  <keys prop="Description" type="monster" key="f10_1_1_0022_Request_Text" value="Wow! Why do you keep fighting! huh? What are you talking about?&lt;br&gt;Cute turtles living in an abandoned mine! Matthew and Martial!&lt;br&gt;I don't know why we fight like that when we can live together happily!&lt;br&gt;Would you please tell us not to fight?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0022_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0022_Ongoing_Text" value="Um... there are a lot of them, so it's ok to get 30 at a time, right?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0022_Complete_Text" value="Wow! Did you come here after giving it away? And you will think that someone might come and do it? lol." />
+  <keys prop="Description" type="monster" key="f10_1_1_0023_Title" value="[Daily] Martytle and Matthew's Battle for Reconciliation" />
+  <keys prop="Description" type="monster" key="f10_1_1_0023_RewarderDesc" value="Mamel" />
+  <keys prop="Description" type="monster" key="f10_1_1_0023_Request_Text" value="Oh no! Still fighting each other on fictional days! I really can't stop it.&lt;br&gt;I can't help it, this guy! The hero who says it has to step in!&lt;br&gt;Can you get the surrender stamp? Get about 30 copies from both Martial Matthews!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0023_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0023_Ongoing_Text" value="Put it on paper, yes!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0023_Complete_Text" value="Wow! Good, good, I'll tie you up with a book of surrender stamps!&lt;br&gt;Um. I wish I could show it to Martytle and tell him to reconcile first hehe.&lt;br&gt;If you fail to reconcile, come back tomorrow!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0024_Title" value="Vita's troubles" />
+  <keys prop="Description" type="monster" key="f10_1_1_0024_RewarderDesc" value="Candy Artisan Vita" />
+  <keys prop="Description" type="monster" key="f10_1_1_0024_Request_Text" value="My son wants to try something new... Phew... &lt;br&gt;(If you collect the trust of Magmaphora, Vita, the candy craftsman, may tell you more.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0024_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0024_Ongoing_Text" value="(Candy Artisan Vita may tell you more if you collect Magmaphora Faith.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0024_Complete_Text" value="(Magmapora's faith shines and then disappears.)&lt;br&gt;... Come to think of it, the hero helped me and my son a lot... &lt;br&gt;I have a problem these days. Would you mind listening to me?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0025_Title" value="Candy's new challenge" />
+  <keys prop="Description" type="monster" key="f10_1_1_0025_RewarderDesc" value="Candy Artisan Vita" />
+  <keys prop="Description" type="monster" key="f10_1_1_0025_Request_Text" value="My son says he is upset that everyone treats candy lightly and wants to show art with candy.&lt;br&gt;They say he needs a rubrom... My son looks like me and has weak strength, so I couldn't tame him.&lt;br &gt;If you don't mind... can you help me tame Rubrom?&lt;br&gt;You can get the taming token if you help the Rubrom campaign." />
+  <keys prop="Description" type="monster" key="f10_1_1_0025_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0025_Ongoing_Text" value="I still think it's okay because candy sells enough to live on. &lt;br&gt;But my son thought differently. I'm an ugly parent, but I want to help my child do what he wants to do.&lt;br&gt;You can get the taming token if you help the Rubrom campaign. please." />
+  <keys prop="Description" type="monster" key="f10_1_1_0025_Complete_Text" value="He says he'll try candy crafting.&lt;br&gt;I want to surprise everyone by making delicate and beautiful candy using Rubrom's flame...&lt;br&gt;If you think about it, Nicky has been good with his hands since he was little.&lt; &gt;Thanks to you, I think my son's dream will come true. Thank you so much." />
+  <keys prop="Description" type="monster" key="f10_1_1_0026_Title" value="Spider Cocoon" />
+  <keys prop="Description" type="monster" key="f10_1_1_0026_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0026_Request_Text" value="You've probably seen a spider cocoon wriggling inside.&lt;br&gt;If you unravel that thread in water, it becomes silk!&lt;br&gt;Once you find a spider cocoon, just cut it off with a knife." />
+  <keys prop="Description" type="monster" key="f10_1_1_0026_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0026_Ongoing_Text" value="Something might come out from inside. Be careful." />
+  <keys prop="Description" type="monster" key="f10_1_1_0026_Complete_Text" value="Thank you! Such a quality spider cocooning!&lt;br&gt;You can get a pretty high price!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0027_Title" value="Shining Jewels" />
+  <keys prop="Description" type="monster" key="f10_1_1_0027_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0027_Request_Text" value="Actually, did you know that it was a mine where a lot of jewels were found until then? He must have a monopoly on that many jewels!&lt;br&gt;Looking at the fact that he paid each time with gems, it's unmistakable.&lt;br&gt;Can you steal some gems while you're inside? You must have piled a lot in the cart!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0027_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0027_Ongoing_Text" value="The reason for expanding the power is here. It's because I have plenty of money.&lt;br&gt;I heard that if you go to a high seat, you'll end up with jewels on your feet... It is said that just by becoming a believer, you pay a lot of money for activities. Move it..? Oh no!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0027_Complete_Text" value="Thanks to you, I'm getting more and more funds to leave Magmapora! ." />
+  <keys prop="Description" type="monster" key="f10_1_1_0028_Title" value="Defeat the Cultist" />
+  <keys prop="Description" type="monster" key="f10_1_1_0028_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0028_Request_Text" value="How much I was ignored as Ravini... Tears covered my eyes just thinking about it.&lt;br&gt;At this point, how about making the poor little and weak Ravini happy? I wrote it down! Go beat me up and come back!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0028_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0028_Ongoing_Text" value="I've been kicked. I didn't even know it was so small! I can't live with sadness!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0028_Complete_Text" value="After all, the best forgiveness is revenge. ha ha port." />
+  <keys prop="Description" type="monster" key="f10_1_1_0029_Title" value="[Elite or higher] Shining jewels" />
+  <keys prop="Description" type="monster" key="f10_1_1_0029_RewarderDesc" value="Lavini Tubini &lt;Upper Crescent Moon&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0029_Request_Text" value="Actually, did you know that it was a mine where a lot of jewels were found until then? He must have a monopoly on that many jewels!&lt;br&gt;Looking at the fact that he paid each time with gems, it's unmistakable.&lt;br&gt;Can you steal some gems while you're inside? You must have piled a lot in the cart!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0029_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0029_Ongoing_Text" value="The reasons for expanding the power are all here. It's because I have plenty of money.&lt;br&gt;I heard that if you go to a high seat, you'll end up with jewels on your feet... It is said that just by becoming a believer, you pay a lot of money for activities. Move it..? Oh no!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0029_Complete_Text" value="Thanks to you, I'm getting more and more funds to leave Magmapora! ." />
+  <keys prop="Description" type="monster" key="f10_1_1_0030_Title" value="[Elite or higher] Spider Cocoon" />
+  <keys prop="Description" type="monster" key="f10_1_1_0030_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0030_Request_Text" value="You've probably seen a spider cocoon wriggling inside.&lt;br&gt;If you unravel that thread in water, it becomes silk!&lt;br&gt;Once you find a spider cocoon, just cut it off with a knife." />
+  <keys prop="Description" type="monster" key="f10_1_1_0030_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0030_Ongoing_Text" value="Something might come out from inside. Be careful." />
+  <keys prop="Description" type="monster" key="f10_1_1_0030_Complete_Text" value="Thank you! Such a quality spider cocooning!&lt;br&gt;You can get a pretty high price!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0031_Title" value="[Elite or higher] Destroy the fanatics" />
+  <keys prop="Description" type="monster" key="f10_1_1_0031_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0031_Request_Text" value="How much I was ignored as Ravini... Tears covered my eyes just thinking about it.&lt;br&gt;At this point, how about making the poor little and weak Ravini happy? I wrote it down! Go beat me up and come back!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0031_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0031_Ongoing_Text" value="I've been kicked. I didn't even know it was so small! I can't live with sadness!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0031_Complete_Text" value="After all, the best forgiveness is revenge. ha ha port." />
+  <keys prop="Description" type="monster" key="f10_1_1_0032_Title" value="[Legendary] Defeat the Fanatics" />
+  <keys prop="Description" type="monster" key="f10_1_1_0032_RewarderDesc" value="Lavini Tubini &lt;Upper Crescent Moon&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0032_Request_Text" value="How much I was ignored as Ravini... Tears covered my eyes just thinking about it.&lt;br&gt;At this point, how about making the poor little and weak Ravini happy? I wrote it down! Go beat me up and come back!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0032_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0032_Ongoing_Text" value="I've been kicked. I didn't even know it was so small! I can't live with sadness!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0032_Complete_Text" value="After all, the best forgiveness is revenge. ha ha port." />
+  <keys prop="Description" type="monster" key="f10_1_1_0033_Title" value="[Legendary] Queen's Thread" />
+  <keys prop="Description" type="monster" key="f10_1_1_0033_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0033_Request_Text" value="Did you know that the quality of clothes worn by high-ranking followers is different?&lt;br&gt;It is said that the clothes are woven from Kurodian threads, but they are said to be light as a feather while not being too hot or cold when worn... &lt;br&gt;You can't just leave information that can make money like that! If you're lucky when you defeat Kurodian, you might get a thread...! If you find one, just bring it!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0033_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0033_Ongoing_Text" value="If you defeat Kurodian, you might get it if you're lucky..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0033_Complete_Text" value="Softness and lightness that seems to slip through these hands!!&lt;br&gt;This is the revolution of the century!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0034_Title" value="[Hero] Defeat the Fire Dragon Corps's flying dragon commander" />
+  <keys prop="Description" type="monster" key="f10_1_1_0034_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0034_Request_Text" value="Commander..! He always looked down on me.&lt;br&gt;It's not once or twice that he took my things away for free, saying to be grateful for dealing with Ravini!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0034_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0034_Ongoing_Text" value="I can't forgive not paying for something!!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0034_Complete_Text" value="Overkill! You should have done well.&lt;br&gt;I feel relieved. Thank you!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0035_Title" value="[Legendary] Defeat the Fire Dragon Corps's flying dragon commander" />
+  <keys prop="Description" type="monster" key="f10_1_1_0035_RewarderDesc" value="Lavini Tubini &lt;Crescent Top&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0035_Request_Text" value="Commander..! He always looked down on me.&lt;br&gt;It's not once or twice that he took my things away for free, saying to be grateful for dealing with Ravini!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0035_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0035_Ongoing_Text" value="I can't forgive not paying for something!!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0035_Complete_Text" value="Overkill! You should have done well.&lt;br&gt;I feel relieved. Thank you!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0036_Title" value="Request to help create a new inn menu" />
+  <keys prop="Description" type="monster" key="f10_1_1_0036_RewarderDesc" value="Quest Board" />
+  <keys prop="Description" type="monster" key="f10_1_1_0036_Request_Text" value="Hello. This is a request from the quenching inn.&lt;br&gt;Recently, more and more people are looking for healthy food, so I'm going to make beef bone soup. I'm looking for someone who can help me get hot ethmoid bones.&lt;br&gt;※ This is a request from Quenching Inn Nook." />
+  <keys prop="Description" type="monster" key="f10_1_1_0036_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0036_Ongoing_Text" value="※ This is a request from Quenching Inn Nook." />
+  <keys prop="Description" type="monster" key="f10_1_1_0036_Complete_Text" value="Did you come after seeing the request? thank you" />
+  <keys prop="Description" type="monster" key="f10_1_1_0037_Title" value="[Daily] New soup dish" />
+  <keys prop="Description" type="monster" key="f10_1_1_0037_RewarderDesc" value="Innkeeper Luke" />
+  <keys prop="Description" type="monster" key="f10_1_1_0037_Request_Text" value="I've made soup with the bones of Burning Calceses before, and it was very popular.&lt;br&gt;I'm going to use it and arrange it into a soup like meat soup.&lt;br&gt;To do that, you'll need a lot of ingredients.&lt;br&gt;The Burning Forest I would appreciate it if you could defeat Calceses and collect the hot ethmoid bones." />
+  <keys prop="Description" type="monster" key="f10_1_1_0037_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0037_Ongoing_Text" value="I'd like the ethmoid bone of Calceses in the Burning Forest." />
+  <keys prop="Description" type="monster" key="f10_1_1_0037_Complete_Text" value="What's interesting is that you don't have to make a fire and boil it because it generates heat on its own. If you pour water into a pot and let it sit all day, delicious beef bone soup comes out." />
+  <keys prop="Description" type="monster" key="f10_1_1_0038_Title" value="[Daily] Rubrom Campaign" />
+  <keys prop="Description" type="monster" key="f10_1_1_0038_RewarderDesc" value="Quest Board" />
+  <keys prop="Description" type="monster" key="f10_1_1_0038_Request_Text" value="Hello. This is the Rubrom Management Association.&lt;br&gt;We would like to provide Magma Moisturizing Cream as the skin of our precious Rubroms is getting more cracked due to the recent heat of Magmaphora. You need the Eye of the Guardian of the Dragon God's Hideout as a material. Please.&lt;br&gt;※ Get a reward from the bulletin board manager." />
+  <keys prop="Description" type="monster" key="f10_1_1_0038_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0038_Ongoing_Text" value="※ Get rewards from the board manager." />
+  <keys prop="Description" type="monster" key="f10_1_1_0038_Complete_Text" value="Ah.. Thank you! We will deliver the requested items to the association.&lt;br&gt;This is a quest reward that I have been entrusted with. Rubroms live in the Red Forest, so how about taming them?&lt;br&gt;Artisans in particular have a lot of attachment to their own Rubroms, so just taming them will get you recognition." />
+  <keys prop="Description" type="monster" key="f10_1_1_0039_Title" value="Our Rubrom is a bit strange" />
+  <keys prop="Description" type="monster" key="f10_1_1_0039_RewarderDesc" value="Love Live" />
+  <keys prop="Description" type="monster" key="f10_1_1_0039_Request_Text" value="Hello hero! Are you busy? You can see the cute Rubrom next to me.&lt;br&gt;He's a very cute friend that all artisans of Magmapora have.&lt;br&gt;But other artisans keep ignoring Rommom because he's different from their kids.&lt;br&gt; If you don't mind, could you make me a special Lubrom meal? I'm not dexterous with my hands.. They sell meal kits at the tavern!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0039_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0039_Ongoing_Text" value="If you buy a Rubrom special meal kit at a tavern and make it several times, you will be able to make a special Rubrom special meal!&lt;br&gt;If I were good at cooking... Oh, our Rom-Rom... I'm sorry." />
+  <keys prop="Description" type="monster" key="f10_1_1_0039_Complete_Text" value="OMG did you really make it!? Thank you very much. bon appetit! Don't get sick.. huh?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0040_Title" value="Love for Rubrom" />
+  <keys prop="Description" type="monster" key="f10_1_1_0040_RewarderDesc" value="Love Live" />
+  <keys prop="Description" type="monster" key="f10_1_1_0040_Request_Text" value="Ah! After eating the special meal I gave you this time, Rom-Rom helped me work even more energetically!&lt;br&gt;But Rom-Rom still looks the same.&lt;br&gt;I'm really worried that he might be sick.&lt;br&gt;Those who came from outside Magmapora If so, can we know why our Rom-Rom is sick?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0040_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0040_Ongoing_Text" value="Do you know the old man who always gives advice because he is from Hakanasu?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0040_Complete_Text" value="What. Why did you come again!&lt;br&gt;Huh? Are you talking about that clumsy but fellow fellow of the most brilliant guy here?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0041_Title" value="Rom-Rom's identity" />
+  <keys prop="Description" type="monster" key="f10_1_1_0041_RewarderDesc" value="stubborn old man" />
+  <keys prop="Description" type="monster" key="f10_1_1_0041_Request_Text" value="Rubrom? What kind of nonsense is that? His fellow is a magma hound! You mean you raised him thinking he was Rubrom? Ugh tsk tsk... Anyway, you're a clumsy guy. &lt;br&gt; Go to the ruins swallowed by fire, tame the magma hound, take her sealing stone, and show it to him. that'll calm your mind." />
+  <keys prop="Description" type="monster" key="f10_1_1_0041_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0041_Ongoing_Text" value="Go to the ruins swallowed by fire, tame the magma hound, take her sealing stone and show it to him!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0041_Complete_Text" value="Yes!? My kid wasn't a Rubrom? Really. Looking at the magma hound, he looks so similar to my kid!&lt;br&gt;Whew. What a relief. I was so worried that it was because I was sick.&lt;br&gt;...Huh? What if it's not Rubrom? He's such a nice and pretty kid.&lt;br&gt;Haha. Thank you for helping our romrom!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0042_Title" value="Keeping the Flame" />
+  <keys prop="Description" type="monster" key="f10_1_1_0042_RewarderDesc" value="Thionell" />
+  <keys prop="Description" type="monster" key="f10_1_1_0042_Request_Text" value="You know what? The Red Forest was originally a green forest.&lt;br&gt;The war broke out and the forest was set on fire, and all life that lived in the forest was burned down.&lt;br&gt;In a forest full of death, a blackened creature rose and soon He said his whole body started to burn red.&lt;br&gt;that's the legend about Hitrit in the Red Forest. Um... Hey, could you bring me some Hitrit's epidermis?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0042_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0042_Ongoing_Text" value="It's a guy named Hitrit. She's roaming in the red forest and has a very red body &lt;br&gt; Bring me some of his epidermis." />
+  <keys prop="Description" type="monster" key="f10_1_1_0042_Complete_Text" value="Yeah. also as expected The reason why the red forest continues to burn is because the trees are very fire-resistant.&lt;br&gt;The moment this guy caught fire, he changed his body into a tree-like nature and survived.&lt;br&gt; I abandoned myself until that moment just to survive. Life is really great, isn't it?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0043_Title" value="Threat of the Immortal Corps" />
+  <keys prop="Description" type="monster" key="f10_1_1_0043_RewarderDesc" value="Artros" />
+  <keys prop="Description" type="monster" key="f10_1_1_0043_Request_Text" value="Ah. nice to meet you I'm Atros, an aide to our Chief Superintendent.&lt;br&gt;As you know, fire dragon corps called magmapo are active all over the place.&lt;br&gt;I'm sure you've seen them in the Red Forest. The one who walks with the three-headed dragon.&lt;br&gt;The two of them attack together, but for some reason, one doesn't seem to take any damage... Can't we just leave it like this? I don't mind, but I'd like some help." />
+  <keys prop="Description" type="monster" key="f10_1_1_0043_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0043_Ongoing_Text" value="Our Superintendent likes Crocoon, so he wears a mask. He's trying to do everything on his own." />
+  <keys prop="Description" type="monster" key="f10_1_1_0043_Complete_Text" value="I'm a little less worried. I wish I could help you every day." />
+  <keys prop="Description" type="monster" key="f10_1_1_0044_Title" value="[Daily] Stop the Immortal Corps" />
+  <keys prop="Description" type="monster" key="f10_1_1_0044_RewarderDesc" value="Artros" />
+  <keys prop="Description" type="monster" key="f10_1_1_0044_Request_Text" value="Crocoon, who went to the Red Forest to find materials the other day, came back injured.&lt;br&gt;It's all the work of the Immortal Corps. I'll pay you back, so can you help me again?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0044_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0044_Ongoing_Text" value="Please." />
+  <keys prop="Description" type="monster" key="f10_1_1_0044_Complete_Text" value="The reason why we can maintain peace in our own way is because someone like you helps us from behind.&lt;br&gt;If it's okay, help me tomorrow too." />
+  <keys prop="Description" type="monster" key="f10_1_1_0045_Title" value="Secret Quest for Illusion Forest" />
+  <keys prop="Description" type="monster" key="f10_1_1_0045_RewarderDesc" value="Quest Board" />
+  <keys prop="Description" type="monster" key="f10_1_1_0045_Request_Text" value="Hello. I'm Otakun.&lt;br&gt;I'm going to collect data on the aura of illusion and make something new! Looking for someone to secretly help with the investigation!&lt;br&gt;※ This is a request from Otakun in the Craftsman District." />
+  <keys prop="Description" type="monster" key="f10_1_1_0045_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0045_Ongoing_Text" value="※ This is a request from Otakun in the Artisan District." />
+  <keys prop="Description" type="monster" key="f10_1_1_0045_Complete_Text" value="I knew the hero would come! Did you accept the request? Thank you!&lt;br&gt;I experimented with the welcome energy you brought me before, and I made an interesting item.&lt;br&gt;It's this square thing! It's a condensed form of illusion, and it can connect the memories of the person holding it. Then you can replay the memory in your head as if it were real! how is it? It's fun, right?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0046_Title" value="[Daily] Reykun and Reykun" />
+  <keys prop="Description" type="monster" key="f10_1_1_0046_RewarderDesc" value="Otakun" />
+  <keys prop="Description" type="monster" key="f10_1_1_0046_Request_Text" value="Have you ever asked to catch a little dragon in the Forest of Illusions? I thought it was just one type of raycoon before, but it turns out that there are two types living in the Illusion Forest!&lt;br&gt;The slightly smaller one is called raycoon, and the slightly bigger one is called raycoon.&lt;br&gt;Reycoon and raycoon Can you catch them and collect the dragon scales? I'm trying to imbue those scales with illusionary energy!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0046_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0046_Ongoing_Text" value="I think researching is really, really fun!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0046_Complete_Text" value="Thank you! They look exactly the same, but it's so amazing that no one has the same shape, size, or ingredients of the scales.&lt;br&gt;I'd like to make good use of it to improve things that hold memories!&lt;br&gt;I'd appreciate it if you could help me tomorrow too!!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0047_Title" value="Rumors about the Illusion Fragment" />
+  <keys prop="Description" type="monster" key="f10_1_1_0047_RewarderDesc" value="Otakun" />
+  <keys prop="Description" type="monster" key="f10_1_1_0047_Request_Text" value="The old lady next door, who is close to me, saw a blue stone falling from the sky.&lt;br&gt;Seeing the shape of a wolf on the stone, he sculpted it as if possessed and went to sleep.&lt;br&gt;When he woke up, the statue was gone. The remaining fragments turned into jewels and fell in the direction of the Illusion Forest. What is it?&lt;br&gt;Can you confirm if there are any similar fragments left around the Illusion Forest?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0047_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0047_Ongoing_Text" value="Crocoons often go to the Red Forest to find materials, but... The Forest of Illusion is a place that even Crocoons don't like, so there's a high chance that the pieces will remain intact." />
+  <keys prop="Description" type="monster" key="f10_1_1_0047_Complete_Text" value="Is this the blue stone piece? There is a characteristic that the thing that is shaking finely is going in a certain direction.&lt;br&gt;Like a magnet... Oh? I see! It's still in the Forest of Illusions! the statue!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0048_Title" value="[Daily] How to tame a blue stone statue" />
+  <keys prop="Description" type="monster" key="f10_1_1_0048_RewarderDesc" value="Otakun" />
+  <keys prop="Description" type="monster" key="f10_1_1_0048_Request_Text" value="The pieces keep turning towards the Illusion Forest. It may have been separated from the main body, so it might want to become one!&lt;br&gt;If I collect more of these pieces and mix them with blue blood, I can tame them?&lt;br&gt;People say that those who have been captured in the Forest of Illusion for a long time turn their blood blue. … Can I save... ? Come to think of it, I heard that the Immortal Corps entered the Illusion Forest..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0048_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0048_Ongoing_Text" value="Shards will be scattered throughout the Illusion Forest, and if there is an Immortal Corps that enters the Illusion Forest, you will be able to get blue blood!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0048_Complete_Text" value="My grandmother said that the name of the statue is Rayall. The word ray itself means a mirage, illusion, or non-existence in an ancient language.&lt;br&gt;All is said to mean connected. He said that the name popped into his mind the moment he saw it.&lt;br&gt;If you fail to tame it, please come back tomorrow! I'll make it again." />
+  <keys prop="Description" type="monster" key="f10_1_1_0049_Title" value="A heart that does not change even in the endless cold" />
+  <keys prop="Description" type="monster" key="f10_1_1_0049_RewarderDesc" value="Diallo" />
+  <keys prop="Description" type="monster" key="f10_1_1_0049_Request_Text" value="Until I came to Magmapora, I couldn't even stand like this now. Has it improved a lot? Whoops.&lt;br&gt;Thank you unnie... Although getting better is what unnie wants the most... They say you have to carry this disease for the rest of your life. Will there be any? I want to make her sister laugh again." />
+  <keys prop="Description" type="monster" key="f10_1_1_0049_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0049_Ongoing_Text" value="Unnie was very bright until I got sick. I don't think she's ever seen her sister smile since I got sick. Is there any tool that draws memories in front of your eyes? Sounds like a dream, right? (Come to think of it, I think Otakun once talked about a tool to keep memories.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0049_Complete_Text" value="Hello! How have you been? Thanks to all your help, I finally invented something new!&lt;br&gt;It's a memory printing machine! Using the property that the aura of illusion holds memories, a magical setting was made to hold the memories of the contacted target..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0050_Title" value="A tool to capture memories" />
+  <keys prop="Description" type="monster" key="f10_1_1_0050_RewarderDesc" value="Otakun" />
+  <keys prop="Description" type="monster" key="f10_1_1_0050_Request_Text" value="Yes!? Are you talking about Dyallo? I know! i know! You mean that cute one? Oh nothing.&lt;br&gt;You said you needed my invention, right? Then I have to adjust it... Maybe there was an illusion of a face that the hero knew in the Illusion Forest? I would appreciate it if you could defeat the illusion and collect the energy of memories." />
+  <keys prop="Description" type="monster" key="f10_1_1_0050_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0050_Ongoing_Text" value="Apparently, the energy that comes from a humanoid illusion, especially a memory-related illusion, can make a memory output machine that activates all five senses.&lt;br&gt;It will be painful, but... Please..!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0050_Complete_Text" value="No matter how welcome it is, it must have been hard for you to point your sword at it... &lt;br&gt;Thanks to you, I think I'll be able to create a masterpiece out of all the machines I've ever made! Just wait! I'll fix it for you!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0051_Title" value="Memories and smiles" />
+  <keys prop="Description" type="monster" key="f10_1_1_0051_RewarderDesc" value="Otakun" />
+  <keys prop="Description" type="monster" key="f10_1_1_0051_Request_Text" value="Hmm here it is! I wrapped it with a pretty ribbon too!&lt;br&gt;that... Hmmm. It must be a gift from Otakun! Please tell me something..!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0051_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0051_Ongoing_Text" value="You live in a back alley with your sister. Diyallo... your sister is a bit scary... but she's very kind... and her smile is like a flower of magmaphora..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0051_Complete_Text" value="How have you been? yes? A gift..? Oh my god.. Did the hero save you on purpose? You're such a nice person.&lt;br&gt;Wow.. I remember traveling with my sister! If I get a little healthier, I can travel to Magmapora with my sister, right? thank you." />
+  <keys prop="Description" type="monster" key="f10_1_1_0052_Title" value="Records of experiments" />
+  <keys prop="Description" type="monster" key="f10_1_1_0052_RewarderDesc" value="Record of experiment" />
+  <keys prop="Description" type="monster" key="f10_1_1_0052_Request_Text" value="We finally succeeded. I figured out a way to transcend death.&lt;br&gt;As long as there is a heart, you can survive even if all parts are missing.&lt;br&gt;Below is a record of the test case.&lt;br&gt;(Below is full of hard-to-understand technical terms It is written.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0052_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0052_Ongoing_Text" value="We finally succeeded. I figured out a way to transcend death.&lt;br&gt;As long as there is a heart, you can survive even if all parts are missing.&lt;br&gt;Below is a record of the test case.&lt;br&gt;(Below is full of hard-to-understand technical terms It is written.)" />
+  <keys prop="Description" type="monster" key="f10_1_1_0052_Complete_Text" value="You. Come here.&lt;br&gt;I just got the feeling that there's going to be something interesting for you today? Come on, give it up." />
+  <keys prop="Description" type="monster" key="f10_1_1_0053_Title" value="Materials for the first experiment" />
+  <keys prop="Description" type="monster" key="f10_1_1_0053_RewarderDesc" value="Medsatin" />
+  <keys prop="Description" type="monster" key="f10_1_1_0053_Request_Text" value="Cheek... yes yes. These are the records of the Immortal Corps' experiments?&lt;br&gt;Interesting. You'll need a strong body. You need to help me.&lt;br&gt;You know Nightmare from Exaran Outlaws, right? Bring some sealing stones. Even 5 revisions?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0053_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0053_Ongoing_Text" value="Or get it from the auction house." />
+  <keys prop="Description" type="monster" key="f10_1_1_0053_Complete_Text" value="Very good.. Very good. I'll give you a reward.&lt;br&gt;But I need more data. okay! The guys who did the experiment probably have more data.&#xD;&#xA;You said you saw it in the Illusion Forest, right? Defeat them and bring more data keke..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0054_Title" value="Materials for the second experiment" />
+  <keys prop="Description" type="monster" key="f10_1_1_0054_RewarderDesc" value="Medsatin" />
+  <keys prop="Description" type="monster" key="f10_1_1_0054_Request_Text" value="If you wear these clothes, you can also know the interesting things they are doing over there.&lt;br&gt;Yes, yes... I'm also curious about the experiments they do. They can't go deep... They live in a closed mine.&lt;br&gt;What do you know? The unit commander in the back must have the experimental data, right? Knock it down and bring me some." />
+  <keys prop="Description" type="monster" key="f10_1_1_0054_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0054_Ongoing_Text" value="Did you suspect that I am a member of the religious order by looking at my clothes? Hehe." />
+  <keys prop="Description" type="monster" key="f10_1_1_0054_Complete_Text" value="Have you ever seen the sharpness of the blade made by Crocoon in Magmaphora? Hehe..&lt;br&gt;If you get cut in the neck by that knife, you won't be aware that your head fell off!&lt;br&gt;How do you know? Well... Hehe... It's interesting, as is your reaction.&lt;br&gt;Then shall we try another experiment?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0055_Title" value="The result of a terrible experiment" />
+  <keys prop="Description" type="monster" key="f10_1_1_0055_RewarderDesc" value="Medsatin" />
+  <keys prop="Description" type="monster" key="f10_1_1_0055_Request_Text" value="The result came out correctly. Ha ha ha! &lt;br&gt; Even if its head fell off, even if it had no wings, even if its tail was cut off, it could still move! &lt;br&gt; The chicken whose head was cut off was alive for over 3 days. &lt;br&gt;This guy became immortal. that's funny. It's so much fun!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0055_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0055_Ongoing_Text" value="Hahaha. ah… I'm sick of it. Anything else fun?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0055_Complete_Text" value="What will the test subject do? Of course it should be discarded.&lt;br&gt;Huh? Yes.. I have helped you, so I can give it to you. Bring me something interesting next time. Cheek." />
+  <keys prop="Description" type="monster" key="f10_1_1_0056_Title" value="[Daily] Signboard cleaning request" />
+  <keys prop="Description" type="monster" key="f10_1_1_0056_RewarderDesc" value="Lavini Wonbini &lt;Top Crescent Moon&gt;" />
+  <keys prop="Description" type="monster" key="f10_1_1_0056_Request_Text" value="Sales increased a lot because the hero was interested in cleaning the signboard!!&lt;br&gt;How about helping me clean the signboard every day?" />
+  <keys prop="Description" type="monster" key="f10_1_1_0056_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0056_Ongoing_Text" value="It's okay if you don't clean thoroughly! It's just important to show that the hero is washing the sign!" />
+  <keys prop="Description" type="monster" key="f10_1_1_0056_Complete_Text" value="Customers are already starting to arrive!&lt;br&gt;I'm going to get my revenge on the owner of Rabini who sent me here after making a lot of money." />
+  <keys prop="Description" type="monster" key="f10_1_1_0057_Title" value="[Daily] Remaining Welcome" />
+  <keys prop="Description" type="monster" key="f10_1_1_0057_RewarderDesc" value="Old Revenant" />
+  <keys prop="Description" type="monster" key="f10_1_1_0057_Request_Text" value="Yes. We can meet again if we go there.&lt;br&gt;It's thanks to the haunting forest of illusions..&lt;br&gt;It's quite painful that the image of my friend Beatus, who is suffering, remains as a ghost.&lt;br&gt;If it's okay, the illusion will Please help me to disperse into the mist..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0057_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0057_Ongoing_Text" value="… Even if you remove the illusion, it will reappear. But at least one memory will find peace...I believe so." />
+  <keys prop="Description" type="monster" key="f10_1_1_0057_Complete_Text" value="... Black Illusion Aura. Beatus' pain is clearly approaching this sloppy aura.&lt;br&gt;Beatus's illusion can be captured in real time and tamed as a Fellow. So... here." />
+  <keys prop="Description" type="monster" key="f10_1_1_0058_Title" value="The lizard that became a god" />
+  <keys prop="Description" type="monster" key="f10_1_1_0058_RewarderDesc" value="Director General" />
+  <keys prop="Description" type="monster" key="f10_1_1_0058_Request_Text" value="You must have seen the guy wandering around the closed mine.&lt;br&gt;A red lizard.&lt;br&gt;He was originally a guy loved by the Lizards.&lt;br&gt;One day he disappeared... It changed into such a big shape.&lt;br&gt;I'm sure it must be because of the mine.&lt;br&gt;※ You can obtain a random clue by defeating the researcher in the Closed Mine Legend Dungeon." />
+  <keys prop="Description" type="monster" key="f10_1_1_0058_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0058_Ongoing_Text" value="Closed mines… There must be a secret there.&lt;br&gt;※ You can obtain a random clue by defeating the researcher in the Closed Mine Legend Dungeon." />
+  <keys prop="Description" type="monster" key="f10_1_1_0058_Complete_Text" value="I see. It's an experiment to inject demonic energy into a god...&lt;br&gt;I think that if there's a way to get rid of the demonic energy that fills the inside, I might be able to bring it back to its senses. can you help me" />
+  <keys prop="Description" type="monster" key="f10_1_1_0059_Title" value="Lacerta Cumpano" />
+  <keys prop="Description" type="monster" key="f10_1_1_0059_RewarderDesc" value="Director General" />
+  <keys prop="Description" type="monster" key="f10_1_1_0059_Request_Text" value="that's scary. How... could he do such a cruel thing... &lt;br&gt;If you look at the research data, you know that you are alive... It's amazing. If you reduce the demonic energy inside, you'll be able to come back to your senses. In order to do that, the material is exhausted. Originally, poison makers have antidotes. Take away the healing materials the researchers have." />
+  <keys prop="Description" type="monster" key="f10_1_1_0059_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="f10_1_1_0059_Ongoing_Text" value="I haven't been there, but I'll be where you went. … And as a crocoon, my heart hurts so much... So that I don't commit any more sins... Please punish them..." />
+  <keys prop="Description" type="monster" key="f10_1_1_0059_Complete_Text" value="Okay… While you were gathering the ingredients, I also prepared the recipe. I'll give you a recipe to make a taming mark, so if you haven't come to your senses, gather the ingredients and try again." />
+</files>

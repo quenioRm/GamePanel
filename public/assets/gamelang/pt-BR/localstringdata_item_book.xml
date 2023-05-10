@@ -1,109 +1,109 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys prop="Name" type="item" key="BK_0_0000" value="테스트용 책" />
-  <keys prop="Description" type="item" key="BK_0_0000_description" value="테스트용 책이다." />
-  <keys prop="Description" type="item" key="BK_0_0000_text" value="오…! 당신은.. 믿을 수가 없군! 위험을 헤치고 여기까지 나를 찾아오다니….  &#xD;&#xA;br&gt;br&gt;&#xD;&#xA;나는 사악한 화염 골렘과 브라기 일당이 이 관문을 점령하지 못하도록 이 곳을 지키고 있었소. 나는 계속해서 다른 사람이 정령의 숲을 탈출 하는 것을 도와주어야 할 것 같소. &#xD;&#xA;br&gt;br&gt;&#xD;&#xA;그러니 당신은 서둘러 라니아 공주에 대한 소식을 왕국에 있는 국왕 폐하에게 알려야 하오." />
-  <keys prop="Name" type="item" key="BK_0_0001" value="길들이기 입문서(늑대)" />
-  <keys prop="Description" type="item" key="BK_0_0001_description" value="늑대를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0001_text" value="b&gt;늑대를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 늑대/b&gt;br&gt;일반적인 늑대들은 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0001_text_attach_0" value="b&gt;2. 정예급 늑대/b&gt;br&gt;평상 시의 정예급 늑대는 성질이 포악하여 길들일 수가 없다. 녀석이 좋아하는 먹이인 멧돼지를 먹여, 기분을 좋게 만든 뒤 길들이기를 시도하자.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0001_text_attach_1" value="b&gt;3. 영웅급 늑대/b&gt;br&gt;영웅급 늑대도 정예급 늑대와 마찬가지로, 좋아하는 먹이를 먹인 뒤 길들이기를 시도하면 된다. 하지만, 영웅급 늑대는 희귀한 멧돼지만을 먹으며, 목숨의 위협을 느끼기 전까지는 사람이 준 먹이를 먹지 않는다는 것을 명심하자." />
-  <keys prop="Name" type="item" key="BK_0_0002" value="길들이기 입문서(그림자 늑대)" />
-  <keys prop="Description" type="item" key="BK_0_0002_description" value="그림자 늑대를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0002_text" value="b&gt;그림자 늑대를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 그림자 늑대/b&gt;br&gt;그림자 늑대는 경계심이 높아, 길들일 기회를 잡기가 어렵다. 그림자 늑대가 경계를 푸는 것은 먹이를 먹을 때 뿐이며, 녀석은 어둠의 기운이 깃들어 있는 특수한 고기만을 먹는다. br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0002_text_attach_0" value="b&gt;2. 정예급 그림자 늑대/b&gt;br&gt;정예급 그림자 늑대는, 어둠의 기운이 훨씬 더 많이 함유된 고기만을 먹는다는 것만 제외하면, 일반적인 그림자 늑대와 길들이는 방법이 같다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0002_text_attach_1" value="b&gt;3. 영웅급 그림자 늑대/b&gt;br&gt;영웅급 그림자 늑대는, 강력한 어둠 속성을 지닌 동물의 고기만 먹으며, 목숨의 위협을 느끼기 전까지는 사람이 준 먹이를 먹지 않으므로 주의해야 한다." />
-  <keys prop="Name" type="item" key="BK_0_0003" value="길들이기 입문서(살쾡이류)" />
-  <keys prop="Description" type="item" key="BK_0_0003_description" value="살쾡이류(표범, 사자, 호랑이 등)를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0003_text" value="b&gt;살쾡이류를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 살쾡이류/b&gt;br&gt;일반적인 살쾡이류는 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0003_text_attach_0" value="b&gt;2. 정예급 살쾡이류/b&gt;br&gt;평상 시의 정예급 살쾡이류는 성질이 포악하여 길들일 수가 없다. 녀석들이 좋아하는 먹이인 소를 먹여, 기분을 좋게 만든 뒤 길들이기를 시도하자.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0003_text_attach_1" value="b&gt;3. 영웅급 살쾡이류/b&gt;br&gt;영웅급 살쾡이류도 정예급 살쾡이류와 마찬가지로, 좋아하는 먹이를 먹인 뒤 길들이기를 시도하면 된다. 하지만, 영웅급 살쾡이류는 희귀한 소만을 먹으며, 목숨의 위협을 느끼기 전까지는 사람이 준 먹이를 먹지 않는다는 것을 명심하자." />
-  <keys prop="Name" type="item" key="BK_0_0004" value="길들이기 입문서(곰)" />
-  <keys prop="Description" type="item" key="BK_0_0004_description" value="곰을 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0004_text" value="b&gt;곰을 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 곰/b&gt;br&gt;일반적인 곰은 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0004_text_attach_0" value="b&gt;2. 정예급 곰/b&gt;br&gt;평상 시의 정예급 곰은 성질이 포악하여 길들일 수가 없다. 녀석이 좋아하는 먹이인 순록을 먹여, 기분을 좋게 만든 뒤 길들이기를 시도하자.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0004_text_attach_1" value="b&gt;3. 영웅급 곰/b&gt;br&gt;영웅급 곰도 정예급 곰과 마찬가지로, 좋아하는 먹이를 먹인 뒤 길들이기를 시도하면 된다. 하지만, 영웅급 곰은 희귀한 순록만을 먹으며, 목숨의 위협을 느끼기 전까지는 사람이 준 먹이를 먹지 않는다는 것을 명심하자." />
-  <keys prop="Name" type="item" key="BK_0_0005" value="길들이기 입문서(멧돼지)" />
-  <keys prop="Description" type="item" key="BK_0_0005_description" value="멧돼지를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0005_text" value="b&gt;멧돼지를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 멧돼지/b&gt;br&gt;일반적인 멧돼지는 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0005_text_attach_0" value="b&gt;2. 정예급 멧돼지/b&gt;br&gt;정예급 멧돼지는 힘이 매우 세기 때문에, 체력을 어느 정도 낮춰놓은 뒤, 길들이기를 시도해야 한다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0005_text_attach_1" value="b&gt;3. 영웅급 멧돼지/b&gt;br&gt;영웅급 멧돼지도 정예급 멧돼지와 마찬가지로, 체력을 낮춰놓은 뒤, 길들이기를 시도해야 한다. 단, 정예급 멧돼지보다 훨씬 더 많은 체력을 낮춰놔야 할 것이다." />
-  <keys prop="Name" type="item" key="BK_0_0006" value="길들이기 입문서(소)" />
-  <keys prop="Description" type="item" key="BK_0_0006_description" value="소를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0006_text" value="b&gt;소를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 소/b&gt;br&gt;일반적인 소는 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0006_text_attach_0" value="b&gt;2. 정예급 소/b&gt;br&gt;정예급 소는 힘이 매우 세기 때문에, 체력을 어느 정도 낮춰놓은 뒤, 길들이기를 시도해야 한다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0006_text_attach_1" value="b&gt;3. 영웅급 소/b&gt;br&gt;영웅급 소도 정예급 소와 마찬가지로, 체력을 낮춰놓은 뒤, 길들이기를 시도해야 한다. 단, 정예급 소보다 훨씬 더 많은 체력을 낮춰놔야 할 것이다." />
-  <keys prop="Name" type="item" key="BK_0_0007" value="길들이기 입문서(거미)" />
-  <keys prop="Description" type="item" key="BK_0_0007_description" value="거미를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0007_text" value="b&gt;거미를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 거미/b&gt;br&gt;거미를 길들이기 위해서는, 거미가 지닌 독 기운을 억제시킬 필요가 있다. 하급 독 기운 억제 주문서로 거미의 독 기운을 억제시킨 뒤, 길들이기를 시도하자.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0007_text_attach_0" value="b&gt;2. 정예급 거미/b&gt;br&gt;정예급 거미는 일반 거미보다 독 기운이 강하기 때문에, 중급 독 기운 억제 주문서를 사용해야 한다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0007_text_attach_1" value="b&gt;3. 영웅급 거미/b&gt;br&gt;영웅급 거미가 지닌 독 기운은, 상급 독 기운 억제 주문서로만 억제시킬 수 있다. 하지만, 평상 시에는 영웅급 거미의 강력한 힘으로 인해 주문서가 듣지 않으므로, 체력을 많이 낮춰놓은 뒤 주문서를 쓰도록 하자." />
-  <keys prop="Name" type="item" key="BK_0_0008" value="길들이기 입문서(순록)" />
-  <keys prop="Description" type="item" key="BK_0_0008_description" value="순록을 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0008_text" value="b&gt;순록을 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 순록/b&gt;br&gt;일반적인 순록은 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0008_text_attach_0" value="b&gt;2. 정예급 순록/b&gt;br&gt;정예급 순록은 고집이 세서 쉽게 복종하지 않으므로, 체력을 어느 정도 낮춰놓은 뒤, 길들이기를 시도해야 한다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0008_text_attach_1" value="b&gt;3. 영웅급 순록/b&gt;br&gt;영웅급 순록도 정예급 순록과 마찬가지로, 체력을 낮춰놓은 뒤, 길들이기를 시도해야 한다. 단, 정예급 순록보다 훨씬 더 많은 체력을 낮춰놔야 할 것이다." />
-  <keys prop="Name" type="item" key="BK_0_0009" value="길들이기 입문서(수정뿔 순록)" />
-  <keys prop="Description" type="item" key="BK_0_0009_description" value="수정뿔 순록을 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0009_text" value="b&gt;수정뿔 순록을 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 수정뿔 순록/b&gt;br&gt;수정뿔 순록은 경계심이 높아, 길들일 기회를 잡기가 어렵다. 수정뿔 순록이 경계를 푸는 것은 먹이를 먹을 때 뿐이며, 녀석은 수정 가루가 함유된 신비한 풀만 먹는다. br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0009_text_attach_0" value="b&gt;2. 정예급 수정뿔 순록/b&gt;br&gt;정예급 수정뿔 순록은, 수정 가루가 훨씬 더 많이 함유된 풀만을 먹는다는 것만 제외하면, 일반적인 수정뿔 순록과 길들이는 방법이 같다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0009_text_attach_1" value="b&gt;3. 영웅급 수정뿔 순록/b&gt;br&gt;영웅급 수정뿔 순록은, 광채가 날 정도로 수정 가루가 많이 함유된 풀만 먹으며, 목숨의 위협을 느끼기 전까지는 사람이 준 먹이를 먹지 않으므로 주의해야 한다." />
-  <keys prop="Name" type="item" key="BK_0_0010" value="길들이기 입문서(거북이)" />
-  <keys prop="Description" type="item" key="BK_0_0010_description" value="거북이를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0010_text" value="b&gt;거북이를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 거북이/b&gt;br&gt;일반적인 거북이는 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0010_text_attach_0" value="b&gt;2. 정예급 거북이/b&gt;br&gt;정예급 거북이는 고집이 세서 쉽게 복종하지 않으므로, 체력을 어느 정도 낮춰놓은 뒤, 길들이기를 시도해야 한다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0010_text_attach_1" value="b&gt;3. 영웅급 거북이/b&gt;br&gt;영웅급 거북이도 정예급 거북이와 마찬가지로, 체력을 낮춰놓은 뒤, 길들이기를 시도해야 한다. 단, 정예급 거북이보다 훨씬 더 많은 체력을 낮춰놔야 할 것이다." />
-  <keys prop="Name" type="item" key="BK_0_0011" value="길들이기 입문서(말)" />
-  <keys prop="Description" type="item" key="BK_0_0011_description" value="말을 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0011_text" value="b&gt;말을 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 말/b&gt;br&gt;일반적인 말은 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0011_text_attach_0" value="b&gt;2. 정예급 말/b&gt;br&gt;정예급 말은 고집이 세서 쉽게 복종하지 않으므로, 체력을 어느 정도 낮춰놓은 뒤, 길들이기를 시도해야 한다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0011_text_attach_1" value="b&gt;3. 영웅급 말/b&gt;br&gt;영웅급 말도 정예급 말과 마찬가지로, 체력을 낮춰놓은 뒤, 길들이기를 시도해야 한다. 단, 정예급 말보다 훨씬 더 많은 체력을 낮춰놔야 할 것이다." />
-  <keys prop="Name" type="item" key="BK_0_0012" value="길들이기 입문서(유니콘)" />
-  <keys prop="Description" type="item" key="BK_0_0012_description" value="유니콘을 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0012_text" value="b&gt;유니콘을 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 유니콘/b&gt;br&gt;유니콘은 경계심이 높아, 길들일 기회를 잡기가 어렵다. 유니콘이 경계를 푸는 것은 먹이를 먹을 때 뿐이며, 녀석은 이슬을 머금고 자란 신비한 풀만 먹는다. br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0012_text_attach_0" value="b&gt;2. 정예급 유니콘/b&gt;br&gt;정예급 유니콘은, 티 없이 맑은 이슬을 머금고 자란 풀만을 먹는다는 것만 제외하면, 일반적인 유니콘과 길들이는 방법이 같다." />
-  <keys prop="Description" type="item" key="BK_0_0012_text_attach_1" value="br&gt;br&gt;b&gt;3. 영웅급 유니콘/b&gt;br&gt;영웅급 유니콘은, 이슬로 이루어진 신비한 풀만 먹으며, 목숨의 위협을 느끼기 전까지는 사람이 준 먹이를 먹지 않으므로 주의해야 한다." />
-  <keys prop="Name" type="item" key="BK_0_0013" value="길들이기 입문서(불새)" />
-  <keys prop="Description" type="item" key="BK_0_0013_description" value="불새를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0013_text" value="b&gt;불새를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 불새/b&gt;br&gt;일반적인 불새는 특별한 준비가 없어도 쉽게 길들일 수 있다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0013_text_attach_0" value="b&gt;2. 정예급 불새/b&gt;br&gt;정예급 불새는 고집이 세서 쉽게 복종하지 않으므로, 체력을 어느 정도 낮춰놓은 뒤, 길들이기를 시도해야 한다.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0013_text_attach_1" value="b&gt;3. 영웅급 불새/b&gt;br&gt;영웅급 불새도 정예급 불새와 마찬가지로, 체력을 낮춰놓은 뒤, 길들이기를 시도해야 한다. 단, 정예급 불새보다 훨씬 더 많은 체력을 낮춰놔야 할 것이다." />
-  <keys prop="Name" type="item" key="BK_0_0014" value="길들이기 입문서(속성 몬스터)" />
-  <keys prop="Description" type="item" key="BK_0_0014_description" value="속성을 지닌 몬스터를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0014_text" value="b&gt;속성 몬스터를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 일반적인 속성 몬스터/b&gt;br&gt;속성 몬스터를 길들이기 위해서는, 몬스터가 지닌 속성 기운을 억제시킬 필요가 있다. 몬스터가 지닌 속성의 반대 속성 수치를 어느 정도 올려놓은 뒤에, 하급 속성 기운 억제 주문서로 속성 기운을 억제시키자.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0014_text_attach_0" value="b&gt;2. 정예급 속성 몬스터/b&gt;br&gt;정예급 속성 몬스터의 속성 기운을 억제시키기 위해서는, 중급 속성 기운 억제 주문서를 사용하면 된다. 하지만, 중급 속성 기운 억제 주문서를 사용하기 위해서는, 몬스터가 지닌 속성의 반대 속성 수치를 많이 올려두어야 하고, 체력을 많이 낮춰서 주문에 저항하지 못하도록 해야 한다." />
-  <keys prop="Description" type="item" key="BK_0_0014_text_attach_1" value="br&gt;br&gt;b&gt;3. 영웅급 속성 몬스터/b&gt;br&gt;영웅급 속성 몬스터를 길들이기 위해서는 상급 속성 기운 억제 주문서를 사용해야 한다. 주문서 사용 조건은 정예급 속성 몬스터를 길들일 때와 비슷하지만, 반대 속성 수치를 훨씬 더 많이 올려야 하고, 체력도 훨씬 많이 낮춰야만 한다." />
-  <keys prop="Name" type="item" key="BK_0_0015" value="길들이기 입문서(주인이 있는 몬스터)" />
-  <keys prop="Description" type="item" key="BK_0_0015_description" value="주인이 있는 몬스터를 길들이는 방법이 적혀 있다." />
-  <keys prop="Description" type="item" key="BK_0_0015_text" value="b&gt;주인이 있는 몬스터를 길들이는 방법/b&gt;br&gt;br&gt;b&gt;1. 주인이 있는 일반 몬스터/b&gt;br&gt;주인이 있는 몬스터를 길들이려면, 주인을 제거하여 결속을 해제시키면 된다. 일반 몬스터의 경우, 주인과의 결속이 해제되면 잠시 동안 혼란에 빠지므로, 길들이기가 쉬울 것이다. br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0015_text_attach_0" value="b&gt;2. 주인이 있는 정예급 몬스터/b&gt;br&gt;주인이 있는 정예급 몬스터는, 일반 몬스터와 마찬가지로 주인을 잃게 되면 길들이기가 가능해진다. 주인과의 결속이 해제될 때 잠시 혼란에 빠지긴 하지만, 금새 회복되므로 주의하자.br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0015_text_attach_1" value="b&gt;3. 주인이 있는 영웅급 몬스터/b&gt;br&gt;주인이 있는 영웅급 몬스터를 길들이는 방법도, 일반 몬스터를 길들이는 것과 크게 다르지 않지만, 주인이 영웅급의 강력한 상대이므로 주의해야 한다. 또한, 영웅급 몬스터는 주인과의 결속이 해제되더라도 혼란에 빠지지 않는다." />
-  <keys prop="Name" type="item" key="BK_0_0016" value="찢어진 곰 사냥법 책" />
-  <keys prop="Description" type="item" key="BK_0_0016_description" value="곰을 길들이는 방법이 적혀있는 너덜너덜해진 책" />
-  <keys prop="Description" type="item" key="BK_0_0016_text" value="찢어진 곰 사냥법 책" />
-  <keys prop="Description" type="item" key="BK_0_0016_text_attach_0" value="b&gt;거대한 곰을 길들이는 방법/b&gt;br&gt;&#xD;&#xA;이처럼 거대한 곰은 2단 점프를 사용해서 길들이는 수밖에 없다.br&gt;먼저 평범한 길들이기로 길들인 펠로우가 필요하다.&#xD;&#xA;br&gt;br&gt;&#xD;&#xA;이 펠로우에 올라탄 상태로 거대한 곰을 목표를 지정, 펠로우에 탑승한 상태로 점프를 하고 길들이기 스킬을 사용한 후 다시 점프한다.br&gt;br&gt;&#xD;&#xA;빠른 순발력이 필요하지만 거대 펠로우를 갖고 싶다면 반드시 익혀야 하는 방법이다." />
-  <keys prop="Name" type="item" key="BK_0_0017" value="등대지기의 일기" />
-  <keys prop="Description" type="item" key="BK_0_0017_description" value="모험자 항구가 폐쇄되기 전 등대지기가 급하게 써 내려간 일기" />
-  <keys prop="Description" type="item" key="BK_0_0017_text" value="등대지기의 일기" />
-  <keys prop="Description" type="item" key="BK_0_0017_text_attach_0" value="b&gt; 00년 00일 날씨 맑음/b&gt;br&gt;갑자기 사람들이 쓰러지기 시작했다. 사람들을 건드리면 기괴한 시체가 튀어나오고, 그 시체에게 공격당한 사람들은 또 쓰러지는 악몽이 계속되고 있다. 이들은 어디서 온 것일까? 등대문을 굳게 걸어 잠그고 있지만 어디까지 버틸지는 알 수 없다. br&gt;br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0017_text_attach_1" value="br&gt; b&gt; 00년 00일 날씨 비 /b&gt; br&gt; 문 밖에서 딸 아이의 목소리가 들린다. 환청일까? 아니면 진짜 내 딸인건가? br&gt; 내 딸이라면 그 괴물들에게 잡아먹히게 할 수 없어. 반드시 살린다. 그래.. 문을 열겠어! br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0017_text_attach_2" value="br&gt; b&gt; 00년 00일 날씨 비 /b&gt; br&gt; 죽는다.죽는다.죽는다.죽는다.나는죽는다.죽는다.죽는다.죽는다.나는죽는다.죽는다.…. br&gt;" />
-  <keys prop="Description" type="item" key="BK_0_0017_text_attach_3" value="br&gt; b&gt; 00년 00일 날씨 비 /b&gt; br&gt; 등대의 불을 끄겠다. 모두가 알아야한다. 거친 모험가 항구는 끝이다. 사실을 밝혀야 한다. 내가 본 그 끔찍한 사건의 원흉은 마을의…. (알아볼 수 없다)br&gt;" />
-  <keys prop="Name" type="item" key="BK_0_0018" value="벨제로스의 기록" />
-  <keys prop="Description" type="item" key="BK_0_0018_description" value="벨제로스가 적은 글" />
-  <keys prop="Description" type="item" key="BK_0_0018_text" value="벨제로스의 기록" />
-  <keys prop="Description" type="item" key="BK_0_0018_text_attach_0" value="땅에서 태어난 것. 지옥에서 올라온 것. 대지의 힘이 쇠약해지고 불길은 하늘을 넘본다. 질투는 재앙으로 변하고 배신은 참혹한 파괴를 부른다." />
-  <keys prop="Description" type="item" key="BK_0_0018_text_attach_1" value="br&gt; 용사가 분연히 일어나 모든 것을 해결하나 그 용사는 결코 혼자가 아닐 것이다." />
-  <keys prop="Description" type="item" key="BK_0_0018_text_attach_2" value="br&gt; 모든 용사를 조심하라. 거짓 용사가 참된 용사를 죽이기 전에." />
-  <keys prop="Description" type="item" key="BK_0_0018_text_attach_3" value="br&gt; 엘로라 여신의 힘이 황금의 용을 만들었으니, 이제는 우리가 엘로라에게 헌신할 때가 왔다." />
-  <keys prop="Name" type="item" key="BK_0_0019" value="트라이트얼 문서" />
-  <keys prop="Description" type="item" key="BK_0_0019_description" value="멸망의 공역에 대해 발표된 논문" />
-  <keys prop="Description" type="item" key="BK_0_0019_text" value="트라이트얼 문서" />
-  <keys prop="Description" type="item" key="BK_0_0019_text_attach_0" value="빛의 동맹 시기의 사건들은 신화와 현실이 혼재하나, 모두 같은 내용으로 기록한 것은 엘로라 여신과 젤나리스의 충돌로 인해 트라이트얼이 멸망했다는 것이다." />
-  <keys prop="Description" type="item" key="BK_0_0019_text_attach_1" value="br&gt; 현재 멸망의 공역은 실제로 매우 강력한 엘로라의 힘과 어둠의 힘이 충돌해 유지되고 있으며 공역의 땅이 모두 떠오른 것도 이 때문으로 보인다." />
-  <keys prop="Description" type="item" key="BK_0_0019_text_attach_2" value="br&gt; 흔히 엘로라의 힘이 더 강력해져 젤나리스의 힘을 밀어내면 될 것이라고 생각하고 있으나 저명한 과학자 글레이도어의 발표에 따르면 균형 자체가 멸망의 공역을 유지하는 근본이며 이것이 무너질 경우 하카나스 왕국은 심대한 타격을 입을 수 있다." />
-  <keys prop="Description" type="item" key="BK_0_0019_text_attach_3" value="br&gt; 따라서 엘로라의 힘이 공역에 더해질경우, 우리는 하카나스 사제들의 말과는 달리 공역이 붕괴할 것이라고 예상한다." />
-  <keys prop="Description" type="item" key="BK_0_0019_text_attach_4" value="br&gt; 예외 사항은 단 하나, 젤나리스의 힘이 강해질 경우다. 멸망의 공역을 이용하려는 적이 나타날 경우 적은 엘로라 여신의 힘이나 젤나리스의 힘 어느 하나를 강력하게 하거나 약화시켜 균형을 무너뜨리려 할 것이며 하카나스는 그 수 많은 변수 가운데서 균형을 맞춰내야만 한다." />
-  <keys prop="Description" type="item" key="BK_0_0019_text_attach_5" value="br&gt; 이를 위해 상시 주둔 가능한 기사단을 창설해야 하며 전원 비행 펠로우의 대가들로 구성할 것을 왕성에 제안한다." />
-  <keys prop="Description" type="item" key="BK_0_0019_text_attach_6" value="br&gt; 시머즈 오설리사" />
+  <keys prop="Name" type="item" key="BK_0_0000" value="Book for testing" />
+  <keys prop="Description" type="item" key="BK_0_0000_description" value="This is a book for testing" />
+  <keys prop="Description" type="item" key="BK_0_0000_text" value="You've arrived at a good time. I must remain here to hold off the golems and the braghin. You must make it to the capital and alert the king of Princess Lania's fate." />
+  <keys prop="Name" type="item" key="BK_0_0001" value="Taming Guide: Wolves" />
+  <keys prop="Description" type="item" key="BK_0_0001_description" value="This book will teach you the basics of taming wolves." />
+  <keys prop="Description" type="item" key="BK_0_0001_text" value="!b!How to Tame Wolves!/b!&lt;br&gt;&lt;br&gt;!b!&#xD;&#xA;1. Common Wolves!/b!&lt;br&gt;Common wolves require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0001_text_attach_0" value="!b!2. Elite Wolves!/b!&lt;br&gt;Elite wolves are usually vicious in the wild. Offering them some boar meat, their favorite food, before attempting to tame them can make it easier.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0001_text_attach_1" value="!b!3. Heroic Wolves!/b!&lt;br&gt;Heroic wolves, like their elite cousins, will most likely require some food to tame. However, these wolves only eat rare boar meat and will not eat unless they feel threatened." />
+  <keys prop="Name" type="item" key="BK_0_0002" value="Taming Guide: Shadow Wolves" />
+  <keys prop="Description" type="item" key="BK_0_0002_description" value="This book will teach you the basics of taming shadow wolves." />
+  <keys prop="Description" type="item" key="BK_0_0002_text" value="!b!How to Tame Shadow Wolves!/b!&lt;br&gt;&lt;br&gt;!b!&#xD;&#xA;1. Common Shadow Wolves!/b!&lt;br&gt;Shadow wolves are known to be quite skittish and difficult to tame. The only time they lower their guard is when they are fed and they only eat special meat infused with dark energy.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0002_text_attach_0" value="!b!2. Elite Shadow Wolves!/b!&lt;br&gt;Much like common shadow wolves, these beasts must be fed before they can be tamed. However, the meat must be infused with stronger dark energy.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0002_text_attach_1" value="!b!3. Heroic Shadow Wolves!/b!&lt;br&gt;Heroic shadow wolves only eat meat infused with the strongest dark energy and won't eat unless they feel threatened." />
+  <keys prop="Name" type="item" key="BK_0_0003" value="Taming Guide: Big Cats" />
+  <keys prop="Description" type="item" key="BK_0_0003_description" value="This book will teach you the basics of taming big cats." />
+  <keys prop="Description" type="item" key="BK_0_0003_text" value="!b!How to Tame Big Cats!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Big Cats!/b!&lt;br&gt;Common big cats require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0003_text_attach_0" value="!b!2. Elite Big Cats!/b!&lt;br&gt;Elite big cats are usually vicious and therefore hard to tame. Try bringing along some beef to feed them beforehand.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0003_text_attach_1" value="!b!3. Heroic Big Cats!/b!&lt;br&gt;Heroic big cats, like their elite cousins, will most likely require some food to tame. However, these big cats only eat rare beef and will not eat unless they feel threatened." />
+  <keys prop="Name" type="item" key="BK_0_0004" value="Taming Guide: Bears" />
+  <keys prop="Description" type="item" key="BK_0_0004_description" value="This book will teach you the basics of taming bears." />
+  <keys prop="Description" type="item" key="BK_0_0004_text" value="!b!How to Tame Bears!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Bears!/b!&lt;br&gt;Common bears require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0004_text_attach_0" value="!b!2. Elite Bears!/b!&lt;br&gt;Elite bears are usually vicious and therefore hard to tame. Try bringing along some reindeer to feed them beforehand.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0004_text_attach_1" value="!b!3. Heroic Bears!/b!&lt;br&gt;Heroic bears, like their elite cousins, will most likely require some food to tame. However, these bears only eat rare reindeer meat and will not eat unless they feel threatened." />
+  <keys prop="Name" type="item" key="BK_0_0005" value="Taming Guide: Boars" />
+  <keys prop="Description" type="item" key="BK_0_0005_description" value="This book will teach you the basics of taming boars." />
+  <keys prop="Description" type="item" key="BK_0_0005_text" value="!b!How to Tame Boars!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Boars!/b!&lt;br&gt;Common boars require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0005_text_attach_0" value="!b!2. Elite Boars!/b!&lt;br&gt;Elite boars are stubborn and strong. You will need to calm them before you attempt to tame them.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0005_text_attach_1" value="!b!3. Heroic Boars!/b!&lt;br&gt;Heroic boars, like their elite cousins, are notoriously difficult to tame. You will need to find a way to calm them before you attempt taming.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0006" value="Taming Guide: Cows" />
+  <keys prop="Description" type="item" key="BK_0_0006_description" value="This book will teach you the basics of taming cows." />
+  <keys prop="Description" type="item" key="BK_0_0006_text" value="!b!How to Tame Cows!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Cows!/b!&lt;br&gt;Common cows require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0006_text_attach_0" value="!b!2. Elite Cows!/b!&lt;br&gt;Elite cows are very strong. You will need to calm them before you attempt to tame them.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0006_text_attach_1" value="!b!3. Heroic Cows!/b!&lt;br&gt;Heroic cows, like their elite cousins, are notoriously difficult to tame. You will need to find a way to calm them before you attempt taming.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0007" value="Taming Guide: Spiders" />
+  <keys prop="Description" type="item" key="BK_0_0007_description" value="This book will teach you the basics of taming spiders." />
+  <keys prop="Description" type="item" key="BK_0_0007_text" value="!b!How to Tame Spiders!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Spiders!/b!&lt;br&gt;Taming any spider will require you to first neutralize its poison. Make sure to bring along a low grade scroll to counteract its effects.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0007_text_attach_0" value="!b!2. Elite Spiders!/b!&lt;br&gt;Elite spiders have deadlier poison than common spiders. Make sure to bring along a medium grade scroll to counteract its effects.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0007_text_attach_1" value="!b!2. Heroic Spiders!/b!&lt;br&gt;Heroic spiders have much deadlier poison than common spiders. Make sure to bring along a high grade scroll to counteract its effects and do not attempt to tame one without calming it first.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0008" value="Taming Guide: Reindeers" />
+  <keys prop="Description" type="item" key="BK_0_0008_description" value="This book will teach you the basics of taming reindeers." />
+  <keys prop="Description" type="item" key="BK_0_0008_text" value="!b!How to Tame Reindeers!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Reindeers!/b!&lt;br&gt;Common reindeers require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0008_text_attach_0" value="!b!2. Elite Reindeers!/b!&lt;br&gt;Elite reindeers are very strong. You will need to calm them before you attempt to tame them.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0008_text_attach_1" value="!b!3. Heroic Reindeers!/b!&lt;br&gt;Heroic reindeers, like their elite cousins, are notoriously difficult to tame. You will need to find a way to calm them before you attempt taming.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0009" value="Taming Guide: Crystaldeers" />
+  <keys prop="Description" type="item" key="BK_0_0009_description" value="This book will teach you the basics of taming crystaldeers." />
+  <keys prop="Description" type="item" key="BK_0_0009_text" value="!b!How to Tame Crystaldeers!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Crystaldeers!/b!&lt;br&gt;Crystaldeers are very wary by nature, only lowering their guard to feed on a single kind of grass infused with powdered crystal.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0009_text_attach_0" value="!b!2. Elite Crystaldeers!/b!&lt;br&gt;With a similar love for crystal-infused grass, elite crystaldeers can be tamed like their common cousins.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0009_text_attach_1" value="!b!3. Heroic Crystaldeers!/b!&lt;br&gt;Like common and elite crystaldeers, heroic crystaldeers will need to be fed crystal-infused grass. However, they will not eat unless they feel threatened." />
+  <keys prop="Name" type="item" key="BK_0_0010" value="Taming Guide: Turtles" />
+  <keys prop="Description" type="item" key="BK_0_0010_description" value="This book will teach you the basics of taming turtles." />
+  <keys prop="Description" type="item" key="BK_0_0010_text" value="!b!How to Tame Turtles!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Turtles!/b!&lt;br&gt;Common turtles require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0010_text_attach_0" value="!b!2. Elite Turtles!/b!&lt;br&gt;Elite turtles can be very tough. You will need to calm them before you attempt to tame them.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0010_text_attach_1" value="!b!3. Heroic Turtles!/b!&lt;br&gt;Heroic turtles, like their elite cousins, are notoriously difficult to tame. You will need to find a way to calm them before you attempt taming.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0011" value="Taming Guide: Horses" />
+  <keys prop="Description" type="item" key="BK_0_0011_description" value="This book will teach you the basics of taming horses." />
+  <keys prop="Description" type="item" key="BK_0_0011_text" value="!b!How to Tame Horses!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Horses!/b!&lt;br&gt;Common horses require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0011_text_attach_0" value="!b!2. Elite Horses!/b!&lt;br&gt;Elite horses can be very tough. You will need to calm them before you attempt to tame them.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0011_text_attach_1" value="!b!3. Heroic Horses!/b!&lt;br&gt;Heroic horses, like their elite cousins, are notoriously difficult to tame. You will need to find a way to calm them before you attempt taming.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0012" value="Taming Guide: Unicorns" />
+  <keys prop="Description" type="item" key="BK_0_0012_description" value="This book will teach you the basics of taming unicorns." />
+  <keys prop="Description" type="item" key="BK_0_0012_text" value="!b!How to Tame Unicorns!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Unicorns!/b!&lt;br&gt;Unicorns are very wary by nature, only lowering their guard to feed on a single kind of grass infused with morning dew.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0012_text_attach_0" value="!b!2. Elite Unicorns!/b!&lt;br&gt;With a similar love for dew-infused grass, elite unicorns can be tamed like their common cousins." />
+  <keys prop="Description" type="item" key="BK_0_0012_text_attach_1" value="&lt;br&gt;&lt;br&gt;!b!3. Heroic Unicorns!/b!&lt;br&gt;Like common and elite unicorns, heroic unicorns will need to be fed dew-infused grass. However, they will not eat unless they feel threatened." />
+  <keys prop="Name" type="item" key="BK_0_0013" value="Taming Guide: Phoenixes" />
+  <keys prop="Description" type="item" key="BK_0_0013_description" value="This book will teach you the basics of taming phoenixes." />
+  <keys prop="Description" type="item" key="BK_0_0013_text" value="!b!How to Tame Phoenixes!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Phoenixes!/b!&lt;br&gt;Common phoenixes require no special preparation.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0013_text_attach_0" value="!b!2. Elite Phoenixes!/b!&lt;br&gt;Elite phoenixes can have fiery tempers. You will need to calm them before you attempt to tame them.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0013_text_attach_1" value="!b!3. Heroic Phoenixes!/b!&lt;br&gt;Heroic phoenixes, like their elite cousins, are notoriously difficult to tame. You will need to find a way to calm them before you attempt taming.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0014" value="Taming Guide: The Elementally Aligned" />
+  <keys prop="Description" type="item" key="BK_0_0014_description" value="This book will teach you the basics of taming monsters with strong elemental affinities." />
+  <keys prop="Description" type="item" key="BK_0_0014_text" value="!b!How to Tame Elementally-aligned Monsters!/br!&lt;br&gt;!b!1. Common Elementally-aligned Monsters!/b!&lt;br&gt;Taming monsters with elemental affinities requires that you neutralize their powers. Make sure to bring along a low grade scroll to counteract any ill-effects.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0014_text_attach_0" value="!b!2. Elite Elementally-aligned Monsters!/b!&lt;br&gt;Elite elemental monsters will require more defense. It is wise to bring a middle grade scroll of the opposite affinity and weaken them before you attempt to tame." />
+  <keys prop="Description" type="item" key="BK_0_0014_text_attach_1" value="&lt;br&gt;&lt;br&gt;!b!3. Heroic Elementally-aligned Monsters!/b!&lt;br&gt;Heroic elemental monsters are the most dangerous, requiring a high grade scroll of the opposite element to counteract their powerful magic and weaken them significantly before you attempt to tame." />
+  <keys prop="Name" type="item" key="BK_0_0015" value="Taming Guide: Enemy Mounts" />
+  <keys prop="Description" type="item" key="BK_0_0015_description" value="This book will teach you the basics of taming monsters with owners." />
+  <keys prop="Description" type="item" key="BK_0_0015_text" value="!b!How to Tame Enemy Mounts!/b!&lt;br&gt;&lt;br&gt;!b!1. Common Monsters with Owners!/b!&lt;br&gt;Any mount is bound to its owner. To separate this bond, the owner must perish. When a common monster is unbound from its owner, it becomes confused and easily tamed.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0015_text_attach_0" value="!b!2. Elite Monsters with Owners!/b!&lt;br&gt;Taming elite owned monsters is the same as taming their common cousins, however they will generally recover from their confusion much faster after the bond is broken.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0015_text_attach_1" value="!b!3. Heroic Monsters with Owners!/b!&lt;br&gt;Stealing a heroic mount away from its owner can be a tricky proposition, as the rider is often just as powerful as the mount. In addition, a truly powerful mount will not become confused when its bond is broken. Expect a fight!&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0016" value="Torn Book of Bear Taming" />
+  <keys prop="Description" type="item" key="BK_0_0016_description" value="A book on taming big bears that seems to have been partially eaten." />
+  <keys prop="Description" type="item" key="BK_0_0016_text" value="Torn Book of Bear Taming" />
+  <keys prop="Description" type="item" key="BK_0_0016_text_attach_0" value="!b!How to Tame Big Bears!/b!&lt;br&gt;&#xD;&#xA;Big bears can only be tamed from the back of another familiar. &lt;br&gt;&lt;br&gt;First, you'll need a regular familiar. Then, you'll need to approach your target bear and leap from your familiar's back. When you're in the air, jump again. &lt;br&gt;&lt;br&gt;It's a difficult maneuver to achieve, but well worth the effort." />
+  <keys prop="Name" type="item" key="BK_0_0017" value="Lighthouse Keeper's Diary" />
+  <keys prop="Description" type="item" key="BK_0_0017_description" value="A hastily-written diary left by the previous lighthouse keeper after the closure of the port." />
+  <keys prop="Description" type="item" key="BK_0_0017_text" value="Lighthouse Keeper's Diary" />
+  <keys prop="Description" type="item" key="BK_0_0017_text_attach_0" value="!b!00/00 Today's Weather: Sunny!/b!&lt;br&gt;Suddenly, everyone collapsed. Everyone around me fell where they stood, and then they came back. They were walking corpses and anyone they touched would suffer the same fate. Where could they have come from? I've locked myself in the lighthouse, but I don't know how much longer I can hold out.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0017_text_attach_1" value="!b!00/00 Today's Weather: Rainy!/b!&lt;br&gt;I can hear my daughter outside the door. Is this a hallucination? Is it real? I can't just wait here and let the monsters get to her! I must save her. Yes... I have to open the door! &lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0017_text_attach_2" value="!b!00/00 Today's Weather: Rainy!/b!&lt;br&gt;I will die. I will die. I will die. I will die. I will die. I will die. I will die. I will die... &lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="item" key="BK_0_0017_text_attach_3" value="!b!00/00 Today's Weather: Rainy!/b!&lt;br&gt;I'm going to turn off the lights. Everyone must know. This port can burn. The truth must be known. The monsters here...&lt;br&gt;(The rest is illegible.)&lt;br&gt;" />
+  <keys prop="Name" type="item" key="BK_0_0018" value="Velzeroth's Records" />
+  <keys prop="Description" type="item" key="BK_0_0018_description" value="The transcribed writings of Velzeroth." />
+  <keys prop="Description" type="item" key="BK_0_0018_text" value="Velzeroth's Records" />
+  <keys prop="Description" type="item" key="BK_0_0018_text_attach_0" value="Born from the earth. Risen from hell. The power of earth weakens and flame cloaks the sky. Jealousy changes to catastrophe and betrayal calls for destruction." />
+  <keys prop="Description" type="item" key="BK_0_0018_text_attach_1" value="&lt;br&gt;A warrior will change the fate of the world, but that warrior will not be alone." />
+  <keys prop="Description" type="item" key="BK_0_0018_text_attach_2" value="&lt;br&gt;Be careful of all warriors. For a false hero may destroy our true hope." />
+  <keys prop="Description" type="item" key="BK_0_0018_text_attach_3" value="&lt;br&gt;Now that Ellora has created a golden dragon, we must devote ourselves to her will." />
+  <keys prop="Name" type="item" key="BK_0_0019" value="Tritael Document" />
+  <keys prop="Description" type="item" key="BK_0_0019_description" value="A dissertation on the Tritael Rift." />
+  <keys prop="Description" type="item" key="BK_0_0019_text" value="Tritael Document" />
+  <keys prop="Description" type="item" key="BK_0_0019_text_attach_0" value="Much knowledge of the age of the Alliance of Light is a mixture of myth and reality, however one thing is certain. The Tritael Rift was created when Ellora and Zelnaris clashed." />
+  <keys prop="Description" type="item" key="BK_0_0019_text_attach_1" value="&lt;br&gt;Through to modern times, the rift has remained a of both Ellora's power and Zelnariss evil. It is permanently in flux with no signs of receding." />
+  <keys prop="Description" type="item" key="BK_0_0019_text_attach_2" value="&lt;br&gt;Many believe that Ellora's power will one day overcome Zelnariss, but one study by the scientist Glendor suggests that great havoc could occur if the rift fell out of balance." />
+  <keys prop="Description" type="item" key="BK_0_0019_text_attach_3" value="&lt;br&gt;Despite the desires of our priesthood, increasing Ellora's influence in the area could lead to the destruction of Hakanas itself." />
+  <keys prop="Description" type="item" key="BK_0_0019_text_attach_4" value="&lt;br&gt;However, the same dangers are present with Zelnariss forces. If the enemies of our kingdom were to swing the balance to their side, we would suffer the same catastrophic fate." />
+  <keys prop="Description" type="item" key="BK_0_0019_text_attach_5" value="&lt;br&gt;That is why it is my proposal that we continue to garrison our forces in the area to maintain the sanctity of our world." />
+  <keys prop="Description" type="item" key="BK_0_0019_text_attach_6" value="&lt;br&gt;Seamus Osulisa" />
 </files>

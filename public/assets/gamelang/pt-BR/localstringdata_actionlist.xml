@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="actionlist_normal_Attack_title" value="Normal Attack" />
+  <keys prop="Description" type="monster" key="actionlist_normal_Attack_desc" value="Attacks a designated target." />
+  <keys prop="Description" type="monster" key="actionlist_normal_Looting_title" value="Take Item" />
+  <keys prop="Description" type="monster" key="actionlist_normal_Looting_desc" value="Collect items dropped nearby." />
+  <keys prop="Description" type="monster" key="actionlist_normal_BattleOrNoBattle_title" value="Toggle Attack" />
+  <keys prop="Description" type="monster" key="actionlist_normal_BattleOrNoBattle_desc" value="Switch between normal and combat stances." />
+  <keys prop="Description" type="monster" key="actionlist_normal_WalkOrRun_title" value="Run/Walk" />
+  <keys prop="Description" type="monster" key="actionlist_normal_WalkOrRun_desc" value="Switch between running and walking." />
+  <keys prop="Description" type="monster" key="actionlist_community_InviteToParty_title" value="Party Request" />
+  <keys prop="Description" type="monster" key="actionlist_community_InviteToParty_desc" value="Invite someone to your party or ask to join another party." />
+  <keys prop="Description" type="monster" key="actionlist_community_RequestBattle_title" value="Duel Request" />
+  <keys prop="Description" type="monster" key="actionlist_community_RequestBattle_desc" value="Challenge someone to a duel." />
+  <keys prop="Description" type="monster" key="actionlist_community_RequestTrade_title" value="Trade Request" />
+  <keys prop="Description" type="monster" key="actionlist_community_RequestTrade_desc" value="Ask someone if they want to trade." />
+  <keys prop="Description" type="monster" key="actionlist_skill_Taming_title" value="Taming" />
+  <keys prop="Description" type="monster" key="actionlist_skill_Taming_desc" value="Mark a creature to be tamed. Approach a marked creature without being seen to start taming. If you are spotted or cancel target selection, the mark will be cleared." />
+  <keys prop="Description" type="monster" key="actionlist_skill_Absorption_title" value="Soul Absorption" />
+  <keys prop="Description" type="monster" key="actionlist_skill_Absorption_desc" value="Absorbs the soul of the selected target. Learn about souls by collecting them, or convert them into soul stones." />
+  <keys prop="Description" type="monster" key="actionlist_emotion_0_title" value="Victory" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_0_desc" value="Strike a happy pose from winning a battle. /win" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_1_title" value="Defeat" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_1_desc" value="Strike a sad pose from losing a battle. /lose" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_2_title" value="Woo" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_2_desc" value="Profess your love to someone special. /confess" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_3_title" value="Shock" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_3_desc" value="Show your shock at whatever just happened. /surprise" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_4_title" value="Charge" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_4_desc" value="Have no fear and push forward! /charge" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_5_title" value="Laugh" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_5_desc" value="A funny laughter.&#xD;&#xA; &#xD;&#xA;  &lt;O_Y&gt; Emotions are available via chat &lt;/O_Y&gt;&#xD;&#xA;  &lt;G_Y&gt; /laugh &lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_6_title" value="Cheer" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_6_desc" value="Show someone that you're behind them all the way. /cheer" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_7_title" value="Refuse" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_7_desc" value="An act that refusal.&#xD;&#xA; &#xD;&#xA;  &lt;O_Y&gt; Emotions are available via chat &lt;/O_Y&gt;&#xD;&#xA;  &lt;G_Y&gt; /refuse  &lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_8_title" value="Applaud" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_8_desc" value="The act of applauding to your opponent.&#xD;&#xA; &#xD;&#xA;  &lt;O_Y&gt; Emotions are available via chat &lt;/O_Y&gt;&#xD;&#xA;  &lt;G_Y&gt; /applause &lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_9_title" value="Agree" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_9_desc" value="Nod your head to agree with someone. /yes" />
+  <keys prop="Description" type="monster" key="actionlist_normal_Change2Magicstone_title" value="Create Soul Stone" />
+  <keys prop="Description" type="monster" key="actionlist_normal_Change2Magicstone_desc" value="Turn a familiar's soul into a soul stone. The selected familiar will disappear." />
+  <keys prop="Description" type="monster" key="actionlist_normal_CreatureRide_title" value="Mount Familiar (U)" />
+  <keys prop="Description" type="monster" key="actionlist_normal_CreatureRide_desc" value="Mount the selected familiar.!br!Press the (F) key to open the familiar window.!br!Click the familiar's portrait to summon or dismiss them." />
+  <keys prop="Description" type="monster" key="actionlist_normal_swapweapon_title" value="Switch Weapon" />
+  <keys prop="Description" type="monster" key="actionlist_normal_swapweapon_desc" value="Switch your equipped weapon." />
+  <keys prop="Description" type="monster" key="actionlist_normal_SitOrStand_title" value="Sit/Stand" />
+  <keys prop="Description" type="monster" key="actionlist_normal_SitOrStand_desc" value="Switch between sitting and standing. Sitting restores your HP and MP faster." />
+  <keys prop="Description" type="monster" key="actionlist_emotion_10_title" value="Sorrow" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_10_desc" value="A grieving gesture with tears.&#xD;&#xA; &#xD;&#xA;  &lt;O_Y&gt; Emotions are available via chat &lt;/O_Y&gt;&#xD;&#xA;  &lt;G_Y&gt; /sorrow &lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_11_title" value="Mockery" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_11_desc" value="The act of mocking the other person while laughing.&#xD;&#xA; &#xD;&#xA;  &lt;O_Y&gt; Emotions are available via chat &lt;/O_Y&gt;&#xD;&#xA;  &lt;G_Y&gt; /mock &lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_12_title" value="Joy" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_12_desc" value="An action that shows joy by dancing.&#xD;&#xA; &#xD;&#xA;  &lt;O_Y&gt; Emotions are available via chat &lt;/O_Y&gt;&#xD;&#xA;  &lt;G_Y&gt; /joy &lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_13_title" value="Squat" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_13_desc" value="Squatting and penalizing action." />
+  <keys prop="Description" type="monster" key="actionlist_emotion_14_title" value="Push-up" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_14_desc" value="Pushing up and down." />
+  <keys prop="Description" type="monster" key="actionlist_emotion_15_title" value="Writing swatters" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_15_desc" value="The act of lying on the ground and swarming strongly." />
+  <keys prop="Description" type="monster" key="actionlist_emotion_16_title" value="Handshake" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_16_desc" value="Gentle Hand-shake gesture." />
+  <keys prop="Description" type="monster" key="actionlist_emotion_17_title" value="Costume Pose" />
+  <keys prop="Description" type="monster" key="actionlist_emotion_17_desc" value="Unavailable without an action costume." />
+</files>

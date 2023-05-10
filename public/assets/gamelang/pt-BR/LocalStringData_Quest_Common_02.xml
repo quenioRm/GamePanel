@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="hk_9_1_9040_Title" value="Limpar masmorras lendárias lvl 40" />
+  <keys prop="Description" type="monster" key="hk_9_1_9050_Title" value="Limpar masmorras lendárias lvl 50" />
+  <keys prop="Description" type="monster" key="hk_9_1_9060_Title" value="Limpe as masmorras lendárias lvl 60 e lvl 65" />
+  <keys prop="Description" type="monster" key="hk_9_1_9070_Title" value=" Derrote o vice-capitão Shakis no RRB " />
+  <keys prop="Description" type="monster" key="hk_9_1_9071_Title" value=" Derrote o líder pirata Karrad no RRB " />
+  <keys prop="Description" type="monster" key="hk_9_1_9072_Title" value=" Derrote Lucid Elpher no RRB " />
+  <keys prop="Description" type="monster" key="hk_9_1_9073_Title" value=" Derrote o líder Khapir no RRB " />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_1_Title" value="Recompensas Regionais: Floresta de Brakkar" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_1_request_text" value="Ah, então você conseguiu domar tudo na Floresta de Brakar?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_1_complete_text" value="Parabéns! Você completou a domesticação na Floresta Barkar!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_2_Title" value="Recompensas Regionais: Hakains Crossing" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_2_request_text" value="Ah, então você conseguiu domar tudo em Hakain's Crossing?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_2_complete_text" value="Parabéns! Você completou a domesticação em Hakains Crossing!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_3_Title" value="Recompensas Regionais: Terras Altas de Hakanas" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_3_request_text" value="Ah, então você terminou de domar tudo nas Terras Altas de Hakanas?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_3_complete_text" value="Parabéns! Você completou a domesticação nas Terras Altas de Hakanas!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_4_Title" value="Recompensas Regionais: Mar de Hakanas" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_4_request_text" value="Ah, então você conseguiu domar tudo no Mar de Hakanas?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_4_complete_text" value="Parabéns! Você completou a domesticação no Mar de Hakanas!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_5_Title" value="Recompensas Regionais: Costa do Parna" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_5_request_text" value="Ah, então você terminou de domar tudo na Costa de Parna?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_5_complete_text" value="Parabéns! Você completou a domesticação na Costa Parnas!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_6_Title" value="Recompensas Regionais: Exarahn Badlands" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_6_request_text" value="Ah, então você conseguiu domar tudo em Exarahn Badlands?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_6_complete_text" value="Parabéns! Você concluiu a domesticação nas Exarahn Badlands!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_7_Title" value="Recompensas Regionais: Tritael Rift" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_7_request_text" value="Ah, então você conseguiu domar tudo na Fenda Tritael?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_7_complete_text" value="Parabéns! Você completou a domesticação na Fenda Tritael!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_8_Title" value="Recompensas Regionais: Resíduos Enjoativos" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_8_request_text" value="Ah, então você terminou de domar tudo em Cloying Wastes?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_8_complete_text" value="Parabéns! Você completou a doma nos Desertos Enjoativos!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_9_Title" value="Recompensas Regionais: Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_9_request_text" value="Ah, então você conseguiu domar tudo no Santuário de Ellora?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_9_complete_text" value="Parabéns! Você completou a domesticação no Santuário de Ellora!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_10_Title" value="Recompensas Regionais: Stygaea" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_10_request_text" value="Ah, então você conseguiu domar tudo em Stygaea?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_10_complete_text" value="Parabéns! Você completou a domesticação em Stygaea!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_11_Title" value="Recompensas Regionais: Planícies de Akrat" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_11_request_text" value="Ah, então você terminou de domar tudo nas Planícies de Akrat?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_11_complete_text" value="Parabéns! Você concluiu a domesticação nas Planícies de Akrat!&lt;br&gt; Aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_12_Title" value="Recompensas Regionais: Vale de Turiman" />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_12_request_text" value="Ah, então você terminou de domar tudo no Vale de Turiman?&lt;br&gt;Impressionante! Você deve visitar Rabbini Tammy em Hakains Crossing para reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="ev_9_1_0789_12_complete_text" value="Parabéns! Você concluiu a domesticação em todas as Regiões!&lt;br&gt; Aqui estão suas recompensas finais." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_1_Title" value="Como ser um mestre de domesticação - Passo 1" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_1_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_1_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_1_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_2_Title" value="Como ser um mestre de domesticação - Passo 2" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_2_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_2_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_2_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_3_Title" value="Como ser um mestre de domesticação - Passo 3" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_3_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_3_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_3_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_4_Title" value="Como ser um mestre de domesticação - Passo 4" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_4_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_4_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_4_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_5_Title" value="Como ser um mestre de domesticação - Passo 5" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_5_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_5_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_5_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_6_Title" value="Como ser um mestre de domesticação - Passo 6" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_6_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_6_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_6_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_7_Title" value="Como ser um mestre de domesticação - Passo 7" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_7_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_7_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_7_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_8_Title" value="Como ser um mestre de domesticação - Passo 8" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_8_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_8_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_8_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_9_Title" value="Como ser um mestre de domesticação - Passo 9" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_9_request_text" value="Então você veio até mim para melhorar ainda mais suas habilidades de domesticação, nyan?&lt;br&gt;Então eu tenho algo para você!." />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_9_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_9_complete_text" value="Aah!&lt;br&gt;Os certificados de domesticação que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve ajudar você, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_10_Title" value="Como ser um mestre de domesticação - A prova final" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_10_request_text" value="Esta é a última vez que poderei ajudá-lo, Cavaleiro.&lt;br&gt;Traga-me alguns desses Certificados de Domação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_10_ongoing_text" value="Traga-me alguns desses certificados de domesticação e eu o ajudarei, nyan!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0790_10_complete_text" value="Aah!&lt;br&gt;Os Certificados de Taming que eu pedi, maravilhosos!&lt;br&gt;Aqui, isso deve te ajudar!&lt;br&gt;Sinto muito por não poder mais te ajudar a melhorar, nyan." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9061_title" value="Exorcizando a Casa Assombrada" />
+  <keys prop="Description" type="monster" key="Hk_9_1_9061_request_text" value="Ajude-nos! &lt;br&gt;O Grim Reaper amaldiçoou a casa deserta ali! &lt;br&gt;&lt;br&gt;Se você conseguir se livrar dele, tenho uma boa recompensa para você, nya!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_9061_ongoing_text" value="Ajude-nos! &lt;br&gt;O Grim Reaper amaldiçoou a casa deserta ali! &lt;br&gt;&lt;br&gt;Se você conseguir se livrar dele, tenho uma boa recompensa para você, nya!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_9061_complete_text" value=" Muito bem, nya! &lt;br&gt;&lt;br&gt;Por enquanto a maldição foi removida daquela casa assombrada. &lt;br&gt;Mas quem sabe se vai voltar. &lt;br&gt;Podemos contar com sua ajuda novamente, se isso acontecer?" />
+  <keys prop="Description" type="monster" key="hk_9_1_9062_title" value="Caçador de fantasmas verdadeiro" />
+  <keys prop="Description" type="monster" key="hk_9_1_9062_request_text" value=" Se você quer provar o seu valor como um verdadeiro Caçador de Fantasmas, vá caçar os monstros mais assustadores dentro da Casa Assombrada, nyahaha!" />
+  <keys prop="Description" type="monster" key="hk_9_1_9062_ongoing_text" value=" Se você quer provar o seu valor como um verdadeiro Caçador de Fantasmas, vá caçar os monstros mais assustadores dentro da Casa Assombrada, nyahaha!" />
+  <keys prop="Description" type="monster" key="hk_9_1_9062_complete_text" value=" Agora que foi um bom desempenho, nya! &lt;br&gt;&lt;br&gt;Você conseguiu derrotar os monstros mais assustadores ao redor! &lt;br&gt;Pegue esta recompensa por seus esforços. Tenho certeza de que irá ajudá-lo em sua jornada como Caçador de Fantasmas profissional." />
+  <keys prop="Description" type="monster" key="c02_9_1_0017_Title" value="Subjugação revolucionária vermelha" />
+  <keys prop="Description" type="monster" key="c02_9_1_0017_RewarderDesc" value="Senhor Extremo" />
+  <keys prop="Description" type="monster" key="c02_9_1_0017_Request_Text" value="Esta será sua última missão aqui.&lt;br&gt;Eu quero que você enfrente Croctus, o líder dos Revolucionários Vermelhos.&lt;br&gt;&lt;br&gt;Derrote-o e volte para mim, nya!" />
+  <keys prop="Description" type="monster" key="c02_9_1_0017_Accepted_Text" value=" Derrote Croctus no Red Tainted Altar dentro da Base Revolucionária e volte para mim, nya! " />
+  <keys prop="Description" type="monster" key="c02_9_1_0017_Ongoing_Text" value=" Derrote Croctus no Red Tainted Altar dentro da Base Revolucionária e volte para mim, nya! " />
+  <keys prop="Description" type="monster" key="c02_9_1_0017_Complete_Text" value="Requintado!&lt;br&gt;Agora que a Revolução Vermelha foi interrompida, podemos finalmente descansar.&lt;br&gt;&lt;br&gt;Aqui está sua recompensa pelo seu trabalho, nya." />
+  <keys prop="Description" type="monster" key="f01_yatu_hard_daily_Title" value="Ritual antigo de Braghin" />
+  <keys prop="Description" type="monster" key="f01_yatu_hard_daily_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="f01_yatu_hard_daily_Request_Text" value="Ouvi notícias preocupantes, aventureiro!&lt;br&gt;Aparentemente, aos sábados, os Braghin estão realizando um ritual muito especial, diferente dos outros dias.&lt;br&gt;Diz-se que este ritual deve trazer de volta o Shaman Yatuman em seu força total.&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="f01_yatu_hard_daily_Request_Text_attach_0" value="Isso não deve acontecer. Por favor, pare o Braghin no Altar Secreto de Yatuman!" />
+  <keys prop="Description" type="monster" key="f01_yatu_hard_daily_Accepted_Text" value="Vá ao Altar Secreto de Yatuman aos sábados e interrompa o ritual!" />
+  <keys prop="Description" type="monster" key="f01_yatu_hard_daily_Ongoing_Text" value="Vá ao Altar Secreto de Yatuman aos sábados e interrompa o ritual!" />
+  <keys prop="Description" type="monster" key="f01_yatu_hard_daily_Complete_Text" value="Muito bem, aventureiro!&lt;br&gt;Tome isso como um sinal de minha gratidão.&lt;br&gt;Tenho certeza de que isso o ajudará a ficar mais forte para suas próximas provações." />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_1_Title" value="Explorando o esconderijo do dragão" />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_1_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_1_Request_Text" value="Precisamos explorar esta área antes de prosseguirmos!&lt;br&gt;Tente ir o mais fundo possível no território deles e me informe depois!" />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_1_Accepted_Text" value="Lute pelo templo do dragão." />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_1_Ongoing_Text" value="Lute pelo templo do dragão." />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_1_Complete_Text" value="Você está de volta!&lt;br&gt;O que você descobriu?&lt;br&gt;&lt;br&gt;Entendo... Sua ajuda é muito apreciada.&lt;br&gt;&lt;br&gt;Tome isso por seus esforços.&lt;br&gt;É uma tremenda poder nele, suponho que possa ser útil para você." />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_2_Title" value="Desafiando os Deuses" />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_2_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_2_Request_Text" value="Tente ir ao ponto mais profundo deste templo e derrote o líder do dragão.&lt;br&gt;Se você puder fazer isso, tenho algo muito especial para você." />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_2_Accepted_Text" value="Vá e derrote o líder do dragão e reporte-se ao Corvo depois." />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_2_Ongoing_Text" value="Vá e derrote o líder do dragão e reporte-se ao Corvo depois." />
+  <keys prop="Description" type="monster" key="d88_dragod_daily_2_Complete_Text" value="Muito bem!&lt;br&gt;Eu também consegui extrair esta alma de dragão purificada.&lt;br&gt;Eu quero que você a pegue e guarde. Tenho certeza que será muito útil para você." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_1_Title" value="Infiltração no Esconderijo" />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_1_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_1_Request_Text" value="Lute pelo esconderijo do dragão e me informe." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_1_Accepted_Text" value="Lute pelo esconderijo do dragão e informe o Corvo." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_1_Ongoing_Text" value="Lute pelo esconderijo do dragão e informe o Corvo." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_1_Complete_Text" value="Obrigado por reduzir o número de dragões.&lt;br&gt;Leve isso por seus esforços." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_2_Title" value="Estátua da Deusa Amaldiçoada" />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_2_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_2_Request_Text" value="Nossos batedores relataram sobre uma estátua gigante que se assemelha a nossa Deusa, Ellora.&lt;br&gt;Quero que você verifique isso e lide com quaisquer interferências que possam acontecer no caminho." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_2_Accepted_Text" value="Investigue a estátua gigante da Deusa." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_2_Ongoing_Text" value="Investigue a estátua gigante da Deusa." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_2_Complete_Text" value="Fez o quê?!&lt;br&gt;Inacreditável...Obrigado a Ellora por ter saído vivo.&lt;br&gt;&lt;br&gt;Ah, você encontrou isso na estátua?&lt;br&gt;Você deveria ficar com ele, não tenho utilidade para ele ." />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_3_Title" value="Domine os poderes poderosos!" />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_3_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_3_Request_Text" value="É hora de lidar com o líder do dragão e acabar com isso de uma vez por todas!&lt;br&gt;Vá até o ponto mais profundo deste templo e derrote Quadracan.&lt;br&gt;Mas esteja avisado, ele é um descendente dos antigos deuses dragões. Então, sem dúvida, ele será muito poderoso!" />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_3_Accepted_Text" value=" Derrote o descendente do deus dragão Quadracan para destruir a formação dos dragões. " />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_3_Ongoing_Text" value=" Derrote o descendente do deus dragão Quadracan para destruir a formação dos dragões. " />
+  <keys prop="Description" type="monster" key="d88_dragod_rep_3_Complete_Text" value="Brilhante!&lt;br&gt;Você derrotou um deus de verdade!&lt;br&gt;Você é mais poderoso do que eu esperava, você tem meus respeitos aventureiro!&lt;br&gt;&lt;br&gt;Ah! Certo...Encontramos algo nos escombros da estátua gigante.&lt;br&gt;Eu quero que você fique com isso...Está cheio de uma energia estranha." />
+  <keys prop="Description" type="monster" key="d88_dragod_ex_Title" value="Convertendo o antigo poder dos deuses" />
+  <keys prop="Description" type="monster" key="d88_dragod_ex_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="d88_dragod_ex_Request_Text" value="Encontramos uma maneira de usar o poder das almas dos dragões antigos!&lt;br&gt;Se você quer saber, traga-me muitas delas, além de algumas daquelas joias azuis que esses dragões ocasionalmente deixam cair e você verá apenas um fração do verdadeiro poder dos dragões antigos." />
+  <keys prop="Description" type="monster" key="d88_dragod_ex_Accepted_Text" value="Reúna Almas de Dragão Purificadas e Pedras de Temperamento Míticas Definitivas e leve-as para Crow." />
+  <keys prop="Description" type="monster" key="d88_dragod_ex_Ongoing_Text" value="Reúna Almas de Dragão Purificadas e Pedras de Temperamento Míticas Definitivas e leve-as para Crow." />
+  <keys prop="Description" type="monster" key="d88_dragod_ex_Complete_Text" value="Bom! Vamos começar.&lt;br&gt;&lt;br&gt;.....É isso aí! As gemas azuis e as almas do dragão estão ressoando! Inacreditável!!&lt;br&gt;&lt;br&gt;Aqui, pegue sua nova joia. Eu posso sentir muito poder vindo disso. Mas use-o com sabedoria.&lt;br&gt;Não poderemos fazer outro." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9074_Title" value=" Derrote Yatuman no Altar de Yatuman " />
+  <keys prop="Description" type="monster" key="Hk_9_1_9074_RewarderDesc" value="Yuri" />
+  <keys prop="Description" type="monster" key="Hk_9_1_9074_Request_Text" value="Vá para a Floresta de Brakarr e derrote o maligno Braghin Shaman Yatuman em seu Altar." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9074_Accepted_Text" value="Vá para a Floresta de Brakarr e derrote o maligno Braghin Shaman Yatuman em seu Altar." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9074_Ongoing_Text" value="Vá para a Floresta de Brakarr e derrote o maligno Braghin Shaman Yatuman em seu Altar." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9074_Complete_Text" value="Bem feito! Aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9075_Title" value=" Derrote Attaius (Modo Mestre) " />
+  <keys prop="Description" type="monster" key="Hk_9_1_9075_RewarderDesc" value="Yuri" />
+  <keys prop="Description" type="monster" key="Hk_9_1_9075_Request_Text" value=" Derrote Attaius (Modo Mestre) " />
+  <keys prop="Description" type="monster" key="Hk_9_1_9075_Accepted_Text" value=" Derrote Attaius (Modo Mestre) " />
+  <keys prop="Description" type="monster" key="Hk_9_1_9075_Ongoing_Text" value=" Derrote Attaius (Modo Mestre) " />
+  <keys prop="Description" type="monster" key="Hk_9_1_9075_Complete_Text" value="Bom trabalho, aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_1_Title" value=" Aproveite o verão fresco " />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_1_RewarderDesc" value="Yura" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_1_Request_Text" value="Olá aventureiro!&lt;br&gt;Está tão quente!&lt;br&gt;&lt;br&gt;Que tal um bom refresco?" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_1_Accepted_Text" value="Olá aventureiro!&lt;br&gt;Está tão quente!&lt;br&gt;&lt;br&gt;Que tal um bom refresco?" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_1_Ongoing_Text" value="Olá aventureiro!&lt;br&gt;Está tão quente!&lt;br&gt;&lt;br&gt;Que tal um bom refresco?" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_1_Complete_Text" value="Aproveite o verão!" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_2_Title" value="Luta de balão de água!" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_2_RewarderDesc" value="Yura" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_2_Request_Text" value="Leve isso para lutar contra o Rabino da Melancia Gigante!" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_2_Accepted_Text" value="Leve isso para lutar contra o Rabino da Melancia Gigante!" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_2_Ongoing_Text" value="Leve isso para lutar contra o Rabino da Melancia Gigante!" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_2_Complete_Text" value="Leve isso para lutar contra o Rabino da Melancia Gigante!" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_3_Title" value=" Perturbando a diversão " />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_3_RewarderDesc" value="Yura" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_3_Request_Text" value="Tem um coelho gigante que vem incomodar a todos nós de vez em quando.&lt;br&gt;Quero que você o faça desaparecer para que possamos relaxar em nossa piscina aqui." />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_3_Accepted_Text" value=" Derrote o Rabino da Melancia Gigante quando ele aparecer na piscina do Victory Plaza. " />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_3_Ongoing_Text" value=" Derrote o Rabino da Melancia Gigante quando ele aparecer na piscina do Victory Plaza. " />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_3_Complete_Text" value="Ótimo, agora podemos relaxar e tomar algumas bebidas enquanto nadamos na piscina em paz.&lt;br&gt;Tome isso como um sinal de gratidão." />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_4_Title" value="Acostumando-se com o calor" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_4_RewarderDesc" value="Yura" />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_4_Request_Text" value="Ufa...Está muito quente esses dias.&lt;br&gt;Se você pode suportar esse calor e ainda assim conseguir se aventurar, você deveria voltar para mim!&lt;br&gt;&lt;br&gt;Eu terei uma boa recompensa para você. " />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_4_Accepted_Text" value="Aguente o calor por alguns dias e ainda faça suas atividades habituais." />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_4_Ongoing_Text" value="Aguente o calor por alguns dias e ainda faça suas atividades habituais." />
+  <keys prop="Description" type="monster" key="hk_9_1_summer_4_Complete_Text" value="Já está começando a suar?&lt;br&gt;Mas você se saiu bem. Aqui está sua recompensa especial como prometido!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_9076_Title" value=" Derrote Croctus Fortalecido no RRB " />
+  <keys prop="Description" type="monster" key="Hk_9_1_9076_RewarderDesc" value="Yuri" />
+  <keys prop="Description" type="monster" key="Hk_9_1_9076_Request_Text" value=" Derrote o 9º chefe, Fortalecido Croctus na Base Revolucionária Vermelha." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9076_Accepted_Text" value=" Derrote o 9º chefe, Fortalecido Croctus na Base Revolucionária Vermelha." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9076_Ongoing_Text" value=" Derrote o 9º chefe, Fortalecido Croctus na Base Revolucionária Vermelha." />
+  <keys prop="Description" type="monster" key="Hk_9_1_9076_Complete_Text" value="Bom trabalho, aqui estão suas recompensas." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_01_Title" value="Exorcizando a Casa Assombrada" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_01_RewarderDesc" value="Abóbora" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_01_Request_Text" value="Ajude-nos! &lt;br&gt;O Grim Reaper amaldiçoou a casa deserta ali! &lt;br&gt;&lt;br&gt;Se você conseguir se livrar dele, tenho uma boa recompensa para você, nya!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_01_Accepted_Text" value="Ajude-nos! &lt;br&gt;O Grim Reaper amaldiçoou a casa deserta ali! &lt;br&gt;&lt;br&gt;Se você conseguir se livrar dele, tenho uma boa recompensa para você, nya!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_01_Ongoing_Text" value="Ajude-nos! &lt;br&gt;O Grim Reaper amaldiçoou a casa deserta ali! &lt;br&gt;&lt;br&gt;Se você conseguir se livrar dele, tenho uma boa recompensa para você, nya!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_01_Complete_Text" value=" Muito bem, nya! &lt;br&gt;&lt;br&gt;Por enquanto a maldição foi removida daquela casa assombrada. &lt;br&gt;Mas quem sabe se vai voltar. &lt;br&gt;Podemos contar com sua ajuda novamente, se isso acontecer?" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_02_Title" value="Caçador de fantasmas verdadeiro" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_02_RewarderDesc" value="Abóbora" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_02_Request_Text" value=" Se você quer provar o seu valor como um verdadeiro Caçador de Fantasmas, vá caçar os monstros mais assustadores dentro da Casa Assombrada, nyahaha!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_02_Accepted_text" value=" Se você quer provar o seu valor como um verdadeiro Caçador de Fantasmas, vá caçar os monstros mais assustadores dentro da Casa Assombrada, nyahaha!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_02_Ongoing_Text" value=" Se você quer provar o seu valor como um verdadeiro Caçador de Fantasmas, vá caçar os monstros mais assustadores dentro da Casa Assombrada, nyahaha!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_02_Complete_Text" value=" Essa foi uma bela performance, nya! &lt;br&gt;&lt;br&gt;Você conseguiu derrotar os monstros mais assustadores ao redor! &lt;br&gt;Pegue esta recompensa por seus esforços. Tenho certeza de que irá ajudá-lo em sua jornada como Caçador de Fantasmas profissional." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_03_Title" value="Castletown assustador" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_03_RewarderDesc" value="Abóbora" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_03_Request_Text" value="todos os anos, nessa época, esta cidade é assombrada por um espírito muito poderoso, o Grim Reaper de Middellas.&lt;br&gt;Temos que expulsá-lo de alguma forma e proteger esta cidade contra sua magia." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_03_Accepted_text" value="todos os anos, nessa época, esta cidade é assombrada por um espírito muito poderoso, o Grim Reaper de Middellas.&lt;br&gt;Temos que expulsá-lo de alguma forma e proteger esta cidade contra sua magia." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_03_Ongoing_Text" value=" Derrote o Grim Reaper que assombra Hakain's Crossing. " />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_03_Complete_Text" value="Ele se foi por enquanto, mas devemos ficar de olho nesta área caso ele apareça novamente! Aceite isso como um sinal de minha gratidão, nyan!" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_04_Title" value="Caçador de Abóboras" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_04_RewarderDesc" value="Abóbora" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_04_Request_Text" value=" Quando você estiver caçando algumas abóboras, por favor me avise.&lt;br&gt;Eu vou recompensá-lo com alguns doces de abóbora, nyan~" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_04_Accepted_text" value=" Quando você estiver caçando algumas abóboras, por favor me avise.&lt;br&gt;Eu vou recompensá-lo com alguns doces de abóbora, nyan~" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_04_Ongoing_Text" value=" Quando você estiver caçando algumas abóboras, por favor me avise.&lt;br&gt;Eu vou recompensá-lo com alguns doces de abóbora, nyan~" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_04_Complete_Text" value="Você se livrou de algumas abóboras assombradas?&lt;br&gt;Muito bem, nyan! Aqui estão seus doces como prometido." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_05_Title" value="Bomba Flash Anti-Reaper" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_05_RewarderDesc" value="Abóbora" />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_05_Request_Text" value="Pegue este flashbomb especial. Esta é a única coisa que pode expulsar o Grim Reaper daqui." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_05_Accepted_text" value="Pegue este flashbomb especial. Esta é a única coisa que pode expulsar o Grim Reaper daqui." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_05_Ongoing_Text" value="Pegue este flashbomb especial. Esta é a única coisa que pode expulsar o Grim Reaper daqui." />
+  <keys prop="Description" type="monster" key="Hk_9_1_hal_05_Complete_Text" value="Pegue este flashbomb especial. Esta é a única coisa que pode expulsar o Grim Reaper daqui." />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_01_Title" value="Fogos de artifício para comemorar" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_01_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_01_Request_Text" value=" Já que estamos comemorando o aniversário do Divino Ícaro e o ano novo está chegando, por que não acender alguns fogos de artifício bonitos e brilhantes para iluminar o clima?&lt;br&gt;Vou mostrar como fazê-los, mas primeiro você deve ter um olhe para eles, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_01_Accepted_Text" value=" Já que estamos comemorando o aniversário do Divino Ícaro e o ano novo está chegando, por que não acender alguns fogos de artifício bonitos e brilhantes para iluminar o clima?&lt;br&gt;Vou mostrar como fazê-los, mas primeiro você deve ter um olhe para eles, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_01_Ongoing_Text" value=" Já que estamos comemorando o aniversário do Divino Ícaro e o ano novo está chegando, por que não acender alguns fogos de artifício bonitos e brilhantes para iluminar o clima?&lt;br&gt;Vou mostrar como fazê-los, mas primeiro você deve ter um olhe para eles, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_01_Complete_Text" value=" O que você diz? Eles não são incríveis?&lt;br&gt;Como prometido, aqui estão as instruções para fazer o seu!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_02_Title" value="Feliz Aniversário Divino!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_02_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_02_Request_Text" value="É hora de comemorar mais um ano do Divino Ícaro, nyan ~ !&lt;br&gt;E esperemos que nos divirtamos juntos por muito mais tempo!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_02_Accepted_Text" value="É hora de comemorar mais um ano do Divino Ícaro, nyan ~ !&lt;br&gt;E esperemos que nos divirtamos juntos por muito mais tempo!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_02_Ongoing_Text" value="É hora de comemorar mais um ano do Divino Ícaro, nyan ~ !&lt;br&gt;E esperemos que nos divirtamos juntos por muito mais tempo!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_02_Complete_Text" value="Leve este talismã para esta ocasião." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_01_Title" value="Defendendo os presentes de Natal" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_01_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_01_Request_Text" value="Por favor, embarque no Navio Baleia Flutuante e defenda os presentes de Natal, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_01_Accepted_Text" value="Por favor, embarque no Navio Baleia Flutuante e defenda os presentes de Natal, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_01_Ongoing_Text" value="Por favor, embarque no Navio Baleia Flutuante e defenda os presentes de Natal, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_01_Complete_Text" value="Muito obrigado por guardar os presentes de Natal! As crianças ficarão muito felizes com isso." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_02_Title" value="Feliz Reunião" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_02_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_02_Request_Text" value="É hora de calor, família e presentes, nyan!&lt;br&gt;Para entrar um pouco no clima, leve este presentinho." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_02_Accepted_Text" value="É hora de calor, família e presentes, nyan!&lt;br&gt;Para entrar um pouco no clima, leve este presentinho." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_02_Ongoing_Text" value="É hora de calor, família e presentes, nyan!&lt;br&gt;Para entrar um pouco no clima, leve este presentinho." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_02_Complete_Text" value="Volte para mim amanhã, posso ter outro presente para você, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_03_Title" value="Boneco de Neve em Fuga" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_Request_Text" value="Eu ouvi falar de bonecos de neve estranhos e fora de lugar dentro das masmorras ao redor do continente.&lt;br&gt;Se você vir algum deles, você deve removê-los desses lugares.&lt;br&gt;Venha até mim de vez em quando depois de você encontrei alguns deles." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_Accepted_Text" value="Eu ouvi falar de bonecos de neve estranhos e fora de lugar dentro das masmorras ao redor do continente.&lt;br&gt;Se você vir algum deles, você deve removê-los desses lugares.&lt;br&gt;Venha até mim de vez em quando depois de você encontrei alguns deles." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_Ongoing_Text" value="Caçar bonecos de neve brilhantes dentro das masmorras do modo Legendary em todo o continente. (Maior taxa de spawn em masmorras mais difíceis)" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_Complete_Text" value=" Parece que os rumores eram verdadeiros. Estou feliz que você cuidou deles. Pegue isso, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_1_Title" value="Luta de Bola de Neve I" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_1_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_1_Request_Text" value="Por que você não tira uma folga das coisas estressantes e vai se divertir com seus amigos?&lt;br&gt;Vá para Parnas Coast, perto de Warhuul, há uma ótima área para lutas de bolas de neve!&lt;br&gt;&lt;br&gt;Você só pode aceitar UMA missão de Luta de Bola de Neve por dia!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_1_Accepted_Text" value=" Por que você não tira uma folga das coisas estressantes e vai se divertir com seus amigos?&lt;br&gt;Vá para Parnas Coast, perto de Warhuul, há uma ótima área para lutas de bolas de neve!&lt;br&gt;&lt;br&gt;Você só pode aceitar UMA missão de Luta de Bola de Neve por dia!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_1_Ongoing_Text" value="Volte para mim quando você se divertiu por uma pequena recompensa, nyan." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_1_Complete_Text" value=" Eu não disse que seria divertido brincar com seus amigos? Às vezes, acredito que nos esquecemos de como nos divertir de vez em quando.&lt;br&gt;Portanto, não custa nada se divertir por um tempo.&lt;br&gt;&lt;br&gt;De qualquer forma, aqui estão suas recompensas, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_2_Title" value="Luta de Bola de Neve II" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_2_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_2_Request_Text" value=" Por que você não tira uma folga das coisas estressantes e vai se divertir com seus amigos?&lt;br&gt;Vá para Parnas Coast, perto de Warhuul, há uma ótima área para lutas de bolas de neve!&lt;br&gt;&lt;br&gt;Você só pode aceitar UMA missão de Luta de Bola de Neve por dia!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_2_Accepted_Text" value="Por que você não tira uma folga das coisas estressantes e vai se divertir com seus amigos?&lt;br&gt;Vá para Parnas Coast, perto de Warhuul, há uma ótima área para lutas de bolas de neve!&lt;br&gt;&lt;br&gt;Você só pode aceitar UMA missão de Luta de Bola de Neve por dia!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_2_Ongoing_Text" value="Volte para mim quando você se divertiu por uma pequena recompensa, nyan." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_04_2_Complete_Text" value=" Eu não disse que seria divertido brincar com seus amigos? Às vezes, acredito que nos esquecemos de como nos divertir de vez em quando.&lt;br&gt;Portanto, não custa nada se divertir por um tempo.&lt;br&gt;&lt;br&gt;De qualquer forma, aqui estão suas recompensas, nyan!" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_03_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_03_Request_Text" value="Eu ouvi falar de bonecos de neve estranhos e fora de lugar dentro das masmorras ao redor do continente.&lt;br&gt;Se você vir algum deles, você deve removê-los desses lugares.&lt;br&gt;Venha até mim de vez em quando depois de você encontrei alguns deles." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_03_Accepted_Text" value="Eu ouvi falar de bonecos de neve estranhos e fora de lugar dentro das masmorras ao redor do continente.&lt;br&gt;Se você vir algum deles, você deve removê-los desses lugares.&lt;br&gt;Venha até mim de vez em quando depois de você encontrei alguns deles." />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_03_Ongoing_Text" value="Caçar bonecos de neve brilhantes dentro das masmorras do modo Legendary em todo o continente. (Maior taxa de spawn em masmorras mais difíceis)" />
+  <keys prop="Description" type="monster" key="hk_9_1_xmas_03_Complete_Text" value=" Parece que os rumores eram verdadeiros. Estou feliz que você cuidou deles. Pegue isso, nyan!" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_1_Title" value="Uma liga muito especial" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_1_RewarderDesc" value="Blueton" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_1_Request_Text" value="Preciso da sua ajuda para reunir materiais muito especiais para mim.&lt;br&gt;Encontrei uma planta muito antiga no meu sótão e eles me interessaram.&lt;br&gt;Você não quer ver para que serve também? &lt;br&gt;Bem, então vamos fazer isso! Você não vai se arrepender." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_1_Accepted_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_1_Ongoing_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_1_Complete_Text" value="Eu processei os materiais que você trouxe de acordo com meu projeto.&lt;br&gt;Isso parece realmente intrigante!" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_2_Title" value=" Engrenagens para uma máquina única " />
+  <keys prop="Description" type="monster" key="ev_hk_golem_2_RewarderDesc" value="Blueton" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_2_Request_Text" value="Preciso da sua ajuda para reunir materiais muito especiais para mim.&lt;br&gt;Encontrei uma planta muito antiga no meu sótão e eles me interessaram.&lt;br&gt;Você não quer ver para que serve também? &lt;br&gt;Bem, então vamos fazer isso! Você não vai se arrepender." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_2_Accepted_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_2_Ongoing_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_2_Complete_Text" value="Eu processei os materiais que você trouxe de acordo com meu projeto.&lt;br&gt;Isso parece realmente intrigante!" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_3_Title" value="Encontrar uma fonte de energia" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_3_RewarderDesc" value="Blueton" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_3_Request_Text" value="Preciso da sua ajuda para reunir materiais muito especiais para mim.&lt;br&gt;Encontrei uma planta muito antiga no meu sótão e eles me interessaram.&lt;br&gt;Você não quer ver para que serve também? &lt;br&gt;Bem, então vamos fazer isso! Você não vai se arrepender." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_3_Accepted_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_3_Ongoing_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_3_Complete_Text" value="Ok, coloquei esses fragmentos que você me juntou.&lt;br&gt;Essa coisa parece estar pulsando com poder. Deve ser perfeito para o nosso projeto.&lt;br&gt;Aqui, pegue por enquanto." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_4_Title" value=" Projetos secretos de Blueton " />
+  <keys prop="Description" type="monster" key="ev_hk_golem_4_RewarderDesc" value="Blueton" />
+  <keys prop="Description" type="monster" key="ev_hk_golem_4_Request_Text" value="Preciso da sua ajuda para reunir materiais muito especiais para mim.&lt;br&gt;Encontrei uma planta muito antiga no meu sótão e eles me interessaram.&lt;br&gt;Você não quer ver para que serve também? &lt;br&gt;Bem, então vamos fazer isso! Você não vai se arrepender." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_4_Accepted_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_4_Ongoing_Text" value="Reúna os materiais listados na planta de Blueton." />
+  <keys prop="Description" type="monster" key="ev_hk_golem_4_Complete_Text" value="Agora que temos tudo, vamos ver para que serve este projeto!&lt;br&gt;Mal posso esperar para vê-lo!" />
+  <keys prop="Description" type="monster" key="hk_summ_solo1_Title" value="Subjugação de Chefe (Solo - Iniciante)" />
+  <keys prop="Description" type="monster" key="hk_summ_solo1_RewarderDesc" value=" Senhor de Phillip " />
+  <keys prop="Description" type="monster" key="hk_summ_solo1_Request_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo1_Accepted_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo1_Ongoing_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo1_Complete_Text" value="Recolha suas recompensas de Phillipe Rabbini no Victory Plaza." />
+  <keys prop="Description" type="monster" key="hk_summ_solo2_Title" value="Subjugação de chefe (Solo - Avançado)" />
+  <keys prop="Description" type="monster" key="hk_summ_solo2_RewarderDesc" value=" Senhor de Phillip " />
+  <keys prop="Description" type="monster" key="hk_summ_solo2_Request_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo2_Accepted_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo2_Ongoing_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo2_Complete_Text" value="Recolha suas recompensas de Phillipe Rabbini no Victory Plaza." />
+  <keys prop="Description" type="monster" key="hk_summ_solo3_Title" value="Subjugação do chefe (Solo - Especialista)" />
+  <keys prop="Description" type="monster" key="hk_summ_solo3_RewarderDesc" value=" Senhor de Phillip " />
+  <keys prop="Description" type="monster" key="hk_summ_solo3_Request_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo3_Accepted_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo3_Ongoing_Text" value=" Sobreviva e derrote os monstros alvo para ganhar grandes recompensas. " />
+  <keys prop="Description" type="monster" key="hk_summ_solo3_Complete_Text" value="Recolha suas recompensas de Phillipe Rabbini no Victory Plaza." />
+  <keys prop="Description" type="monster" key="hk_blossom_01_Title" value="A Lenda da Primavera de Middelas?" />
+  <keys prop="Description" type="monster" key="hk_blossom_01_RewarderDesc" value="Antigo Eldrasil" />
+  <keys prop="Description" type="monster" key="hk_blossom_01_Request_Text" value="A primavera está finalmente chegando em Ellora, nyah!&lt;br&gt;É minha época favorita do ano e não apenas por causa das lindas flores em todos os lugares.&lt;br&gt;Você conhece a Lenda da Primavera de Ellora? Não? Então eu vou te contar!" />
+  <keys prop="Description" type="monster" key="hk_blossom_01_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;“Era uma vez, a deusa Ellora se apaixonou por um jovem guerreiro Elfo. Ele era conhecido por sua coragem e misericórdia e protegeu sua pequena aldeia dos Elfos do Caos." />
+  <keys prop="Description" type="monster" key="hk_blossom_01_Request_Text_attach_1" value="&lt;br&gt;Nyah? ... Receio ter esquecido, como continuou. Mas conheço alguém que conhece essa lenda!&lt;br&gt;Vá ao Santuário de Ellora e pergunte ao Velho Eldrasil. Ele certamente saberá o resto da história, nyah!" />
+  <keys prop="Description" type="monster" key="hk_blossom_01_Accepted_Text" value="Não é? ... Receio ter esquecido, como continuou. Mas conheço alguém que conhece essa lenda!&lt;br&gt;Vá ao Santuário de Ellora e pergunte ao Velho Eldrasil. Ele certamente saberá o resto da história, nyah!" />
+  <keys prop="Description" type="monster" key="hk_blossom_01_Ongoing_Text" value="Não é? ... Receio ter esquecido, como continuou. Mas conheço alguém que conhece essa lenda!&lt;br&gt;Vá ao Santuário de Ellora e pergunte ao Velho Eldrasil. Ele certamente saberá o resto da história, nyah!" />
+  <keys prop="Description" type="monster" key="hk_blossom_01_Complete_Text" value="Bem-vindo cavaleiro! Eu esperava por você.&lt;br&gt;Oho? Você diz a lenda da primavera...hmmm, sim, claro que eu conheço.&lt;br&gt;Vou lhe contar a próxima parte." />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Title" value=" A Lenda da Primavera de Middelas I " />
+  <keys prop="Description" type="monster" key="hk_blossom_02_RewarderDesc" value="Antigo Eldrasil" />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Request_Text" value=" „Era uma vez a deusa Ellora se apaixonou por um jovem Elfo Guerreiro. Ele era conhecido por sua coragem e misericórdia e protegeu sua pequena vila dos Elfos do Caos.&lt;br&gt;&lt;br&gt;Mas, infelizmente, ele morreu, perdido contra a magia de um Mago das Trevas." />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Request_Text_attach_0" value="O mundo se transformou em um lugar escuro e toda a esperança se foi.&lt;br&gt;&lt;br&gt;O coração de Ellora foi partido. Ela nunca chorou, mas agora ela chorou uma lágrima e a colocou no meio da pequena aldeia na última flor de cerejeira." />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Accepted_Text" value=" „Era uma vez a deusa Ellora se apaixonou por um jovem Elfo Guerreiro. Ele era conhecido por sua coragem e misericórdia e protegeu sua pequena vila dos Elfos do Caos.&lt;br&gt;&lt;br&gt;Mas, infelizmente, ele morreu, perdido contra a magia de um Mago das Trevas." />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Accepted_Text_attach_0" value="O mundo se transformou em um lugar escuro e toda a esperança se foi.&lt;br&gt;&lt;br&gt;O coração de Ellora foi partido. Ela nunca chorou, mas agora ela chorou uma lágrima e a colocou no meio da pequena aldeia na última flor de cerejeira." />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Ongoing_Text" value=" „Era uma vez a deusa Ellora se apaixonou por um jovem Elfo Guerreiro. Ele era conhecido por sua coragem e misericórdia e protegeu sua pequena vila dos Elfos do Caos.&lt;br&gt;&lt;br&gt;Mas, infelizmente, ele morreu, perdido contra a magia de um Mago das Trevas." />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Ongoing_Text_attach_0" value="O mundo se transformou em um lugar escuro e toda a esperança se foi.&lt;br&gt;&lt;br&gt;O coração de Ellora foi partido. Ela nunca chorou, mas agora ela chorou uma lágrima e a colocou no meio da pequena aldeia na última flor de cerejeira." />
+  <keys prop="Description" type="monster" key="hk_blossom_02_Complete_Text" value="Se você quiser ouvir mais, fale comigo novamente." />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Title" value=" A Lenda da Primavera de Middelas II " />
+  <keys prop="Description" type="monster" key="hk_blossom_03_RewarderDesc" value="Antigo Eldrasil" />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Request_Text" value="E a flor de cerejeira, agora cheia de magia divina, se transformou em uma poderosa besta lendária.&lt;br&gt;&lt;br&gt;Com a ajuda desta majestosa besta, os Elfos Negros foram finalmente derrotados e a Primavera voltou ao mundo de Ellora.“&lt;br &gt;&lt;br&gt;Desde então comemoramos o" />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Request_Text_attach_0" value="Início da primavera de cada ano e quando as flores de cerejeira começam a florescer, a besta lendária volta para Ellora, procurando por um Cavaleiro com coragem e misericórdia como o jovem Guerreiro Elfo." />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Accepted_Text" value="E a flor de cerejeira, agora cheia de magia divina, se transformou em uma poderosa besta lendária.&lt;br&gt;&lt;br&gt;Com a ajuda desta majestosa besta, os Elfos Negros foram finalmente derrotados e a Primavera voltou ao mundo de Ellora.“&lt;br &gt;&lt;br&gt;Desde então comemoramos o" />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Accepted_Text_attach_0" value="Início da primavera de cada ano e quando as flores de cerejeira começam a florescer, a besta lendária volta para Ellora, procurando por um Cavaleiro com coragem e misericórdia como o jovem Guerreiro Elfo." />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Ongoing_Text" value="E a flor de cerejeira, agora cheia de magia divina, se transformou em uma poderosa besta lendária.&lt;br&gt;&lt;br&gt;Com a ajuda desta majestosa besta, os Elfos Negros foram finalmente derrotados e a Primavera voltou ao mundo de Ellora.“&lt;br &gt;&lt;br&gt;Desde então comemoramos o" />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Ongoing_Text_attach_0" value="Início da primavera de cada ano e quando as flores de cerejeira começam a florescer, a besta lendária volta para Ellora, procurando por um Cavaleiro com coragem e misericórdia como o jovem Guerreiro Elfo." />
+  <keys prop="Description" type="monster" key="hk_blossom_03_Complete_Text" value="E isso, caro Rider, é a Lenda da Primavera de Middelas, que foi contada por eras." />
+  <keys prop="Description" type="monster" key="hk_blossom_04_Title" value=" A Lenda da Primavera de Middelas III " />
+  <keys prop="Description" type="monster" key="hk_blossom_04_RewarderDesc" value="Recuperando Eldrasil" />
+  <keys prop="Description" type="monster" key="hk_blossom_04_Request_Text" value="Agora vá para a Floresta Eleeno e fale com o Eldrasil em Recuperação.&lt;br&gt;Há mais uma coisa que ele pode lhe contar sobre essa lenda." />
+  <keys prop="Description" type="monster" key="hk_blossom_04_Accepted_Text" value="Fale com Recovering Eldrasil na aldeia Eleeno Forest do Ellora Sanctuary." />
+  <keys prop="Description" type="monster" key="hk_blossom_04_Ongoing_Text" value="Fale com Recovering Eldrasil na aldeia Eleeno Forest do Ellora Sanctuary." />
+  <keys prop="Description" type="monster" key="hk_blossom_04_Complete_Text" value="Bem-vindo Cavaleiro! Eu esperava por você." />
+  <keys prop="Description" type="monster" key="hk_blossom_fin_Title" value="Criação Divina de Ellora" />
+  <keys prop="Description" type="monster" key="hk_blossom_fin_RewarderDesc" value="Recuperando Eldrasil" />
+  <keys prop="Description" type="monster" key="hk_blossom_fin_Request_Text" value="Existe um mito de que, se você coletar uma grande quantidade de pétalas de flor de cerejeira, poderá se tornar amigo do Blossom Torkai.&lt;br&gt;Ouvi dizer que os rabinos de Shady Warrens reuniram algumas delas em seus baús." />
+  <keys prop="Description" type="monster" key="hk_blossom_fin_Accepted_Text" value="Reúna 200 Flores de Cerejeira Divinas em Tocas Sombrias e leve-as para Eldrasil em Recuperação." />
+  <keys prop="Description" type="monster" key="hk_blossom_fin_Ongoing_Text" value="Reúna 200 Flores de Cerejeira Divinas em Tocas Sombrias e leve-as para Eldrasil em Recuperação." />
+  <keys prop="Description" type="monster" key="hk_blossom_fin_Complete_Text" value="Agora que você tem as flores de cerejeira colhidas, vá e tente domá-las, se quiser!" />
+  <keys prop="Description" type="monster" key="d88_dragodsrtitle_Title" value="Dragon God Slayer" />
+  <keys prop="Description" type="monster" key="d88_dragodsrtitle_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="d88_dragodsrtitle_Request_Text" value="Estamos em perigo!&lt;br&gt;Parece que Quadracan, o líder dos draconianos, absorveu o suficiente dos poderes do antigo deus dragão e se tornou ainda mais poderoso!&lt;br&gt;Temos que cuidar dele antes que seja tarde demais !" />
+  <keys prop="Description" type="monster" key="d88_dragodsrtitle_Accepted_Text" value="Estamos em perigo!&lt;br&gt;Parece que Quadracan, o líder dos draconianos, absorveu o suficiente dos poderes do antigo deus dragão e se tornou ainda mais poderoso!&lt;br&gt;Temos que cuidar dele antes que seja tarde demais !" />
+  <keys prop="Description" type="monster" key="d88_dragodsrtitle_Ongoing_Text" value="Derrote o Quadracan Antigo e livre-se dele de uma vez por todas.&lt;br&gt;Mas tenha cuidado, ele é muito mais perigoso do que costumava ser." />
+  <keys prop="Description" type="monster" key="d88_dragodsrtitle_Complete_Text" value="Muito bem!&lt;br&gt;Agora podemos descansar um pouco. Tome isso como um sinal de minha gratidão e como um lembrete do que você conquistou." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_1_Title" value="Diversão de Páscoa I" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_1_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_1_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_1_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_1_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_1_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_2_Title" value="Diversão de Páscoa II" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_2_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_2_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_2_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_2_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_2_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_3_Title" value="Diversão de Páscoa III" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_3_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_3_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_3_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_3_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_3_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_4_Title" value="Diversão de Páscoa IV" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_4_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_4_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_4_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_4_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_4_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_5_Title" value=" Diversão de Páscoa V " />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_5_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_5_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_5_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_5_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_5_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_6_Title" value=" Diversão de Páscoa VI " />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_6_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_6_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_6_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_6_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_6_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_7_Title" value="Diversão de Páscoa VII" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_7_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_7_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_7_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_7_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_7_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_8_Title" value="Diversão de Páscoa VIII" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_8_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_8_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_8_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_8_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_8_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_9_Title" value="Diversão de Páscoa IX" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_9_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_9_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_9_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_9_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_9_Complete_Text" value="Haha, que bom!&lt;br&gt;Mas ainda não terminamos. Ainda existem rabinos por aí que roubaram alguns dos meus ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_10_Title" value="Diversão de Páscoa X" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_10_RewarderDesc" value="Rabino Tammy" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_10_Request_Text" value="Tenho um novo trabalho para você!&lt;br&gt;Vá caçar os rabinos da Páscoa escondidos que roubaram meus ovos de páscoa e traga-me os ovos de volta e eu o recompensarei com um novo título que pode lhe trazer alguma sorte, nyah!" />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_10_Accepted_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_10_Ongoing_Text" value="Caçar os rabinos de Páscoa escondidos que roubaram meus ovos de Páscoa e traga-me de volta os ovos." />
+  <keys prop="Description" type="monster" key="ev_9_1_0791_10_Complete_Text" value="Haha, muito bem!&lt;br&gt;Isso deve ser tudo. Agora meus ovos estão sãos e salvos novamente graças a você, nyah!&lt;br&gt;Aqui, pegue isso. Pode se tornar um amuleto da sorte para você." />
+  <keys prop="Description" type="monster" key="awak_1_1_lava_Title" value="Desafio Lendário I (segunda/quinta-feira)" />
+  <keys prop="Description" type="monster" key="awak_1_1_lava_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_1_lava_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em Lavalight Cave – Legendary 5 às segundas e quintas-feiras." />
+  <keys prop="Description" type="monster" key="awak_1_1_lava_Accepted_Text" value=" Derrote o Golem de Emberstone Awakened no Legendary 5 (só aparece segunda e quinta-feira) " />
+  <keys prop="Description" type="monster" key="awak_1_1_lava_Ongoing_Text" value=" Derrote o Golem de Emberstone Awakened no Legendary 5 (só aparece segunda e quinta-feira) " />
+  <keys prop="Description" type="monster" key="awak_1_1_lava_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="Awak_1_2_carleon_Title" value="Desafio lendário II (segunda/quinta-feira)" />
+  <keys prop="Description" type="monster" key="awak_1_2_carleon_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_2_carleon_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em Carleon Manor – Legendary 5 às segundas e quintas-feiras." />
+  <keys prop="Description" type="monster" key="awak_1_2_carleon_Accepted_Text" value=" Derrote Carleon Desperto no Legendary 5 (só aparece segunda e quinta-feira) " />
+  <keys prop="Description" type="monster" key="awak_1_2_carleon_Ongoing_Text" value=" Derrote Carleon Desperto no Legendary 5 (só aparece segunda e quinta-feira) " />
+  <keys prop="Description" type="monster" key="awak_1_2_carleon_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_1_3_matren_Title" value="Desafio lendário III (segunda/quinta-feira)" />
+  <keys prop="Description" type="monster" key="awak_1_3_matren_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_3_matren_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em Ruins of Matren – Legendary 5 às segundas e quintas-feiras." />
+  <keys prop="Description" type="monster" key="awak_1_3_matren_Accepted_Text" value=" Derrote o Chefe Sinthan Awakened no Legendary 5 (só aparece segunda e quinta-feira) " />
+  <keys prop="Description" type="monster" key="awak_1_3_matren_Ongoing_Text" value=" Derrote o Chefe Sinthan Awakened no Legendary 5 (só aparece segunda e quinta-feira) " />
+  <keys prop="Description" type="monster" key="awak_1_3_matren_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_1_4_cavern_Title" value="Desafio Lendário IV (terça/sexta)" />
+  <keys prop="Description" type="monster" key="awak_1_4_cavern_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_4_cavern_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em Cavern of the Veil – Legendary 5 às terças e sextas-feiras." />
+  <keys prop="Description" type="monster" key="awak_1_4_cavern_Accepted_Text" value=" Derrote o Olho de Radan Awakened no Legendary 5 (só aparece terça e sexta) " />
+  <keys prop="Description" type="monster" key="awak_1_4_cavern_Ongoing_Text" value=" Derrote o Olho de Radan Awakened no Legendary 5 (só aparece terça e sexta) " />
+  <keys prop="Description" type="monster" key="awak_1_4_cavern_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_1_5_frost_Title" value="Desafio Lendário V (terça/sexta)" />
+  <keys prop="Description" type="monster" key="awak_1_5_frost_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_5_frost_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado no Frost Keep - Legendary 5 às terças e sextas-feiras." />
+  <keys prop="Description" type="monster" key="awak_1_5_frost_Accepted_Text" value=" Derrote Rondo Terramunce Desperto no Legendary 5 (só aparece terça e sexta-feira) " />
+  <keys prop="Description" type="monster" key="awak_1_5_frost_Ongoing_Text" value=" Derrote Rondo Terramunce Desperto no Legendary 5 (só aparece terça e sexta) " />
+  <keys prop="Description" type="monster" key="awak_1_5_frost_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_1_6_breach_Title" value="Desafio Lendário VI (terça/sexta)" />
+  <keys prop="Description" type="monster" key="awak_1_6_breach_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_6_breach_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em The Breach – Legendary 5 às terças e sextas-feiras." />
+  <keys prop="Description" type="monster" key="awak_1_6_breach_Accepted_Text" value=" Derrote Izhora Awakened no Legendary 5 (só aparece terça e sexta) " />
+  <keys prop="Description" type="monster" key="awak_1_6_breach_Ongoing_Text" value=" Derrote Izhora Awakened no Legendary 5 (só aparece terça e sexta) " />
+  <keys prop="Description" type="monster" key="awak_1_6_breach_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_1_7_temple_Title" value="Desafio Lendário VII (quarta/domingo)" />
+  <keys prop="Description" type="monster" key="awak_1_7_temple_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_7_temple_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em Temple of Sands – Legendary 5 às quartas e domingos." />
+  <keys prop="Description" type="monster" key="awak_1_7_temple_Accepted_Text" value=" Derrote Jason Desperto no Legendary 5 (só aparece quarta e domingo) " />
+  <keys prop="Description" type="monster" key="awak_1_7_temple_Ongoing_Text" value=" Derrote Jason Desperto no Legendary 5 (só aparece quarta e domingo) " />
+  <keys prop="Description" type="monster" key="awak_1_7_temple_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_1_8_elder_Title" value="Desafio Lendário VIII (quarta/domingo)" />
+  <keys prop="Description" type="monster" key="awak_1_8_elder_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_8_elder_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em Elders Floating Fortress - Legendary 5 às quartas e domingos." />
+  <keys prop="Description" type="monster" key="awak_1_8_elder_Accepted_Text" value=" Derrote o Duque Ancião Desperto no Legendary 5 (aparece apenas na quarta e no domingo) " />
+  <keys prop="Description" type="monster" key="awak_1_8_elder_Ongoing_Text" value=" Derrote o Duque Ancião Desperto no Legendary 5 (aparece apenas na quarta e no domingo) " />
+  <keys prop="Description" type="monster" key="awak_1_8_elder_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_1_9_tomb_Title" value="Desafio Lendário IX (quarta/domingo)" />
+  <keys prop="Description" type="monster" key="awak_1_9_tomb_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_1_9_tomb_Request_Text" value="Derrote o chefe alvo para ganhar um Infused Awakened Emblems, que pode ser trocado por materiais de criação para o conjunto Divine Awakened Armor.&lt;br&gt;O alvo só pode ser encontrado em Tomb of the Wyrm – Legendary 5 às quartas e domingos." />
+  <keys prop="Description" type="monster" key="awak_1_9_tomb_Accepted_Text" value=" Derrote Kurodian Awakened no Legendary 5 (só aparece quarta e domingo) " />
+  <keys prop="Description" type="monster" key="awak_1_9_tomb_Ongoing_Text" value=" Derrote Kurodian Awakened no Legendary 5 (só aparece quarta e domingo) " />
+  <keys prop="Description" type="monster" key="awak_1_9_tomb_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_2_tower_f20_Title" value="Desafio: Torre Desconhecida" />
+  <keys prop="Description" type="monster" key="awak_2_tower_f20_RewarderDesc" value="Estátua de pedra estranha" />
+  <keys prop="Description" type="monster" key="awak_2_tower_f20_Request_Text" value="Limpe todos os 20 andares da Torre Desconhecida.&lt;br&gt;Tenha cuidado, pois este é um desafio muito difícil.&lt;br&gt;É altamente recomendável entrar com um grupo de 3 jogadores. (Mais de 3 jogadores não podem entrar nesta masmorra)" />
+  <keys prop="Description" type="monster" key="awak_2_tower_f20_Accepted_Text" value="Limpe todos os 20 andares da Torre Desconhecida." />
+  <keys prop="Description" type="monster" key="awak_2_tower_f20_Ongoing_Text" value="Limpe todos os 20 andares da Torre Desconhecida." />
+  <keys prop="Description" type="monster" key="awak_2_tower_f20_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_3_ortune_1_Title" value="Desafio: Supervisor de Stygea Oruun (PvP)" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_1_RewarderDesc" value="John MacBain" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_1_Request_Text" value="Vá para Forstress of Despair em Stygaea e derrote o chefe mundial Oruun.&lt;br&gt;O chefe só aparece às quintas e sábados.&lt;br&gt;Você só pode completar uma missão Ortune por dia." />
+  <keys prop="Description" type="monster" key="awak_3_ortune_1_Accepted_Text" value=" Sobreviva e derrote o chefe mundial de Stygaea, Oruun, na Fortaleza do Desespero. (Apenas quintas e sábados)" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_1_Ongoing_Text" value=" Sobreviva e derrote o chefe mundial de Stygaea, Oruun, na Fortaleza do Desespero. (Apenas quintas e sábados)" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_1_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_3_ortune_2_Title" value="Desafio: Supervisor da Caverna Vulcânica Oruun (PvE)" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_2_RewarderDesc" value="John MacBain" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_2_Request_Text" value="Vá para a Caverna Vulcânica do Mar de Hakanas (Covil de Diramunu) no Baluarte e derrote o chefe mundial Oruun.&lt;br&gt;Use o portal na frente da caverna para entrar.&lt;br&gt;O chefe só aparece às quintas e sábados.&lt;br&gt; Você só pode completar uma missão Ortune por dia." />
+  <keys prop="Description" type="monster" key="awak_3_ortune_2_Accepted_Text" value=" Sobreviva e derrote o chefe mundial de Sea of Hakana, Oruun, dentro da caverna vulcânica escondida. (Apenas quintas e sábados)" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_2_Ongoing_Text" value=" Sobreviva e derrote o chefe mundial de Sea of Hakana, Oruun, dentro da caverna vulcânica escondida. (Apenas quintas e sábados)" />
+  <keys prop="Description" type="monster" key="awak_3_ortune_2_Complete_Text" value="Como prometido, aqui está sua ficha provando que você completou o desafio." />
+  <keys prop="Description" type="monster" key="awak_4_newskill_Title" value="Conhecimento aprimorado de monstros" />
+  <keys prop="Description" type="monster" key="awak_4_newskill_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_4_newskill_Request_Text" value="Você quer melhorar ainda mais o seu conhecimento sobre monstros?&lt;br&gt;Então eu tenho alguns desafios para você!&lt;br&gt;Vá e derrote vários chefes difíceis e volte para mim quando terminar.&lt;br&gt;Eu terei uma recompensa muito especial de vocês conseguem fazer isso." />
+  <keys prop="Description" type="monster" key="awak_4_newskill_Accepted_Text" value="Complete todos os objetivos e volte para Belhira quando terminar para receber um livro de habilidade especial." />
+  <keys prop="Description" type="monster" key="awak_4_newskill_Ongoing_Text" value="Complete todos os objetivos e volte para Belhira quando terminar para receber um livro de habilidade especial." />
+  <keys prop="Description" type="monster" key="awak_4_newskill_Complete_Text" value="Bom trabalho, aventureiro!&lt;br&gt;Não pensei que você conseguiria fazer isso tão facilmente.&lt;br&gt;Como prometido, vou ensinar alguns truques que o ajudarão a derrotar monstros com mais facilidade agora." />
+  <keys prop="Description" type="monster" key="awak_1_change_1_Title" value="Troca de fichas: Mythic Elm Trim" />
+  <keys prop="Description" type="monster" key="awak_1_change_1_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_1_change_1_Request_Text" value="Traga-me Infused Awakened Emblems suficiente e eu os trocarei com você por um material de fabricação especial para o conjunto de armadura Divine Awakened.&lt;br&gt;Você pode obtê-los na missão de desafio diário [Desafio Lendário] de Seratia em Hakain's Crossing." />
+  <keys prop="Description" type="monster" key="awak_1_change_1_Accepted_Text" value="Entregue 45 Emblemas Despertos Infundidos para Belhira." />
+  <keys prop="Description" type="monster" key="awak_1_change_1_Ongoing_Text" value="Entregue 45 Emblemas Despertos Infundidos para Belhira." />
+  <keys prop="Description" type="monster" key="awak_1_change_1_Complete_Text" value=" Parece que você tem o suficiente. Aqui está o seu material de criação." />
+  <keys prop="Description" type="monster" key="awak_1_change_2_Title" value="Troca de fichas: moldura de luvas míticas" />
+  <keys prop="Description" type="monster" key="awak_1_change_2_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_1_change_2_Request_Text" value="Traga-me Infused Awakened Emblems suficiente e eu os trocarei com você por um material de fabricação especial para o conjunto de armadura Divine Awakened.&lt;br&gt;Você pode obtê-los na missão de desafio diário [Desafio Lendário] de Seratia em Hakain's Crossing." />
+  <keys prop="Description" type="monster" key="awak_1_change_2_Accepted_Text" value="Entregue 45 Emblemas Despertos Infundidos para Belhira." />
+  <keys prop="Description" type="monster" key="awak_1_change_2_Ongoing_Text" value="Entregue 45 Emblemas Despertos Infundidos para Belhira." />
+  <keys prop="Description" type="monster" key="awak_1_change_2_Complete_Text" value=" Parece que você tem o suficiente. Aqui está o seu material de criação." />
+  <keys prop="Description" type="monster" key="awak_2_change_1_Title" value="Troca de fichas: Armação de ombreira mítica" />
+  <keys prop="Description" type="monster" key="awak_2_change_1_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_2_change_1_Request_Text" value="Traga-me um Token de Vencedor de Desafios suficiente e eu os trocarei com você por um material de fabricação especial para o conjunto de armadura Desperto Divino.&lt;br&gt;Você pode obtê-los na missão de desafio diário dentro da Torre Desconhecida da Costa de Parnas." />
+  <keys prop="Description" type="monster" key="awak_2_change_1_Accepted_Text" value="Entregue 15 Tokens de Vencedor de Desafios para Belhira." />
+  <keys prop="Description" type="monster" key="awak_2_change_1_Ongoing_Text" value="Entregue 15 Tokens de Vencedor de Desafios para Belhira." />
+  <keys prop="Description" type="monster" key="awak_2_change_1_Complete_Text" value=" Parece que você tem o suficiente. Aqui está o seu material de criação." />
+  <keys prop="Description" type="monster" key="awak_2_change_2_Title" value="Troca de fichas: quadro de botas míticas" />
+  <keys prop="Description" type="monster" key="awak_2_change_2_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_2_change_2_Request_Text" value="Traga-me um Token de Vencedor de Desafios suficiente e eu os trocarei com você por um material de fabricação especial para o conjunto de armadura Desperto Divino.&lt;br&gt;Você pode obtê-los na missão de desafio diário dentro da Torre Desconhecida da Costa de Parnas." />
+  <keys prop="Description" type="monster" key="awak_2_change_2_Accepted_Text" value="Entregue 15 Tokens de Vencedor de Desafios para Belhira." />
+  <keys prop="Description" type="monster" key="awak_2_change_2_Ongoing_Text" value="Entregue 15 Tokens de Vencedor de Desafios para Belhira." />
+  <keys prop="Description" type="monster" key="awak_2_change_2_Complete_Text" value=" Parece que você tem o suficiente. Aqui está o seu material de criação." />
+  <keys prop="Description" type="monster" key="awak_3_change_Title" value="Troca de fichas: Moldura de baú mítico" />
+  <keys prop="Description" type="monster" key="awak_3_change_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_3_change_Request_Text" value="Traga-me emblemas do Governante Supremo suficientes e eu os trocarei com você por um material de fabricação especial para o conjunto de armadura Desperto Divino.&lt;br&gt;Você pode obtê-los na missão de desafio diário [Defeat Ortune] de John MacBain." />
+  <keys prop="Description" type="monster" key="awak_3_change_Accepted_Text" value="Entregue 16 Emblemas do Governante Supremo para Belhira." />
+  <keys prop="Description" type="monster" key="awak_3_change_Ongoing_Text" value="Entregue 16 Emblemas do Governante Supremo para Belhira." />
+  <keys prop="Description" type="monster" key="awak_3_change_Complete_Text" value=" Parece que você tem o suficiente. Aqui está o seu material de criação." />
+  <keys prop="Description" type="monster" key="awak_4_change_1_Title" value="Pedra de Têmpera Divina Refinada I" />
+  <keys prop="Description" type="monster" key="awak_4_change_1_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_4_change_1_Request_Text" value="Posso ajudá-lo a aprimorar sua nova armadura se você me trouxer os materiais certos para ela.&lt;br&gt;Pedras de Temperamento Divinas Brutas podem ser criadas com uma receita especial de Seratia aqui.&lt;br&gt;Você pode trocar seu ellun pelo pacote correspondente em Seratia também." />
+  <keys prop="Description" type="monster" key="awak_4_change_1_Accepted_Text" value="Entregue 1 Pedra de Têmpera Divina Bruta e 1 Pacote Ellun (500) para belhira." />
+  <keys prop="Description" type="monster" key="awak_4_change_1_Ongoing_Text" value="Entregue 1 Pedra de Têmpera Divina Bruta e 1 Pacote Ellun (500) para belhira." />
+  <keys prop="Description" type="monster" key="awak_4_change_1_Complete_Text" value=" Isso deve funcionar. Aqui está sua Pedra de Têmpera Divina Polida." />
+  <keys prop="Description" type="monster" key="awak_4_change_2_Title" value="Pedra de Têmpera Divina Refinada II" />
+  <keys prop="Description" type="monster" key="awak_4_change_2_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_4_change_2_Request_Text" value="Posso ajudá-lo a aprimorar sua nova armadura se você me trouxer os materiais certos para ela.&lt;br&gt;Pedras de Temperamento Divinas Brutas podem ser criadas com uma receita especial de Seratia aqui.&lt;br&gt;Você pode trocar seu ellun pelo pacote correspondente em Seratia também." />
+  <keys prop="Description" type="monster" key="awak_4_change_2_Accepted_Text" value="Entregue 2 Pedras de Temperamento Divinas Brutas e 1 Pacote Ellun (1000) para belhira." />
+  <keys prop="Description" type="monster" key="awak_4_change_2_Ongoing_Text" value="Entregue 2 Pedras de Temperamento Divinas Brutas e 1 Pacote Ellun (1000) para belhira." />
+  <keys prop="Description" type="monster" key="awak_4_change_2_Complete_Text" value=" Isso deve funcionar. Aqui está sua Pedra de Temperamento Divina Brilhante." />
+  <keys prop="Description" type="monster" key="awak_4_change_3_Title" value="Pedra de Têmpera Divina Refinada III" />
+  <keys prop="Description" type="monster" key="awak_4_change_3_RewarderDesc" value="Belhira" />
+  <keys prop="Description" type="monster" key="awak_4_change_3_Request_Text" value="Posso ajudá-lo a aprimorar sua nova armadura se você me trouxer os materiais certos para ela.&lt;br&gt;Pedras de Temperamento Divinas Brutas podem ser criadas com uma receita especial de Seratia aqui.&lt;br&gt;Você pode trocar seu ellun pelo pacote correspondente em Seratia também." />
+  <keys prop="Description" type="monster" key="awak_4_change_3_Accepted_Text" value="Entregue 3 Pedras de Temperamento Divinas Brutas e 1 Pacote Ellun (1500) para belhira." />
+  <keys prop="Description" type="monster" key="awak_4_change_3_Ongoing_Text" value="Entregue 3 Pedras de Temperamento Divinas Brutas e 1 Pacote Ellun (1500) para belhira." />
+  <keys prop="Description" type="monster" key="awak_4_change_3_Complete_Text" value=" Isso deve funcionar. Aqui está sua Brilhante Pedra Temperadora Divina." />
+  <keys prop="Description" type="monster" key="awak_5_change_1_Title" value="Combinando a Essência Alkanina Desperta" />
+  <keys prop="Description" type="monster" key="awak_5_change_1_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_5_change_1_Request_Text" value="Você precisa de uma Essência de Alkanin Desperto?&lt;br&gt;Traga 4 Crescentes de Alkanin Despertos para mim e eu os combinarei para você.&lt;br&gt;Traga 4 Crescentes de Alkanin Divinos para trocá-los por 1 Crescente de Alkanin Desperto." />
+  <keys prop="Description" type="monster" key="awak_5_change_1_Accepted_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_1_Ongoing_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_1_Complete_Text" value="Aqui está sua Essência Alkanina Desperta. Manuseie-o com cuidado!" />
+  <keys prop="Description" type="monster" key="awak_5_change_2_Title" value="Combinando a Essência Alkanina Desperta" />
+  <keys prop="Description" type="monster" key="awak_5_change_2_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_5_change_2_Request_Text" value="Você precisa de uma Essência de Alkanin Desperto?&lt;br&gt;Traga 4 Crescentes de Alkanin Despertos para mim e eu os combinarei para você.&lt;br&gt;Traga 4 Crescentes de Alkanin Divinos para trocá-los por 1 Crescente de Alkanin Desperto." />
+  <keys prop="Description" type="monster" key="awak_5_change_2_Accepted_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_2_Ongoing_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_2_Complete_Text" value="Aqui está sua Essência Alkanina Desperta. Manuseie-o com cuidado!" />
+  <keys prop="Description" type="monster" key="awak_5_change_3_Title" value="Combinando a Essência Alkanina Desperta" />
+  <keys prop="Description" type="monster" key="awak_5_change_3_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_5_change_3_Request_Text" value="Você precisa de uma Essência de Alkanin Desperto?&lt;br&gt;Traga 4 Crescentes de Alkanin Despertos para mim e eu os combinarei para você.&lt;br&gt;Traga 4 Crescentes de Alkanin Divinos para trocá-los por 1 Crescente de Alkanin Desperto." />
+  <keys prop="Description" type="monster" key="awak_5_change_3_Accepted_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_3_Ongoing_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_3_Complete_Text" value="Aqui está sua Essência Alkanina Desperta. Manuseie-o com cuidado!" />
+  <keys prop="Description" type="monster" key="awak_5_change_4_Title" value="Combinando a Essência Alkanina Desperta" />
+  <keys prop="Description" type="monster" key="awak_5_change_4_RewarderDesc" value="Serátia" />
+  <keys prop="Description" type="monster" key="awak_5_change_4_Request_Text" value="Você precisa de uma Essência de Alkanin Desperto?&lt;br&gt;Traga 4 Crescentes de Alkanin Despertos para mim e eu os combinarei para você.&lt;br&gt;Traga 4 Crescentes de Alkanin Divinos para trocá-los por 1 Crescente de Alkanin Desperto." />
+  <keys prop="Description" type="monster" key="awak_5_change_4_Accepted_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_4_Ongoing_Text" value="Entregue 4 Crescentes Alkanin Despertos para Seratia para combiná-los com uma Essência Alkanin Despertada, que é necessária para criar o conjunto de armadura Desperto Divino." />
+  <keys prop="Description" type="monster" key="awak_5_change_4_Complete_Text" value="Aqui está sua Essência Alkanina Desperta. Manuseie-o com cuidado!" />
+  <keys prop="Description" type="monster" key="hk_9_1_hal_06_Title" value="Arqueologia Avançada" />
+  <keys prop="Description" type="monster" key="hk_9_1_hal_06_RewarderDesc" value="Abóbora" />
+  <keys prop="Description" type="monster" key="hk_9_1_hal_06_Request_Text" value="Nyah, extraordinário!&lt;br&gt;Algo brilhante aconteceu nas Planícies de Akrat.&lt;br&gt;O Rio de Revive secou e agora alguns fósseis pré-históricos selvagens voltaram a viver lá devido à influência da contaminação mágica no ar. " />
+  <keys prop="Description" type="monster" key="hk_9_1_hal_06_Request_Text_attach_0" value="&lt;br&gt;Eu quero que você verifique o que está acontecendo. Mas tenha cuidado, não sabemos o quão selvagens essas criaturas serão.&lt;br&gt;Com um pouco de sorte, podemos reconstruir um desses fósseis e controlá-lo, nyah!" />
+  <keys prop="Description" type="monster" key="hk_9_1_hal_06_Accepted_Text" value="Inspecione o que está acontecendo no fundo do rio seco de Revive.&lt;br&gt;Lute contra os fósseis selvagens. Com um pouco de sorte, você obterá ossos intactos.&lt;br&gt;Traga esses ossos para Pumpkin quando tiver o suficiente!" />
+  <keys prop="Description" type="monster" key="hk_9_1_hal_06_Ongoing_Text" value="Inspecione o que está acontecendo no fundo do rio seco de Revive.&lt;br&gt;Lute contra os fósseis selvagens. Com um pouco de sorte, você obterá ossos intactos.&lt;br&gt;Traga esses ossos para Pumpkin quando tiver o suficiente!" />
+  <keys prop="Description" type="monster" key="hk_9_1_hal_06_Complete_Text" value="Nyah, maravilhoso!&lt;br&gt;Isso deve ser ossos suficientes para reconstruir nosso próprio modelo desta criatura pré-histórica.&lt;br&gt;Vamos tentar, certo?" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_03_Title" value="Construindo um cavalo de brinquedo roxo" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_03_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_03_Request_Text" value="Nyah! Este ano eu tenho algo especial para você.&lt;br&gt;Um cavalo de brinquedo que você mesmo pode construir!&lt;br&gt;Traga-me os materiais necessários e eu lhe mostrarei como fazer um.&lt;br&gt;&lt;br&gt;Mas você terá que decidir qual você quer fazer, já que não darei os dois!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_03_Accepted_Text" value="Traga-me os materiais necessários:&lt;br&gt;- Tábuas de madeira podem ser obtidas em Blueton&lt;br&gt;- Os balões foram roubados por rabinos mesquinhos nas Terras Altas de Hakanas.&lt;br&gt;- Diz-se que o coração de cristal ressuscitou um certo boneco de neve encontrado em masmorras lendárias" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_03_Ongoing_Text" value="Traga-me os materiais necessários:&lt;br&gt;- Tábuas de madeira podem ser obtidas em Blueton&lt;br&gt;- Os balões foram roubados por rabinos mesquinhos nas Terras Altas de Hakanas.&lt;br&gt;- Diz-se que o coração de cristal ressuscitou um certo boneco de neve encontrado em masmorras lendárias" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_03_Complete_Text" value="Isso parece ser tudo, nyah ~ Bom trabalho!&lt;br&gt;Agora vamos construir o cavalo de brinquedo." />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_Title" value="Construindo um cavalo de brinquedo de madeira" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_RewarderDesc" value="Sagrados Rabinos" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_Request_Text" value="Nyah! Este ano eu tenho algo especial para você.&lt;br&gt;Um cavalo de brinquedo que você mesmo pode construir!&lt;br&gt;Traga-me os materiais necessários e eu lhe mostrarei como fazer um.&lt;br&gt;&lt;br&gt;Mas você terá que decidir qual você quer fazer, já que não darei os dois!" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_Accepted_Text" value="Traga-me os materiais necessários:&lt;br&gt;- Tábuas de madeira podem ser obtidas em Blueton&lt;br&gt;- Os balões foram roubados por rabinos mesquinhos nas Terras Altas de Hakanas.&lt;br&gt;- Diz-se que o coração de cristal ressuscitou um certo boneco de neve encontrado em masmorras lendárias" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_Ongoing_Text" value="Traga-me os materiais necessários:&lt;br&gt;- Tábuas de madeira podem ser obtidas em Blueton&lt;br&gt;- Os balões foram roubados por rabinos mesquinhos nas Terras Altas de Hakanas.&lt;br&gt;- Diz-se que o coração de cristal ressuscitou um certo boneco de neve encontrado em masmorras lendárias" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_Complete_Text" value="Isso parece ser tudo, nyah ~ Bom trabalho!&lt;br&gt;Agora vamos construir o cavalo de brinquedo." />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_1_Title" value="Processamento de madeira" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_1_RewarderDesc" value="Blueton" />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_1_Request_Text" value="Posso transformar um pouco de madeira bruta em pranchas de madeira para você.&lt;br&gt;Ouvi dizer que você precisa delas para construir algo especial este ano." />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_1_Accepted_Text" value="Traga-me madeira bruta para que eu possa processá-la para você.&lt;br&gt;Você pode encontrar madeira bruta das Árvores de Sweetgum nas Terras Altas de Hakanas." />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_1_Ongoing_Text" value="Traga-me madeira bruta para que eu possa processá-la para você.&lt;br&gt;Você pode encontrar madeira bruta das Árvores de Sweetgum nas Terras Altas de Hakanas." />
+  <keys prop="Description" type="monster" key="hk_9_1_anniv_04_1_Complete_Text" value="Ok, essa é uma boa madeira.&lt;br&gt;Me dê um momento..." />
+  <keys prop="Description" type="monster" key="hk_celestial_01_Title" value="Ajuda nos preparativos de Natal" />
+  <keys prop="Description" type="monster" key="hk_celestial_01_RewarderDesc" value="Serênia" />
+  <keys prop="Description" type="monster" key="hk_celestial_01_Request_Text" value="Aí está você! Eu estava procurando por você!&lt;br&gt;&lt;br&gt;Minha boa amiga Serenia pediu minha ajuda, mas estou muito ocupada com meus preparativos para o Natal.&lt;br&gt;Sabe, é sempre estressante quando toda a sua família vem. &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="hk_celestial_01_Request_Text_attach_0" value=" Você seria tão amigável e a ajudaria? Sim?&lt;br&gt;Muito obrigado!&lt;br&gt;E agora hopp, hopp! Tenho certeza que ela já está esperando!&lt;br&gt;E vista algo bonito e se comporte! Afinal, ela é uma rainha!" />
+  <keys prop="Description" type="monster" key="hk_celestial_01_Accepted_Text" value="Vá até a rainha sereia Serenia na Costa de Parna e ouça seu pedido.&lt;br&gt;Seja rápido!" />
+  <keys prop="Description" type="monster" key="hk_celestial_01_Ongoing_Text" value="Vá até a rainha sereia Serenia na Costa de Parna e ouça seu pedido.&lt;br&gt;Seja rápido!" />
+  <keys prop="Description" type="monster" key="hk_celestial_01_Complete_Text" value="Olá Rider, Merry enviou você para me ajudar?&lt;br&gt;Obrigado por ter vindo! Eu aprecio muito isso." />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_Title" value="Natal roubado!" />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_RewarderDesc" value="Velzeroth" />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_Request_Text" value="Algo terrível aconteceu com o Pégaso celestial da deusa Ellora. Alguém roubou seu cristal, um poderoso artefato mágico.&lt;br&gt;Com este cristal, o Pegasus Celestial traz saúde e felicidade para todos durante a época de Natal." />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_Request_Text_attach_0" value="Ela abençoa cada criança de Ellora neste mundo para o ano novo.&lt;br&gt;Você precisa encontrá-lo para ela! Sem ela, a doença e a pobreza atormentarão os filhos de Ellora...&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_Request_Text_attach_1" value=" Não sei quem o pegou, mas apenas alguém muito poderoso seria capaz de roubá-lo. Talvez uma bruxa?&lt;br&gt;Quando você o encontrar, por favor, leve-o para Velzeroth, ele a guarda e a protege de outros perigos." />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_Accepted_Text" value="Procure o Cristal de Natal que foi roubado por uma bruxa malvada e leve-o para Velzeroth assim que o encontrar, para restaurar a energia do Pégaso Celestial!" />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_Ongoing_Text" value="Procure o Cristal de Natal que foi roubado por uma bruxa malvada e leve-o para Velzeroth assim que o encontrar, para restaurar a energia do Pégaso Celestial!" />
+  <keys prop="Description" type="monster" key="hk_celestial_fin_Complete_Text" value="Você encontrou o cristal do Pégaso Celestial!&lt;br&gt;Você é realmente corajoso. Obrigado por sua ajuda!&lt;br&gt;Ela ficará muito feliz. Talvez ela até deixe você andar nas costas dela?" />
+  <keys prop="Description" type="monster" key="hk_stygaea_01_Title" value="Desafio: Terror e Destruição" />
+  <keys prop="Description" type="monster" key="hk_stygaea_01_RewarderDesc" value="John MacBain" />
+  <keys prop="Description" type="monster" key="hk_stygaea_01_Request_Text" value="Vá para a Floresta Perene e o Repositório Ardente em Stygaea e derrote os chefes mundiais [Dispute] Deadly Ranote e Van Deken.&lt;br&gt;Os chefes só aparecem às quintas e sábados." />
+  <keys prop="Description" type="monster" key="hk_stygaea_01_Accepted_Text" value=" Sobreviva e derrote os chefes mundiais de Stygaea [Disputa] Deadly Ranote e Van Deken para ganhar recompensas. (Apenas quintas e sábados)" />
+  <keys prop="Description" type="monster" key="hk_stygaea_01_Ongoing_Text" value=" Sobreviva e derrote os chefes mundiais de Stygaea [Disputa] Deadly Ranote e Van Deken para ganhar recompensas. (Apenas quintas e sábados)" />
+  <keys prop="Description" type="monster" key="hk_stygaea_01_Complete_Text" value="Como prometido, aqui estão suas recompensas por completar o desafio." />
+</files>

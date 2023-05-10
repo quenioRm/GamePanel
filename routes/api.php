@@ -82,8 +82,8 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     // WIKI
     Route::prefix('wiki')->name('wiki.')->group( function(){
 
-        Route::get('geticonfromitem/{itemid}', [App\Http\Controllers\Games\IcarusWikiApiController::class,
-        'GetIconFromItem'])->name('geticonfromitem');
+        Route::get('getitemdescription/{itemid}', [App\Http\Controllers\Games\IcarusWikiApiController::class,
+        'GetItemDescription'])->name('getitemdescription');
 
     });
 

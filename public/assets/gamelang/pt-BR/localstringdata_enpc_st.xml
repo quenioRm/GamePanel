@@ -1151,6 +1151,118 @@
   <keys prop="Description" type="monster" key="E_d03_SpirtDC_001Detail" value="" />
   <keys prop="Name" type="monster" key="E_d03_SpirtDC_002" value="Aura Abissal" />
   <keys prop="Description" type="monster" key="E_d03_SpirtDC_002Detail" value="" />
-  <keys prop="Name" type="monster" key="E_f03_elite_01" value="Crevasse" />
-  <keys prop="Description" type="monster" key="E_f03_elite_01Detail" value="Phantom of the Cold" />
+  <keys prop="Name" type="monster" key="E_f03_elite_01" value="크레바스" />
+  <keys prop="Description" type="monster" key="E_f03_elite_01Detail" value="혹한의 허깨비" />
+  <keys prop="Name" type="monster" key="E_D94_VampBat_01" value="Morcego Perdido" />
+  <keys prop="Description" type="monster" key="E_D94_VampBat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_01" value="Aventureiro Perdido" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_02" value="Soldado Perdido" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_03" value="Guerreiro Perdido" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_ZombElite_01" value="Zumbi Forte" />
+  <keys prop="Description" type="monster" key="E_D94_ZombElite_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_ZombElite_02" value="Zumbi Poderoso" />
+  <keys prop="Description" type="monster" key="E_D94_ZombElite_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_ZombWeak_01" value="Zumbi Fraco" />
+  <keys prop="Description" type="monster" key="E_D94_ZombWeak_01Detail" value="Infeliz Azarado" />
+  <keys prop="Name" type="monster" key="E_D94_GoleGuard_01" value="Guardião Golem Esquecido" />
+  <keys prop="Description" type="monster" key="E_D94_GoleGuard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleGuard_02" value="Golem Destruidor Esquecido" />
+  <keys prop="Description" type="monster" key="E_D94_GoleGuard_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleBomb_01" value="Fragmento Instável" />
+  <keys prop="Description" type="monster" key="E_D94_GoleBomb_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleBomb_02" value="Fragmento de Golem Flamejante" />
+  <keys prop="Description" type="monster" key="E_D94_GoleBomb_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleElite_01" value="Guardião Golem Superaquecido" />
+  <keys prop="Description" type="monster" key="E_D94_GoleElite_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleElite_02" value="Golem Destruidor Em Fuga" />
+  <keys prop="Description" type="monster" key="E_D94_GoleElite_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_TowerSab_01" value="Arthuria" />
+  <keys prop="Description" type="monster" key="E_D94_TowerSab_01Detail" value="Rei Cavaleiro" />
+  <keys prop="Name" type="monster" key="E_D94_TowerGil_01" value="Gilgamesh" />
+  <keys prop="Description" type="monster" key="E_D94_TowerGil_01Detail" value="Rei Herói" />
+  <keys prop="Name" type="monster" key="E_D94_TowerRid_01" value="Gorgon" />
+  <keys prop="Description" type="monster" key="E_D94_TowerRid_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_TowerArc_01" value="Sarrow" />
+  <keys prop="Description" type="monster" key="E_D94_TowerArc_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Leopard_01" value="Leopardo Selvagem" />
+  <keys prop="Description" type="monster" key="E_D94_Leopard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Chimpus_01" value="Canguru Selvagem" />
+  <keys prop="Description" type="monster" key="E_D94_Chimpus_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Rhino_01" value="Rinoceronte Selvagem" />
+  <keys prop="Description" type="monster" key="E_D94_Rhino_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Elephant_01" value="Elefante Selvagem" />
+  <keys prop="Description" type="monster" key="E_D94_Elephant_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_01" value="Veterinário Lebrini" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_02" value="Treinador Lebrini" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_AnimalMst_01" value="Pantera Negra" />
+  <keys prop="Description" type="monster" key="E_D94_AnimalMst_01Detail" value="Protetor Selvagem" />
+  <keys prop="Name" type="monster" key="E_D94_DollHorse_01" value="Pônei Sonhador" />
+  <keys prop="Description" type="monster" key="E_D94_DollHorse_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollCat_01" value="Boneco Gato" />
+  <keys prop="Description" type="monster" key="E_D94_DollCat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollWolf_01" value="Boneco Cachorrinho" />
+  <keys prop="Description" type="monster" key="E_D94_DollWolf_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollWolf_02" value="Boneco Lobo" />
+  <keys prop="Description" type="monster" key="E_D94_DollWolf_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollHorse_02" value="Rabo de Cavalo Resplandecente" />
+  <keys prop="Description" type="monster" key="E_D94_DollHorse_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollHorse_03" value="Rabo de Cavalo Pesadelo" />
+  <keys prop="Description" type="monster" key="E_D94_DollHorse_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollHealer_01" value="Fogny" />
+  <keys prop="Description" type="monster" key="E_D94_DollHealer_01Detail" value="Boneca Sonhadora" />
+  <keys prop="Name" type="monster" key="E_D94_DevyDoll_01" value="Marrie" />
+  <keys prop="Description" type="monster" key="E_D94_DevyDoll_01Detail" value="Boneca Feliz" />
+  <keys prop="Name" type="monster" key="E_D94_DevyDoll_02" value="Rede" />
+  <keys prop="Description" type="monster" key="E_D94_DevyDoll_02Detail" value="Fantoche Triste" />
+  <keys prop="Name" type="monster" key="E_D94_Ender_01" value="Carrasco Solitário" />
+  <keys prop="Description" type="monster" key="E_D94_Ender_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_rabcar_01" value="Cenoura Suspeita" />
+  <keys prop="Description" type="monster" key="E_D94_rabcar_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_rabcarbomb_01" value="Cenoura Suspeita" />
+  <keys prop="Description" type="monster" key="E_D94_rabcarbomb_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_04" value="Aventureiro Perdido" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_05" value="Soldado Perdido" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_06" value="Guerreiro Perdido" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_AnimalMst_02" value="Guerreiro Faminto" />
+  <keys prop="Description" type="monster" key="E_D94_AnimalMst_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_lever_01" value="Carne Deliciosa" />
+  <keys prop="Description" type="monster" key="E_D94_lever_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_lever_02" value="Carne Borrachenta" />
+  <keys prop="Description" type="monster" key="E_D94_lever_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_lever_03" value="Carne Borrachenta" />
+  <keys prop="Description" type="monster" key="E_D94_lever_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DevyDoll_03" value="Boneca de vodu" />
+  <keys prop="Description" type="monster" key="E_D94_DevyDoll_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Leopard_02" value="Leopardo Selvagem" />
+  <keys prop="Description" type="monster" key="E_D94_Leopard_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_03" value="Veterinário Lebrini" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_04" value="Treinador Lebrini" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Trap_01" value="Armadilha Surpresa" />
+  <keys prop="Description" type="monster" key="E_D94_Trap_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_001" value="Vestígios de Zumbis" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_002" value="Vestígios do Graal" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_003" value="Vestígios Sombrios" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_004" value="Vestígios de Fantoche" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_004Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Rhino_02" value="Rinoceronte Selvagem" />
+  <keys prop="Description" type="monster" key="E_D94_Rhino_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Elephant_02" value="Elefante Selvagem" />
+  <keys prop="Description" type="monster" key="E_D94_Elephant_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Trap_02" value="Armadilha Surpresa" />
+  <keys prop="Description" type="monster" key="E_D94_Trap_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_GoleStrom_008" value="Sandstorm" />
+  <keys prop="Description" type="monster" key="E_F05_GoleStrom_008Detail" value="" />
 </files>

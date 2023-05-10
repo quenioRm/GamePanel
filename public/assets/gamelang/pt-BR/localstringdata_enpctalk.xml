@@ -1,0 +1,1135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="E_01_0_0001_0101" value="Salve... Salve-me..." />
+  <keys prop="Description" type="monster" key="E_01_0_0001_0102" value="Morto por um prisoneiro..." />
+  <keys prop="Description" type="monster" key="E_01_0_0001_0103" value="Salant... perdoe-me..." />
+  <keys prop="Description" type="monster" key="E_01_0_0002_0101" value="Os prisioneiros fugiram! Atrás deles!" />
+  <keys prop="Description" type="monster" key="E_01_0_0002_0102" value="Você não vai passar!" />
+  <keys prop="Description" type="monster" key="E_01_0_0002_0103" value="Onde você está indo? Jogarei você de volta em sua cela!" />
+  <keys prop="Description" type="monster" key="E_01_0_0002_0201" value="Chame... mais guardas..." />
+  <keys prop="Description" type="monster" key="E_01_0_0002_0202" value="Não posso deixar... que se vão..." />
+  <keys prop="Description" type="monster" key="E_01_0_0002_0203" value="Não completei minha missão..." />
+  <keys prop="Description" type="monster" key="E_01_4_0004_0101" value="Você achou que podia escapar?" />
+  <keys prop="Description" type="monster" key="E_01_4_0004_0201" value="Isso não acabou.../Salant não o deixará viver..." />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0101" value="Humanos fracos. Sua liberdade foi negada" />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0201" value="Impossível... Você nunca escapará da fúria de Salant." />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0301" value="Vou quebrar você em pedacinhos!" />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0302" value="Sinta-se honrado por morrer em minhas mãos!" />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0601" value="Hahaha! Isso faz cócegas!" />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0602" value="Hahaha! Lute comigo!" />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0603" value="Seus ataques não me atingem!" />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0901" value="Como ousa colocar suas mãos de inseto em mim!" />
+  <keys prop="Description" type="monster" key="E_01_4_0637_0902" value="Como se atreve a tocar as posses de Salant?!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0101" value="Quem é esse? " />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0102" value="Suspeito!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0103" value="Lute! Vamos lutar!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0201" value="Grargh... Rrrgh..." />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0202" value="Salve... me..." />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0203" value="Humano... forte..." />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0301" value="Quem fez isso?!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0302" value="Inimigo! Mate!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0401" value="Não posso lutar sozinho!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0402" value="Ajuda! Ajuda!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0403" value="Salve-me!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0501" value="Eu vou morrer!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0502" value="Não use isso aqui! Idiota!" />
+  <keys prop="Description" type="monster" key="E_02_0_0012_0503" value="Você está me atingindo também! Burro!" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0101" value="Inimigo! Inimigo!" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0102" value="Salve-me!" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0103" value="H-h-h-humano? Preciso contar ao chefe!" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0201" value="Reforços! Reforços!!" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0202" value="Inimigo? Socorro socorro SOCORRO!" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0301" value="O que? Hein? O que?" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0401" value="Morrer, sem nunca ter vivido... ARGH!" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0402" value="Não deveria... lutar..." />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0501" value="Qu-quem é você?" />
+  <keys prop="Description" type="monster" key="E_02_0_0016_0502" value="I-innnntruso!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0101" value="Tome isso!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0102" value="Grargh! Rargh! Argh!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0103" value="Tome isso!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0201" value="Argh!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0202" value="Quem é esse?" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0301" value="Quem fez isso?!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0302" value="Inimigo! Mate!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0401" value="D-desculpe!" />
+  <keys prop="Description" type="monster" key="E_02_0_0017_0402" value="Trabalhando duro, não é?" />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0101" value="Quem é?" />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0102" value="Carne fresca!" />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0201" value="Forte... Muito forte..." />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0202" value="Salve... me..." />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0301" value="Afaste-se!" />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0302" value="Mirar é difícil." />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0303" value="Desvie disso!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0101" value="Intruso!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0102" value="Cara estúpida!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0201" value="Burro!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0202" value="Fique longe, estúpido!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0203" value="Não quero ajudar idiotas, mas... Não tenho escolha!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0204" value="Intruso! Ataque!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0205" value="Humanos não passam!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0206" value="Ninguém vai passar por mim!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0207" value="Defenda! Defenda!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0208" value="Escudo QUENTE!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0301" value="Eu deveria ter... vencido..." />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0302" value="Burro... Forte... Burro..." />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0401" value="Hora da mágica!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0402" value="Gelo gelado!" />
+  <keys prop="Description" type="monster" key="E_02_0_0021_0501" value="Cure, cure, cure!" />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0101" value="Sinto cheiro... de algo gostoso..." />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0102" value="Cheiro de comida!" />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0201" value="Cortar você em pedaços!" />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0202" value="GIRA GIRA GIRA!" />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0203" value="QUEBRA!" />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0301" value="Muito forte..." />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0302" value="Tanta... raiva..." />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0401" value="A comida está revidando!" />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0402" value="Carne saborosa!" />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0701" value="Eu luto MUITO." />
+  <keys prop="Description" type="monster" key="E_02_0_0022_0702" value="Desculpe!" />
+  <keys prop="Description" type="monster" key="E_02_0_0042_0101" value="Esmagar!" />
+  <keys prop="Description" type="monster" key="E_02_0_0043_0101" value="O grande arco quebrou!/Precisamos consertá-lo. Rápido, rápido!" />
+  <keys prop="Description" type="monster" key="E_02_0_0043_0102" value="Rápido, conserte, depois de volta ao cochilo!" />
+  <keys prop="Description" type="monster" key="E_02_0_0043_0103" value="Conserte... depois." />
+  <keys prop="Description" type="monster" key="E_02_0_0043_0201" value="Tudo resolvido! Hora da soneca." />
+  <keys prop="Description" type="monster" key="E_02_0_0043_0202" value="Tudo consertado. Talvez. Grande arco estranho..." />
+  <keys prop="Description" type="monster" key="E_02_0_0043_0301" value="Ocupado! Trabalhando! Não interromper!" />
+  <keys prop="Description" type="monster" key="E_02_0_0043_0302" value="Quem você? Chato!" />
+  <keys prop="Description" type="monster" key="E_02_0_0644_0101" value="Floresta estúpida... Floresta estúpida..." />
+  <keys prop="Description" type="monster" key="E_02_0_0644_0102" value="Quem se atreve a invadir este solo sagrado?" />
+  <keys prop="Description" type="monster" key="E_02_0_0644_0201" value="Agora... Posso descansar..." />
+  <keys prop="Description" type="monster" key="E_02_0_0644_0202" value="Minha missão termina aqui..." />
+  <keys prop="Description" type="monster" key="E_02_0_0644_0301" value="Meu coração está pesado..." />
+  <keys prop="Description" type="monster" key="E_02_0_0644_0302" value="Nós protegemos este solo sagrado." />
+  <keys prop="Description" type="monster" key="E_02_0_0659_0101" value="Vá embora!" />
+  <keys prop="Description" type="monster" key="E_02_0_0659_0102" value="Quão longe você voa?!" />
+  <keys prop="Description" type="monster" key="E_02_0_0659_0201" value="Você pagar por isso!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0101" value="Quem?!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0102" value="Quem é?" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0103" value="Você! Pare!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0201" value="Ataque!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0202" value="Pegue o humano burro!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0203" value="Muito devagar!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0301" value="Poderoso! Ha!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0302" value="Tome isso!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0401" value="Esmagar você!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0402" value="Terrível! Burro! Fraco!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0601" value="Perder para humano? Vergonha..." />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0602" value="Perde para... humano fraco..." />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0701" value="Eu fico bravo!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0702" value="Se prepara!" />
+  <keys prop="Description" type="monster" key="E_02_0_1022_0703" value="Luta comigo! Todo poder! Anda!" />
+  <keys prop="Description" type="monster" key="E_02_1_0011_0101" value="Purr! Purr!" />
+  <keys prop="Description" type="monster" key="E_02_1_0011_0102" value="Purrrrrrrrr!" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0101" value="Heeheehee! Não é divertido?" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0102" value="Invasores? Vou estraçalhar... heeheehee." />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0103" value="Uhul! Hora da diversão?" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0201" value="Vamos brincar. Brinca!" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0202" value="Quer provar minhas garras?" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0203" value="Brinquedos novos para mim! Oba!" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0301" value="Argh! Como pode...?" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0302" value="Uh! Mais forte que eu pensava..." />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0303" value="Blargh!" />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0401" value="Hehehe. Errou." />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0402" value="Hehehe. Não consegue me tocar." />
+  <keys prop="Description" type="monster" key="E_03_0_0180_0403" value="Muito lento! Hehehe." />
+  <keys prop="Description" type="monster" key="E_03_0_0214_0101" value="Seus ataques não são o bastante para me machucar!" />
+  <keys prop="Description" type="monster" key="E_03_0_0214_0102" value="Pfft! Que ataque fraco." />
+  <keys prop="Description" type="monster" key="E_03_0_0214_0103" value="Tem algo mais forte aí? Hehehe." />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0000" value="Que... rude..." />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0101" value="Eu não... vou fugir!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0102" value="Não vou fugir assustado!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0201" value="Hrrrr... você nunca vai pegar meu precioso! Transformação abóbora!!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0202" value="Uh... Vou te mostrar minha última forma! Transformação Abóbora!!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0203" value="Eu sou bem rápido, não é? Isso é ainda mais insano! Transformação em Abóbora!!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_1000" value="Eu nunca terminei... minha cenoura..." />
+  <keys prop="Description" type="monster" key="E_03_0_0694_2000" value="É uma vida difícil." />
+  <keys prop="Description" type="monster" key="E_03_0_0694_3000" value="Eu não sou nenhum coelho comum!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_4000" value="Não incomoda. Estou comendo!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_5000" value="Prefiro morrer do que abrir mão dessa cenoura!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_6000" value="Me pegue se for capaz!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_7000" value="Idiota! Idiota! Idiota!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_8000" value="Você não me deixa escolha!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_9000" value="Toma essa, demônio! Você não vai colocar as patas no meu tesouro!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0101" value="Intruso! Tenho que avisar os outros!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0102" value="Eu não sou idiota. Vou chamar reforços!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0103" value="Parece uma luta justa... Não, obrigado!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0201" value="Intrusos? Eu luto com você!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0202" value="Eu te ajudo!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0203" value="Não deixem o intruso interferir!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0204" value="Temos um sacrifício fresquinho!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0301" value="Quem vem lá?" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0302" value="Como ousa interferir no nosso ritual sagrado?" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0303" value="Pare!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0304" value="Suspeito!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0401" value="Meus irmãos... lutem..." />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0402" value="Em nome... da Ruína..." />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0403" value="Que maravilhosa... escuridão..." />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0404" value="Ainda... não... terminei..." />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0501" value="Urgh! Foi por pouco." />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0502" value="Ah, mas não mesmo!" />
+  <keys prop="Description" type="monster" key="E_03_0_0707_0503" value="Essa foi por pouco..." />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0101" value="Como ousa entrar na mansão do mestre com os pés sujos?/Ninguém vai sair daqui com vida!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0201" value="Mestre... Eu peço perdão..." />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0301" value="Matem o invasor!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0302" value="Alguém está tentando matar o conde!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0303" value="Tem um intruso aqui!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0401" value="Mortal fracote. Você não quer a vida eterna?" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0501" value="Não tenha medo. Muito em breve, você será imortal." />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0601" value="Idiota. Por que insistir nessa breve existência?" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0701" value="Os humanos estão... destinado a morrer...? Urgh..." />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0801" value="Alto! Quem vem lá?" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0802" value="Você ousa transgredir os domínios do conde?" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0803" value="Você vai sofrer!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0901" value="Hahaha... sangue fresco." />
+  <keys prop="Description" type="monster" key="E_03_0_0900_0902" value="Me dê o seu sangue! Seu sangue fresco!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_1001" value="Preciso curar as minhas feridas! Sacrifique-se por mim!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_1002" value="Isso está ficando perigoso. Dê o seu sangue para mim!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_1301" value="LeBrand! Rápido, derrote os invasores!" />
+  <keys prop="Description" type="monster" key="E_03_0_0900_1401" value="Gustav! Prepare um banquete com o sangue dos invasores!" />
+  <keys prop="Description" type="monster" key="E_03_0_0902_0101" value="Hehe. Carne fresca./Tenho que preparar carne para o conde." />
+  <keys prop="Description" type="monster" key="E_03_0_0902_0201" value="Que raiva! Carne fresca diante dos meus olhos, e eu não posso cozinhar..." />
+  <keys prop="Description" type="monster" key="E_04_0_1300_0101" value="Ataquem os invasores!" />
+  <keys prop="Description" type="monster" key="E_04_0_1300_0102" value="Ei! Ataquem os invasores!" />
+  <keys prop="Description" type="monster" key="E_04_0_1300_0103" value="Ataquem! Não deixe que saiam vivos!" />
+  <keys prop="Description" type="monster" key="E_50_0_0667_0101" value="Você, soldado condenado. Venha e ajude-me." />
+  <keys prop="Description" type="monster" key="E_51_0_0011_0101" value="Interessante. Você está me desafiando?" />
+  <keys prop="Description" type="monster" key="E_51_0_0011_0201" value="Vou lutar com você com tudo que tenho!" />
+  <keys prop="Description" type="monster" key="E_51_0_0011_0301" value="Você acha que você vai sobreviver a este ataque?" />
+  <keys prop="Description" type="monster" key="E_51_0_0011_0401" value="Argh... tão forte... É o fim?!" />
+  <keys prop="Description" type="monster" key="E_51_0_0013_0101" value="Hu... humanos! Humanos!" />
+  <keys prop="Description" type="monster" key="E_51_0_0013_0102" value="Socorro! SOCORRO!" />
+  <keys prop="Description" type="monster" key="E_51_0_0013_0201" value="Muito perto, muito perto!" />
+  <keys prop="Description" type="monster" key="E_51_0_0013_0202" value="Apenas... me ignore! Por favor!" />
+  <keys prop="Description" type="monster" key="E_51_0_0013_0203" value="Congele e morra!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0101" value="Grrr... Você não vai passar daqui!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0201" value="Vou acabar com você!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0301" value="Grrr! Como ousa me machucar?!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0302" value="Grrr! Não me irrite!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0401" value="Grrr! Eu vou fazer de você estátua de gelo!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0402" value="Grrr! Vou congelar todos vocês!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0601" value="Grrr... Salant... Eu imploro seu perdão..." />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0701" value="Grrr! Não vai ser tão fácil dessa vez!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0801" value="Grrr... Não gosto disso..." />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0901" value="Grrr! Morra!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_0902" value="Vou acabar com você!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_1501" value="Grrr! Iren vai congelar todos vocês!" />
+  <keys prop="Description" type="monster" key="E_51_0_0614_0101" value="Ah Ah... Posso sentir o calafrio!" />
+  <keys prop="Description" type="monster" key="E_51_0_0614_0102" value="Posso sentir a força da esfera! Grrr!" />
+  <keys prop="Description" type="monster" key="E_51_0_0614_0103" value="Orb de gelo abençoada! Dê-me o poder!" />
+  <keys prop="Description" type="monster" key="E_51_0_0614_0104" value="Vou te mostrar uma surpresa abominável!" />
+  <keys prop="Description" type="monster" key="E_51_0_1500_0101" value="Levantai-vos, mortos congelados!" />
+  <keys prop="Description" type="monster" key="E_51_0_1500_0102" value="Sirvam-me, mortos congelados!" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0101" value="Um humano? Pra mim?" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0102" value="Posso sentir sua paixão." />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0103" value="Que humano saboroso." />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0201" value="Sinthan irá vingar-me..." />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0202" value="Por que os yetis mais lindos morrem tão jovens?" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0301" value="Você está apaixonado por mim! Eu vou te sufocar em fofura!" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0302" value="O humano que mais me machucou foi... você!" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0401" value="Quando uma dama lamenta, há geada em pleno verão!" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0402" value="Se você continuar me machucando, eu vou te congelar!" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0501" value="Por que você me fere? Não vês quão bonita eu sou?" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0502" value="Deixe seu doce yeti em paz!" />
+  <keys prop="Description" type="monster" key="E_51_0_0622_0503" value="Por que não paramos de lutar para admirar minha bela forma?" />
+  <keys prop="Description" type="monster" key="E_52_0_0900_0005" value="Vou pulverizar seu sangue inútil por todo canto!" />
+  <keys prop="Description" type="monster" key="E_03_0_0903_0000" value="Agora você vai provar do meu verdadeiro poder!" />
+  <keys prop="Description" type="monster" key="E_54_0_0697_0101" value="Agul?! Aguul!" />
+  <keys prop="Description" type="monster" key="E_54_0_0683_0101" value="Ah, o poder de Radan!" />
+  <keys prop="Description" type="monster" key="E_54_0_0683_0102" value="Hereges! Ainda não acabou!" />
+  <keys prop="Description" type="monster" key="E_55_0_1521_0101" value="Me deixem em paz, fantasmas do passado!" />
+  <keys prop="Description" type="monster" key="E_55_0_1521_0102" value="Frio cortante!" />
+  <keys prop="Description" type="monster" key="E_55_0_1521_0103" value="Nas garras do inverno, durma!" />
+  <keys prop="Description" type="monster" key="E_51_0_0019_1001" value="Gelo, venha adiante!" />
+  <keys prop="Description" type="monster" key="E_04_0_1301_0101" value="Vou te deixar em pedaços!" />
+  <keys prop="Description" type="monster" key="E_04_0_1301_0102" value="Hahaha! Queimem, seus pedaços de carne!" />
+  <keys prop="Description" type="monster" key="N_01_0_0001_0101" value="A pedra vermelha está curando o Guardião. Temos que destruí-la." />
+  <keys prop="Description" type="monster" key="N_01_0_0001_0201" value="Vou curar seus ferimentos. Não se exceda." />
+  <keys prop="Description" type="monster" key="N_01_0_0001_0202" value="Cuidado para não se ferir." />
+  <keys prop="Description" type="monster" key="N_01_0_0001_0301" value="É melhor destruir a pedra vermelha primeiro. Hiya!" />
+  <keys prop="Description" type="monster" key="N_01_0_0003_0101" value="Aqui! Por aqui! Por favor, me ajude!" />
+  <keys prop="Description" type="monster" key="N_01_0_0004_0101" value="Arrgh!" />
+  <keys prop="Description" type="monster" key="N_01_0_0004_0102" value="Ahh! Socorro!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0101" value="Dessa vez, eu vou conseguir domar a fera!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0102" value="Javali, você é meu!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0103" value="Seja um bom familiar e venha comigo!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0104" value="Essa é minha milionésima vigésima terceir... não, vigésima quarta tentativa!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0201" value="Eu quero domar o meu familiar e ir lutar com o Braghin..." />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0202" value="Escolha uma criatura e use a habilidade Domar. Aproxime-se e pule para montar. Eu fiz tudo certo... Então por que eu falhei?" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0203" value="Por que eu nunca consigo domar? Os outros sempre conseguem. O problema é o meu nome?" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_0204" value="Eu tenho uma arma montada, mas nenhum familiar... Que fracasso." />
+  <keys prop="Description" type="monster" key="N_02_0_0007_0101" value="Isso foi perigoso. Você se feriu?" />
+  <keys prop="Description" type="monster" key="N_02_0_0007_0102" value="Me enganaram num piscar de olhos. Malditos Braghin..." />
+  <keys prop="Description" type="monster" key="N_02_0_0007_0201" value="Fogo aqui, fogo ali, não sobrou nada! Isso não é bom!" />
+  <keys prop="Description" type="monster" key="N_02_0_0007_0202" value="Eu conserto essas peças há anos, e elas pegaram fogo!" />
+  <keys prop="Description" type="monster" key="N_02_0_0007_0203" value="Isso não é mais uma máquina. É só um monte de sucatas, está ouvindo?" />
+  <keys prop="Description" type="monster" key="N_02_0_0023_0101" value="Em uma situação como esta, alguém iria querer fazer negócios? Tipo, qual é." />
+  <keys prop="Description" type="monster" key="N_02_0_0023_0102" value="Se você consegue trabalhar assim, acho que não precisa de tratamento." />
+  <keys prop="Description" type="monster" key="N_02_0_0023_0201" value="Espere um pouco." />
+  <keys prop="Description" type="monster" key="N_02_0_0023_0202" value="Você acordou! Que ótimo." />
+  <keys prop="Description" type="monster" key="N_02_0_0023_0203" value="Já fiz tudo o que podia. Você vai sobreviver." />
+  <keys prop="Description" type="monster" key="N_02_0_0034_0101" value="Vou dizer por que estamos investigando as ruínas./Preste atenção." />
+  <keys prop="Description" type="monster" key="N_02_0_0035_0101" value="Hum... a julgar por esse padrão, essa relíquia é... muito valiosa! Uau!" />
+  <keys prop="Description" type="monster" key="N_02_0_0095_0101" value="Boas-vindas ao acampamento base." />
+  <keys prop="Description" type="monster" key="N_02_0_0095_0102" value="Este é o acampamento base da equipe de pesquisa." />
+  <keys prop="Description" type="monster" key="N_02_0_0095_0201" value="Grrr... Você não vai passar daqui!" />
+  <keys prop="Description" type="monster" key="N_02_0_0095_0202" value="Pelos Cavaleiros do Dragão!" />
+  <keys prop="Description" type="monster" key="N_02_0_0095_0203" value="Glória a Hakain!" />
+  <keys prop="Description" type="monster" key="N_02_0_0098_0101" value="Temos belas armas aqui! Dê uma olhada!" />
+  <keys prop="Description" type="monster" key="N_02_0_0098_0102" value="Temos as armas que lhe darão a vantagem em batalha!" />
+  <keys prop="Description" type="monster" key="N_02_0_0111_0101" value="Este lugar está cheio de criaturas selvagens. Isso não é bom." />
+  <keys prop="Description" type="monster" key="N_02_0_0111_0102" value="O titã do céu foi destruído por completo. Malditos Braghin!" />
+  <keys prop="Description" type="monster" key="N_02_0_0111_0103" value="Estou com um mau pressentimento... Acho que não devia ter seguido você." />
+  <keys prop="Description" type="monster" key="N_02_0_0111_0201" value="Tem alguma coisa que eu posso usar como peça?" />
+  <keys prop="Description" type="monster" key="N_02_0_0111_0202" value="Temos poucos suprimentos. O que vamos fazer?" />
+  <keys prop="Description" type="monster" key="N_02_0_0111_0203" value="Será que eu vou conseguir ir para casa? Suspiro..." />
+  <keys prop="Description" type="monster" key="N_02_0_0219_0101" value="Os Braghin vão pagar por isso!" />
+  <keys prop="Description" type="monster" key="N_02_0_0219_0102" value="Para mim, chega..." />
+  <keys prop="Description" type="monster" key="N_02_0_0219_0103" value="Eu criei aquele titã do céu desde pequeno..." />
+  <keys prop="Description" type="monster" key="N_02_0_0221_0101" value="Tem tanto trabalho pela frente..." />
+  <keys prop="Description" type="monster" key="N_02_0_0221_0102" value="Meus produtos são incomparáveis." />
+  <keys prop="Description" type="monster" key="N_02_0_0224_0101" value="Os Braghin estão destruindo a floresta. Eu preciso de sua ajuda." />
+  <keys prop="Description" type="monster" key="N_02_0_0246_0101" value="Ugh..." />
+  <keys prop="Description" type="monster" key="N_02_0_0246_0102" value="Água... Por favor, água..." />
+  <keys prop="Description" type="monster" key="N_02_0_0246_0103" value="O-onde estou?" />
+  <keys prop="Description" type="monster" key="N_02_0_0247_0101" value="Oportunidade única!/Meus preços despencaram, igual ao Titã do Céu!/Venham dar uma olhada!" />
+  <keys prop="Description" type="monster" key="N_02_0_0247_0102" value="Faça a sua escolha!/Um sorriso grátis com cada compra!" />
+  <keys prop="Description" type="monster" key="N_02_0_0247_0201" value="Os itens na minha loja são de primeira linha!" />
+  <keys prop="Description" type="monster" key="N_02_0_0247_0301" value="Não vá para a guerra despreparado!/Dê uma olhada em meus artigos!" />
+  <keys prop="Description" type="monster" key="N_02_0_0247_0302" value="Eu tenho tudo que você precisa para sobreviver na floresta." />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0101" value="Quanto tempo eu devo ficar de guarda?" />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0102" value="A floresta nunca estará em paz, enquanto os Braghin estiverem aqui." />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0103" value="Estamos ficando sem ração..." />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0201" value="Minha loja tem apenas o melhor!" />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0202" value="Olhe até cansar, mas não saia de mãos abanando!" />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0301" value="Dê uma olhada nisso! Ainda está vivo!" />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0302" value="Olha como se contorce!" />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0401" value="O churrasco está quase acabando! Hora de cavar!" />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0501" value="Odeio o cheiro dos porcos..." />
+  <keys prop="Description" type="monster" key="N_02_0_0257_0502" value="Nunca vou conseguir limpar estas botas..." />
+  <keys prop="Description" type="monster" key="N_02_1_0245_0101" value="Grr!" />
+  <keys prop="Description" type="monster" key="N_02_1_0245_0201" value="Grr... Sniff sniff." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0101" value="MORRA!!!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0102" value="Você cheira... deliciosamente bem! Seu sangue clama por mim. Preciso... DEVORAR!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0201" value="Tudo o que eu queria... era uma sopa de macarrão de galinha... " />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0000" value="Glória a Hakain! Atacar!" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0001" value="Atacar! Adiante!" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0002" value="Para Sua Majestade!" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0003" value="Urgh... aqueles malditos..." />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0004" value="Estou tão... furioso!" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0005" value="Ah Ah! Eu... Eu deixo o resto para você." />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0006" value="Como ousa vir aqui?" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0007" value="Atacar! Ensine-lhes uma lição!" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0008" value="Não tema!" />
+  <keys prop="Description" type="monster" key="N_50_0_0002_0101" value="Você está queimado. Vou curá-lo." />
+  <keys prop="Description" type="monster" key="N_50_0_0002_0102" value="Tenha cuidado para não ser queimado pelas chamas." />
+  <keys prop="Description" type="monster" key="N_50_0_0002_0103" value="Espere, por favor. Eu vou tratar de suas queimaduras." />
+  <keys prop="Description" type="monster" key="N_50_0_0002_0104" value="Sacrifico minha vida para suprimir o poder mágico do Olho de Radan por enquanto!" />
+  <keys prop="Description" type="monster" key="N_02_0_0999_0101" value="Estou me sentindo melhor. Vou pagar esta dívida." />
+  <keys prop="Description" type="monster" key="N_02_0_0999_0102" value="Ufa... Me sinto melhor. Obrigado." />
+  <keys prop="Description" type="monster" key="N_02_0_0999_0103" value="Pensei que seria meu fim. Obrigado." />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0300" value="Dê tudo que você tem! Especialmente as cenouras!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0301" value="Eca! Esse trigo tem um gosto horrível. Por que você plantou isso?" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0302" value="Estou com fome! E realmente irritado!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0400" value="Wah! Não terminei minha cenoura..." />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0401" value="Eu não deveria ter vindo!" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0402" value="Hein? Isso é... Isso é juventude?" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0000" value="Vamos lá, carne! Cozinhe mais rápido! Mais rápido!" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0001" value="Ver isso está me deixando louco..." />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0001" value="Depressa, velho! Estou morrendo de fome!" />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0002" value="Carne de verdade para o jantar! Pensei que este dia nunca chegaria..." />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0003" value="Vamos lá, deixe-me dar uma mordidinha? Só uma?" />
+  <keys prop="Description" type="monster" key="N_05_0_5002_0000" value="Eles não podem comer tudo isso sozinhos..." />
+  <keys prop="Description" type="monster" key="N_05_0_5002_0001" value="Estou salivando só de assistir isso..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0001" value="Qual veio primeiro, o ovo ou a galinha?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0002" value="O vento move o ramo... ou o ramo desvia o vento?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0003" value="Por que as maçãs caem em vez de subir?" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0002" value="Já trabalho neste moinho há16 anos." />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0003" value="Dediquei os melhores anos da minha vida a este moinho, mas não me arrependo." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0004" value="Ela ao menos sabe que existo?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0005" value="Sei que ela é esnobe, mas é por isso que eu a amo!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0006" value="Olhe para mim. Vamos, note-me...!" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0001" value="Nem TODOS podemos ser bonitos." />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0002" value="É tão difícil encontrar um bom homem." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0007" value="A cidade é um lugar frio. Quer ajuda para ficar quente?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0008" value="Um dia, eu serei o maior chef em Hakanas!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0009" value="Só precisa de trabalho duro e estudos?" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0003" value="Venha para o Pub do Mercado! As melhores bebidas da cidade!" />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0004" value="Hum... Quem tem mais dinheiro?" />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0005" value="Eu vou roubar uma última vez e parar... Talvez..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0010" value="Todos os familiares têm características variadas." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0011" value="Use seus familiares com eficácia para ter vantagem em batalha." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0012" value="Lutar sem um familiar é como puxar uma carroça sem rodas." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0013" value="Poder nacional significa ter uma poderosa força militar." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0014" value="Meu trabalho é treinar pessoas competentes para defender esta terra." />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0004" value="Assistentes! Removam quem não estiver apto ao trabalho!" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0005" value="Ei, você, soldado em treinamento! Endireite a coluna!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0015" value="Dê uma boa olhada no seu alvo!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0016" value="Designar suas unidades e atacar um ponto é..." />
+  <keys prop="Description" type="monster" key="N_05_0_0095_0001" value="Cara, isso é dureza." />
+  <keys prop="Description" type="monster" key="N_05_0_0095_0002" value="Este é o preço que eu pago por apagar?" />
+  <keys prop="Description" type="monster" key="N_05_0_0095_0003" value="Chamaram a minha atenção... Não tenho tempo para brincar." />
+  <keys prop="Description" type="monster" key="N_05_0_0095_0004" value="Huff, huff." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0017" value="Você incendeia o meu coração, meu amor." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0018" value="Sem você, o mundo fica frio e cinzento." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0019" value="Prefiro parar de respirar do que passar um minuto longe de você!" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0006" value="Minha nossa..." />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0007" value="Por favor, continue..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0020" value="Ele não te conhece como eu..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0021" value="Volte para mim, amor!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0022" value="Você veio formar uma guilda?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0023" value="Eu posso digitar suas palavras de guilda no livro-razão, se quiser." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0024" value="As alianças são o futuro da Hakanas." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0025" value="A aristocracia não está satisfeita com o nosso trabalho aqui..." />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0008" value="Conseguimos a atenção dos nobres." />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0009" value="Um dia, as guildas vão competir pelo poder contra a classe superior." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0026" value="Todas as grandes obras da literatura de Hakan podem ser encontradas nessas estantes." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0027" value="Procura por algo em particular?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0028" value="A capital jamais cairá enquanto eu estiver aqui." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0029" value="Eu desafio Salant a me enfrentar." />
+  <keys prop="Description" type="monster" key="N_05_0_0423_0000" value="Falei para agir rápido. RÁPIDO!" />
+  <keys prop="Description" type="monster" key="N_05_0_0423_0001" value="Você deveria saber o que fazer sem eu precisar dizer nada!" />
+  <keys prop="Description" type="monster" key="N_05_0_0423_0002" value="Este é o último aviso. Saia da linha de novo, e eu vou te dar uma surra!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0030" value="S-sim, senhor! O que disser, senhor!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0031" value="(Ele nunca cala a boca?)" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0032" value="(Shh! Ele vai te ouvir sussurrando!)" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0033" value="Que a bênção de Ellora esteja contigo." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0034" value="Devemos a prosperidade do Reino a Ellora." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0036_01" value="O castelo é tão grande... Acho que me perdi no caminho..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0036_02" value="Aquele guarda é tão frio. Mesmo quando eu falo com ele, ele segue o seu caminho." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0035_01" value="Acho que me escondi bem o bastante." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0035_02" value="Ninguém pode me encontrar!" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0005_01" value="..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0028_01" value="Como faço para domar?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0028_02" value="Vou te fazer meu!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0028_03" value="Ai, meu traseiro! Quantas vezes tenho que cair?" />
+  <keys prop="Description" type="monster" key="IN_SF_1_0016_001" value="Ai... Minhas costas..." />
+  <keys prop="Description" type="monster" key="IN_SF_1_0016_002" value="Não consigo... levantar..." />
+  <keys prop="Description" type="monster" key="IN_SF_1_0016_003" value="Malditos Braghin..." />
+  <keys prop="Description" type="monster" key="IN_SF_1_0017_001" value="O que... o que aconteceu...?" />
+  <keys prop="Description" type="monster" key="IN_SF_1_0017_002" value="Alguém... por favor...." />
+  <keys prop="Description" type="monster" key="IN_SF_1_0017_003" value="Não posso me mover..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0088_01" value="Sem gado e sem esperança. Este é realmente o fim." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0088_02" value="Lobisomens tocados pela ruína..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0074_01" value="As coisas não deveriam ter acontecido desta forma." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0074_02" value="Alguém tem que dar um jeito nesses lobos malditos!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0096_01" value="Só temos que conseguir manter a situação sob controle..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0096_02" value="Este acampamento é seguro. Você tem minha palavra." />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0032_01" value="Cuidado com os lobisomens." />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0032_02" value="Cuidado com as sombras, pois elas escondem os inimigos de Ellora." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0091_01" value="Nunca deveria ter me mudado para cá..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0091_02" value="Eu queria a liberdade das terras altas, mas isso é um pouco demais..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0091_03" value="Ugh..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0163_01" value="Faz algum tempo que pedimos ajuda à capital, ainda não ouvimos nada. Com que rapidez somos esquecidos..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0163_02" value="Estou esperando, mas por quanto tempo mais?" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0165_01" value="A capital enviará ajuda em breve... Certo?" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0165_02" value="Estamos perdidos sem os Cavaleiros do Dragão..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0162_01" value="Não deveria ter baixado minha guarda..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0162_02" value="Dói..." />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0041_01" value="Embora a aldeia esteja assim agora, há um grande potencial para crescimento." />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0041_02" value="Daremos nosso melhor para torná-la uma vila cheia de vida. " />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0103_01" value="Em cima da hora e tudo está bem!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0103_02" value="Esta é uma área restrita. Por favor, não ande por aí." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0106_01" value="Em cima da hora e tudo está bem!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0060_01" value="Um dia eu vou pegar um peixe tão grande quanto eu!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0060_02" value="Meu nome é Lokke, e eu sou a melhor pescadora das terras altas!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0062_01" value="Finalmente, eu me torno um ancião... e os vampiros atacam!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0062_02" value="Talvez eu devesse me demitir..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0174_01" value="O que esses tolos estão fazendo no Cruzamento? Como poderiam deixar isso acontecer?" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0174_02" value="Não resistiremos. Não com uma milícia inexperiente como essa." />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0033_01" value="Se você está aqui agora, você deve ser especial." />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0033_02" value="Visita a esta hora? Talvez..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0108_01" value="T-tire-me daqui!" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0108_02" value="Estou com medo..." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0067_01" value="Você escolheu um mau momento para visitar, estranho." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0067_02" value="Só não pise no cemitério. Hoje em dia, os mortos não não tão amigáveis." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0068_01" value="Ela parecia tão legal... Como eu ia saber que ela era um zumbi?" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0068_02" value="Este lugar é amaldiçoado. Confie em mim." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0168_01" value="Os cavaleiros e nós? Somos inseparáveis." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0168_02" value="Podemos não ser belos cavaleiros, mas damos pro gasto." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0170_01" value="Como posso trabalhar sem ingredientes decentes?" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0170_02" value="Capitão! Que tal conseguir algum dinheiro para eu cozinhar algo de bom, pra variar?" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0170_03" value="Quero fazer algo para animar o Capitão, mas não tenho nada." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0156_01" value="Não é fácil domar um familiar voador." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0156_02" value="Se você não tiver cuidado, vai ficar como eu." />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0158_01" value="Dizem que é bom estar um passo à frente dos seus inimigos, mas isso não significa que você está de costas para eles?" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0158_02" value="Se atacarmos as fênixes primeiro..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0037_01" value="Precisamos mesmo de todo esse lixo?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0037_02" value="Uma bomba... Duas bombas... Três bombas..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0038_01" value="Vampiros e lobisomens... São dias sombrios nas terras altas." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0038_02" value="Nossas mãos estão atadas. Os pobres habitantes das terras altas estão por conta própria..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0039_01" value="Hmm..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0039_02" value="Odeio ficar imóvel enquanto inocentes estão sofrendo." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0055_01" value="Esta fazenda costumava ser uma parada de aventureiros..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0055_02" value="Já passamos por coisa pior do que isso, se bem me lembro." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0040_01" value="Huff, huff." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0040_02" value="Se eu correr assim todos os dias, minhas panturrilhas vão ficar lindas." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0041_01" value="É aqui que os talentosos buscavam a grandeza." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0041_02" value="No passado, muitas façanhas heroicas tiveram lugar aqui, mas agora, nada." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0041_03" value="Um dia, os talentosos vão retornar a este santuário." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0042_01" value="O trabalho envolve guiar as pessoas até aqui em segurança." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0042_02" value="Tem alguém que fica sempre no mesmo lugar, à espera de um amante que se foi em um barco... É uma pena..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0043_01" value="Será que um dia ele irá retornar?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0043_02" value="Ellora, guarde-o em segurança..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0044_01" value="Eu devo ter enlouquecido. Por que eu abri uma loja...?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0044_02" value="Eu devia ter aberto um bar na capital." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0045_01" value="Ninguém conhece moinhos como eu." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0045_02" value="Aquele outro cara não entende nada de moinhos..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0046_01" value="O que ele disse?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0046_02" value="Não é glamoroso, mas eu nunca trocaria a vida do moleiro." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0047_01" value="Este é um lugar sagrado. Lembre-se disso." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0047_02" value="Fale baixo enquanto estiver bosque." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0048_01" value="O meu dinheiro estará seguro aqui?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0048_02" value="Eu trabalhei duro por este cobre. Não parece certo deixar ele com o banco..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0049_01" value="Hoje eu desenho roupas em um beco, mas um dia eu serei importante!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0049_02" value="Quando eu conseguir, vou me dar um nome bem maneiro!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0050_01" value="Lindas flores para aquela pessoa especial?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0050_02" value="Flores bonitas à venda! Quase tão bonitas quanto eu!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0051_01" value="Se eu tiver que ouvir mais uma palavra dos absurdo daquele jovem..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0051_02" value="Tsc, tsc. A juventude é desperdiçada nos jovens." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0052_01" value="Ei, sabia que tem um fantasma apavorante dentro do poço de pedra?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0052_02" value="O fantasma sai rastejando do poço para matar pessoas..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0052_03" value="Qual era o nome do fantasma? Acho que... Sadaka?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0053_01" value="Pare! Não quero ouvir mais nada. Estou com medo..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0053_02" value="Não estou ouvindo..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0053_03" value="Pare de falar..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0054_01" value="Esta fazenda é administrada por aventureiros." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0054_02" value="Ainda não terminei. Volte mais tarde." />
+  <keys prop="Description" type="monster" key="N_05_0_9999_9999_01" value="Aqui! Por favor, me ajude!" />
+  <keys prop="Description" type="monster" key="N_05_0_9999_9999_02" value="Ajude-me!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0056_01" value="Boas-vindas à Academia de Familiares." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0057_01" value="Eu acho que você daria um ótimo Pesquisador de Familiares." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0057_02" value="Você tem interessado em se tornar um pesquisador?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0058_01" value="Para comandar um familiar, primeiro é preciso conquistar o seu respeito." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0058_02" value="Precisa de ajuda com seus familiares?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0059_01" value="Merlin está sempre comigo!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0059_02" value="Eu jamais selaria o Merlin." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0059_03" value="Por que o Merlin sempre briga no banho...?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0060_01" value="Eu amo o meu familiar!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0060_02" value="Não entendo por que as pessoas têm tanto medo de aranhas." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0060_03" value="Não ataque! Esse é o meu familiar!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0061_01" value="Não é qualquer um que pode domar um familiar do ar." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0061_02" value="Será que eles morreriam se nos dessem uma sombra?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0061_03" value="Se você sobrecarregar seu familiar, pode acabar caindo do céu." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0062_01" value="Os ursos são os melhores familiares." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0062_02" value="Os familiares ficam mais fortes passando tempo com você." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0062_03" value="Deve haver um modo de deixá-lo mais forte..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0063_01" value="E-espere um pouco!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0063_02" value="V-você consegue! Você tem que conseguir!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0063_03" value="S-s-se você perder, acabou!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0064_01" value="Faça essa pantera em pedaços!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0064_02" value="A vitória está ao nosso alcance!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0064_03" value="Destrua aquele fracote!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0065_01" value="Luta! Luta!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0066_01" value="Continue! Acabe com eles!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0067_01" value="O tigre vai tirar essa de letra." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0068_01" value="Posso ficar vendo eles lutarem o dia todo." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0068_02" value="Não conte ao papai que eu estive aqui." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0069_01" value="Minha nossa...!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0070_01" value="Que espetáculo estimulante!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0071_01" value="Eles são casados, sabia?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0072_01" value="Essa vai ser por um triz!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0073_01" value="Esta é apenas uma sessão de treinamento..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0073_02" value="Por que eles estão lutando até a morte?!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0074_01" value="Honrem todos Sua Majestade, o rei!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0074_02" value="Comporte-se enquanto estiver aqui dentro." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1000_01" value="Devo me reportar à capital." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1000_02" value="Como você está?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1000_03" value="Se eu tivesse tido mais cuidado..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1010_01" value="Eu nunca vi nada assim..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1010_02" value="Pelo menos não foi no meio de um acampamento de Braghin..." />
+  <keys prop="Description" type="monster" key="N_02_0_0002_1000_01" value="Aguente mais um pouco..." />
+  <keys prop="Description" type="monster" key="N_02_0_0002_1000_02" value="Essas pessoas precisam de ajuda..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1020_01" value="Dói..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1020_02" value="Mãe..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1020_03" value="Eu não quero morrer..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1030_01" value="Quanto tempo essas chamas ainda podem queimar?!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1030_02" value="Não para de queimar..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1040_01" value="Eu não aguento mais Braghin." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1040_02" value="Se alguém vir Braghin por perto, me avisem!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1050_01" value="Se tiver quatro patas, pode deixar que eu domo!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1050_02" value="Alguma pergunta sobre os familiares da região?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1060_01" value="Suíno idiota..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1060_02" value="Eu nunca deveria ter entrado nesse negócio familiar." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1070_01" value="Que saudades da Princesa Lania..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1070_02" value="A capital é segura?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1080_01" value="Se você tiver o coração de um guerreiro, venha comigo!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1080_02" value="Eu vou acabar com todos os Braghin!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1080_03" value="Vamos matar o Braghin e vingar a Princesa Lania!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_1010_01" value="Mana te guie." />
+  <keys prop="Description" type="monster" key="N_02_0_0002_1010_02" value="Que a magia ilumine o seu caminho." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1090_01" value="Pegue suas armas aqui!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1090_02" value="Lâminas fresquinhas para todas suas necessidades sanguinárias!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1100_01" value="Não entre em batalha com uma armadura velha!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1100_02" value="Uma boa armadura pode salvar a sua vida!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1110_01" value="Se precisar de alguma coisa, pode contar com as minhas poções!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1110_02" value="Venha visitar o único boticário de Brakarr!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_1020_01" value="Hakanas fica mais bonito de barriga cheia!" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_1020_02" value="Não está com fome?" />
+  <keys prop="Description" type="monster" key="N_02_0_0002_1020_03" value="Compre uma mochila nova para guardar tudo que você precisa!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1120_01" value="Shh! Não consigo me concentrar!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1120_02" value="Volte mais tarde!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1130_01" value="Cuidado com os dispares de balista." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1130_02" value="Olhos no céu!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1140_01" value="Mantenham a linha!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1140_02" value="Protejam o acampamento!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1140_03" value="Temos que pegar os chefes Braghin!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1140_04" value="Cuidado com o flanco!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1150_01" value="A Princesa Lania foi sequestrada? Mesmo?!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1150_02" value="É difícil mandar notícias por aqui..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1160_01" value="Os Braghin estão diferentes hoje..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1160_02" value="Eu me encontrei com a Princesa Lania uma vez." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1170_01" value="Salant finalmente conseguiu!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1170_02" value="Que a ruína tome essa floresta!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1180_01" value="Vai ser uma noite longa..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1180_02" value="Se a Princesa Lania estivesse aqui..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1190_01" value="Existe um mito triste sobre as Árvores da Luz Trêmula..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1190_02" value="Eu não acredito em mitos." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1190_03" value="A Princesa Lania também já esteve aqui." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1200_01" value="Veio aprender mais sobre familiares?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1200_02" value="Domar é fácil." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1210_01" value="Qual é a da sua arma?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1210_02" value="Não hesite, nem por um momento!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1220_01" value="Comida e poções à venda!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1220_02" value="Por favor, dê uma olhada nos meus produtos." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_01" value="Cuidado lá fora." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_02" value="Cuidado com os perigos de Brakarr." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_03" value="Todo dia é sempre a mesma coisa... Já enchi o saco disso!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_04" value="Pelos Cavaleiros do Dragão!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_05" value="Minha vida por Hakanas!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_06" value="Os Cavaleiros do Dragão saúdam." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_07" value="Você está sob a proteção dos Cavaleiros do Dragão." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_08" value="Vai escurecer em breve. Tenha cuidado!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_09" value="Vale a pena lembrar onde ficam os santuários." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_10" value="Estes temos sombrios..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_11" value="É bom ver outro rosto amigável." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_12" value="A Princesa Lania está segura?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_13" value="Salant vai pagar por isso!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_14" value="Eu sempre quis conhecer a princesa..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1230_15" value="Derrotem os Braghin! Pela Princesa Lania!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0075_01" value="Minha senhora, temos que ir." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0075_02" value="Se o duque ficar sabendo disso...!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0076_01" value="Ouça, Keebo, o rugido das feras! Elas não mexem com a sua alma?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0077_01" value="Sim! Um dia eu vou ser um treinador de familiares!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0077_02" value="E a mamãe queria que eu fosse banqueiro..." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0078_01" value="Poder do urso!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0078_02" value="Não me julgue pela minha aparência. Eu tenho coração mole!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0078_03" value="Corra, urso, corra!" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0079_01" value="Você já viu alguma pedra tão maravilhosa?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0079_02" value="As pessoas morrem e deixam apenas um nome. Mas os grandes familiares? Eles deixam uma pedra da alma." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0079_03" value="Algumas pessoas chamam esta de pedra da alma de Plyrope." />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0080_01" value="Existe algum modo de comprimir esta pedra da alma?" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0080_02" value="Alguns familiares são selados contra a vontade." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1300_01" value="De onde estão vindo esses peludos safados...?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1310_01" value="Essa missão era para ter sido fácil..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1320_01" value="Sopa de novo? Não aguento mais sopa!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1330_01" value="Você tem sorte de ter algo para comer!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1340_01" value="Diga, aonde você quer ir? Claro, por uma pequena taxa..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1350_01" value="Sintonize-se com o santuário, assim será possível usar sua pedra de retorno para se teletransportar de volta." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1360_01" value="Os Cavaleiros do Dragão nunca desistem!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1370_01" value="Sem essas balistas, eles não têm o que fazer." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1380_01" value="Então, agora estamos em guerra com Salant. Que ótimo..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1390_01" value="Tragam os feridos para mim." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1391_01" value="As armas de cerco deles nos encurralaram..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1392_01" value="Ei! Aonde você precisa ir?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1393_01" value="Dizem que a Princesa Lania falava com fantasmas." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1394_01" value="Esta floresta é amaldiçoada!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1395_01" value="Permita-me curar sua dor." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_01" value="Eu não aguento mais fantasmas." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_02" value="O que temos que fazer aqui?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_03" value="Se você conhecer o desgraçado que inventou as balistas, acaba com ele por mim." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_04" value="Estava na hora dos reforços chegarem!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_05" value="A música da natureza foi silenciada?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_06" value="Os Braghin estão estranhos hoje..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_07" value="Estou aqui para atender a suas necessidades de transporte." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_08" value="Dê uma olhada! Eu tenho tudo o que você precisa a preços razoáveis!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_09" value="A princesa saberia o que fazer com essas fadas." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_10" value="Não podemos pescar nestas condições!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_11" value="Que a ruína leve esses piratas..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_12" value="As águas não são mais seguras." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_13" value="Só espero que a minha música traga paz para a cidade." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_14" value="Artistas devem ser ambiciosos!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_15" value="Mais estranhos fortemente armados. Que ótimo." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_16" value="Não posso pescar por causa desses malditos piratas!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_17" value="Por que todos estão tão ansiosos para chegar aqui?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_18" value="Eu tenho tudo que você pode precisar!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_19" value="Não podemos confiar esses forasteiros..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_20" value="Você está procurando alguma coisa?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_21" value="As coisas vão se acalmar. Você vai ver." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_22" value="Vou pegar aqueles piratas por isso..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_23" value="Especiarias! Preciso de mais especiarias." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_24" value="Um bom prato só precisa dos ingredientes certos." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_25" value="Fósforos! Fósforos a venda!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_26" value="Eu vou vingar meus pais." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_27" value="Com a minha comida, você vai ficar com a corda toda!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_28" value="Não dá pra construir porcaria nenhuma sem uma planta!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_29" value="É tipo um barco de pesca... Mas com canhões, certo?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_30" value="Eu conheço os familiares locais como a palma da minha mão." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_31" value="Eu ouvi falar de você! Não me venha com problemas, entendeu?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_32" value="Aquele garoto ainda vai me matar." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_33" value="Quem interrompe o meu sonho?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_34" value="Intrusos não serão perdoados!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_35" value="Nada mal!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_36" value="O barco para a Travessia de Hakain partirá em breve." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_37" value="Pra que fazer um barco com esse monte de piratas no mar?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_38" value="Eu não aguento mais lobos!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_39" value="É muita emoção trabalhar com o moinho. Muita emoção..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_40" value="Temos que resistir, não importa o poder do nosso inimigo!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_41" value="Piratas não têm a menor chance contra minhas armas e armaduras." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_42" value="Por favor, veja as minhas mercadorias!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_43" value="É o clima perfeito para uma caçada pirata!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_44" value="Daryl e eu não temos nada em comum!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_45" value="Meus irmãos vão me vingar!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_46" value="Ei! Por aqui!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_47" value="Você também não vai conseguir voltar com vida!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_48" value="Varanac, seu idiota! Como ousa me envolver?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_49" value="Monstros nojentos! Deixe estes pescadores em paz!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_50" value="Era pra eu ter virado à esquerda na árvore...?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_51" value="Quem...? Tanto faz. Meus irmãos vão te destruir!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_52" value="Você matou meu irmão! Morra!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_53" value="Ah! Você veio nos salvar!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_54" value="Por favor, nos salve dos piratas!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_55" value="Vou fazer estes piratas pagarem." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_56" value="Só faltam mais alguns piratas! Não desista!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_57" value="Ei, você! Me ajude!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_58" value="Talvez seja hora de acabar com o nosso isolamento." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_59" value="Merumi não deviam entrar entre si. Precisamos nos unir!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_60" value="Que a música guie o seu coração." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_61" value="Não se deixe enganar. Radan não é amigo dos Merumi!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_62" value="Ganhar a simpatia de um Merumi não é fácil." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_63" value="Ah, Julemme! Que saudades!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_64" value="Que visão inesperada!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_65" value="O Merumi são tão encantadores. Vou me lembrar disso." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_66" value="A arte dos Merumi até que não é tão ruim!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_67" value="Que frustrante..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_68" value="Acho que vou caçar uma baleia antes de morrer." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_69" value="Que fome... Não consigo lutar..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_70" value="Por favor, me alimente..." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_71" value="Legal encontrar você aqui, herói." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_72" value="Rumio, querido Rumio! Seremos sempre vítimas da distância?" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_73" value="Ah, Rumio! É preferível morrer do que a ficar longe de você!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_74" value="Eu vou voltar para a luta... assim que acabar de comer." />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_75" value="A fome se vai... A raiva... cresce. Morram, piratas, morram!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_76" value="Não há tempo a perder. Temos que vingar Varanac!" />
+  <keys prop="Description" type="monster" key="N_02_0_0001_1396_77" value="Hunf! Varanac não passava de um problema. Mais rum!" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0001_001" value="Não consigo mais lutar... Me ajude..." />
+  <keys prop="Description" type="monster" key="IN_EX_1_0001_002" value="Se eu tivesse 100 vidas, passaria todas servindo o Sargento Stein!" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0001_003" value="Não aguento mais! Eu vou para casa! Cansei de tanta guerra!" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0001_004" value="O Sargento Stein mandou você para me ajudar?" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0001_005" value="Se alguém perguntar por mim, finja que não me viu. Especialmente se esse alguém for o Sargento Stein!" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0001_006" value="Trabalhar é um saco. Deviam nos pagar mais! " />
+  <keys prop="Description" type="monster" key="IN_EX_1_0002_001" value="Eca! Por que você jogou água em mim?!" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0002_002" value="Eca! Foi o Sargento Stein que mandou fazer isso?" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0002_003" value="Cof, cof! Ei, vamos conversar! Atchim!" />
+  <keys prop="Description" type="monster" key="IN_EX_1_0002_004" value="Sargento Stein... Quanta crueldade... Eu quero a minha mãe!" />
+  <keys prop="Description" type="monster" key="N_P01_0_0001_0013_01" value="Quem ousa interromper meus sonhos?" />
+  <keys prop="Description" type="monster" key="N_P01_0_0001_0013_02" value="Não consigo dormir por causa do barulho! Está me enlouquecendo!" />
+  <keys prop="Description" type="monster" key="N_P01_0_0001_0013_03" value="Mil e trinta e três esqueletos, mil e trinta e quatro... Ah! Eu não aguento mais contar esqueletos!" />
+  <keys prop="Description" type="monster" key="N_P01_0_0001_0013_04" value="Estou caindo de sono... Estou caindo de sono... Aggggh, não estou não..." />
+  <keys prop="Description" type="monster" key="N_P01_0_0001_0013_05" value="Eu quero dormiiiiir! Fantasmas precisam dormir, também!" />
+  <keys prop="Description" type="monster" key="e_f02_hufpub_001_01" value="Onde está o meu filho...?" />
+  <keys prop="Description" type="monster" key="e_f02_hufpub_001_02" value="Querido... Onde você está...?" />
+  <keys prop="Description" type="monster" key="e_f02_hufpub_001_03" value="Voltem para mim... meus queridos..." />
+  <keys prop="Description" type="monster" key="e_c01_chaowiz_001_01" value="Hakanas ficará de joelhos diante da Irmandade de Khabim!" />
+  <keys prop="Description" type="monster" key="e_c01_chaowiz_001_02" value="Sinta o poder da ruína!" />
+  <keys prop="Description" type="monster" key="e_c01_chaowiz_001_03" value="Vou te matar onde você está!" />
+  <keys prop="Description" type="monster" key="n_f03_0_0001_0055_01" value="Eu e Rumio jamais voltaremos a nos separar." />
+  <keys prop="Description" type="monster" key="n_f03_0_0001_0055_02" value="Você virá para o nosso casamento, não é?" />
+  <keys prop="Description" type="monster" key="n_f03_0_0001_0055_03" value="Isso sim é felicidade..." />
+  <keys prop="Description" type="monster" key="n_f03_iho_001" value="Como é a música humana?" />
+  <keys prop="Description" type="monster" key="n_f03_paul_001" value="Os Merumi são uma raça bela e misteriosa!" />
+  <keys prop="Description" type="monster" key="n_f03_Lain_001" value="Os Piratas estão capturando Merumi e vendendo para outras nações como escravos!" />
+  <keys prop="Description" type="monster" key="n_f03_chigaru_001" value="Como é a arquitetura humana?" />
+  <keys prop="Description" type="monster" key="n_f03_romeo_001" value="Ah! Julemme! Que saudades!" />
+  <keys prop="Description" type="monster" key="n_f03_hadaru_001" value="Silêncio, humano. Não faça alarde." />
+  <keys prop="Description" type="monster" key="n_f03_syisa_001" value="Ah! Você conseguiu! Obrigado pela ajuda antes!" />
+  <keys prop="Description" type="monster" key="n_f03_kirosiha_001" value="Temos que impedir a poluição no pântano!" />
+  <keys prop="Description" type="monster" key="n_f03_korata_001" value="Coelhos, porcos, pelicanos... Tem tanta coisa para caçar aqui." />
+  <keys prop="Description" type="monster" key="n_f03_rykoha_001" value="Minhas armas são leves, mas poderosas." />
+  <keys prop="Description" type="monster" key="n_f03_gakuu_001" value="Está procurando armaduras?" />
+  <keys prop="Description" type="monster" key="n_f03_kamero_001" value="Pode perguntar o que quiser sobre familiares!" />
+  <keys prop="Description" type="monster" key="n_f03_rbron_001" value="Não se preocupe. Vou deixar seus familiares seguros, confortáveis e felizes." />
+  <keys prop="Description" type="monster" key="n_f03_sitaru_001" value="Eu posso curar a sua dor." />
+  <keys prop="Description" type="monster" key="n_f03_shyron_001" value="Os Merumi literalmente têm de tudo!" />
+  <keys prop="Description" type="monster" key="n_f03_rahican_001" value="Esta é a última defesa! Precisamos manter a fileira!" />
+  <keys prop="Description" type="monster" key="n_f03_grente_001" value="Eu sei tudo que tem para saber de familiares." />
+  <keys prop="Description" type="monster" key="n_f03_akantool_001" value="As bases da magia começam com a humildade." />
+  <keys prop="Description" type="monster" key="n_f03_taranin_001" value="Ainda não temos o suficiente para a reconstrução de Crokhoon." />
+  <keys prop="Description" type="monster" key="n_f03_mananan_001" value="Graças a você, o lago foi reaberto! Agradeço muito!" />
+  <keys prop="Description" type="monster" key="n_f03_reonjenis_001" value="Para evitar que mais Crokhoon e seres humanos sejam sacrificado, precisamos dar um basta no yeti!" />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_001" value="Que a ruína tome maldita praga!" />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_002" value="Vá embora se quiser viver." />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_003" value="Tantos mortos..." />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_004" value="Socorro... me ajude..." />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_005" value="Eu me sinto... estranho... " />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_006" value="Me mate! Por favor! Acabe com isso!" />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_007" value="Tem algo... algo despertando... dentro de mim..." />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_008" value="Eu não... eu não aguento isso..." />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_009" value="Aguente só mais um pouco. A ajuda está a caminho." />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_010" value="Não morra agora!" />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_011" value="Como isso aconteceu...?" />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_012" value="Tudo começou com aquele mago tocado pela ruína..." />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_013" value="Não podemos deixar que isso se espalhe até a Travessia de Hakain!" />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_014" value="Ainda tem pessoas presas no porto!" />
+  <keys prop="Description" type="monster" key="n_c01_humsol01_015" value="Não podemos fazer mais nada..." />
+  <keys prop="Description" type="monster" key="n_d03_potal_01" value="Este lugar está fechado. Eu vou escoltar você até o templo." />
+  <keys prop="Description" type="monster" key="n_d03_potal_02" value="Você ainda não derrotou Radan. Aonde acha que está indo?" />
+  <keys prop="Description" type="monster" key="n_d03_potal_03" value="Estamos aqui para ajudar na luta contra Radan." />
+  <keys prop="Description" type="monster" key="n_d03_potal_04" value="Nós acreditamos que você pode derrotar o Olho de Radan." />
+  <keys prop="Description" type="monster" key="N_04_0_0001_0048_1" value="Houve um deslizamento de terra. Esta área está bloqueada." />
+  <keys prop="Description" type="monster" key="N_04_0_0001_0048_2" value="Temos que começar a restauração, mas quando a mão de obra vai chegar?" />
+  <keys prop="Description" type="monster" key="N_c01_UnionMaster_01" value="Se tiver perguntas sobre alianças, fale comigo." />
+  <keys prop="Description" type="monster" key="in_f05_sickman_01" value="Que sede..." />
+  <keys prop="Description" type="monster" key="in_f05_sickman_02" value="Po-por favor... água..." />
+  <keys prop="Description" type="monster" key="in_f05_sickman_03" value="Que... calor..." />
+  <keys prop="Description" type="monster" key="in_f05_sickman_04" value="Me sinto tão... refrescado!" />
+  <keys prop="Description" type="monster" key="in_f05_sickman_05" value="Bendita água da minha vida!" />
+  <keys prop="Description" type="monster" key="in_f05_sickman_06" value="Essa é a melhor água que eu já provei..." />
+  <keys prop="Description" type="monster" key="in_f05_worker_01" value="O que eu faço sem materiais?" />
+  <keys prop="Description" type="monster" key="in_f05_worker_02" value="Estou no intervalo. Não enche." />
+  <keys prop="Description" type="monster" key="in_f05_worker_03" value="Pode acreditar, eu adoraria voltar ao trabalho, se não fosse por esses malditos mercenários." />
+  <keys prop="Description" type="monster" key="in_f05_worker_04" value="Beleza. Hora de voltar ao trabalho!" />
+  <keys prop="Description" type="monster" key="in_f05_worker_05" value="Justo quando eu estava me sentindo confortável..." />
+  <keys prop="Description" type="monster" key="in_f05_worker_06" value="Hora de trabalhar, então?" />
+  <keys prop="Description" type="monster" key="N_d06_UpperN_01" value="Derrote Talos em frente à estátua gigante." />
+  <keys prop="Description" type="monster" key="N_d06_UpperN_02" value="Encontre e ative a alavanca do portão superior." />
+  <keys prop="Description" type="monster" key="N_d06_UpperN_03" value="O portão está aberto. Monte em um familiar para alcançar o andar mais baixo." />
+  <keys prop="Description" type="monster" key="N_d06_UpperN_04" value="Uma armadilha foi ativada. Os inimigos foram alertados." />
+  <keys prop="Description" type="monster" key="N_d06_Under_01" value="Ative a alavanca da central de energia." />
+  <keys prop="Description" type="monster" key="N_d06_Under_02" value="Ative a alavanca da central de energia para abrir o caminho até a central de energia." />
+  <keys prop="Description" type="monster" key="N_d06_Under_03" value="O portão da central de energia se abriu." />
+  <keys prop="Description" type="monster" key="N_d06_Under_04" value="Ative o reator de força para explodi-lo." />
+  <keys prop="Description" type="monster" key="N_d06_Under_05" value="O reator de força parou." />
+  <keys prop="Description" type="monster" key="N_d06_Under_06" value="O muro do mal na sala de invocação foi eliminado." />
+  <keys prop="Description" type="monster" key="N_d06_Under_07" value="O muro do mal na sala de controle foi eliminado." />
+  <keys prop="Description" type="monster" key="N_d06_Under_08" value="Obtenha a Bola de Cristal da Princesa Lania." />
+  <keys prop="Description" type="monster" key="N_d06_Under_09" value="O reator de força está fora de controle." />
+  <keys prop="Description" type="monster" key="N_d06_Under_10" value="O portão da sala de invocação se abriu." />
+  <keys prop="Description" type="monster" key="N_d06_Under_11" value="O portão da sala de controle se abriu." />
+  <keys prop="Description" type="monster" key="N_d06_clear_n1" value="Você completou a Fortaleza das Mágoas (História)." />
+  <keys prop="Description" type="monster" key="N_d06_clear_n2" value="Inimigos mais poderosos o aguardam na dificuldade Elite." />
+  <keys prop="Description" type="monster" key="N_d06_clear_h1" value="Você completou a Fortaleza das Mágoas (Elite)." />
+  <keys prop="Description" type="monster" key="N_d06_clear_h2" value="Inimigos mais poderosos o aguardam no modo Heroico." />
+  <keys prop="Description" type="monster" key="N_d06_clear_e1" value="Parabéns!" />
+  <keys prop="Description" type="monster" key="N_d06_clear_e2" value="Você completou a Fortaleza das Mágoas (Heroico)." />
+  <keys prop="Description" type="monster" key="E_d06_BossTal_01" value="Outro rato veio fazer uma visita..." />
+  <keys prop="Description" type="monster" key="E_d06_BossTal_02" value="Kyahh! Eu voltarei!" />
+  <keys prop="Description" type="monster" key="E_d06_BossMor_01" value="Não temos um convidado como você faz muito tempo. Hoo hoo." />
+  <keys prop="Description" type="monster" key="E_d06_BossMor_02" value="Aproxime-se, quero te dar um presentinho... a morte!" />
+  <keys prop="Description" type="monster" key="E_d06_BossMor_03" value="Eu sofri uma grande humilhação." />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_01" value="Você chegou muito longe. Impressionante." />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_02" value="Destrua!" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_03" value="Vou matá-lo com minhas próprias mãos!" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_04" value="Como foi que..." />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_05" value="Nós somos a Legião!" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_06" value="(Não Utilizado)" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_07" value="(Não Utilizado)" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_08" value="(Não Utilizado)" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_09" value="(Não Utilizado)" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_10" value="(Não Utilizado)" />
+  <keys prop="Description" type="monster" key="E_d06_BossMerc_11" value="(Não Utilizado)" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_01" value="Você caiu na armadilha! Agora, morra!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_02" value="Sete será o seu fim!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_03" value="Morte aos condenados!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_04" value="Hoje, eu agraciarei você com a morte!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_05" value="Vou cortar você em pedaços!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_06" value="Nos recusamos a morrer!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_07" value="Nós somos a Legião!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_08" value="A Legião Caída é imortal!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_09" value="Encontramos espólios novos!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_10" value="Um inimigo! Um inimigo!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_11" value="Meu mestre vai me libertar quando eu matar você." />
+  <keys prop="Description" type="monster" key="E_d06_immoZom_01" value="Uggghhh..." />
+  <keys prop="Description" type="monster" key="E_d06_immoZom_02" value="Que fome..." />
+  <keys prop="Description" type="monster" key="E_d06_immoZom_03" value="Uggghh..." />
+  <keys prop="Description" type="monster" key="E_d06_immoZom_04" value="Carne fresca..." />
+  <keys prop="Description" type="monster" key="E_d06_immoZom_05" value="Algo para comer..." />
+  <keys prop="Description" type="monster" key="E_d06_immoZom_06" value="Me dê..." />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_12" value="Uma provinha!" />
+  <keys prop="Description" type="monster" key="E_d06_immoMon_13" value="Hora da tortura!" />
+  <keys prop="Description" type="monster" key="E_d06_immoGos_01" value="Uma criatura de outra dimensão. Que bom não é TÃO nojenta." />
+  <keys prop="Description" type="monster" key="E_d06_immoGos_02" value="Preciso do seu corpo para explorar este mundo. Dê ele para mim!" />
+  <keys prop="Description" type="monster" key="E_d06_immoGos_03" value="Krk... É só esperar." />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_01" value="A Princesa Lania está no piso inferior da fortaleza!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_02" value="Precisamos matar o Talos Diabólico localizado no nível superior e tomar a alavanca." />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_03" value="Derrote-o e ative a alavanca para abrir o portão para o nível inferior!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_04" value="Aquele é o Talos!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_05" value="Eu vou participar também!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_06" value="Vamos encontrar a alavanca no piso superior." />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_07" value="A alavanca está no canto do piso superior." />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_08" value="O portão superior abriu!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_09" value="Eu vou primeiro. Nos vemos lá embaixo!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_10" value="Por aqui! Lá está a alavanca da central de energia." />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_11" value="Imortais à frente. Cuidado!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_12" value="O portão da central de energia abriu! Pode entrar agora!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_13" value="Temos que parar o reator de força para salvar a princesa! Vamos!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_14" value="Você derrotou Mercurius! Incrível!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_15" value="Temos que explodir o reator de força! Vá operá-lo!" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_16" value="Princesa Lania foi contaminada pela escuridão... Como isso pôde acontecer?" />
+  <keys prop="Description" type="monster" key="N_d06_Under_12" value="Ative a alavanca da sala de invocação para abrir o caminho até a sala de invocação." />
+  <keys prop="Description" type="monster" key="N_d06_Under_13" value="Ative a alavanca da sala de controle para abrir o caminho até a sala de controle." />
+  <keys prop="Description" type="monster" key="N_d06_Under_14" value="Ative a alavanca da sala de invocação." />
+  <keys prop="Description" type="monster" key="N_d06_Under_15" value="Ative a alavanca da sala de controle." />
+  <keys prop="Description" type="monster" key="E_d03_AbyssGuide_1" value="Eu sinto o poder de Killian!" />
+  <keys prop="Description" type="monster" key="E_d03_AbyssGuide_2" value="Me dê o poder de Arakan!" />
+  <keys prop="Description" type="monster" key="n_p02_bashu_01" value="Você veio nos ajudar?" />
+  <keys prop="Description" type="monster" key="n_p02_bashu_02" value="Se você não se acha capaz, então nem se apresente." />
+  <keys prop="Description" type="monster" key="n_p02_bashu_03" value="Você aguenta enfrentar o monarca da dor?" />
+  <keys prop="Description" type="monster" key="n_p02_blar_01" value="Nós somos almas que anseiam pela liberdade." />
+  <keys prop="Description" type="monster" key="n_p02_blar_02" value="Precisamos de poder para proteger a nossa liberdade." />
+  <keys prop="Description" type="monster" key="n_p02_blar_03" value="Você tem um muita determinação. Nós enxergamos essas coisas." />
+  <keys prop="Description" type="monster" key="n_p02_jellarem_01" value="Contanto que a milícia civil continue aqui, a aldeia estará a salvo." />
+  <keys prop="Description" type="monster" key="n_p02_jellarem_02" value="Vamos mostrar aos nossos inimigos que almas têm livre arbítrio!" />
+  <keys prop="Description" type="monster" key="n_p02_jellarem_03" value="Vou proteger este lugar até a minha alma desaparecer." />
+  <keys prop="Description" type="monster" key="n_p02_oilet_01" value="Você está em busca da morte?" />
+  <keys prop="Description" type="monster" key="n_p02_oilet_02" value="Eu posso sentir a raiva que os mortos têm deste lugar." />
+  <keys prop="Description" type="monster" key="n_p02_oilet_03" value="Não importa onde esteja, a morte estará sempre ao seu lado." />
+  <keys prop="Description" type="monster" key="n_p02_tabram_01" value="Hum... Como vamos lidar com isso?" />
+  <keys prop="Description" type="monster" key="n_p02_tabram_02" value="A Mesa Redonda é capaz de parar os Monarcas de Stygaea?" />
+  <keys prop="Description" type="monster" key="n_p02_tabram_03" value="Meus pensamentos viram e reviram, me torturando." />
+  <keys prop="Description" type="monster" key="n_p02_peria_01" value="Pode uma alma encontrar a paz?" />
+  <keys prop="Description" type="monster" key="n_p02_peria_02" value="Eu ouço as vozes dos meus colegas caídos ao redor do lago." />
+  <keys prop="Description" type="monster" key="n_p02_peria_03" value="Jessica? Desculpe, devo estar vendo coisas..." />
+  <keys prop="Description" type="monster" key="n_p02_tarasio_01" value="Minha verdadeira presa se esconde além da escuridão." />
+  <keys prop="Description" type="monster" key="n_p02_tarasio_02" value="Eu caço a própria escuridão." />
+  <keys prop="Description" type="monster" key="n_p02_tarasio_03" value="Os governantes de Stygaea não passam de mais um alvo para mim." />
+  <keys prop="Description" type="monster" key="n_p02_ciel_01" value="Essa energia... do vasto abismo..." />
+  <keys prop="Description" type="monster" key="n_p02_ciel_02" value="Você sente a energia que nos cerca?" />
+  <keys prop="Description" type="monster" key="n_p02_ciel_03" value="Essa energia das trevas vis... Eu nunca senti nada assim antes." />
+  <keys prop="Description" type="monster" key="n_p02_jass_01" value="Você veio até aqui, só para descer ao inferno?" />
+  <keys prop="Description" type="monster" key="n_p02_jass_02" value="Eu não estou aqui por causa dos exploradores." />
+  <keys prop="Description" type="monster" key="n_p02_jass_03" value="O que jaz ao fim dessa escuridão infernal?" />
+  <keys prop="Description" type="monster" key="n_p02_baros_01" value="Boas-vindas. Eu estava esperando por você." />
+  <keys prop="Description" type="monster" key="n_p02_baros_02" value="É um alívio ver que você está em segurança." />
+  <keys prop="Description" type="monster" key="n_p02_baros_03" value="Alguém como você seria útil para a Sociedade Mágica da Virtude." />
+  <keys prop="Description" type="monster" key="n_p02_orneta_01" value="Já conhece o meu mestre?" />
+  <keys prop="Description" type="monster" key="n_p02_orneta_02" value="Este lugar pode ser perigoso, mas como você eu meu lado eu não tenho medo." />
+  <keys prop="Description" type="monster" key="n_p02_orneta_03" value="Eu vou ajudar com o que precisar." />
+  <keys prop="Description" type="monster" key="n_p02_trick_01" value="Pode vir, desde que não cause problemas." />
+  <keys prop="Description" type="monster" key="n_p02_trick_02" value="Silêncio!" />
+  <keys prop="Description" type="monster" key="n_p02_rineta_01" value="Justiça sem poder é inútil." />
+  <keys prop="Description" type="monster" key="n_p02_rineta_02" value="A Távola Redonda vai superar qualquer obstáculo." />
+  <keys prop="Description" type="monster" key="n_p02_rineta_03" value="Precisamos de poder para proteger a justiça." />
+  <keys prop="Description" type="monster" key="e_p02_labini_01" value="Meu tesouro! Quem pegou? Eu vi ele primeiro!" />
+  <keys prop="Description" type="monster" key="e_p02_labini_02" value="Me tesouro! Meu! Não encoste!" />
+  <keys prop="Description" type="monster" key="e_p02_labini_03" value="Não encontrei tesouro nenhum..." />
+  <keys prop="Description" type="monster" key="e_p02_labini_04" value="Vou perseguir o tesouro até o fim!" />
+  <keys prop="Description" type="monster" key="e_d99_01_01" value="Não é como se eu quisesse lutar com você. Eu não tenho escolha!" />
+  <keys prop="Description" type="monster" key="e_d99_03_01" value="Eu devia ter sido melhor..." />
+  <keys prop="Description" type="monster" key="e_d99_03_02" value="Violência contra espectadores...?" />
+  <keys prop="Description" type="monster" key="e_d99_05_01" value="Prenda a respiração, e... solte..." />
+  <keys prop="Description" type="monster" key="e_d99_06_01" value="Abaixo os assassinos de árvores!" />
+  <keys prop="Description" type="monster" key="e_d99_07_01" value="A saída é por aí!" />
+  <keys prop="Description" type="monster" key="e_d99_07_02" value="Pode não parecer grande coisa, mas é saudável!" />
+  <keys prop="Description" type="monster" key="e_d99_10_01" value="Beba até o fim!" />
+  <keys prop="Description" type="monster" key="e_d99_10_02" value="E aí, que tal uma bebida?" />
+  <keys prop="Description" type="monster" key="e_d99_10_03" value="Vamos começar a festa?" />
+  <keys prop="Description" type="monster" key="e_d99_12_01" value="Q-querida..." />
+  <keys prop="Description" type="monster" key="e_d99_12_02" value="Que a nossa família encontre a paz após a morte..." />
+  <keys prop="Description" type="monster" key="e_d99_13_01" value="Nada escapa aos meus olhos." />
+  <keys prop="Description" type="monster" key="e_d99_13_02" value="Alvo na mira!" />
+  <keys prop="Description" type="monster" key="e_d99_13_03" value="Um tiro, uma morte." />
+  <keys prop="Description" type="monster" key="e_d99_14_01" value="Eu não tenho arrependimentos...!" />
+  <keys prop="Description" type="monster" key="e_d99_14_02" value="A morte... Não é bonita." />
+  <keys prop="Description" type="monster" key="e_d99_14_03" value="A vida... passa diante dos meus olhos..." />
+  <keys prop="Description" type="monster" key="e_d99_15_01_01" value="Você vão terá tempo de sacar a sua arma." />
+  <keys prop="Description" type="monster" key="e_d99_15_02_01" value="Enquanto confiarmos uns nos outros, ainda teremos uma chance..." />
+  <keys prop="Description" type="monster" key="e_d99_15_02_02" value="Enquanto houver esperança, poderemos vencer." />
+  <keys prop="Description" type="monster" key="e_d99_15_03_01" value="Ugh..." />
+  <keys prop="Description" type="monster" key="e_d99_15_03_02" value="Grr..." />
+  <keys prop="Description" type="monster" key="e_d99_15_03_03" value="Dê o... tesouro..." />
+  <keys prop="Description" type="monster" key="e_d99_15_04_01" value="Teria sido melhor se nada disso tivesse acontecido..." />
+  <keys prop="Description" type="monster" key="e_d99_17_01" value="Está sentindo todas as atenções em você?" />
+  <keys prop="Description" type="monster" key="e_d99_18_01" value="Hoje, eu sou o chef!" />
+  <keys prop="Description" type="monster" key="e_d99_18_02" value="E o prato principal... é você!" />
+  <keys prop="Description" type="monster" key="e_d99_19_01" value="Espere, não acha que tem algo de errado?" />
+  <keys prop="Description" type="monster" key="e_d99_19_02" value="Onde foi que tudo deu errado?" />
+  <keys prop="Description" type="monster" key="e_d99_20_01" value="Eu nunca serei Attaius?" />
+  <keys prop="Description" type="monster" key="e_d99_21_01_01" value="Glog glog..." />
+  <keys prop="Description" type="monster" key="e_d99_21_02_01" value="Aruuu!" />
+  <keys prop="Description" type="monster" key="e_d99_21_03_01" value="Grar..." />
+  <keys prop="Description" type="monster" key="e_d99_21_04_01" value="Hah..." />
+  <keys prop="Description" type="monster" key="e_d99_21_05_01" value="Ahh!!" />
+  <keys prop="Description" type="monster" key="e_d99_21_06_01" value="Sssss!" />
+  <keys prop="Description" type="monster" key="e_d99_21_07_01" value="Mnng..." />
+  <keys prop="Description" type="monster" key="e_d99_21_08_01" value="A única lei do mar é o código pirata!" />
+  <keys prop="Description" type="monster" key="e_d99_21_08_02" value="Meu tesouro está lá fora. Procurem!" />
+  <keys prop="Description" type="monster" key="e_d99_22_01" value="Nem a morte é para sempre." />
+  <keys prop="Description" type="monster" key="e_d99_24_01" value="Eu estou diferente?" />
+  <keys prop="Description" type="monster" key="e_d99_24_02" value="Não se preocupe comigo. Divirta-se!" />
+  <keys prop="Description" type="monster" key="e_d99_24_03" value="Faça como quiser!" />
+  <keys prop="Description" type="monster" key="e_d99_25_01_01" value="Supere isso." />
+  <keys prop="Description" type="monster" key="e_d99_25_01_02" value="Prove a força da minha magia!" />
+  <keys prop="Description" type="monster" key="e_d99_25_02_01" value="Pelos meus amigos, eu aceito me arriscar!" />
+  <keys prop="Description" type="monster" key="e_d99_25_02_02" value="Minhas pernas estão... dormentes." />
+  <keys prop="Description" type="monster" key="e_d99_25_03_01" value="E você acha que eu é que sou frio!" />
+  <keys prop="Description" type="monster" key="e_d99_25_03_02" value="Vamos brincar na neve?" />
+  <keys prop="Description" type="monster" key="e_d99_25_04_01" value="Isso... não foi legal..." />
+  <keys prop="Description" type="monster" key="e_d99_29_01_01" value="Você veio invadir o sistema? Não posso permitir... Uf!" />
+  <keys prop="Description" type="monster" key="e_d99_29_02_01" value="Eles não podem saber... Que eu morri..." />
+  <keys prop="Description" type="monster" key="e_d99_29_03_01" value="Como eu vou embora daqui?" />
+  <keys prop="Description" type="monster" key="e_d99_29_04_01" value="Você é um monstro?" />
+  <keys prop="Description" type="monster" key="e_d99_29_05_01" value="Hã, eu não tenho o item..." />
+  <keys prop="Description" type="monster" key="e_f07_rocsan_01_1" value="Um humano pisando neste solo sagrado. Que incomum." />
+  <keys prop="Description" type="monster" key="e_f07_rocsan_01_2" value="Basta aceitar o caos. Acredite, você vai se sentir muito melhor." />
+  <keys prop="Description" type="monster" key="e_f07_celfrocsan_03" value="Ahh!! Como isso pôde acontecer?" />
+  <keys prop="Description" type="monster" key="e_f07_rocsan_02" value="Vou esmagar todos que ousarem macular esta floresta!" />
+  <keys prop="Description" type="monster" key="e_f07_treetoru_01" value="Vou esmagar todos que ousarem macular esta floresta!" />
+  <keys prop="Description" type="monster" key="e_f07_treesequie_01" value="Kyoh!!" />
+  <keys prop="Description" type="monster" key="e_f07_treesequie_02" value="Kioou!!" />
+  <keys prop="Description" type="monster" key="e_f07_renan_01" value="Você não é páreo para um elfo do caos!" />
+  <keys prop="Description" type="monster" key="e_f07_renan_02" value="Morto... por alguém como você..." />
+  <keys prop="Description" type="monster" key="e_f07_cata_01_1" value="Cortem aquelas árvores." />
+  <keys prop="Description" type="monster" key="e_f07_cata_01_2" value="Esta arvoredo dará um belo acampamento!" />
+  <keys prop="Description" type="monster" key="e_f07_cata_02_1" value="O que é isto? Vermes?" />
+  <keys prop="Description" type="monster" key="e_f07_cata_02_2" value="Vou esmagar vocês!" />
+  <keys prop="Description" type="monster" key="e_f07_cata_03" value="Os Tukans... são implacáveis!" />
+  <keys prop="Description" type="monster" key="e_f07_elqufairy_01" value="Esta floresta é minha! Não vou dar ela para ninguém!" />
+  <keys prop="Description" type="monster" key="e_f07_dguard_01_1" value="Concentre-se nos seus ataques!" />
+  <keys prop="Description" type="monster" key="e_f07_dguard_01_2" value="Causem medo no coração dos elfos caos! Atacaaaar!" />
+  <keys prop="Description" type="monster" key="e_f07_dguard_02" value="Você teve sorte de chegar tão longe, mas a sua sorte acaba aqui!" />
+  <keys prop="Description" type="monster" key="e_f07_dguard_03" value="Argh!" />
+  <keys prop="Description" type="monster" key="e_f07_carmdark_01" value="Salve a escuridão!" />
+  <keys prop="Description" type="monster" key="in_f07_sick_01_1" value="Que... que dor..." />
+  <keys prop="Description" type="monster" key="in_f07_sick_01_2" value="Por favor... me ajude..." />
+  <keys prop="Description" type="monster" key="in_f07_sick_02" value="Me sinto muito melhor. Agradeço." />
+  <keys prop="Description" type="monster" key="e_f17_cabeira_01" value="Contorça-se para mim!" />
+  <keys prop="Description" type="monster" key="e_f17_cabeira_02" value="M- mas... o meu veneno..." />
+  <keys prop="Description" type="monster" key="n_f07_bellon_01" value="Kruwel! Você não fugir desta vez!" />
+  <keys prop="Description" type="monster" key="n_f07_magno_01" value="Os Cavaleiros do Dragão são antigos aliados dos elfos." />
+  <keys prop="Description" type="monster" key="n_f07_meuis_01_1" value="O mal se espalhou demais." />
+  <keys prop="Description" type="monster" key="n_f07_meuis_01_2" value="Os elfos do caos ameaçam o coração da floresta." />
+  <keys prop="Description" type="monster" key="n_f07_hemus_01_1" value="Aquela barreira é o verdadeiro problema..." />
+  <keys prop="Description" type="monster" key="n_f07_hemus_01_2" value="Estamos em desvantagem no ar." />
+  <keys prop="Description" type="monster" key="n_f07_hemus_01_3" value="Se quisermos chegar a Elgaden, não podemos deixar um único inimigo vivo em Zenus." />
+  <keys prop="Description" type="monster" key="n_f07_trent_01" value="A luz do Santuário está sumindo." />
+  <keys prop="Description" type="monster" key="n_f07_ador_02" value="Fiquem firmes! Nós somos o escudo de Elgaden!" />
+  <keys prop="Description" type="monster" key="n_f07_creoss_01_1" value="Use toda a força!" />
+  <keys prop="Description" type="monster" key="n_f07_creoss_01_2" value="Não importa o que você queira, dê o seu melhor. É assim que se vive." />
+  <keys prop="Description" type="monster" key="n_f07_creoss_01_3" value="Faça o que for preciso para proteger Elgaden." />
+  <keys prop="Description" type="monster" key="n_f07_branndiou_01" value="Não podemos sucumbir ao caos." />
+  <keys prop="Description" type="monster" key="n_f07_dine_01" value="A escuridão se aproxima." />
+  <keys prop="Description" type="monster" key="n_f07_gomora_01" value="Que as almas dos que se foram encontrem consolo na luz." />
+  <keys prop="Description" type="monster" key="n_f07_children_01" value="Quando os meus amigos vão voltar, mãe?" />
+  <keys prop="Description" type="monster" key="n_f07_civilian_08_1" value="Tantos rostos estranhos nos dias de hoje..." />
+  <keys prop="Description" type="monster" key="n_f07_civilian_08_2" value="É por causa dos elfos do caos? Ou dos magos sombrios?" />
+  <keys prop="Description" type="monster" key="n_f07_vella_01" value="Os elfos do caos vão pagar por essa profanação!" />
+  <keys prop="Description" type="monster" key="n_f07_celf_01_1" value="Não há esperança no caos." />
+  <keys prop="Description" type="monster" key="n_f07_celf_01_2" value="É tão errado ansiar pela luz?" />
+  <keys prop="Description" type="monster" key="n_f07_celf_01_3" value="Estou entre o caos e a luz. Talvez eu nunca seja inteiro..." />
+  <keys prop="Description" type="monster" key="n_f07_watchelf_01_1" value="A confiança deve ser conquistada." />
+  <keys prop="Description" type="monster" key="n_f17_lightattack_02" value="Ugh..." />
+  <keys prop="Description" type="monster" key="n_f17_asha_01_1" value="Não consigo ver os meus amigos..." />
+  <keys prop="Description" type="monster" key="n_f17_asha_01_2" value="Você viu os meus amigos?" />
+  <keys prop="Description" type="monster" key="n_f17_gaberion_01_1" value="Esta magia da morte é fascinante." />
+  <keys prop="Description" type="monster" key="n_f17_gaberion_01_2" value="Eu sou um erudito. Curiosidade faz parte da minha natureza!" />
+  <keys prop="Description" type="monster" key="n_f17_wentus_01" value="Tantas vidas perdidas, que nunca vão voltar..." />
+  <keys prop="Description" type="monster" key="n_f17_karald_01_1" value="Concentre-se no seu objetivo. Todo o seu esforço vai compensar depois." />
+  <keys prop="Description" type="monster" key="n_f17_karald_01_2" value="Pense na sua família e nos seus amigos! Só você pode protegê-los!" />
+  <keys prop="Description" type="monster" key="n_f17_karald_01_3" value="Mais empenho. Você precisa ser forte para proteger a luz." />
+  <keys prop="Description" type="monster" key="n_f17_collect_03_1" value="É o... é o nosso fim..." />
+  <keys prop="Description" type="monster" key="n_f17_collect_03_2" value="O que vamos fazer....?" />
+  <keys prop="Description" type="monster" key="n_f17_collect_07" value="Como eu faço para me destacar na multidão...?" />
+  <keys prop="Description" type="monster" key="n_f17_witch_01_1" value="Meu nome é Sermi... por ora." />
+  <keys prop="Description" type="monster" key="n_f17_witch_01_2" value="O mundo é cheio de mistérios." />
+  <keys prop="Description" type="monster" key="e_d99_30_01" value="O Pináculo de Ellora é meu!" />
+  <keys prop="Description" type="monster" key="e_d23_lastay_01" value="Você não pode me forçar a ir!" />
+  <keys prop="Description" type="monster" key="e_d23_lastay_02" value="Que tal um pouco de respeito?!" />
+  <keys prop="Description" type="monster" key="e_d23_lastay_03" value="Esta é a minha casa agora!" />
+  <keys prop="Description" type="monster" key="e_d23_lastay_04" value="Tenho todo direito de estar aqui!" />
+  <keys prop="Description" type="monster" key="e_d23_lastay_05" value="Eu não tenho mais aonde ir..." />
+  <keys prop="Description" type="monster" key="e_d23_lastay_06" value="Eu culpo... o IPTU...!" />
+  <keys prop="Description" type="monster" key="e_d23_lastay_07" value="Ninguém cuida dos pequenos Lebrini..." />
+  <keys prop="Description" type="monster" key="e_d23_lastay_08" value="Era bom demais pra durar..." />
+  <keys prop="Description" type="monster" key="e_d23_lastay_09" value="Vou começar a... fazer as malas..." />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_01" value="Dor de cabeça! Dor de dente! Dor de cenoura!" />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_02" value="Quem é o idiota AGORA?!" />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_03" value="O que esse comprimido faz? Sei lá!" />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_04" value="Efeitos colaterais incluem morte por punhalada nas costas!" />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_05" value="Eu ia ser um médico de verdade... algum dia..." />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_06" value="Meus comprimidos... são tudo placebo..." />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_07" value="Que bela... bomba..." />
+  <keys prop="Description" type="monster" key="e_d23_lapharm_08" value="Nada é melhor que medicina humana!" />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_01" value="Coma a cenoura!" />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_02" value="Chute do Trovão!" />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_03" value="Ninguém toca nas minhas cenouras orgânicas e vive!" />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_04" value="Agricultura é trabalho duro!" />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_05" value="Minhas cenouras são de morrer!" />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_06" value="Me enganaram..." />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_07" value="Eu só queria deixar o papai orgulhoso..." />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_08" value="Tudo o que eu queria... eram mais cenouras..." />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_09" value="Nenhuma cenoura é sagrada...?" />
+  <keys prop="Description" type="monster" key="e_d23_lafarm_10" value="Meu sonho... de uma fazenda feliz..." />
+  <keys prop="Description" type="monster" key="e_d23_lafence_01" value="Comprem seus itens aqui!" />
+  <keys prop="Description" type="monster" key="e_d23_lafence_02" value="Ninguém bate os meus preços!" />
+  <keys prop="Description" type="monster" key="e_d23_lafence_03" value="Não se compra juventude, mas esse relógio é tão bom quanto!" />
+  <keys prop="Description" type="monster" key="e_d23_lafence_04" value="Eu bato o preço de qualquer comerciante legítimo!" />
+  <keys prop="Description" type="monster" key="e_d23_lafence_05" value="Eu ia ficar rico..." />
+  <keys prop="Description" type="monster" key="e_d23_lafence_06" value="Uma vida desonesta... é trabalho duro..." />
+  <keys prop="Description" type="monster" key="e_d23_lafence_07" value="Desisto dessa loucura..." />
+  <keys prop="Description" type="monster" key="e_d23_lafence_08" value="Eu devia ter sido um Comerciantes da Lua Crescente..." />
+  <keys prop="Description" type="monster" key="e_d23_lablack_01" value="Nesse negócio, você precisa ter um estômago de ferro!" />
+  <keys prop="Description" type="monster" key="e_d23_lablack_02" value="Esse negócio de validade vencida não existe!" />
+  <keys prop="Description" type="monster" key="e_d23_lablack_03" value="Regra dos cinco segundos? Está mais para regra dos cinco dias!" />
+  <keys prop="Description" type="monster" key="e_d23_lablack_04" value="Por que o meu... estômago dói...?" />
+  <keys prop="Description" type="monster" key="e_d23_lablack_05" value="Que... cenoura... picante..." />
+  <keys prop="Description" type="monster" key="e_d23_lablack_06" value="Precisa de mais... açúcar..." />
+  <keys prop="Description" type="monster" key="e_d23_lapick_01" value="Quer provar?" />
+  <keys prop="Description" type="monster" key="e_d23_lapick_02" value="Cenouras roubadas são as melhores!" />
+  <keys prop="Description" type="monster" key="e_d23_lapick_03" value="Isso aqui é meu!" />
+  <keys prop="Description" type="monster" key="e_d23_lapick_04" value="Ninguém nunca caçou cenouras como eu!" />
+  <keys prop="Description" type="monster" key="e_d23_lapick_05" value="As minhas cenouras são as melhores!" />
+  <keys prop="Description" type="monster" key="e_d23_lapick_06" value="Isso é... uma armadilha..." />
+  <keys prop="Description" type="monster" key="e_d23_lapick_07" value="Eu juro que nunca mais vou roubar de novo!" />
+  <keys prop="Description" type="monster" key="e_d23_lapick_08" value="Tantas cenouras, tão pouco tempo..." />
+  <keys prop="Description" type="monster" key="e_c01_rabini_hide_01" value="Afaste-se! Eu não vou voltar!" />
+  <keys prop="Description" type="monster" key="e_c01_rabini_hide_02" value="Bem... Acho que eu deveria fugir.. " />
+  <keys prop="Description" type="monster" key="e_c01_rabini_hide_03" value="Kara! Como você encontrou ... ! " />
+  <keys prop="Description" type="monster" key="e_c01_rabini_hide_04" value="Cyan !! .. Mom is a terrific ... . " />
+  <keys prop="Description" type="monster" key="e_c01_rabini_hide_05" value="Eu avisei para fugir." />
+  <keys prop="Description" type="monster" key="e_c01_rabini_hide_06" value="He took our azit ... " />
+  <keys prop="Description" type="monster" key="d99_ghosshrin_1_1" value="O meu sonho de desejar conquistar o mundo... Ahh!" />
+  <keys prop="Description" type="monster" key="d99_ghosshrin_1_2" value="Nem na morte eu vou perdoar você!" />
+  <keys prop="Description" type="monster" key="d99_ghosshrin_2_1" value="A minha morte influenciará a Esfera de Alma...!!" />
+  <keys prop="Description" type="monster" key="d99_ghosshrin_2_2" value="Não! Não posso arriscar a Esfera de Alma!" />
+  <keys prop="Description" type="monster" key="d10_smisor_01" value="Parece que tem um rato sujo rastejando na minha mina!" />
+  <keys prop="Description" type="monster" key="d10_smisor_02" value="As pequenas coisas continuam importunando!!!" />
+  <keys prop="Description" type="monster" key="d10_smisor_03" value="Seres humanos ousam invadir meu domínio!!" />
+  <keys prop="Description" type="monster" key="d10_smisor_04" value="Cuckoo .. on the subject of the rodent .. me .. " />
+  <keys prop="Description" type="monster" key="d10_smisor_05" value="I ... to humanity .. Gideon .." />
+  <keys prop="Description" type="monster" key="d10_scoll_01" value="As coisas não acabam... " />
+  <keys prop="Description" type="monster" key="d10_scoll_02" value="Quanto tempo faz...?" />
+  <keys prop="Description" type="monster" key="d10_scoll_03" value="Ai~ Minha coluna~" />
+  <keys prop="Description" type="monster" key="d10_scoll_04" value="Quem é você? Deseja morrer?" />
+  <keys prop="Description" type="monster" key="d10_scoll_05" value="No security? I have a human here!" />
+  <keys prop="Description" type="monster" key="d10_scoll_06" value="Humano? Aqui é a terra dos Braghin!" />
+  <keys prop="Description" type="monster" key="d10_scoll_07" value="Uhh .. I have to fill failed .. " />
+  <keys prop="Description" type="monster" key="d10_scoll_08" value="Eu não..." />
+  <keys prop="Description" type="monster" key="d10_scoll_09" value="O que os guardas estão fazendo..." />
+  <keys prop="Description" type="monster" key="d10_sroya_01" value="Quem está aí?" />
+  <keys prop="Description" type="monster" key="d10_sroya_02" value="É um intruso!" />
+  <keys prop="Description" type="monster" key="d10_sroya_03" value="Você, você!" />
+  <keys prop="Description" type="monster" key="n_c01_event_03_01" value="To go to the battlefield use the dimensional cracks!" />
+  <keys prop="Description" type="monster" key="ev_202106_01" value="Eu ouvi falar da Competição de Corridas de Meca aqui em Midellas, mas me pergunto onde ela está." />
+  <keys prop="Description" type="monster" key="ev_202106_02" value="Eu quero entrar na Competição de Corrida, mas temo que os Lebrinis gêmeos venham a vencer novamente." />
+  <keys prop="Description" type="monster" key="ev_202106_03" value="Já que nós, Lebrinis, não podemos domar Familiares ... Estou usando um Meca!" />
+  <keys prop="Description" type="monster" key="ev_202106_04" value="Estou ansioso por isso! Os Lebrinis Gêmeos vencerão mais uma vez?" />
+  <keys prop="Description" type="monster" key="ev_202106_05" value="Tenho medo dos Lebrinis gêmeos ... Eles são ruins?" />
+  <keys prop="Description" type="monster" key="ev_202106_06" value="Estou animado com o concurso! Aqui vou eu!" />
+  <keys prop="Description" type="monster" key="ev_202106_07" value="O resultado da votação já saiu?" />
+  <keys prop="Description" type="monster" key="ev_202106_08" value="Obtenha o Reforço!" />
+  <keys prop="Description" type="monster" key="ev_202106_09" value="Confira o resultado das votações!" />
+  <keys prop="Description" type="monster" key="ev_202202_01_01" value="Can you marry me? No not this ambassador?" />
+  <keys prop="Description" type="monster" key="ev_202202_01_02" value="I will not be able to get a drop of water! Wait a minute we are aquatic life " />
+  <keys prop="Description" type="monster" key=" ev_202202_02_01 " value=" She's the only one who wants to be by her side. " />
+  <keys prop="Description" type="monster" key="ev_202202_02_02" value="Others are just our bridesmaids" />
+  <keys prop="Description" type="monster" key="ev_202202_03_01" value="Let's marry me! Be happy!" />
+  <keys prop="Description" type="monster" key="ev_202202_03_02" value="Did you fall in love with me?" />
+  <keys prop="Description" type="monster" key="ev_202202_04_01" value="hello We are recruiting those who will join Aits" />
+  <keys prop="Description" type="monster" key="ev_202202_04_02" value="Three -three meals offer I will find a person who wants to kill Lebe" />
+  <keys prop="Description" type="monster" key="ev_202202_04_03" value="What is your husband's candidate order? Is it a competitive industry?" />
+  <keys prop="Description" type="monster" key="ev_202304_01" value="The bundle was packed full of great clothes!" />
+  <keys prop="Description" type="monster" key="ev_202304_02" value="When we arrived at the capital city, half of the cake we brought had melted.." />
+  <keys prop="Description" type="monster" key="ev_202304_03" value="Some coins disappeared on the way!" />
+  <keys prop="Description" type="monster" key="ev_202304_04" value="I personally brought the necessary items for the 9th anniversary festival!" />
+  <keys prop="Description" type="monster" key="ev_202304_05" value="After training hard, I was craving a piece of cake... " />
+</files>

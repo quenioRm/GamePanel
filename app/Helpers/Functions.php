@@ -53,7 +53,7 @@ class Functions{
         }
     }
 
-    public static function GetNameTranslateFromXml($id, $langFolder)
+    public static function GetNameTranslateFromXml($id, $langFolder, $param = "Name")
     {
         $myfiles = array_diff(scandir('assets/gamelang/' . $langFolder), array('.', '..'));
 
@@ -66,7 +66,7 @@ class Functions{
             $phpArray = json_decode($json, true);
 
             if(!empty($phpArray)){
-                $result = Functions::FindKey($id, $phpArray);
+                $result = Functions::FindKey($id, $phpArray, $param);
                 if($result != null)
                     return $result;
             }
@@ -128,7 +128,7 @@ class Functions{
         return null;
     }
 
-    public static function FindKey($id, $phpArray, $prop = "Name")
+    public static function FindKey($id, $phpArray, $prop)
     {
         foreach ($phpArray as $key => $phpitems) {
             foreach ($phpitems as $key => $item) {

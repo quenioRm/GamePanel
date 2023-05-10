@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_win_my_target" value="Você comemora a vitória levantando os punhos na frente de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_lose_my_target" value="Você lamenta a derrota desabando na frente de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_confession_my_target" value="Você corteja [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_surprise_my_target" value="Você está chocado(a) com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_charge_my_target" value="Você manda [Target] atacar!" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_shame_my_target" value="Você olha timidamente para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_greeting_my_target" value="Você acena para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_joyful_my_target" value="Você está muito feliz em ver [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cry_my_target" value="[Target] fez você chorar." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_smile_my_target" value="Você ri de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheerup_my_target" value="Você torce por [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_mockery_my_target" value="Você zomba de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheers_my_target" value="Você torce por [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty1_my_target" value="Você desvia o olhar encabuladamente de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty2_my_target" value="Você olha dubiamente para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_refuse_my_target" value="Você recusa [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_angry_my_target" value="Você está furioso(a) com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_applause_my_target" value="Você aplaude [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_salute_my_target" value="Você saúda [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheek_my_target" value="Você dá um tapa no rosto de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_slapped_my_target" value="O tapa de [Target] enche seus olhos de água." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg2_my_target" value="Você resmunga com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_step_my_target" value="Você pisoteia [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_affirmation_my_target" value="Você concorda com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_win_others_target" value="[Actor] comemora a vitória levantando os punhos na frente de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_lose_others_target" value="[Actor] lamenta a derrota desabando na frente de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_confession_others_target" value="[Actor] corteja [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_surprise_others_target" value="[Actor] está chocado(a) com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_charge_others_target" value="[Actor] manda [Target] atacar!" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_shame_others_target" value="[Actor] olha timidamente para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_greeting_others_target" value="[Actor] acena para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_joyful_others_target" value="[Actor] está muito feliz em ver [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cry_others_target" value="[Target] fez [Actor] chorar." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_smile_others_target" value="[Actor] ri de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheerup_others_target" value="[Actor] torce por [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_mockery_others_target" value="[Actor] zomba de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheers_others_target" value="[Actor] torce por [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty1_others_target" value="[Actor] desvia o olhar encabuladamente de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty2_others_target" value="[Actor] olha dubiamente para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_refuse_others_target" value="[Actor] recusa [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_angry_others_target" value="[Actor] está furioso(a) com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_applause_others_target" value="[Actor] aplaude [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_salute_others_target" value="[Actor] saúda [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheek_others_target" value="[Actor] dá um tapa no rosto de [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_slapped_others_target" value="O tapa de [Target] enche os olhos de [Actor] de água." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg2_others_target" value="[Actor] resmunga com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_step_others_target" value="[Actor] pisoteia [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_affirmation_others_target" value="[Actor] concorda com [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_win_yours" value="[Actor] comemora a vitória levantando os punhos na sua frente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_lose_yours" value="[Actor] lamenta a derrota desabando na sua frente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_confession_yours" value="[Actor] corteja você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_surprise_yours" value="[Actor] está chocado(a) com você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_charge_yours" value="[Actor] manda você atacar!" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_shame_yours" value="[Actor] olha timidamente para você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_greeting_yours" value="[Actor] acena para você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_joyful_yours" value="[Actor] está muito feliz em ver você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cry_yours" value="Você fez [Actor] chorar." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_smile_yours" value="[Actor] ri de você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheerup_yours" value="[Actor] torce por você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_mockery_yours" value="[Actor] zomba de você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheers_yours" value="[Actor] torce por você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty1_yours" value="[Actor] desvia o olhar encabuladamente de você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty2_yours" value="[Actor] olha dubiamente para você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_refuse_yours" value="[Actor] declines you." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_angry_yours" value="[Actor] está furioso(a) com você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_applause_yours" value="[Actor] aplaude você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_salute_yours" value="[Actor] saúda você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheek_yours" value="[Actor] dá um tapa no seu rosto." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_slapped_yours" value="O seu tapa enche os olhos de [Actor] de água." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg2_yours" value="[Actor] resmunga para você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_step_yours" value="[Actor] pisoteia você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_affirmation_yours" value="[Actor] concorda com você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_win_my_notarget" value="Você comemora a vitória levantando os punhos." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_lose_my_notarget" value="Você lamenta a derrota desabando." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_confession_my_notarget" value="Você implora que alguém lhe dê um pouco de amor." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_surprise_my_notarget" value="Você dá um passo atrás em estado de choque." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_charge_my_notarget" value="Você manda todos atacarem!" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_shame_my_notarget" value="Você olhar ao redor timidamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_greeting_my_notarget" value="Você acena." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_joyful_my_notarget" value="Você se sente muito feliz." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cry_my_notarget" value="Você chora como um bebê." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_smile_my_notarget" value="Você ri." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheerup_my_notarget" value="Você torce &quot;cordialmente&quot;." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_mockery_my_notarget" value="Você faz um gesto de zombaria." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheers_my_notarget" value="Você torce." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty1_my_notarget" value="Você desvia o olhar encabuladamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty2_my_notarget" value="Você parece ter dúvidas." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_refuse_my_notarget" value="Você recusa categoricamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_angry_my_notarget" value="Você perde a paciência." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_applause_my_notarget" value="Você aplaude." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_salute_my_notarget" value="Você saúda." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheek_my_notarget" value="Você dá um tapa no ar." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_slapped_my_notarget" value="Seus olhos se enchem de água." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg2_my_notarget" value="Você resmunga." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_step_my_notarget" value="Você pisoteia." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_affirmation_my_notarget" value="Você balança a cabeça afirmativamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_win_others_notarget" value="[Actor] comemora a vitória levantando os punhos." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_lose_others_notarget" value="[Actor] lamenta a derrota." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_confession_others_notarget" value="[Actor] implora que alguém lhe dê um pouco de amor." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_surprise_others_notarget" value="[Actor] dá um passo atrás em estado de choque." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_charge_others_notarget" value="[Actor] manda todos atacarem!" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_shame_others_notarget" value="[Actor] olha ao redor timidamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_greeting_others_notarget" value="[Actor] acena." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_joyful_others_notarget" value="[Actor] se sente muito feliz." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cry_others_notarget" value="[Actor] chora como um bebê." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_smile_others_notarget" value="[Actor] ri." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheerup_others_notarget" value="[Actor] torce &quot;cordialmente&quot;." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_mockery_others_notarget" value="[Actor] faz um gesto de zombaria." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheers_others_notarget" value="[Actor] torce." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty1_others_notarget" value="[Actor] desvia o olhar encabuladamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty2_others_notarget" value="[Actor] parece ter dúvidas." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_refuse_others_notarget" value="[Actor] recusa categoricamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_angry_others_notarget" value="[Actor] perde a paciência." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_applause_others_notarget" value="[Actor] aplaude." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_salute_others_notarget" value="[Actor] saúda." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_cheek_others_notarget" value="[Actor] dá um tapa no ar." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_slapped_others_notarget" value="Os olhos de [Actor] enchem de água." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg2_others_notarget" value="[Actor] resmunga." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_step_others_notarget" value="[Actor] pisoteia." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_affirmation_others_notarget" value="[Actor] balança a cabeça afirmativamente." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_costumeani_my_target" value="Você exibe seu traje para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_costumeani_others_target" value="[Actor] exibe o seu traje para [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_costumeani_yours" value="[Actor] exibe seu traje para você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_costumeani_my_notarget" value="Você exibe seu traje." />
+  <keys prop="Description" type="monster" key="chatmsg_emotion_costumeani_others_notarget" value="[Actor] exibe o seu traje." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sneer_my_target" value="You sneer at [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sneer_others_target" value="[Actor] sneers at [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sneer_yours" value="[Actor] sneers at you." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sneer_my_notarget" value="You sneer." />
+  <keys prop="Description" type="monster" key="chatmsg_emotion_sneer_others_notarget" value="[Actor] sneers." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_yell_my_target" value="You are delighted and dancing." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_yell_others_target" value="[Actor] is dancing with joy." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_yell_yours" value="[Actor] is delighted to see you." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_yell_my_notarget" value="You are delighted and dancing." />
+  <keys prop="Description" type="monster" key="chatmsg_emotion_yell_others_notarget" value="[Actor] is dancing with joy" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sad_my_target" value="You are sad with tears watching [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sad_others_target" value="[Actor] shed tears when he saw [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sad_yours" value="[Actor] sheds tears as he looks at you." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_sad_my_notarget" value="You are in tears." />
+  <keys prop="Description" type="monster" key="chatmsg_emotion_sad_others_notarget" value="[Actor] shed his tears." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty_my_target" value="You squat to [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty_others_target" value="[Actor] sees [Target] and squats" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty_yours" value="[Actor] squatting at you" />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_penalty_my_notarget" value="You squat." />
+  <keys prop="Description" type="monster" key="chatmsg_emotion_penalty_others_notarget" value="[Actor] is squatting." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_pushup_my_target" value="You push up with [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_pushup_others_target" value="[Actor] sees [Target] and pushes up." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_pushup_yours" value="[Actor] looks at you and pushes up." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_pushup_my_notarget" value="You push up." />
+  <keys prop="Description" type="monster" key="chatmsg_emotion_pushup_others_notarget" value="[Actor] pushes up." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg_my_target" value="Você implora a [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg_others_target" value="[Actor] implora a [Target]." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg_yours" value="[Actor] implora a você." />
+  <keys prop="Description" type="monster" key="ChatMsg_emotion_beg_my_notarget" value="Você implora." />
+  <keys prop="Description" type="monster" key="chatmsg_emotion_beg_others_notarget" value="[Actor] begs." />
+</files>

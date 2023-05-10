@@ -8,9 +8,14 @@ use App\Helpers\Functions;
 
 class IcarusWikiApiController extends Controller
 {
-    public function GetIconFromItem($itemId)
+    public function GetItemDescription($itemId)
     {
-        return Functions::GetNameTranslateFromXml($itemId, "pt-BR");
-        return Functions::FindElementInGameBin($itemId, "icon");
+        $item = [
+            'name' => Functions::GetNameTranslateFromXml($itemId, "pt-BR"),
+            'description' => Functions::GetNameTranslateFromXml($itemId, "pt-BR", "Description"),
+            'icon' => Functions::FindElementInGameBin($itemId, "icon")
+        ];
+
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => $item, 'errors' => null], 'resultData' => null, 'returnUrl' => '' ], 200);
     }
 }

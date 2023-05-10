@@ -265,18 +265,27 @@
   <keys prop="Description" type="item" key="WE9_006_5_7001" value="Bloodless Crossbow" />
   <keys prop="Description" type="item" key="WE8_007_5_7001" value="Bloodless Lance" />
   <keys prop="Description" type="item" key="WE11_008_5_7001" value="Bloodless Magic Wand" />
-  <keys prop="Description" type="item" key="EV0_001_5_6004" value="마신 젤나리스의 한손검 (3시간)" />
-  <keys prop="Description" type="item" key="EV4_002_5_6004" value="마신 젤나리스의 단검 (3시간)" />
-  <keys prop="Description" type="item" key="EV6_003_5_6004" value="마신 젤나리스의 양손지팡이 (3시간)" />
-  <keys prop="Description" type="item" key="EV1_004_5_6004" value="마신 젤나리스의 양손검 (3시간)" />
-  <keys prop="Description" type="item" key="EV5_005_5_6004" value="마신 젤나리스의 한손지팡이 (3시간)" />
-  <keys prop="Description" type="item" key="EV7_006_5_6004" value="마신 젤나리스의 단궁 (3시간)" />
-  <keys prop="Description" type="item" key="EV11_S001_0_0063" value="마신 젤나리스의 한손 마법봉 (3시간)" />
-  <keys prop="Description" type="item" key="EV0_001_5_6005" value="마신 젤나리스의 한손검 (7일)" />
-  <keys prop="Description" type="item" key="EV4_002_5_6005" value="마신 젤나리스의 단검 (7일)" />
-  <keys prop="Description" type="item" key="EV6_003_5_6005" value="마신 젤나리스의 양손지팡이 (7일)" />
-  <keys prop="Description" type="item" key="EV1_004_5_6005" value="마신 젤나리스의 양손검 (7일)" />
-  <keys prop="Description" type="item" key="EV5_005_5_6005" value="마신 젤나리스의 한손지팡이 (7일)" />
-  <keys prop="Description" type="item" key="EV7_006_5_6005" value="마신 젤나리스의 단궁 (7일)" />
-  <keys prop="Description" type="item" key="EV11_S001_0_0064" value="마신 젤나리스의 한손 마법봉 (7일)" />
+  <keys prop="Description" type="item" key="EV0_001_5_6004" value="Zelnaris Rental Sword(3 hours)" />
+  <keys prop="Description" type="item" key="EV4_002_5_6004" value="Zelnaris Rental Dagger(3 hours)" />
+  <keys prop="Description" type="item" key="EV6_003_5_6004" value="Zelnaris Rental Staff(3 hours)" />
+  <keys prop="Description" type="item" key="EV1_004_5_6004" value="Zelnaris Rental Greatsword (3 hours)" />
+  <keys prop="Description" type="item" key="EV5_005_5_6004" value="Zelnaris Rental Scepter (3 hours)" />
+  <keys prop="Description" type="item" key="EV7_006_5_6004" value="Zelnaris Rental Shortbow (3 hours)" />
+  <keys prop="Description" type="item" key="EV11_S001_0_0063" value="Zelnaris Rental Magic Wand (3 hours)" />
+  <keys prop="Description" type="item" key="EV0_001_5_6005" value="Zelnaris Rental Sword(7 days)" />
+  <keys prop="Description" type="item" key="EV4_002_5_6005" value="Zelnaris Rental Dagger(7 days)" />
+  <keys prop="Description" type="item" key="EV6_003_5_6005" value="Zelnaris Rental Staff(7 days)" />
+  <keys prop="Description" type="item" key="EV1_004_5_6005" value="Zelnaris Rental Greatsword(7 days)" />
+  <keys prop="Description" type="item" key="EV5_005_5_6005" value="Zelnaris Rental Scepter(7 days)" />
+  <keys prop="Description" type="item" key="EV7_006_5_6005" value="Zelnaris Rental Shortbow(7 days)" />
+  <keys prop="Description" type="item" key="EV11_S001_0_0064" value="Zelnaris Rental Magic Wand(7 days)" />
+  <keys prop="Name" type="item" key="WE0_001_5_8001" value="Velzeroth Sword" />
+  <keys prop="Name" type="item" key="WE4_002_5_8001" value="Velzeroth Dagger" />
+  <keys prop="Name" type="item" key="WE6_003_5_8001" value="Velzeroth Staff" />
+  <keys prop="Name" type="item" key="WE1_004_5_8001" value="Velzeroth Greatsword" />
+  <keys prop="Name" type="item" key="WE5_005_5_8001" value="Velzeroth Scepter" />
+  <keys prop="Name" type="item" key="WE7_006_5_8001" value="Velzeroth Shortbow" />
+  <keys prop="Name" type="item" key="WE9_006_5_8001" value="Velzeroth Crossbow" />
+  <keys prop="Name" type="item" key="WE8_007_5_8001" value="Velzeroth Lance" />
+  <keys prop="Name" type="item" key="WE11_008_5_8001" value="Velzeroth Magic Wand" />
 </files>

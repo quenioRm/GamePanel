@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_1_Title" value="Guerra Relâmpago" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_1_RewarderDesc" value="Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_1_Request_Text" value="O objetivo de uma batalha real é um apelo rápido: a tropa terrestre de inimigos está pressionando a guarnição, então não há razão para lidar com todos eles. Temos que derrotar o comandante primeiro e quebrar o moral do inimigo. &lt;br&gt;Certo?! Ótimo. [UserName]!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_1_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Siga pela passagem e você vai encontrar Pella, um dos líderes dos saqueadores. Acabe com ele e seus lacaios. Estou ansioso para ver se sua reputação nas terras altas é merecida." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_1_Accepted_Text" value="Precisamos extinguir o fogo!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_1_Ongoing_Text" value="Depressa, vá até o Comandante Pella e bombardeie-o." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_1_Complete_Text" value="Parece que você merece a sua reputação, afinal. Bom trabalho." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_2_Title" value="Bombas de Fogo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_2_RewarderDesc" value="Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_2_Request_Text" value="Que a ruína acabe com os saqueadores e suas bombas! Nós protegemos o acampamento, mas alguns de nossos suprimentos na área estão pegando fogo. Pegue esse balde e cuide disso." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_2_Accepted_Text" value="Apague as chamas!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_2_Ongoing_Text" value="Se você estiver com dúvida sobre quais suprimentos deve apagar, aqui vai uma dica: são os que estão pegando fogo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_2_Complete_Text" value="Bom trabalho. Aquelas bombas fizeram uma bagunça..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_Title" value="Garanta a Segurança na Passagem" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_RewarderDesc" value="Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_Request_Text" value="Os inimigos instalaram uma bomba na passagem. &lt;br&gt;Você acha que vamos morrer se a bomba explodir? Eles estão todos vivendo juntos! &lt;br&gt;&lt;br&gt;Você não acha que é uma boa ideia nos livrarmos das bombas? Hm... Se você desmantelar as bombas, você será capaz de impedi-las de serem detonadas. &lt;br&gt;&lt;br&gt;Haverá bombas escondidas sob os corredores, procurando pelos corredores e desmantelando as bombas." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_Accepted_Text" value="Onde eles conseguiram tantas bombas, afinal?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_Ongoing_Text" value="Não podemos relaxar enquanto aquelas bombas estão prestes a explodir. Cuide disso!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0001_Complete_Text" value="Ha! Imagine o olhar na cara daqueles desgraçados quando perceberem que suas bombas não explodiram! Ótimo trabalho." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0002_Title" value="Defesa Total" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0002_RewarderDesc" value="Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0002_Request_Text" value="Bandos de saqueadores estiveram vagando fora do acampamento, procurando fraquezas. Duvido que vão encontrar alguma, mas prefiro não arriscar. Encontre-os e mate-os antes que possam se reportar ao chefe deles." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0002_Accepted_Text" value="Não podemos deixá-los verem nossas fraquezas!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0002_Ongoing_Text" value="Nada de bom virá em deixar patrulhas de saqueadores irem e virem como bem entenderem. Eu deixo essa questão em suas mãos." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0002_Complete_Text" value="Aqueles patrulheiros podem até ter tido olhos afiados, mas não eram lutadores. Não comparados a você, pelo menos. " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0003_Title" value="Missão de Recuperação " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0003_RewarderDesc" value="Soldado Raso Sorina" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0003_Request_Text" value="Eu mantive um olhar atento nos saqueadores e eles não parecem ter um armazém ou um lugar para guardar as mercadorias roubadas. Estão mesmo carregando todos esses suprimentos em si? Se for assim, nosso trabalho é mais fácil. Ajude-me a caçar os saqueadores e pegar de volta tudo que roubaram." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0003_Accepted_Text" value="Aqueles suprimentos pertencem aos Cavaleiros do Dragão!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0003_Ongoing_Text" value="Não podemos deixá-los escapar! " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0003_Complete_Text" value="Eu sabia! Agradeço, [UserName]. Faremos bom uso destes suprimentos." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0004_Title" value="Distância Notável" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0004_RewarderDesc" value="Soldado Raso Zellan" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0004_Request_Text" value="Os saqueadores estão tentando nos encurralar. Já é bem ruim ter que enfrentá-los no chão, mas seus perversos familiares os tornam uma ameaça até quando voamos! Poderíamos tentar nos manter próximos ao nível do mar, mas os Skanners que eles domaram atacam qualquer um que tente se aproximar pela água. Você poderia diminuir o bando de Skanners abaixo da passagem?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0004_Accepted_Text" value="Se não conseguirmos parar seus familiares, jamais derrotaremos os saqueadores." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0004_Ongoing_Text" value="Os Skanners debaixo da passagem serão um problema para nós depois. Eu sinto isso." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0004_Complete_Text" value="Ótimo. Talvez agora teremos espaço para lançar um contra-ataque." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0005_Title" value="O Ataque Começa" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0005_RewarderDesc" value="Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0005_Request_Text" value="Sabia que era apenas uma questão de tempo antes que os canhões dos inimigos fossem abatidos, mas pensei em uma boa solução. Imaginei que eles seriam úteis em algum momento, mas não sabia que eles seriam usados tão rapidamente. &lt;br&gt;&lt;br&gt; Quero que você destrua os canhões usando bombas. &lt;br&gt;&lt;br&gt;Vamos nos vingar em breve! Fale com Jinta'rahn no local de construção!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0005_Accepted_Text" value="Algo deve ser feito a respeito daquele canhão." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0005_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0005_Complete_Text" value="Você está chegando da guarnição agora? E já explodiu os inimigos com uma bomba? &lt;br&gt;Haha! Que belo exemplo de ser humano! &lt;br&gt;&lt;br&gt; Então eu, Comandante Bakir, escreverei uma carta de recomendação sobre essa pessoa eficaz que me encaminharam!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0006_Title" value="O Auteur" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0006_RewarderDesc" value="Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0006_Request_Text" value="Agora que as coisas estão sob controle aqui, eu preciso de alguém para checar o local de construção acima da passagem. Jinta'rahn faz um bom trabalho, mas ele precisa... Bem, apenas vá lá e certifique-se de que está tudo bem." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0006_Accepted_Text" value="Compareça ao local de construção." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0006_Ongoing_Text" value="Até que enfim enviaram alguém para ajudar! Como vocês esperam que eu faça a minha arte sem braços fortes para me auxiliar?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0006_Complete_Text" value="Até que enfim enviaram alguém para ajudar! Como vocês esperam que eu faça a minha arte sem braços fortes para me auxiliar?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0007_Title" value="Defendendo as Torres de Vigia" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0007_RewarderDesc" value="Soldado Raso Sorina" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0007_Request_Text" value="Os saqueadores não desistirão facilmente. Seus canhoneiros estão procurando por brechas em nossas defesas e eu vi que estão de olho em nossas torres de vigia. Quero que você os ache na ilha aqui perto e acabe com eles." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0007_Accepted_Text" value="Canhões são inúteis sem alguém para operá-los." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0007_Ongoing_Text" value="Não adianta mais escorar as nossas defesas. Nós precisamos ir para a ofensiva." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0007_Complete_Text" value="É realmente verdade. Uma ofensa forte é a melhor defesa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0008_Title" value="Os Saqueadores Skan" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0008_RewarderDesc" value="Soldado Raso Sorina" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0008_Request_Text" value="Se a equipe de comando que lidera os inimigos não entrar em colapso, isso continuará sendo uma perda de tempo, e não acho que isso faça sentido. Não é uma opção, mas uma obrigação, derrotar o comandante Skrim, que dirige o ataque à guarnição.&lt;br&gt;&lt;br&gt; Interrompa o ataque do inimigo na ilha flutuante a 240m de altitude." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0008_Accepted_Text" value="Corte a cabeça, e o corpo irá cair." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0008_Ongoing_Text" value="Agora é a hora para a ação decisiva. Rápido! Skrim aguarda!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0008_Complete_Text" value="Eu mal posso esperar para ver o que irá acontecer com os saqueadores agora que Skrim se foi." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0009_Title" value="Domínio Aéreo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0009_RewarderDesc" value="Soldado Raso Zellan" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0009_Request_Text" value="Há algumas pessoas que pensam que os inimigos são poderosos e fortes porque têm o poder de fogo dos canhões. Na verdade, eles são fortes porque estão tomando o controle do ar. Dome uma das corujas avistadas do outro lado da ilha flutuante, a 130m de altitude. &lt;br&gt;&lt;br&gt;Precisamos parar o controle aéreo dos inimigos." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0009_Accepted_Text" value="A única forma de vencer esta batalha é assumir o controle do ar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0009_Ongoing_Text" value="Tenha cuidado com as corujas. Elas podem não ter cavaleiros, mas elas são cruéis e não irão hesitar em conspirar contra você." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0009_Complete_Text" value="Bom trabalho. Nós ainda devemos restaurar a lei e a ordem neste lugar!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0010_Title" value="Oponentes Desagradáveis" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0010_RewarderDesc" value="Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0010_Request_Text" value="Esses saqueadores tolos não apreciam minha arte! Nem soldados comuns como você, é claro, mas você tem o dever de proteger e servir. Então proteja-me e sirva-me nos livrando dos desagradáveis saqueadores que ficam interrompendo meu trabalho!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0010_Accepted_Text" value="Tantas interrupções para a minha arte. Faça-os parar!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0010_Ongoing_Text" value="Estou muito incomodado para te dar meu autógrafo. Faça algo sobre esses saqueadores, sim?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0010_Complete_Text" value="Os saqueadores, mortos? Bom, bom!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0011_Title" value="Mineração de Opalium" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0011_RewarderDesc" value="Mazu'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0011_Request_Text" value="Os saqueadores são um incômodo, mas isso não significa que não temos um trabalho a fazer. Jinta'rahn precisa de opalium, e ele espera que EU vá buscar. Eu não sou um minerador! Você, no entanto... Você pode me ajudar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0011_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Há depósitos de opalium flutuando por cima das ilhas ao sul daqui. Eu só preciso de 4 por enquanto." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0011_Accepted_Text" value="Seja bem cuidadoso. As coisas poderiam dar horrivelmente errado se... Eu não quero nem pensar nisso!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0011_Ongoing_Text" value="Nada de opalium ainda, hein? Talvez precisemos mesmo de contratar um mineiro, afinal... " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0011_Complete_Text" value="Estas amostras não são nada ruins. Você tem um olho de crokhoon para esse tipo de coisa. Dá pra perceber." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0012_Title" value="Levado Para Longe" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0012_RewarderDesc" value="Mazu'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0012_Request_Text" value="Durante nosso último carregamento de suprimentos, os saqueadores nos fizeram uma visita. Conseguimos nos defender, mas alguns de nossos suprimentos caíram no mar. E eu não posso fazer absolutamente nada sem minhas ferramentas." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0012_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Você tem um familiar voador, não tem? Você pode rapidamente voar para perto da água e pescar nossas coisas de lá." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0012_Accepted_Text" value="Minhas coisas estão provavelmente flutuando para longe..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0012_Ongoing_Text" value="Vá com calma. Não é como se estivéssemos com pressa de arrumar o lugar. Tenho certeza que as fazendas vão ficar bem, cercadas por saqueadores, sem nenhuma conexão segura com o continente." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0012_Complete_Text" value="Você trabalha rápido. Ótimo..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0013_Title" value="Aves de Fardo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0013_RewarderDesc" value="Guarda de Familiares&#xD;&#xA;Juan" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0013_Request_Text" value="Meus planadores eram os melhores. Aves puro-sangue diretamente de Akrat. Mas todos eles fugiram, e agora estão a uns 190 metros acima do local de construção. Você vai me ajudar, não vai? Cerque-os e coloque pedras de selo neles para que não possam fugir novamente." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0013_Accepted_Text" value="Eu amo aqueles pássaros..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0013_Ongoing_Text" value="Eu trabalhei muito cuidando daqueles pássaros. Se meu chefe descobrir que eles todos fugiram, eu serei despedido. " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0013_Complete_Text" value="Eu achei que jamais ia vê-los novamente! Depois de um treinamento, eles estarão transportando pedra para o local rapidinho." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0019_Title" value="Rações dos Trabalhadores" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0019_RewarderDesc" value="Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0019_Request_Text" value="Tem algo errado nas fazendas acima de nós. Elas deveriam ser perfeitas -- eu as projetei, afinal -- mas as mudas não estão crescendo tão rápido quanto deveriam. Traga-me algumas cenouras e melancias para que eu possa descobrir o que deu errado. Não posso deixar isso manchar meu nome. Além disso, como eu poderia criar arte com um estômago vazio?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0019_Accepted_Text" value="Por que cenouras e melancias crescem tão devagar?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0019_Ongoing_Text" value="Cada minuto que você perde é um minuto em que eu poderia estar criando mágica!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0019_Complete_Text" value="Eu vou pedir aos meninos para olharem isso. Nada mal." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_Title" value="Para o Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_Request_Text" value="Seu próximo destino é uma ilha flutuante chamada Utran, mas não acho que você conseguirá ir até lá com seu familiar atual. &lt;br&gt;&lt;br&gt;Dome um Lynic ao redor do Forte de Baellas.&lt;br&gt;&lt;br&gt;Se você estiver em um Lynic, será capaz de alcançar Utran." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_Accepted_Text" value="Está cerca de 130m a 200m acima do nível do mar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_Ongoing_Text" value="Você ainda não domou Lynic? Ele está pairando por perto, a cerca de 130m de altitude." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_Complete_Text" value="Ok, agora tudo está acabado." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0014_Title" value="Controle de Doenças" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0014_RewarderDesc" value="Famku'shan" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0014_Request_Text" value="Eu cultivo. Eu cozinho. Eu não luto contra fadas ou Lebrinis. Se me perguntar, nós deveremos esperar e deixar os sujeitos se cansarem do local e afastarem-se por si sós. Mas o chefe insistiu que eu desse uma olhada lá. E eu notei que algumas das mudas estão doentes." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0014_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Eu não posso fazer nada a respeito, mas você pode. Voe para as fazendas acima e pegue as mudas doentes antes que a doença se espalhe. Eu ficarei aqui para ter certeza de que o local de construção não flutue para longe." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0014_Accepted_Text" value="Agradeço a sua ajuda." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0014_Ongoing_Text" value="Estou com as coisas no controle aqui. Sério. As fazendas são todas suas." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0014_Complete_Text" value="Agradeço. Odiaria que todos nós adoecêssemos por culpa de um ensopado contaminado." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_1_Title" value="Familiar Mestre do Mar" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_1_RewarderDesc" value="Watson" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_1_Request_Text" value="O famoso estudioso, Watson, está aqui para pesquisas. Ele deve conseguir te ajudar a domar Lynic." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_1_Accepted_Text" value="Encontre aquele seleiro criador." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_1_Ongoing_Text" value="Posso ajudar?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_1_Complete_Text" value="Sim, sim, eu escrevi muitos livros a respeito de familiares. Você é um aspirante a pesquisador?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_2_Title" value="Pergaminho Silenciador" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_2_RewarderDesc" value="Watson" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_2_Request_Text" value="Se você me ajudar na minha pesquisa, te ajudarei a domar o Lynic. Estou estudando o ecossistema do mar. Eu acredito que a essência da luz do oceano é a chave para entender tudo, mas os aguls e os merumi do Recife Arco-Íris estão a acumulando, junto com os asas-do-mar listrados voando sobre o Arquipélago Berilo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_2_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Retorne com a essência e você terá minha ajuda. Os inimigos no Recife Arco-Íris são bastante fortes. Você pode experimentar ir contra as Asamar menos formidáveis, mas elas têm menos chances de ter a Essência da Luz Oceânica consigo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_2_Accepted_Text" value="Eu não ligo para como você irá pegar a essência. Só pegue." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_2_Ongoing_Text" value="Retorne com a essência e você terá minha ajuda. Os Aguls e os Merumis no Recife Arco-íris são bastante fortes. Você pode experimentar ir contra as Asamar menos formidáveis, mas elas têm menos chances de ter a Essência da Luz Oceânica consigo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0015_2_Complete_Text" value="Essas essências irão servir. Como prometido, me deixe te contar sobre o Pergaminho Silenciador. Esse item maravilhoso absorve todo o barulho nos arredores, prevenindo o Lynic de usar seus ataques supersônicos. Irei escrever as instruções sobre como criar um para você." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0016_Title" value="Fonte de Água" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0016_RewarderDesc" value="Famku'shan" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0016_Request_Text" value="Nós temos um problema com água. Eles costumavam me mandar levar água do continente, mas, com todo o burburinho, eles meio que não podem mais me pedir para fazer isso. Entretanto, eu acho que vi uma nascente em uma ilha a uns 400 metros acima daqui. Me traga uma amostra e eu verei se ela é boa.  " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0016_Accepted_Text" value="Agradeço a sua ajuda." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0016_Ongoing_Text" value="Se você estiver tendo problemas para encontrar a nascente, só voe o mais alto que puder." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0016_Complete_Text" value="Agora é hora de ver se a água é boa! Vou começar dando um pouco para o Mazu'rahn e ver se ele fica doente." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0017_Title" value="Infestação de Fadas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0017_RewarderDesc" value="Comerciante&#xD;&#xA;Ku'khat" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0017_Request_Text" value="As fazendas têm sido praticamente tomadas pelas fadas. As pirralhinhas de asas deixam os negócios difíceis para crokhoons honestos e trabalhadores como eu, e a pirralha rainha é a pior de todas. Se você quiser acabar com a Rainha Lumiterna e sua guarda-pirralha, há moedas nela para você. Ela está em uma ilha a uns 400 metros acima." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0017_Accepted_Text" value="Faça-os ir embora. Faça-os ir embora!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0017_Ongoing_Text" value="Nenhum progresso com as fadas pirralhas, hein? Faça logo isso." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0017_Complete_Text" value="Estou grato que alguém finalmente decidiu vir e ajudar. Aqui, você mereceu isso." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0018_Title" value="Temporada de Lebrini Aberta" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0018_RewarderDesc" value="Ku'khat" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0018_Request_Text" value="Famku trabalha nos campos, mas é o MEU capital que pagou pelas sementes, então aquelas são as MINHAS mudas. Como eu deveria saber que os Lebrini iriam vir de longe para o mar só para roubar nossas cenouras? Os pestinhas peludos estão nos saqueando sem percebermos. Voe até as fazendas e expulse-as de lá, antes que elas me roubem completamente!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0018_Accepted_Text" value="Minhas mudas! Por favor, traga-as de volta!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0018_Ongoing_Text" value="Não se sinta mal por matar os Lebrini. Não é como se eles fossem pessoas de verdade." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0018_Complete_Text" value="Bem feito para aqueles malucos orelha-de-coelho! Acredito que te devo algumas moedas." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0020_Title" value="Iniciando o Contra-ataque" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0020_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0020_Request_Text" value="As bombas usadas pelos inimigo são dignas de seu poder. Ele disse que os inimigos plantaram bombas nos arredores, e parece que Corvo estava interessado no método.&lt;br&gt;&lt;br&gt; Você pode encontrar os detonadores perto das ilhas, no caminho para o Local de Construção." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0020_Accepted_Text" value="Livre-se dos inimigos, consiga as bombas e devolva-as para Corvo!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0020_Ongoing_Text" value="Tome cuidado com aqueles explosivos. Você não me serve de nada se estiver morto." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0020_Complete_Text" value="Eis uma bomba de qualidade. &lt;br&gt;Ainda chegará o dia em que testaremos seu poder." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0021_Title" value="Patrulha Avançada" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0021_RewarderDesc" value="Ferard" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0021_Request_Text" value="Precisamos conhecer o inimigo para planejar o ataque. Pensei em alguns lugares onde Rondo poderia ir e encaminhei a Ordem Ônix para me instruir a coletar informações. &lt;br&gt;&lt;br&gt; Recebi um chamado da ilha flutuante de Utran. Com base nas informações que coletaram, a operação será estabelecida em breve.&lt;br&gt;&lt;br&gt; Encontre-o em Utran, ao norte do Forte de Baellas. A ilha de Utran está a 510m de altitude, por isso certifique-se de ir com um familiar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0021_Accepted_Text" value="Ferard está esperando por você." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0021_Ongoing_Text" value="Shh! Corvo te enviou?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0021_Complete_Text" value="Shh! Corvo te enviou?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_Title" value="Cortando as Asas do Inimigo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_RewarderDesc" value="Ordem Ônix&#xD;&#xA;Cynth" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_Request_Text" value="Os saqueadores são mais fortes quando estão no ar. Enquanto eles conseguirem continuar treinando mais familiares voadores, um ataque em Utran vai ser impossível. Você acha que consegue dar conta dos treinadores deles para mim? Tem um grupo deles a aproximadamente 260 metros acima do Bery" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_Accepted_Text" value="Isso deve amolecê-los." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_Ongoing_Text" value="Os saqueadores estão por ali. Boa sorte." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_Complete_Text" value="Os saqueadores devem estar sofrendo agora. Para o azar deles, nós não terminamos ainda." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_1_Title" value="Sabotagem" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_1_RewarderDesc" value="Ferard" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_1_Request_Text" value="Utran é basicamente uma fortaleza voadora. Nós não temos tempo ou recursos humanos para tomá-la à força. Não, precisamos ser engenhosos... Me ajude a varrer os marinheiros. Nós retiramos seu pessoal de manutenção, e as coisas começam a desmoronar na base deles. Vamos lá." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_1_Accepted_Text" value="Corte a cabeça, e o resto irá cair." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_1_Ongoing_Text" value="Tome cuidado. Os outros saqueadores não vão gostar de saber que você está atacando os companheiros deles." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0022_1_Complete_Text" value="Estamos um passo mais perto de tomar Utran." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0023_Title" value="Pelos Chifres" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0023_RewarderDesc" value="Cynth" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0023_Request_Text" value="Precisamos de você no ar, agora! Um dos figurões dos saqueadores está procurando quem tem atrapalhado as operações deles. Paulo Cavaleiro do Sol tem a reputação de ser o primeiro a entrar em batalha e não fazer prisioneiros. Se você acabar com ele, os saqueadores perderão um de seus lutadores mais fortes. Nós o vimos perto de Utran, a cerca de 380 metros acima do nível do mar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0023_Accepted_Text" value="Não subestime nossos inimigos." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0023_Ongoing_Text" value="O que houve com Paulo Cavaleiro do Sol? " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0023_Complete_Text" value="O Cavaleiro do Sol matou mais marinheiros inocentes do que deveria. Este foi um ato de justiça." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_Title" value="O Estudioso Perdido " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_RewarderDesc" value="Professor Mezaks" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_Request_Text" value="Nós fomos alertados do ataque dos saqueadores pelo Professor Mezaks. Entretanto, nós perdemos contato com ele dias atrás. A última notícia que tivemos é que ele estava em uma ilha a uns 250 metros acima do Arquipélago de Beryl. Encontre-o e descubra o que aconteceu." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_Accepted_Text" value="Um cavaleiro não deveria ter medo de morrer pelo que é certo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_Ongoing_Text" value="Você ainda está aqui? Vá, depressa!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_Complete_Text" value="Você está procurando por... mim?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_1_Title" value="Nenhuma Notícia É Boa Notícia" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_1_RewarderDesc" value="Tortus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_1_Request_Text" value="Então, Tortus mandou você. Mas por que ele... Ah! Eu esqueci que eu deveria mandar notícias! Estava tão concentrado em escapar dos saqueadores de Utran, sabe. Diga ao Tortus que estou bem. Voltarei para Forte de Baellas logo que terminar por aqui." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_1_Accepted_Text" value="Diga ao Tortus que voltarei em breve." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_1_Ongoing_Text" value="Eu deveria ter dado um guarda-costas ao homem. Só estou feliz que ele esteja bem. Bom trabalho." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0024_1_Complete_Text" value="Eu deveria ter dado um guarda-costas ao homem. Só estou feliz que ele esteja bem. Bom trabalho." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0025_Title" value="Contra-ataque" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0025_RewarderDesc" value="Ferard" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0025_Request_Text" value="Não podemos nos reportar para Corvo ainda. Antes de irmos, nós devemos pelo menos prejudicar completamente os métodos de ataques dos saqueadores. Se eles são tolos o bastante para deixar toda sua munição exposta, acho que somos obrigados a destruí-la." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0025_Accepted_Text" value="Não podemos deixar que eles controlem os céus." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0025_Ongoing_Text" value="Eles fizeram isso consigo mesmos ao deixarem suas balas de canhão ao ar livre." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0025_Complete_Text" value="Bom trabalho. Isso irá nos livrar de problemas no futuro." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0026_Title" value="Trilha da Princesa" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0026_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0026_Request_Text" value="Fui capaz de encontrar sinais da princesa próximos de Bulwark. Mas aquele local está sendo controlado pelos Tukan, e nós não temos tempo para enfrentá-los E os saqueadores. Volte para Forte de Baellas e dê meu relatório ao Corvo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0026_Accepted_Text" value="Atualize Corvo a respeito do que aconteceu com a princesa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0026_Ongoing_Text" value="(Ele está ocupado ficando de olho nos inimigos.)" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0026_Complete_Text" value="Você e o Ferard foram perfeitos. Eu não esperava por menos." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0027_Title" value="O Guerreiro Mais Forte" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0027_RewarderDesc" value="Ordem Ônix&#xD;&#xA;Cynth" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0027_Request_Text" value="A retaliação acabou. &lt;br&gt;Agora você precisa atingir o cerne do inimigo.&lt;br&gt; Se o líder Baramos foi derrotado, os inimigos também serão. Se você foi capaz de derrotar Paulo Cavaleiro do Sol, também conseguirá derrotar Baramos. &lt;br&gt;&lt;br&gt;Encontre-o e enfrente-o. Só conseguiremos estabilidade nesta batalha se ele for eliminado." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0027_Accepted_Text" value="Baramos deve morrer!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0027_Ongoing_Text" value="Baramos não vai cair sem uma luta, mas tenho certeza de que você não faria de nenhuma outra forma." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0027_Complete_Text" value="Espero que tenha dado ao Baramos uma morte lenta. Para dar um exemplo aos outros." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0028_Title" value="Saqueadores em Força" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0028_RewarderDesc" value="Tortus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0028_Request_Text" value="Estou recebendo relatórios de que os saqueadores não estão muito felizes com nossos ataques. Eles estão se organizando para um ataque total. Antes que fiquem prontos, eu preciso que você mate os caçadores de tesouros em Utran e os saqueadores que estão voando a cerca de 520 metros acima do nível do mar. Vamos acabar com eles aqui e agora. " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0028_Accepted_Text" value="Faça nossos inimigos sofrerem!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0028_Ongoing_Text" value="Pinte Utran de vermelho com o sangue deles." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0028_Complete_Text" value="Muito bom trabalho. Esta luta está quase acabada. " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0029_Title" value="Quebrando a Defesa" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0029_RewarderDesc" value="Tortus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0029_Request_Text" value="Você precisa ir dentro da ilha flutuante de Utran, mas você encontrará muita resistência.&lt;br&gt; Você pode entender isso como o último passo, mas a existência daquela enorme arma tornará tudo mais difícil. Primeiro, neutralize a torre. &lt;br&gt;&lt;br&gt; Você pode fazer isso? Vá e destrua a enorme besta dos inimigos!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0029_Accepted_Text" value="Mande aquela besta na ilha flutuante de Utran pros ares!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0029_Ongoing_Text" value="Muitas pessoas foram sacrificadas por aquela enorme besta na ilha flutuante de Utran.&lt;br&gt;Essas armas são letais aos homens!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0029_Complete_Text" value="Você destruiu a besta? Ótimo.&lt;br&gt;Os saqueadores não têm vantagem nenhuma agora." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0030_Title" value="Traidores" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0030_RewarderDesc" value="Tortus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0030_Request_Text" value="Aparentemente os Crokhoon ajudaram os inimigos.&lt;br&gt;Em algum momento, o engenheiro Wajin'khoon e o arquiteto Joora'khoon, envolvidos na criação da passagem, criaram a ilha flutuante.&lt;br&gt;Faça justiça à essa traição. &lt;br&gt;Derrote-os e traga os projetos da ilha flutuante.&lt;br&gt;Essa tecnologia não pode se tornar pública." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0030_Accepted_Text" value="Derrote o engenheiro Wajin'khoon e o arquiteto Joora'khoon dos Crokhoon, que se juntaram aos inimigos." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0030_Ongoing_Text" value="Os projetos do engenheiro Wajin'khoon e do arquiteto Joora'khoon dos Crokhoon serão de grande ajuda em algum momento.&lt;br&gt;Descubra as informações que eles possuem, ao norte e o ao sul da ilha flutuante de Utran, respectivamente." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0030_Complete_Text" value="Você trouxe os desenhos técnicos e de design." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0044_Title" value="Governante do Recife" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0044_RewarderDesc" value="Jennifer" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0044_Request_Text" value="Meus amigos e eu caímos no mar em um ataque dos saqueadores. Se não tivéssemos sido levados até esse recife, teríamos morrido ali. Pensamos que tínhamos conseguido, mas uma merumi chamada Soriphen apareceu e matou todos meus amigos! E agora ele quer que eu case com ela?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0044_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Como ele pode esperar que eu me case com ele depois do que ele fez? Os homens dele estão me observando, e quando eles descobrirem que eu jamais direi sim, eles me matarão também. Por favor, mate Soriphen e vingue meus amigos!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0044_Accepted_Text" value="Ele precisa pagar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0044_Ongoing_Text" value="Já é ruim o suficiente ele ser louco. Mas ele é um merumi, também. Que tipo de casamento ele acha que poderíamos ter?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0044_Complete_Text" value="Agradeço. Talvez agora meus amigos possam descansar em paz..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0045_Title" value="Alvo da Vingança" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0045_RewarderDesc" value="Jennifer" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0045_Request_Text" value="Os aguls vagando por aqui são perigosos. Foram eles que arrastaram meus amigos para Soruhpen para que ele pudesse matá-los. Se não fosse por aquelas feras, meus amigos ainda estariam vivos... Por favor, mate-os por mim!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0045_Accepted_Text" value="Meus amigos devem ser vingados!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0045_Ongoing_Text" value="Esta ilha é um pesadelo. Eu queria poder apagá-la da face do mar!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0045_Complete_Text" value="Os aguls, mortos. Mortos, mortos, mortos... Assim como meus amigos... " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0046_Title" value="Uma Recordação de um Trabalhador" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0046_RewarderDesc" value="Jennifer" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0046_Request_Text" value="Nossas bolsas de ferramenta foram espalhadas durante o desastre. As bolsas em si eram idênticas, mas elas continuam nossos memórias e recordações... Por favor, você precisa encontrar minha bolsa! Você deve precisar me trazer todas, mas os itens na minha bolsa valem muito para mim." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0046_Accepted_Text" value="Eu realmente preciso daquela bolsa..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0046_Ongoing_Text" value="Tenho certeza de que estão por aqui em algum lugar. Vamos continuar procurando." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0046_Complete_Text" value="Não é essa, nem essa... É essa! É a minha bolsa! Agradeço imensamente!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0047_Title" value="Criaturas Estranhas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0047_RewarderDesc" value="Jennifer" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0047_Request_Text" value="Os peixes flutuando no céu são as criaturas de Soriphen. O merumi deu meus amigos de alimento para um daqueles monstros. Eu não sei qual deles foi, mas você precisa matá-lo! Por favor! Tenho certeza de que você saberá quando tiver matado o certo..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0047_Accepted_Text" value="Você precisa pegar aquele peixe..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0047_Ongoing_Text" value="Eu queria saber qual peixe foi... Só... só continue matando até que seu instinto te diga para parar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0047_Complete_Text" value="Agradeço. Eu acho que nunca saberei se você matou o peixe que comeu meus amigos, mas eu me sinto melhor." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0031_Title" value="Princesa Lania" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0031_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0031_Request_Text" value="Então, Ferard acredita que a princesa está no Bastião. Eu já suspeitava. Os saqueadores atacaram quase tudo, mas aquele lugar ficou estranhamente calmo. Mesmo capturada, tenho certeza de que a princesa deixaria algumas pistas. Encontre as pistas." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0031_Accepted_Text" value="Relate qualquer coisa que você encontrar, não importa quão pequena." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0031_Ongoing_Text" value="Não perca seu tempo com culpa. Concentre-se em fazer isso dar certo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0031_Complete_Text" value="A princesa está engenhosa como sempre, posso ver. " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0032_Title" value="Das Chamas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0032_RewarderDesc" value="Ordem Ônix&#xD;&#xA;Cynth" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0032_Request_Text" value="Eu esperava que matar os saqueadores fosse trazer um pouco de paz para a região. Isso foi estúpido de minha parte. Os lacaios do Zelnaris, o Deus da Ruína, decidiram que agora era uma boa hora para aparecerem. Estamos exaustos da última luta, mas nós temos um trabalho a ser feito." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0032_Accepted_Text" value="Não podemos deixá-los obter uma base." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0032_Ongoing_Text" value="Tome um cuidado especial com o golem deles, Palatan." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0032_Complete_Text" value="Você não existe, sabia disso?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0033_Title" value="Pesquisa Infernal" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0033_RewarderDesc" value="Ordem Ônix&#xD;&#xA;Cynth" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0033_Request_Text" value="Os seguidores do Zelnaris, o Deus da Ruína, não são normais. Então, estou pensando... o meteoro infernal mudou os Tukan, certo? Deixou-os mais ferozes, fortes, loucos. Colete alguns pedaços dos golens adoradores da ruína. Eu tenho um pressentimento de que tudo deve estar conectado..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0033_Accepted_Text" value="Seja cauteloso e não confie em nada." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0033_Ongoing_Text" value="Será que esses pedaços de meteoro irão transformar todos em monstros? " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0033_Complete_Text" value="Hm. Parece um pedaço de pedra normal para mim..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0034_Title" value="Para o Bastião" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0034_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0034_Request_Text" value="Tukan ... Eles têm um profundo ressentimento contra os humanos e os Crokhoon. &lt;br&gt;&lt;br&gt;Recebi um relatório onde testemunhas avistaram Heratu com a bola de cristal da princesa. Isso está de acordo com o relatório anterior. Heratu é notório por ser cruel.&lt;br&gt;&lt;br&gt; Seria bom encontrar a princesa e derrotá-lo simultaneamente. [UserName]! &lt;br&gt; Irei até o Bastião para punir o guerreiro Heratu e recuperar a bola de cristal da princesa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0034_Accepted_Text" value="Use os métodos necessários para derrubar Heratu." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0034_Ongoing_Text" value="Os Tukan são conhecidos por sequestrar e matar civis inocentes. Normalmente, eu precisaria me concentrar em minha missão e deixá-los de lado, mas eles têm algo de que nós precisamos. Eu digo que devemos aproveitar ao máximo esta oportunidade. " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0034_Complete_Text" value="Essa bola de cristal é nossa melhor chance de encontrar a princesa novamente." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0035_Title" value="Perigo no Bastião" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0035_RewarderDesc" value="Tortus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0035_Request_Text" value="Tenha cuidado no Bastião. Os Tukan não estão para brincadeiras. Na verdade, talvez você possa ajudar a deixar as coisas um pouco mais seguras. Os clãs da Mão Quebrada e da Lâmina de Pedra são os mais brutais dos Tukan. Enquanto você estiver lá, acabe com alguns de seus soldados e saqueadores também." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0035_Accepted_Text" value="Ei, puxe seu peso! Não posso fazer tudo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0035_Ongoing_Text" value="Os clãs da Mão Quebrada e da Lâmina de Pedra são fortes. Precisamos mostrar a eles que somos fortes também." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0035_Complete_Text" value="Estou grato que alguém finalmente ensinou uma lição aos Tukan. Bom trabalho." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0036_Title" value="Cativos na Parede" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0036_RewarderDesc" value="Tortus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0036_Request_Text" value="Aqueles Tukan desgraçados! Eles fizeram prisioneiros. Cidadãos de Hakanas! Nós precisamos tirá-los de lá antes que eles terminem em algum ensopado gigante." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0036_Accepted_Text" value="Nós temos que resgatar aqueles aldeões." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0036_Ongoing_Text" value="Podemos conversar depois. Agora, há inocentes para salvar!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0036_Complete_Text" value="Graças a Ellora você conseguiu resgatá-los. Este ataque não aguentará..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_Title" value="Forte Zenen" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_Request_Text" value="A bola de cristal que você recuperou foi usada para canalizar uma grande quantidade de energia divina. Se Rondo esteve juntando a energia dentro do Bastião, então ele está se preparando para algum tipo de ritual...&lt;br&gt;&lt;br&gt;Forte Zenen! O santuário de lá foi consagrado por Ellora. Este é o objetivo de Rondo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Um dos meus agentes está patrulhando em Zenen. Encontre-o lá. Eu seguirei em breve." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_Accepted_Text" value="Estamos perto." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_Ongoing_Text" value="Nós sabemos que a princesa está indo, mas não podemos celebrar ainda. Somente quando ela estiver segura na Travessia de Hakain poderemos descansar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_Complete_Text" value="Graças a Ellora você está aqui. Precisamos agir rápido." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_1_Title" value="O Ritual" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_1_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_1_Request_Text" value="Rondo já está no santuário. Ele iniciará o ritual dele a qualquer minuto. Você não pode derrotar Rondo sozinho, mas talvez você possa atrasá-lo tempo suficiente para que Corvo se junte a você." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_1_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Precisamos parar Rondo... Eu estou esperando Corvo chegar. Sinto muito, mas por favor ganhe tempo até que ele vá até você. Você deve parar o despertar!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_1_Accepted_Text" value="Uma emboscada pode acontecer em qualquer lugar. Esteja sempre preparado." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_1_Ongoing_Text" value="Não há tempo para isso. Você precisa segurar Rondo por tempo suficiente para que Corvo chegue aqui. Depressa!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0037_1_Complete_Text" value="Esta batalha ainda não acabou. Nós iremos encontrar Rondo. Nós iremos recuperar a princesa. E nós não iremos falhar novamente." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0038_Title" value="Relate para Hakanas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0038_RewarderDesc" value="Yulnus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0038_Request_Text" value="A capital irá querer saber o que aconteceu aqui. A Ordem Ônix irá cuidar de qualquer negócio restante aqui. Retorne para Yulnus e diga a ele o que você viu." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0038_Accepted_Text" value="Relate para a Travessia de Hakain. Eles estão aguardando notícias." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0038_Ongoing_Text" value="Você trouxe notícias sobre a princesa?&lt;br&gt;O que aconteceu?&lt;br&gt;&lt;br&gt;Sinto muito, mas não posso ajudar.&lt;br&gt;Rondo é muito talentoso, Salant fez um bom trabalho.&lt;br&gt;Não se sinta derrotado por não ter conseguido resgatar a princesa.&lt;br&gt;&lt;br&gt;Tetarei impedir que Rondo vá para a Costa de Parna!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0038_Complete_Text" value="Você trouxe notícias sobre a princesa?&lt;br&gt;O que aconteceu?&lt;br&gt;&lt;br&gt;Sinto muito, mas não posso ajudar.&lt;br&gt;Rondo é muito talentoso, Salant fez um bom trabalho.&lt;br&gt;Não se sinta derrotado por não ter conseguido resgatar a princesa.&lt;br&gt;&lt;br&gt;Tetarei impedir que Rondo vá para a Costa de Parna!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0039_Title" value="Dragão da Tempestade" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0039_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0039_Request_Text" value="Os Dragões da Tempestade colocaram seus olhos no Mar de Hakanas. O dragão Atadren está encabeçando o avanço deles em Forte Zenen. Não permita que eles criem base aqui. Mate Atadren." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0039_Accepted_Text" value="Eu sinto algo escuro em movimento..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0039_Ongoing_Text" value="Se os Dragões da Tempestade mandaram Atadren sozinho, então eles estão confiantes demais. Isso é bom. Use isso como vantagem." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0039_Complete_Text" value="Bom trabalho. Os Dragões da Tempestade não podem pensar que somos vulneráveis." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0040_Title" value="Ameaça da Guarda Gélida" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0040_RewarderDesc" value="Tortus" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0040_Request_Text" value="Dizem que o Forte Zenen foi tomado pela Guarda Gélida. Se eles acham que Hakanas irá desistir do forte só porque ele afundou, eles verão mais uma coisa! Mate a escória da Guarda Gélida!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0040_Accepted_Text" value="Você derruba os guardas. Eu cuidarei do resto." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0040_Ongoing_Text" value="Dê a aqueles vira-casacas da Guarda Gélida uma matança extra por mim, está bem?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0040_Complete_Text" value="A Guarda Gélida teve o que merecia." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0041_Title" value="Monumento Caído" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0041_RewarderDesc" value="Cynth" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0041_Request_Text" value="Zenen é uma ruína alagada agora, mas em seu auge era uma base vital na luta contra o Zelnaris, o Deus da Ruína. A própria Ellora andou naqueles corredores. Um pouco do poder dela ainda está lá, na verdade. Não podemos deixar a Guarda Gélida reivindicar este poder para si. Me ajude a encontrar as Essências de Ellora." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0041_Accepted_Text" value="Todos nós temos que fazer nossa parte." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0041_Ongoing_Text" value="Qualquer coisa deixada para trás pela Deusa da Luz é um tesouro nacional. É melhor pegarmos as essências de Ellora do Forte Zenen antes que qualquer outra pessoa o faça." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0041_Complete_Text" value="Já senti essa energia antes! Isso me lembra do Templo de Ellora. Agradeço." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0042_Title" value="Encontro com Clemence" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0042_RewarderDesc" value="Clemence" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0042_Request_Text" value="Tudo estava em caos enquanto o titã vagueava. Não é possível explicar o poder do gigante. Ele é diferente dos gigantes comuns.&lt;br&gt; Isso não pode ficar negligenciado como está agora.&lt;br&gt; Para coletar informações, enviei um membro ao Pico de Attaius.&lt;br&gt;&lt;br&gt; Entre no Pico de Attaius, a 660m de altitude, e encontre Clemence.&lt;br&gt;Ele te dirá os detalhes." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0042_Accepted_Text" value="Encontre Clemence." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0042_Ongoing_Text" value="Então nos encontramos novamente. É um pouco, err, mais alto aqui do que é em Forte Zenen, não é?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0042_Complete_Text" value="Então nos encontramos novamente. É um pouco, err, mais alto aqui do que é em Forte Zenen, não é?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0043_Title" value="Reparo da Barreira Divina" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0043_RewarderDesc" value="Cynth" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0043_Request_Text" value="A inteligência deles é realmente extraordinária, eles usam apenas este item para criar uma lacuna.&lt;br&gt;Mas, por que essa ferramenta chegou às mãos do gigante? Alguém intencionalmente a deu para Yatai.&lt;br&gt;&lt;br&gt;Neste momento, a prioridade é focar no reparo da barreira, e depois resolveremos esta questão." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0043_Accepted_Text" value="Será que a barreira vai ser restaurada em breve?&lt;br&gt;Precisamos acreditar que vai funcionar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0043_Ongoing_Text" value="Você trouxe boas ferramentas?" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0043_Complete_Text" value="As rachaduras na barreira já foram restauradas.&lt;br&gt;Ufa, agora eu tenho menos preocupações." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0048_Title" value="Desarmando Bombas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0048_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0048_Request_Text" value="Esse é um aviso oficial de recompensa por matar 4 bombardeiros saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0048_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0048_Ongoing_Text" value="Esse é um aviso oficial de recompensa por matar 4 bombardeiros saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0048_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0049_Title" value="Derrubador de Patrulheiros" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0049_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0049_Request_Text" value="Esse é um aviso oficial de recompensa por matar 4 patrulheiros saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0049_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0049_Ongoing_Text" value="Esse é um aviso oficial de recompensa por matar 4 patrulheiros saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0049_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0050_Title" value="Procura-se: Comida de Familiar" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0050_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0050_Request_Text" value="Uma recompensa oferecida por entregar comida de Skanner à guarnição dos Cavaleiros do Dragão.&lt;br&gt;&lt;br&gt;-Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0050_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0050_Ongoing_Text" value="Uma recompensa oferecida por entregar comida de Skanner à guarnição dos Cavaleiros do Dragão.&lt;br&gt;&lt;br&gt;-Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0050_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_Title" value="Saqueador de Saqueadores" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_Request_Text" value="Esse é um aviso oficial de recompensa por matar 4 saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_Ongoing_Text" value="Esse é um aviso oficial de recompensa por matar 4 saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_1_Title" value="Extintor de Armas de Fogo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_1_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_1_Request_Text" value="Esse é um aviso oficial de recompensa por destruir 3 canhões dos saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_1_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_1_Ongoing_Text" value="Esse é um aviso oficial de recompensa por destruir 3 canhões dos saqueadores.&lt;br&gt;&lt;br&gt;Comandante Bakir" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0051_1_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0052_Title" value="Recuperar Mercadorias" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0052_RewarderDesc" value="Quadro de Avisos do Local de Trabalho" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0052_Request_Text" value="O idiota preguiçoso do meu assistente perdeu seus suprimentos novamente. Recupere 2 bolsas, 2 caixotes e 1 cofre, ou eu irei entrar em profunda depressão.&lt;br&gt;&lt;br&gt;- Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0052_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0052_Ongoing_Text" value="O idiota preguiçoso do meu assistente perdeu seus suprimentos novamente. Recupere 2 bolsas, 2 caixotes e 1 cofre, ou eu irei entrar em profunda depressão.&lt;br&gt;&lt;br&gt;- Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0052_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0053_Title" value="Agricultura Sustentável" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0053_RewarderDesc" value="Quadro de Avisos do Local de Trabalho" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0053_Request_Text" value="Não conseguimos trabalhar com esses malditos ladrões Lebrini saqueando nossas mudas! Livre-se deles!&lt;br&gt;&lt;br&gt;Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0053_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0053_Ongoing_Text" value="Não conseguimos trabalhar com esses malditos ladrões Lebrini saqueando nossas mudas! Livre-se deles!&lt;br&gt;&lt;br&gt;Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0053_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_Title" value="Raiz do Problema" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_RewarderDesc" value="Quadro de Avisos do Local de Trabalho" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_Request_Text" value="Irei oferecer uma recompensa a qualquer um disposto a sujar as mãos e puxar alguns desses vegetais corrompidos.&lt;br&gt;&lt;br&gt;Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_Ongoing_Text" value="Irei oferecer uma recompensa a qualquer um disposto a sujar as mãos e puxar alguns desses vegetais corrompidos.&lt;br&gt;&lt;br&gt;Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_1_Title" value="Saque aos Saqueadores" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_1_RewarderDesc" value="Quadro de Avisos do Local de Trabalho" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_1_Request_Text" value="Proteja nossas fazendas! Acabe com esses saqueadores!&lt;br&gt;&lt;br&gt;Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_1_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_1_Ongoing_Text" value="Proteja nossas fazendas! Acabe com esses saqueadores!&lt;br&gt;&lt;br&gt;Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_1_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_2_Title" value="Coleta de Opalium" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_2_RewarderDesc" value="Quadro de Avisos do Local de Trabalho" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_2_Request_Text" value="Me ajude a fazer arte! Eu preciso de 4 pedaços de opalium para dar os toques finais na minha última obra-prima.&lt;br&gt;&lt;br&gt;- Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_2_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_2_Ongoing_Text" value="Me ajude a fazer arte! Eu preciso de 4 pedaços de opalium para dar os toques finais na minha última obra-prima.&lt;br&gt;&lt;br&gt;- Jinta'rahn" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0054_2_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0056_Title" value="Ataque em Utran I" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0056_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0056_Request_Text" value="Uma recompensa para qualquer um que mate 4 soldados de convés saqueadores.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0056_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0056_Ongoing_Text" value="Uma recompensa para qualquer um que mate 4 soldados de convés saqueadores.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0056_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0057_Title" value="Defesa da Fortaleza" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0057_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0057_Request_Text" value="Uma recompensa para qualquer um que matar 3 soldados saqueadores dos céus.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0057_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0057_Ongoing_Text" value="Uma recompensa para qualquer um que matar 3 soldados saqueadores dos céus.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0057_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0058_Title" value="Ataque em Utran II" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0058_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0058_Request_Text" value="Uma recompensa para qualquer um que matar 4 saqueadores.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0058_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0058_Ongoing_Text" value="Uma recompensa para qualquer um que matar 4 saqueadores.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0058_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0059_Title" value="Inimigos do Reino" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0059_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0059_Request_Text" value="Uma recompensa para qualquer um que derrotar a Tribo Tukan e retornar com seus encantamentos.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0059_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0059_Ongoing_Text" value="Uma recompensa para qualquer um que derrotar a Tribo Tukan e retornar com seus encantamentos.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0059_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0060_Title" value="Missão de Resgate" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0060_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0060_Request_Text" value="Uma recompensa para qualquer um que resgatar as pessoas sequestradas pela Tribo Tukan.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0060_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0060_Ongoing_Text" value="Uma recompensa para qualquer um que resgatar as pessoas sequestradas pela Tribo Tukan.&lt;br&gt;&lt;br&gt;Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0060_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_Title" value="Pontas Soltas" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_Request_Text" value="Nossa prioridade é resgatar a princesa, mas há algumas pontas soltas aqui que nós não podemos ignorar. Se você estiver dentro, aqui está o que eu quero que você faça antes de retornar à capital.&lt;br&gt;&lt;br&gt;(Complete as missões a seguir.)" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;- Pontas Soltas: Os Passos do Titan I&lt;br&gt;- Pontas Soltas: Mudança de Espírito&lt;br&gt;- Pontas Soltas: Espíritos Instáveis&lt;br&gt;- Pontas Soltas: Memento Congelado&lt;br&gt;- Pontas Soltas: Os Passos do Titan II&lt;br&gt;- Pontas Soltas: Loucura Titânica" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_Accepted_Text" value="Você nasceu para este trabalho." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_Ongoing_Text" value="Uma tarefa por vez. Não pegue muitas de uma vez só." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_Complete_Text" value="Bom trabalho. Eu confio que os Cavaleiros do Dragão podem cuidar de quaisquer outros problemas mesquinhos na área. Eu encarreguei Cynth de lidar com os assuntos relacionados ao titã. Se você quiser ajudar com essa operação, fale com ela." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_1_Title" value="Pontas Soltas: Os Passos do Titan I" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_1_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_1_Request_Text" value="Meus agentes recuperaram alguns fragmentos sinistros de pedras no mar. Ao que parece, eles se partiram do corpo do titã. Parece que os saqueadores já conseguiram roubar alguns desses fragmentos. Não podemos permitir que os saqueadores possuam um artefato potencialmente tão perigoso." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_1_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Pegue esta esfera falante e recupere os fragmentos. Quando você terminar, eu usarei a esfera para te dar mais instruções. " />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_1_Accepted_Text" value="Estou te pedindo que me auxilie." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_1_Ongoing_Text" value="É impossível saber quais saqueadores possuem fragmentos e quais não. Melhor matar todos para ter certeza." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_1_Complete_Text" value="(Acho que estes são todos os fragmentos de titã. Para a próxima tarefa.)" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_2_Title" value="Pontas Soltas: Espíritos Instáveis" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_2_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_2_Request_Text" value="Jinta'rahn nos pediu que déssemos uma olhada nos problemas com fadas nas Fazendas Nubladas." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_2_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Espíritos são normalmente lentos para se irritarem e ainda mais lentos para ficarem violentos. Deve haver algo por trás desse estranho comportamento deles. Vá para as Fazendas Nubladas e arranque suas asas. Vou chamar meus homens para analisar e procurar por anormalidades." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_2_Accepted_Text" value="Estou certo de que não é nada sério..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_2_Ongoing_Text" value="Há inúmeras coisas que poderiam ter feito com que as fadas se voltassem contra nós, e nenhuma delas é boa. Nós não teremos certeza até que você nos traga aquelas amostras." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_2_Complete_Text" value="Ótimo. Me traga as asas depois de terminar as suas outras tarefas." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_3_Title" value="Pontas Soltas: Memento Congelado" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_3_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_3_Request_Text" value="Apesar de que Rondo seguiu adiante, a sua Guarda Gélida ainda possui o Forte Zenen. Simplesmente matá-los não é suficiente. Pegue os emblemas dos corpos deles para mandar uma mensagem clara para qualquer um que se levantar contra a Ordem Ônix." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_3_Accepted_Text" value="Isso deve esmagar os espíritos deles." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_3_Ongoing_Text" value="Faça a Guarda Gélida se arrepender de ter vindo para o mar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_3_Complete_Text" value="Bom trabalho com a Guarda Gélida. Vá para o seu próximo objetivo." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_4_Title" value="Pontas Soltas: Os Passos do Titan II" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_4_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_4_Request_Text" value="Meus patrulheiros reportaram um resíduo mágico ligando o Zelnaris, o Deus da Ruína, a Utran. Eu tenho um pressentimento de que a magia de que eles falam é mais intimamente relacionada ao titã." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_4_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;O que quer que essa magia seja, provavelmente foi roubada pelos saqueadores. Volte para Utran e recupere a fonte da magia. Eu suspeito de que estará em volta de algum tipo de fragmento de pedra." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_4_Accepted_Text" value="Estou contando com você." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_4_Ongoing_Text" value="Independente de ser do Deus da Ruína ou do titã, não podemos deixar magia como essa livre no mundo. Não dá pra dizer quão danosa ela será." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_4_Complete_Text" value="Lide com aqueles fragmentos com cuidado. Influências infernais podem ser letais nas doses certas. Agora, nós temos mais uma tarefa..." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_5_Title" value="Pontas Soltas: Loucura Titânica" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_5_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_5_Request_Text" value="Eu quero saber o que fez a Tribo Tukan enlouquecer. Retorne ao Bastião e tire sangue dos guerreiros deles. É claro, eu duvido de que eles irão dá-lo de boa vontade." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_5_Accepted_Text" value="Este trabalho tem o seu nome escrito nele." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_5_Ongoing_Text" value="Há algo nesta fúria dos Tukan que não é nada natural. Titãs são mal-humorados por natureza, é claro, mas encontramos muitas influências infernais aqui no mar." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0061_5_Complete_Text" value="Isso deve ser tudo. Me encontre no Forte de Baellas com todos os itens que você coletou." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_Title" value="[10 Jogadores] Derrote Tranua" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_RewarderDesc" value="Vekanto" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_Request_Text" value="Vixe! Aquele meteoro infernal derreteu o chão todo ao redor de onde caiu! Era este o plano de Salant o tempo todo? Não podemos deixar Tranua devorar toda aquela energia maligna." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Nós precisamos limpar toda a magia deixada para trás por aquele meteoro, e rápido. Somente Galadoku pode fazer isso. Há 3 essências meteóricas no grande local da queda e 1 no pequeno local da queda. Destrua todas, e depois acorde Tranua, tocando na tocha infernal. Ele pode ser um titã, mas é melhor que o enfrentemos agora do que depois que ele se encher de energia infernal." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_Accepted_Text" value="Tranua não absorveu toda a energia infernal ainda. Esta é a nossa chance." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_Ongoing_Text" value="Se Tranua terminar de se engalfinhar no poder do meteoro, estamos acabados. Precisamos matá-lo agora, enquanto ainda temos chance." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_Complete_Text" value="Espetacular! Tudo o que falam sobre você é verdade!" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_1_Title" value="[10 Jogadores] Derrote Tranua" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_1_RewarderDesc" value="Vekanto" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_1_Request_Text" value="Vixe! Aquele meteoro infernal derreteu o chão todo ao redor de onde caiu! Era este o plano de Salant o tempo todo? Não podemos deixar Tranua devorar toda aquela energia maligna." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_1_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Nós precisamos limpar toda a magia deixada para trás por aquele meteoro, e rápido. Somente Galadoku pode fazer isso. Há 3 essências meteóricas no grande local da queda e 1 no pequeno local da queda. Destrua todas, e depois acorde Tranua, tocando na tocha infernal. Ele pode ser um titã, mas é melhor que o enfrentemos agora do que depois que ele se encher de energia infernal." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_1_Accepted_Text" value="Tranua não absorveu toda a energia infernal ainda. Esta é a nossa chance." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_1_Ongoing_Text" value="Se Tranua terminar de se engalfinhar no poder do meteoro, estamos acabados. Precisamos matá-lo agora, enquanto ainda temos chance." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_1_Complete_Text" value="Espetacular! Tudo o que falam sobre você é verdade!" />
+  <keys prop="Description" type="monster" key="YA_0_0_0001_Title" value="Derrote o Titã" />
+  <keys prop="Description" type="monster" key="YA_0_0_0001_RewarderDesc" value="Clemence" />
+  <keys prop="Description" type="monster" key="YA_0_0_0001_Request_Text" value="Attaius estava adormecido. &lt;br&gt;Você precisa atiçá-lo antes de derrotá-lo de fato. Antes de tudo, você precisa destruir as Pedras de Proteção Celeste instaladas no círculo de Attaius." />
+  <keys prop="Description" type="monster" key="YA_0_0_0001_Request_Text_attach_0" value="Ouvi dizer que os Lynic têm a habilidade de destruir as Pedras de Proteção Celeste. Destrua as Pedras de Proteção Celeste montado em um Lynic. &lt;br&gt;Para derrotar Attaius, destrua primeiro as três Pedras de Proteção Celeste no perímetro estabelecido. Tudo pronto?&lt;br&gt;Seu oponente é um titã. Esteja sempre alerta." />
+  <keys prop="Description" type="monster" key="YA_0_0_0001_Accepted_Text" value="Esta luta não será fácil. Ele é um titã, afinal." />
+  <keys prop="Description" type="monster" key="YA_0_0_0001_Ongoing_Text" value="Se você precisar de ajuda, é só pedir. De, err, outra pessoa." />
+  <keys prop="Description" type="monster" key="YA_0_0_0001_Complete_Text" value="Você conseguiu. Você realmente conseguiu. Não que eu tenha duvidado de você!&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_Title" value="[10 Jogadores] Derrote o Titã" />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_RewarderDesc" value="Clemence" />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_Request_Text" value="Attaius estava adormecido. &lt;br&gt;Você precisa atiçá-lo antes de derrotá-lo de fato. Antes de tudo, você precisa destruir as Pedras de Proteção Celeste instaladas no círculo de Attaius." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_Request_Text_attach_0" value="Ouvi dizer que os Lynic têm a habilidade de destruir as Pedras de Proteção Celeste. Destrua as Pedras de Proteção Celeste montado em um Lynic. &lt;br&gt;Para derrotar Attaius, destrua primeiro as três Pedras de Proteção Celeste no perímetro estabelecido. Tudo pronto?&lt;br&gt;Seu oponente é um titã. Esteja sempre alerta." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_Accepted_Text" value="Esta luta não será fácil. Ele é um titã, afinal." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_Ongoing_Text" value="Se você precisar de ajuda, é só pedir. De, err, outra pessoa." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_Complete_Text" value="Já te disse que sou grato que você esteja do nosso lado? Porque eu sou." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_1_Title" value="[10 Jogadores] Derrote o Titã" />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_1_RewarderDesc" value="Clemence" />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_1_Request_Text" value="Attaius estava adormecido. &lt;br&gt;Você precisa atiçá-lo antes de derrotá-lo de fato. Antes de tudo, você precisa destruir as Pedras de Proteção Celeste instaladas no círculo de Attaius." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_1_Request_Text_attach_0" value="Ouvi dizer que os Lynic têm a habilidade de destruir as Pedras de Proteção Celeste. Destrua as Pedras de Proteção Celeste montado em um Lynic. &lt;br&gt;Para derrotar Attaius, destrua primeiro as três Pedras de Proteção Celeste no perímetro estabelecido. Tudo pronto?&lt;br&gt;Seu oponente é um titã. Esteja sempre alerta." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_1_Accepted_Text" value="Esta luta não será fácil. Ele é um titã, afinal." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_1_Ongoing_Text" value="Se você precisar de ajuda, é só pedir. De, err, outra pessoa." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_1_Complete_Text" value="Já te disse que sou grato que você esteja do nosso lado? Porque eu sou." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0001_Title" value="Não Deixe Nada Ser Desperdiçado" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0001_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0001_Request_Text" value="As penas de cerdas da Coruja Chifruda possuem qualidades protetoras únicas. A Academia de Familiares irá te pagar por qualquer uma dessas penas para que sejam usadas em nosso projeto de pesquisa de armaduras.&lt;br&gt;&lt;br&gt;-Diretor Willow" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0001_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0001_Ongoing_Text" value="As penas de cerdas da Coruja Chifruda possuem qualidades protetoras únicas. A Academia de Familiares irá te pagar por qualquer uma dessas penas para que sejam usadas em nosso projeto de pesquisa de armaduras.&lt;br&gt;&lt;br&gt;-Diretor Willow" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0001_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0002_Title" value="Hakanas Disfarçado" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0002_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0002_Request_Text" value="Gostaríamos de pedir a todos os guerreiros que coletem fichas dos rufiões locais. Com fichas suficientes, poderemos criar disfarces e nos infiltrar no grupo deles.&lt;br&gt;&lt;br&gt;- Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0002_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0002_Ongoing_Text" value="Gostaríamos de pedir a todos os guerreiros que coletem fichas dos rufiões locais. Com fichas suficientes, poderemos criar disfarces e nos infiltrar no grupo deles.&lt;br&gt;&lt;br&gt;- Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0002_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0003_Title" value="A Guarnição de Ferro" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0003_RewarderDesc" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0003_Request_Text" value="Nossos suprimentos de ferro estão acabando. Nós necessitamos de sucata de ferro para nossos canhões. Qualquer um disposto a procurar por minério para nossa causa será grandemente recompensado.&lt;br&gt;&lt;br&gt;- Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0003_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0003_Ongoing_Text" value="Nossos suprimentos de ferro estão acabando. Nós necessitamos de sucata de ferro para nossos canhões. Qualquer um disposto a procurar por minério para nossa causa será grandemente recompensado.&lt;br&gt;&lt;br&gt;- Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0003_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0004_Title" value="Alimentando os Fazendeiros" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0004_RewarderDesc" value="Quadro de Avisos das Fazendas Nubladas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0004_Request_Text" value="Devido a atrasos na construção, nós estamos ficando sem comida para nossos fazendeiros. Oferecemos uma recompensa humilde a qualquer um que trouxer cenouras e melancias.&lt;br&gt;&lt;br&gt;Supervisor das Fazendas Nubladas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0004_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0004_Ongoing_Text" value="Devido a atrasos na construção, nós estamos ficando sem comida para nossos fazendeiros. Oferecemos uma recompensa humilde a qualquer um que trouxer cenouras e melancias.&lt;br&gt;&lt;br&gt;Supervisor das Fazendas Nubladas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0004_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0005_Title" value="Uma Bela Ponte" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0005_RewarderDesc" value="Quadro de Avisos das Fazendas Nubladas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0005_Request_Text" value="Nós recebemos o pedido para que a ponte fosse adornada com pó de fada, assim que ela estiver pronta. Oferecemos uma recompensa para qualquer um que traga essa substância valiosa.&lt;br&gt;&lt;br&gt;Supervisor das Fazendas Nubladas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0005_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0005_Ongoing_Text" value="Nós recebemos o pedido para que a ponte fosse adornada com pó de fada, assim que ela estiver pronta. Oferecemos uma recompensa para qualquer um que traga essa substância valiosa.&lt;br&gt;&lt;br&gt;Supervisor das Fazendas Nubladas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0005_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0006_Title" value="Reembolso Real" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0006_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0006_Request_Text" value="Uma grande recompensa será dada a qualquer guerreiro capaz de recuperar os tesouros perdidos de Hakanas. &lt;br&gt;&lt;br&gt;O Banco Real de Hakanas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0006_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0006_Ongoing_Text" value="Uma grande recompensa será dada a qualquer guerreiro capaz de recuperar os tesouros perdidos de Hakanas. &lt;br&gt;&lt;br&gt;O Banco Real de Hakanas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0006_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0007_Title" value="Pergelissolo" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0007_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0007_Request_Text" value="O próprio rei autorizou um estudo sobre como a Guarda Gélida mantém seus encantamentos frios durante o clima quente. Nós oferecemos uma recompensa a qualquer um que retornar com um dos cristais superiores deles.&lt;br&gt;&lt;br&gt;Diretor Willow" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0007_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0007_Ongoing_Text" value="O próprio rei autorizou um estudo sobre como a Guarda Gélida mantém seus encantamentos frios durante o clima quente. Nós oferecemos uma recompensa a qualquer um que retornar com um dos cristais superiores deles.&lt;br&gt;&lt;br&gt;Diretor Willow" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0007_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_9_0_0008_Title" value="[Elite] Sangue Herético" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0008_RewarderDesc" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0008_Request_Text" value="Os merumi são as crianças de Parna. Mas esses merumi renegados viraram as costas para sua deusa. Traga-os de volta para os braços dela, e pegue as escamas deles como um aviso para os outros!&lt;br&gt;&lt;br&gt;Sociedade pela Propriedade Divina" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0008_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0008_Ongoing_Text" value="Os merumi são as crianças de Parna. Mas esses merumi renegados viraram as costas para sua deusa. Traga-os de volta para os braços dela, e pegue as escamas deles como um aviso para os outros!&lt;br&gt;&lt;br&gt;Sociedade pela Propriedade Divina" />
+  <keys prop="Description" type="monster" key="HKD_9_0_0008_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="HKD_2_1_0001_Title" value="[Heroic] Lebrini vs. Pico de Attaius" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0001_RewarderDesc" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0001_Request_Text" value="O titã Attaius. Fera perversa do Deus da Ruína, maldito seja o nome dele! Quem pode andar no caminho dos justos e aniquilar o sórdido titã deste mundo? Você pode? Sim, você! Então os Comerciantes da Lua Crescente gostariam de te contratar!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0001_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Viaje agora para o Pico de Attaius e mate o sórdido monstro. Aqueles que fazem bons trabalhos são recompensados pelos deuses com cobre Lebrini. Er, bem, eu vou te recompensar com cobre Lebrini. Mas é pelos deuses!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0001_Accepted_Text" value="Somente você pode fazer este trabalho divino. Traga Attaius à ruína novamente!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0001_Ongoing_Text" value="Viaje agora para o Pico de Attaius e mate o sórdido monstro. Aqueles que fazem bons trabalhos são recompensados pelos deuses com cobre Lebrini. Er, bem, eu vou te recompensar com cobre Lebrini. Mas é pelos deuses!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0001_Complete_Text" value="E assim, o bravo humano subiu os picos e matou o malvado Attaius. E o justo, piedoso, arrojado Lebrini ofereceu sua recompensa: uma doação em Moedas de Cobre Lebrini, que podem ser trocadas por prêmios fantásticos na sua loja local dos Comerciantes da Lua Crescente." />
+  <keys prop="Description" type="monster" key="HKD_2_1_0002_Title" value="[10 Jogadores] [Heroic] Lebrini vs. Pico de Attaius" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0002_RewarderDesc" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0002_Request_Text" value="O titã Attaius. Fera perversa do Deus da Ruína, maldito seja o nome dele! Quem pode andar no caminho dos justos e aniquilar o sórdido titã deste mundo? Você pode? Sim, você! Então os Comerciantes da Lua Crescente gostariam de te contratar!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0002_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Viaje com seu grupo agora para o Pico de Attaius e mate o sórdido monstro. Aqueles que fazem bons trabalhos são recompensados pelos deuses com prata Lebrini. Er, bem, eu vou recompensar vocês com prata Lebrini. Mas é pelos deuses!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0002_Accepted_Text" value="Somente você pode fazer este trabalho divino. Traga Attaius à ruína novamente!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0002_Ongoing_Text" value="Viaje com seu grupo agora para o Pico de Attaius e mate o sórdido monstro. Aqueles que fazem bons trabalhos são recompensados pelos deuses com prata Lebrini. Er, bem, eu vou recompensar vocês com prata Lebrini. Mas é pelos deuses!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0002_Complete_Text" value="E assim, os bravos humanos subiram os picos e mataram o malvado Attaius. E o justo, piedoso, arrojado Lebrini ofereceu sua recompensa: uma doação em Moedas de Prata Lebrini, que podem ser trocadas por prêmios fantásticos na sua loja local dos Comerciantes da Lua Crescente." />
+  <keys prop="Description" type="monster" key="HKD_2_1_0003_Title" value="[Heroic] Lebrini vs. A Ilha da Ventania" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0003_RewarderDesc" value="Buck Lebrini" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0003_Request_Text" value="O que é aquilo que o Van Owen está sempre dizendo? Bla bla bla nome dos deuses, bla bla bla pelo bem da sociedade? É, estou certo de que é isso. Então, vai fazer a sua parte e lutar contra o titã nas Ilhas Ventosas? Eu acho que me lembro de que ele está aqui para jantar meteoros, apesar de que agora que eu falei, tenho certeza de que isso não pode estar certo." />
+  <keys prop="Description" type="monster" key="HKD_2_1_0003_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Seja qual for o caso, há uma recompensa para você se aniquilar Tranua." />
+  <keys prop="Description" type="monster" key="HKD_2_1_0003_Accepted_Text" value="Eu fui autorizado para recompensá-lo com moedas Lebrini. Prata, se me lembro corretamente." />
+  <keys prop="Description" type="monster" key="HKD_2_1_0003_Ongoing_Text" value="Há uma recompensa para você se aniquilar Tranua. Eu tenho todo tipo de moeda para te pagar. Moeda que você pode usar na loja do Van Owen, nada menos!" />
+  <keys prop="Description" type="monster" key="HKD_2_1_0003_Complete_Text" value="Você parece familiar. Onde nos conhecemos? Ah, você é aquele humano que eu contratei para alguma tarefa trivial ou outra. Eu não consigo me lembrar para o que te contratei, mas tenho certeza de que mereceu esta prata Lebrini." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_2_Title" value="[10 Jogadores] Derrote o Titã" />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_2_RewarderDesc" value="Clemence" />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_2_Request_Text" value="Attaius estava adormecido. &lt;br&gt;Você precisa atiçá-lo antes de derrotá-lo de fato. Antes de tudo, você precisa destruir as Pedras de Proteção Celeste instaladas no círculo de Attaius." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_2_Request_Text_attach_0" value="Ouvi dizer que os Lynic têm a habilidade de destruir as Pedras de Proteção Celeste. Destrua as Pedras de Proteção Celeste montado em um Lynic. &lt;br&gt;Para derrotar Attaius, destrua primeiro as três Pedras de Proteção Celeste no perímetro estabelecido. Tudo pronto?&lt;br&gt;Seu oponente é um titã. Esteja sempre alerta." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_2_Accepted_Text" value="Esta luta não será fácil. Ele é um titã, afinal." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_2_Ongoing_Text" value="Se você precisar de ajuda, é só pedir. De, err, outra pessoa." />
+  <keys prop="Description" type="monster" key="YA_0_0_0002_2_Complete_Text" value="Já te disse que sou grato que você esteja do nosso lado? Porque eu sou." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_2_Title" value="[10 Jogadores] Derrote Tranua" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_2_RewarderDesc" value="Vekanto" />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_2_Request_Text" value="Vixe! Aquele meteoro infernal derreteu o chão todo ao redor de onde caiu! Era este o plano de Salant o tempo todo? Não podemos deixar Tranua devorar toda aquela energia maligna." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_2_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Nós precisamos limpar toda a magia deixada para trás por aquele meteoro, e rápido. Somente Galadoku pode fazer isso. Há 3 essências meteóricas no grande local da queda e 1 no pequeno local da queda. Destrua todas, e depois acorde Tranua, tocando na tocha infernal. Ele pode ser um titã, mas é melhor que o enfrentemos agora do que depois que ele se encher de energia infernal." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_2_Accepted_Text" value="Tranua não absorveu toda a energia infernal ainda. Esta é a nossa chance." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_2_Ongoing_Text" value="Se Tranua terminar de se engalfinhar no poder do meteoro, estamos acabados. Precisamos matá-lo agora, enquanto ainda temos chance." />
+  <keys prop="Description" type="monster" key="HKD_0_0_0062_2_Complete_Text" value="Espetacular! Tudo o que falam sobre você é verdade!" />
+  <keys prop="Description" type="monster" key="hkd_9_3_0001_Title" value="Pesquisa de Familiar do Mar" />
+  <keys prop="Description" type="monster" key="hkd_9_3_0001_RewarderDesc" value="Hark &lt;Negociante de Moedas de Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="hkd_9_3_0001_Request_Text" value="Eu tenho alguns clientes no continente procurando aumentar sua coleção de familiares. Agora, normalmente eu iria caçá-los eu mesmo, mas este pedido é grande demais para apenas um homem concluir. Diga, se você está procurando fazer umas moedas extras, por que não me ajuda a rastrear alguns desses familiares?" />
+  <keys prop="Description" type="monster" key="hkd_9_3_0001_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#1a4c53&quot;&gt;-Pedra-lacre de Cavalo Alado de Ébano: 220 ~ 260m de altitude&lt;br&gt;-Pedra-lacre de Lynics: 120 ~ 260m de altitude&lt;br&gt;-Pedra-lacre de Yvoke: 320 ~ 360m de altitude&lt;/font&gt;&lt;br&gt;&lt;br&gt; Uma lista dos familiares necessários para pesquisa. Colete todas as pedras-lacre dos familiares para obter sua recompensa. Por favor, note que você pode encontrar tudo isso no oceano, mas já adianto que não será nada fácil." />
+  <keys prop="Description" type="monster" key="hkd_9_3_0001_Accepted_Text" value="Você pega os familiares, eu vou lidar com os clientes." />
+  <keys prop="Description" type="monster" key="hkd_9_3_0001_Ongoing_Text" value="&lt;font color =&quot;#1a4c53&quot;&gt;-Cavalo Alado de Ébano : 220 ~ 260m de altitude&lt;br&gt;-Lynics: 120 ~ 260m de altitude&lt;br&gt;-Yvoke: 320 ~ 360m elevação&lt;/font&gt;&lt;br&gt;(São os familiares que devem ser coletados). Quando a coleção estiver terminada, vamos voltar para ele." />
+  <keys prop="Description" type="monster" key="hkd_9_3_0001_Complete_Text" value="Veja só, não é que você é uma fonte confiável? Ótimo. Se você precisar de mais moedas, venha me ver e poderemos dar um jeito." />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_Title" value="Grande Conto de Peixe - Mar" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_RewarderDesc" value="Mariana" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_Request_Text" value="Aposto que agora você ama pescar! Como está funcionando aquele carretel automático?&lt;br&gt;&lt;br&gt;Pegar Peixes-Palhaços Amarelos deve ser moleza para você. Vá lá e teste!&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_Request_Text_attach_0" value="Traga-me 150 Peixes-Palhaços Amarelos. Eu deixarei um presente pronto para você. Você vai se arrepender se não trouxer!" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_Accepted_Text" value="Obtenha 150 Peixes-Palhaços Amarelos." />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_Ongoing_Text" value="Pegar peixes-palhaço amarelos deve ser moleza para você.&lt;br&gt;&lt;br&gt;Traga-me 150 Peixes-Palhaços Amarelos. Eu deixarei um presente pronto, te esperando. Você vai se arrepender se não trouxer!" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_Complete_Text" value="Uau, você realmente pegou 150! Aqui está o presente que prometi! A melhor das sortes para os seus esforços futuros na pesca. Até breve!" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_1_Title" value="Conto de Peixe Maior - Mar" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_1_RewarderDesc" value="Mariana" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_1_Request_Text" value="É a temporada de Peixes-Palhaços coloridos novamente, e parece ter mais pescadores aqui a cada ano!&lt;br&gt;&lt;br&gt;Eu quero saborear um pouco daquele Peixe-Palhaço colorido também, mas não posso deixar este buraco de pesca sem ninguém para vigiá-lo. Se ao menos houvesse alguém para pegar alguns para mim... Que tal, [UserName]? Gostaria de ajudar?" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_1_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Traga-me 600 Peixes-Palhaços! Eu deixarei um presente especial pronto para você. Conto contigo!" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_1_Accepted_Text" value="Obtenha 600 Peixes-Palhaços." />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_1_Ongoing_Text" value="Eu quero saborear um pouco daquele Peixe-Palhaço colorido também, mas não posso deixar este buraco de pesca sem ninguém para vigiá-lo. Se ao menos houvesse alguém para pegar alguns para mim... Que tal, [UserName]? Gostaria de ajudar?&lt;br&gt;&lt;br&gt;Traga-me 600 Peixes-Palhaços! Eu deixarei um presente especial pronto e esperando por você!" />
+  <keys prop="Description" type="monster" key="hkd_9_1_0001_1_Complete_Text" value="Uau, você realmente pegou 600! Aqui está o presente que prometi! A melhor das sortes para os seus esforços futuros na pesca. Até breve!" />
+</files>

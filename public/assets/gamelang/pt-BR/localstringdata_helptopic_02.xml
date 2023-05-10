@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="idoll_tutorial_camera_title" value="Camera Move" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_camera_desc" value=" Right-click your mouse Hold right-click of your mouse and drag or use Page Up/Down keys to look around." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_move_title" value="Character Move" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_move_desc" value=" Move your character using W A S D keys." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_interaction1_title" value="Interaction" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_interaction1_desc" value="You can get a weapon by approaching a weapon rack and use F key." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_attack_title" value="Attack" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_attack_desc" value="  After selecting a target use number 1 key or  double-click the target for basic attack." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_pattern_title" value="Boss Monster" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_pattern_desc" value=" A boss monster has a specific pattern. Destroy Bimo's barrel and keep Boozer Bimo's HP recovery at bay." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_skill_title" value="Using Skills" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_skill_desc" value="Select a target and use number 2 or 3 key to use a skill." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_fly_title" value="Flying" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_fly_desc" value="While mounted, use SPACE BAR to fly." />
+  <keys prop="Description" type="monster" key="idoll_tutoial_glide_title" value="Gliding" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_glide_desc" value="While flying, double tap SPACE BAR to glide." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_zoom_title" value="Zoom in/out" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_zoom_desc" value="Zoom in/out by scrolling your mouse wheel." />
+</files>

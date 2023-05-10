@@ -457,7 +457,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0270" value="Talhadeira de Fada Ativada" />
   <keys prop="Description" type="item" key="QU_0_0_0270" value="Quando a talhadeira incendiar, a luz retornará finalmente." />
   <keys prop="Name" type="item" key="QU_0_0_0271" value="Anel do Eclipse" />
-  <keys prop="Description" type="item" key="QU_0_0_0271" value="Este anel brilhava até perder sua luz.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão ficará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0271" value="Este anel brilhava até perder sua luz.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão ficará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0272" value="Anel da Família Real" />
   <keys prop="Description" type="item" key="QU_0_0_0272" value="Um anel gravado com a insígnia real. Poderia ser de Lania, mas apenas Renata saberia." />
   <keys prop="Name" type="item" key="QU_0_0_0273" value="Carne de Javali" />
@@ -467,7 +467,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0275" value="Lenço de Curtis" />
   <keys prop="Description" type="item" key="QU_0_0_0275" value="Um lenço que você não quer tocar porque está ensopado com o suor de Curtis." />
   <keys prop="Name" type="item" key="QU_0_0_0276" value="Livro Exarahniano" />
-  <keys prop="Description" type="item" key="QU_0_0_0276" value="Um livro antigo cheio de escritos desde antes da era de Hakanas.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0276" value="Um livro antigo cheio de escritos desde antes da era de Hakanas.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0277" value="Pó de Fada do Lago" />
   <keys prop="Description" type="item" key="QU_0_0_0277" value="Ninguém sabe o que o pó de fada realmente é, mas faz os dedos formigarem." />
   <keys prop="Name" type="item" key="QU_0_0_0278" value="Carne Fresca" />
@@ -619,7 +619,7 @@
   <keys prop="Name" type="item" key="QU_0_3_0047" value="Presa de Agul" />
   <keys prop="Description" type="item" key="QU_0_3_0047" value="QU_0_3_0048_Name" />
   <keys prop="Name" type="item" key="QU_0_3_0048" value="Coração de Agul Zenkit" />
-  <keys prop="Description" type="item" key="QU_0_3_0048" value="br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_3_0048" value="&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_3_0049" value="Pequena Flor de Imiurum" />
   <keys prop="Description" type="item" key="QU_0_3_0049" value="Um milagreiro para vários efeitos de status anormais. Dizem que deve-se usar as habilidades de criação da visão para fazer a maravilhosa droga misteriosa!" />
   <keys prop="Name" type="item" key="QU_0_3_0050" value="Carta de Garantia de Zadaran" />
@@ -855,14 +855,14 @@
   <keys prop="Name" type="item" key="QU_9_0_0032" value="General Russell (Campo de Treinamento)" />
   <keys prop="Name" type="item" key="QU_9_0_0033" value="Homer" />
   <keys prop="Name" type="item" key="QU_9_0_0034" value="Homer" />
-  <keys prop="Name" type="item" key="QU_9_0_0035" value="Renata Mansão Carleon&gt;" />
-  <keys prop="Name" type="item" key="QU_9_0_0036" value="Renata Colina do Moleiro&gt;" />
-  <keys prop="Name" type="item" key="QU_9_0_0037" value="Renata Travessia de Hakain&gt;" />
-  <keys prop="Name" type="item" key="QU_9_0_0038" value="Barras de Aço Pátio de Treinamento&gt;" />
+  <keys prop="Name" type="item" key="QU_9_0_0035" value="Renata &lt;Mansão Carleon&gt;" />
+  <keys prop="Name" type="item" key="QU_9_0_0036" value="Renata &lt;Colina do Moleiro&gt;" />
+  <keys prop="Name" type="item" key="QU_9_0_0037" value="Renata &lt;Travessia de Hakain&gt;" />
+  <keys prop="Name" type="item" key="QU_9_0_0038" value="Barras de Aço &lt;Pátio de Treinamento&gt;" />
   <keys prop="Name" type="item" key="QU_9_0_0039" value="Marin " />
   <keys prop="Name" type="item" key="QU_9_0_0040" value="Russell" />
   <keys prop="Name" type="item" key="QU_9_0_0041" value="Skippus" />
-  <keys prop="Name" type="item" key="QU_9_0_0042" value="Barras de Aço Portão Norte&gt;" />
+  <keys prop="Name" type="item" key="QU_9_0_0042" value="Barras de Aço &lt;Portão Norte&gt;" />
   <keys prop="Name" type="item" key="QU_9_0_0043" value="Tortus (Ruínas do Norte Invisível)" />
   <keys prop="Name" type="item" key="QU_9_4_0001" value="Jody Andy Roy (Região onde Tritael começa)" />
   <keys prop="Name" type="item" key="QU_9_4_0002" value="Errol (Dragão)" />
@@ -937,7 +937,7 @@
   <keys prop="Name" type="item" key="QU_0_3_0112" value="Moeda de Prata de Exarahn" />
   <keys prop="Name" type="item" key="QU_0_3_0113" value="Moeda de Ouro de Exarahn" />
   <keys prop="Name" type="item" key="QU_9_3_0020" value="Besta Amaldiçoada de Ankelion" />
-  <keys prop="Description" type="item" key="QU_9_3_0020" value="Besta Amaldiçoada de Ankelionbr&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_9_3_0020" value="Besta Amaldiçoada de Ankelion&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_9_3_0021" value="Escama de Bolha" />
   <keys prop="Name" type="item" key="QU_0_3_0114" value="Chave da Prisão" />
   <keys prop="Description" type="item" key="QU_0_3_0114" value="Uma chave para abrir a porta da prisão." />
@@ -1045,7 +1045,7 @@
   <keys prop="Name" type="item" key="QU_0_3_0169" value="Cristal de Gelo" />
   <keys prop="Description" type="item" key="QU_0_3_0169" value="Um cristal que contém o poder destrutivo dos yetis." />
   <keys prop="Name" type="item" key="QU_0_3_0170" value="Livro Selado" />
-  <keys prop="Description" type="item" key="QU_0_3_0170" value="Este livro está fechado firmemente por algum tipo de feitiço. Não vai abrir, não importa o quanto você tente.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_3_0170" value="Este livro está fechado firmemente por algum tipo de feitiço. Não vai abrir, não importa o quanto você tente.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_3_0171" value="Brasa de Gelo Murcha" />
   <keys prop="Description" type="item" key="QU_0_3_0171" value="Uma brasa de gelo mágica mantida uma vez por Rondo." />
   <keys prop="Name" type="item" key="QU_0_3_0172" value="Brasa de Gelo" />
@@ -1614,11 +1614,11 @@
   <keys prop="Name" type="item" key="QU_0_0_0431" value="Sangue de Animal Morto-Vivo" />
   <keys prop="Description" type="item" key="QU_0_0_0431" value="Sangue retirado dos animais mortos-vivos que rondam a Sombra da Morte." />
   <keys prop="Name" type="item" key="QU_0_0_0432" value="Garras de Urso Fantasma" />
-  <keys prop="Description" type="item" key="QU_0_0_0432" value="A garra afiada de um urso fantasma. Alguém talvez queira isso.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão ficará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0432" value="A garra afiada de um urso fantasma. Alguém talvez queira isso.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão ficará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0433" value="Coração de Urso Fantasma" />
   <keys prop="Description" type="item" key="QU_0_0_0433" value="O coração em decomposição de um urso fantasma." />
   <keys prop="Name" type="item" key="QU_0_0_0434" value="Poeira de Osso Escurecido" />
-  <keys prop="Description" type="item" key="QU_0_0_0434" value="Poeira de osso escurecido pelo fogo.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0434" value="Poeira de osso escurecido pelo fogo.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0435" value="Flecha do Atirador de Elite do Templo" />
   <keys prop="Description" type="item" key="QU_0_0_0435" value="Flechas usadas pelo atirador de elite do Templo de Haracrow. Obscenamente afiada." />
   <keys prop="Name" type="item" key="QU_0_0_0436" value="Partes do Projeto do Templo" />
@@ -1638,7 +1638,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0443" value="Plano de Ataque da Legião Caída" />
   <keys prop="Description" type="item" key="QU_0_0_0443" value="Registra as rotas de ataque e as ordens da Legião Caída no deserto." />
   <keys prop="Name" type="item" key="QU_0_0_0444" value="Teia de Adelark" />
-  <keys prop="Description" type="item" key="QU_0_0_0444" value="Um pacote com a teia de Adelark. É pegajoso ao toque.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0444" value="Um pacote com a teia de Adelark. É pegajoso ao toque.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0445" value="Restos da Vítima" />
   <keys prop="Description" type="item" key="QU_0_0_0445" value="Os restos parcialmente digeridos de uma vítima que foi engolida por uma aranha." />
   <keys prop="Name" type="item" key="QU_0_0_0446" value="Óleo de Tartaruga" />
@@ -1646,7 +1646,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0447" value="Pinça Primitiva" />
   <keys prop="Description" type="item" key="QU_0_0_0447" value="A perna gorda de um caranguejo primitivo." />
   <keys prop="Name" type="item" key="QU_0_0_0448" value="Souvenir da Falecida" />
-  <keys prop="Description" type="item" key="QU_0_0_0448" value="Uma recordação pertencente à filha de Avro. br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0448" value="Uma recordação pertencente à filha de Avro. &lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0449" value="Tesouro Submerso" />
   <keys prop="Description" type="item" key="QU_0_0_0449" value="É difícil chamar isso de tesouro. Parece mais um barril de pólvora para canhões." />
   <keys prop="Name" type="item" key="QU_0_0_0450" value="Casco de Tartaruga Marinha Primitiva" />
@@ -1686,7 +1686,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0470" value="Porrte Massivo" />
   <keys prop="Description" type="item" key="QU_0_0_0470" value="Mais similar a um pequeno pilar. O favorito entre os Braghin do deserto." />
   <keys prop="Name" type="item" key="QU_0_0_0471" value="Comunicado Braghin" />
-  <keys prop="Description" type="item" key="QU_0_0_0471" value="Um documento de Manaz'tuul, o xamã, solicitando auxílio dos Braghin.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0471" value="Um documento de Manaz'tuul, o xamã, solicitando auxílio dos Braghin.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0472" value="Asa de Fada Escravizada" />
   <keys prop="Description" type="item" key="QU_0_0_0472" value="Uma asa retirada de uma das fadas servas de Shakiba." />
   <keys prop="Name" type="item" key="QU_0_0_0473" value="Gema Lacrimosa" />
@@ -1695,9 +1695,9 @@
   <keys prop="Description" type="item" key="QU_0_0_0474" value="Dizem que você pode aprender muito sobre um Piyo através de seu sangue. Isso não faz você se sentir melhor em relação a matá-lo, no entanto." />
   <keys prop="Name" type="item" key="QU_9_4_0063" value="Nix" />
   <keys prop="Name" type="item" key="QU_0_0_0475" value="Tecido da Princesa Lania" />
-  <keys prop="Description" type="item" key="QU_0_0_0475" value="Um pedaço da seda de alta qualidade, rasgado do vestido da Princesa Lania.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0475" value="Um pedaço da seda de alta qualidade, rasgado do vestido da Princesa Lania.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0476" value="Pedra Sagrada" />
-  <keys prop="Description" type="item" key="QU_0_0_0476" value="Esta pedra emana uma energia sagrada.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0476" value="Esta pedra emana uma energia sagrada.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0477" value="Pedra de Lania" />
   <keys prop="Description" type="item" key="QU_0_0_0477" value="Um sinal da bênção de Ellora que era carregado pela Princesa Lania." />
   <keys prop="Name" type="item" key="QU_0_0_0478" value="Erva da Névoa" />
@@ -1739,7 +1739,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0496" value="Esfera de Alma" />
   <keys prop="Description" type="item" key="QU_0_0_0496" value="Uma esfera que garante controle absoluto sobre almas, tirada de um Monarca de Stygaea." />
   <keys prop="Name" type="item" key="QU_0_0_0497" value="Fragmento do Orador da Morte" />
-  <keys prop="Description" type="item" key="QU_0_0_0497" value="Uma marca mantida pelo Orador da Morte de Stygaea.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0497" value="Uma marca mantida pelo Orador da Morte de Stygaea.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0498" value="Marca do Orador da Morte" />
   <keys prop="Description" type="item" key="QU_0_0_0498" value="Esta marca pode controlar os mortos que foram despertos pelo chamado de Stygaea." />
   <keys prop="Name" type="item" key="QU_0_0_0499" value="Arma do Bando Pálido" />
@@ -1784,7 +1784,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0518" value="Cabeça de Kruwel" />
   <keys prop="Description" type="item" key="QU_0_0_0518" value="A cabeça do crocodilo gigante, Kruwel. Tome cuidado para não se cortar com os dentes afiados." />
   <keys prop="Name" type="item" key="QU_0_0_0519" value="Anel da Dama" />
-  <keys prop="Description" type="item" key="QU_0_0_0519" value="Um anel elegante com uma inscrição na parte interna.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0519" value="Um anel elegante com uma inscrição na parte interna.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0520" value="Poeira de Feixe Contaminado" />
   <keys prop="Description" type="item" key="QU_0_0_0520" value="Este pó emite uma luz que não projeta sombras." />
   <keys prop="Name" type="item" key="QU_0_0_0521" value="Diário de Campo Élfico" />
@@ -1901,11 +1901,11 @@
   <keys prop="Name" type="item" key="QU_9_4_0079" value="Esqueleto Desconhecido (NPC Ator)" />
   <keys prop="Name" type="item" key="QU_9_4_0080" value="Esqueleto Desconhecido (Objeto Ator)" />
   <keys prop="Name" type="item" key="QU_0_0_0581" value="Grimório do Caos" />
-  <keys prop="Description" type="item" key="QU_0_0_0581" value="Este livro está muito danificado para ser lido, mas parece ser um guia para a prática de magia do caos.br&gt;br&gt;UI_Y&gt;Missão Necessária: Vínculo de ElgadenUI_Y&gt;br&gt;br&gt;UI_Y&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0581" value="Este livro está muito danificado para ser lido, mas parece ser um guia para a prática de magia do caos.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Missão Necessária: Vínculo de Elgaden&lt;UI_Y&gt;&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0582" value="Relatório do Colecionador" />
-  <keys prop="Description" type="item" key="QU_0_0_0582" value="Uma carta manuscrita enviada a Bynder, o mestre colecionador, detalhando os acontecimentos do santuário.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão ficará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0582" value="Uma carta manuscrita enviada a Bynder, o mestre colecionador, detalhando os acontecimentos do santuário.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão ficará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0583" value="Cristal de Espírito" />
-  <keys prop="Description" type="item" key="QU_0_0_0583" value="Este cristal está envolvido por chamas sombrias.br&gt;br&gt;UI_Y&gt;Missão Necessária: Assistente de PesquisaUI_Y&gt;br&gt;br&gt;UI_Y&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0583" value="Este cristal está envolvido por chamas sombrias.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Missão Necessária: Assistente de Pesquisa&lt;UI_Y&gt;&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0584" value="Livro de Feitiços Amaldiçoado" />
   <keys prop="Description" type="item" key="QU_0_0_0584" value="Um livro de feitiços cheio de segredos ruinosos." />
   <keys prop="Name" type="item" key="QU_9_4_0081" value="Gilotte do Deserto da Imortalidade" />
@@ -1918,7 +1918,7 @@
   <keys prop="Name" type="item" key="QU_9_4_0086" value="Periot+Panure+Raben (Ronua)" />
   <keys prop="Name" type="item" key="QU_9_4_0087" value="Periot+Panure+Raben (Estação)" />
   <keys prop="Name" type="item" key="QU_0_0_0587" value="Carne de Dryath Frágil" />
-  <keys prop="Description" type="item" key="QU_0_0_0587" value="Examinando mais de perto, esta carne petrificou-se há muito tempo.br&gt;br&gt;UI_Y&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0587" value="Examinando mais de perto, esta carne petrificou-se há muito tempo.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0588" value="Pertences do Malo" />
   <keys prop="Description" type="item" key="QU_0_0_0588" value="Os itens que Malo perdeu para uma aranha da selva." />
   <keys prop="Name" type="item" key="QU_0_0_0589" value="Frasco Cataclísmico" />
@@ -1946,7 +1946,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0600" value="Pedra Sagrada da Verdade" />
   <keys prop="Description" type="item" key="QU_0_0_0600" value="Uma das chaves para o altar onde a Pedra Demoníaca está selada." />
   <keys prop="Name" type="item" key="QU_0_0_0601" value="Pedra Demoníaca" />
-  <keys prop="Description" type="item" key="QU_0_0_0601" value="Durante a Guerra da Luz, a Deusa Ellora selou a alma do Zelnaris, o Deus da Ruína, nesta pedra.br&gt;UI_G&gt;O altar da pedra pode ser acessado apenas com as três pedras da Verdade, da Coragem e da Clarividência./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0601" value="Durante a Guerra da Luz, a Deusa Ellora selou a alma do Zelnaris, o Deus da Ruína, nesta pedra.&lt;br&gt;&lt;UI_G&gt;O altar da pedra pode ser acessado apenas com as três pedras da Verdade, da Coragem e da Clarividência.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0602" value="Seta de Balista" />
   <keys prop="Description" type="item" key="QU_0_0_0602" value="QU_0_0_0603_Name" />
   <keys prop="Name" type="item" key="QU_0_0_0603" value="Carta de Ryno" />
@@ -2017,17 +2017,17 @@
   <keys prop="Name" type="item" key="QU_0_0_0630" value="Baú de Milton" />
   <keys prop="Description" type="item" key="QU_0_0_0630" value="Um baú contendo o trabalho de Milton e um relatório sobre Torkai." />
   <keys prop="Name" type="item" key="QU_0_0_0631" value="Relatório de Cloyd" />
-  <keys prop="Description" type="item" key="QU_0_0_0631" value="Um relatório sobre o Pináculo de Ellora feito por Cloyd, o Cavaleiro de Grifo.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0631" value="Um relatório sobre o Pináculo de Ellora feito por Cloyd, o Cavaleiro de Grifo.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0632" value="Relatório de Karremu" />
-  <keys prop="Description" type="item" key="QU_0_0_0632" value="Um relatório sobre o Pináculo de Ellora feito por Karremu, o Cavaleiro de Grifo.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0632" value="Um relatório sobre o Pináculo de Ellora feito por Karremu, o Cavaleiro de Grifo.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0633" value="Relatório de Pago" />
-  <keys prop="Description" type="item" key="QU_0_0_0633" value="Um relatório sobre o Pináculo de Ellora feito por Pago, o Cavaleiro de Grifo.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0633" value="Um relatório sobre o Pináculo de Ellora feito por Pago, o Cavaleiro de Grifo.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0634" value="Relatório de Liaven" />
-  <keys prop="Description" type="item" key="QU_0_0_0634" value="Um relatório sobre o Pináculo de Ellora feito por Liaven, o Cavaleiro de Grifo.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0634" value="Um relatório sobre o Pináculo de Ellora feito por Liaven, o Cavaleiro de Grifo.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0635" value="Relatório de Bateon" />
-  <keys prop="Description" type="item" key="QU_0_0_0635" value="Um relatório sobre o Pináculo de Ellora feito por Bateon, o Cavaleiro de Grifo.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0635" value="Um relatório sobre o Pináculo de Ellora feito por Bateon, o Cavaleiro de Grifo.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0636" value="Relatório do Nazahi" />
-  <keys prop="Description" type="item" key="QU_0_0_0636" value="Um relatório sobre o Pináculo de Ellora feito por Nazahi, o Cavaleiro de Grifo.br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0636" value="Um relatório sobre o Pináculo de Ellora feito por Nazahi, o Cavaleiro de Grifo.&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão. A missão se tornará indisponível se o item for destruído.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="QU_0_0_0637" value="Carta do Rei dos Lebrini" />
   <keys prop="Description" type="item" key="QU_0_0_0637" value="Uma carta do Rei dos Lebrini que parece ter sido escrita há muito, muito tempo. O conteúdo é ilegível." />
   <keys prop="Name" type="item" key="QU_0_0_0638" value="Receita Antiga" />
@@ -2053,7 +2053,7 @@
   <keys prop="Name" type="item" key="QU_0_0_0648" value="Partes do Guindaste" />
   <keys prop="Description" type="item" key="QU_0_0_0648" value="QU_0_0_0649_Name" />
   <keys prop="Name" type="item" key="QU_0_0_0649" value="Presente de Ellora" />
-  <keys prop="Description" type="item" key="QU_0_0_0649" value="Um presente imbuído com a bênção de Ellora para aqueles que provaram suas forças ao atingir o Nível 55 como um arqueiro.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="QU_0_0_0649" value="Um presente imbuído com a bênção de Ellora para aqueles que provaram suas forças ao atingir o Nível 55 como um arqueiro.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Description" type="item" key="qu_0_0_0650" value="Pertences Queimados" />
   <keys prop="Description" type="item" key="qu_0_0_0650_description" value="Pertences descobertos em uma pilha de bagagens queimada. A causa do fogo é desconhecida. É difícil dizer o que isto costumava ser." />
   <keys prop="Description" type="item" key="qu_0_0_0651" value="Galho Decadente" />
@@ -2073,9 +2073,9 @@
   <keys prop="Description" type="item" key="qu_0_0_0658" value="Diário de Pesquisa" />
   <keys prop="Description" type="item" key="qu_0_0_0658_description" value="Um diário escrito por um membro da milícia civil catalogando eventos ocorrendo em um local específico." />
   <keys prop="Description" type="item" key="qu_0_0_0659" value="Cinco Aventuras de Bongu" />
-  <keys prop="Description" type="item" key="qu_0_0_0659_description" value="Isto aparentemente pertence a Bongu, alguém que gosta de se aventurar.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0659_description" value="Isto aparentemente pertence a Bongu, alguém que gosta de se aventurar.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Description" type="item" key="qu_0_0_0660" value="Bênção de Daveen" />
-  <keys prop="Description" type="item" key="qu_0_0_0660_description" value="Um item que contém a bênção de Daveen.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0660_description" value="Um item que contém a bênção de Daveen.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Description" type="item" key="qu_9_4_0116" value="Fortaleza das Mágoas (Chimer, Elena, Ale)" />
   <keys prop="Description" type="item" key="qu_9_4_0117" value="Camarada Millot (Ronua)" />
   <keys prop="Description" type="item" key="qu_9_4_0118" value="Capitão Roshdan (Travessia de Hakain)" />
@@ -2164,46 +2164,46 @@
   <keys prop="Name" type="item" key="qu_0_0_0696" value="Marfim Danificado" />
   <keys prop="Description" type="item" key="qu_0_0_0696" value="qu_0_0_0697_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0697" value="Comece a próxima missão!" />
-  <keys prop="Description" type="item" key="qu_0_0_0697" value="A primeira missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt; Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0697" value="A primeira missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt; Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_1_0001" value="Fragmento de Marca Desperta Lendária" />
   <keys prop="Name" type="item" key="qu_0_1_0002" value="Fragmento de Marca Desperta de Titã" />
   <keys prop="Name" type="item" key="qu_0_1_0003" value="Fragmento de Marca Desperta Heroica" />
   <keys prop="Name" type="item" key="qu_0_1_0004" value="Medalha de Honra Lendária" />
   <keys prop="Name" type="item" key="qu_0_1_0005" value="Marca Desperta" />
   <keys prop="Name" type="item" key="qu_0_1_0006" value="Medalha de Honra Heroica" />
-  <keys prop="Description" type="item" key="qu_0_1_0001" value="Um fragmento lendário que pode ser trocado por uma marca desperta.br&gt;br&gt;Colete 3 fragmentos de marca desperta lendária e leve-as para a UI_G&gt;Dragão Guardião de Hakanas Velzeroth/UI_G&gt; em troca de uma UI_G&gt;marca despertaUI_G&gt;." />
-  <keys prop="Description" type="item" key="qu_0_1_0002" value="Um fragmento titânico que pode ser trocado por uma marca desperta.br&gt;br&gt;Colete 3 fragmentos de marca desperta de titã e leve-as para a UI_G&gt;Dragão Guardião de Hakanas Velzeroth/UI_G&gt; em troca de uma UI_G&gt;marca despertaUI_G&gt;." />
-  <keys prop="Description" type="item" key="qu_0_1_0003" value="Um fragmento lendário que pode ser trocado por uma marca heroica.br&gt;br&gt;Colete 3 fragmentos de marca desperta heroica e leve-as para a UI_G&gt;Dragão Guardião de Hakanas Velzeroth/UI_G&gt; em troca de uma UI_G&gt;marca despertaUI_G&gt;." />
+  <keys prop="Description" type="item" key="qu_0_1_0001" value="Um fragmento lendário que pode ser trocado por uma marca desperta.&lt;br&gt;&lt;br&gt;Colete 3 fragmentos de marca desperta lendária e leve-as para a &lt;UI_G&gt;Dragão Guardião de Hakanas Velzeroth&lt;/UI_G&gt; em troca de uma &lt;UI_G&gt;marca desperta&lt;UI_G&gt;." />
+  <keys prop="Description" type="item" key="qu_0_1_0002" value="Um fragmento titânico que pode ser trocado por uma marca desperta.&lt;br&gt;&lt;br&gt;Colete 3 fragmentos de marca desperta de titã e leve-as para a &lt;UI_G&gt;Dragão Guardião de Hakanas Velzeroth&lt;/UI_G&gt; em troca de uma &lt;UI_G&gt;marca desperta&lt;UI_G&gt;." />
+  <keys prop="Description" type="item" key="qu_0_1_0003" value="Um fragmento lendário que pode ser trocado por uma marca heroica.&lt;br&gt;&lt;br&gt;Colete 3 fragmentos de marca desperta heroica e leve-as para a &lt;UI_G&gt;Dragão Guardião de Hakanas Velzeroth&lt;/UI_G&gt; em troca de uma &lt;UI_G&gt;marca desperta&lt;UI_G&gt;." />
   <keys prop="Description" type="item" key="qu_0_1_0004" value="Completou com sucesso o desafio de uma masmorra lendária e provou sua força." />
   <keys prop="Description" type="item" key="qu_0_1_0005" value="Uma marca que certifica a força de alguém." />
   <keys prop="Description" type="item" key="qu_0_1_0006" value="Completou com sucesso o desafio de uma masmorra heroica e provou sua força." />
   <keys prop="Name" type="item" key="qu_0_0_0698" value="Segunda Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0698" value="A segunda missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0698" value="A segunda missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0699" value="Terceira Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0699" value="A terceira missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0699" value="A terceira missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0700" value="Quarta Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0700" value="A Quarta missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0700" value="A Quarta missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0701" value="Quinta Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0701" value="A Quinta missão já foi decidida. Que tipo de missão poderia ser? br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0701" value="A Quinta missão já foi decidida. Que tipo de missão poderia ser? &lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0702" value="Sexta Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0702" value="A Sexta missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0702" value="A Sexta missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0703" value="Sétima Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0703" value="A Sétima missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0703" value="A Sétima missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0704" value="Oitava Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0704" value="A Oitava missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0704" value="A Oitava missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0705" value="Marca de Unificação de Familiares" />
-  <keys prop="Description" type="item" key="qu_0_0_0705" value="Uma marca obtida ao unificar um familiar heroico ou superior. UI_G&gt; Não pode ser obtido ao unificar um familiar comum ou de elite./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0705" value="Uma marca obtida ao unificar um familiar heroico ou superior. &lt;UI_G&gt; Não pode ser obtido ao unificar um familiar comum ou de elite.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0707" value="Medicamento de Campo" />
   <keys prop="Description" type="item" key="qu_0_0_0707" value="Pomada Medicinal. Não é muito eficaz, mas é útil em emergências." />
   <keys prop="Name" type="item" key="qu_0_0_0708" value="Carta do Corvo" />
   <keys prop="Name" type="item" key="qu_0_0_0709" value="Energia do Deus da Ruína" />
   <keys prop="Description" type="item" key="qu_0_0_0709" value="Está imbuída com a energia maligna do Zelnaris, o Deus da Ruína." />
   <keys prop="Name" type="item" key="qu_0_0_0706" value="Suba de Nível com a Afreecatv!" />
-  <keys prop="Description" type="item" key="qu_0_0_0706" value="Vamos subir de nível com os streamers do Afreecatv! Suba de nível durante a missão para receber um prêmio!br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;       " />
+  <keys prop="Description" type="item" key="qu_0_0_0706" value="Vamos subir de nível com os streamers do Afreecatv! Suba de nível durante a missão para receber um prêmio!&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;       " />
   <keys prop="Name" type="item" key="qu_0_0_0710" value="Pedra Demoníaca" />
-  <keys prop="Description" type="item" key="qu_0_0_0710" value="Durante a Guerra da Luz, a Deusa Ellora selou a alma do Zelnaris, o Deus da Ruína, nesta pedra.br&gt;UI_G&gt;O altar da pedra pode ser acessado apenas com as três pedras da Verdade, da Coragem e da Clarividência./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0710" value="Durante a Guerra da Luz, a Deusa Ellora selou a alma do Zelnaris, o Deus da Ruína, nesta pedra.&lt;br&gt;&lt;UI_G&gt;O altar da pedra pode ser acessado apenas com as três pedras da Verdade, da Coragem e da Clarividência.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0711" value="Carta de Rex Lebrini" />
-  <keys prop="Description" type="item" key="qu_0_0_0711" value="Uma carta enviada por Rex Lebrini.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt; " />
+  <keys prop="Description" type="item" key="qu_0_0_0711" value="Uma carta enviada por Rex Lebrini.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt; " />
   <keys prop="Description" type="item" key="qu_9_4_0133" value="Santuário de Trânsito de Agarithe" />
   <keys prop="Name" type="item" key="qu_0_0_0712" value="Minério de Cobre Bruto" />
   <keys prop="Description" type="item" key="qu_0_0_0712" value="Minério de cobre que você minerou, destinado à prática de artesanato. Obtenha minério de cobre bruto e, então, procure pelo Eric." />
@@ -2212,25 +2212,25 @@
   <keys prop="Name" type="item" key="qu_0_0_0714" value="Marca de Brutalus" />
   <keys prop="Description" type="item" key="qu_0_0_0714" value="Uma marca que Brutalus estava carregando. Zehra pediu que você trouxesse isso como uma prova de que você completou sua missão." />
   <keys prop="Name" type="item" key="qu_0_0_0715" value="Pacote de Aventuras do Novato" />
-  <keys prop="Description" type="item" key="qu_0_0_0715" value="Uma missão especial para novos aventureiros.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0715" value="Uma missão especial para novos aventureiros.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0716" value="Pacote Especial do Conquistador" />
-  <keys prop="Description" type="item" key="qu_0_0_0716" value="Uma missão especial para aventureiros que estão retornando.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0716" value="Uma missão especial para aventureiros que estão retornando.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0717" value="Ordens do Corvo" />
-  <keys prop="Description" type="item" key="qu_0_0_0717" value="Ordens seladas do Corvo. Eles têm algo a ver com o Exarahn Badlands. UI_G&gt; Clique com o botão direito do mouse para aceitar a missão. /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0717" value="Ordens seladas do Corvo. Eles têm algo a ver com o Exarahn Badlands. &lt;UI_G&gt; Clique com o botão direito do mouse para aceitar a missão. &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0718" value="Segunda Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0718" value="A segunda missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0718" value="A segunda missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0719" value="Terceira Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0719" value="A terceira missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0719" value="A terceira missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0720" value="Quarta Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0720" value="A Quarta missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0720" value="A Quarta missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0721" value="Quinta Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0721" value="A Quinta missão já foi decidida. Que tipo de missão poderia ser? br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0721" value="A Quinta missão já foi decidida. Que tipo de missão poderia ser? &lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0722" value="Sexta Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0722" value="A Sexta missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0722" value="A Sexta missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0723" value="Sétima Missão" />
-  <keys prop="Description" type="item" key="qu_0_0_0723" value="A Sétima missão já foi decidida. O que poderia ser? br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0723" value="A Sétima missão já foi decidida. O que poderia ser? &lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0724" value="Seratia's letter" />
-  <keys prop="Description" type="item" key="qu_0_0_0724" value="A letter from Seratia br&gt; UI_G&gt; You can get a quest through right -click /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0724" value="A letter from Seratia &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -click &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0725" value="Carasha server transfer ticket" />
   <keys prop="Description" type="item" key="qu_0_0_0725" value="The character with this ticket is transferred to Karasha server after the end of the season server" />
   <keys prop="Name" type="item" key="qu_0_0_0726" value="Agnas server transfer ticket" />
@@ -2300,45 +2300,45 @@
   <keys prop="Name" type="item" key="qu_0_0_0758" value="Coração de Adelic" />
   <keys prop="Description" type="item" key="qu_0_0_0758" value="O coração do Rei dos Exids que são membros da Legião dos Insetos. Está brilhando." />
   <keys prop="Name" type="item" key="qu_0_0_0759" value="(Actor) Rokun" />
-  <keys prop="Description" type="item" key="qu_0_0_0759" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0759" value="qu_0_0_0760_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0760" value="(Ator) Cerco" />
-  <keys prop="Description" type="item" key="qu_0_0_0760" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0760" value="qu_0_0_0761_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0761" value="(Ator) Caixa de Suprimento de Ithilis" />
-  <keys prop="Description" type="item" key="qu_0_0_0761" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0761" value="qu_0_0_0762_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0762" value="(Ator) Prisão de Exid, Inseto" />
-  <keys prop="Description" type="item" key="qu_0_0_0762" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0762" value="qu_0_0_0763_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0763" value="(Ator) Missão de Ithilis Concluída" />
-  <keys prop="Description" type="item" key="qu_0_0_0763" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0763" value="qu_0_0_0764_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0764" value="(Ator) Igor, Croat, Keto, Konatsu" />
-  <keys prop="Description" type="item" key="qu_0_0_0764" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0764" value="qu_0_0_0765_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0765" value="(Ator) Kurodian Capturada" />
-  <keys prop="Description" type="item" key="qu_0_0_0765" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0765" value="qu_0_0_0766_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0766" value="(Ator) Kurodian Liberto" />
-  <keys prop="Description" type="item" key="qu_0_0_0766" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0766" value="qu_0_0_0767_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0767" value="(Ator) Missão da Terra Concluída" />
-  <keys prop="Description" type="item" key="qu_0_0_0767" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0767" value="qu_0_0_0768_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0768" value="(Ator) Silveth Ajudante" />
-  <keys prop="Description" type="item" key="qu_0_0_0768" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0768" value="qu_0_0_0769_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0769" value="(Ator) Missão de Aklan Concluída" />
-  <keys prop="Description" type="item" key="qu_0_0_0769" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0769" value="qu_0_0_0770_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0770" value="(Ator) Jarad Rei Inseto de Aklan" />
-  <keys prop="Description" type="item" key="qu_0_0_0770" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0770" value="qu_0_0_0771_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0771" value="(Ator) Silveth Assistente" />
-  <keys prop="Description" type="item" key="qu_0_0_0771" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0771" value="qu_0_0_0772_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0772" value="(Ator) Sasha" />
-  <keys prop="Description" type="item" key="qu_0_0_0772" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0772" value="qu_0_0_0773_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0773" value="(Ator) Jarad, o Grande Rei Inseto de Aklan" />
-  <keys prop="Description" type="item" key="qu_0_0_0773" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0773" value="qu_0_0_0774_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0774" value="(Ator) Ani do Desfiladeiro Grandioso" />
-  <keys prop="Description" type="item" key="qu_0_0_0774" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0774" value="qu_0_0_0775_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0775" value="(Ator) Clack Domado" />
-  <keys prop="Description" type="item" key="qu_0_0_0775" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0775" value="qu_0_0_0776_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0776" value="(Ator) Titã da Travessia de Hakain" />
-  <keys prop="Description" type="item" key="qu_0_0_0776" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0776" value="qu_0_0_0777_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0777" value="(Ator) Titã da Aldeia do Desfiladeiro Grandioso" />
-  <keys prop="Description" type="item" key="qu_0_0_0777" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0777" value="qu_0_0_0778_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0778" value="(Ator) Santuário de Trânsito de Sasha" />
-  <keys prop="Description" type="item" key="qu_0_0_0778" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0778" value="qu_0_0_0779_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0779" value="Bolso de Hormônio" />
   <keys prop="Description" type="item" key="qu_0_0_0779" value="Bolso de hormônio da Legião dos Insetos. É pequeno e macio." />
   <keys prop="Name" type="item" key="qu_0_0_0780" value="Asas da Legião dos Insetos" />
@@ -2346,43 +2346,43 @@
   <keys prop="Name" type="item" key="qu_0_0_0781" value="Amostra de Sangue de Mutante" />
   <keys prop="Description" type="item" key="qu_0_0_0781" value="Sangue de um mutante. Tem um cheiro estranho." />
   <keys prop="Name" type="item" key="qu_0_0_0782" value="(Ator) Morrow (Tumba do Wyrm)" />
-  <keys prop="Description" type="item" key="qu_0_0_0782" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0782" value="qu_0_0_0783_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0783" value="(Ator) Morrow (Aldeia do Desfiladeiro Grandioso)" />
-  <keys prop="Description" type="item" key="qu_0_0_0783" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0783" value="qu_0_0_0784_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0784" value="(Ator) Aevin (Tumba do Wyrm)" />
-  <keys prop="Description" type="item" key="qu_0_0_0784" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0784" value="qu_0_0_0785_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0785" value="(Ator) Aevin (Tumba do Wyrm)" />
-  <keys prop="Description" type="item" key="qu_0_0_0785" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0785" value="qu_0_0_0786_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0786" value="(Ator) Aevin (Tumba do Wyrm)" />
-  <keys prop="Description" type="item" key="qu_0_0_0786" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0786" value="qu_0_0_0787_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0787" value="Tomo Real Proibido" />
-  <keys prop="Description" type="item" key="qu_0_0_0787" value="Uma herança antiga da Família Real Anciã de Turimnan. Leve-a para UI_G&gt;Arqueologista Zamwa/UI_G&gt;." />
+  <keys prop="Description" type="item" key="qu_0_0_0787" value="Uma herança antiga da Família Real Anciã de Turimnan. Leve-a para &lt;UI_G&gt;Arqueologista Zamwa&lt;/UI_G&gt;." />
   <keys prop="Name" type="item" key="qu_0_0_0788" value="(Ator) Atualização de Alvo da Missão_Assassino Suspeito" />
-  <keys prop="Description" type="item" key="qu_0_0_0788" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0788" value="qu_0_0_0789_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0789" value="(Ator) Atualização de Alvo da Missão_Onde Estão os Suprimentos?" />
-  <keys prop="Description" type="item" key="qu_0_0_0789" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0789" value="qu_0_0_0790_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0790" value="(Ator) Atualização de Alvo da Missão_Luz de Angústia" />
-  <keys prop="Description" type="item" key="qu_0_0_0790" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0790" value="qu_0_0_0791_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0791" value="(Ator) Atualização de Alvo da Missão_Livro de Registros" />
-  <keys prop="Description" type="item" key="qu_0_0_0791" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0791" value="qu_0_0_0792_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0792" value="(Ator) Atualização de Alvo da Missão_Floresta de Aklan_Equipe de Investigação" />
-  <keys prop="Description" type="item" key="qu_0_0_0792" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0792" value="qu_0_0_0793_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0793" value="(Ator) Atualização de Alvo da Missão_Área de Yakutan" />
-  <keys prop="Description" type="item" key="qu_0_0_0793" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0793" value="qu_0_0_0794_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0794" value="(Ator) Atualização de Alvo da Missão_Ruínas de Yakutan" />
-  <keys prop="Description" type="item" key="qu_0_0_0794" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0794" value="qu_0_0_0795_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0795" value="(Ator) Atualização de Alvo da Missão_Covil de Ilric" />
-  <keys prop="Description" type="item" key="qu_0_0_0795" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0795" value="qu_0_0_0796_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0796" value="(Ator) Atualização de Alvo da Missão_Princesa Lania" />
-  <keys prop="Description" type="item" key="qu_0_0_0796" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0796" value="qu_0_0_0797_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0797" value="(Ator) Escolhas: Por Dinheiro" />
-  <keys prop="Description" type="item" key="qu_0_0_0797" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0797" value="qu_0_0_0798_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0798" value="(Ator) Escolhas: Por Comparação" />
-  <keys prop="Description" type="item" key="qu_0_0_0798" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0798" value="qu_0_0_0799_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0799" value="(Ator) Gubami Lebrini" />
-  <keys prop="Description" type="item" key="qu_0_0_0799" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0799" value="qu_0_0_0800_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0800" value="(Ator) Cayde (Após o Resgate)" />
-  <keys prop="Description" type="item" key="qu_0_0_0800" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0800" value="qu_0_0_0801_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0801" value="Verdade do Primeiro Rumor" />
   <keys prop="Description" type="item" key="qu_0_0_0801" value="A verdade do primeiro rumor sendo discutido em Ithilis." />
   <keys prop="Name" type="item" key="qu_0_0_0802" value="Verdade do Segundo Rumor" />
@@ -2390,33 +2390,33 @@
   <keys prop="Name" type="item" key="qu_0_0_0803" value="Verdade do Terceiro Rumor" />
   <keys prop="Description" type="item" key="qu_0_0_0803" value="A verdade do primeiro rumor sendo discutido em Aklan." />
   <keys prop="Name" type="item" key="qu_0_0_0806" value="Evento de Dia de Turimnan (Tentativa)" />
-  <keys prop="Description" type="item" key="qu_0_0_0806" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0806" value="qu_0_0_0807_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0807" value="Carta de Alguém" />
-  <keys prop="Description" type="item" key="qu_0_0_0807" value="Para aqueles de vocês que estão visitando Hakanas pela primeira vez. br&gt; - Hamanbr&gt;br&gt;UI_G&gt; Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0807" value="Para aqueles de vocês que estão visitando Hakanas pela primeira vez. &lt;br&gt; - Haman&lt;br&gt;&lt;br&gt;&lt;UI_G&gt; Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0808" value="Primeira Carta de Haman" />
-  <keys prop="Description" type="item" key="qu_0_0_0808" value="A primeira carta que Haman enviou. O que há dentro?br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0808" value="A primeira carta que Haman enviou. O que há dentro?&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0809" value="Segunda Carta de Haman I" />
-  <keys prop="Description" type="item" key="qu_0_0_0809" value="A segunda carta que Haman enviou. O que há dentro?br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0809" value="A segunda carta que Haman enviou. O que há dentro?&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0810" value="Segunda Carta de Haman II" />
-  <keys prop="Description" type="item" key="qu_0_0_0810" value="A segunda carta que Haman enviou. O que há dentro?br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0810" value="A segunda carta que Haman enviou. O que há dentro?&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0811" value="Segunda Carta de Haman III" />
-  <keys prop="Description" type="item" key="qu_0_0_0811" value="A segunda carta que Haman enviou. O que há dentro?br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0811" value="A segunda carta que Haman enviou. O que há dentro?&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0812" value="Terceira Carta de Haman" />
-  <keys prop="Description" type="item" key="qu_0_0_0812" value="A terceira carta que Haman enviou. O que há dentro?br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0812" value="A terceira carta que Haman enviou. O que há dentro?&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0813" value="Quarta Carta de Haman" />
-  <keys prop="Description" type="item" key="qu_0_0_0813" value="A quarta carta que Haman enviou. O que há dentro?br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0813" value="A quarta carta que Haman enviou. O que há dentro?&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0814" value="Ordem de Qualificação de Turimnan I" />
-  <keys prop="Description" type="item" key="qu_0_0_0814" value="Se você acha que está bem qualificado, experimente os desafios de Turimnan.br&gt; - Hamanbr&gt;br&gt; Recompensas da Missão: br&gt; 1x Fragmento do Esquecimentobr&gt;br&gt; UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0814" value="Se você acha que está bem qualificado, experimente os desafios de Turimnan.&lt;br&gt; - Haman&lt;br&gt;&lt;br&gt; Recompensas da Missão: &lt;br&gt; 1x Fragmento do Esquecimento&lt;br&gt;&lt;br&gt; &lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0815" value="Ordem de Qualificação de Turimnan II" />
-  <keys prop="Description" type="item" key="qu_0_0_0815" value="Se você acha que está bem qualificado, experimente os desafios de Turimnan.br&gt; - Hamanbr&gt;br&gt; Recompensas da Missão: br&gt; 1x Fragmento Perdidobr&gt;br&gt; UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0815" value="Se você acha que está bem qualificado, experimente os desafios de Turimnan.&lt;br&gt; - Haman&lt;br&gt;&lt;br&gt; Recompensas da Missão: &lt;br&gt; 1x Fragmento Perdido&lt;br&gt;&lt;br&gt; &lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0816" value="Ordem de Qualificação de Turimnan III" />
-  <keys prop="Description" type="item" key="qu_0_0_0816" value="Se você acha que está bem qualificado, experimente os desafios de Turimnan.br&gt; - Hamanbr&gt;br&gt; Recompensas da Missão: br&gt; 1x Tomo Real Proibidobr&gt;br&gt; UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0816" value="Se você acha que está bem qualificado, experimente os desafios de Turimnan.&lt;br&gt; - Haman&lt;br&gt;&lt;br&gt; Recompensas da Missão: &lt;br&gt; 1x Tomo Real Proibido&lt;br&gt;&lt;br&gt; &lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0818" value="Bilhete de Troca de Crescimento - Terceiro Aniversário" />
-  <keys prop="Description" type="item" key="qu_0_0_0818" value="Conclua as tarefas e observe você mesmo melhorar.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0818" value="Conclua as tarefas e observe você mesmo melhorar.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0819" value="Relatório de Patrulha de Kurodian" />
-  <keys prop="Description" type="item" key="qu_0_0_0819" value="Um relatório de patrulha para selecionar animais para captura e pesquisa.br&gt;Através deste relatório, você terá a tarefa de eliminar Kurodian para pesquisa. Você pode adquirir um material útil na captura de pets.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;br&gt;&#xD;&#xA;R_Y&gt;Disponível apenas uma vez por dia./R_Y&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0819" value="Um relatório de patrulha para selecionar animais para captura e pesquisa.&lt;br&gt;Através deste relatório, você terá a tarefa de eliminar Kurodian para pesquisa. Você pode adquirir um material útil na captura de pets.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;&lt;br&gt;&#xD;&#xA;&lt;R_Y&gt;Disponível apenas uma vez por dia.&lt;/R_Y&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0820" value="Relatório de Pesquisa de Kurodian" />
-  <keys prop="Description" type="item" key="qu_0_0_0820" value="Um trabalho de pesquisa projetado para mostrar candidatos à pesquisa de pets para captura.br&gt;Através deste relatório, você receberá a missão de eliminar Kurodian pela pesquisa. Você deve adquirir um material que é de grande ajuda para a captura de pets.br&gt;br&gt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão./UI_G&gt;br&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0820" value="Um trabalho de pesquisa projetado para mostrar candidatos à pesquisa de pets para captura.&lt;br&gt;Através deste relatório, você receberá a missão de eliminar Kurodian pela pesquisa. Você deve adquirir um material que é de grande ajuda para a captura de pets.&lt;br&gt;&lt;br&gt;&lt;UI_G&gt;Clique com o botão direito do mouse para aceitar a missão.&lt;/UI_G&gt;&lt;br&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0821" value="Pedra da Fundação Quebrada" />
   <keys prop="Description" type="item" key="qu_0_0_0821" value="Uma pedra que enriquece a terra. Eu não sei se realmente o faz, mas Giovanni Lebrini acredita nisso. Pode ter quebrado após a briga." />
   <keys prop="Name" type="item" key="qu_0_0_0822" value="Pedra de Água Pequena" />
@@ -2432,9 +2432,9 @@
   <keys prop="Name" type="item" key="qu_0_0_0827" value="Mapa do Tesouro do Suiguchi Lebrini" />
   <keys prop="Description" type="item" key="qu_0_0_0827" value="É um bilhete com a localização de um tesouro escondido pelo Suiguchi Lebrini." />
   <keys prop="Name" type="item" key="qu_0_0_0828" value="(Ator) Corvo_Brakarr_Fada" />
-  <keys prop="Description" type="item" key="qu_0_0_0828" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0828" value="qu_0_0_0829_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0829" value="(Ator) Corvo_Brakarr_Cristal Ancestral" />
-  <keys prop="Description" type="item" key="qu_0_0_0829" value="" />
+  <keys prop="Description" type="item" key="qu_0_0_0829" value="qu_0_0_0830_Name" />
   <keys prop="Name" type="item" key="qu_0_0_0830" value="Essência de Khabim" />
   <keys prop="Description" type="item" key="qu_0_0_0830" value="Essência que contém o poder de Khabim. É a marca de um Khabimista." />
   <keys prop="Name" type="item" key="qu_0_0_0831" value="Sombra do Deus da Ruína" />
@@ -2442,7 +2442,7 @@
   <keys prop="Name" type="item" key="qu_0_0_0832" value="Sangue do Poder de Khabim" />
   <keys prop="Description" type="item" key="qu_0_0_0832" value="Sangue contendo o poder de Khabim. Os cultistas se injetam com isso." />
   <keys prop="Name" type="item" key="qu_0_0_0833" value="Palavra de Poder Destrutiva" />
-  <keys prop="Description" type="item" key="qu_0_0_0833" value="Uma palavra de poder deixada por Skatrasha que destrói tudo.br&gt;Essa energia está selada mas parece ser tão poderosa." />
+  <keys prop="Description" type="item" key="qu_0_0_0833" value="Uma palavra de poder deixada por Skatrasha que destrói tudo.&lt;br&gt;Essa energia está selada mas parece ser tão poderosa." />
   <keys prop="Name" type="item" key="qu_0_0_0834" value="Chave da Biblioteca do Duque Ancião" />
   <keys prop="Description" type="item" key="qu_0_0_0834" value="A chave para entrar na biblioteca particular do Duque Ancião. Dizem conter todos os livros que já existiram em Midellas." />
   <keys prop="Name" type="item" key="qu_0_0_0835" value="Chifres de um Súcubo" />
@@ -2480,27 +2480,27 @@
   <keys prop="Name" type="item" key="qu_0_0_0851" value="Vitória de Icarus! Tocha dos Esportes" />
   <keys prop="Description" type="item" key="qu_0_0_0851" value="Sinto que vou ser o jogador número um apenas por segurar isso, por algum motivo." />
   <keys prop="Name" type="item" key="qu_0_0_0852" value="Chuseok Gift Box 1" />
-  <keys prop="Description" type="item" key="qu_0_0_0852" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0852" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0853" value="Chuseok Gift Box 2" />
-  <keys prop="Description" type="item" key="qu_0_0_0853" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0853" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0854" value="Chuseok Gift Box 3" />
-  <keys prop="Description" type="item" key="qu_0_0_0854" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0854" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0855" value="Chuseok Gift Box 4" />
-  <keys prop="Description" type="item" key="qu_0_0_0855" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0855" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0856" value="Chuseok Gift Box 5" />
-  <keys prop="Description" type="item" key="qu_0_0_0856" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0856" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0857" value="Chuseok Gift Box 6" />
-  <keys prop="Description" type="item" key="qu_0_0_0857" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0857" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0858" value="Chuseok Gift Box 7" />
-  <keys prop="Description" type="item" key="qu_0_0_0858" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0858" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0859" value="Chuseok Gift Box 8" />
-  <keys prop="Description" type="item" key="qu_0_0_0859" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0859" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0860" value="Chuseok Gift Box 9" />
-  <keys prop="Description" type="item" key="qu_0_0_0860" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0860" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0861" value="Chuseok Gift Box 10" />
-  <keys prop="Description" type="item" key="qu_0_0_0861" value="A gift box specially made for Chuseok br&gt; UI_G&gt; You can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0861" value="A gift box specially made for Chuseok &lt;br&gt; &lt;UI_G&gt; You can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0862" value="Bracar Forest Collection Box" />
-  <keys prop="Description" type="item" key="qu_0_0_0862" value="If you complete the Bracar Forest Collection you can get a quest through right -clicking /Ui_g&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0862" value="If you complete the Bracar Forest Collection you can get a quest through right -clicking &lt;/Ui_g&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0863" value="Hakanas Water Collection Box" />
   <keys prop="Description" type="item" key="qu_0_0_0863" value="You can get a box that can be obtained by completing the Hakanas Water Collection" />
   <keys prop="Name" type="item" key="qu_0_0_0864" value="Hakanas Water Collection Collection Box Key" />
@@ -2510,7 +2510,7 @@
   <keys prop="Name" type="item" key="qu_0_0_0866" value="Hakanas Direct Class Collection Box Key" />
   <keys prop="Description" type="item" key="qu_0_0_0866" value="The key from the Hakanas Water Collection Box With this key you can open a compensation box for the next stage" />
   <keys prop="Name" type="item" key="qu_0_0_0867" value="Hakanas Collection Box" />
-  <keys prop="Description" type="item" key="qu_0_0_0867" value="If you complete the collection of Hakanas you can get a quest through right -clicking br&gt; br&gt; br&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0867" value="If you complete the collection of Hakanas you can get a quest through right -clicking &lt;br&gt; &lt;br&gt; &lt;br&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0868" value="Hakanas Collection Box Key" />
   <keys prop="Description" type="item" key="qu_0_0_0868" value="The key from the Hakanas Direct Class Collection Box With this key you can open a compensation box for the next stage" />
   <keys prop="Name" type="item" key="qu_0_0_0869" value="Farna's Land Collection Box" />
@@ -2538,7 +2538,7 @@
   <keys prop="Name" type="item" key="qu_0_0_0880" value="Archeron lawless zone collection box key" />
   <keys prop="Description" type="item" key="qu_0_0_0880" value="The key from Ellora's sanctuary collection box With this key you can open a compensation box for the next stage" />
   <keys prop="Name" type="item" key="qu_0_0_0881" value="Acrat Meadow Collection Box" />
-  <keys prop="Description" type="item" key="qu_0_0_0881" value="If you complete the Acrat Meadow Collection you can get a quest through right -clicking /UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0881" value="If you complete the Acrat Meadow Collection you can get a quest through right -clicking &lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0882" value="Acrat Meadow Collection Box Key" />
   <keys prop="Description" type="item" key="qu_0_0_0882" value="The key from the immortal desert collection box With this key you can open a compensation box for the next stage" />
   <keys prop="Name" type="item" key="qu_0_0_0883" value="Turim Ran Valley Collection Box" />
@@ -2564,11 +2564,15 @@
   <keys prop="Name" type="item" key="qu_0_0_0893" value="Snout" />
   <keys prop="Description" type="item" key="qu_0_0_0893" value="If you make a winter blanket with this feather it will be incredibly warm" />
   <keys prop="Name" type="item" key="qu_0_0_0894" value="Instruções para o Explorador da Estrela" />
-  <keys prop="Description" type="item" key="qu_0_0_0894" value="Quando viro a primeira página do diário, noto a frase &quot;Deixe este guia para o explorador das estrelas&quot;.UI_G&gt;Clique com o botão direito para aceitar a missão./UI_G&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0894" value="Quando viro a primeira página do diário, noto a frase &quot;Deixe este guia para o explorador das estrelas&quot;.&lt;UI_G&gt;Clique com o botão direito para aceitar a missão.&lt;/UI_G&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0895" value="Chef's well -being cooking list" />
-  <keys prop="Description" type="item" key="qu_0_0_0895" value="The chef Funny writes the ingredients necessary for well -being dishes UI_G&gt; You can get a quest through right -click (However only once a day can be performed) /ui_g&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0895" value="The chef Funny writes the ingredients necessary for well -being dishes &lt;UI_G&gt; You can get a quest through right -click (However only once a day can be performed) &lt;/ui_g&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0896" value="List of chef meat cooking ingredients" />
-  <keys prop="Description" type="item" key="qu_0_0_0896" value="The chef Funny writes the ingredients necessary for meat dishes UI_G&gt; You can get a quest through right -click (However only once a day can be performed) /ui_g&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0896" value="The chef Funny writes the ingredients necessary for meat dishes &lt;UI_G&gt; You can get a quest through right -click (However only once a day can be performed) &lt;/ui_g&gt;" />
   <keys prop="Name" type="item" key="qu_0_0_0897" value="uma promessa com Yeti" />
-  <keys prop="Description" type="item" key="qu_0_0_0897" value="Uma promessa que apenas aqueles que formaram um vínculo profundo com o Yeti têm. Se usado, a missão de aquisição do Familiar Gêmeo Yeti pode ser realizada.&#xD;&#xA;UI_G&gt;Clique com o botão direito para receber a missão./UI_G&gt;&#xD;&#xA;R_Y&gt;Se a solicitação for cancelada, não poderá ser recebida novamente /R_Y&gt;" />
+  <keys prop="Description" type="item" key="qu_0_0_0897" value="Uma promessa que apenas aqueles que formaram um vínculo profundo com o Yeti têm. Se usado, a missão de aquisição do Familiar Gêmeo Yeti pode ser realizada.&#xD;&#xA;&lt;UI_G&gt;Clique com o botão direito para receber a missão.&lt;/UI_G&gt;&#xD;&#xA;&lt;R_Y&gt;Se a solicitação for cancelada, não poderá ser recebida novamente &lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="qu_0_0_0898" value="Record of experiment" />
+  <keys prop="Description" type="item" key="qu_0_0_0898" value="This is a record of an experiment." />
+  <keys prop="Name" type="item" key="qu_0_0_0899" value="Commands" />
+  <keys prop="Description" type="item" key="qu_0_0_0899" value="When the special reagent arrived, the writing was revealed. I feel a gloomy aura." />
 </files>
