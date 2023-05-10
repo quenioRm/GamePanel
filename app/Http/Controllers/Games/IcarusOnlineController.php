@@ -34,7 +34,7 @@ class IcarusOnlineController extends Controller
                 ],
                 'keyVal2' => [
                     '@attributes' => array(
-                        'value' => 123456 // Version
+                        'value' => $request['keyVal2'] // Version
                     )
                 ],
                 'm' => [
