@@ -14,7 +14,7 @@ class IcarusOnlineController extends Controller
     {
         $alert = Alerts::CheckIfExistsMaintenance();
 
-        $account = User::FindAccountByUUID($request['keyVal1']);
+        $account = User::FindAccountByUUID($request['keyVal1'], $request['keyVal2']);
 
         if($account == null)
             return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
@@ -34,7 +34,7 @@ class IcarusOnlineController extends Controller
                 ],
                 'keyVal2' => [
                     '@attributes' => array(
-                        'value' => 123456 // Version
+                        'value' => $request['keyVal2'] // Version
                     )
                 ],
                 'm' => [

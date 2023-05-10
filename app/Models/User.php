@@ -44,7 +44,8 @@ class User extends Authenticatable
         'permission',
         'cash',
         'money',
-        'discordId'
+        'discordId',
+        'secondgameKey'
     ];
 
     /**
@@ -151,6 +152,12 @@ class User extends Authenticatable
 
             //$user->isIpCheck = $isIpCheck;
             $user->ip = $ip;
+            if($user->secondgameKey == null){
+                $randomNumber = random_int(100000, 999999);
+                $user->secondgameKey = $randomNumber;
+            }
+
+
             $user->save();
 
             return [
@@ -282,9 +289,9 @@ class User extends Authenticatable
         return -1;
     }
 
-    public static function FindAccountByUUID($uuid)
+    public static function FindAccountByUUID($uuid, $secondKey)
     {
-        $user = self::where('uuid', $uuid)->first();
+        $user = self::where('uuid', $uuid)->where('secondgameKey', $secondKey)->first();
         if($user){
             return $user;
         }
