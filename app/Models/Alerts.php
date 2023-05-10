@@ -24,12 +24,16 @@ class Alerts extends Model
 
     public static function CheckIfExistsMaintenance()
     {
+        $check = false;
+
         $alerts = self::get();
         foreach ($alerts as $key => $alert) {
             if($alert->showAfterDate > now())
-                return -1;
+                $check = false;
+            else
+                $check = true;
         }
 
-        return 0;
+        return $check;
     }
 }

@@ -8,7 +8,7 @@
    <input Class="" Icon="" LabelName="" Placeholder="" id="birthFormat" name="birthFormat" type="hidden" value="dd/MM/yyyy" /><input Class="" Icon="" LabelName="" Placeholder="" id="birthFormatRegex" name="birthFormatRegex" type="hidden" value="(0[1-9]|[1-2][0-9]|3[0-1])\/(0[1-9]|1[0-2])\/[0-9]{4}$" /><input Class="" Icon="" LabelName="" Placeholder="" id="_canPlayNationCode" name="_canPlayNationCode" type="hidden" value="HK|MO|TW|JP|AM|AZ|BY|GE|KZ|KG|MD|RU|TJ|TM|UA|UZ|EE|LV|LT|DZ|AO|BH|BJ|BW|BF|BI|CM|CF|TD|CG|CD|CI|DJ|EG|GQ|ER|ET|GA|GM|GH|GN|GW|IR|IQ|IL|JO|KE|KW|LB|LS|LR|LY|MG|MW|ML|MR|MU|MA|MZ|NA|NE|NG|OM|PS|QA|RW|SA|SN|SL|SO|ZA|SS|SD|SZ|SY|TZ|TG|TN|TR|UG|AE|EH|YE|ZM|ZW|TH|BN|KH|ID|LA|MY|MM|PH|SG|VN|AX|AL|AS|AD|AI|AW|AU|AT|BE|BM|BA|BV|IO|BG|CA|KY|CK|HR|CW|CY|CZ|DK|FK|FO|FJ|FI|FR|GF|PF|TF|DE|GI|GR|GL|GP|GU|GG|VA|HU|IS|IE|IM|IT|JE|KI|LI|LU|MK|MT|MH|MQ|YT|MX|FM|MC|ME|MS|NR|NL|NC|NZ|NU|NF|MP|NO|PW|PG|PN|PL|PT|PR|RE|RO|BL|SH|PM|WS|SM|RS|SK|SI|SB|GS|ES|SJ|SE|CH|TK|TO|TC|TV|GB|US|UM|VU|VG|VI|WF|AF|AQ|AG|AR|BS|BD|BB|BZ|BT|BO|BR|CV|CL|CX|CC|CO|KM|CR|CU|DM|DO|EC|SV|GD|GT|GY|HT|HM|HN|IN|JM|MV|MN|NP|NI|PK|PA|PY|PE|KN|LC|VC|ST|SC|LK|SR|TL|TT|UY|VE" /><input Class="" Icon="" LabelName="" Placeholder="" id="_skinID" name="_skinID" type="hidden" value="" /><input Class="" Icon="" LabelName="" Placeholder="" id="hdEncGameCode" name="_encGameCode" type="hidden" value="" />
     <div id="step02" class="container container_join">
        <article class="content">
-          {{-- <h2>Criar Pearl Abyss ID</h2> --}}
+          {{-- <h2>Criar Icarus101XP ID</h2> --}}
           <div class="box_join">
             <div class="input_with_btn js-email">
                <div class="custom_input label">

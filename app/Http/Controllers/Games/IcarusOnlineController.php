@@ -22,7 +22,7 @@ class IcarusOnlineController extends Controller
         if($account->isBlockEmailDomain == 1)
             return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
 
-        if($account->permission == 0 && $alert < 0)
+        if($account->permission == 0 && $alert == false)
             return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
 
         $data = array(
