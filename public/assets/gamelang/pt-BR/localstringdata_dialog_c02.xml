@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="dialog_1220012_Title" value="Capitão Wilberg" />
+  <keys prop="Description" type="monster" key="dialog_1220012_text0" value="Akrat era um lugar cheio de belas e vastas planícies, não é mais. A terra está seca e devastada, e é difícil encontrar uma única folha de grama fresca." />
+  <keys prop="Description" type="monster" key="dialog_1220013_Title" value="Ereman" />
+  <keys prop="Description" type="monster" key="dialog_1220013_text0" value="Graças às hordas de invasores, os prados de Akrat estão cheios de perigos. Muitas pessoas sofrem por causa disso.&lt;br&gt;Nossa tarefa infeliz é levar os residentes do Porto Comercial a um lugar seguro.  " />
+  <keys prop="Description" type="monster" key="dialog_1220013_Answer_0_Text" value="Ir para Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="dialog_1220000_Title" value="Camarada Millot" />
+  <keys prop="Description" type="monster" key="dialog_1220000_text0" value="Minha incumbência é escoltar Erna até Akrat. O destino da Princesa Lania é trágico...Mas a Deusa Ellora nos dá esperanças.&lt;br&gt;Vou garantir uma chegada segura em Akrat. Vamos logo!" />
+  <keys prop="Description" type="monster" key="dialog_1220000_Answer_0_Text" value="Ir para Akrat" />
+  <keys prop="Description" type="monster" key="dialog_1220014_Title" value="Capitão Roshdan" />
+  <keys prop="Description" type="monster" key="dialog_1220014_text0" value="As planícies de Akrat estão cheias de criminosos. Você tem certeza que tem que ir lá agora? Vai ser perigoso.&lt;br&gt;&lt;br&gt;Se você realmente precisa ir eu prometo a você, pela minha honra de marinheiro, que você chegará lá em segurança!" />
+  <keys prop="Description" type="monster" key="dialog_1220014_Answer_0_Text" value="Ir para Akrat" />
+  <keys prop="Description" type="monster" key="dialog_1220071_Title" value="Taraon" />
+  <keys prop="Description" type="monster" key="dialog_1220071_text0" value="Merumi é protegida pela Deusa Parna, mas nem ela pôde evitar que o mal a devastasse. Isso é culpa nossa. Nos tínhamos que estar lá para ajudar Parna a proteger o Santuário da Água. Por favor, ajude Merumi a ter paz." />
+  <keys prop="Description" type="monster" key="dialog_1220050_Title" value="Elena" />
+  <keys prop="Description" type="monster" key="dialog_1220050_text0" value="Devido aos acontecimentos em Akrat, estamos lentamente desvendando a verdade. Para a preservação e serenidade do reino, descobriremos o que está por trás de tudo isso e venceremos!" />
+  <keys prop="Description" type="monster" key="dialog_1220001_Title" value="Olayan &lt;Cidadão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220001_text0" value="Cof, cof! Com os piratas dominando assim...qual é o sentido em continuar?" />
+  <keys prop="Description" type="monster" key="dialog_1220002_Title" value="Bachel &lt;Cidadão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220002_text0" value="Isto é tão triste. A população está aterrorizada e ninguém sabe o que fazer. Precisamos encontrar uma maneira de nos livrarmos desses canalhas." />
+  <keys prop="Description" type="monster" key="dialog_1220003_Title" value="Siram Lamet &lt;Ancião da Cidade&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220003_text0" value="Os ladrões de Khapir tomaram conta da Mina de Oreum e agora eles controlam o maior bem da cidade. Eles estão roubando recursos, poluindo a cidade e colocando os moradores em risco. Em breve, todos vão morrer de fome. Eles devem ser detidos. O destino do Profeta foi apenas o começo." />
+  <keys prop="Description" type="monster" key="dialog_1220072_Title" value="Quadro de Missões (Porto Comercial de Jatulan)" />
+  <keys prop="Description" type="monster" key="dialog_1220072_text0" value="Os ataques recentes tornaram cada centímetro do Porto Comercial perigoso. Por favor, permaneça dentro dele até que os invasores tenham sido removidos.&lt;br&gt;&lt;br&gt;Guarda de Jatulan" />
+  <keys prop="Description" type="monster" key="dialog_1220004_Title" value="Quadro de Missões (Povoado de Berakan)" />
+  <keys prop="Description" type="monster" key="dialog_1220004_text0" value="Com os piratas controlando a mina, a cidade está muito perigosa. Aconselho você a não sair de casa, a menos que seja uma emergência. Sua prioridade agora é proteger seus entes queridos.&lt;br&gt;&lt;br&gt;- Guarda do Povoado de Berakan" />
+  <keys prop="Description" type="monster" key="dialog_1220005_Title" value="Hamad &lt;Cidadão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220005_text0" value="As entradas da cidade foram bloqueadas por ladrões e piratas. Todos nós devemos ter muito cuidado..." />
+  <keys prop="Description" type="monster" key="dialog_1220006_Title" value="Asafa &lt;Cidadão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220006_text0" value="É difícil respirar. O que está acontecendo com nossa terra?&lt;br&gt;Por favor, tenha cuidado. Pelo o que eu sei, o clima aqui está ficando... instável." />
+  <keys prop="Description" type="monster" key="dialog_1220007_Title" value="Shaik &lt;Comerciante de Armamentos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220007_text0" value="Parece que é hora de melhorar sua arma! Faça sua escolha! Farei uma oferta irrecusável!" />
+  <keys prop="Description" type="monster" key="dialog_1220007_Answer_0_Text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_1220008_Title" value="Miol Maxid &lt;Alquimista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220008_text0" value="As maravilhas da alquimia não têm limites. Com a fórmula certa e os ingredientes necessários, você pode fazer praticamente qualquer coisa que possa imaginar! No entanto, a alquimia é baseada no princípio da troca equivalente. Do que você desistirá para conseguir o que quer?" />
+  <keys prop="Description" type="monster" key="dialog_1220009_Title" value="Quadro de Missões (Aldeia de Hastan)" />
+  <keys prop="Description" type="monster" key="dialog_1220009_text0" value="Eu ofereço uma recompensa justa para quem subjugar os inimigos que ameaçam a segurança de nossa preciosa terra.&lt;br&gt;&lt;br&gt;Juma, Ancião da Cidade" />
+  <keys prop="Description" type="monster" key="dialog_1220010_Title" value="Bliana &lt;Cidadã&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220010_text0" value="Ei, você... jovem... Você pode ouvir o conto triste de um velho...?" />
+  <keys prop="Description" type="monster" key="dialog_1220011_Title" value="Forsch &lt;Cidadão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220011_text0" value="A fazenda cuja vida eu dediquei...que eu esperava passar para as gerações futuras...virou em cinzas em um instante..." />
+  <keys prop="Description" type="monster" key="dialog_1220015_Title" value="Capitão da Guarda, Taush (Posto Comercial)" />
+  <keys prop="Description" type="monster" key="dialog_1220015_text0" value="Escória gananciosa! Se apenas nosso exército fosse mais forte! É em momentos como esses que precisamos de voluntários...Nós poderíamos botar esses piratas para correr com tanta vontade que eles nunca pensariam em pisar nesta cidade novamente!" />
+  <keys prop="Description" type="monster" key="dialog_1220016_Title" value="Guarda Theos" />
+  <keys prop="Description" type="monster" key="dialog_1220016_text0" value="Chegou a hora de derrotar esses bandidos pestilentos!" />
+  <keys prop="Description" type="monster" key="dialog_1220017_Title" value="Terrend &lt;Guarda de Jatulan&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220017_text0" value="Você está aqui para ajudar? Precisamos de toda a ajuda que conseguirmos. Os piratas destruíram o Porto Comercial." />
+  <keys prop="Description" type="monster" key="dialog_1220018_Title" value="Lana &lt;Comerciante de PF&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220018_text0" value="Você soube o que aconteceu no Porto Comercial? Desde que os piratas invadiram, nós comerciantes não conseguimos fazer nada!" />
+  <keys prop="Description" type="monster" key="dialog_1220019_Title" value="Fernando" />
+  <keys prop="Description" type="monster" key="dialog_1220019_text0" value="Você é um viajante? Esteja avisado, o Porto Comercial é perigoso. Os comerciantes estão sofrendo grandes perdas por causa dos piratas.&lt;br&gt;&lt;br&gt;Não há soldados suficientes para proteger a cidade. Este é um grande problema para meu sustento..." />
+  <keys prop="Description" type="monster" key="dialog_1220020_Title" value="Teresa Karun &lt;Mascate&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220020_text0" value="Os piratas que controlam o Porto Comercial não permitem que nossos mascates circulem.&lt;br&gt;Como vamos compensar nossas perdas deste jeito...?" />
+  <keys prop="Description" type="monster" key="dialog_1220021_Title" value="Parut &lt;Pesquisador de Armas&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220021_text0" value="Eu estava estudando novas armas e técnicas de fabricação no Porto Comercial quando esses canalhas atacaram. Eles destruíram a maior parte do armamento, então minha pesquisa chegou a uma parada completa e totalmente frustrante. Espero que eles vão embora logo, para que eu possa continuar minha pesquisa..." />
+  <keys prop="Description" type="monster" key="dialog_1220022_Title" value="Roberto &lt;Comerciante de PF&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220022_text0" value="Durante a raide pirata, o vagão comercial foi derrubado. Nossas vidas foram poupadas graças a Elena, mas todas as nossas mercadorias foram destruídas e nosso sustento está ameaçado. Como posso encarar Fernando assim?" />
+  <keys prop="Description" type="monster" key="dialog_1220023_Title" value="Tuhucha &lt;Aprendiz de Comerciante&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220023_text0" value="Oh, sinto muito em conhecer você nessas condições. Toda mercadoria foi... infelizmente... destruída. Nossa prioridade agora é salvar nossos companheiros." />
+  <keys prop="Description" type="monster" key="dialog_1220024_Title" value="Elena (Ruinas)" />
+  <keys prop="Description" type="monster" key="dialog_1220024_text0" value="A Ordem Ônix está aqui para investigar e está ajudando os comerciantes. No entanto, o que está acontecendo em Akrat ainda é preocupante. Uma energia maligna circunda as ruínas. Precisamos descobrir o propósito dos piratas aqui!" />
+  <keys prop="Description" type="monster" key="dialog_1220024_Answer_5_Text" value="O que está acontecendo no reino?" />
+  <keys prop="Description" type="monster" key="dialog_1220025_Title" value="Behain Skeron (Teisha)" />
+  <keys prop="Description" type="monster" key="dialog_1220025_text0" value="Nos encontramos novamente. Eu estava explorando as planícies de Akrat sob as ordens do meu clã. Se é devido à influência da energia maligna ainda não está claro, mas as criaturas nas planícies estão se transformando...Eu acredito que é necessário uma investigação mais completa.  " />
+  <keys prop="Description" type="monster" key="dialog_1220026_Title" value="Capitão da Guarda, Karaf (Berakan)" />
+  <keys prop="Description" type="monster" key="dialog_1220026_text0" value="Estes piratas ladrões limparam a Mina de Oreum! Não há guardas suficientes para lidar com isso...&lt;br&gt;Precisamos de um plano. Você pode nos emprestar sua força?" />
+  <keys prop="Description" type="monster" key="dialog_1220027_Title" value="Vellow &lt;Guarda de Berakan&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220027_text0" value="Estes saqueadores nojentos invadiram a mina, e agora a cidade toda está com problemas. Temos a responsabilidade de levar a população de Berakan para algum lugar seguro dos ladrões." />
+  <keys prop="Description" type="monster" key="dialog_1220028_Title" value="Baoton &lt;Guarda de Berakan&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220028_text0" value="A mina está prestes a ser tomada e os mineiros estão em perigo. Você pode nos ajudar até que a ajuda chegue?" />
+  <keys prop="Description" type="monster" key="dialog_1220029_Title" value="Gar Hatana &lt;Administrador da Mina&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220029_text0" value="Minério de Oreum, dependendo de como é processado, pode ter inúmeras utilizações. Se os ladrões extraírem sua mágica e se aproveitarem dela...bem, eu não quero nem imaginar. Precisamos proteger a mina a todo custo!" />
+  <keys prop="Description" type="monster" key="dialog_1220030_Title" value="Tripasa &lt;Mineiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220030_text0" value="Não podemos perder nosso recurso sagrado para esses vagabundos! " />
+  <keys prop="Description" type="monster" key="dialog_1220030_answer_1_text" value="O que eles estão fazendo na mina?" />
+  <keys prop="Description" type="monster" key="dialog_1220031_Title" value="Madis &lt;Mineiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220031_text0" value="Estes ladrões terríveis! Nós colocamos muito sangue, suor e lágrimas na Mina de Oreum para desistirmos sem lutar!" />
+  <keys prop="Description" type="monster" key="dialog_1220032_Title" value="Ender Ale (Acampamento da Mina)" />
+  <keys prop="Description" type="monster" key="dialog_1220032_text0" value="Perdemos Chimer...Isso é assolador...Mas não podemos nos deixar abater agora. Salvar Chimer é nossa prioridade. Por favor, nos ajude. Eu imploro!" />
+  <keys prop="Description" type="monster" key="dialog_1220033_Title" value="Ender Ale (Mina)" />
+  <keys prop="Description" type="monster" key="dialog_1220033_text0" value="Ei! Ei!! Por favor, me ajude! Rápido!" />
+  <keys prop="Description" type="monster" key="dialog_1220034_Title" value="Ender Ale (Casa de Chimer [a])" />
+  <keys prop="Description" type="monster" key="dialog_1220034_text0" value="Ugh...aahhh..." />
+  <keys prop="Description" type="monster" key="dialog_1220035_Title" value="Maren &lt;Cidadão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220035_text0" value="Hmph! Que irritante! Estes ladrões abomináveis estão deixando as coisas difíceis." />
+  <keys prop="Description" type="monster" key="dialog_1220036_Title" value="Jemard &lt;Turista Ferido&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220036_text0" value="Eu vim aqui para ver as belas planícies que eu ouvi muito se falar. Agora estou preso por causa de piratas gananciosos...Eu até machuquei meu tornozelo tentando fugir deles...Nunca estive com tanto medo na minha vida." />
+  <keys prop="Description" type="monster" key="dialog_1220037_Title" value="Morens &lt;Sacerdote&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220037_text0" value="Fui enviado para cá quando as histórias de acontecimentos estranhos no Desfiladeiro do Espectro se espalharam. Os demônios de lá são entidades além do entendimento deste mundo. A verdade permanece oculta, mas sinto a energia do Deus da Ruína em ação. " />
+  <keys prop="Description" type="monster" key="dialog_1220037_Answer_3_Text" value="Por que é chamado de Desfiladeiro do Espectro?" />
+  <keys prop="Description" type="monster" key="dialog_1220037_Answer_4_Text" value="Que tipo de lugar são as Ruínas de Karrande?" />
+  <keys prop="Description" type="monster" key="dialog_1220038_Title" value="Artona &lt;Feiticeiro Errante&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220038_text0" value="Em minhas pesquisas sobre a vida, a morte, e o que fica entre os dois, venho perambulando e estudando cada pedacinho de Midellas. A ideia de que você poderia entender corretamente a lógica por trás da magia ao sentar e olhar para livros é absurda. Para conquistar mais conhecimento, você deve expandir seus horizontes.  " />
+  <keys prop="Description" type="monster" key="dialog_1220039_Title" value="Barten &lt;Guarda de Hatan&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220039_text0" value="Como se já não fosse suficiente para essa cidade a Guarda Soberana e os mercenários, agora ladrões invadiram. Nos falta exército para derrotá-los, mas devemos encontrar uma maneira de detê-los!" />
+  <keys prop="Description" type="monster" key="dialog_1220039_Answer_2_Text" value="Quando a população começou a mudar?" />
+  <keys prop="Description" type="monster" key="dialog_1220040_Title" value="Cornaell &lt;Cidadão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220040_text0" value="Eu...Eu estou faminto...Os piratas levaram toda nossa comida...Nosso povo está lutando para sobreviver." />
+  <keys prop="Description" type="monster" key="dialog_1220041_Title" value="Romien &lt;Cadete da Milícia Civil&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220041_text0" value="Não podemos mais permitir que aqueles que estão no poder governem com tal tirania! Devemos nos livrar da Guarda Soberana imediatamente!" />
+  <keys prop="Description" type="monster" key="dialog_1220042_Title" value="Damusen &lt;Fazendeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220042_text0" value="O vinhedo foi destruído por pessoas que parecem ter perdido a cabeça. Você pode ajudar nossa cidade?" />
+  <keys prop="Description" type="monster" key="dialog_1220043_Title" value="Lala &lt;Pequena Criança&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220043_text0" value="Ellora nos protegerá!" />
+  <keys prop="Description" type="monster" key="dialog_1220044_Title" value="Ayna &lt;Cidadã&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220044_text0" value="O que está acontecendo...? Até as pessoas do vinhedo estão se comportando de maneira estranha. Esta cidade está ruindo!" />
+  <keys prop="Description" type="monster" key="dialog_1220045_Title" value="Ladius &lt;Sumo Sacerdote da Capela&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220045_text0" value="Tivemos que abandonar a capela sagrada da Deusa Ellora. Agora, ela está nas mãos dos mercenários. É tudo minha culpa. Se eu tivesse levado a profecia de Chimer a sério, isso nunca teria acontecido. Não temos mais a capela, mas ainda podemos proteger o sangue sagrado da Deusa Ellora." />
+  <keys prop="Description" type="monster" key="dialog_1220046_Title" value="Siinah &lt;Sacerdote da Capela&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220046_text0" value="Através da força dada pela Deusa Ellora, salvaremos a cidade das trevas!" />
+  <keys prop="Description" type="monster" key="dialog_1220046_Answer_1_Text" value="O que é a Capela de Hastan?" />
+  <keys prop="Description" type="monster" key="dialog_1220047_Title" value="Ayna &lt;Fazendeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220047_text0" value="Não aguento perder tudo o que fiz.&lt;br&gt;&lt;br&gt; Eu trabalhei muito." />
+  <keys prop="Description" type="monster" key="dialog_1220048_Title" value="Informante da Ordem Ônix" />
+  <keys prop="Description" type="monster" key="dialog_1220048_text0" value="Fiquei sabendo do que aconteceu com Chimer. Isso é assolador." />
+  <keys prop="Description" type="monster" key="dialog_1220049_Title" value="Lanten &lt;Mago em Trânsito&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220049_text0" value="Pode ser difícil localizar o lugar exato para o qual você deseja viajar, ainda mais agora com a interferência da energia corrompida." />
+  <keys prop="Description" type="monster" key="dialog_1220049_Answer_2_Text" value="Ir para Aldeia de Hastan" />
+  <keys prop="Description" type="monster" key="dialog_1220051_Title" value="Behain Skeron (Torre de Vigia)" />
+  <keys prop="Description" type="monster" key="dialog_1220051_text0" value="Os aristocratas que antes protegiam o povo agora estão do lado do Zelnaris, o Deus da Ruína. Eles certamente estão trabalhando com aqueles que discutiram a execução da princesa. Tais seres perversos não merecem o respeito que uma vez tiveram... A Ordem Ônix revelará seu propósito e seu líder!" />
+  <keys prop="Description" type="monster" key="dialog_1220052_Title" value="Iruhan &lt;Sumo Sacerdote Merumi&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220052_text0" value="Aquele Mago Sombrio destruiu a terra sagrada dos Merumi.&lt;br&gt;A água sagrada abençoada pela Deusa Parna foi roubada. Estamos desonrados aos olhos da deusa. &lt;br&gt;&lt;br&gt;Se pudéssemos restaurar nosso povo, mas parece que já é tarde." />
+  <keys prop="Description" type="monster" key="dialog_1220053_Title" value="Din Lafado &lt;Sentinela da Torre de Vigia&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220053_text0" value="Saudações. Sou Din Lafado, defensor da Torre de Vigia. Embora ultimamente isto tenha sido um grande desafio. Os Merumi pedem ajuda constantemente..." />
+  <keys prop="Description" type="monster" key="dialog_1220054_Title" value="Chimer &lt;Torre de Vigia&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220054_text0" value="A Princesa Lania pode ter sido levada pelo Zelnaris, o Deus da Ruína, mas não podemos perder as esperanças! A profecia não acaba aí. Precisamos reunir nossas forças para as batalhas que ainda estão por vir." />
+  <keys prop="Description" type="monster" key="dialog_1220055_Title" value="Ju'uma &lt;Ancião da Cidade&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220055_text0" value="O orgulho da nossa cidade, nosso belo vinhedo, foi destruído. Eu sinto muita tristeza pelas vítimas daqueles espíritos amaldiçoados..." />
+  <keys prop="Description" type="monster" key="dialog_1220056_Title" value="Quadro de Missões (Torre de Vigia Abandonada)" />
+  <keys prop="Description" type="monster" key="dialog_1220056_text0" value="&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220064_Title" value="Lazar &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220064_text0" value="Fui enviado do Centro de Gestão das Planícies para pesquisar familiares. Estou ansioso para estudar cada um dos familiares fascinantes que vivem nessas vastas planícies." />
+  <keys prop="Description" type="monster" key="dialog_1220064_answer_4_text" value="Os Colecionadores" />
+  <keys prop="Description" type="monster" key="dialog_1220064_answer_5_text" value="Mestre Bynder" />
+  <keys prop="Description" type="monster" key="dialog_1220065_Title" value="Kal Zahan &lt;Mago Sombrio&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220065_text0" value="Quem me conhece me chama de Kal Zahan. Há muitos anos estas planícies me chamaram, e eu vim. Ninguém viveu aqui por mais tempo do que eu. Mas as planícies estão diferentes do que elas eram. O que aconteceu aqui...?" />
+  <keys prop="Description" type="monster" key="dialog_1220066_Title" value="Parvin &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220066_text0" value="Eu realmente acredito que o aspecto mais importante da Pesquisa de Familiar é a comunicação. Sem uma conversa significativa entre familiar e proprietário, nenhum laço pode ser criado." />
+  <keys prop="Description" type="monster" key="dialog_1220066_answer_1_text" value="Os Colecionadores" />
+  <keys prop="Description" type="monster" key="dialog_1220066_answer_2_text" value="Mestre Bynder" />
+  <keys prop="Description" type="monster" key="dialog_1220067_Title" value="Norma'an &lt;Administrador da Planície&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220067_text0" value="Os invasores transformaram rapidamente essas belas planícies em um deserto sombrio. E as condições precárias transformaram os animais nativos em animais selvagens e ferozes... Lamento ver uma coisa tão terrível acontecer aqui..." />
+  <keys prop="Description" type="monster" key="dialog_1220068_Title" value="Dominique &lt;Guarda&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220068_text0" value="Fui designado para cá para investigar a ocupação e garantir que as pessoas estejam seguras. Atualmente, há poucos guardas para proteger a população...&lt;br&gt;&lt;br&gt;Por favor, ajude-os." />
+  <keys prop="Description" type="monster" key="dialog_1220069_Title" value="Ender Ale &lt;Casa de Chimer [b]&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220069_text0" value="Augh...ngh...Eu não vi o rosto do agressor. Mas eu estou bem. E mais importante, consegui a carta de Chimer..." />
+  <keys prop="Description" type="monster" key="dialog_1220070_Title" value="Sacerdote em Treinamento" />
+  <keys prop="Description" type="monster" key="dialog_1220070_text0" value="Olá. Já que eu ainda estou em treinamento, eu costumo apenas ajudar o Sacerdote Morens." />
+  <keys prop="Description" type="monster" key="dialog_1220073_Title" value="Balkanin" />
+  <keys prop="Description" type="monster" key="dialog_1220073_text0" value="A presa é feroz. A caçada de hoje será perigosa!" />
+  <keys prop="Description" type="monster" key="dialog_1220074_Title" value="Capitão da Guarda Hathrone" />
+  <keys prop="Description" type="monster" key="dialog_1220074_text0" value="A aura sombria que circunda a cidade sobrecarregou os moradores com tristeza. Eu não posso mais ficar parado enquanto mais vítimas sofrem. Você vai ajudar a conter a maldição?" />
+  <keys prop="Description" type="monster" key="dialog_1220075_Title" value="Yader" />
+  <keys prop="Description" type="monster" key="dialog_1220075_text0" value="Proteger a cidade dos mercenários Mohaban é nosso dever." />
+  <keys prop="Description" type="monster" key="dialog_1220076_Title" value="Maulo" />
+  <keys prop="Description" type="monster" key="dialog_1220076_text0" value="Eu destruirei qualquer coisa que ouse atrapalhar minha caça!" />
+  <keys prop="Description" type="monster" key="dialog_1220077_Title" value="Liyad &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220077_text0" value="Olá! Sou o Treinador de Familiares Liyad. Nunca tenha medo de se aventurar por conta própria. Você sempre encontrará companheirismo eterno em um familiar." />
+  <keys prop="Description" type="monster" key="dialog_1220077_answer_0_text" value="Nutrir Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1220077_answer_1_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220077_answer_2_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220077_answer_3_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1220078_Title" value="Kayar &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220078_text0" value="Sou Kayar, um dos Colecionadores. Estou pesquisando sobre um familiar que vive perto do Povoado de Berakan, mas está sendo um desafio. Eu preciso muito focar na minha pesquisa, então se não for importante, volte mais tarde." />
+  <keys prop="Description" type="monster" key="dialog_1220078_answer_0_text" value="Os Colecionadores" />
+  <keys prop="Description" type="monster" key="dialog_1220078_answer_1_text" value="Mestre Bynder" />
+  <keys prop="Description" type="monster" key="dialog_1220079_Title" value="Duba'a &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220079_text0" value="Os familiares podem parecer durões, mas são afáveis de coração. Conectar-se a eles pode ser muito gratificante." />
+  <keys prop="Description" type="monster" key="dialog_1220079_answer_2_text" value="Nutrir Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1220079_answer_3_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220079_answer_4_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220079_answer_5_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1220080_Title" value="Ebein &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220080_text0" value="Essas multidões estão complicando nossa pesquisa. Precisamos terminar toda a pesquisa sobre as planícies antes que as multidões tomem conta da área. Você vai nos ajudar?" />
+  <keys prop="Description" type="monster" key="dialog_1220080_answer_3_text" value="Os Colecionadores" />
+  <keys prop="Description" type="monster" key="dialog_1220080_answer_4_text" value="Mestre Bynder" />
+  <keys prop="Description" type="monster" key="dialog_1220081_Title" value="Kir Tarpa &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220081_text0" value="Não há nada que não saibamos sobre familiares na área das planícies. Se você tiver alguma dúvida, não hesite em perguntar." />
+  <keys prop="Description" type="monster" key="dialog_1220081_answer_1_text" value="Nutrir Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1220081_answer_2_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220081_answer_3_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220081_answer_4_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1220082_Title" value="Parid &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1220082_text0" value="É imprescindível que terminemos nossa pesquisa sobre o movimento dessas criaturas divinas antes de qualquer outra pessoa. Infelizmente, isso está se tornando menos provável a cada dia. Você me faria um favor?" />
+  <keys prop="Description" type="monster" key="dialog_1220082_answer_3_text" value="Os Colecionadores" />
+  <keys prop="Description" type="monster" key="dialog_1220082_answer_4_text" value="Mestre Bynder" />
+  <keys prop="Description" type="monster" key="dialog_3050831_Title" value="Fenda do Templo da Biblioteca Secreta" />
+  <keys prop="Description" type="monster" key="dialog_3050831_text0" value="Você pode utilizar o Santuário de Trânsito para ir para a Biblioteca Secreta do Duque Ancião." />
+  <keys prop="Description" type="monster" key="dialog_3050831_Answer_0_Text" value="Mover para Biblioteca Secreta do Duque Ancião" />
+  <keys prop="Description" type="monster" key="dialog_3050832_Title" value="Fenda do Templo da Biblioteca Secreta do Duque Ancião" />
+  <keys prop="Description" type="monster" key="dialog_3050832_text0" value="Você pode utilizar o Santuário de Trânsito para ir para a Biblioteca Secreta do Duque Ancião." />
+  <keys prop="Description" type="monster" key="dialog_3050832_Answer_0_Text" value="Mover para Biblioteca Secreta do Duque Ancião" />
+  <keys prop="Description" type="monster" key="dialog_1220083_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220083_text0" value="[Familiar Comum]&lt;br&gt;Rinoceronte de Akrat&lt;br&gt;Elefante de Akrat&lt;br&gt;&lt;br&gt;[Familiar Heróico]&lt;br&gt;Gorgos" />
+  <keys prop="Description" type="monster" key="dialog_1220084_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220084_text0" value="[Familiar Comum]&lt;br&gt;Coruja Gigante das Planícies 150m" />
+  <keys prop="Description" type="monster" key="dialog_1220085_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220085_text0" value="[Familiar Comum]&lt;br&gt;Cavalo das Planícies Vermelhas&lt;br&gt;&lt;br&gt;[Familiar Heróico]&lt;br&gt;Matios de Gale&lt;br&gt;Nebes Jatonegro" />
+  <keys prop="Description" type="monster" key="dialog_1220086_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220086_text0" value="[Familiar Comum]&lt;br&gt;Grande Pássaro das Planícies 200m&lt;br&gt;&lt;br&gt;[Familiar Heróico]&lt;br&gt;Lagosha 400m&lt;br&gt;&lt;br&gt;[Familiar Lendário]&lt;br&gt;Aidus 450m" />
+  <keys prop="Description" type="monster" key="dialog_1220087_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220087_text0" value="[Familiar de Elite]&lt;br&gt;Magasha do Marfim Branco&lt;br&gt;Leão das Planícies&lt;br&gt;Puma das Planícies&lt;br&gt;Filhote de Leão das Planícies" />
+  <keys prop="Description" type="monster" key="dialog_1220088_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1220088_text0" value="[Familiar Comum]&lt;br&gt;Tetra 200m&lt;br&gt;&lt;br&gt;[Familiar de Elite]&lt;br&gt;Lugarv Vermelho Ardente 300m&lt;br&gt;&lt;br&gt;[Familiar Heróico]&lt;br&gt;Tishanan Misterioso 200m" />
+  <keys prop="Description" type="monster" key="dialog_1220089_Title" value="Quando a população começou a mudar?" />
+  <keys prop="Description" type="monster" key="dialog_1220089_text0" value="Na noite em que os ataques começaram...pelo menos eu acho que tudo pode ser levado até aquela noite...algo horrível aconteceu. Eles profanaram a capela com alguma magia estranha...e a população começou a se transformar em monstros. Alguns escaparam, mas foi uma luta intensa. As pessoas que causaram isso...farsantes...Eu nunca vou perdoá-los!" />
+  <keys prop="Description" type="monster" key="dialog_1220090_Title" value="O que é a Capela de Hastan?" />
+  <keys prop="Description" type="monster" key="dialog_1220090_text0" value="A capela na Aldeia de Hastan é o templo da Deusa Ellora. Sob a liderança do Sumo Sacerdote Ladius, muitos estão concluíndo seus estudos. É também a localização santificada do sangue sagrado da Deusa Ellora. Não podemos perdê-lo para um bando de criminosos." />
+  <keys prop="Description" type="monster" key="dialog_1220091_Title" value="Que tipo de lugar são as Ruínas de Karrande?" />
+  <keys prop="Description" type="monster" key="dialog_1220091_text0" value="As Ruínas de Karrande são o local de descanso final de Karrande, um herói nacional. Mas há heréticos de sangue frio ocupando as ruínas, e estou preocupado que eles mexam nos tesouros de Karrande. Parece que roubar dos vivos já não é suficiente; agora eles querem roubar os tesouros da nossa herança também!&lt;br&gt;&lt;br&gt;A vilania deles não tem fim. Se acontecer de você passar pelas ruínas, por favor, expulse os Mercenários Mohaban." />
+  <keys prop="Description" type="monster" key="dialog_1220092_Title" value="Por que é chamado de Desfiladeiro do Espectro?" />
+  <keys prop="Description" type="monster" key="dialog_1220092_text0" value="Quando os comerciantes de Akrat vão do porto para a Aldeia de Hastan, eles sempre passam pelo desfiladeiro. E cada vez que eles passam por lá, alguém desaparece. Eles voltam alguns dias depois, mas voltam...maus...fora de si.&lt;br&gt;&lt;br&gt;Por isso que ele ganhou o nome de Desfiladeiro do Espectro. " />
+  <keys prop="Description" type="monster" key="dialog_1220092_text0_attach_0" value="A verdade é que tudo aconteceu por causa da energia sombria que emana das Ruínas de Karrande. Se você ouvir algo chamando você, corra e não olhe para trás!" />
+  <keys prop="Description" type="monster" key="dialog_1220093_Title" value="O que está acontecendo no reino?" />
+  <keys prop="Description" type="monster" key="dialog_1220093_text0" value="A situação está desanimadora... Depois de saberem da transformação da princesa, os aristocratas argumentam que, para a segurança do povo, ela deve ser executada. A Ordem Ônix deve trabalhar rapidamente para garantir a segurança da princesa. Eu acredito que aqueles que estão querendo a execução estão tramando algo... Eu vim para Akrat para descobrir a verdade." />
+  <keys prop="Description" type="monster" key="dialog_1220094_Title" value="O que eles estão fazendo na mina?" />
+  <keys prop="Description" type="monster" key="dialog_1220094_text0" value="Os ladrões que tomaram posse da mina não estão interessados no oreum trabalhado. Isso não é estranho? O oreum trabalhado é extremamente valioso. No momento em que a mina foi ocupada, eles colocaram lá um cristal gigante e acredito que estão extraindo alguma coisa. Parece algum tipo de ritual estranho." />
+  <keys prop="Description" type="monster" key="dialog_9015936_title" value="Aquilla Lebrini &lt;Ancient Temple&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9015936_text0" value="Tchauzinho! E lembre-se: Para uma missão engraçada e especial, conte comigo, Aquilla Lebrini! &lt;br&gt; &lt;br&gt; Onde quer que eu apareça, haverá uma missão especial para que você possa aproveitar!" />
+  <keys prop="Description" type="monster" key="dialog_9015937_title" value="Portagas, da Ordem Ônix" />
+  <keys prop="Description" type="monster" key="dialog_9015937_text0" value="Temos ordens do Corvo para investigar o Porto Escarlate. Ao contrário de sua doutrina sobre ajudar os pobres a viver melhor, os Revolucionários Vermelhos realizam más ações. Suspeitamos que o Duque Ancião esteja por trás disso." />
+  <keys prop="Description" type="monster" key="dialog_9015938_title" value="Anu, da Ordem Ônix" />
+  <keys prop="Description" type="monster" key="dialog_9015938_text0" value="Eu entrei para a Ordem Ônix por causa de Portagas. Se eu soubesse que o trabalho era tão duro, eu teria reconsiderado!" />
+  <keys prop="Description" type="monster" key="dialog_9015939_title" value="Luella Rabbini" />
+  <keys prop="Description" type="monster" key="dialog_9015939_text0" value="Diminua seu tom de voz! Scarlet Harbour é um lugar verdadeiramente aterrorizante! Dizem até que as águas estão permanentemente vermelhas com o sangue das vítimas dos revolucionários! Ajude os membros da Ordem Onyx que acabaram de entrar, mas seja extremamente cuidadoso, ou temo que todos acabem como comida familiar!" />
+  <keys prop="Description" type="monster" key="dialog_9015940_title" value="Pedra Arcaica" />
+  <keys prop="Description" type="monster" key="dialog_9015940_text0" value="Se você for perseguido, castigue o ofensor com energia escura. Sou o verdadeiro guardião da energia escura, uma das quatro energias misteriosas dos familiares. Esse poder em breve estará nas mãos dos revolucionários vermelhos e é seu dever protegê-lo." />
+  <keys prop="Description" type="monster" key="dialog_9015941_title" value="Theonade, da Ordem Ônix" />
+  <keys prop="Description" type="monster" key="dialog_9015941_text0" value="Saudações. Sou o Soldado Raso Theonade da base Revolucionária Vermelha, Porto Escarlate." />
+  <keys prop="Description" type="monster" key="dialog_9015943_title" value="Penelope" />
+  <keys prop="Description" type="monster" key="dialog_9015943_text0" value="Onde quer que você esteja no mundo, estaremos sempre ao seu lado. Os Comerciantes da Lua Crescente são os principais negociantes para os aventureiros. Como posso ajudar você hoje?" />
+  <keys prop="Description" type="monster" key="dialog_9015943_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_9015944_title" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9015944_text0" value="Humano, como você tem estado? Obrigado por manter a paz em Midellas! Nós, Comerciantes da Lua Crescente, também estamos trabalhando duro para os humanos!" />
+  <keys prop="Description" type="monster" key="dialog_9015944_answer_0_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="dialog_9015951_title" value="Rouide, da Ordem Ônix" />
+  <keys prop="Description" type="monster" key="dialog_9015951_text0" value="Olá. Sou o Agente Rouide da Ordem Ônix, enviado para encontrar o esconderijo do Duque Ancião. Descobri um lugar suspeito nas terras altas, onde fica o Castelo de Akrat." />
+  <keys prop="Description" type="monster" key="dialog_9015953_title" value="Treas" />
+  <keys prop="Description" type="monster" key="dialog_9015953_text0" value="Este é o local utilizado para guardar os tesouros secretos do Duque Ancião." />
+  <keys prop="Description" type="monster" key="dialog_1500001_title" value="Hastanês" />
+  <keys prop="Description" type="monster" key="dialog_1500001_text0" value="Teste sua coragem em campos de treinamento singulares! Desde a sua descoberta décadas atrás, esta suposta mina de ouro foi território disputado, abrigando alguns dos concorrentes mais ferozes que nosso mundo já viu. Lute pela glória!" />
+  <keys prop="Description" type="monster" key="dialog_1500001_answer_0_text" value="Farmacêutico" />
+  <keys prop="Description" type="monster" key="dialog_1500002_title" value="Blackmun" />
+  <keys prop="Description" type="monster" key="dialog_1500002_text0" value="Saudações! Este campo de treinamento é destinado ao mais feroz dos guerreiros. Se você já conquistou o Pináculo de Ellora 35F, você se sentirá em casa aqui. Lute pela glória e pela honra!" />
+  <keys prop="Description" type="monster" key="dialog_1500003_title" value="Sigran" />
+  <keys prop="Description" type="monster" key="dialog_1500003_text0" value="Os espólios da vitória estão pesados? Se sim, traga suas moedas para mim, e eu ficarei com elas em troca de itens úteis!" />
+  <keys prop="Description" type="monster" key="dialog_1500003_answer_0_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="dialog_1500004_title" value="Phillipe Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_1500004_text0" value="Os Comerciantes da Lua Crescente são os principais negociantes de toda a terra. Você não encontrará melhores negociações com ninguém, então traga suas moedas especiais para as melhores ofertas do mercado!" />
+  <keys prop="Description" type="monster" key="dialog_1500004_answer_0_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="dialog_1500005_title" value="Reynolds" />
+  <keys prop="Description" type="monster" key="dialog_1500005_text0" value="Eu posso tirar a dor. Rezemos..." />
+  <keys prop="Description" type="monster" key="dialog_1500005_answer_0_text" value="Curar Feridas Horrendas" />
+</files>

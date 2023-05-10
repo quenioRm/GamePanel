@@ -1,0 +1,825 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="region_f00_001" value="Prison of Salant" />
+  <keys prop="Description" type="monster" key="region_f00_002" value="Prison of Agony" />
+  <keys prop="Description" type="monster" key="region_f00_003" value="Torture Chamber" />
+  <keys prop="Description" type="monster" key="region_f00_004" value="Torture Chamber" />
+  <keys prop="Description" type="monster" key="region_f00_005" value="Prison of Agony Stables" />
+  <keys prop="Description" type="monster" key="region_f00_006" value="Aerial Platform" />
+  <keys prop="Description" type="monster" key="region_f01_001" value="Crashed Titan Interior" />
+  <keys prop="Description" type="monster" key="region_f01_002" value="Crash Site" />
+  <keys prop="Description" type="monster" key="region_f01_005" value="Dragon Knight Station" />
+  <keys prop="Description" type="monster" key="region_f01_006" value="Braghin Outpost" />
+  <keys prop="Description" type="monster" key="region_f01_007" value="Wolftrap Grotto" />
+  <keys prop="Description" type="monster" key="region_f01_008" value="Still Path" />
+  <keys prop="Description" type="monster" key="region_f01_009" value="Southern Ruins" />
+  <keys prop="Description" type="monster" key="region_f01_010" value="Still Path" />
+  <keys prop="Description" type="monster" key="region_f01_011" value="The Shimmerwood" />
+  <keys prop="Description" type="monster" key="region_f01_012" value="Braghin War Camp" />
+  <keys prop="Description" type="monster" key="region_f01_013" value="Northern Ruins" />
+  <keys prop="Description" type="monster" key="region_f01_014" value="Decrepit Ruins Entrance" />
+  <keys prop="Description" type="monster" key="region_f01_015" value="Hakain's Passage" />
+  <keys prop="Description" type="monster" key="region_f01_020" value="Altar of Souls" />
+  <keys prop="Description" type="monster" key="region_d00_001" value="Ruins Entrance" />
+  <keys prop="Description" type="monster" key="region_d00_002" value="Lavalight Cave" />
+  <keys prop="Description" type="monster" key="region_d00_003" value="Swiftfire River" />
+  <keys prop="Description" type="monster" key="region_d00_004" value="Emberstone Lair" />
+  <keys prop="Description" type="monster" key="region_d01_001" value="Manor Gate" />
+  <keys prop="Description" type="monster" key="region_d01_002" value="Manor Courtyard" />
+  <keys prop="Description" type="monster" key="region_d01_003" value="Dour Stables" />
+  <keys prop="Description" type="monster" key="region_d01_004" value="Banquet Hall" />
+  <keys prop="Description" type="monster" key="region_d01_005" value="Manor Chambers" />
+  <keys prop="Description" type="monster" key="region_d01_006" value="Great Hall" />
+  <keys prop="Description" type="monster" key="region_d02_001" value="Town Gate" />
+  <keys prop="Description" type="monster" key="region_d02_002" value="Ruins of Matren" />
+  <keys prop="Description" type="monster" key="region_d02_003" value="Belltower Plaza" />
+  <keys prop="Description" type="monster" key="region_d02_004" value="Miner's Road" />
+  <keys prop="Description" type="monster" key="region_d02_005" value="Silver Warehouse" />
+  <keys prop="Description" type="monster" key="region_d02_006" value="Abandoned Mine" />
+  <keys prop="Description" type="monster" key="region_d02_007" value="Mining Town Ruins" />
+  <keys prop="Description" type="monster" key="region_d02_008" value="Silver Valley" />
+  <keys prop="Description" type="monster" key="region_d02_009" value="Salant's Birthplace" />
+  <keys prop="Description" type="monster" key="region_d02_010" value="Silver Refinery" />
+  <keys prop="Name" type="monster" key="region_f02_001" value="Hakain's Passage" />
+  <keys prop="Name" type="monster" key="region_f02_002" value="Forlorn Ruins" />
+  <keys prop="Name" type="monster" key="region_f02_003" value="Sansupus Ranch" />
+  <keys prop="Name" type="monster" key="region_f02_004" value="Gilded Woods" />
+  <keys prop="Name" type="monster" key="region_f02_005" value="Foothills" />
+  <keys prop="Name" type="monster" key="region_f02_006" value="Hunter's Cave" />
+  <keys prop="Name" type="monster" key="region_f02_007" value="Zadaran" />
+  <keys prop="Name" type="monster" key="region_f02_008" value="Exarahn Ruins" />
+  <keys prop="Name" type="monster" key="region_f02_009" value="South Capital Gate" />
+  <keys prop="Name" type="monster" key="region_f02_010" value="North Capital Gate" />
+  <keys prop="Name" type="monster" key="region_f02_011" value="Morineh Lake" />
+  <keys prop="Name" type="monster" key="region_f02_012" value="Dawnbreak Woods" />
+  <keys prop="Name" type="monster" key="region_f02_013" value="Kellwoods" />
+  <keys prop="Name" type="monster" key="region_f02_014" value="Carleon Manor" />
+  <keys prop="Name" type="monster" key="region_f02_015" value="Kellwoods Farms" />
+  <keys prop="Name" type="monster" key="region_f02_016" value="Northern Watchtower" />
+  <keys prop="Name" type="monster" key="region_f02_017" value="Miller's Hill" />
+  <keys prop="Name" type="monster" key="region_f02_018" value="Cemetery" />
+  <keys prop="Name" type="monster" key="region_f02_019" value="Ruins of Matren" />
+  <keys prop="Name" type="monster" key="region_f02_020" value="Foothills Camp" />
+  <keys prop="Name" type="monster" key="region_f02_021" value="Foothills (South)" />
+  <keys prop="Name" type="monster" key="region_f02_022" value="Divinity Shore" />
+  <keys prop="Name" type="monster" key="region_f02_023" value="Tanner Village" />
+  <keys prop="Name" type="monster" key="region_f02_024" value="Dawnbreak Woods (North)" />
+  <keys prop="Name" type="monster" key="region_f02_025" value="Phoenix Fledgling Nest" />
+  <keys prop="Name" type="monster" key="region_f02_026" value="Broken Caldera" />
+  <keys prop="Name" type="monster" key="region_f02_027" value="Guardian's Gate" />
+  <keys prop="Name" type="monster" key="region_f02_028" value="Sansupus Camp" />
+  <keys prop="Name" type="monster" key="region_f02_029" value="Lavalight Cave" />
+  <keys prop="Name" type="monster" key="region_c01_001" value="Emerald Road" />
+  <keys prop="Name" type="monster" key="region_c01_002" value="Elgren Farm" />
+  <keys prop="Name" type="monster" key="region_c01_003" value="Adventure's Port" />
+  <keys prop="Name" type="monster" key="region_c01_004" value="Rosen's Road" />
+  <keys prop="Name" type="monster" key="region_c01_005" value="Verdant Meadows (South)" />
+  <keys prop="Name" type="monster" key="region_c01_006" value="King's Grove" />
+  <keys prop="Name" type="monster" key="region_c01_007" value="Noble's Gate" />
+  <keys prop="Name" type="monster" key="region_c01_008" value="Grand Avenue" />
+  <keys prop="Name" type="monster" key="region_c01_009" value="Market District" />
+  <keys prop="Name" type="monster" key="region_c01_010" value="Artisan Square" />
+  <keys prop="Name" type="monster" key="region_c01_011" value="Familiar Academy" />
+  <keys prop="Name" type="monster" key="region_c01_012" value="Low Town" />
+  <keys prop="Name" type="monster" key="region_c01_013" value="River Ward" />
+  <keys prop="Name" type="monster" key="region_c01_014" value="Training Yard" />
+  <keys prop="Name" type="monster" key="region_c01_015" value="Capital Barracks" />
+  <keys prop="Name" type="monster" key="region_c01_016" value="Merchant's Gate" />
+  <keys prop="Name" type="monster" key="region_c01_017" value="Scholar's Quarter" />
+  <keys prop="Name" type="monster" key="region_c01_018" value="Victory Plaza" />
+  <keys prop="Name" type="monster" key="region_c01_019" value="Hakain's Steps" />
+  <keys prop="Name" type="monster" key="region_c01_020" value="Baellas Library" />
+  <keys prop="Name" type="monster" key="region_c01_021" value="Glory Field" />
+  <keys prop="Name" type="monster" key="region_c01_022" value="Courtyard" />
+  <keys prop="Name" type="monster" key="region_c01_023" value="Hakanas Castle" />
+  <keys prop="Name" type="monster" key="region_c01_024" value="Blessed Vale" />
+  <keys prop="Name" type="monster" key="region_c01_025" value="Ellora Sanctuary" />
+  <keys prop="Name" type="monster" key="region_c01_026" value="Hall of Divinity" />
+  <keys prop="Name" type="monster" key="region_c01_027" value="Guardian's Platform" />
+  <keys prop="Name" type="monster" key="region_c01_028" value="Oracle's Altar" />
+  <keys prop="Name" type="monster" key="region_c01_029" value="South Capital Gate" />
+  <keys prop="Name" type="monster" key="region_c01_030" value="North Capital Gate" />
+  <keys prop="Name" type="monster" key="region_c01_031" value="Royal Audience Chamber" />
+  <keys prop="Name" type="monster" key="region_c01_032" value="Bridge of Light" />
+  <keys prop="Name" type="monster" key="region_c01_033" value="Titan Platform" />
+  <keys prop="Name" type="monster" key="region_c01_034" value="Guild Hall" />
+  <keys prop="Name" type="monster" key="region_c01_035" value="Guild Farm" />
+  <keys prop="Name" type="monster" key="region_c01_036" value="Forgotten Valley" />
+  <keys prop="Name" type="monster" key="region_c01_037" value="Verdant Meadows (East)" />
+  <keys prop="Name" type="monster" key="region_c01_038" value="Akaldus's Road" />
+  <keys prop="Name" type="monster" key="region_c01_039" value="Verdant Meadows (West)" />
+  <keys prop="Name" type="monster" key="region_c01_040" value="Verdant Meadows (North)" />
+  <keys prop="Name" type="monster" key="region_c01_041" value="Hakain's Crossing" />
+  <keys prop="Name" type="monster" key="Region_ST_001" value="Town of Swaying Reeds" />
+  <keys prop="Name" type="monster" key="Region_ST_002" value="Blue Wolf Hill" />
+  <keys prop="Name" type="monster" key="Region_ST_003" value="Garrison Base" />
+  <keys prop="Name" type="monster" key="Region_ST_004" value="Pirate Wharf" />
+  <keys prop="Name" type="monster" key="Region_ST_005" value="Pirate Barbican" />
+  <keys prop="Name" type="monster" key="Region_ST_006" value="Pirate Fortress" />
+  <keys prop="Name" type="monster" key="Region_ST_007" value="Pirate Harbor" />
+  <keys prop="Name" type="monster" key="Region_ST_008" value="Blasphemer's Swamp" />
+  <keys prop="Name" type="monster" key="Region_ST_009" value="Snowy Fields Reconnaissance Camp" />
+  <keys prop="Name" type="monster" key="Region_ST_010" value="Hakoora" />
+  <keys prop="Name" type="monster" key="Region_ST_011" value="Ruotan Quarry" />
+  <keys prop="Name" type="monster" key="Region_ST_012" value="Warhuul" />
+  <keys prop="Name" type="monster" key="Region_ST_013" value="Blue Moon Town" />
+  <keys prop="Name" type="monster" key="Region_ST_014" value="Rondo's Ice Castle Entrance" />
+  <keys prop="Name" type="monster" key="Region_ST_021" value="Swaying Reeds Coast" />
+  <keys prop="Name" type="monster" key="Region_ST_022" value="Shrieking Coast" />
+  <keys prop="Name" type="monster" key="Region_ST_023" value="Birchwood Sloping Path" />
+  <keys prop="Name" type="monster" key="Region_ST_024" value="Silverlight Lake" />
+  <keys prop="Name" type="monster" key="Region_ST_025" value="Sacred Shallows" />
+  <keys prop="Name" type="monster" key="Region_ST_026" value="Field of Savage Cries" />
+  <keys prop="Name" type="monster" key="Region_ST_027" value="Hakoora" />
+  <keys prop="Name" type="monster" key="Region_ST_028" value="Ice Storm Bluff" />
+  <keys prop="Name" type="monster" key="Region_ST_029" value="Pirate Hideout" />
+  <keys prop="Name" type="monster" key="Region_ST_031" value="Unknown Land" />
+  <keys prop="Name" type="monster" key="Region_ST_032" value="Sorma Coast" />
+  <keys prop="Name" type="monster" key="region_vlc_001" value="Cavern of the Veil" />
+  <keys prop="Name" type="monster" key="region_vlc_002" value="Cult Barracks" />
+  <keys prop="Name" type="monster" key="region_vlc_003" value="Undersea Tunnel" />
+  <keys prop="Name" type="monster" key="region_vlc_004" value="Main Waterway" />
+  <keys prop="Name" type="monster" key="region_vlc_005" value="Radan's Shrine" />
+  <keys prop="Name" type="monster" key="region_vlc_006" value="Cave Exit" />
+  <keys prop="Name" type="monster" key="region_vlc_007" value="Cave Entrance" />
+  <keys prop="Name" type="monster" key="region_rdcb_001" value="Frost Keep Staging Area" />
+  <keys prop="Name" type="monster" key="region_rdcb_002" value="Keep Entry Hall" />
+  <keys prop="Name" type="monster" key="region_rdcb_003" value="Frost Keep Entrance" />
+  <keys prop="Name" type="monster" key="region_rdc_001" value="Frost Keep Staging Area" />
+  <keys prop="Name" type="monster" key="region_rdc_002" value="Keep Entry Hall" />
+  <keys prop="Name" type="monster" key="region_rdc_003" value="Prison Tower" />
+  <keys prop="Name" type="monster" key="region_rdc_004" value="Prison Tower 2F" />
+  <keys prop="Name" type="monster" key="region_rdc_005" value="Prison Tower 3F" />
+  <keys prop="Name" type="monster" key="region_rdc_006" value="Prison Tower 4F" />
+  <keys prop="Name" type="monster" key="region_rdc_007" value="Prison Tower 5F" />
+  <keys prop="Name" type="monster" key="region_rdc_008" value="Frost Keep Entrance" />
+  <keys prop="Name" type="monster" key="region_rdc_009" value="Prison Tower Entrance" />
+  <keys prop="Name" type="monster" key="region_f01_e01" value="Southern Ruins" />
+  <keys prop="Name" type="monster" key="region_f01_e02" value="Northern Ruins" />
+  <keys prop="Name" type="monster" key="region_f04_001" value="Tritael Rift (North)" />
+  <keys prop="Name" type="monster" key="region_f04_002" value="Tritael Rift (West)" />
+  <keys prop="Name" type="monster" key="region_f04_003" value="Tritael Rift (South)" />
+  <keys prop="Name" type="monster" key="region_f04_004" value="Tritael Rift (East)" />
+  <keys prop="Name" type="monster" key="region_f04_005" value="Maelstrom Perch" />
+  <keys prop="Name" type="monster" key="region_f04_006" value="Shattered Isles" />
+  <keys prop="Name" type="monster" key="region_f04_007" value="The Lost Roost" />
+  <keys prop="Name" type="monster" key="region_f04_008" value="High Peak Camp" />
+  <keys prop="Name" type="monster" key="region_f04_009" value="Ethereal Flux" />
+  <keys prop="Name" type="monster" key="region_f04_010" value="Eclipsed Shrine" />
+  <keys prop="Name" type="monster" key="region_f04_011" value="Ellora's Perch" />
+  <keys prop="Name" type="monster" key="region_f04_012" value="Avarice Sea" />
+  <keys prop="Name" type="monster" key="region_f04_013" value="Rivengate" />
+  <keys prop="Description" type="monster" key="region_f01_e01_001" value="Altar of Souls" />
+  <keys prop="Description" type="monster" key="region_f03_001" value="Reedwatch" />
+  <keys prop="Description" type="monster" key="region_f03_002" value="Sacred Shallows" />
+  <keys prop="Description" type="monster" key="region_f03_003" value="Pirate Hideout" />
+  <keys prop="Description" type="monster" key="region_f03_004" value="Garrison Fort" />
+  <keys prop="Description" type="monster" key="region_f03_005" value="Silverwhite Valley" />
+  <keys prop="Description" type="monster" key="region_f03_006" value="Blasphemer's Swamp" />
+  <keys prop="Description" type="monster" key="region_f03_007" value="Farlark" />
+  <keys prop="Description" type="monster" key="region_f03_008" value="The Frost Keep" />
+  <keys prop="Description" type="monster" key="region_f03_009" value="Warhuul" />
+  <keys prop="Description" type="monster" key="region_f03_010" value="Hakoora" />
+  <keys prop="Description" type="monster" key="region_f03_011" value="Parna's Steps" />
+  <keys prop="Description" type="monster" key="region_f03_012" value="Frozen Prairie" />
+  <keys prop="Description" type="monster" key="region_f03_013" value="Sorma Plain" />
+  <keys prop="Description" type="monster" key="region_d04_001" value="Frost Keep Entry Hall" />
+  <keys prop="Description" type="monster" key="region_d04_002" value="Audience Chamber" />
+  <keys prop="Description" type="monster" key="region_d04_003" value="Prison 1F" />
+  <keys prop="Description" type="monster" key="region_d04_004" value="Prison 2F" />
+  <keys prop="Description" type="monster" key="region_d04_005" value="Prison 3F" />
+  <keys prop="Description" type="monster" key="region_d04_006" value="Prison 4F" />
+  <keys prop="Description" type="monster" key="region_d04_007" value="Prison 5F" />
+  <keys prop="Description" type="monster" key="region_d04_008" value="Rondo's Chamber" />
+  <keys prop="Description" type="monster" key="region_d04_009" value="Aisha's Chamber" />
+  <keys prop="Description" type="monster" key="region_d11_001" value="Red Revolutionaries Base" />
+  <keys prop="Description" type="monster" key="region_d11_002" value="Crossroads" />
+  <keys prop="Description" type="monster" key="region_d11_003" value="Mercenary Camp" />
+  <keys prop="Description" type="monster" key="region_d11_004" value="Pirate Camp" />
+  <keys prop="Description" type="monster" key="region_d11_005" value="Mercenary Supply Base" />
+  <keys prop="Description" type="monster" key="region_d11_006" value="Pirate's Wharf" />
+  <keys prop="Description" type="monster" key="region_d11_007" value="Furnace of the Bull" />
+  <keys prop="Description" type="monster" key="region_d11_008" value="Pirate Ship" />
+  <keys prop="Description" type="monster" key="region_d11_009" value="Cave of Trapped Monsters" />
+  <keys prop="Description" type="monster" key="region_d11_010" value="Rogue Watchtower" />
+  <keys prop="Description" type="monster" key="region_d11_011" value="Head Rogue's Hideout" />
+  <keys prop="Description" type="monster" key="region_d11_012" value="Revolutionaries' Headquarters" />
+  <keys prop="Description" type="monster" key="region_d11_013" value="Cractus' Last Stand" />
+  <keys prop="Description" type="monster" key="region_f03_014" value="Mermaid Island" />
+  <keys prop="Description" type="monster" key="region_f03_015" value="Bitter Shore" />
+  <keys prop="Description" type="monster" key="region_f03_016" value="Swaying Reeds Forest" />
+  <keys prop="Description" type="monster" key="region_f03_017" value="Frozen Prairie" />
+  <keys prop="Name" type="monster" key="region_vlc_008" value="Central Gate Control" />
+  <keys prop="Name" type="monster" key="region_vlc_009" value="North Sluice Gate" />
+  <keys prop="Name" type="monster" key="region_vlc_010" value="South Gate Control" />
+  <keys prop="Name" type="monster" key="region_vlc_011" value="East Gate Control" />
+  <keys prop="Name" type="monster" key="region_vlc_012" value="Main Waterway" />
+  <keys prop="Name" type="monster" key="region_vlc_013" value="Main Waterway" />
+  <keys prop="Description" type="monster" key="region_f03_019" value="Swaying Reeds Shore" />
+  <keys prop="Description" type="monster" key="region_f03_018" value="Cavern of the Veil" />
+  <keys prop="Description" type="monster" key="region_c01_e01" value="Royal Audience Chamber" />
+  <keys prop="Description" type="monster" key="region_f03_020" value="Wintertide Pass" />
+  <keys prop="Description" type="monster" key="region_f03_021" value="Silverlight Lake" />
+  <keys prop="Description" type="monster" key="region_f01_e03_001" value="Forlorn Ruins" />
+  <keys prop="Description" type="monster" key="region_c01_e03" value="River Ward" />
+  <keys prop="Description" type="monster" key="region_f02_e01" value="Hunter's Cave" />
+  <keys prop="Description" type="monster" key="region_f02_e02" value="Miller's Hill" />
+  <keys prop="Description" type="monster" key="region_f03_e01" value="Pirate Hideout" />
+  <keys prop="Description" type="monster" key="region_f03_e02" value="Pirate Hideout" />
+  <keys prop="Description" type="monster" key="region_f03_e03" value="Farlark" />
+  <keys prop="Description" type="monster" key="region_f09_001" value="Garrison Camp" />
+  <keys prop="Description" type="monster" key="region_f09_002" value="Ocean Passage" />
+  <keys prop="Description" type="monster" key="region_f09_003" value="Cloudy Farms" />
+  <keys prop="Description" type="monster" key="region_f09_004" value="Fort Baellas" />
+  <keys prop="Description" type="monster" key="region_f09_005" value="Utran" />
+  <keys prop="Description" type="monster" key="region_f09_006" value="Beryl Archipelago" />
+  <keys prop="Description" type="monster" key="region_f09_007" value="Fort Zenen" />
+  <keys prop="Description" type="monster" key="region_f09_008" value="Rainbow Reef" />
+  <keys prop="Description" type="monster" key="region_f09_009" value="Construction Site" />
+  <keys prop="Description" type="monster" key="region_f09_010" value="Sea of Hakanas" />
+  <keys prop="Description" type="monster" key="region_f09_011" value="The Bulwark" />
+  <keys prop="Description" type="monster" key="region_f09_012" value="Sea of Hakanas" />
+  <keys prop="Description" type="monster" key="region_f09_013" value="Sea of Hakanas" />
+  <keys prop="Description" type="monster" key="region_p01_01" value="Conqueror's Gate" />
+  <keys prop="Description" type="monster" key="region_p01_02" value="Bleakwood" />
+  <keys prop="Description" type="monster" key="region_p01_03" value="Silent Passageway" />
+  <keys prop="Description" type="monster" key="region_p01_04" value="Umbra Canyon" />
+  <keys prop="Description" type="monster" key="region_p01_05" value="Southern Silent Ruins" />
+  <keys prop="Description" type="monster" key="region_p01_06" value="Northern Silent Ruins" />
+  <keys prop="Description" type="monster" key="region_p01_07" value="Wolf King's Hideout" />
+  <keys prop="Description" type="monster" key="region_p01_08" value="Bloodmoon Lake" />
+  <keys prop="Description" type="monster" key="region_p01_09" value="Khabim Brotherhood Headquarters" />
+  <keys prop="Description" type="monster" key="region_p01_10" value="North Conqueror's Gate" />
+  <keys prop="Description" type="monster" key="region_p01_11" value="Bloodmoon Camp" />
+  <keys prop="Description" type="monster" key="region_p01_12" value="Southern Crimsonreach" />
+  <keys prop="Description" type="monster" key="region_p01_13" value="Exarahn Official Residence" />
+  <keys prop="Description" type="monster" key="region_p01_14" value="Warlock's Hideout" />
+  <keys prop="Description" type="monster" key="region_p01_15" value="Western Crimsonreach" />
+  <keys prop="Description" type="monster" key="region_p01_16" value="Northern Crimsonreach" />
+  <keys prop="Description" type="monster" key="region_p01_17" value="Silent Mill" />
+  <keys prop="Description" type="monster" key="region_p01_18" value="Sleepless Coast" />
+  <keys prop="Description" type="monster" key="region_p01_19" value="Crimsonreach Camp" />
+  <keys prop="Description" type="monster" key="region_p01_20" value="Broken Caldera" />
+  <keys prop="Description" type="monster" key="region_p01_21" value="Cemetery" />
+  <keys prop="Description" type="monster" key="region_p01_22" value="Matren Mountain" />
+  <keys prop="Description" type="monster" key="region_p01_23" value="Crimsonreach Battlefield" />
+  <keys prop="Description" type="monster" key="region_f15_001" value="The Gustling Isle" />
+  <keys prop="Description" type="monster" key="region_f15_002" value="Tranua's Seal" />
+  <keys prop="Description" type="monster" key="region_f16_001" value="Attaius Peak" />
+  <keys prop="Description" type="monster" key="region_f15_e01_001" value="The Gustling Isle" />
+  <keys prop="Description" type="monster" key="region_f16_01" value="Ocean Barrier Interior" />
+  <keys prop="Description" type="monster" key="region_f03_022" value="Bismuth Cove" />
+  <keys prop="Description" type="monster" key="region_f03_023" value="Wraithwood" />
+  <keys prop="Description" type="monster" key="region_map_f01_01" value="Ruins Camp" />
+  <keys prop="Description" type="monster" key="region_map_f01_02" value="Shimmerwood Camp" />
+  <keys prop="Description" type="monster" key="region_map_c01_01" value="Verdant Meadows" />
+  <keys prop="Description" type="monster" key="region_map_c01_02" value="Priest's Gate" />
+  <keys prop="Description" type="monster" key="region_map_f02_01" value="Zadaran Camp" />
+  <keys prop="Description" type="monster" key="region_map_f02_02" value="Gilded Woods Camp" />
+  <keys prop="Description" type="monster" key="region_map_f02_03" value="Foothills" />
+  <keys prop="Description" type="monster" key="region_map_f02_04" value="Hakain's Crossing" />
+  <keys prop="Description" type="monster" key="region_map_f09_01" value="Sky Farm Camp" />
+  <keys prop="Description" type="monster" key="region_map_f09_02" value="Attaius Peak" />
+  <keys prop="Description" type="monster" key="region_map_f09_03" value="The Gustling Isle" />
+  <keys prop="Description" type="monster" key="region_map_f03_01" value="Icebreaker Camp" />
+  <keys prop="Description" type="monster" key="region_map_f03_02" value="Big Snow Camp" />
+  <keys prop="Description" type="monster" key="region_map_f03_03" value="Farlark Outpost" />
+  <keys prop="Description" type="monster" key="region_map_f04_01" value="The Breach" />
+  <keys prop="Description" type="monster" key="region_map_p01_01" value="Crimsonreach" />
+  <keys prop="Description" type="monster" key="region_f04_014" value="Blackhaven" />
+  <keys prop="Name" type="monster" key="region_f02_030" value="Zadaran Camp" />
+  <keys prop="Description" type="monster" key="region_map_c01_03" value="Exarahn Gate" />
+  <keys prop="Description" type="monster" key="region_f03_024" value="Equipment Shop" />
+  <keys prop="Description" type="monster" key="region_f03_025" value="Crafting Station" />
+  <keys prop="Description" type="monster" key="region_p01_24" value="Ashwind Camp" />
+  <keys prop="Description" type="monster" key="region_c01_e02" value="King's Grove" />
+  <keys prop="Description" type="monster" key="region_c01_e04" value="Training Yard" />
+  <keys prop="Description" type="monster" key="region_f02_e03" value="House of Maids" />
+  <keys prop="Description" type="monster" key="region_map_f03_04" value="Natsha's Craft Shop" />
+  <keys prop="Description" type="monster" key="region_map_f03_05" value="Alchemy Lab" />
+  <keys prop="Description" type="monster" key="region_map_f03_06" value="Familiar Workshop" />
+  <keys prop="Description" type="monster" key="region_map_f03_07" value="Potion Shop" />
+  <keys prop="Description" type="monster" key="region_f05_001" value="Alseik" />
+  <keys prop="Description" type="monster" key="region_f05_002" value="Dustwind Basin" />
+  <keys prop="Description" type="monster" key="region_f05_003" value="Cradle of Nightmares" />
+  <keys prop="Description" type="monster" key="region_f05_004" value="Philosopher's Coast" />
+  <keys prop="Description" type="monster" key="region_f05_005" value="Hermit's Town" />
+  <keys prop="Description" type="monster" key="region_f05_006" value="Challenger's Flightpath" />
+  <keys prop="Description" type="monster" key="region_f05_007" value="Crokhoon Fortifications" />
+  <keys prop="Description" type="monster" key="region_f05_008" value="Fortress of Sorrows" />
+  <keys prop="Description" type="monster" key="region_f05_009" value="Haracrow Temple" />
+  <keys prop="Description" type="monster" key="region_f05_010" value="Forgotten Gorge" />
+  <keys prop="Description" type="monster" key="region_f05_011" value="Ruined Temple" />
+  <keys prop="Description" type="monster" key="region_f05_012" value="Braghin Mine" />
+  <keys prop="Description" type="monster" key="region_f05_013" value="Golden Peak" />
+  <keys prop="Description" type="monster" key="region_f05_014" value="Terminus Dunes" />
+  <keys prop="Description" type="monster" key="region_f05_015" value="Shakiba's Lair" />
+  <keys prop="Description" type="monster" key="region_f05_016" value="The Lustrous Road" />
+  <keys prop="Description" type="monster" key="region_f05_017" value="Mercenary Outpost" />
+  <keys prop="Description" type="monster" key="region_f05_018" value="Altar of Fire" />
+  <keys prop="Description" type="monster" key="region_f05_019" value="Death's Shade" />
+  <keys prop="Description" type="monster" key="region_f05_020" value="Wasteland Crossroads" />
+  <keys prop="Description" type="monster" key="region_f99_001" value="Desert Island" />
+  <keys prop="Description" type="monster" key="region_f99_002" value="Hakanas Secret Camp" />
+  <keys prop="Name" type="monster" key="region_AsC_001" value="Phase Landing" />
+  <keys prop="Name" type="monster" key="region_AsC_002" value="Flux Gauntlet" />
+  <keys prop="Name" type="monster" key="region_AsC_003" value="Fractal Pathway" />
+  <keys prop="Name" type="monster" key="region_AsC_004" value="Fractal Reach" />
+  <keys prop="Name" type="monster" key="region_AsC_005" value="Chaos Haven" />
+  <keys prop="Name" type="monster" key="region_AsC_006" value="Fractal Radius" />
+  <keys prop="Name" type="monster" key="region_AsC_007" value="Fractal Expanse" />
+  <keys prop="Name" type="monster" key="region_AsC_008" value="Discordia" />
+  <keys prop="Name" type="monster" key="region_AsC_009" value="Umax's Lair" />
+  <keys prop="Name" type="monster" key="region_AsC_010" value="Fractal Depths" />
+  <keys prop="Name" type="monster" key="region_AsC_011" value="Izhora's Domain" />
+  <keys prop="Name" type="monster" key="region_f98_001" value="Eastern Arena" />
+  <keys prop="Name" type="monster" key="region_d13_001" value="Temple Entryway" />
+  <keys prop="Name" type="monster" key="region_d13_002" value="Collapsed Foyer" />
+  <keys prop="Name" type="monster" key="region_d13_003" value="Dark Corridor" />
+  <keys prop="Name" type="monster" key="region_d13_004" value="High Priest's Audience Chamber" />
+  <keys prop="Name" type="monster" key="region_d13_005" value="Pilgrim's Walk" />
+  <keys prop="Name" type="monster" key="region_d13_006" value="Pilgrim's Altar" />
+  <keys prop="Name" type="monster" key="region_d13_007" value="Temple Treasury" />
+  <keys prop="Name" type="monster" key="region_d13_008" value="Ritual Antechamber" />
+  <keys prop="Name" type="monster" key="region_d13_009" value="Acolyte's Walk" />
+  <keys prop="Name" type="monster" key="region_d13_010" value="Skatrasha's Rest" />
+  <keys prop="Name" type="monster" key="region_d13_011" value="Temple Reliquary" />
+  <keys prop="Name" type="monster" key="region_d13_012" value="Ritual Antechamber" />
+  <keys prop="Name" type="monster" key="region_d13_013" value="Skatrasha's Sanctum" />
+  <keys prop="Name" type="monster" key="region_f98_002" value="Western Arena" />
+  <keys prop="Description" type="monster" key="region_f05_021" value="Weeping Oasis" />
+  <keys prop="Description" type="monster" key="region_d06_001" value="Summoning Room" />
+  <keys prop="Description" type="monster" key="region_d06_002" value="Power Room" />
+  <keys prop="Description" type="monster" key="region_d06_003" value="Control Room" />
+  <keys prop="Description" type="monster" key="region_d06_004" value="Fortress of Sorrows Lower Floor" />
+  <keys prop="Description" type="monster" key="region_d06_005" value="Lower Floor Passageway" />
+  <keys prop="Description" type="monster" key="region_d06_006" value="Central Plaza" />
+  <keys prop="Description" type="monster" key="region_d06_007" value="Fortress of Sorrows" />
+  <keys prop="Description" type="monster" key="region_d06_008" value="Fortress Entrance" />
+  <keys prop="Description" type="monster" key="region_f06_00" value="Fractura Temple Entrance" />
+  <keys prop="Description" type="monster" key="region_f06_01" value="Passage of Iron Defense" />
+  <keys prop="Description" type="monster" key="region_f06_02" value="Passage of Elemental Defense" />
+  <keys prop="Description" type="monster" key="region_f06_03" value="Fractura Lower Floor" />
+  <keys prop="Description" type="monster" key="region_f06_04" value="Station 2" />
+  <keys prop="Description" type="monster" key="region_f06_05" value="Station 1" />
+  <keys prop="Description" type="monster" key="region_f06_06" value="Fractura Upper Floor" />
+  <keys prop="Description" type="monster" key="region_f06_07" value="Fractura Bridge" />
+  <keys prop="Description" type="monster" key="region_f06_08" value="Bilma's Design Room" />
+  <keys prop="Description" type="monster" key="region_f06_09" value="Fractura Summit" />
+  <keys prop="Description" type="monster" key="region_f06_10" value="Assassin Training Room" />
+  <keys prop="Description" type="monster" key="region_f05_e01" value="Ruined Temple" />
+  <keys prop="Description" type="monster" key="region_f05_e02" value="Hatchery" />
+  <keys prop="Description" type="monster" key="region_map_f05_01" value="Alseik" />
+  <keys prop="Description" type="monster" key="region_map_f05_02" value="North Gate" />
+  <keys prop="Description" type="monster" key="region_map_f05_03" value="East Gate" />
+  <keys prop="Description" type="monster" key="region_map_f05_04" value="South Gate" />
+  <keys prop="Description" type="monster" key="region_map_f05_05" value="Elder's Home" />
+  <keys prop="Description" type="monster" key="region_map_f05_06" value="Flight Station" />
+  <keys prop="Description" type="monster" key="region_map_f05_07" value="Familiar Workshop" />
+  <keys prop="Description" type="monster" key="region_map_f05_08" value="General Shop" />
+  <keys prop="Description" type="monster" key="region_map_f05_09" value="Grocer" />
+  <keys prop="Description" type="monster" key="region_map_f05_10" value="Crafting Station" />
+  <keys prop="Description" type="monster" key="region_map_f05_11" value="Alchemy Lab" />
+  <keys prop="Description" type="monster" key="region_map_f05_12" value="Handicrafts Shop" />
+  <keys prop="Description" type="monster" key="region_map_f05_13" value="Kitchen" />
+  <keys prop="Description" type="monster" key="region_map_f05_14" value="Satiety Society" />
+  <keys prop="Description" type="monster" key="region_map_f05_15" value="First Aid Ward" />
+  <keys prop="Description" type="monster" key="region_map_f05_16" value="Darcy's Estate" />
+  <keys prop="Name" type="monster" key="region_d13_000" value="Temple of Sands" />
+  <keys prop="Description" type="monster" key="region_f06_11" value="Fractura" />
+  <keys prop="Description" type="monster" key="region_d06_009" value="Fortress of Sorrows" />
+  <keys prop="Description" type="monster" key="region_map_f05_17" value="Griffin Knight Camp" />
+  <keys prop="Description" type="monster" key="region_f05_022" value="Griffin Knight Camp" />
+  <keys prop="Description" type="monster" key="region_p02_01" value="Stillhaven" />
+  <keys prop="Description" type="monster" key="region_p02_02" value="Twilight Path" />
+  <keys prop="Description" type="monster" key="region_p02_03" value="Freemen Village" />
+  <keys prop="Description" type="monster" key="region_p02_04" value="Timeless Forest" />
+  <keys prop="Description" type="monster" key="region_p02_05" value="Oblivion Fields" />
+  <keys prop="Description" type="monster" key="region_p02_06" value="Eternity Lake" />
+  <keys prop="Description" type="monster" key="region_p02_07" value="Weeping Falls" />
+  <keys prop="Description" type="monster" key="region_p02_08" value="The Black Pit" />
+  <keys prop="Description" type="monster" key="region_p02_09" value="Midnight Lighthouse" />
+  <keys prop="Description" type="monster" key="region_p02_10" value="Memory Hill" />
+  <keys prop="Description" type="monster" key="region_p02_11" value="Trigg's Pub" />
+  <keys prop="Description" type="monster" key="region_p02_12" value="Lost Mountain" />
+  <keys prop="Description" type="monster" key="region_p02_13" value="Purgatory" />
+  <keys prop="Description" type="monster" key="region_p02_14" value="Forgotten Expanse" />
+  <keys prop="Description" type="monster" key="region_p02_15" value="Trail of Souls" />
+  <keys prop="Description" type="monster" key="region_p02_16" value="Lost Mountain" />
+  <keys prop="Description" type="monster" key="Region_F07_01" value="Ronua Campground" />
+  <keys prop="Description" type="monster" key="Region_F07_02" value="Celestine Falls" />
+  <keys prop="Description" type="monster" key="Region_F07_03" value="Chaos Elves Reconnaissance Camp" />
+  <keys prop="Description" type="monster" key="Region_F07_04" value="Chaos Elves Station" />
+  <keys prop="Description" type="monster" key="Region_F07_05" value="Trent Forest" />
+  <keys prop="Description" type="monster" key="Region_F07_06" value="Dragon Knight Camp" />
+  <keys prop="Description" type="monster" key="Region_F07_07" value="El Zenus Sanctuary" />
+  <keys prop="Description" type="monster" key="Region_F07_08" value="Elven Defensive Line" />
+  <keys prop="Description" type="monster" key="Region_F07_09" value="Elgaden Outskirts" />
+  <keys prop="Description" type="monster" key="Region_F07_10" value="Windy Canyon Entrance" />
+  <keys prop="Description" type="monster" key="Region_F07_11" value="Forest of Lights Battlefield" />
+  <keys prop="Description" type="monster" key="Region_F07_12" value="Gorilla Enclave" />
+  <keys prop="Description" type="monster" key="Region_F07_13" value="Bruniche's Weald" />
+  <keys prop="Description" type="monster" key="Region_F07_14" value="Tukan Encroachment" />
+  <keys prop="Description" type="monster" key="Region_F07_15" value="Torkai's Retreat" />
+  <keys prop="Description" type="monster" key="Region_F07_16" value="Ancient Forest" />
+  <keys prop="Description" type="monster" key="Region_F07_17" value="Crossroads" />
+  <keys prop="Description" type="monster" key="Region_F07_18" value="Eleeno Forest" />
+  <keys prop="Description" type="monster" key="Region_F07_19" value="El Drant Sanctuary" />
+  <keys prop="Description" type="monster" key="Region_F07_20" value="Ancient Elf Ruins" />
+  <keys prop="Description" type="monster" key="Region_F07_21" value="Dredrum's Pit" />
+  <keys prop="Description" type="monster" key="Region_F07_22" value="Kuuo's Garden" />
+  <keys prop="Description" type="monster" key="Region_F07_23" value="Forgotten Shrine Plaza" />
+  <keys prop="Description" type="monster" key="Region_F07_24" value="Elf of Light Camp" />
+  <keys prop="Description" type="monster" key="Region_F17_01" value="Razor Canyon Cliffs" />
+  <keys prop="Description" type="monster" key="Region_F17_02" value="Glimmer Valley" />
+  <keys prop="Description" type="monster" key="Region_F17_03" value="El Dor" />
+  <keys prop="Description" type="monster" key="Region_F17_04" value="Razorwind Canyon" />
+  <keys prop="Description" type="monster" key="Region_F17_05" value="Noxious Lake" />
+  <keys prop="Description" type="monster" key="Region_F17_06" value="El Canin Island" />
+  <keys prop="Description" type="monster" key="Region_F17_07" value="Shady Warrens" />
+  <keys prop="Description" type="monster" key="Region_F07_25" value="Elgaden" />
+  <keys prop="Description" type="monster" key="Region_F07_26" value="Forest of Light" />
+  <keys prop="Description" type="monster" key="Region_F07_27" value="Ancient Elf Ruins Camp" />
+  <keys prop="Description" type="monster" key="Region_d08_001" value="Ruler's Secret Room" />
+  <keys prop="Description" type="monster" key="Region_d08_002" value="Counter Light Bridge" />
+  <keys prop="Description" type="monster" key="Region_d08_003" value="Room Where Chaos Sleeps" />
+  <keys prop="Description" type="monster" key="Region_d08_004" value="Seal Guardian's Refuge" />
+  <keys prop="Description" type="monster" key="Region_d08_005" value="Kaosmos Bridge" />
+  <keys prop="Description" type="monster" key="Region_d08_006" value="Where the Evil God Sleeps" />
+  <keys prop="Description" type="monster" key="Region_d08_007" value="Chaos Flight Way First Stop" />
+  <keys prop="Description" type="monster" key="Region_d08_008" value="Chaos Flight Way Last Stop" />
+  <keys prop="Description" type="monster" key="Region_d08_009" value="Shrine of the Forgotten One" />
+  <keys prop="Description" type="monster" key="Region_d08_010" value="Relic Room of the Immortals" />
+  <keys prop="Description" type="monster" key="region_d24_001" value="Lair of Ienos" />
+  <keys prop="Description" type="monster" key="region_d24_002" value="Ritual Chamber" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_01" value="World Tree Audience Chamber" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_02" value="Plaza of Light" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_03" value="Blacksmith's Shop" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_04" value="Plaza of Nature" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_05" value="Elder's House" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_06" value="Workshop" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_07" value="Bazaar" />
+  <keys prop="Description" type="monster" key="region_f05_023" value="Familiar Academy" />
+  <keys prop="Description" type="monster" key="Region_F17_08" value="El Canin Island Campground" />
+  <keys prop="Description" type="monster" key="Region_F17_09" value="Braghin Mine Entrance" />
+  <keys prop="Description" type="monster" key="region_d99_001" value="1F. Warming Up" />
+  <keys prop="Description" type="monster" key="region_d99_002" value="2F. Chould Have Been Friends" />
+  <keys prop="Description" type="monster" key="region_d99_003" value="3F. Hateful Brakarr Foal" />
+  <keys prop="Description" type="monster" key="region_d99_004" value="4F. How to Train Your Dragon" />
+  <keys prop="Description" type="monster" key="region_d99_005" value="5F. Robin Hood's descendants" />
+  <keys prop="Description" type="monster" key="region_d99_006" value="6F. Tree of Life" />
+  <keys prop="Description" type="monster" key="region_d99_007" value="7F. Man vs. Wild" />
+  <keys prop="Description" type="monster" key="region_d99_008" value="8F. Ali Baba and the Four Thieves" />
+  <keys prop="Description" type="monster" key="region_d99_009" value="9F. Fireworks" />
+  <keys prop="Description" type="monster" key="region_d99_010" value="10F. The First Gatekeeper" />
+  <keys prop="Description" type="monster" key="region_d99_011" value="11F. The Summoner's Room" />
+  <keys prop="Description" type="monster" key="region_d99_012" value="12F. Unlikely Family" />
+  <keys prop="Description" type="monster" key="region_d99_013" value="13F. Bizarre Murderers" />
+  <keys prop="Description" type="monster" key="region_d99_014" value="14F. Bizarre Playboy" />
+  <keys prop="Description" type="monster" key="region_d99_015" value="15F. The Fellowship of the Ring" />
+  <keys prop="Description" type="monster" key="region_d99_016" value="16F. The Lord of the Destruction: The Four Towers" />
+  <keys prop="Description" type="monster" key="region_d99_017" value="17F. The Silence of the Lamb" />
+  <keys prop="Description" type="monster" key="region_d99_018" value="18F. Into The Frying Pan" />
+  <keys prop="Description" type="monster" key="region_d99_019" value="19F. Wait, Something's Wrong" />
+  <keys prop="Description" type="monster" key="region_d99_020" value="20F. The Second Gatekeeper" />
+  <keys prop="Description" type="monster" key="region_d99_021" value="21F. Attaius's Biggest Fan" />
+  <keys prop="Description" type="monster" key="region_d99_022" value="22F. Pirate of the Caribbean" />
+  <keys prop="Description" type="monster" key="region_d99_023" value="23F. The Undying Ones" />
+  <keys prop="Description" type="monster" key="region_d99_024" value="24F. Fatal Attraction" />
+  <keys prop="Description" type="monster" key="region_d99_025" value="25F. Snowball Fight" />
+  <keys prop="Description" type="monster" key="region_d99_026" value="26F. Frozen" />
+  <keys prop="Description" type="monster" key="region_d99_027" value="27F. Frost Keep Comeback" />
+  <keys prop="Description" type="monster" key="region_d99_028" value="28F. Not Rondo" />
+  <keys prop="Description" type="monster" key="region_d99_029" value="29F. Development Hell" />
+  <keys prop="Description" type="monster" key="region_d99_030" value="30F. Tower's Keeper" />
+  <keys prop="Description" type="monster" key="region_map_f03_08" value="Town Center" />
+  <keys prop="Description" type="monster" key="region_map_f03_09" value="The Snowed Inn" />
+  <keys prop="Description" type="monster" key="region_map_f03_10" value="General Shop" />
+  <keys prop="Description" type="monster" key="region_map_f03_11" value="North Gate" />
+  <keys prop="Description" type="monster" key="region_map_f03_12" value="West Gate" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_08" value="Elven Defensive Line" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_09" value="Forest of Light" />
+  <keys prop="Description" type="monster" key="Region_Map_F07_10" value="Windy Canyon" />
+  <keys prop="Description" type="monster" key="region_f05_024" value="Ellora's Spire Gateway" />
+  <keys prop="Description" type="monster" key="region_d23_001" value="Rabbit Hole" />
+  <keys prop="Description" type="monster" key="region_d23_002" value="Robber Plaza" />
+  <keys prop="Description" type="monster" key="region_d23_003" value="Leaf Frog Town" />
+  <keys prop="Description" type="monster" key="region_d23_004" value="Clover Forest" />
+  <keys prop="Description" type="monster" key="region_d23_005" value="Carrot Farm" />
+  <keys prop="Description" type="monster" key="region_d23_006" value="Foggy Mushroom Forest" />
+  <keys prop="Description" type="monster" key="region_d23_007" value="Lavisar's Mansion" />
+  <keys prop="Description" type="monster" key="region_d23_008" value="Gordon Rabbit's Kitchen" />
+  <keys prop="Description" type="monster" key="region_f05_025" value="Ellora's Spire" />
+  <keys prop="Description" type="monster" key="region_d25_001" value="Lair of Ienos" />
+  <keys prop="Description" type="monster" key="region_d25_002" value="Advanced Laboratory" />
+  <keys prop="Description" type="monster" key="region_f07_e01" value="El Zenus Sanctuary" />
+  <keys prop="Description" type="monster" key="region_f07_e02" value="El Drant Sanctuary" />
+  <keys prop="Description" type="monster" key="region_g01_001" value="Guild Conference Hall" />
+  <keys prop="Description" type="monster" key="region_g01_002" value="Guild Lobby" />
+  <keys prop="Description" type="monster" key="region_g01_003" value="Guild Training Hall" />
+  <keys prop="Description" type="monster" key="region_g01_004" value="Guild Portal Room" />
+  <keys prop="Description" type="monster" key="region_g01_005" value="Guild Amenities" />
+  <keys prop="Description" type="monster" key="region_g01_006" value="Guild Crafting Station" />
+  <keys prop="Description" type="monster" key="region_g01_007" value="Guild Lobby" />
+  <keys prop="Description" type="monster" key="region_p01_25" value="Silent Ruins" />
+  <keys prop="Description" type="monster" key="region_d99_031" value="31F. Rabbini's Vault" />
+  <keys prop="Description" type="monster" key="region_d99_032" value="32F. Inside Out" />
+  <keys prop="Description" type="monster" key="region_d99_033" value="33F. Big Bang" />
+  <keys prop="Description" type="monster" key="region_d99_034" value="34F. Disco Fever" />
+  <keys prop="Description" type="monster" key="region_d99_035" value="35F. Colosseum" />
+  <keys prop="Description" type="monster" key="region_d99_036" value="36F. Familiar Lab" />
+  <keys prop="Description" type="monster" key="region_d99_037" value="37F. Green Tide" />
+  <keys prop="Description" type="monster" key="region_d99_038" value="38F. Jurassic World" />
+  <keys prop="Description" type="monster" key="region_d99_039" value="39F. Star Wars" />
+  <keys prop="Description" type="monster" key="region_d99_040" value="40F. Persona" />
+  <keys prop="Description" type="monster" key="region_f97_001" value="Stone Chamber Door" />
+  <keys prop="Description" type="monster" key="region_f97_002" value="Hadakan King's Prison" />
+  <keys prop="Description" type="monster" key="region_p02_17" value="Burning Woodland" />
+  <keys prop="Description" type="monster" key="region_p02_18" value="Magma Flowing River" />
+  <keys prop="Description" type="monster" key="region_p02_19" value="Burning Repositorium" />
+  <keys prop="Description" type="monster" key="region_p02_20" value="Ash Hill" />
+  <keys prop="Description" type="monster" key="region_p02_21" value="Fortress of Despair" />
+  <keys prop="Description" type="monster" key="region_p02_22" value="Village of The Dead" />
+  <keys prop="Description" type="monster" key="region_p02_23" value="Karron's Nest" />
+  <keys prop="Description" type="monster" key="region_i01_001" value="Global Lobby (40Legendary)" />
+  <keys prop="Description" type="monster" key="region_i01_002" value="Global Lobby (50Legendary)" />
+  <keys prop="Description" type="monster" key="region_i01_003" value="Global Lobby (Immortal Ellora)" />
+  <keys prop="Description" type="monster" key="region_i01_004" value="Global Lobby (Raid)" />
+  <keys prop="Description" type="monster" key="region_i01_005" value="The Gusting Isles (Global)" />
+  <keys prop="Description" type="monster" key="region_i01_006" value="to Cavern of the Veil (Global)" />
+  <keys prop="Description" type="monster" key="region_i01_007" value="Frost Keep (Global)" />
+  <keys prop="Description" type="monster" key="region_i01_008" value="The Breach(Global)" />
+  <keys prop="Description" type="monster" key="region_i01_009" value="Ancient Temple (Global)" />
+  <keys prop="Description" type="monster" key="region_i01_010" value="Corrupted Legion Fortress(Global)" />
+  <keys prop="Description" type="monster" key="region_i01_011" value="Fectura (Global)" />
+  <keys prop="Description" type="monster" key="region_i01_012" value="Forgotten Shrine(Global)" />
+  <keys prop="Description" type="monster" key="region_i01_013" value="Elder's Floating Fort(Global)" />
+  <keys prop="Description" type="monster" key="region_c02_001" value="Zatulan Entrepot" />
+  <keys prop="Description" type="monster" key="region_c02_002" value="Karande Ruins" />
+  <keys prop="Description" type="monster" key="region_c02_003" value="Pirate Hideout" />
+  <keys prop="Description" type="monster" key="region_c02_004" value="Bridge of Trade" />
+  <keys prop="Description" type="monster" key="region_c02_005" value="Entrepot Airstrip" />
+  <keys prop="Description" type="monster" key="region_c02_006" value="Elephant Habitat" />
+  <keys prop="Description" type="monster" key="region_c02_007" value="Superposed Grasslands" />
+  <keys prop="Description" type="monster" key="region_c02_008" value="Berkan Village" />
+  <keys prop="Description" type="monster" key="region_c02_009" value="Krid Great Plains" />
+  <keys prop="Description" type="monster" key="region_c02_010" value="Ore Mine" />
+  <keys prop="Description" type="monster" key="region_c02_011" value="Dried Forest" />
+  <keys prop="Description" type="monster" key="region_c02_012" value="Hallucination Canyon" />
+  <keys prop="Description" type="monster" key="region_c02_013" value="The River of Revive Upstream" />
+  <keys prop="Description" type="monster" key="region_c02_014" value="The River of Revive Downstream" />
+  <keys prop="Description" type="monster" key="region_c02_015" value="Abandoned Watchtower" />
+  <keys prop="Description" type="monster" key="region_c02_016" value="Roschu Ruins" />
+  <keys prop="Description" type="monster" key="region_c02_017" value="Roschu's Spring Water" />
+  <keys prop="Description" type="monster" key="region_c02_018" value="Hastan Village" />
+  <keys prop="Description" type="monster" key="region_c02_019" value="Giant Camp" />
+  <keys prop="Description" type="monster" key="region_c02_020" value="Water Altar" />
+  <keys prop="Description" type="monster" key="region_c02_021" value="Merumi Habitat" />
+  <keys prop="Description" type="monster" key="region_c02_022" value="Baobest Woodland" />
+  <keys prop="Description" type="monster" key="region_c02_023" value="Pulluted Merumi Land" />
+  <keys prop="Description" type="monster" key="region_c02_024" value="Roschu Ruins" />
+  <keys prop="Description" type="monster" key="region_c02_025" value="Grape Farm" />
+  <keys prop="Description" type="monster" key="Region_D26_001" value="Braghin Mine Entrance" />
+  <keys prop="Description" type="monster" key="Region_D26_002" value="004 Tunnel" />
+  <keys prop="Description" type="monster" key="Region_D26_003" value="011 Tunnel" />
+  <keys prop="Description" type="monster" key="Region_D26_004" value="016 Tunnel" />
+  <keys prop="Description" type="monster" key="Region_D26_005" value="027 Tunnel" />
+  <keys prop="Description" type="monster" key="Region_D26_006" value="101 Tunnel" />
+  <keys prop="Description" type="monster" key="Region_D26_007" value="Ellium Crystal Square" />
+  <keys prop="Description" type="monster" key="region_c02_026" value="Khapir Bandits Tresspass" />
+  <keys prop="Description" type="monster" key="Region_fish_001" value="Divinity Fishery" />
+  <keys prop="Description" type="monster" key="Region_fish_002" value="Coral Fishery" />
+  <keys prop="Description" type="monster" key="Region_fish_003" value="Philosopher's Fishery" />
+  <keys prop="Description" type="monster" key="Region_fish_004" value="El Gaden Fishing Area" />
+  <keys prop="Description" type="monster" key="region_c02_e01" value="Merumi Habitat" />
+  <keys prop="Description" type="monster" key="region_c02_091" value="The River of Revive" />
+  <keys prop="Description" type="monster" key="region_map_c02_01" value="Berkan Village" />
+  <keys prop="Description" type="monster" key="region_map_c02_02" value="North Gate" />
+  <keys prop="Description" type="monster" key="region_map_c02_03" value="South Gate" />
+  <keys prop="Description" type="monster" key="region_map_c02_04" value="Familiar Workshop" />
+  <keys prop="Description" type="monster" key="region_map_c02_05" value="Weapon Workshop" />
+  <keys prop="Description" type="monster" key="region_map_c02_06" value="Armor Workshop" />
+  <keys prop="Description" type="monster" key="region_map_c02_07" value="Alchemy Lab" />
+  <keys prop="Description" type="monster" key="region_map_c02_08" value="Handicrafts Shop" />
+  <keys prop="Description" type="monster" key="region_map_c02_09" value="The Seeds of Abundance" />
+  <keys prop="Description" type="monster" key="region_map_c02_10" value="Collector Kayar's House" />
+  <keys prop="Description" type="monster" key="region_map_c02_11" value="Village Chief Lamet's House" />
+  <keys prop="Description" type="monster" key="region_map_c02_12" value="Grocer" />
+  <keys prop="Description" type="monster" key="region_map_c02_13" value="Potion Shop" />
+  <keys prop="Description" type="monster" key="region_map_c02_14" value="Kitchen" />
+  <keys prop="Description" type="monster" key="region_map_c02_15" value="Village Guard Post" />
+  <keys prop="Description" type="monster" key="Region_D98_001" value="Ruby Sanctuary" />
+  <keys prop="Description" type="monster" key="Region_D98_002" value="Ruby Sanctuary Battlefield" />
+  <keys prop="Description" type="monster" key="Region_D98_003" value="Prison of The Expelled" />
+  <keys prop="Description" type="monster" key="Region_D98_004" value="Prison of The Dead" />
+  <keys prop="Description" type="monster" key="Region_D98_005" value="The Throne of The Expelled" />
+  <keys prop="Description" type="monster" key="Region_D98_006" value="Battlefield" />
+  <keys prop="Description" type="monster" key="Region_D98_007" value="Battlefield" />
+  <keys prop="Description" type="monster" key="region_d12_001" value="Mutant Incubator Factory" />
+  <keys prop="Description" type="monster" key="region_d12_002" value="Wailing Cave" />
+  <keys prop="Description" type="monster" key="region_d12_003" value="Breach of Dispair" />
+  <keys prop="Description" type="monster" key="region_d12_004" value="Anturagen's Pain" />
+  <keys prop="Description" type="monster" key="region_d12_005" value="Duke Elder's Secret Library" />
+  <keys prop="Description" type="monster" key="region_d12_006" value="Secret Room" />
+  <keys prop="Description" type="monster" key="region_g02_001" value="Guild Lobby" />
+  <keys prop="Description" type="monster" key="region_g02_002" value="Guild Workshop" />
+  <keys prop="Description" type="monster" key="region_g02_003" value="Guild Portal Room" />
+  <keys prop="Description" type="monster" key="region_g02_004" value="Guild Conference Room" />
+  <keys prop="Description" type="monster" key="region_g03_001" value="Guild Lobby" />
+  <keys prop="Description" type="monster" key="region_g03_002" value="Guild Workshop" />
+  <keys prop="Description" type="monster" key="region_g03_003" value="Guild Portal Room" />
+  <keys prop="Description" type="monster" key="region_g03_004" value="Guild Conference Room" />
+  <keys prop="Description" type="monster" key="region_d11_000" value="Frosty Cave" />
+  <keys prop="Description" type="monster" key="region_d11_014" value="Eye of The Sea" />
+  <keys prop="Description" type="monster" key="region_d97_001" value="PC Bunny's Farm" />
+  <keys prop="Name" type="monster" key="region_c01_042" value="Elgren Farmlands" />
+  <keys prop="Description" type="monster" key="region_i01_014" value="Global Dungeon Lobby (Akrat)" />
+  <keys prop="Description" type="monster" key="region_c02_027" value="Elder's Floating Fort Entrance" />
+  <keys prop="Description" type="monster" key="region_f96_001" value="Familiar Farm" />
+  <keys prop="Description" type="monster" key="region_t01_001" value="Augury Altar" />
+  <keys prop="Description" type="monster" key="region_t01_002" value="Ellora's Sanctum" />
+  <keys prop="Description" type="monster" key="region_t01_003" value="Holy Light Bridge" />
+  <keys prop="Description" type="monster" key="region_t01_004" value="Blessed Path" />
+  <keys prop="Description" type="monster" key="region_f02_031" value="Guardian Pass" />
+  <keys prop="Description" type="monster" key="region_map_f02_11" value="Kellwoods" />
+  <keys prop="Description" type="monster" key="region_map_f02_12" value="Familiar Workshop" />
+  <keys prop="Description" type="monster" key="region_map_f02_13" value="Alchemy Lab" />
+  <keys prop="Description" type="monster" key="region_map_f02_14" value="Handicrafts Shop" />
+  <keys prop="Description" type="monster" key="region_map_f02_15" value="Kitchen" />
+  <keys prop="Description" type="monster" key="region_map_f02_16" value="General Shop" />
+  <keys prop="Description" type="monster" key="region_map_f02_17" value="Crafting Station" />
+  <keys prop="Description" type="monster" key="region_map_f02_21" value="Foothills Camp" />
+  <keys prop="Description" type="monster" key="region_map_f02_22" value="Edgar's Post" />
+  <keys prop="Description" type="monster" key="region_map_f02_23" value="General Shop" />
+  <keys prop="Description" type="monster" key="region_map_f02_24" value="Captain's Post" />
+  <keys prop="Description" type="monster" key="region_map_f02_25" value="Grocer" />
+  <keys prop="Description" type="monster" key="region_map_f09_11" value="Garrison Camp" />
+  <keys prop="Description" type="monster" key="region_map_f09_12" value="Guard Post" />
+  <keys prop="Description" type="monster" key="region_map_f09_13" value="General Shop" />
+  <keys prop="Description" type="monster" key="region_map_f09_14" value="Artillery Battery" />
+  <keys prop="Description" type="monster" key="region_map_f09_15" value="Command Post" />
+  <keys prop="Description" type="monster" key="region_map_f09_21" value="Fort Baellas" />
+  <keys prop="Description" type="monster" key="region_map_f09_22" value="General Shop" />
+  <keys prop="Description" type="monster" key="region_map_f09_23" value="Crafting Station" />
+  <keys prop="Description" type="monster" key="region_map_f09_24" value="Familiar Workshop" />
+  <keys prop="Description" type="monster" key="region_map_f09_25" value="Alchemy Lab" />
+  <keys prop="Description" type="monster" key="region_map_f09_26" value="Kitchen" />
+  <keys prop="Description" type="monster" key="region_map_f09_27" value="Handicrafts Shop" />
+  <keys prop="Description" type="monster" key="region_e01_001" value="Manor Aid Station" />
+  <keys prop="Description" type="monster" key="region_e01_002" value="Zombie Area" />
+  <keys prop="Description" type="monster" key="region_e01_003" value="Dark Banquet Hall" />
+  <keys prop="Description" type="monster" key="region_e01_004" value="Dark Private Residence" />
+  <keys prop="Description" type="monster" key="region_e01_005" value="Ghost Chancery" />
+  <keys prop="Description" type="monster" key="region_c01_043" value="Hakanas Capital Castle" />
+  <keys prop="Description" type="monster" key="region_map_f07_11" value="El Gaden" />
+  <keys prop="Description" type="monster" key="region_e01_006" value="Apocalyptic Room" />
+  <keys prop="Description" type="monster" key="region_c01_044" value="Haunter House Entrance" />
+  <keys prop="Description" type="monster" key="region_i01_015" value="Battleground Lobby" />
+  <keys prop="Description" type="monster" key="region_d07_001" value="Grave Entrance" />
+  <keys prop="Description" type="monster" key="region_d07_002" value="Laboratory Descent Path" />
+  <keys prop="Description" type="monster" key="region_d07_003" value="Bone Valley" />
+  <keys prop="Description" type="monster" key="region_d07_004" value="Larva Hacthery" />
+  <keys prop="Description" type="monster" key="region_d07_005" value="Mutant Culture Room" />
+  <keys prop="Description" type="monster" key="region_d07_006" value="Kurodian's Hideout" />
+  <keys prop="Description" type="monster" key="region_d07_007" value="Lower Culture Room" />
+  <keys prop="Description" type="monster" key="region_f08_001" value="Grand Canyon Village" />
+  <keys prop="Description" type="monster" key="region_f08_002" value="Floating Whale Crash Site" />
+  <keys prop="Description" type="monster" key="region_f08_003" value="Itildir Fortress" />
+  <keys prop="Description" type="monster" key="region_f08_004" value="Itildir Waterway" />
+  <keys prop="Description" type="monster" key="region_f08_005" value="Itildir Lookout" />
+  <keys prop="Description" type="monster" key="region_f08_006" value="Itildir Supply Camp" />
+  <keys prop="Description" type="monster" key="region_f08_007" value="Destroyed Land" />
+  <keys prop="Description" type="monster" key="region_f08_008" value="Itildir Valley" />
+  <keys prop="Description" type="monster" key="region_f08_009" value="Abandoned Lookout" />
+  <keys prop="Description" type="monster" key="region_f08_010" value="The Deserter's Escape" />
+  <keys prop="Description" type="monster" key="region_f08_011" value="Exid Training Camp" />
+  <keys prop="Description" type="monster" key="region_f08_012" value="Insect Prison" />
+  <keys prop="Description" type="monster" key="region_f08_013" value="Community Camp" />
+  <keys prop="Description" type="monster" key="region_f08_014" value="Exid Community" />
+  <keys prop="Description" type="monster" key="region_f08_015" value="Abandoned Command Post" />
+  <keys prop="Description" type="monster" key="region_f08_016" value="Contaminated Land" />
+  <keys prop="Description" type="monster" key="region_f08_017" value="Insect Reconnaissance" />
+  <keys prop="Description" type="monster" key="region_f08_018" value="Insect Legion Headquarters" />
+  <keys prop="Description" type="monster" key="region_f08_019" value="Prison Camp" />
+  <keys prop="Description" type="monster" key="region_f08_020" value="Insect Army Command Post" />
+  <keys prop="Description" type="monster" key="region_f08_021" value="Salazar's Throne" />
+  <keys prop="Description" type="monster" key="region_f08_022" value="The Refugee's Hideout" />
+  <keys prop="Description" type="monster" key="region_f08_023" value="Insect LegionTraining Camp" />
+  <keys prop="Description" type="monster" key="region_f08_024" value="Aklan Grassland" />
+  <keys prop="Description" type="monster" key="region_f08_025" value="Investigation camp" />
+  <keys prop="Description" type="monster" key="region_f08_026" value="Northern Aklan Meadow" />
+  <keys prop="Description" type="monster" key="region_f08_027" value="Southern Aklan Meadow" />
+  <keys prop="Description" type="monster" key="region_f08_028" value="Insect Legion Camp" />
+  <keys prop="Description" type="monster" key="region_f08_029" value="Aklan Community" />
+  <keys prop="Description" type="monster" key="region_f08_030" value="Eastern Aklan Forest" />
+  <keys prop="Description" type="monster" key="region_f08_031" value="Western Aklan Forest" />
+  <keys prop="Description" type="monster" key="region_f08_032" value="Aklan Camp" />
+  <keys prop="Description" type="monster" key="region_f08_033" value="Yastan Village" />
+  <keys prop="Description" type="monster" key="region_f08_034" value="Aklan Forest" />
+  <keys prop="Description" type="monster" key="region_f08_035" value="Insect King's Temporary Residence" />
+  <keys prop="Description" type="monster" key="region_f08_036" value="Eastern Grand Canyon" />
+  <keys prop="Description" type="monster" key="region_f08_037" value="Northern Grand Canyon" />
+  <keys prop="Description" type="monster" key="region_f08_038" value="Central Grand Canyon" />
+  <keys prop="Description" type="monster" key="region_f08_039" value="Turiman Falls" />
+  <keys prop="Description" type="monster" key="region_f08_040" value="Aklan Shore" />
+  <keys prop="Description" type="monster" key="region_f08_041" value="Hidden Shore" />
+  <keys prop="Description" type="monster" key="region_f08_042" value="Hidden Hideout" />
+  <keys prop="Description" type="monster" key="region_f08_043" value="The Sunken Land" />
+  <keys prop="Description" type="monster" key="region_f08_044" value="Turiman Floating Island" />
+  <keys prop="Description" type="monster" key="region_f08_045" value="Floating Island Camp" />
+  <keys prop="Description" type="monster" key="region_f08_046" value="Entrance to the Tomb of the Wyrm" />
+  <keys prop="Description" type="monster" key="region_f08_047" value="Destroyed town" />
+  <keys prop="Description" type="monster" key="region_f08_048" value="Yastan Historical Site" />
+  <keys prop="Description" type="monster" key="region_f08_049" value="Ilric's Lair" />
+  <keys prop="Description" type="monster" key="region_i01_016" value="Turiman Lobby" />
+  <keys prop="Description" type="monster" key="region_map_f08_01" value="Grand Canyon Village" />
+  <keys prop="Description" type="monster" key="region_map_f08_02" value="Grand Canyon Village Pier" />
+  <keys prop="Description" type="monster" key="region_map_f08_03" value="Business District" />
+  <keys prop="Description" type="monster" key="region_map_f08_04" value="Industrial District" />
+  <keys prop="Description" type="monster" key="region_map_f08_05" value="Town Chief's Place" />
+  <keys prop="Description" type="monster" key="region_map_f08_06" value="Grand Canyon Village Circle" />
+  <keys prop="Description" type="monster" key="region_f08_e01" value="Yastan Historical Site" />
+  <keys prop="Description" type="monster" key="region_f08_e02" value="Ilric's Lair" />
+  <keys prop="Description" type="monster" key="region_f08_050" value="Insect Legion Hatchery" />
+  <keys prop="Description" type="monster" key="region_map_f17_01" value="El Dor Town" />
+  <keys prop="Description" type="monster" key="region_map_f17_02" value="Elf Business District" />
+  <keys prop="Description" type="monster" key="region_map_f17_03" value="Wind Elf Shelter" />
+  <keys prop="Description" type="monster" key="region_map_f17_04" value="Elf Industrial District" />
+  <keys prop="Description" type="monster" key="Region_F07_28" value="Forgotten Holy Land" />
+  <keys prop="Description" type="monster" key="region_d96_001" value="King Hadakan's Underground Labyrinth Entrance" />
+  <keys prop="Description" type="monster" key="region_d96_002" value="King Hadakan's Underground Labyrinth" />
+  <keys prop="Description" type="monster" key="region_d96_003" value="King Hadakan's Hidden Treasure Room" />
+  <keys prop="Description" type="monster" key="region_d95_001" value="1st Room: Two Doors" />
+  <keys prop="Description" type="monster" key="region_d95_002" value="2nd Room: Hell" />
+  <keys prop="Description" type="monster" key="region_d95_003" value="3rd Room: Frog in the Well" />
+  <keys prop="Description" type="monster" key="region_d95_004" value="4th Room: Winnie the Pooh" />
+  <keys prop="Description" type="monster" key="region_d95_005" value="5th Room: Weekend Attendance Part.2" />
+  <keys prop="Description" type="monster" key="region_d95_006" value="6th Room: Braghin Blade" />
+  <keys prop="Description" type="monster" key="region_d95_007" value="7th Room: Friends across the street" />
+  <keys prop="Description" type="monster" key="region_d95_008" value="8th Room: High Noon" />
+  <keys prop="Description" type="monster" key="region_d95_009" value="9th Room: Eternal Sunshine" />
+  <keys prop="Description" type="monster" key="region_d95_010" value="10th Room: Development Hell Part.2" />
+  <keys prop="Description" type="monster" key="region_c02_028" value="Hastan Secret Retreat Entrance" />
+  <keys prop="Description" type="monster" key="region_c02_029" value="Hastan Secret Retreat" />
+  <keys prop="Description" type="monster" key="region_f01_021" value="Timberlake Crash Site" />
+  <keys prop="Description" type="monster" key="region_f01_022" value="Braghin Outpost" />
+  <keys prop="Description" type="monster" key="region_f01_023" value="Timberlake Sawmill" />
+  <keys prop="Description" type="monster" key="region_f01_024" value="Dragon Knight Camp" />
+  <keys prop="Description" type="monster" key="region_f01_025" value="Pritscha's Nest" />
+  <keys prop="Description" type="monster" key="region_f01_026" value="Yatuman's Secret Altar" />
+  <keys prop="Description" type="monster" key="region_f01_027" value="Ruins Camp" />
+  <keys prop="Description" type="monster" key="region_map_f01_03" value="Tobolda Camp" />
+  <keys prop="Description" type="monster" key="region_r01_001" value="Yatuman's Secret Altar" />
+  <keys prop="Description" type="monster" key="region_m01_001" value="Kellwoods Mine" />
+  <keys prop="Description" type="monster" key="region_m02_001" value="Foothills Mine" />
+  <keys prop="Description" type="monster" key="region_m03_001" value="Zadaran Mine" />
+  <keys prop="Description" type="monster" key="region_d94_0000" value="Lobby" />
+  <keys prop="Description" type="monster" key="region_d94_0001" value="Room 1" />
+  <keys prop="Description" type="monster" key="region_d94_0002" value="Room 2" />
+  <keys prop="Description" type="monster" key="region_d94_0003" value="Room 3" />
+  <keys prop="Description" type="monster" key="region_d94_0004" value="Room 4" />
+  <keys prop="Description" type="monster" key="region_d94_0005" value="[Boss] Room 5" />
+  <keys prop="Description" type="monster" key="region_d94_0006" value="Room 6" />
+  <keys prop="Description" type="monster" key="region_d94_0007" value="Room 7" />
+  <keys prop="Description" type="monster" key="region_d94_0008" value="Room 8" />
+  <keys prop="Description" type="monster" key="region_d94_0009" value="Room 9" />
+  <keys prop="Description" type="monster" key="region_d94_0010" value="[Boss] Room 10" />
+  <keys prop="Description" type="monster" key="region_d94_0011" value="Room 11" />
+  <keys prop="Description" type="monster" key="region_d94_0012" value="Room 12" />
+  <keys prop="Description" type="monster" key="region_d94_0013" value="Room 13" />
+  <keys prop="Description" type="monster" key="region_d94_0014" value="Room 14" />
+  <keys prop="Description" type="monster" key="region_d94_0015" value="[Boss] Room 15" />
+  <keys prop="Description" type="monster" key="region_d94_0016" value="Room 16" />
+  <keys prop="Description" type="monster" key="region_d94_0017" value="Room 17" />
+  <keys prop="Description" type="monster" key="region_d94_0018" value="Room 18" />
+  <keys prop="Description" type="monster" key="region_d94_0019" value="Room 19" />
+  <keys prop="Description" type="monster" key="region_d94_0020" value="[Boss] Room 20" />
+  <keys prop="Description" type="monster" key="region_e02_01" value="Rabismas' Airship" />
+  <keys prop="Description" type="monster" key="region_i01_017" value="Co-op lobby" />
+  <keys prop="Description" type="monster" key="region_d88_007" value="Hall of the Black Dragon" />
+  <keys prop="Description" type="monster" key="region_d88_005" value="Room of Storms" />
+  <keys prop="Description" type="monster" key="region_d88_003" value="Hideout Entrance" />
+  <keys prop="Description" type="monster" key="region_d88_008" value="Hideout Docks" />
+  <keys prop="Description" type="monster" key="region_d88_002" value="Watcher's Gaze" />
+  <keys prop="Description" type="monster" key="region_d88_001" value="Room of Flames" />
+  <keys prop="Description" type="monster" key="region_d88_009" value="The Corridor of Silence" />
+  <keys prop="Description" type="monster" key="region_d88_004" value="Watcher's Gaze" />
+  <keys prop="Description" type="monster" key="region_d88_010" value="Corporation of Blue Flames" />
+  <keys prop="Description" type="monster" key="region_d88_011" value="Watcher's Gaze" />
+  <keys prop="Description" type="monster" key="region_d88_006" value="The Corridor of Silence" />
+  <keys prop="Description" type="monster" key="region_f08_051" value="Hideout of the Dragon Gods" />
+  <keys prop="Description" type="monster" key="region_d92_001" value="Full Moon Ravini Land" />
+  <keys prop="Description" type="monster" key="region_d92_002" value="Full Moon Ravini Land" />
+  <keys prop="Description" type="monster" key="region_d92_003" value="Full Moon Ravini Land" />
+  <keys prop="Description" type="monster" key="region_d89_007" value="Hall of the Black Dragon" />
+  <keys prop="Description" type="monster" key="region_d89_005" value="Room of Storms" />
+  <keys prop="Description" type="monster" key="region_d89_003" value="Hideout Entrance" />
+  <keys prop="Description" type="monster" key="region_d89_008" value="Hideout Docks" />
+  <keys prop="Description" type="monster" key="region_d89_002" value="Watcher's Gaze" />
+  <keys prop="Description" type="monster" key="region_d89_001" value="Room of Flames" />
+  <keys prop="Description" type="monster" key="region_d89_009" value="The Corridor of Silence" />
+  <keys prop="Description" type="monster" key="region_d89_004" value="Watcher's Gaze" />
+  <keys prop="Description" type="monster" key="region_d89_010" value="Couple of Blue Flames" />
+  <keys prop="Description" type="monster" key="region_d89_011" value="Watcher's Gaze" />
+  <keys prop="Description" type="monster" key="region_d89_006" value="The Corridor of Silence" />
+</files>

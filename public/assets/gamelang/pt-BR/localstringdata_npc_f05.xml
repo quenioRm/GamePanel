@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0001" value="Einz Garni" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0001Detail" value="Taverneira" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0002" value="Lucinda Lebrini" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0002Detail" value="Comerciante de Ellun" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0003" value="Schenter" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0003Detail" value="Carpinteiro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0004" value="Ziker" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0004Detail" value="Músico" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0005" value="Marchen" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0005Detail" value="Cidadão" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0006" value="Wilson Chattler" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0006Detail" value="Seleiro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0007" value="Welden" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0007Detail" value="Andarilho" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0008" value="Argento" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0008Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0009" value="Lagerhalle" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0009Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0010" value="Schmittel" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0010Detail" value="Quitandeira" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0011" value="Cadáver de Comerciante" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0012" value="Kegriff" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0012Detail" value="Rei Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0013" value="Khanyan" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0013Detail" value="Rei Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0014" value="Potzdel" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0014Detail" value="Pesquisador de Animais do Deserto" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0015" value="Lejou" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0015Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0016" value="Veronica" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0016Detail" value="Fantasma de Sandy Beach" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0017" value="Narusu" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0017Detail" value="Xamã" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0018" value="Khina'khoon" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0018Detail" value="Traidor Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0019" value="Yuandi" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0019Detail" value="Caçador de Tesouro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0020" value="Chimer" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0020Detail" value="Profeta" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0021" value="Mere" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0021Detail" value="Patrulheiro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0022" value="Augusto" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0022Detail" value="Escultor" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0023" value="Nix" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0023Detail" value="Eremita" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0024" value="Cadáver Não Identificado" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0024Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0025" value="Emil Stuart" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0025Detail" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0026" value="Azra" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0026Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0027" value="Chimer" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0027Detail" value="Profeta" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0028" value="Avro" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0028Detail" value="Cavaleiro Aposentado" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0029" value="Ishumel" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0029Detail" value="Neto de Avro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0030" value="Nilhez" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0030Detail" value="Ex-Caçador de Tesouro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0031" value="Shamo" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0031Detail" value="Pescadora" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0032" value="Nihil" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0032Detail" value="Desempregado" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0033" value="Lisian" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0033Detail" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0034" value="Azra" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0034Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0035" value="Verley" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0035Detail" value="Sobrevivente" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0036" value="Rocha Varen" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0036Detail" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_100" value="Santuário de Regiões" />
+  <keys prop="Description" type="monster" key="N_F05_Portal_100Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_001" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F05_Portal_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_002" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F05_Portal_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_003" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F05_Portal_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_004" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F05_Portal_004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_005" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F05_Portal_005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_006" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F05_Portal_006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_HuMsol_003" value="Curtis" />
+  <keys prop="Description" type="monster" key="N_f05_HuMsol_003Detail" value="Capitão da Guarda de Alseik" />
+  <keys prop="Name" type="monster" key="N_f05_HuMsol_004" value="Curtis" />
+  <keys prop="Description" type="monster" key="N_f05_HuMsol_004Detail" value="Capitão da Guarda de Alseik" />
+  <keys prop="Name" type="monster" key="N_f05_LeopDC_001" value="Desert Panther" />
+  <keys prop="Description" type="monster" key="N_f05_LeopDC_001Detail" value="Blanco's Familiar" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0037" value="Eindor" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0037Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0038" value="Trea" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0038Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0039" value="Segler" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0039Detail" value="Tripulante do Titã HST" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0040" value="Yanter" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0040Detail" value="Imediato do Titã HST" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0041" value="Rinoceronte de Cabrera" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0041Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Carriage_001" value="Carroça de Caravana" />
+  <keys prop="Description" type="monster" key="N_F05_Carriage_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0042" value="Warak" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0042Detail" value="Conselheiro da Guarda" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0043" value="Yahur" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0043Detail" value="Conselheiro dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0044" value="Yahur" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0044Detail" value="Conselheiro dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0045" value="Nazahi" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0045Detail" value="Capitão dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0046" value="Damay" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0046Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0047" value="Liaven" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0047Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0048" value="Corvo" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0048Detail" value="Comandante da Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0049" value="Elena" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0049Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0050" value="Chimer" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0050Detail" value="Profeta" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0051" value="Moh'ruun" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0051Detail" value="Chefe Artesão Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0052" value="Laius" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0052Detail" value="Sacerdote do Templo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0053" value="Chantra" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0053Detail" value="Comerciante de Minerais" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0054" value="Logan" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0054Detail" value="Patrulheiro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0055" value="Cavaleiro de Grifo" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0055Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0056" value="Cavaleiro de Grifo" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0056Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0057" value="Sanderson" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0057Detail" value="Ancião do Pico Dourado" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0058" value="Christianne" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0058Detail" value="Ancião do Pico Dourado" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0059" value="Loyna" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0059Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0060" value="Mayden" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0060Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0061" value="Lakari'khan" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0061Detail" value="Guerreiro Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0062" value="Gerald" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0062Detail" value="General Veterano" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0063" value="Denil" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0063Detail" value="Escolta do General" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0064" value="Kendall" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0064Detail" value="Investigador Real" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0065" value="Bunil" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0065Detail" value="Aprendiz do Investigador" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0066" value="Darcy" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0066Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0067" value="Shilby" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0067Detail" value="Familiar de Darcy" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0068" value="Latonin" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0068Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0069" value="Sahib" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0069Detail" value="Familiar do Colecionador" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0070" value="Seremai" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0070Detail" value="Caçador de Tesouro" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0071" value="Doornkat" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0071Detail" value="Familiar de Seremai" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0072" value="Ollet" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0072Detail" value="Andarilho das Sombras" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0073" value="Breyer" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0073Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0074" value="Laman'tuul" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0074Detail" value="Xamã de Turo'khan" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0075" value="Lemma" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0075Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0076" value="Ollet" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0076Detail" value="Andarilho das Sombras" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0077" value="Claudette" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0077Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0078" value="Herschel" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0078Detail" value="Fantasma de Sandy Beach" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0079" value="Cadáver do Colecionador" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0079Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0080" value="Yusei" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0080Detail" value="Garota Amnésica" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0081" value="Beldu" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0081Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0082" value="Ario" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0082Detail" value="Familiar do Colecionador" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0083" value="Teru" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0083Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0084" value="Karot" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0084Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0085" value="Otamo" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0085Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0086" value="Livro Abandonado" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0086Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0087" value="Túmulo de Yusei" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0087Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0088" value="Cadáver de Comerciante" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0088Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0004" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0004Detail" value="Acampamento do Caminho Resplandecente" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0005" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0005Detail" value="Oásis dos Prantos" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0089" value="Capitão Jeffner" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0089Detail" value="Balsa do Deserto da Imortalidade" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0090" value="Lamut" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0090Detail" value="Balsa do Deserto da Imortalidade" />
+  <keys prop="Name" type="monster" key="N_D13_Portal_B" value="Santuário de Trânsito do Sacrário" />
+  <keys prop="Description" type="monster" key="N_D13_Portal_BDetail" value="Sacrário de Skatrasha" />
+  <keys prop="Name" type="monster" key="N_D13_Portal_Q" value="Santuário da Vitória" />
+  <keys prop="Description" type="monster" key="N_D13_Portal_QDetail" value="Saída da Masmorra" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0006" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0006Detail" value="Mina Braghin" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0091" value="Hiam" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0091Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0092" value="Guarda de Alseik" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0092Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0093" value="Ladas" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0093Detail" value="Guarda de Alseik" />
+  <keys prop="Name" type="monster" key="N_F05_Carriage_002" value="Carroça de Caravana" />
+  <keys prop="Description" type="monster" key="N_F05_Carriage_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_HuMMer_005_1" value="Kaal (Uso em Cenário)" />
+  <keys prop="Description" type="monster" key="N_f05_HuMMer_005_1Detail" value="O Cavaleiro da Lenda" />
+  <keys prop="Name" type="monster" key="N_f05_Golem_1" value="Espírito de Rocha Invocado" />
+  <keys prop="Description" type="monster" key="N_f05_Golem_1Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0094" value="Ladas" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0094Detail" value="Guarda de Alseik" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0095" value="Guarda de Alseik" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0095Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F05_Carriage_003" value="Carroça de Caravana" />
+  <keys prop="Description" type="monster" key="N_F05_Carriage_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_airfellow_001" value="Neive" />
+  <keys prop="Description" type="monster" key="N_f05_airfellow_001Detail" value="Familiar de Kaal" />
+  <keys prop="Name" type="monster" key="N_f05_airfellow_002" value="Meretta" />
+  <keys prop="Description" type="monster" key="N_f05_airfellow_002Detail" value="Familiar de Lindberg" />
+  <keys prop="Name" type="monster" key="N_f05_airfellow_003" value="Crick" />
+  <keys prop="Description" type="monster" key="N_f05_airfellow_003Detail" value="Familiar de Sherid" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0096" value="Laius" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0096Detail" value="Sacerdote do Templo" />
+  <keys prop="Name" type="monster" key="N_D06_Portal_Q" value="Santuário da Vitória" />
+  <keys prop="Description" type="monster" key="N_D06_Portal_QDetail" value="Saída da Masmorra" />
+  <keys prop="Name" type="monster" key="N_D06_Behide_01" value="Behain Skeron" />
+  <keys prop="Description" type="monster" key="N_D06_Behide_01Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0097" value="Dione" />
+  <keys prop="Description" type="monster" key="n_f05_0_0001_0097Detail" value="Mago Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0098" value="Rosie" />
+  <keys prop="Description" type="monster" key="n_f05_0_0001_0098Detail" value="Mago Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0099" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0100" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0101" value="Gerald" />
+  <keys prop="Description" type="monster" key="n_f05_0_0001_0101Detail" value="General Veterano" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0102" value="Denil" />
+  <keys prop="Description" type="monster" key="n_f05_0_0001_0102Detail" value="Escolta do General" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0103" value="Dione" />
+  <keys prop="Description" type="monster" key="n_f05_0_0001_0103Detail" value="Mago Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0104" value="Rosie" />
+  <keys prop="Description" type="monster" key="n_f05_0_0001_0104Detail" value="Mago Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0105" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0106" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0107" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_0_0001_0108" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="n_f05_grifkni_01" value="Pago" />
+  <keys prop="Description" type="monster" key="n_f05_grifkni_01Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="n_f05_finder_01" value="Vanessa" />
+  <keys prop="Description" type="monster" key="n_f05_finder_01Detail" value="Investigador do Deserto" />
+  <keys prop="Name" type="monster" key="n_f05_collect_01" value="Tarin" />
+  <keys prop="Description" type="monster" key="n_f05_collect_01Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="n_f05_guard_01" value="Tria" />
+  <keys prop="Description" type="monster" key="n_f05_guard_01Detail" value="Guardas de Alseik" />
+  <keys prop="Name" type="monster" key="n_f05_grifkni_02" value="Bateon" />
+  <keys prop="Description" type="monster" key="n_f05_grifkni_02Detail" value="Chefe Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="n_f05_grifkni_03" value="Loni" />
+  <keys prop="Description" type="monster" key="n_f05_grifkni_03Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="n_f05_krosha_01" value="Ayra'tuul" />
+  <keys prop="Description" type="monster" key="n_f05_krosha_01Detail" value="Battle Priest" />
+  <keys prop="Name" type="monster" key="n_f05_solutio_01" value="Nuhama" />
+  <keys prop="Description" type="monster" key="n_f05_solutio_01Detail" value="O Solucionador" />
+  <keys prop="Name" type="monster" key="n_f05_krosha_02" value="Zeb'tuul" />
+  <keys prop="Description" type="monster" key="n_f05_krosha_02Detail" value="Shaman Defector" />
+  <keys prop="Name" type="monster" key="n_f05_oldlady_01" value="Pyrian" />
+  <keys prop="Description" type="monster" key="n_f05_oldlady_01Detail" value="Ancião da Cidade do Eremita" />
+  <keys prop="Name" type="monster" key="n_f05_clan_01" value="Eindor" />
+  <keys prop="Description" type="monster" key="n_f05_clan_01Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_SL_01" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_SL_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_SR_02" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_SR_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_EL_03" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_EL_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_ER_04" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_ER_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_MBS_05" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_MBS_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_UGS_06" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_UGS_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_BS_07" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_BS_07Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f05_prison_01" value="Prisioneiro do Cavaleiro de Grifo" />
+  <keys prop="Description" type="monster" key="n_f05_prison_01Detail" value="Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="n_f05_Martin_001" value="Martin Chaser" />
+  <keys prop="Description" type="monster" key="n_f05_Martin_001Detail" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="n_f06_fnpc_01" value="Cavaleiro de Grifo" />
+  <keys prop="Description" type="monster" key="n_f06_fnpc_01Detail" value="Guarda de Fratura" />
+  <keys prop="Name" type="monster" key="n_f06_fnpc_02" value="Cavaleiro de Grifo" />
+  <keys prop="Description" type="monster" key="n_f06_fnpc_02Detail" value="Guarda de Fratura" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0007" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0007Detail" value="Acampamento dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0008" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0008Detail" value="Templo de Haracrow" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0009" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0009Detail" value="Estacadas Rebeldes" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0010" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0010Detail" value="Litoral do Filósofo" />
+  <keys prop="Name" type="monster" key="N_f05_Board_0011" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_f05_Board_0011Detail" value="Fortaleza das Mágoas" />
+  <keys prop="Name" type="monster" key="N_f05_KrokEngeer_002" value="Turo'khan" />
+  <keys prop="Description" type="monster" key="N_f05_KrokEngeer_002Detail" value="War Chief" />
+  <keys prop="Name" type="monster" key="N_f05_KrokEngeer_003" value="Turo'khan" />
+  <keys prop="Description" type="monster" key="N_f05_KrokEngeer_003Detail" value="War Chief" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0110" value="Lakari'khan" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0110Detail" value="Guerreiro Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0111" value="Lakari'khan" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0111Detail" value="Guerreiro Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_Bart_001" value="Batha'khan" />
+  <keys prop="Description" type="monster" key="N_f05_Bart_001Detail" value="Conselheiro Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_Bart_002" value="Batha'khan" />
+  <keys prop="Description" type="monster" key="N_f05_Bart_002Detail" value="Conselheiro Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_Bart_003" value="Batha'khan" />
+  <keys prop="Description" type="monster" key="N_f05_Bart_003Detail" value="Conselheiro Crokhoon" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0112" value="Chimer" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0112Detail" value="Profeta" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0113" value="Chimer" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0113Detail" value="Profeta" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0114" value="Nazahi" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0114Detail" value="Capitão dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0115" value="Nazahi" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0115Detail" value="Capitão dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0116" value="Liaven" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0116Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0117" value="Liaven" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0117Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0118" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0119" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0120" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0121" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_HuMMil02_007" value="Ender Ale" />
+  <keys prop="Description" type="monster" key="N_f05_HuMMil02_007Detail" value="Guarda-Costas de Chimer" />
+  <keys prop="Name" type="monster" key="N_f05_HuMMil02_008" value="Ender Ale" />
+  <keys prop="Description" type="monster" key="N_f05_HuMMil02_008Detail" value="Guarda-Costas de Chimer" />
+  <keys prop="Name" type="monster" key="N_f05_HuFMer02_007" value="Letina Volken" />
+  <keys prop="Description" type="monster" key="N_f05_HuFMer02_007Detail" value="Chefe da Cidade do Eremita" />
+  <keys prop="Name" type="monster" key="N_f05_HuFMer02_006" value="Letina Volken" />
+  <keys prop="Description" type="monster" key="N_f05_HuFMer02_006Detail" value="Chefe da Cidade do Eremita" />
+  <keys prop="Name" type="monster" key="N_f05_kamon_001" value="Kamon" />
+  <keys prop="Description" type="monster" key="N_f05_kamon_001Detail" value="Escolta do General" />
+  <keys prop="Name" type="monster" key="N_f05_kamon_002" value="Kamon" />
+  <keys prop="Description" type="monster" key="N_f05_kamon_002Detail" value="Escolta do General" />
+  <keys prop="Name" type="monster" key="N_f05_kamon_003" value="Kamon" />
+  <keys prop="Description" type="monster" key="N_f05_kamon_003Detail" value="Escolta do General" />
+  <keys prop="Name" type="monster" key="n_f05_Martin_002" value="Martin Chaser" />
+  <keys prop="Description" type="monster" key="n_f05_Martin_002Detail" value="Cavaleiro Recluso" />
+  <keys prop="Name" type="monster" key="N_f05_HuMKni03_003" value="Damay" />
+  <keys prop="Description" type="monster" key="N_f05_HuMKni03_003Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_HuFSha01_002" value="Elena" />
+  <keys prop="Description" type="monster" key="N_f05_HuFSha01_002Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_D06_Barrent_01" value="Barrant" />
+  <keys prop="Description" type="monster" key="N_D06_Barrent_01Detail" value="Patrulheiro dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_D06_Griffon_01" value="Cavaleiro de Grifo" />
+  <keys prop="Description" type="monster" key="N_D06_Griffon_01Detail" value="Cavaleiro Avançado" />
+  <keys prop="Name" type="monster" key="N_D06_Griffon_02" value="Cavaleiro de Grifo" />
+  <keys prop="Description" type="monster" key="N_D06_Griffon_02Detail" value="Cavaleiro Avançado" />
+  <keys prop="Name" type="monster" key="N_f05_Barrent_02" value="Barrant" />
+  <keys prop="Description" type="monster" key="N_f05_Barrent_02Detail" value="Patrulheiro dos Cavaleiros de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_rania_02" value="Princesa Lania" />
+  <keys prop="Description" type="monster" key="N_f05_rania_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_HuFSha01_005" value="Elena" />
+  <keys prop="Description" type="monster" key="N_f05_HuFSha01_005Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="n_f06_CrysBlue_01" value="Gema Azul de Bil'rahn" />
+  <keys prop="Description" type="monster" key="n_f06_CrysBlue_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f06_CrysGreen_01" value="Gema Verde de Bil'rahn" />
+  <keys prop="Description" type="monster" key="n_f06_CrysGreen_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f06_CrysRed_01" value="Gema Vermelha de Bil'rahn" />
+  <keys prop="Description" type="monster" key="n_f06_CrysRed_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f06_CrysYellow_01" value="Gema Amarela de Bil'rahn" />
+  <keys prop="Description" type="monster" key="n_f06_CrysYellow_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0122" value="Litie" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0122Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_f06_Portal_BS_08" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="N_f06_Portal_BS_08Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0123" value="Liaven" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0123Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0124" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0125" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="n_f06_portal_09" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="n_f06_portal_09Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f06_portal_10" value="Santuário de Trânsito da Fratura" />
+  <keys prop="Description" type="monster" key="n_f06_portal_10Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0126" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0126Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_f05_0_0001_0127" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="N_f05_0_0001_0127Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_007" value="Dispositivo de Ativação de Barreira" />
+  <keys prop="Name" type="monster" key="N_F05_Portal_008" value="Dispositivo de Ativação de Barreira" />
+  <keys prop="Name" type="monster" key="n_f05_collect_02" value="Yanul" />
+  <keys prop="Description" type="monster" key="n_f05_collect_02Detail" value="Colecionador Ferido" />
+  <keys prop="Name" type="monster" key="n_f05_chef_001" value="Cheri" />
+  <keys prop="Description" type="monster" key="n_f05_chef_001Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="n_f05_d24npc_01" value="Umbert Lebrini" />
+  <keys prop="Description" type="monster" key="n_f05_d24npc_01Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F05_BoxSell_01" value="Eddy Smith" />
+  <keys prop="Description" type="monster" key="N_F05_BoxSell_01Detail" value="Negociante de Moedas" />
+  <keys prop="Name" type="monster" key="N_F05_RabMer01" value="Phillipe Lebrini" />
+  <keys prop="Description" type="monster" key="N_F05_RabMer01Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F05_Cloyd_01" value="Cloyd" />
+  <keys prop="Description" type="monster" key="N_F05_Cloyd_01Detail" value="Cavaleiro de Grifo" />
+  <keys prop="Name" type="monster" key="N_F05_Carrera_01" value="Carrera" />
+  <keys prop="Description" type="monster" key="N_F05_Carrera_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F05_HuMMer_01" value="Poton" />
+  <keys prop="Description" type="monster" key="N_F05_HuMMer_01Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="n_d06_board_01" value="Fortress of Sorrows Board" />
+  <keys prop="Description" type="monster" key="n_d06_board_01Detail" value="Tabela de recompensas da masmorra" />
+  <keys prop="Name" type="monster" key="n_d13_board_01" value="Placa do Templo de Areias" />
+  <keys prop="Description" type="monster" key="n_d13_board_01Detail" value="Tabela de recompensas da masmorra" />
+  <keys prop="Name" type="monster" key="n_f06_board_01" value="Fractura Board" />
+  <keys prop="Description" type="monster" key="n_f06_board_01Detail" value="Tabela de recompensas da masmorra" />
+  <keys prop="Name" type="monster" key="n_d99_board_01" value="Torre do Quadro de Desafios" />
+  <keys prop="Description" type="monster" key="n_d99_board_01Detail" value="Tabela de recompensas da masmorra" />
+</files>

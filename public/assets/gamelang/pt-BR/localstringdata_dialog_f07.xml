@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="dialog_1210076_Title" value="Imediato Gilotte &lt;HST Orca&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210076_text0" value="Chimer me disse para aguardar sua chegada. Conheço o caminho para o Santuário de Ellora como a palma da minha mão. Se quiser resolver as coisas, venha comigo!" />
+  <keys prop="Description" type="monster" key="dialog_1210076_answer_2_text" value="Partir para o Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="dialog_1210077_Title" value="Capitão Dallwynn" />
+  <keys prop="Description" type="monster" key="dialog_1210077_text0" value="Capitão Dallynn da Frota Real do Titã do Céu, a seu dispor. O rei me pediu para ficar de olho nas coisas. Mas estou achando estranho não ter recebido notícias do ancião..." />
+  <keys prop="Description" type="monster" key="dialog_1210078_Title" value="Imediato Gilotte &lt;HST Orca&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210078_text0" value="O Santuário de Ellora é tão misterioso quanto lindo. Mas, de certo modo, parece mais sombrio agora. Isso deve ser coisa dos elfos do caos..." />
+  <keys prop="Description" type="monster" key="dialog_1210079_Title" value="Magno &lt;Cavaleiro do Dragão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210079_text0" value="Os elfos de luz finalmente engoliram seu orgulho e pediram ajuda a Hakanas. Apenas os melhores de nossos mais antigos companheiros -- e eu, Sir Magno dos Cavaleiros do Dragão, sou o melhor!&lt;br&gt;&lt;br&gt;Mas se ao menos alguém fizesse algo a respeito dessas aranhas nojentas..." />
+  <keys prop="Description" type="monster" key="dialog_1210080_Title" value="Bernori &lt;Guarda Elfo da Luz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210080_text0" value="Não pudemos fazer nada para deter os elfos do caos... O ancião e as pedras sagradas foram tirados de nosso poder... Não tenho valor." />
+  <keys prop="Description" type="monster" key="dialog_1210081_Title" value="Rannis &lt;Guarda Elfo da Luz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210081_text0" value="P-preciso... salvar o...&lt;br&gt;&lt;br&gt;(Rannis está com dificuldade para respirar, ainda mais para se locomover.)" />
+  <keys prop="Description" type="monster" key="dialog_1210082_Title" value="Belon &lt;Caçador de Crocodilos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210082_text0" value="Segui minha presa até o Santuário de Ellora -- Kruwel, o grande crocodilo. Meu parceiro teria que me encontrar aqui para começarmos a caça, mas ainda não apareceu. Kruwel já tirou outra vida? " />
+  <keys prop="Description" type="monster" key="dialog_1210083_Title" value="Nartha &lt;Assistente do Caçador de Crocodilos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210083_text0" value="Pensei que eu aprenderia a ganhar muito dinheiro como caçador de crocodilos, então eu fui aprendiz de Belon. Mas ele só quer perseguir o mesmo maldito crocodilo o tempo todo, como se quisesse se vingar. Eu deveria ter sido pastor, como meu pai queria!" />
+  <keys prop="Description" type="monster" key="dialog_1210084_Title" value="Cadáver de Idios (Caçador de Crocodilo)" />
+  <keys prop="Description" type="monster" key="dialog_1210084_text0" value="(O pingente identifica o corpo como &quot;Idios&quot;. As feridas nesse corpo são recentes.)" />
+  <keys prop="Description" type="monster" key="dialog_1210085_Title" value="Liberre &lt;Elfo da Luz Patrulheiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210085_text0" value="O caos corrompe tudo o que toca. E não é apenas a vida selvagem -- os espíritos e as fadas também são afetados. Se não agirmos depressa, esse caos vai pagar a luz. " />
+  <keys prop="Description" type="monster" key="dialog_1210086_Title" value="Retio &lt;Elfo da Luz Patrulheiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210086_text0" value="Que o vento te guie. Eu supervisiono o nordeste da floresta. Os elfos do caos se mostraram adversários violentos, e conhecem a mata até mais do que nós mesmos. Detesto admitir, mas corremos o risco de sermos levados para fora daqui." />
+  <keys prop="Description" type="monster" key="dialog_1210087_Title" value="Corvel &lt;Ellora Sanctuary Elder&gt;(Chaos Elven Station)" />
+  <keys prop="Description" type="monster" key="dialog_1210087_text0" value="Quem... é você...?" />
+  <keys prop="Description" type="monster" key="dialog_1210088_Title" value="Corvel &lt;Ellora Sanctuary Elder&gt;(Dragon Knights Camp)" />
+  <keys prop="Description" type="monster" key="dialog_1210088_text0" value="Se eu estivesse mais bem-preparado, poderia ter impedido isso. Farei o que puder para reaver as pedras sagradas. Não é tarde demais... ainda não..." />
+  <keys prop="Description" type="monster" key="dialog_1210089_Title" value="Brian &lt;Cavaleiro do Dragão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210089_text0" value="Os elfos do caos precisam aprender uma lição, e os Cavaleiros do Dragão estão aqui para ensinar. Só precisamos encontrar uma maneira de passar pela barreira em Zenus primeiro... " />
+  <keys prop="Description" type="monster" key="dialog_1210090_Title" value="Roan &lt;Cavaleiro do Dragão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210090_text0" value="Chegamos até aqui, mas ainda assim não alcançamos Elgaden! Os elfos do caos nos pegaram desprevenidos. Pelo menos, conseguimos resgatar Corvel... Agradeço." />
+  <keys prop="Description" type="monster" key="dialog_1210091_Title" value="Maius &lt;Elfo da Luz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210091_text0" value="O mal consumiu a mente dos dryaths. É contra a ordem natural que esses guardiões se voltem contra a floresta. Precisamos buscar a sabedoria da floresta se quisermos purificá-los." />
+  <keys prop="Description" type="monster" key="dialog_1210092_Title" value="Liberre &lt;Elfo da Luz Patrulheiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210092_text0" value="O caos corrompe tudo o que toca. E não é apenas a vida selvagem -- os espíritos e as fadas também são afetados. Se não agirmos depressa, esse caos vai pagar a luz. " />
+  <keys prop="Description" type="monster" key="dialog_1210093_Title" value="Stellarix &lt;Elfo da Luz Patrulheiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210093_text0" value="Pode parecer estranho para você, mas muitos de nós vemos os dryaths como pessoas da família. Por mais doloroso que seja, temos o dever de dar a eles o descanso final. Que Ellora proteja a alma deles..." />
+  <keys prop="Description" type="monster" key="dialog_1210094_Title" value="Capitão Hemus &lt;Cavaleiro do Dragão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210094_text0" value="Os elfos do caos devem estar de olho em nós. Bloquearam totalmente toda a passagem por Zenus, então agora estamos separados de Elgaden.&lt;br&gt;&lt;br&gt;Pode ser um bom sinal. Eles não acreditam serem capazes de nos derrotar se nos unirmos às forças de Elgaden." />
+  <keys prop="Description" type="monster" key="dialog_1210095_Title" value="Limbreth &lt;Guardião da Floresta&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210095_text0" value="A tranquilidade sob Daleroth foi destruída. Os elfos se viram contra guardiões. Os herdeiros dessas matas caem, um por um, e os espíritos dos dryaths estão acorrentados. Então, o que devo fazer?" />
+  <keys prop="Description" type="monster" key="dialog_1210096_Title" value="Ador &lt;Capitão da Guarnição de Elgaden&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210096_text0" value="Controlar a atmosfera de Zenus é essencial para manter esta terra. O fato de os elfos do caos tomarem Zenus significa que a espada deles está pronta para acabar com Elgaden." />
+  <keys prop="Description" type="monster" key="dialog_1210097_Title" value="Hodos &lt;Guarnição de Elgaden&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210097_text0" value="Com Zenus sob o controle do elfo do caos, pouca coisa permanece entre eles e Elgaden. Apenas nós, praticamente." />
+  <keys prop="Description" type="monster" key="dialog_1210098_Title" value="Corvel &lt;Ellora Sanctuary Elder&gt;(Elgaden)" />
+  <keys prop="Description" type="monster" key="dialog_1210098_text0" value="A grande árvore, Daleroth, tem protegido e guiado nosso povo há muito tempo. Mas Daleroth caminha para o fim de sua vida, e com ele, nossas proteções místicas. Pode ser que não consigamos sobreviver aos elfos do caos sem ele." />
+  <keys prop="Description" type="monster" key="dialog_1210098_answer_6_text" value="Origem de Daleroth" />
+  <keys prop="Description" type="monster" key="dialog_1210098_answer_7_text" value="Poder de Daleroth" />
+  <keys prop="Description" type="monster" key="dialog_1210098_answer_8_text" value="Desaparecimento de Daleroth" />
+  <keys prop="Description" type="monster" key="dialog_1210099_Title" value="Carius &lt;Archon&gt;(Elgaden)" />
+  <keys prop="Description" type="monster" key="dialog_1210099_text0" value="Que a luz sagrada guie seu caminho. Sou Arconte Iouda do Conselho de Elloran. O Santuário está sob minha proteção." />
+  <keys prop="Description" type="monster" key="dialog_1210100_Title" value="Daleroth &lt;Guardião do Santuário&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210100_text0" value="Tal como a escuridão domina a claridade, o caos domina a ordem. Tal como o verão deve dar vez ao outono, assim também meu poder esvaece. Mas você... você segue por um caminho diferente de minhas ordens. Isso dá a você o poder de evitar a ruína que ameaça estas terras." />
+  <keys prop="Description" type="monster" key="dialog_1210101_Title" value="Krios &lt;Guarnição de Elgaden&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210101_text0" value="Elgaden permanece de pé, mas os elfos do caos assolaram a floresta. Mas não nos renderemos." />
+  <keys prop="Description" type="monster" key="dialog_1210102_Title" value="Brandior &lt;Ancião do Santuário de Ellora&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210102_text0" value="Consigo escutar o sofrimento das matas daqui. Nossa luz diminui e nosso protetor se torna cansado com o tempo..." />
+  <keys prop="Description" type="monster" key="dialog_1210102_answer_0_text" value="Segurança de Elgaden" />
+  <keys prop="Description" type="monster" key="dialog_1210102_answer_1_text" value="A Grande Árvore" />
+  <keys prop="Description" type="monster" key="dialog_1210103_Title" value="Capitão Slenir &lt;Guarda da Luz da Fenda&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210103_text0" value="As pessoas acreditam que nós, elfos, somos todos pacifistas amantes da natureza, mas sabemos lutar! Mostraremos aos nossos inimigos o verdadeiro significado de medo!" />
+  <keys prop="Description" type="monster" key="dialog_1210104_Title" value="Chanis &lt;Guarda da Luz da Fenda&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210104_text0" value="Nosso primeiro erro foi subestimar os elfos do caos. Se não fosse pela liderança do Capitão Slenir, já teríamos sigo derrotados." />
+  <keys prop="Description" type="monster" key="dialog_1210105_Title" value="Ryno &lt;Guarda da Luz da Fenda&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210105_text0" value="Não posso mais ficar parado observando os Tukans invadirem nossa terra! Não me importa quanto eles revidem. O momento de atacar é agora!" />
+  <keys prop="Description" type="monster" key="dialog_1210106_Title" value="Deina &lt;Elfo da Luz Arqueiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210106_text0" value="Eu acreditava saber me virar em uma luta, mas os elfos do caos me mostraram que não sei. Trocar flechas com eles é inútil. Se quisermos vencê-los, precisamos ser mais espertos do que eles." />
+  <keys prop="Description" type="monster" key="dialog_1210107_Title" value="Vyla &lt;Elfo da Luz Arqueiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210107_text0" value="Muitas de minhas irmãs morreram nessa guerra. Nada parece fazer sentido para mim. Mas, mesmo assim, vou usar meu arco para proteger esta terra." />
+  <keys prop="Description" type="monster" key="dialog_1210108_Title" value="Desourd (Relic Excavator)" />
+  <keys prop="Description" type="monster" key="dialog_1210108_text0" value="Sabe qual é o problema das pessoas? Elas sempre querem coisas novas -- a nova tecnologia, a nova moda. Onde está a valorização do lugar de onde viemos? A história é mais importante do que qualquer outra coisa!" />
+  <keys prop="Description" type="monster" key="dialog_1210108_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Peço desculpas por isso. Às vezes, eu me empolgo um pouco..." />
+  <keys prop="Description" type="monster" key="dialog_1210109_Title" value="Berand (Arqueólogo)" />
+  <keys prop="Description" type="monster" key="dialog_1210109_text0" value="Já aprendi que por mais valiosa que uma relíquia seja, nunca terá valor maior do que a vida de uma pessoa." />
+  <keys prop="Description" type="monster" key="dialog_1210110_Title" value="Recuperação de Daleroth &lt;Guardião da Árvore Mundial&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210110_text0" value="Torço pelo dia em que a luz de Ellora volte ao santuário. Apesar de minha barreira proteger a floresta, o poder do caos ameaça todos nós. Ele cai sobre seus ombros, dono do destino, para derrotar aqueles que destruiriam este lugar sagrado." />
+  <keys prop="Description" type="monster" key="dialog_1210111_Title" value="Erna (Ancião do Santuário de Ellora)" />
+  <keys prop="Description" type="monster" key="dialog_1210111_text0" value="Teria sido possível que nós prevíssemos este conflito observando a ganância de nossos antepassados? Apesar de há muito protegermos a pedra-lacre do Zelnaris, o Deus da Ruína, nenhum filho de Ellora pode florescer perto de um mal tão grande. E agora, a salvação de todos nós está nas mãos de um forasteiro..." />
+  <keys prop="Description" type="monster" key="dialog_1210112_Title" value="Dineh &lt;Elfo Xamã&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210112_text0" value="Essas matas têm relação direta com Daleroth. Toda vida que é tirada nessa batalha é uma nova ferida na alma de Daleroth. Uma noite escura se aproxima, fétida e arrasadora." />
+  <keys prop="Description" type="monster" key="dialog_1210113_Title" value="Gomora (Protetor do Túmulo)" />
+  <keys prop="Description" type="monster" key="dialog_1210113_text0" value="Ignoramos o mundo exterior por tempo demais? Os elfos do caos já eram muito ruins, mas agora temos que enfrentar esses fanáticos..." />
+  <keys prop="Description" type="monster" key="dialog_1210114_Title" value="Peritos &lt;Arcipreste do Santuário de Ellora&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210114_text0" value="Em suas expedições por nossa terra, o que você viu? Vejo um reino envolvido em fúria e pesar. Inúmeras vidas já se perderam. Como continuar a atravessar um mundo assim?" />
+  <keys prop="Description" type="monster" key="dialog_1210114_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Precisamos de cada mão disponível se quisermos endireitar nosso caminho. Infelizmente, meus discípulos ainda não estão prontos." />
+  <keys prop="Description" type="monster" key="dialog_1210115_Title" value="Delma (Guarda do Arcipreste)" />
+  <keys prop="Description" type="monster" key="dialog_1210115_text0" value="Não fosse o arcipreste, Elino já teria se perdido. Ele atua incansavelmente na busca por uma solução para nossos vários problemas. Ele é um grande homem, e é uma honra protegê-lo." />
+  <keys prop="Description" type="monster" key="dialog_1210116_Title" value="Aros (Discípulo do Sacerdote)" />
+  <keys prop="Description" type="monster" key="dialog_1210116_text0" value="Dizem que a Floresta de Luz se tornou um campo de batalha. Meu coração deseja lutar ao lado de meus irmãos, mas o arcipreste me repreende por esse desejo. Eu não ainda mereço a confiança dele?" />
+  <keys prop="Description" type="monster" key="dialog_1210117_Title" value="Tigris (Discípulo do Sacerdote)" />
+  <keys prop="Description" type="monster" key="dialog_1210117_text0" value="As mortes de minhas irmãs caídas pesam muito em meu coração..." />
+  <keys prop="Description" type="monster" key="dialog_1210118_Title" value="Turina (Acólito)" />
+  <keys prop="Description" type="monster" key="dialog_1210118_text0" value="Tigris se culpa pelas mortes de suas irmãs. Mas Peritos nos ensina a ter perspectiva, acima de qualquer coisa. Responsabilizar-se pelas atitudes dos outros não é culpa... é arrogância." />
+  <keys prop="Description" type="monster" key="dialog_1210119_Title" value="Eldon (Protetor do Santuário)" />
+  <keys prop="Description" type="monster" key="dialog_1210119_text0" value="(Ele não está respirando.)" />
+  <keys prop="Description" type="monster" key="dialog_1210120_Title" value="Krasis (Arconte)" />
+  <keys prop="Description" type="monster" key="dialog_1210120_text0" value="Eu sempre soube que Iouda era ambicioso, mas buscar a magia do caos? Sinceramente, nenhum elfo está a salvo da corrupção do mal." />
+  <keys prop="Description" type="monster" key="dialog_1210121_Title" value="Carius &lt;Archon&gt;(Drant)" />
+  <keys prop="Description" type="monster" key="dialog_1210121_text0" value="Apesar de termos perdido muito, agora sei quem nos traiu. Ah, isso faz meu coração doer..." />
+  <keys prop="Description" type="monster" key="dialog_1210122_Title" value="Hermon &lt;Guarda da Luz da Fenda&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210122_text0" value="Os elfos do caos se entrincheiraram aqui, mas tenho certeza de que foi apenas uma artimanha para tomar nossos recursos e tirar nossa atenção do verdadeiro objetivo. Não sei qual é esse objetivo, mas eles estão aprontando alguma coisa." />
+  <keys prop="Description" type="monster" key="dialog_1210123_Title" value="Bella &lt;Protetora do Santuário&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210123_text0" value="Quando os elfos do caos entraram em Elgaden pela primeira vez, não estavam preparados. Fiquem tranquilo, pois o momento do acertar de contas está chegando." />
+  <keys prop="Description" type="monster" key="dialog_1210124_Title" value="Endras &lt;Mago Elfo da Luz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210124_text0" value="A luz significa tudo para nós. Enquanto nossa fé continuar inabalável, ela seguirá brilhando em meio ao caos." />
+  <keys prop="Description" type="monster" key="dialog_1210125_Title" value="Moseon &lt;Elfo da Luz Aprendiz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210125_text0" value="A mãe da vida e da luz, Ellora, ensina que a manhã vem mesmo depois da noite mais escura. Quando superarmos essa escuridão, nossa luz vai brilhar mais forte do que nunca." />
+  <keys prop="Description" type="monster" key="dialog_1210126_Title" value="Senhil &lt;Protetor do Santuário&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210126_text0" value="Quando os elfos do caos vieram, não sabíamos que eles estavam vindo. Agora, sabemos todos os seus movimentos. Em breve saberemos qual será a próxima atitude deles antes mesmo de eles saberem." />
+  <keys prop="Description" type="monster" key="dialog_1210127_Title" value="Benaress &lt;Protetor do Santuário&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210127_text0" value="Ninguém conhece o Santuário tão bem quanto nós. E agora que sabemos dos elfos do caos, não podemos pisar na terra sem chamar atenção." />
+  <keys prop="Description" type="monster" key="dialog_1210128_Title" value="Tartagon &lt;Protetor do Santuário&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210128_text0" value="Estamos atrasados demais. Os elfos do caos tomaram o santuário. O ancião deles, Yorminsul, liderou o ataque sozinho. Ele conseguiu até levar os guardiões do santuário para o lado dele." />
+  <keys prop="Description" type="monster" key="dialog_1210129_Title" value="Fedan &lt;Arconte&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210129_text0" value="Tive um sonho assustador um dia antes do ataque do elfo do caos. Gostaria de ter percebido que se tratava de um aviso. Mas só pensei que fosse um pesadelo qualquer." />
+  <keys prop="Description" type="monster" key="dialog_1210129_text0_attach_0" value="&lt;br&gt;&lt;br&gt;A luz de nossa gente falha. A harmonia dos elfos se enfraquece. Será que nos afastamos tanto assim dos ensinamentos de Ellora? Ou será que é só outro presságio?" />
+  <keys prop="Description" type="monster" key="dialog_1210130_Title" value="Renero &lt;Arconte&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210130_text0" value="Nem mesmo os Arcontes conseguem decidir o melhor caminho a seguir. Ao público, mostramos uma imagem de união, mas nunca antes enfrentamos uma dificuldade tão controversa quanto a desses ataques de elfos do caos." />
+  <keys prop="Description" type="monster" key="dialog_1210131_Title" value="Achros &lt;Arconte&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210131_text0" value="Não tenho o que discutir com lixos de fora. Se dependesse de mim, nosso Santuário seria fechado para gente como você." />
+  <keys prop="Description" type="monster" key="dialog_1210132_Title" value="Opelean &lt;Arconte&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210132_text0" value="Os Arcontes são guardiões do Santuário, mas nossa tutela não necessariamente assume a forma de força de armas ou magia. Também atuamos como guias espirituais para nossa gente, e nosso principal dever é a interpretação dos ensinamentos de Ellora." />
+  <keys prop="Description" type="monster" key="dialog_1210132_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Se ao menos nosso irmão nos elfos do caos abrisse os olhos para a luz de Ellora. Nesse caso, tal violência não seria mais necessária." />
+  <keys prop="Description" type="monster" key="dialog_1210133_Title" value="Karteris &lt;Arconte&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210133_text0" value="Pessoalmente testemunhei o prejuízo que o caos causa ao coração do elfo de luz. O que ele diz a respeito de nossa gente a ponto de sermos tão facilmente atingidos pela destruição? É uma pergunta que tenho feito com frequência ao longo das últimas décadas..." />
+  <keys prop="Description" type="monster" key="dialog_1210134_Title" value="Metrion &lt;Arconte&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210134_text0" value="Cada um de nós tem ideais e sonhos. Todos dedicamos a vida à proteção do Santuário, mas não concordamos todos em relação ao que ele significa. Achros faria com que fechássemos nossas fronteiras com o mundo exterior, e Bolian mandaria nossos guerreiros em cruzadas. Mas é em épocas assim que a união se faz mais importante..." />
+  <keys prop="Description" type="monster" key="dialog_1210135_Title" value="Bolian &lt;Arconte&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210135_text0" value="Nunca deveríamos ter permitido que os elfos do caos conseguissem espalhar suas forças. Se tivéssemos entrado nas terras deles duzentos anos atrás, poderíamos ter acabado com essa guerra antes de ela começar." />
+  <keys prop="Description" type="monster" key="dialog_1210136_Title" value="Courier &lt;Guarda Elfo&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210136_text0" value="(Essa pessoa não está respirando.)" />
+  <keys prop="Description" type="monster" key="dialog_1210137_Title" value="Carius &lt;Sanctuary Archon&gt;(Road to Eldorr)" />
+  <keys prop="Description" type="monster" key="dialog_1210137_text0" value="Sinto que você se guia pela luz das estrelas. Estranho, para alguém de fora daqui. Você chegou para resolver nossas muitas tribulações?" />
+  <keys prop="Description" type="monster" key="dialog_1210138_Title" value="Wentus &lt;Ancião do Santuário de Ellora&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210138_text0" value="Todos os nossos inimigos se uniram contra nós. Eldorr está sozinha contra os magos da morte. O que fizemos para merecer tamanha calamidade?" />
+  <keys prop="Description" type="monster" key="dialog_1210139_Title" value="Merdi &lt;Curandeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210139_text0" value="Os elfos de Eldorr são um povo forte, mas nem mesmo nós estamos imunes ao veneno da magia da morte." />
+  <keys prop="Description" type="monster" key="dialog_1210139_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Meus tratamentos são limitados, Se não derrotarmos os magos da morte logo, temo que começarei a perder pacientes." />
+  <keys prop="Description" type="monster" key="dialog_1210140_Title" value="Karald &lt;Capitão da Guarda de Eldorr&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210140_text0" value="A guerra chegou a Eldorr! Você luta como um elfo? Ou corre e se esconde como um covarde?!" />
+  <keys prop="Description" type="monster" key="dialog_1210141_Title" value="Isendor &lt;Guarda de Eldorr&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210141_text0" value="Não conseguiremos dar conta desses ataques! Eles começaram durante nosso encontro com o comboio da pedra sagrada de Elgaden. Ainda não compreendo como o inimigo soube quando e onde atacar..." />
+  <keys prop="Description" type="monster" key="dialog_1210142_Title" value="Arden &lt;Aldeão de Eldorr&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210142_text0" value="Os guardas estão muito ocupados lutando contra os magos da morte e as gárgulas a ponto de terem se esquecido totalmente dos outros predadores do desfiladeiro. Eles não acham que vamos dar conta sozinhos, acham?" />
+  <keys prop="Description" type="monster" key="dialog_1210143_Title" value="Chella &lt;Aldeã de Eldorr&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210143_text0" value="Não é seguro sair do vilarejo. Não é seguro..." />
+  <keys prop="Description" type="monster" key="dialog_1210144_Title" value="Arasha &lt;Aldeão de Eldorr&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210144_text0" value="A-aonde foram todos os meus amigos? Estou totalmente sozinho...&lt;br&gt;&lt;br&gt;Você acha que Merdi pode trazê-los de volta?" />
+  <keys prop="Description" type="monster" key="dialog_1210145_Title" value="Ellenee &lt;Aldeã de Eldorr&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210145_text0" value="Este lugar já foi muito tranquilo... Você deve puni-los pelo que eles fizeram com nossos irmãos e irmãs!" />
+  <keys prop="Description" type="monster" key="dialog_1210146_Title" value="Litenell &lt;Guarda da Luz da Fenda&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210146_text0" value="Não sei como os elfos do caos convenceram a Tribo Tukan a se unir a eles, mas a aliança entre eles ameaça todos nós. Temos que levar os gigantes de volta ao mar!" />
+  <keys prop="Description" type="monster" key="dialog_1210147_Title" value="Periot &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210147_text0" value="Pensei que a magia do caos fosse apenas uma arma, como qualquer outra. As coisas que testemunhei me fazem questionar essa ideia..." />
+  <keys prop="Description" type="monster" key="dialog_1210147_answer_5_text" value="Pesquisa no Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210147_answer_6_text" value="Preocupações" />
+  <keys prop="Description" type="monster" key="dialog_1210148_Title" value="Katshu &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210148_text0" value="Chaos magic is like poison. At this rate, it's only a matter of time before the local Battle Mount become unusable. We need to find a way not just to resist it, but to cleanse it." />
+  <keys prop="Description" type="monster" key="dialog_1210148_answer_7_text" value="Colecionador Desaparecido" />
+  <keys prop="Description" type="monster" key="dialog_1210148_answer_8_text" value="Outros Trabalhos" />
+  <keys prop="Description" type="monster" key="dialog_1210149_Title" value="Jukel &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210149_text0" value="Está sentindo? A magia do caos. Ela cobre as florestas até o sul como névoa. Seja quanto for que eles estiverem pagando para você ir para lá, não vale a pena." />
+  <keys prop="Description" type="monster" key="dialog_1210149_answer_4_text" value="Colecionador Desaparecido" />
+  <keys prop="Description" type="monster" key="dialog_1210150_Title" value="Milton &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210150_text0" value="Mantenha distância! Pode acreditar... você não vai querer pegar isso..." />
+  <keys prop="Description" type="monster" key="dialog_1210150_answer_3_text" value="Vida" />
+  <keys prop="Description" type="monster" key="dialog_1210150_answer_4_text" value="Procure por Milton" />
+  <keys prop="Description" type="monster" key="dialog_1210150_answer_5_text" value="Como Isso Aconteceu" />
+  <keys prop="Description" type="monster" key="dialog_1210150_answer_6_text" value="Unir-se aos Outros" />
+  <keys prop="Description" type="monster" key="dialog_1210151_Title" value="Levi &lt;Cadete dos Colecionadores&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210151_text0" value="Ainda não posso desistir. Se desistir, de que terá servido todo o esforço?" />
+  <keys prop="Description" type="monster" key="dialog_1210151_answer_4_text" value="Exame de Colecionador" />
+  <keys prop="Description" type="monster" key="dialog_1210151_answer_5_text" value="Progresso" />
+  <keys prop="Description" type="monster" key="dialog_1210152_Title" value="Glover &lt;Cadete dos Colecionadores&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210152_text0" value="Eu queria ser um Colecionador, mas agora ficaria feliz se simplesmente conseguisse sair daqui vivo..." />
+  <keys prop="Description" type="monster" key="dialog_1210153_Title" value="Rahkshi" />
+  <keys prop="Description" type="monster" key="dialog_1210153_text0" value="(Parece que ele está em choque. Talvez seja melhor deixá-lo em paz por enquanto.)" />
+  <keys prop="Description" type="monster" key="dialog_1210154_Title" value="Greta &lt;Sociedade da Saciedade&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210154_text0" value="O segredo para cozinhar bem é este: Primeiro, ingredientes frescos! Em segundo lugar, mais ingredientes frescos! Alguma pergunta?" />
+  <keys prop="Description" type="monster" key="dialog_1210154_answer_3_text" value="Sociedade da Saciedade no Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210154_answer_4_text" value="Especialidades Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210155_Title" value="Troberry &lt;Sociedade da Saciedade&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210155_text0" value="Claro que os elfos do caos me deixam preocupados. Mas não podemos deixar que uma coisa pequena como uma guerra atrapalhe um jantar requintado, não é mesmo? Bem, em que podemos ajudar?" />
+  <keys prop="Description" type="monster" key="dialog_1210155_answer_9_text" value="Competição de Culinária" />
+  <keys prop="Description" type="monster" key="dialog_1210156_Title" value="Pêssego &lt;Sociedade da Saciedade&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210156_text0" value="Tenho pensado no prato principal, ultimamente. Tem que ser uma novidade. Algo com que ninguém nunca nem sequer sonhou! Mas o que poderia ser...?" />
+  <keys prop="Description" type="monster" key="dialog_1210156_answer_4_text" value="Competição de Culinária" />
+  <keys prop="Description" type="monster" key="dialog_1210157_Title" value="Romadia &lt;Chef Errante&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210157_text0" value="A Sociedade da Saciedade ganhou boa fama nos últimos anos. Ainda assim, já viajei por Midellas inteira para aperfeiçoar minhas habilidades culinárias. Tenho certeza de que cozinho melhor do que todos os outros chefs juntos!" />
+  <keys prop="Description" type="monster" key="dialog_1210157_answer_9_text" value="Entre para a Sociedade da Saciedade" />
+  <keys prop="Description" type="monster" key="dialog_1210158_Title" value="Romadia &lt;Sociedade da Saciedade&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210158_text0" value="Pensei que soubesse de tudo, mas não sabia de nada. A culinária não tem nada a ver com derrotar os outros. Tem a ver com dividir alegria com pessoas com quem nos importamos e a quem respeitamos." />
+  <keys prop="Description" type="monster" key="dialog_1210158_answer_0_text" value="Entre para a Sociedade da Saciedade" />
+  <keys prop="Description" type="monster" key="dialog_1210159_Title" value="Permint &lt;Sociedade da Saciedade&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210159_text0" value="Praticamente tudo o que as pessoas de Eldorr come passa pela minha cozinha. É uma dificuldade conseguir ingredientes frescos, ainda mais por causa da guerra, mas eu dou um jeito. Mas já tive problemas com roubos..." />
+  <keys prop="Description" type="monster" key="dialog_1210159_answer_5_text" value="Jantar de Eldorr" />
+  <keys prop="Description" type="monster" key="dialog_1210160_Title" value="Troman &lt;Mago Elfo da Luz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210160_text0" value="O desfiladeiro foi tomado pelo caos. Nossos inimigos recorrem a truques baixos e à magia proibida para abrir vantagem. Eles não se envergonham?" />
+  <keys prop="Description" type="monster" key="dialog_1210161_Title" value="Maxon &lt;Cavaleiro do Dragão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210161_text0" value="Um grande soldado sabe transformar o mundo em seu arsenal. Um galho caído pode ser tão mortal quanto uma espada. E teias de aranha são faixas úteis na hora do aperto!" />
+  <keys prop="Description" type="monster" key="dialog_1210162_Title" value="Gaberion &lt;Mago Elfo da Luz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210162_text0" value="O poder da magia da morte é bem interessante. É totalmente diferente de quaisquer feitiços usados pelos elfos. Eu adoraria ter a oportunidade de analisá-la com mais cuidado...&lt;br&gt;&lt;br&gt;Por motivos puramente acadêmicos, claro." />
+  <keys prop="Description" type="monster" key="dialog_1210163_Title" value="Erha &lt;Sacerdote Elfo da Luz&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210163_text0" value="Ao aceitar o caos dentro do coração, os elfos do caos destroem a própria alma. Nenhum poder no mundo vale esse preço." />
+  <keys prop="Description" type="monster" key="dialog_1210164_Title" value="Crimson &lt;Guardião da Natureza&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210164_text0" value="Apesar de meu povo adorar Ellora, a paz só poderá reinar quando a luz e a escuridão estiverem em equilíbrio. Ecologias, como o Lago Noxious, são tão vitais quanto a beleza verdejante da Caverna Misteriosa.&lt;br&gt;&lt;br&gt;Infelizmente, as forças da ruína são atraídas a lugares assim. Devemos ficar vigilantes para tirar a corrupção de Zelnaris de nossas terras." />
+  <keys prop="Description" type="monster" key="dialog_1210165_Title" value="Quanomar &lt;Caçador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210165_text0" value="Long time no see, friend! I've come all the way to Windhome Canyon in search of even more expen... I mean, precious Battle Mount!" />
+  <keys prop="Description" type="monster" key="dialog_1210166_Title" value="Malo &lt;Comerciante Geral&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210166_text0" value="A invasão feita pelos elfos do caos não pode ser vista como nada menos do que uma tragédia, mas alguns dos concorrentes menos escrupulosos veem isso como uma oportunidade de ganhar um dinheiro fácil. Eles não têm vergonha?" />
+  <keys prop="Description" type="monster" key="dialog_1210166_answer_3_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210167_Title" value="Pesquisa no Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210167_text0" value="The chaos elves are using their magic to break the light elves' defenses. This magic bends the minds of sentient creatures, but Master Bynder's latest research suggests that it also awakens a sort of wildness in Battle Mount." />
+  <keys prop="Description" type="monster" key="dialog_1210167_text0_attach_0" value="&lt;br&gt;&lt;br&gt;É por isso que estamos aqui. Talvez não sejamos populares em círculos acadêmicos, mas apenas os Colecionadores têm o conhecimento para estudar esse fenômeno." />
+  <keys prop="Description" type="monster" key="dialog_1210168_Title" value="Preocupações" />
+  <keys prop="Description" type="monster" key="dialog_1210168_text0" value="This war has thrown the ecology of the Sanctuary's Battle Mount completely out of balance. And it won't be confined to the Battle Mount for long. We need to capture them and study them, or I shudder to think what will happen..." />
+  <keys prop="Description" type="monster" key="dialog_1210169_Title" value="Colecionador Desaparecido" />
+  <keys prop="Description" type="monster" key="dialog_1210169_text0" value="Milton é um de nossos melhores. O próprio Mestre Bynder o escolheu para uma missão no Santuário de Ellora, mas deixamos de receber relatórios logo depois de ele chegar aqui. É por isso que estou aqui -- para encontrar Milton e trazê-lo de volta com segurança." />
+  <keys prop="Description" type="monster" key="dialog_1210170_Title" value="Outros Trabalhos" />
+  <keys prop="Description" type="monster" key="dialog_1210170_text0" value="Encontrar Milton é importante, mas também é importante o trabalho que ele estava fazendo antes de desaparecer. Uma das minhas tarefas é cuidar para que o trabalho seja concluído." />
+  <keys prop="Description" type="monster" key="dialog_1210170_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Outros dois Colecionadores e eu estamos trabalhando discretamente para concluir essa missão. Enquanto fazemos isso, esperamos sermos capazes de desvendar o mistério do desaparecimento de Milton." />
+  <keys prop="Description" type="monster" key="dialog_1210171_Title" value="Colecionador Desaparecido" />
+  <keys prop="Description" type="monster" key="dialog_1210171_text0" value="Milton é um de nossos melhores. O próprio Mestre Bynder o escolheu para uma missão no Santuário de Ellora, mas deixamos de receber relatórios logo depois de ele chegar aqui. É por isso que estou aqui -- para encontrar Milton e trazê-lo de volta com segurança." />
+  <keys prop="Description" type="monster" key="dialog_1210172_Title" value="Vida" />
+  <keys prop="Description" type="monster" key="dialog_1210172_text0" value="Ótimo... que ótimo. Magia de caos tomando minha cabeça... Tentando me dominar..." />
+  <keys prop="Description" type="monster" key="dialog_1210172_text0_attach_0" value="&lt;br&gt;&lt;br&gt;N-não se preocupe. Não vou ceder! Morro, mas não cedo..." />
+  <keys prop="Description" type="monster" key="dialog_1210173_Title" value="Procure por Milton" />
+  <keys prop="Description" type="monster" key="dialog_1210173_text0" value="Perda... perda de tempo... Não deveria ter deixado que os outros se preocupassem... Tenho que consertar isso... para eles..." />
+  <keys prop="Description" type="monster" key="dialog_1210174_Title" value="Como Isso Aconteceu" />
+  <keys prop="Description" type="monster" key="dialog_1210174_text0" value="Collectors sent here... to study effect of chaos on Battle Mount... right? Wrong! Really hear to study the Demonic Stone... Evil power, leaking out through the seal..." />
+  <keys prop="Description" type="monster" key="dialog_1210174_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Eu estava bem até... até me aproximar demais de Torkai. Minha nossa, afetado pela destruição... Pensei que pudesse limpar isso. Estava enganado..." />
+  <keys prop="Description" type="monster" key="dialog_1210175_Title" value="Exame de Colecionador" />
+  <keys prop="Description" type="monster" key="dialog_1210175_text0" value="There are three tests you have to pass before you can join the Collector. A basic written test to see if you know your Battle Mount, a month in the wilderness to see if you can take care of yourself, and, finally, an intensive interview with Bynder himself." />
+  <keys prop="Description" type="monster" key="dialog_1210175_text0_attach_0" value="&lt;br&gt;&lt;br&gt;É o segundo teste, no qual eles separam o joio do trigo. Eles sempre mandam as pessoas para o lugar mais difícil que consigam encontrar. Alguns cadetes chegam a morrer durante esses testes..." />
+  <keys prop="Description" type="monster" key="dialog_1210176_Title" value="Progresso" />
+  <keys prop="Description" type="monster" key="dialog_1210176_text0" value="Eu, Rahksni e Glover fizemos um pacto para passarmos juntos por esse exame. Mas as coisas não estão indo tão bem quanto esperávamos." />
+  <keys prop="Description" type="monster" key="dialog_1210176_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Concluímos que estaríamos seguros se ficássemos perto de Eldorr. Mas mesmo estando tão próximo da cidade, o desfiladeiro está cheio de monstros e magos da morte..." />
+  <keys prop="Description" type="monster" key="dialog_1210177_Title" value="Sociedade da Saciedade no Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210177_text0" value="Comida é o idioma universal! Os elfos de luz nem sempre foram receptivos com forasteiros, mas a Sociedade pode ir e vir livremente por adorarmos comida fresca." />
+  <keys prop="Description" type="monster" key="dialog_1210178_Title" value="Especialidades Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210178_text0" value="Os elfos de luz se dedicam à floresta e aos ensinamentos de Ellora. Essa dedicação floresceu e se tornou uma grande Flor de Rashine, uma delicadeza linda cultivada por séculos aqui no Santuário." />
+  <keys prop="Description" type="monster" key="dialog_1210179_Title" value="Competição de Culinária" />
+  <keys prop="Description" type="monster" key="dialog_1210179_text0" value="O Festival de Todas as Coroas é uma tradição que remete ao reinado do Rei Hakain I. Mesmo depois de uma década de reinado pacífico, a nobreza e a realeza restantes dos antigos reinos ainda sofriam sob o comando do novo rei." />
+  <keys prop="Description" type="monster" key="dialog_1210179_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Por isso Hakain anunciou seis dias de banquete, nos quais chefs de todos os reinos antigos exibiam suas habilidades culinárias mais apuradas. Provavelmente é a competição culinária mais famosa em Hakanas." />
+  <keys prop="Description" type="monster" key="dialog_1210180_Title" value="Entre para a Sociedade da Saciedade" />
+  <keys prop="Description" type="monster" key="dialog_1210180_text0" value="Eu nunca entraria para a Sociedade da Saciedade. Nunca mesmo! Minha maneira de cozinhar é diferente, vanguardista. Uma organização grande como essa não me deteria." />
+  <keys prop="Description" type="monster" key="dialog_1210181_Title" value="Competição de Culinária" />
+  <keys prop="Description" type="monster" key="dialog_1210181_text0" value="O Festival de Todas as Coroas é uma tradição que remete ao reinado do Rei Hakain I. Mesmo depois de uma década de reinado pacífico, a nobreza e a realeza restantes dos antigos reinos ainda sofriam sob o comando do novo rei." />
+  <keys prop="Description" type="monster" key="dialog_1210181_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Por isso Hakain anunciou seis dias de banquete, nos quais chefs de todos os reinos antigos exibiam suas habilidades culinárias mais apuradas. Provavelmente é a competição culinária mais famosa em Hakanas." />
+  <keys prop="Description" type="monster" key="dialog_1210182_Title" value="Jantar de Eldorr" />
+  <keys prop="Description" type="monster" key="dialog_1210182_text0" value="Uma refeição farta é o que os elfos precisam para manter a força contra os magos da morte. Foi provavelmente por isso que eles aceitaram minha ajuda - a culinária humana é cheia de ânimo e vigor! Claro, nada disso tem valor se eu não conseguir os ingredientes certos." />
+  <keys prop="Description" type="monster" key="dialog_1210183_Title" value="Segurança de Elgaden" />
+  <keys prop="Description" type="monster" key="dialog_1210183_text0" value="Nossos guerreiros são fortes, mas eu temo pela alma da floresta. Há muito tempo Daleroth tem cuidado de nós. Se ele falhar... não sei o que aconteceria." />
+  <keys prop="Description" type="monster" key="dialog_1210184_Title" value="A Grande Árvore" />
+  <keys prop="Description" type="monster" key="dialog_1210184_text0" value="Daleroth é um presente para todos de Midellas. Ele já estava aqui quando nossos ancestrais chegaram ao Santuário. Simplesmente assumimos nosso lugar como os cuidadores deles, assim como ele cuida de nós." />
+  <keys prop="Description" type="monster" key="dialog_1210184_text0_attach_0" value="&lt;br&gt;&lt;br&gt;A sabedoria de Daleroth é o que nos difere dos elfos do caos. Talvez fosse o plano de Ellora, desde sempre, que ele nos mantivesse no caminho certo." />
+  <keys prop="Description" type="monster" key="dialog_1210185_Title" value="Origem de Daleroth" />
+  <keys prop="Description" type="monster" key="dialog_1210185_text0" value="Quando a terra era jovem, Ellora plantou uma semente sagrada neste lugar. As raízes se espalharam profundamente no centro do mundo, e a muda ficou alta, alimentada pela sabedoria e pelo conhecimento do divino." />
+  <keys prop="Description" type="monster" key="dialog_1210185_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Quando os elfos de luz chegaram aqui, demos à árvore o nome Daleroth, que, na língua antiga dos elfos, significa &quot;origem de verdades antigas&quot;. Daleroth está aqui, como o guardião do santuário, há inúmeras gerações." />
+  <keys prop="Description" type="monster" key="dialog_1210186_Title" value="Poder de Daleroth" />
+  <keys prop="Description" type="monster" key="dialog_1210186_text0" value="De acordo com contos antigos, existiam muitas criaturas incríveis durante a Era Divina. Seres mortais, como você e eu, mas abençoados com poder como os de deuses. Criaturas como Daleroth ou os famosos governantes do Deserto da Imortalidade quase se tornaram lendas." />
+  <keys prop="Description" type="monster" key="dialog_1210186_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Pode ser que Daleroth não consiga se mexer, mas suas raízes protegem todo o Santuário de Ellora. Apenas graças a sua proteção, Elgaden tem enfrentado os ataques dos elfos do caos." />
+  <keys prop="Description" type="monster" key="dialog_1210187_Title" value="Desaparecimento de Daleroth" />
+  <keys prop="Description" type="monster" key="dialog_1210187_text0" value="Apesar de todo o seu poder, a árvore não é imortal. Ele protegeu essa floresta ao longo dos anos. Todas as coisas, por melhores que sejam, acabam..." />
+  <keys prop="Description" type="monster" key="dialog_1210187_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Daleroth enfrentou inúmeras ameaças. A cobiça de semideuses, como Radan e Skatrasha. O demônio Khabim. O Zelnaris, o Deus da Ruína. Ele já viu muito, e levou uma vida plena, mas agora chegou a hora dele." />
+  <keys prop="Description" type="monster" key="dialog_1210188_Title" value="Quadro de Missões (Acampamento de Ronua)" />
+  <keys prop="Description" type="monster" key="dialog_1210188_text0" value="Atenção: Cuidado com emboscadas do elfo do caos fora do acampamento.&lt;br&gt;&lt;br&gt;- Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="dialog_1210189_Title" value="Quadro de Missões (Acampamento do Cavaleiro do Dragão)" />
+  <keys prop="Description" type="monster" key="dialog_1210189_text0" value="Um alerta máximo foi feito em relação aos ataques do elfo do caos e às visões dos dryaths ferozes.&lt;br&gt;&lt;br&gt;- Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="dialog_1210190_Title" value="Quadro de Missões (Acampamento de Ronua)" />
+  <keys prop="Description" type="monster" key="dialog_1210190_text0" value="A cidade está em alerta máximo para os ataques dos elfos do caos. Os civis estão sendo orientados a ficar dentro dos limites de Daleroth o tempo todo.&lt;br&gt;&lt;br&gt;- Guarda de Elgaden" />
+  <keys prop="Description" type="monster" key="dialog_1210191_Title" value="Quadro de Missões (Purgatório)" />
+  <keys prop="Description" type="monster" key="dialog_1210191_text0" value="Aqueles que encontram a glória derrotando os inimigos dos elfos de luz devem receber sua recompensa.&lt;br&gt;&lt;br&gt;- Elder Wentus" />
+  <keys prop="Description" type="monster" key="dialog_1210192_Title" value="Quadro de Missões (Vale do Desfiladeiro)" />
+  <keys prop="Description" type="monster" key="dialog_1210192_text0" value="Até mesmo em épocas sombrias, Ellora ouve nossas preces. Mantenham a fé e a fé manterá vocês.&lt;br&gt;&lt;br&gt;- Guarda de Eldorr" />
+  <keys prop="Description" type="monster" key="dialog_1210193_Title" value="Quadro de Missões (Rincão Rubro do Norte)" />
+  <keys prop="Description" type="monster" key="dialog_1210193_text0" value="Alerta de envenenamento. Entrar na água é altamente desaconselhado.&lt;br&gt;&lt;br&gt;- Guarda de Eldorr" />
+  <keys prop="Description" type="monster" key="dialog_1210194_Title" value="Quadro de Missões (Ilha El Canin)" />
+  <keys prop="Description" type="monster" key="dialog_1210194_text0" value="Até mesmo em épocas sombrias, Ellora ouve nossas preces. Mantenham a fé e a fé manterá vocês.&lt;br&gt;&lt;br&gt;- Guarda de Eldorr" />
+  <keys prop="Description" type="monster" key="dialog_1210195_Title" value="Quadro de Missões &lt;Luz da Fenda&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210195_text0" value="Luz e vida àqueles que se erguem contra o caos.&lt;br&gt;&lt;br&gt;- Capitão Slenir" />
+  <keys prop="Description" type="monster" key="dialog_1210196_Title" value="Quadro de Missões (Bosque do Ancião)" />
+  <keys prop="Description" type="monster" key="dialog_1210196_text0" value="Ao passar pelo Bosque do Ancião, cuidado para não estragar os artefatos.&lt;br&gt;&lt;br&gt;- Desourd" />
+  <keys prop="Description" type="monster" key="dialog_1210197_Title" value="Quadro de Missões (Elino)" />
+  <keys prop="Description" type="monster" key="dialog_1210197_text0" value="Elino é o lar abençoado do Novo Daleroth, Daleroth à parte de Daleroth, guardião dos elfos renascidos. Leve a luz em seu coração e a força em seu braço para defender nossa cidade do mal.&lt;br&gt;&lt;br&gt;- Ancião Erna" />
+  <keys prop="Description" type="monster" key="dialog_1210198_Title" value="Quadro de Missões (Acampamento do Elfo de Luz)" />
+  <keys prop="Description" type="monster" key="dialog_1210198_text0" value="Registre todas as atividades, status, movimentos e número de tropas inimigas que ameaçam o santuário, para que possa passar adiante as descobertas a seus substitutos.&lt;br&gt;&lt;br&gt;- Eldon Protetor do Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210199_Title" value="Quadro de Missões (Santuário Esquecido)" />
+  <keys prop="Description" type="monster" key="dialog_1210199_text0" value="Relate todas as atividades suspeitas ao guardião mais próximo.&lt;br&gt;&lt;br&gt;- Guardião Tartagon" />
+  <keys prop="Description" type="monster" key="dialog_1210200_Title" value="Quadro de Missões (Eldorr)" />
+  <keys prop="Description" type="monster" key="dialog_1210200_text0" value="Até mesmo em épocas sombrias, Ellora ouve nossas preces. Mantenham a fé e a fé manterá vocês.&lt;br&gt;&lt;br&gt;- Guarda de Eldorr" />
+  <keys prop="Description" type="monster" key="dialog_1210201_Title" value="Risco &lt;Treinador de Feras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210201_text0" value="Sou eu, Risco, o Treinador de Feras! Você também quer se tornar um treinador de feras? É fácil. É só seguir meu exemplo!" />
+  <keys prop="Description" type="monster" key="dialog_1210201_answer_0_text" value="Nutrir Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1210201_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210202_Title" value="Tulik &lt;Treinador de Feras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210202_text0" value="Há muitas oportunidades para um treinador aqui no Santuário de Ellora. Os elfos de luz valorizam nosso conhecimento, e nós valorizamos as criaturas estranhas e elegantes que consideram essas florestas seus lares." />
+  <keys prop="Description" type="monster" key="dialog_1210202_answer_0_text" value="Acolher Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1210202_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210203_Title" value="Skarim &lt;Treinador de Feras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210203_text0" value="I am Skarim, the great beast trainer. What's my secret? Why, it's to love and cherish your Battle Mount at all times. Surely everyone knows that!" />
+  <keys prop="Description" type="monster" key="dialog_1210203_answer_0_text" value="Nutrir Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1210203_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210204_Title" value="Riel &lt;Treinador de Feras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210204_text0" value="A maioria dos treinadores afirma que uma conexão profunda é essencial para ser um bom treinador, mas, pela minha experiência, pulso firme é mais importante. Afinal, amor difícil ainda é amor." />
+  <keys prop="Description" type="monster" key="dialog_1210204_answer_0_text" value="Acolher Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1210204_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210205_Title" value="Sorza &lt;Treinador de Feras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210205_text0" value="Sorza's the name. Looking to pick up some tips on how to handle your Battle Mount? Lucky for you, I know them all." />
+  <keys prop="Description" type="monster" key="dialog_1210205_answer_0_text" value="Acolher Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1210205_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210206_Title" value="Rumian &lt;Supervisor dos Colecionadores&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210206_text0" value="Estou aqui neste lugar abandonado pela luz para administrar os exames do Colecionador. Você encontrou algum mago da morte enquanto vinha aqui? E as gárgulas frenéticas? O Desfiladeiro Ventolar é um ótimo lugar no qual morrer!" />
+  <keys prop="Description" type="monster" key="dialog_1210206_answer_6_text" value="Exame de Colecionador" />
+  <keys prop="Description" type="monster" key="dialog_1210207_Title" value="Periot &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210207_text0" value="Pensei que a magia do caos fosse apenas uma arma, como qualquer outra. As coisas que testemunhei me fazem questionar essa ideia..." />
+  <keys prop="Description" type="monster" key="dialog_1210208_Title" value="Katshu &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210208_text0" value="Chaos magic is like poison. At this rate, it's only a matter of time before the local Battle Mount become unusable. We need to find a way not just to resist it, but to cleanse it." />
+  <keys prop="Description" type="monster" key="dialog_1210209_Title" value="Paice &lt;Colecionador_Entrada do Desfiladeiro&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210209_text0" value="O momento não poderia ser pior..." />
+  <keys prop="Description" type="monster" key="dialog_1210210_Title" value="Paice &lt;Colecionador_Entrada do Desfiladeiro&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210210_text0" value="O momento não poderia ser pior..." />
+  <keys prop="Description" type="monster" key="dialog_1210211_Title" value="Dian &lt;Cadete dos Colecionadores&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210211_text0" value="Só preciso pensar em algo muito chamativo... Alguma coisa que assuste os inspetores...&lt;br&gt;&lt;br&gt;Hein?! Quando você chegou?" />
+  <keys prop="Description" type="monster" key="dialog_1210212_Title" value="Skira &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210212_text0" value="Fique tranquilo. Você está seguro aqui." />
+  <keys prop="Description" type="monster" key="dialog_1210212_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1210212_answer_1_text" value="Sobre Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1210213_Title" value="Fezzil &lt;Comerciante Geral&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210213_text0" value="Boas-vindas. Não tenho muita variedade, mas tenho necessidades." />
+  <keys prop="Description" type="monster" key="dialog_1210213_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_3050902_Title" value="Duron &lt;Mago em Trânsito&gt;" />
+  <keys prop="Description" type="monster" key="dialog_3050902_text0" value="Muita coisa pode ser aprendida quando ouvimos o vento. Principalmente neste lugar." />
+  <keys prop="Description" type="monster" key="dialog_3050902_answer_0_text" value="Para Eldorr" />
+  <keys prop="Description" type="monster" key="dialog_1210214_Title" value="Krasis (Arconte)" />
+  <keys prop="Description" type="monster" key="dialog_1210214_text0" value="Eu sempre soube que Iouda era ambicioso, mas buscar a magia do caos? Sinceramente, nenhum elfo está a salvo da corrupção do mal." />
+  <keys prop="Description" type="monster" key="dialog_1210215_Title" value="Karnan &lt;Sunderlight Guard&gt;(Ancestor's Grove)" />
+  <keys prop="Description" type="monster" key="dialog_1210215_text0" value="O caos confunde a mente e faz uma alma tranquila se voltar para a violência. Os ambiciosos sempre são susceptíveis a seus efeitos. Então, diga... Você é um herói ou só mais um peão para os elfos do caos?" />
+  <keys prop="Description" type="monster" key="dialog_1210216_Title" value="Berand (Arqueólogo)" />
+  <keys prop="Description" type="monster" key="dialog_1210216_text0" value="Não me importa o que Desourd diz. Estamos aqui para estudar as antiguidades dos elfos, e eu as estudarei, com guerra ou sem guerra!" />
+  <keys prop="Description" type="monster" key="dialog_1210217_Title" value="Elbarr &lt;Sunderlight Guard&gt;(Ancestor's Grove)" />
+  <keys prop="Description" type="monster" key="dialog_1210217_text0" value="Essas florestas já foram lindas. Agora, para onde olho, vejo o efeito da magia do caos..." />
+  <keys prop="Description" type="monster" key="dialog_1210219_Title" value="Entre para a Sociedade da Saciedade" />
+  <keys prop="Description" type="monster" key="dialog_1210219_text0" value="Ainda acredito ser um dos melhores chefs por aqui, mas fui tolo por pensar que não precisava de mais ninguém. Ainda há muito a aprender, mesmo para chefs menos habilidosos." />
+  <keys prop="Description" type="monster" key="dialog_1210219_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Acho, sim, que a Sociedade da Saciedade vai me ajudar a ir além de meus limites. Agradeço. Eu nunca teria me unido a eles sem seu incentivo." />
+  <keys prop="Description" type="monster" key="dialog_1210220_Title" value="Unir-se aos Outros" />
+  <keys prop="Description" type="monster" key="dialog_1210220_text0" value="N-não adiante. A magia do caos... contagiosa, está vendo? Não pode se aproximar dos outros... A mesma coisa vai acontecer com eles..." />
+  <keys prop="Description" type="monster" key="dialog_1210220_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Só é preciso tempo... para que a magia se dissipe. Avise aos outros que eu... eu os verei logo..." />
+  <keys prop="Description" type="monster" key="dialog_1210221_Title" value="Mensagem Final" />
+  <keys prop="Description" type="monster" key="dialog_1210221_text0" value="(Há uma mensagem rabiscada na mão sem vida de Milton.)&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210221_text0_attach_0" value="Meu fim está próximo. Eu sei disso agora. Foi uma vida curta. Mas morro sabendo que fiz um ótimo trabalho." />
+  <keys prop="Description" type="monster" key="dialog_1210222_Title" value="Jagrafel &lt;Elfo do Caos Reformado&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210222_text0" value="Eu trilhava o caminho do caos, mas agora busco renascer na luz." />
+  <keys prop="Description" type="monster" key="dialog_1210222_answer_0_text" value="Elfo do Caos" />
+  <keys prop="Description" type="monster" key="dialog_1210222_answer_1_text" value="Arrependimento" />
+  <keys prop="Description" type="monster" key="dialog_1210223_Title" value="Elfo do Caos" />
+  <keys prop="Description" type="monster" key="dialog_1210223_text0" value="Cheguei aqui com o primeiro grupo de invasão dos elfos do caos, é verdade. E quando tudo isso terminar, aceitarei de bom grado qualquer castigo que os elfos de luz desejarem me dar pelas vidas que tirei." />
+  <keys prop="Description" type="monster" key="dialog_1210223_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Mas aqui é meu lugar, e aqui ficarei, não importa qual seja a consequência." />
+  <keys prop="Description" type="monster" key="dialog_1210224_Title" value="Arrependimento" />
+  <keys prop="Description" type="monster" key="dialog_1210224_text0" value="Há muito tempo, meu povo se separou dos elfos de luz, arrancaram seus próprios corações e os substituíram por um coração de caos. Mas o deus dos elfos do caos não tem espaço neste avião. Consigo entender isso agora." />
+  <keys prop="Description" type="monster" key="dialog_1210224_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Aqui é meu lugar. O ar fresco faz meus pulmões queimarem e a luz de Ellora rasga minha pele, mas com o tempo, espero, mais uma vez, ser uma criatura deste mundo." />
+  <keys prop="Description" type="monster" key="dialog_1210225_Title" value="Guardião Tebranir" />
+  <keys prop="Description" type="monster" key="dialog_1210225_text0" value="Minha missão é clara, e ainda assim... Não me parece correto trabalhar tão perto de um elfo do caos." />
+  <keys prop="Description" type="monster" key="dialog_1210225_answer_0_text" value="Decepção do Elfo do Caos" />
+  <keys prop="Description" type="monster" key="dialog_1210225_answer_1_text" value="Entre a Luz e o Caos" />
+  <keys prop="Description" type="monster" key="dialog_1210226_Title" value="Decepção do Elfo do Caos" />
+  <keys prop="Description" type="monster" key="dialog_1210226_text0" value="Os elfos do caos são famosos por traírem e iludirem. Mas Jagrafel é sincero, eu acho. Ele me passa a impressão de ser sincero." />
+  <keys prop="Description" type="monster" key="dialog_1210226_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Mas desde que o primeiro elfo do caos se virou contra a luz, nosso povo tem sido inimigo. Não é fácil esquecer uma história tão longa e sangrenta." />
+  <keys prop="Description" type="monster" key="dialog_1210227_Title" value="Entre a Luz e o Caos" />
+  <keys prop="Description" type="monster" key="dialog_1210227_text0" value="Teoricamente, recebemos bem qualquer um que siga os ensinamentos de Ellora. Mas a maioria dos elfos de luz vai demorar a confiar em um elfo do caos -- principalmente nessa época de guerra." />
+  <keys prop="Description" type="monster" key="dialog_1210227_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Não é um problema que pode ser resolvido da noite para o dia. Recebi a missão de trabalhar com Jagrafel e avaliar as verdadeiras intenções dele. Isso, pelo menos, é algo que eu posso fazer." />
+  <keys prop="Description" type="monster" key="dialog_1210228_Title" value="Sermi &lt;Transfigurista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210228_text0" value="Tenho observado você ir de um lado a outro no desfiladeiro. Todos temos um papel a desempenhar, e você desempenha bem o seu." />
+  <keys prop="Description" type="monster" key="dialog_1210228_answer_0_text" value="Criança Incomum" />
+  <keys prop="Description" type="monster" key="dialog_1210228_answer_1_text" value="Transfigurista" />
+  <keys prop="Description" type="monster" key="dialog_1210228_answer_2_text" value="Encontros no Passado" />
+  <keys prop="Description" type="monster" key="dialog_1210229_Title" value="Criança Incomum" />
+  <keys prop="Description" type="monster" key="dialog_1210229_text0" value="Você entendeu minhas reais intenções, certo? Não esperava menos. Se não conseguisse fazer isso, qual seria sua utilidade para nós?" />
+  <keys prop="Description" type="monster" key="dialog_1210229_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Os elfos me chamam de &quot;irreconhecível&quot; e os humanos me chamam de &quot;transfigurista&quot;. Vocês podem me chamar de Sermi." />
+  <keys prop="Description" type="monster" key="dialog_1210230_Title" value="Transfigurista" />
+  <keys prop="Description" type="monster" key="dialog_1210230_text0" value="Percorri Midellas por séculos. Observei Hakanas de cima pelos olhos de uma águia. Cuidei do solo como um simples agricultor. Nadei nas águas como um Merumi, exposto ao sol como uma palmeira..." />
+  <keys prop="Description" type="monster" key="dialog_1210230_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Fico me perguntando: quantas vezes nossos caminhos já se cruzaram?" />
+  <keys prop="Description" type="monster" key="dialog_1210231_Title" value="Encontros no Passado" />
+  <keys prop="Description" type="monster" key="dialog_1210231_text0" value="Talvez já tenhamos nos encontrado antes... ou talvez não. Sinceramente, como você espera que eu me lembre de tudo? Nem você se lembra!" />
+  <keys prop="Description" type="monster" key="dialog_1210231_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Nós poderíamos nos encontrar mil vezes e nem saber. Eu não perderia tempo demais pensando nisso." />
+  <keys prop="Description" type="monster" key="dialog_1210232_Title" value="Esqueleto" />
+  <keys prop="Description" type="monster" key="dialog_1210232_text0" value="(Esse corpo indica anos de decomposição. A magia do caos irradia dele. Essa pessoa foi amaldiçoada?)" />
+  <keys prop="Description" type="monster" key="dialog_1210233_Title" value="Milton &lt;Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210233_text0" value="(Milton morreu. A aura de caos ao redor do corpo dele está intensa. Nada poderia ter sido feito para salvá-lo.)" />
+  <keys prop="Description" type="monster" key="dialog_1210233_answer_0_text" value="Mensagem Final" />
+  <keys prop="Description" type="monster" key="dialog_1210234_Title" value="Courier &lt;Guarda Elfo&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210234_text0" value="Q-quem vai ali?&lt;br&gt;&lt;br&gt;(Os olhos dele estão cobertos de sangue.)" />
+  <keys prop="Description" type="monster" key="dialog_1210235_Title" value="Van Owen Lebrini (Santuário Esquecido)" />
+  <keys prop="Description" type="monster" key="dialog_1210235_text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="dialog_1210235_answer_0_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="dialog_1210236_Title" value="Penelope (Santuário Esquecido)" />
+  <keys prop="Description" type="monster" key="dialog_1210236_text0" value="Onde quer que você esteja no mundo, estaremos sempre ao seu lado. Os Comerciantes da Lua Crescente são os principais negociantes para os aventureiros.&lt;br&gt;&lt;br&gt;Como posso ajudar você hoje?" />
+  <keys prop="Description" type="monster" key="dialog_1210236_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210237_Title" value="Van Owen Rabbini (Santuário Esquecido)" />
+  <keys prop="Description" type="monster" key="dialog_1210237_text0" value="Prazer em conhecê-lo, aventureiro!&lt;br&gt;&lt;br&gt;Eu fiquei sabendo que os produtos relacionados ao aperfeiçoamento estão dando muito dinheiro, e decidi administrar uma loja sobre isso.&lt;br&gt;O que? Você não sabe o que é o aperfeiçoamento? Então fale com Casey. Vai te ensinar direitinho sobre o aperfeiçoamento.&lt;br&gt;Eu ouvi que isso está dando dinheiro aos humanos também." />
+  <keys prop="Description" type="monster" key="dialog_1210237_answer_0_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="dialog_1210238_Title" value="Penelope (Aldeia dos Lebrini)" />
+  <keys prop="Description" type="monster" key="dialog_1210238_text0" value="Onde quer que você esteja no mundo, estaremos sempre ao seu lado. Os Comerciantes da Lua Crescente são os principais negociantes para os aventureiros.&lt;br&gt;&lt;br&gt;Como posso ajudar você hoje?" />
+  <keys prop="Description" type="monster" key="dialog_1210238_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210239_Title" value="Torran" />
+  <keys prop="Description" type="monster" key="dialog_1210239_text0" value="Precisamos recuperar a pedra sagrada!" />
+  <keys prop="Description" type="monster" key="dialog_1210242_Title" value="Exame de Colecionador" />
+  <keys prop="Description" type="monster" key="dialog_1210242_text0" value="Windhome Canyon is the perfect spot for a test! Extreme terrain, strong winds, and fierce Battle Mount to keep a young Collector on his toes. At least, that's what my boss says." />
+  <keys prop="Description" type="monster" key="dialog_1210242_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Claro, meu chefe não está aqui agora, e ele não tem que ver nossos cadetes serem punidos. Teremos sorte se algum deles sair vivo daqui." />
+  <keys prop="Description" type="monster" key="dialog_1210244_Title" value="Diálogo da Quitandeira Humana do Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210244_text0" value="Você não encontrará comida melhor em nenhum outro lugar. Eu garanto!" />
+  <keys prop="Description" type="monster" key="dialog_1210244_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_1210245_Title" value="Quitandeira Humana do Santuário Comum" />
+  <keys prop="Description" type="monster" key="dialog_1210245_text0" value="Gostaria de experimentar um pouco da dádiva da natureza?" />
+  <keys prop="Description" type="monster" key="dialog_1210245_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_1210246_Title" value="Diálogo da Farmacêutica Humana do Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210246_text0" value="Nenhum aventureiro em sã consciência entraria no campo sem uma boa seleção de poções. Por favor, deixe-me abastecê-lo!" />
+  <keys prop="Description" type="monster" key="dialog_1210246_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="dialog_1210247_Title" value="Farmacêutica Elfo do Santuário Comum" />
+  <keys prop="Description" type="monster" key="dialog_1210247_text0" value="As bênçãos de Ellora estão por todos os lados -- mesmo em meus frascos de poção. Você se interessa em comprá-los?" />
+  <keys prop="Description" type="monster" key="dialog_1210247_answer_0_text" value="Farmácia" />
+  <keys prop="Description" type="monster" key="dialog_1210248_Title" value="Diálogo Comum do Lojista do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210248_text0" value="Você não vai se dar bem simplesmente estocando armas e poções. Você também precisa de faixas e curativos para curar suas feridas, e outras coisas. Tenho certeza de que tenho algo de que você precisa." />
+  <keys prop="Description" type="monster" key="dialog_1210248_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210249_Title" value="Diálogo do Lojista Elfo do Santuário Comum" />
+  <keys prop="Description" type="monster" key="dialog_1210249_text0" value="As maravilhas da natureza são tão lindas quanto perigosas. Meus deuses permitirão que você aguente esse perigo." />
+  <keys prop="Description" type="monster" key="dialog_1210249_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210250_Title" value="Comerciante Comum da Criação de Armas do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210250_text0" value="Os elfos são um povo bom, mas dá para confiar na arte deles? Sempre digo que é mais fácil resolver as coisas com as próprias mãos." />
+  <keys prop="Description" type="monster" key="dialog_1210250_answer_0_text" value="Loja de Criação de Armas" />
+  <keys prop="Description" type="monster" key="dialog_1210251_Title" value="Comerciante Elfo Comum de Armas do Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210251_text0" value="A proteção da floresta de Ellora é um juramento sagrado. Minhas armas ajudarão você a cumprir esse juramento." />
+  <keys prop="Description" type="monster" key="dialog_1210251_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_1210252_Title" value="Comerciante Comum de Criação de Armaduras do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210252_text0" value="Eu testei, pessoalmente, meus materiais contra as flechas dos elfos do caos. Pense só na armadura que poderia fazer com elas!" />
+  <keys prop="Description" type="monster" key="dialog_1210252_answer_0_text" value="Loja de Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_1210253_Title" value="Armeiro Elfo do Santuário Comum" />
+  <keys prop="Description" type="monster" key="dialog_1210253_text0" value="Os guardiões do Santuário só usam as armaduras mais requintadas." />
+  <keys prop="Description" type="monster" key="dialog_1210253_answer_0_text" value="Armeiro" />
+  <keys prop="Description" type="monster" key="dialog_1210254_Title" value="Diálogo Comum do Comerciante Culinário do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210254_text0" value="A boa comida começa com ingredientes frescos." />
+  <keys prop="Description" type="monster" key="dialog_1210254_answer_0_text" value="Despensa de Ingredientes" />
+  <keys prop="Description" type="monster" key="dialog_1210255_Title" value="Diálogo Comum do Comerciante de Alquimia do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210255_text0" value="Vendo os materiais de que você precisa para fazer as poções que deseja." />
+  <keys prop="Description" type="monster" key="dialog_1210255_answer_0_text" value="Loja de Alquimia" />
+  <keys prop="Description" type="monster" key="dialog_1210256_Title" value="Comerciante Comum de Criação de Joias do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210256_text0" value="Há muitos tipos de pedras preciosas brilhantes espalhadas pela floresta, esperando que alguém as pegue. Por que não transformá-las em anéis brilhantes?" />
+  <keys prop="Description" type="monster" key="dialog_1210256_answer_0_text" value="Loja de Criação de Joias" />
+  <keys prop="Description" type="monster" key="dialog_1210257_Title" value="Diálogo Comum do Comerciante de Selas do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210257_text0" value="Procura uma nova receita de criação? Ou talvez esteja buscando um catalisador?" />
+  <keys prop="Description" type="monster" key="dialog_1210257_answer_0_text" value="Loja de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="dialog_1210258_Title" value="Diálogo Comum do Comerciante de Ellun do Santuário Humano" />
+  <keys prop="Description" type="monster" key="dialog_1210258_text0" value="Blessings upon you! Doubly so if you have Ellun to trade. Come, look upon my rare and wondrous wares." />
+  <keys prop="Description" type="monster" key="dialog_1210258_answer_0_text" value="Loja Ellun" />
+  <keys prop="Description" type="monster" key="dialog_1210258_answer_1_text" value="Confiança na Qualidade" />
+  <keys prop="Description" type="monster" key="dialog_1210259_Title" value="Corretor de Mercado Humano do Santuário Comum" />
+  <keys prop="Description" type="monster" key="dialog_1210259_text0" value="Não é fácil controlar o mercado tão longe assim de Hakanas. Mas há grandes oportunidades, então o que acha de dar uma olhada?" />
+  <keys prop="Description" type="monster" key="dialog_1210259_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="dialog_1210260_Title" value="Diálogo do Mestre de Armazenamento do Santuário Comum" />
+  <keys prop="Description" type="monster" key="dialog_1210260_text0" value="Quanto maior o aventureiro, mais pesada é a bolsa. Por que não deixa um pouco desse peso morto com minha guarda?" />
+  <keys prop="Description" type="monster" key="dialog_1210260_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_1210261_Title" value="Diálogo da Socorrista do Santuário" />
+  <keys prop="Description" type="monster" key="dialog_1210261_text0" value="Eu posso tirar a dor. Rezemos..." />
+  <keys prop="Description" type="monster" key="dialog_1210261_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1210261_answer_1_text" value="Sobre Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1210078_answer_0_text" value="Ir para Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="dialog_1210262_Title" value="Capitão Karmehd &lt;Balsa do Santuário de Ellora&gt; " />
+  <keys prop="Description" type="monster" key="dialog_1210262_text0" value="Está indo para o Santuário de Ellora? Meu titã do céu é o melhor transporte que há. Quase nunca falhamos. É a garantia Karmehd!" />
+  <keys prop="Description" type="monster" key="dialog_1210262_answer_0_text" value="Partir para o Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="dialog_9015903_Title" value="Mariana (Santuário de Ellora)" />
+  <keys prop="Description" type="monster" key="dialog_9015903_text0" value="Oi, é um prazer te conhecer. Sou Noel, o pescador! A pesca é amor, a pesca é vida. Quer tentar? Posso te ensinar!" />
+  <keys prop="Description" type="monster" key="dialog_9015903_answer_2_text" value="Como eu pesco?" />
+  <keys prop="Description" type="monster" key="dialog_9015903_answer_3_text" value="Onde consigo missões de pesca?" />
+  <keys prop="Description" type="monster" key="dialog_1210287_Title" value="Yanugi &lt;Mineiro Braghin&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210287_text0" value="Você ser humano que salvou Inugi! Um amigo de Inugi é meu amigo,&lt;br&gt;e eu trato bem os amigos. Deixo você entrar na mina sem problemas." />
+  <keys prop="Description" type="monster" key="dialog_1210287_answer_0_text" value="O que pode me dizer sobre a Mina Braghin?" />
+  <keys prop="Description" type="monster" key="dialog_1210288_Title" value="O que pode me dizer sobre a Mina Braghin?" />
+  <keys prop="Description" type="monster" key="dialog_1210288_text0" value="Não me importo em dizer, já que você é amigo de Yanugi agora. Em Braghin, extraímos Elium. Elium é muito... bonito. É a pedra mais linda. Dá para ficar admirando o Elium para sempre. Nós o utilizamos para fazer coisas valiosas para vender.&lt;br&gt;&lt;br&gt;Você vai à mina para extrair Elium? Cuidado com os guardas. Eles odeiam seres humanos.&lt;br&gt;&lt;br&gt;Você deve tomar muito cuidado, novo amigo de Yanugi." />
+  <keys prop="Description" type="monster" key="dialog_1210288_text0_attach_0" value="Se você não ser de Braghin, não ficar na masmorra por mais de 10 minutos. Sem exceção! Leve todo o Elium que quiser durante esse tempo. Também, Yanugi tem favor para pedir. Não matar Braghins. Até os Braghins malvados são amigos. Por favor fazer promessa." />
+  <keys prop="Description" type="monster" key="dialog_1210289_Title" value="Como eu pesco?" />
+  <keys prop="Description" type="monster" key="dialog_1210289_text0" value="Para pescar, precisamos de duas coisas, uma vara e uma isca.&lt;br&gt;Meus assistentes podem ajudá-lo com isso.&lt;br&gt;Além disso, se quiser ir pelo caminho mais fácil e pescar automaticamente,&lt;br&gt;é melhor dar uma olhada no molinete automático." />
+  <keys prop="Description" type="monster" key="dialog_1210290_Title" value="Onde consigo missões de pesca?" />
+  <keys prop="Description" type="monster" key="dialog_1210290_text0" value="As coisas boas levam tempo para acontecer! Assim também é com a pesca.&lt;br&gt;Primeiro, é preciso completar o treinamento básico no Pesqueiro da Costa da Divindade nas Terras Altas de Hakanas. Depois, você pode dar início a missões e a pescar aonde o mar te levar!" />
+  <keys prop="Description" type="monster" key="dialog_9031612_Title" value="Jeshulis, o Impostor" />
+  <keys prop="Description" type="monster" key="dialog_9031612_text0" value="What else are you? &lt;br&gt;Do not be snooping!" />
+  <keys prop="Description" type="monster" key="dialog_9031622_Title" value="Ravigne Forum " />
+  <keys prop="Description" type="monster" key="dialog_9031622_text0" value="Items that can be obtained from the Ravigne Garden " />
+  <keys prop="Description" type="monster" key="dialog_9031622_answer_0_text" value="Nuggets &amp; Coins " />
+  <keys prop="Description" type="monster" key="dialog_9031622_answer_1_text" value="Pet &amp; Equipment " />
+  <keys prop="Description" type="monster" key="dialog_9031622_answer_2_text" value="Recipe &amp; Ingredients " />
+  <keys prop="Description" type="monster" key="dialog_9031622_answer_3_text" value="Expendables" />
+  <keys prop="Description" type="monster" key="dialog_9031622_answer_4_text" value="Random Box &amp; Booster " />
+  <keys prop="Description" type="monster" key="dialog_9031624_title" value="Ravigne Float &amp; Coins " />
+  <keys prop="Description" type="monster" key="dialog_9031624_text0" value="[Gold &amp; Gold Coins] &lt;br&gt;Gold Coins &lt;br&gt;Gold Coins &lt;br&gt;Silver Coins &lt;br&gt;Gold Coins &lt;br&gt;Gold Coins &lt;br&gt;Fake Gold Coins &lt;br&gt;Forged Gold Coins &lt;br&gt;Ravigne Gold Coins &lt;br&gt;Ravigne Counterfeit Coin " />
+  <keys prop="Description" type="monster" key="dialog_9031625_title" value="Ravigne Petit &amp; Equipment " />
+  <keys prop="Description" type="monster" key="dialog_9031625_text0" value="[Pet &amp; Equipment] &lt;br&gt;Pet: Raviana Jones &lt;br&gt;Pet: Rigoletto &lt;br&gt;Ancient Equipment &lt;br&gt;Nerhes' Growing Inside Arms &lt;br&gt;Alsace Equipment &lt;br&gt;Ellora Equipment &lt;br&gt;Faint Blessing Fellow equipment " />
+  <keys prop="Description" type="monster" key="dialog_9031626_title" value="Ravigne's recipe &amp; ingredients " />
+  <keys prop="Description" type="monster" key="dialog_9031626_text0" value="[Recipe &amp; Ingredients] &lt;br&gt;Faint Blessing Fellowship Recipe - Bozju Recipe &lt;br&gt;Tears of Goat Ravigne &lt;br&gt;Shining Ravigne Crystal &lt;br&gt;Aklan Magic Powder &lt;br&gt;Soul Stone of Wyrm &lt;br&gt;Nightmare The Essence of the Challenger &lt;br&gt;The Challenger's Horn &lt;br&gt;The Stone of Darkness &lt;br&gt;Mysterious Fragment " />
+  <keys prop="Description" type="monster" key="dialog_9031627_title" value="Ravigne Consumables " />
+  <keys prop="Description" type="monster" key="dialog_9031627_text0" value="[Consumables] &lt;br&gt;Shiny 30% Reinforced Stone - Carrot Relief Stone &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;- &lt;br&gt;Suspicious Potion &lt;br&gt;Fellowship Lab Ticket &lt;br&gt;Signet of Blessed 40, 50 Lv Legend &lt;br&gt;Fellow Full Potion Potion &lt;br&gt;Fellow Experience Potion &lt;br&gt;Shining Capture Card &lt;br&gt;Growth Booster 1, 3 hours) &lt;br&gt;Crystalline stone for reinforcing fellow 55LV &lt;br&gt;Carrot potion &lt;br&gt;Food " />
+  <keys prop="Description" type="monster" key="dialog_9031628_title" value="Ravigne's Random Box &amp; Booster " />
+  <keys prop="Description" type="monster" key="dialog_9031628_text0" value="[Random Box &amp; Booster] &lt;br&gt;Goat Ravigne Rampage Stand Random Box &lt;br&gt;Suspicious Equipment Box &lt;br&gt;Ravigne Apparel Box &lt;br&gt;Fellow Sign Box &lt;br&gt;Lucky Four Leaf Clover 1 hours)" />
+  <keys prop="Description" type="monster" key="dialog_9031623_Title" value="Braghin Mine Bulletin " />
+  <keys prop="Description" type="monster" key="dialog_9031623_text0" value="Itens que podem ser adquiridos da Mina Braghin " />
+  <keys prop="Description" type="monster" key="dialog_9031623_answer_0_text" value="Expendables" />
+  <keys prop="Description" type="monster" key="dialog_9031623_answer_1_text" value="material" />
+  <keys prop="Description" type="monster" key="dialog_9031623_answer_2_text" value="Rumors about the mine captain Bruettallus 1 " />
+  <keys prop="Description" type="monster" key="dialog_9031623_answer_3_text" value="Rumors about Mine Captain Bruce Talus 2 " />
+  <keys prop="Description" type="monster" key="dialog_9031629_title" value="Brake mine consumables " />
+  <keys prop="Description" type="monster" key="dialog_9031629_text0" value="[Consumables] &lt;br&gt;Shining 30% Elite Enhanced Stones - Lv 170 Hero Enhanced Stones - Lv 220 Elite Enhanced Stones - Lv 140 - 160 Lv Upgraded Hero Enhanced Stones - Lv 55 Legendary Stalactite - I ~ III - Seo Inseok &lt;br&gt;Blessed legend disassembly tool &lt;br&gt;Braghin fishing rod " />
+  <keys prop="Description" type="monster" key="dialog_9031630_title" value="Braghinie mine material " />
+  <keys prop="Description" type="monster" key="dialog_9031630_text0" value="[Materials] &lt;br&gt;Scattered Pieces &lt;br&gt;Fragment of Oblivion &lt;br&gt;Reinforced Chromium Ingot &lt;br&gt;Reinforced Chromium Alloy &lt;br&gt;Reinforced Chromium Fibers &lt;br&gt;Reinforced Chromium Reinforced Reinforced Adamantium Ingot &lt; strengthened adamantium alloy - Ancient Tumliman alloy &lt;br&gt;Ancient Tumliman ingot &lt;br&gt;Adamantium alloy &lt;br&gt;Fragments of fragments &lt;br&gt;Eucalyptus ingot &lt;br&gt;Eucalyptus Textiles &lt;br&gt;elaborate emeralds &lt;br&gt;crystal gemstones &lt;br&gt;faint transcendence &lt;br&gt;mysterious cells &lt;br&gt;blessings of alsace &lt;br&gt;auspicious of alsace " />
+  <keys prop="Description" type="monster" key="dialog_9031631_title" value="NRumors about the mine captain Bruettallus 1 /A" />
+  <keys prop="Description" type="monster" key="dialog_9031631_text0" value="[Equipment] &lt;br&gt;Themed Equipment &lt;br&gt;Alsace Equipment &lt;br&gt;&lt;br&gt;[Materials] &lt;br&gt;Enhanced kerosite ingot &lt;br&gt;Enhanced kerosite alloy &lt;br&gt;Enhanced kerosene fibers &lt;br&gt;Enhanced Keroum's Powder &lt;br&gt;Ancient Turiman's Barrel &lt;br&gt;Ancient Turiman's Alloy &lt;br&gt;Fragment of Fragment &lt;br&gt;Fragment of Chaos &lt;br&gt;Crystal Gem &lt;br&gt;Blessing of Alsace &lt;br&gt;Mysterious Fragment " />
+  <keys prop="Description" type="monster" key="dialog_9031632_title" value="Rumors about Mine Captain Bruce Talus 2 " />
+  <keys prop="Description" type="monster" key="dialog_9031632_text0" value="[Consumables] - Lv 65 Legendary Lvs Transcendence - Lv 60 Legendary Lvs Transcendence - Lv 55 Legendary Lvs Transcendence - Shining 30% Heroic Enhanced Stones - 180 Lvs of Trinkets Elite Enhanced Stones - 180 Lv Hero Kang Suk Suk &lt;br&gt;230 Lv Elite Enhancement Stone &lt;br&gt;140 ~ 160 Lv Advanced Hero Kang Suk Suk - Legendary Seduction VIII &lt;br&gt;Fellow Complete Growth Potion &lt;br&gt;Fatigue Recovery Package " />
+</files>

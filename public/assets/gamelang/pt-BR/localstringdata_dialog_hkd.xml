@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="dialog_1100001_title" value="Comandante Bakir" />
+  <keys prop="Description" type="monster" key="dialog_1100001_text0" value="Por ordem da coroa, nós estamos trabalhando com a Ordem Ônix. Eu quero acabar com isso logo, mas os saqueadores nos arredores de Utran não estão facilitando nosso trabalho. " />
+  <keys prop="Description" type="monster" key="dialog_1100001_answer_7_text" value="Perigos do Mar" />
+  <keys prop="Description" type="monster" key="dialog_1100002_title" value="Soldado Raso Sorina" />
+  <keys prop="Description" type="monster" key="dialog_1100002_text0" value="Mais suprimentos sumiram. Não sei como eles conseguem passar por nossos guardas, mas tenho certeza que os Saqueadores Skan estão por trás disso!" />
+  <keys prop="Description" type="monster" key="dialog_1100003_title" value="Soldado Raso Zellan" />
+  <keys prop="Description" type="monster" key="dialog_1100003_text0" value="No chão: saqueadores. Nos céus: mais saqueadores. Temos que fazer algo sobre esses demônios antes que sejamos devastados." />
+  <keys prop="Description" type="monster" key="dialog_1100004_title" value="Jinta'rahn" />
+  <keys prop="Description" type="monster" key="dialog_1100004_text0" value="As pedras de Hakanas sussurram para mim, elas sussurram para mim. Minha assinatura está gravada nos tijolos de cada nova construção da Travessia de Hakain. Eu não crio simples construções, camarada. Não, eu crio arte!" />
+  <keys prop="Description" type="monster" key="dialog_1100004_answer_6_text" value="Gênio de uma Geração" />
+  <keys prop="Description" type="monster" key="dialog_1100005_title" value="Mazu'rahn" />
+  <keys prop="Description" type="monster" key="dialog_1100005_text0" value="Isso não é um campo de obra. É uma maldição de ruína zoneada. Malditos saqueadores! " />
+  <keys prop="Description" type="monster" key="dialog_1100006_title" value="Guarda de Familiares&#xD;&#xA;Juan" />
+  <keys prop="Description" type="monster" key="dialog_1100006_text0" value="Eu dou meu sangue e suor para cuidar destes familiares, e o que eles fazem? Eles saem voando! Feras ingratas." />
+  <keys prop="Description" type="monster" key="dialog_1100006_answer_1_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1100007_title" value="Ku'khat" />
+  <keys prop="Description" type="monster" key="dialog_1100007_text0" value="Coragem, é preciso coragem para transportar mercadorias daqui até a capital, mas alguém tem que fazer o serviço. Se você quer ganhar umas moedas, eu preciso de uma mãozinha com alguns problemas." />
+  <keys prop="Description" type="monster" key="dialog_1100007_answer_2_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1100008_title" value="Famku'shan" />
+  <keys prop="Description" type="monster" key="dialog_1100008_text0" value="Eu deveria estar cuidando das fazendas, mas agora não posso, mesmo se quisesse. Como será que a safra está? Bem, eu acho que uma folguinha não faz mal a ninguém..." />
+  <keys prop="Description" type="monster" key="dialog_1100009_title" value="Corvo" />
+  <keys prop="Description" type="monster" key="dialog_1100009_text0" value="Temos que encontrar a princesa, mas não podemos fechar os olhos para os nossos inimigos." />
+  <keys prop="Description" type="monster" key="dialog_1100009_answer_18_text" value="Forças Infernais" />
+  <keys prop="Description" type="monster" key="dialog_1100009_answer_21_text" value="Utran" />
+  <keys prop="Description" type="monster" key="dialog_1100010_title" value="Cynth" />
+  <keys prop="Description" type="monster" key="dialog_1100010_text0" value="Esses ataques dos saqueadores estão atrapalhando nossas operações. Ataque-os sem piedade." />
+  <keys prop="Description" type="monster" key="dialog_1100010_answer_11_text" value="Origem do Titã" />
+  <keys prop="Description" type="monster" key="dialog_1100010_answer_12_text" value="Attaius" />
+  <keys prop="Description" type="monster" key="dialog_1100010_answer_13_text" value="Pico de Attaius" />
+  <keys prop="Description" type="monster" key="dialog_1100011_title" value="Tortus" />
+  <keys prop="Description" type="monster" key="dialog_1100011_text0" value="Precisamos encontrar a princesa, mas primeiro precisamos nos livrar desses caras. Acho que começarei pelas suas caveiras..." />
+  <keys prop="Description" type="monster" key="dialog_1100011_answer_8_text" value="Conselho de Tortus" />
+  <keys prop="Description" type="monster" key="dialog_1100012_title" value="Ferard" />
+  <keys prop="Description" type="monster" key="dialog_1100012_text0" value="Vamos cuidar dos saqueadores, claro, mas nossa prioridade máxima é localizar a princesa.&lt;br&gt;&lt;br&gt;Ao menos é isso que o comandante diz. Pelo sopro de Nerhes, isso está me estressando..." />
+  <keys prop="Description" type="monster" key="dialog_1100013_title" value="Jennifer" />
+  <keys prop="Description" type="monster" key="dialog_1100013_text0" value="Você pode me fazer um favor?" />
+  <keys prop="Description" type="monster" key="dialog_1100014_title" value="Professor Mezaks" />
+  <keys prop="Description" type="monster" key="dialog_1100014_text0" value="Hmm? Posso ajudar?" />
+  <keys prop="Description" type="monster" key="dialog_1100015_title" value="Homem Capturado" />
+  <keys prop="Description" type="monster" key="dialog_1100015_text0" value="Eu tinha certeza que morreria aqui... Obrigado! Muito obrigado!" />
+  <keys prop="Description" type="monster" key="dialog_1100016_title" value="Mulher Capturada" />
+  <keys prop="Description" type="monster" key="dialog_1100016_text0" value="Os gigantes iam nos sacrificar... Eu nunca mais quero pensar este lugar! " />
+  <keys prop="Description" type="monster" key="dialog_1100017_title" value="Phillip" />
+  <keys prop="Description" type="monster" key="dialog_1100017_text0" value="Pessoas que usam Santuários de Trânsito frequentemente, tendem a achar o mundo pequeno. Mas lembre-se, o mar é imenso. Tenha cuidado." />
+  <keys prop="Description" type="monster" key="dialog_1100018_title" value="Xiona" />
+  <keys prop="Description" type="monster" key="dialog_1100018_text0" value="Sinta-se à vontade para me vender o que você não precisa. É mais fácil para mim do que resgatar do fundo do mar depois. " />
+  <keys prop="Description" type="monster" key="dialog_1100018_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1100019_title" value="Santuário de Trânsito de Retorno" />
+  <keys prop="Description" type="monster" key="dialog_1100019_text0" value="(O santuário brilha com uma luz azul radiante.)" />
+  <keys prop="Description" type="monster" key="dialog_1100020_title" value="Moleiro" />
+  <keys prop="Description" type="monster" key="dialog_1100020_text0" value="Eu só tenho armas de primeira linha. Não confie em outros -- Eles só vendem lixos, eu garanto!" />
+  <keys prop="Description" type="monster" key="dialog_1100020_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_1100021_title" value="Ashlynn" />
+  <keys prop="Description" type="monster" key="dialog_1100021_text0" value="Esta armadura foi feita para durar! Só não tente nadar com ela, combinado?" />
+  <keys prop="Description" type="monster" key="dialog_1100021_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_1100022_title" value="Ray" />
+  <keys prop="Description" type="monster" key="dialog_1100022_text0" value="Pobre Zess. Ele não é muito esperto. Sorte que eu ensinei a ele tudo o que ele sabe. Ele nunca se tornaria um treinador de familiares se não fosse por mim." />
+  <keys prop="Description" type="monster" key="dialog_1100022_answer_2_text" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1100022_answer_3_text" value="Familiares Voadores do Mar" />
+  <keys prop="Description" type="monster" key="dialog_1100022_answer_4_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1100022_answer_5_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1100022_answer_6_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1100023_title" value="Pássaro com Grito de Trovão de Ray, Mabina" />
+  <keys prop="Description" type="monster" key="dialog_1100023_text0" value="(Ele olha você com cautela.)" />
+  <keys prop="Description" type="monster" key="dialog_1100024_title" value="Arthur" />
+  <keys prop="Description" type="monster" key="dialog_1100024_text0" value="As feridas do corpo podem ser cuidadas, mas as feridas da alma levam muito mais tempo para curar." />
+  <keys prop="Description" type="monster" key="dialog_1100024_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1100025_title" value="Hall" />
+  <keys prop="Description" type="monster" key="dialog_1100025_text0" value="Se você for morto em campo por suas bolsas estarem muito pesadas, você só pode culpar a si mesmo." />
+  <keys prop="Description" type="monster" key="dialog_1100026_title" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="dialog_1100026_text0" value="Saqueadores infestam os mares. Viajantes são avisados para tomarem cuidado.&lt;br&gt;&lt;br&gt;Bakir Comandante do Acampamento" />
+  <keys prop="Description" type="monster" key="dialog_1100027_title" value="Khan'darr" />
+  <keys prop="Description" type="monster" key="dialog_1100027_text0" value="Nós, os Crokhoon, nos orgulhamos de nosso trabalho com pedras, mas Jinta'rahn exagera! Ele está sempre falando sobre sua arte e sua alma como um doido. Ainda assim, seu trabalho não é ruim..." />
+  <keys prop="Description" type="monster" key="dialog_1100028_title" value="Guarda dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="dialog_1100028_text0" value="Nenhum inimigo vai se esquivar do meu olhar." />
+  <keys prop="Description" type="monster" key="dialog_1100029_title" value="Sentinela dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="dialog_1100029_text0" value="Eu sou um escudo para meus amigos cavaleiros." />
+  <keys prop="Description" type="monster" key="dialog_1100030_title" value="Guerreiro dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="dialog_1100030_text0" value="Não há cavaleiros melhores em toda Hakanas. " />
+  <keys prop="Description" type="monster" key="dialog_1100031_title" value="Harrison" />
+  <keys prop="Description" type="monster" key="dialog_1100031_text0" value="Se você estiver perdido, deixe o santuário te guiar." />
+  <keys prop="Description" type="monster" key="dialog_1100032_title" value="Kristina" />
+  <keys prop="Description" type="monster" key="dialog_1100032_text0" value="Claro, armas e armaduras são úteis, mas também são pesadas. Por que não comprar artigos diversos que são tão leves como uma pena ao invés?" />
+  <keys prop="Description" type="monster" key="dialog_1100032_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1100033_title" value="Santuário de Trânsito de Retorno" />
+  <keys prop="Description" type="monster" key="dialog_1100033_text0" value="(O santuário brilha com uma luz azul radiante.)" />
+  <keys prop="Description" type="monster" key="dialog_1100034_title" value="Berrik" />
+  <keys prop="Description" type="monster" key="dialog_1100034_text0" value="Você nunca viu algo tão afiado assim! Vou mostrar... Ai, meu dedo! V-viu? A lâmina quase decepou minha mão! Então, quantas você vai levar?" />
+  <keys prop="Description" type="monster" key="dialog_1100034_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_1100035_title" value="Luis" />
+  <keys prop="Description" type="monster" key="dialog_1100035_text0" value="Leve o tempo que precisar. Não quero que você compre algo sem estar completamente satisfeito." />
+  <keys prop="Description" type="monster" key="dialog_1100035_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_1100036_title" value="Zess" />
+  <keys prop="Description" type="monster" key="dialog_1100036_text0" value="Se Ray não parar com isso, eu vou perder a cabeça! Ele fica falando para as pessoas que eu não sou muito esperto. Talvez ele não se lembre, mas ele nunca teria se formado na Academia de Familiares sem minha ajuda." />
+  <keys prop="Description" type="monster" key="dialog_1100036_answer_2_text" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1100036_answer_3_text" value="Familiares Voadores do Mar" />
+  <keys prop="Description" type="monster" key="dialog_1100036_answer_4_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1100036_answer_5_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1100036_answer_6_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1100037_title" value="Queenie" />
+  <keys prop="Description" type="monster" key="dialog_1100037_text0" value="(O dragão ruge baixinho enquanto observa você)" />
+  <keys prop="Description" type="monster" key="dialog_1100038_title" value="William" />
+  <keys prop="Description" type="monster" key="dialog_1100038_text0" value="Chegue mais perto. Deixe-me ver essas suas feridas." />
+  <keys prop="Description" type="monster" key="dialog_1100038_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1100039_title" value="Hoyle" />
+  <keys prop="Description" type="monster" key="dialog_1100039_text0" value="A partir do momento em que eu estiver com seus itens, os manterei seguros até o fim. Esta é a Garantia Hoyle." />
+  <keys prop="Description" type="monster" key="dialog_1100040_title" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="dialog_1100040_text0" value="Boateiros serão processados em toda a extensão da lei militar.&lt;br&gt;&lt;br&gt;Comandante John Viper, Forte de Baellas" />
+  <keys prop="Description" type="monster" key="dialog_1100041_title" value="Rander" />
+  <keys prop="Description" type="monster" key="dialog_1100041_text0" value="Você pode até comprar uma arma barata em uma loja, mas por que arriscar? Faça suas compras através de mim. Você pode até encontrar uma arma criada por um mestre a um preço muito baixo! " />
+  <keys prop="Description" type="monster" key="dialog_1100042_title" value="Fuller" />
+  <keys prop="Description" type="monster" key="dialog_1100042_text0" value="Uma lâmina deve ser malhada mil vezes para se tornar uma arma digna. Então eu malharei essa daqui dez mil vezes - não, um milhão de vezes! " />
+  <keys prop="Description" type="monster" key="dialog_1100043_title" value="Kit" />
+  <keys prop="Description" type="monster" key="dialog_1100043_text0" value="Você não confiaria sua vida a uma armadura velha, não é? Melhor você fazer sua armadura. E eu posso ajudar." />
+  <keys prop="Description" type="monster" key="dialog_1100044_title" value="Chef Francin" />
+  <keys prop="Description" type="monster" key="dialog_1100044_text0" value="Todos amam um bom cozinheiro. Você não quer ser amado?" />
+  <keys prop="Description" type="monster" key="dialog_1100045_title" value="Bernyn" />
+  <keys prop="Description" type="monster" key="dialog_1100045_text0" value="Não há como transformar chumbo em ouro. Acredite em mim. Eu sei..." />
+  <keys prop="Description" type="monster" key="dialog_1100046_title" value="Sadie" />
+  <keys prop="Description" type="monster" key="dialog_1100046_text0" value="Você está vendo aquele brilho lindo? Incrível!" />
+  <keys prop="Description" type="monster" key="dialog_1100047_title" value="Watson" />
+  <keys prop="Description" type="monster" key="dialog_1100047_text0" value="Há mais em um familiar do que a altura que ele pode voar. Com certeza conseguir voar alto é bom, mas também há habilidades únicas que só certos familiares possuem!" />
+  <keys prop="Description" type="monster" key="dialog_1100047_answer_2_text" value="Loja de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="dialog_1100048_title" value="Comandante John Viper" />
+  <keys prop="Description" type="monster" key="dialog_1100048_text0" value="Qualquer um de meus homens daria a vida pelo bem do reino. Espero que você possa dizer o mesmo." />
+  <keys prop="Description" type="monster" key="dialog_1100049_title" value="Piloto da Ordem Ônix" />
+  <keys prop="Description" type="monster" key="dialog_1100049_text0" value="Acredite ou não, meu familiar é um agente de alto escalão da Ordem Ônix." />
+  <keys prop="Description" type="monster" key="dialog_1100050_title" value="Quadro de Avisos das Fazendas Nubladas" />
+  <keys prop="Description" type="monster" key="dialog_1100050_text0" value="Cuidado: Se você vir algum Lebrini roubando da fazenda, não tente detê-lo. Denuncie-o e deixe as autoridades cuidarem disso!&lt;br&gt;&lt;br&gt;Famku'shan " />
+  <keys prop="Description" type="monster" key="dialog_1100051_title" value="Quadro de Avisos do Acampamento de Guarnição" />
+  <keys prop="Description" type="monster" key="dialog_1100051_text0" value="Se você pode ler essa mensagem, de agora em diante está autorizado pelos Cavaleiros do Dragão a ajudar na luta contra os Saqueadores Skan.&lt;br&gt;&lt;br&gt;- Comandante Bakir " />
+  <keys prop="Description" type="monster" key="dialog_1100052_title" value="Quadro de Avisos do Forte de Baellas" />
+  <keys prop="Description" type="monster" key="dialog_1100052_text0" value="A Ordem Ônix está observando. " />
+  <keys prop="Description" type="monster" key="dialog_1100053_title" value="Rondo" />
+  <keys prop="Description" type="monster" key="dialog_1100053_text0" value="A princesa logo será condutora do despertar do Zelnaris, o Deus da Ruína. Temos pouco tempo." />
+  <keys prop="Description" type="monster" key="dialog_3600133_title" value="Clemence" />
+  <keys prop="Description" type="monster" key="dialog_3600133_text0" value="Os inimigos espreitam em todos os cantos. O Mar de Hakanas não é exceção." />
+  <keys prop="Description" type="monster" key="dialog_3600133_answer_2_text" value="Pedra de Proteção Celeste" />
+  <keys prop="Description" type="monster" key="dialog_3600138_title" value="Clemence" />
+  <keys prop="Description" type="monster" key="dialog_3600138_text0" value="Achei que não estivesse acontecendo nada por aqui, e agora vejo o forte tomado pela Guarda Gélida..." />
+  <keys prop="Description" type="monster" key="dialog_3600011_title" value="Van Owen Lebrini do Pico de Attaius" />
+  <keys prop="Description" type="monster" key="dialog_3600011_text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="dialog_3600011_answer_0_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="dialog_3600012_title" value="Buck Lebrini da Ilha da Ventania" />
+  <keys prop="Description" type="monster" key="dialog_3600012_text0" value="Aproxime-se e veja meus produtos! Eu tenho... Como você pode ver... Oh não, parece que esqueci meus produtos. Seja bonzinho e encontre meu camarada Van Owen no Pico de Attaius. Tenho certeza que ele está cheio de itens luxuosos à venda." />
+  <keys prop="Description" type="monster" key="dialog_3600012_answer_2_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_9015690_Title" value="Origem do Titã" />
+  <keys prop="Description" type="monster" key="Dialog_9015690_Text0" value="Dizem que os titãs eram gigantes normais da Tribo Tukan. Então o Zelnaris, o Deus da Ruína, os transformou em monstros tão grandes quanto uma montanha e sedentos de destruição. " />
+  <keys prop="Description" type="monster" key="Dialog_9015690_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Se não evitarmos a volta do Zelnaris, o Deus da Ruína, ele fará mais. Ouça o que eu digo." />
+  <keys prop="Description" type="monster" key="Dialog_9015700_Title" value="Attaius" />
+  <keys prop="Description" type="monster" key="Dialog_9015700_Text0" value="Attaius é um dos titãs originais. O Zelnaris, o Deus da Ruína, os usou como armas na guerra contra os Criadores. Claro que ele nunca ganharia do poder divino de nossos deuses, e seus titãs foram encarcerados para sempre em prisões mágicas de pedra." />
+  <keys prop="Description" type="monster" key="Dialog_9015700_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Mas parece que Attaius encontrou uma maneira de escapar da prisão. Eu não sei bem como ele está se esquivando de nossa proteção, mas suspeito que ele esteja esperando a vez dele enquanto recupera a própria força. Mais cedo ou mais tarde teremos que acabar com ele de uma vez por todas." />
+  <keys prop="Description" type="monster" key="Dialog_9015710_Title" value="Pico de Attaius" />
+  <keys prop="Description" type="monster" key="Dialog_9015710_Text0" value="Estou recebendo relatórios contraditórios de nossos patrulheiros do Pico de Attaius. Nenhum deles encontrou Attaius. Ainda não consigo acreditar que eles falharam em rastrear uma criatura tão grande quanto ele..." />
+  <keys prop="Description" type="monster" key="Dialog_9015710_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Um relatório se destacou. Clemence acredita que Attaius esteja usando a magia da prisão para se esconder. Se pudermos acabar com a magia no Pico de Attaius, ele terá que aparecer." />
+  <keys prop="Description" type="monster" key="Dialog_9015720_Title" value="Pedra de Proteção Celeste" />
+  <keys prop="Description" type="monster" key="Dialog_9015720_Text0" value="As pedras ao leste, oeste e norte daqui canalizam mana ambiente do ar ao redor delas na tela mágica de Attaius. " />
+  <keys prop="Description" type="monster" key="Dialog_9015720_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Nunca vi um sistema de mana tão complexo quanto este. Se o interrompermos, podemos ter uma chance contra Attaius." />
+  <keys prop="Description" type="monster" key="Dialog_9015721_Title" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015721_Text0" value="Familiares podem voar muito alto. Se você não sabe o limite de seu familiar, você pode acabar caindo." />
+  <keys prop="Description" type="monster" key="Dialog_9015722_Title" value="Familiares Voadores do Mar" />
+  <keys prop="Description" type="monster" key="Dialog_9015722_Text0" value="[Familiares Voadores Comuns]&lt;br&gt;&lt;br&gt;Skanner 350m&lt;br&gt;Coruja Chifruda 380m&lt;br&gt;Águia 450m&lt;br&gt;Falcão Coral 450m&lt;br&gt;Fênix Rabo Cinzento 500m&lt;br&gt;Berrador 550m" />
+  <keys prop="Description" type="monster" key="Dialog_9015722_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares Voadores de Elite]&lt;br&gt;&lt;br&gt;Rabo Cinzento Albino 600m&lt;br&gt;Yvoke 650m&lt;br&gt;Fênix Asa Brilhante 650m&lt;br&gt;Lynic 700m&lt;br&gt;Bêntico Dourado 800m" />
+  <keys prop="Description" type="monster" key="Dialog_9015723_Title" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015723_Text0" value="Cada familiar possui sua altitude máxima. Se você precisa ir a algum lugar que seu familiar não alcança, você precisa domar um familiar que pode voar mais alto." />
+  <keys prop="Description" type="monster" key="Dialog_9015724_Title" value="Familiares Voadores do Mar" />
+  <keys prop="Description" type="monster" key="Dialog_9015724_Text0" value="[Familiares Voadores Comuns]&lt;br&gt;&lt;br&gt;Skanner 350m&lt;br&gt;Coruja Chifruda 380m&lt;br&gt;Águia 450m&lt;br&gt;Falcão Coral 450m&lt;br&gt;Fênix Rabo Cinzento 500m&lt;br&gt;Berrador 550m" />
+  <keys prop="Description" type="monster" key="Dialog_9015724_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares Voadores de Elite]&lt;br&gt;&lt;br&gt;Rabo Cinzento Albino 600m&lt;br&gt;Yvoke 650m&lt;br&gt;Fênix Asa Brilhante 650m&lt;br&gt;Lynic 700m&lt;br&gt;Bêntico Dourado 800m" />
+  <keys prop="Description" type="monster" key="Dialog_9015753_Title" value="Perigos do Mar" />
+  <keys prop="Description" type="monster" key="Dialog_9015753_Text0" value="Essa deve ser sua primeira vez lidando com os Saqueadores Skan. Eles são assassinos que operam vindo de Utran, uma ilha flutuando sobre o mar. O chefe deles, Baramos, colocou todas as tripulações menores em forma até que caíram sob sua flâmula." />
+  <keys prop="Description" type="monster" key="Dialog_9015753_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Alguns pequenos ataques aqui e ali nunca foram um problema. Mas agora que eles se juntaram, bem, é diferente." />
+  <keys prop="Description" type="monster" key="Dialog_9015754_Title" value="Gênio de uma Geração" />
+  <keys prop="Description" type="monster" key="Dialog_9015754_Text0" value="O que vem à mente quando você pensa nos Crokhoon? Arte, claro! Seja um escudo robusto ou uma arcada elegante, tudo que fazemos é arte. E entre toda essa arte, a minha é a melhor. Pedras se transformam em obra-prima sob minhas patas hábeis." />
+  <keys prop="Description" type="monster" key="Dialog_9015754_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Alguns broncos não reconheceriam arte mesmo se ela mordesse seus traseiros. Mas de quem é a culpa? Do público? Ou do artista? Na verdade, estou à frente do meu tempo." />
+  <keys prop="Description" type="monster" key="Dialog_9015756_Title" value="Conselho de Tortus" />
+  <keys prop="Description" type="monster" key="Dialog_9015756_Text0" value="Os saqueadores são um incômodo. Nada mais. Foque sua atenção na princesa. Se alguém se intrometer, esmague-os rapidamente e siga em frente." />
+  <keys prop="Description" type="monster" key="Dialog_9015757_Title" value="Forças Infernais" />
+  <keys prop="Description" type="monster" key="Dialog_9015757_Text0" value="Um mau agouro vem do mar. O poder da ruína. Ele se espalha pelo oceano através do vento. O titã está despertando? Não temos tempo para enfrentar outro inimigo. A princesa é nossa prioridade." />
+  <keys prop="Description" type="monster" key="Dialog_9015740_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015740_Text0" value="[Familiares Voadores Comuns]&lt;br&gt;&lt;br&gt;Coruja Chifruda 350m&lt;br&gt;Skanner 350m" />
+  <keys prop="Description" type="monster" key="Dialog_9015741_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015741_Text0" value="[Familiares Voadores Comuns]&lt;br&gt;&lt;br&gt;Falcão Coral 450m&lt;br&gt;Fênix Asa Brilhante 550m&lt;br&gt;Berrador 550m" />
+  <keys prop="Description" type="monster" key="Dialog_9015741_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares Voadores de Elite]&lt;br&gt;&lt;br&gt;Yvoke 550m&lt;br&gt;Lynic 700m" />
+  <keys prop="Description" type="monster" key="Dialog_9015755_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015755_Text0" value="[Familiares Voadores Comuns]&lt;br&gt;&lt;br&gt;Águia 450m&lt;br&gt;Planador de Akrat 450m&lt;br&gt;Fênix Rabo Cinzento 500m" />
+  <keys prop="Description" type="monster" key="Dialog_9015755_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares Voadores de Elite]&lt;br&gt;&lt;br&gt;Rabo Cinzento Albino 550m&lt;br&gt;Bêntico Dourado 800m" />
+  <keys prop="Description" type="monster" key="Dialog_9015762_Title" value="Utran" />
+  <keys prop="Description" type="monster" key="Dialog_9015762_Text0" value="Utran flutua ao noroeste do Forte de Baellas. Os Saqueadores Skan atacam lá de cima, tão alto que muitos familiares não conseguem sequer alcançá-los. Felizmente há um bando de Berradores próximos do Forte Baellas. Se você domar um deles, provavelmente poderia voar alto o bastante para chegar em Utran." />
+  <keys prop="Description" type="monster" key="Dialog_1430010_Title" value="Vekanto &lt;Masmorra de Tranua&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1430010_Text0" value="Ah, você é aquele cavaleiro famoso. Tenho uma missão para você. Mal posso esperar para ver você em ação! Você até tem reputação com a Ordem Ônix." />
+  <keys prop="Description" type="monster" key="Dialog_9015900_Title" value="Mariana (Mar de Hakanas)" />
+  <keys prop="Description" type="monster" key="Dialog_9015900_Text0" value="Oi, é um prazer te conhecer. Sou Mariana, a pescadora! A pesca é amor, a pesca é vida. Quer tentar? Posso te ensinar!" />
+  <keys prop="Description" type="monster" key="Dialog_9015900_answer_2_text" value="Como eu pesco?" />
+  <keys prop="Description" type="monster" key="Dialog_9015900_answer_3_text" value="Como eu pesco?" />
+  <keys prop="Description" type="monster" key="Dialog_9015900_answer_1_text" value="How do I fish?" />
+  <keys prop="Description" type="monster" key="Dialog_9015900_answer_0_text" value="Fish Exchange Shop" />
+  <keys prop="Description" type="monster" key="Dialog_9016811_Title" value="Rael (Fishing Apprentice)" />
+  <keys prop="Description" type="monster" key="Dialog_9016811_Text0" value="Hello, nice to meet you.&lt;br&gt;My name is Rael and I'm an apprentice at fishing!&lt;br&gt;&lt;br&gt;I have to go back soon, however, I want fun fishing with you even though it's only for a short period of time.&lt;br&gt; Would you like to try fishing with me? I'll teach you to make a homemade fish bait!" />
+  <keys prop="Description" type="monster" key="Dialog_9031699_Title" value="Yunggir &lt;Comerciante da Base do Bosque de Kell&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031699_Text0" value="Eu vendo itens que apenas os Cavaleiros da Guilda podem obter participando da Invasão da Manastone. &lt;br&gt;&lt;br&gt; Não estou sempre aqui, então certifique-se de dar uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_9031699_answer_0_text" value="Bens Gerais" />
+  <keys prop="Description" type="monster" key="Dialog_9031700_Title" value="Kyusan &lt;Comerciante da Base da Encosta&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031700_Text0" value="Eu vendo itens que apenas os Cavaleiros da Guilda podem obter participando da Invasão da Manastone. &lt;br&gt;&lt;br&gt; Não estou sempre aqui, então certifique-se de dar uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_9031700_answer_0_text" value="Bens Gerais" />
+  <keys prop="Description" type="monster" key="Dialog_9031701_Title" value="Henjins &lt;Comerciante da Base de Zadaran&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031701_Text0" value="Eu vendo itens que apenas os Cavaleiros da Guilda podem obter participando da Invasão de Manastone. &lt;br&gt;&lt;br&gt; Não estou sempre aqui, então certifique-se de dar uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_9031701_answer_0_text" value="Bens Gerais" />
+  <keys prop="Description" type="monster" key="Dialog_9031702_Title" value="Henzerk &lt;Comerciante da Base dos Bosques Dourados&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031702_Text0" value="Eu vendo itens que apenas os Cavaleiros da Guilda podem obter participando da Invasão da Manastone. &lt;br&gt;&lt;br&gt; Não estou sempre aqui, então certifique-se de dar uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_9031702_answer_0_text" value="Bens Gerais" />
+  <keys prop="Description" type="monster" key="Dialog_9031703_Title" value="Minus &lt;Comerciante da Base Sansupus&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031703_Text0" value="Eu vendo itens que apenas os Cavaleiros da Guilda podem obter participando da Invasão da Manastone. &lt;br&gt;&lt;br&gt; Não estou sempre aqui, então certifique-se de dar uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_9031703_answer_0_text" value="Bens Gerais" />
+  <keys prop="Description" type="monster" key="Dialog_9031707_Title" value="Foothills Mine Reward Board" />
+  <keys prop="Description" type="monster" key="Dialog_9031707_Text0" value="&lt;font color=&quot;#d1330c&quot;&gt; [Outside Access] &lt;/font&gt;&lt;br&gt; A mine that only Guilds that have won the base can enter.&lt;br&gt; Check the list below for the rewards you can get from the vein." />
+  <keys prop="Description" type="monster" key="Dialog_9031707_answer_0_text" value="Shining Adamantium Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031707_answer_1_text" value="High-Purity Adamantium Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031707_answer_2_text" value="Adamantium Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031709_Title" value="Shining Adamantium Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031709_Text0" value="[Minerals]&lt;br&gt; Frost Alloy&lt;br&gt; Void Alloy&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Ancient Carapace&lt;br&gt; Nameless Person's Heart&lt;br&gt; Yatuman's Crystal&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031709_Text0_attach_0" value="&lt;br&gt; &lt;br&gt; [Advanced Rewards]&lt;br&gt; Salant's Magic Shard &lt;br&gt; Zelnari's Soul Stone&lt;br&gt; Level 65 Legendary Transcending Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031710_Title" value="High-Purity Adamantium Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031710_Text0" value="[Mineral]&lt;br&gt; Void Alloy&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Copper Ore&lt;br&gt; Iron Ore&lt;br&gt; Mithril Ore&lt;br&gt; Turailum Ore&lt;br&gt; Adamantium Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031710_Text0_attach_0" value="&lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031711_Title" value="Adamantium Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031711_Text0" value="[Mineral]&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Copper Ore&lt;br&gt; Advanced Iron Ore&lt;br&gt; Advanced Mithril Ore&lt;br&gt; Advanced Turalium Ore&lt;br&gt;Advanced Adamantium Ore&lt;br&gt; Copper ore&lt;br&gt; Iron ore&lt;br&gt; Mithril Ore&lt;br&gt; Turalium Ore&lt;br&gt; Adamantium Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031708_Title" value="Zadaran Mine Reward Board" />
+  <keys prop="Description" type="monster" key="Dialog_9031708_Text0" value="&lt;font color=&quot;#d1330c&quot;&gt; [Outside Access] &lt;/font&gt;&lt;br&gt; A mine that only Guilds that have won the base can enter.&lt;br&gt; Check the list below for the rewards you can get from the vein." />
+  <keys prop="Description" type="monster" key="Dialog_9031708_answer_0_text" value="Shining Emerald Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031708_answer_1_text" value="High-Purity Emerald Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031708_answer_2_text" value="Emerald Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031712_Title" value="Shining Emerald Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031712_Text0" value="[Mineral]&lt;br&gt; Jewelery Powder&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald&lt;br&gt; Silver Ore&lt;br&gt; Gold ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore&lt;br&gt; &lt;br&gt; [Mark / Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031712_Text0_attach_0" value="&lt;br&gt; &lt;br&gt; [Advanced Rewards]&lt;br&gt; Salant's Magic Shard &lt;br&gt; Zelnari's Soul Stone&lt;br&gt; Level 65 Legendary Transcending Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031713_Title" value="High-Purity Emerald Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031713_Text0" value="[Mineral]&lt;br&gt; Jewelery Powder&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald&lt;br&gt; Silver Ore&lt;br&gt; Gold ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore&lt;br&gt; &lt;br&gt; [Mark / Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031714_Title" value="Emerald Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031714_Text0" value="[Mineral]&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald&lt;br&gt; Silver Ore&lt;br&gt; Gold ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031706_Title" value="Kellwoods Mine Reward Board" />
+  <keys prop="Description" type="monster" key="Dialog_9031706_Text0" value="&lt;font color=&quot;#d1330c&quot;&gt; [Outside Access] &lt;/font&gt;&lt;br&gt; A mine that only Guilds that have won the base can enter.&lt;br&gt; Check the list below for the rewards you can get from the vein." />
+  <keys prop="Description" type="monster" key="Dialog_9031706_answer_0_text" value="Shining Felocite Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031706_answer_1_text" value="High-Purity Felocite Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031706_answer_2_text" value="Felocite Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031715_Title" value="Shining Felocite Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031715_Text0" value="[Minerals]&lt;br&gt; Frost Alloy&lt;br&gt; Void Alloy&lt;br&gt; Jewelery Powder&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald &lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031715_Text0_attach_0" value="&lt;br&gt; Ancient Carapace&lt;br&gt; Nameless Person's Heart&lt;br&gt; Yatuman's Crystal&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone &lt;br&gt; &lt;br&gt; [Advanced Rewards]&lt;br&gt; Salant's Magic Shard &lt;br&gt; Zelnari's Soul Stone&lt;br&gt; Level 65 Legendary Transcending Stone&lt;br&gt; Mythical Only Tempering Stone&lt;br&gt; Mythical Jewelry Tempering Stone&lt;br&gt;Shining 50% Heroic Tempering Stone&lt;br&gt;Shining 50% Elite Tempering Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031716_Title" value="High-Purity Felocite Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031716_Text0" value="[Mineral]&lt;br&gt; Void Alloy&lt;br&gt; Jewelery Powder&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald &lt;br&gt; Copper Ore&lt;br&gt; Iron Ore&lt;br&gt; Mithril Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031716_Text0_attach_0" value="&lt;br&gt; Turalium Ore&lt;br&gt; Adamantium Ore&lt;br&gt; Silver Ore&lt;br&gt; Gold Ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore&lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031717_Title" value="Felocite Vein (Knights)" />
+  <keys prop="Description" type="monster" key="Dialog_9031717_Text0" value="[Mineral] &lt;br&gt; Advanced Adamantium Alloy &lt;br&gt; Advanced Copper Alloy &lt;br&gt; Advanced Iron Alloy &lt;br&gt; Advanced Mithril Alloy &lt;br&gt; Advanced Turalium Alloy &lt;br&gt; Tempered Adamantium Ingot &lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder &lt;br&gt; Advanced Amethyst &lt;br&gt; Advanced Sapphire &lt;br&gt; Advanced Emerald" />
+  <keys prop="Description" type="monster" key="Dialog_9031717_Text0_attach_0" value="&lt;br&gt; Copper Ore&lt;br&gt; Iron Ore&lt;br&gt; Mithril Ore &lt;br&gt; Turalium Ore&lt;br&gt; Adamantium Ore&lt;br&gt; Silver Ore&lt;br&gt; Gold Ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031706_answer_3_text" value="Shining Felocite Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031706_answer_4_text" value="High-Purity Felocite Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031706_answer_5_text" value="Felocite Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031718_Title" value="Shining Felocite Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031718_Text0" value="[Mineral]&lt;br&gt; Void Alloy&lt;br&gt; Jewelery Powder&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald &lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Ancient Carapace&lt;br&gt; Nameless Person's Heart&lt;br&gt; &lt;br&gt; [Advanced Rewards]&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone &lt;br&gt;Shining 30% Heroic Tempering Stone&lt;br&gt;Shining 30% Elite Tempering Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031718_Text0_attach_0" value="&lt;br&gt; Yatuman's Crystal&lt;br&gt; &lt;br&gt; [Advanced Rewards]&lt;br&gt;Shining 30% Heroic Tempering Stone&lt;br&gt;Shining 30% Elite Tempering Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031719_Title" value="High-Purity Felocite Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031719_Text0" value="[Mineral] &lt;br&gt; Advanced Adamantium Alloy &lt;br&gt; Advanced Copper Alloy &lt;br&gt; Advanced Iron Alloy &lt;br&gt; Advanced Mithril Alloy &lt;br&gt; Advanced Turalium Alloy &lt;br&gt; Tempered Adamantium Ingot &lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder &lt;br&gt; Advanced Amethyst &lt;br&gt; Advanced Sapphire &lt;br&gt; Advanced Emerald&lt;br&gt; Copper Ore&lt;br&gt; Iron Ore&lt;br&gt; Mithril Ore &lt;br&gt; Turalium Ore&lt;br&gt; Adamantium Ore&lt;br&gt; Silver Ore&lt;br&gt; Gold Ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031719_Text0_attach_0" value="&lt;br&gt; &lt;br&gt; [Mark / Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031720_Title" value="Felocite Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031720_Text0" value="[Mineral] &lt;br&gt; Advanced Adamantium Alloy &lt;br&gt; Advanced Copper Alloy &lt;br&gt; Advanced Iron Alloy &lt;br&gt; Advanced Mithril Alloy &lt;br&gt; Advanced Turalium Alloy &lt;br&gt; Tempered Adamantium Ingot &lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder &lt;br&gt; Advanced Amethyst &lt;br&gt; Advanced Sapphire &lt;br&gt; Advanced Emerald&lt;br&gt; Copper Ore&lt;br&gt; Iron Ore&lt;br&gt; Mithril Ore &lt;br&gt; Turalium Ore&lt;br&gt; Adamantium Ore&lt;br&gt; Silver Ore&lt;br&gt; Gold Ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031708_answer_3_text" value="Shining Emerald Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031708_answer_4_text" value="High-Purity Emerald Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031708_answer_5_text" value="Emerald Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031721_Title" value="Shining Emerald Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031721_Text0" value="[Mineral]&lt;br&gt; Jewelery Powder&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald&lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Ancient Carapace&lt;br&gt; Nameless Person's Heart&lt;br&gt; Yatuman's Crystal&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031722_Title" value="High-Purity Emerald Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031722_Text0" value="[Mineral]&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald&lt;br&gt; Silver Ore&lt;br&gt; Gold ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore&lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031723_Title" value="Emerald Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031723_Text0" value="[Mineral]&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Advanced Silver Powder &lt;br&gt; Advanced Gold Powder&lt;br&gt; Advanced Amethyst&lt;br&gt; Advanced Sapphire&lt;br&gt; Advanced Emerald&lt;br&gt; Silver Ore&lt;br&gt; Gold ore&lt;br&gt; Amethyst Ore&lt;br&gt; Sapphire Ore&lt;br&gt; Emerald Ore" />
+  <keys prop="Description" type="monster" key="Dialog_9031707_answer_3_text" value="Shining Adamantium Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031707_answer_4_text" value="High-Purity Adamantium Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031707_answer_5_text" value="Adamantium Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031724_Title" value="Shining Adamantium Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031724_Text0" value="[Mineral]&lt;br&gt; Void Alloy&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; &lt;br&gt; [Mark/ Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Ancient Carapace&lt;br&gt; Nameless Person's Heart&lt;br&gt; Yatuman's Crystal&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031725_Title" value="High-Purity Adamantium Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031725_Text0" value="[Mineral]&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Copper Ore&lt;br&gt; Iron ore&lt;br&gt; Mithril Ore&lt;br&gt; Turailum Ore&lt;br&gt; Adamantium Ore &lt;br&gt; &lt;br&gt; [Mark / Orb Materials]&lt;br&gt; Manastone of Destruction&lt;br&gt; Faint Sun Stone&lt;br&gt; Shining Rabbini Crystal&lt;br&gt; Wyrm Soul Stone" />
+  <keys prop="Description" type="monster" key="Dialog_9031726_Title" value="Adamantium Vein (Guild Member)" />
+  <keys prop="Description" type="monster" key="Dialog_9031726_Text0" value="[Mineral]&lt;br&gt; Advanced Adamantium Alloy&lt;br&gt; Advanced Copper Alloy&lt;br&gt; Advanced Iron Alloy&lt;br&gt; Advanced Mithril Alloy&lt;br&gt; Advanced Turalium Alloy&lt;br&gt; Tempered Adamantium Ingot&lt;br&gt; Copper Ore&lt;br&gt; Iron ore&lt;br&gt; Mithril Ore&lt;br&gt; Turailum Ore&lt;br&gt; Adamantium Ore" />
+</files>

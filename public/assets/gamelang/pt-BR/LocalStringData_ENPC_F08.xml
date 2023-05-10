@@ -12,7 +12,7 @@
   <keys prop="Description" type="monster" key="E_f08_Bugsworm3_01Detail" value="Legião do Coração Rubro" />
   <keys prop="Name" type="monster" key="E_f08_ExceBet_01" value="Milícia da Raide de Insetos" />
   <keys prop="Description" type="monster" key="E_f08_ExceBet_01Detail" value="Legião do Coração Rubro" />
-  <keys prop="Name" type="monster" key="E_f08_BugBet_01" value="Esquadrão de Sentinelas da Raide de Insetos" />
+  <keys prop="Name" type="monster" key="E_f08_BugBet_01" value="Sentinelas da Raide de Insetos" />
   <keys prop="Description" type="monster" key="E_f08_BugBet_01Detail" value="Legião do Coração Rubro" />
   <keys prop="Name" type="monster" key="E_f08_ValleyCrab_01" value="Caranguejo de Escudo do Vale" />
   <keys prop="Description" type="monster" key="E_f08_ValleyCrab_01Detail" value="" />
@@ -52,7 +52,7 @@
   <keys prop="Description" type="monster" key="E_f08_BugBet_02Detail" value="Legião do Coração Rubro" />
   <keys prop="Name" type="monster" key="E_f08_IlikWork_01" value="Milícia Bruta de Exid" />
   <keys prop="Description" type="monster" key="E_f08_IlikWork_01Detail" value="" />
-  <keys prop="Name" type="monster" key="E_f08_IlikMenti_02" value="Fatiador Chifrelongo de Viridiana" />
+  <keys prop="Name" type="monster" key="E_f08_IlikMenti_02" value="Fatiador Chifrelongo" />
   <keys prop="Description" type="monster" key="E_f08_IlikMenti_02Detail" value="" />
   <keys prop="Name" type="monster" key="E_f08_ExceFly_01" value="Zangão Domado" />
   <keys prop="Description" type="monster" key="E_f08_ExceFly_01Detail" value="" />
@@ -108,9 +108,9 @@
   <keys prop="Description" type="monster" key="E_f08_Bugmanti_02Detail" value="Legião do Coração Azul" />
   <keys prop="Name" type="monster" key="E_f08_landspid_02" value="Aranha da Floresta de Aklan" />
   <keys prop="Description" type="monster" key="E_f08_landspid_02Detail" value="" />
-  <keys prop="Name" type="monster" key="E_f08_Bugworker_01" value="Trabalhador da Floresta de Aklan" />
+  <keys prop="Name" type="monster" key="E_f08_Bugworker_01" value="Trabalhador da Floresta Aklan" />
   <keys prop="Description" type="monster" key="E_f08_Bugworker_01Detail" value="Legião do Coração Azul" />
-  <keys prop="Name" type="monster" key="E_f08_Bugworker_02" value="Patrulheiro da Floresta de Aklan" />
+  <keys prop="Name" type="monster" key="E_f08_Bugworker_02" value="Patrulheiro da Floresta Aklan" />
   <keys prop="Description" type="monster" key="E_f08_Bugworker_02Detail" value="Legião do Coração Azul" />
   <keys prop="Name" type="monster" key="E_f08_arcplant_01" value="Hexaflora da Floresta de Aklan" />
   <keys prop="Description" type="monster" key="E_f08_arcplant_01Detail" value="" />
@@ -124,9 +124,9 @@
   <keys prop="Description" type="monster" key="E_f08_ArcSpir_01Detail" value="" />
   <keys prop="Name" type="monster" key="E_f08_ArcSpir_02" value="Espírito da Floresta Aklan" />
   <keys prop="Description" type="monster" key="E_f08_ArcSpir_02Detail" value="" />
-  <keys prop="Name" type="monster" key="E_f08_ArcSqui_01" value="Cinzas de Madeira da Floresta de Aklan" />
+  <keys prop="Name" type="monster" key="E_f08_ArcSqui_01" value="Cinzenta da Floresta de Aklan" />
   <keys prop="Description" type="monster" key="E_f08_ArcSqui_01Detail" value="" />
-  <keys prop="Name" type="monster" key="E_f08_ArcSqui_02" value="Cinzas de Madeira da Floresta de Aklan" />
+  <keys prop="Name" type="monster" key="E_f08_ArcSqui_02" value="Cinzenta da Floresta de Aklan" />
   <keys prop="Description" type="monster" key="E_f08_ArcSqui_02Detail" value="" />
   <keys prop="Name" type="monster" key="E_f08_giantArc_01" value="Cacto Varredor" />
   <keys prop="Description" type="monster" key="E_f08_giantArc_01Detail" value="" />
@@ -548,7 +548,7 @@
   <keys prop="Description" type="monster" key="E_f08_SpoFly_02Detail" value="" />
   <keys prop="Name" type="monster" key="E_f08_SpoFly_03" value="Zangão Selvagem de Turimnan" />
   <keys prop="Description" type="monster" key="E_f08_SpoFly_03Detail" value="" />
-  <keys prop="Name" type="monster" key="E_D07_ExceBet_02" value="Fatiador Chifrecervídeo do Predador" />
+  <keys prop="Name" type="monster" key="E_D07_ExceBet_02" value="Fatiador Chifrecervídeo" />
   <keys prop="Description" type="monster" key="E_D07_ExceBet_02Detail" value="" />
   <keys prop="Name" type="monster" key="E_D07_ExceBet_03" value="Artilheiro Chifrecervídeo" />
   <keys prop="Description" type="monster" key="E_D07_ExceBet_03Detail" value="" />
@@ -558,7 +558,7 @@
   <keys prop="Description" type="monster" key="E_f08_BugBet2_05Detail" value="" />
   <keys prop="Name" type="monster" key="E_f08_BugBet2_06" value="Moqza da Vanguarda" />
   <keys prop="Description" type="monster" key="E_f08_BugBet2_06Detail" value="" />
-  <keys prop="Name" type="monster" key="E_f08_BugStag2_03" value="Oficial de Inteligência de Ataruk" />
+  <keys prop="Name" type="monster" key="E_f08_BugStag2_03" value="Oficial Ataruk" />
   <keys prop="Description" type="monster" key="E_f08_BugStag2_03Detail" value="" />
   <keys prop="Name" type="monster" key="E_f08_BugStag2_04" value="Delegado Bashar" />
   <keys prop="Description" type="monster" key="E_f08_BugStag2_04Detail" value="" />

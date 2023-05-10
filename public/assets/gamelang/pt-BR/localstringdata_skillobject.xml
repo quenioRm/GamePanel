@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Name" type="monster" key="SO_TEST_1_0001" value="Zona" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0002" value="Sincelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0003" value="Mastigação do Familiar" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0004" value="Cristal de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0005" value="Invocar Golem2 Usar Localização" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0006" value="Erupção de Magma" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0007" value="Região de Fogo (Rex)" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0008" value="Rex" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0009" value="Buraco Negro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0010" value="Tiro Explosivo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0011" value="Investida de Javali" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0012" value="Rocha do Capataz" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0013" value="Invocação do Soldado Ryno" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0014" value="Corte de Terra Flamejante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0015" value="Sinthan Quebrando Parede" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0016" value="Ponto de Fuga de Sinthan" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0017" value="Anúncio de Destruição da Pedra de Proteção" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0018" value="Coluna de Sangue" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0019" value="Coluna de Sangue" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0020" value="Invocar Trigger (LeBrand, o Mordomo)" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0021" value="Invocar Trigger (Chef Gustav)" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0022" value="Bomba-relógio" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0023" value="Grande Cabeçada de Pedra" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0024" value="Buraco Negro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0025" value="Zona de Afinidade de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0026" value="Makontin" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0027" value="Zona de Afinidade de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0028" value="Zona de Afinidade de Luz" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0029" value="Zona de Afinidade Sombria" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0030" value="Kurunin" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0031" value="Chuva de Raios" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0032" value="Chuva de Raios" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0033" value="Tiro de Tempestade" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0034" value="Tiro de Tempestade" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0035" value="Keron" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0036" value="Chuva de Raios" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0037" value="Zona de Ácido" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0038" value="Geada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0039" value="Terreno Sombrio" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0040" value="Artilharia das Sombras" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0041" value="Penalidade Leve" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0042" value="Maldição do Ceifeiro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0043" value="Lança do Julgamento" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0044" value="Membrana Protetora" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0045" value="Barreira de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0046" value="Presa de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0047" value="Totem de Água" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0048" value="Zona de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0049" value="Transformação do Apóstolo Sombrio" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0050" value="Penalidade de Luz Link" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0051" value="Pilar de Fogo Link" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0052" value="Meteoro Infernal Link" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0053" value="Teletransporte Link" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0054" value="Trovoada Link" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0055" value="Neblina Congelante Link" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0056" value="Chuva de Granizo Link1" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0057" value="Chuva de Granizo Link2" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0058" value="Invocação do Soldado Ryno" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0059" value="Anúncio de Destruição da Pedra de Proteção" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0080" value="Redemoinho Sombrio" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0105" value="Trilha Congelada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0174" value="Frio Condensado" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0175" value="Frio Condensado" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0176" value="Corte de Terra" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0195" value="Descarga de Energia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0065" value="Descarga de Energia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0196" value="Aura Gélida" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0197" value="Explosão de Sangue" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0198" value="Terremoto de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0199" value="Geada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0200" value="Pilar de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0201" value="Pilar de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0202" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0203" value="Tempestade de Areia Violenta" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0204" value="Corte do Vácuo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0205" value="Meteoro do Julgamento" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0206" value="Pilar de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0207" value="Pilar de Ferro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0208" value="Flecha de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0209" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0210" value="Meteoro do Julgamento" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0211" value="Pilar de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0212" value="Julgamento Celestial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0213" value="Terremoto" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0214" value="Cortina de Fumaça" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0215" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0216" value="Léxico Primordial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0217" value="Pedra de Controle" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0218" value="Pedra de Controle" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0219" value="Pedra de Controle" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0220" value="Pedra de Controle" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0221" value="Névoa de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0222" value="Pilar de Fogo Dançante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0223" value="Luz Flagelante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0224" value="Escuridão Profunda" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0225" value="Clarão Radiante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0226" value="Tundra" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0227" value="Tundra" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0228" value="Pilar de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0229" value="Sombra da Morte" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0230" value="Escudo Justiceiro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0231" value="Terra Contaminada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0232" value="Armadilha de Bil'rahn" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0233" value="Pilar de Ferro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0234" value="Flecha de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0235" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0236" value="Pilar de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0237" value="Pilar de Ferro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0238" value="Flecha de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0239" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0240" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0241" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0242" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0243" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0244" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0245" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0246" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0247" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0248" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0249" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0250" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0251" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0252" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0253" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0254" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0255" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0256" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0257" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0258" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0259" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0260" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0261" value="Envenenado" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0262" value="Terra Contaminada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0263" value="Terra Contaminada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0264" value="Sombra da Morte" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0265" value="Sombra da Morte" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0266" value="Julgamento Celestial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0267" value="Julgamento Celestial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0268" value="Julgamento Celestial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0269" value="Julgamento Celestial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0270" value="Julgamento Celestial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0271" value="Julgamento Celestial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0272" value="Julgamento Celestial" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0082" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0083" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0084" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0085" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0086" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0087" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0088" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0089" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0090" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0091" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0092" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0093" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0094" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0095" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0096" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0097" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0098" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0099" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0100" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0101" value="Zona de Recuperação" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0102" value="Zona de Recuperação" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0276" value="Mudança de Percepção" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0277" value="Portão do Inferno" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0279" value="Braço de Pedra" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0280" value="Mãos de Pedra" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0281" value="Pedra de Mana" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0282" value="Grande Erupção" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0283" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0284" value="Maça de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0285" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0286" value="Descarga de Energia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0287" value="Barreira de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0288" value="Pedra de Ataque" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0289" value="Pedra de Defesa" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0290" value="Pedra de Mana da Velocidade" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0291" value="Vento de Lâmina Congelada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0294" value="Grande Raio" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0295" value="Câmara Sacrificial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0296" value="Bomba de Luz" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0297" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0298" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0299" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0300" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0301" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0302" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0303" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0304" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0305" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0306" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0307" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0308" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0309" value="Relâmpago Caótico" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0318" value="Onda de Alegria" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0319" value="Pilar de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0320" value="Pilar de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0314" value="Pilar de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0315" value="Pilar de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0316" value="Onda de Alegria" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0317" value="Yorminsul_Chamas Caóticas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0180" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0181" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0182" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0183" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0184" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0185" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0186" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0187" value="Trovoada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0188" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0189" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0190" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0191" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0192" value="Névoa de Cinzas" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0152" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0153" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0154" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0155" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0156" value="Chuva de Granizo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0157" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0158" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0159" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0160" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0161" value="Chuva de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0162" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0163" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0164" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0165" value="Meteoro Glacial" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0166" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0167" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0168" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0169" value="Meteoro Infernal" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0321" value="Areia do Inferno" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0322" value="Areia do Inferno" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0323" value="Névoa de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0324" value="Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0325" value="Tempestade de Areia Furiosa" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0326" value="Corte do Vácuo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0327" value="Terremoto" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0328" value="Pilar de Fogo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0329" value="Explosão de Sangue" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0330" value="Luz Flagelante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0331" value="Portão do Inferno" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0332" value="Geada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0333" value="Corte de Terra" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0334" value="Terremoto de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0335" value="Pilar de Gelo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0336" value="Relâmpago Caótico" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0337" value="Frio Condensado" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0338" value="Aura Gélida" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0339" value="Frio Condensado" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0340" value="Mudança de Percepção" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0341" value="Vento Congelante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0342" value="Trilha Congelada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0343" value="Caminho Congelado" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0344" value="Pilar do Vazio" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0345" value="Arrasar" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0346" value="Armadilha Silenciosa" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0347" value="Uma Surpresa Repentina" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0348" value="Ataque Aéreo de Corvo" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0349" value="Contenção Sombria" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0366" value="Nazroth" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0367" value="Nazroth" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0368" value="McTimon, o Touro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0369" value="McTimon, o Touro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0370" value="Fornalha Central" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0371" value="Fornalha Central" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0372" value="McTimon, o Touro" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0377" value="Golpe de Lobo Demônio" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0378" value="Destruição Ressonante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0379" value="Destruição Ressonante" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0380" value="Zona Selada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0381" value="Julgamento da Espada" />
+  <keys prop="Name" type="monster" key="SO_TEST_1_0382" value="Área Contaminada" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0383" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0384" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0385" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0386" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0387" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0388" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0389" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0390" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0391" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0392" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0393" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0394" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0395" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0396" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0397" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0398" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0399" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0400" value="Grama Verde" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0401" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0402" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0403" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0404" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0405" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0406" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0407" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0408" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0409" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0410" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0411" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0412" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0413" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0414" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0415" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0416" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0417" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0418" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0419" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0420" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0421" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0422" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0423" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0424" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0425" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0426" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0427" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0428" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0429" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0430" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0431" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0432" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0433" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0434" value="Jardim Florido" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0435" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0436" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0437" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0438" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0439" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0440" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0441" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0442" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0443" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0444" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0445" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0446" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0447" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0448" value="Jardim de Rosas" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0449" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0450" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0451" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0452" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0453" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0454" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0455" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0456" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0457" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0458" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0459" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0460" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0461" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0462" value="Nuvem Estelar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0463" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0464" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0465" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0466" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0467" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0468" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0469" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0470" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0471" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0472" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0473" value="Ataque de Flor de Cerejeira" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0474" value="Percalço Mágico" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0475" value="Geada Defeituosa" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0476" value="Invocação da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0477" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0478" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0479" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0480" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0481" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0482" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0483" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0484" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0485" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0486" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0487" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0488" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0489" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0490" value="Festival de Luz" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0491" value="Força do Altar: Escudo" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0492" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0493" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0494" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0495" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0496" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0497" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0498" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0499" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0500" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0501" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0502" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0503" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0504" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0505" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0506" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0507" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0508" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0509" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0510" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0511" value="[Ancião] Festival da Boneca" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0512" value="[Ancião] Explosão da Luz Negra" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0513" value="[Ancião] Explosão da Luz Negra" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0514" value="[Ancião] Explosão da Luz Negra" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0515" value="[Ancião] Explosão da Luz Negra" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0516" value="[Ancião] Explosão da Luz Negra" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0517" value="[Ancião] Assalto Luar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0518" value="[Ancião] Assalto Luar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0519" value="[Ancião] Assalto Luar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0520" value="[Ancião] Assalto Luar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0521" value="[Ancião] Assalto Luar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0522" value="[Ancião] Esmagar o Titã " />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0523" value="[Ancião] Esmagar o Titã " />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0524" value="[Ancião] Esmagar o Titã " />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0525" value="[Ancião] Esmagar o Titã " />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0526" value="[Ancião] Esmagar o Titã " />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0527" value="ALPHER LÚCIDO _ TORRENTE DE FORÇA " />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0528" value="Lannote_Transion fluctuations" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0529" value="Hinoc_Prothy" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0530" value="Summon Red Team Minion" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0531" value="Summon Blue Team Minion" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0532" value="Lago de Verme Touro" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0533" value="Chuva Radioativa de Ilric" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0534" value="Larva do Sepulcro de Areia" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0535" value="Dano de Larva do Sepulcro de Areia" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0536" value="Larva_Buraco no Chão" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0537" value="Dano de Larva_Buraco no Chão" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0538" value="Heat wave" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0539" value="Batida sísmica" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0540" value="Shield" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0541" value="Gravity control" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0542" value="Kurodian_Zona de Constrição" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0543" value="Theme" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0544" value="Theme" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0545" value="Gás Venenoso de Adelic" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0546" value="Lago Venenoso" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0547" value="Tronco de Árvore" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0548" value="Inalação de Kurodian" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0549" value="Roxinus Lightning" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0550" value="Crash" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0551" value="Panos lightning" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0552" value="Adelik threat" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0553" value="Shabby" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0554" value="Light explosion" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0555" value="Sphere" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0556" value="Thunder" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0557" value="Sphere" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0558" value="Magi camp" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0559" value="Magi camp" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0560" value="Magi control" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0561" value="Light" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0562" value="Light" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0563" value="Light" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0564" value="Swallowed man_ ignition explosion" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0565" value="Frog" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0566" value="Beardolipu_Just explosion" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0567" value="Protection 2" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0568" value="Elder_ The sword of the referee" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0569" value="Sandstorm_Sand Storm" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0570" value="Sandstorm_Sand Storm 2" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0571" value="Fire object of Sangseong" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0572" value="Cold -off" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0573" value="Swallowing" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0574" value="Irene_I Ice Pillar" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0575" value="Frog_Dung Di Buff" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0576" value="Griders_ Earth explosion" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0577" value="Kurodian_Zona de Constrição" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0578" value="Explosão Terrestre" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0579" value="Pilar Flamejante" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0580" value="Névoa de Areia" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0581" value="Bomba_Kurodian" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0584" value="Trap" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0585" value="Trap" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0586" value="Combir_Water" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0587" value="Sandstorm_Sand Storm" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0588" value="Sandstorm_Sand Storm 2" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0589" value="Pilar de Fogo Yatuman" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0590" value="Dança Solo de Yatuman" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0591" value="Tentáculo Gigante Ardente Incendeia" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0611" value="Plates" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0665" value="Petal storm" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0666" value="Prado fresco" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0667" value="Deserto quente" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0668" value="Abismo escuro" />
+  <keys prop="Description" type="monster" key="SO_TEST_1_0669" value="Um pedaço de terra" />
+</files>

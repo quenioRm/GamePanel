@@ -31,6 +31,6 @@ class TableAccountLog extends Model
 
     public static function GetOnlineAccounts()
     {
-        return self::where('onlineStatus', 0)->get();
+        return self::where('onlineStatus', 1)->get();
     }
 }

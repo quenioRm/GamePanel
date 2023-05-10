@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="Dialog_1010000_Title" value="1.23457E + 22" />
+  <keys prop="Description" type="monster" key="Dialog_Answer_Common_Title_0" value="Encerrar Conversa" />
+  <keys prop="Description" type="monster" key="Dialog_1010001_Title" value="Sou Corvo, líder da Ordem Ônix. Vou te tirar daqui." />
+  <keys prop="Description" type="monster" key="Dialog_1010001_Text0" value="Sou Corvo, líder da Ordem Ônix. Vou te tirar daqui." />
+  <keys prop="Description" type="monster" key="Dialog_1010001_Answer_0_Text" value="Para a Luta" />
+  <keys prop="Description" type="monster" key="Dialog_1010001_Answer_1_Text" value="Alma de Gelo" />
+  <keys prop="Description" type="monster" key="Dialog_1010001_Answer_2_Text" value="Titãs do Céu" />
+  <keys prop="Description" type="monster" key="Dialog_1030001_Title" value="Soldado Raso Louie" />
+  <keys prop="Description" type="monster" key="Dialog_1030001_Text0" value="Vocês são nossos reforços? Bem, aceito o que conseguir...&lt;br&gt;&lt;br&gt;Aqui é a Floresta da Luz Trêmula. Pode parecer legal, mas é bem parecida com o Acampamento de Guerra Braghin. Pelo barulhão que estão fazendo, acho que estão se preparando para um ataque." />
+  <keys prop="Description" type="monster" key="Dialog_1030001_Answer_0_Text" value="Sobreviver ao Elementar" />
+  <keys prop="Description" type="monster" key="Dialog_1030001_Answer_1_Text" value="Crise na Cidade da Fonte de Água de Esporos" />
+  <keys prop="Description" type="monster" key="Dialog_1030001_Answer_2_Text" value="Comandante Akrashin" />
+  <keys prop="Description" type="monster" key="Dialog_1030001_Answer_3_Text" value="Voltar ao Início" />
+  <keys prop="Description" type="monster" key="Dialog_1030002_Title" value="Elisha" />
+  <keys prop="Description" type="monster" key="Dialog_1030002_Text0" value="Você veio me salvar? Obrigado, Ellora!" />
+  <keys prop="Description" type="monster" key="Dialog_1030002_Answer_0_Text" value="Perceber o poder da raça" />
+  <keys prop="Description" type="monster" key="Dialog_1030003_Title" value="Alex, o Sobrevivente" />
+  <keys prop="Description" type="monster" key="Dialog_1030003_Text0" value="Ouça minha história e me vingue. Éramos humildes assassinos procurando cogumelos em Morenta, até aquela coisa amaldiçoada aparecer..." />
+  <keys prop="Description" type="monster" key="Dialog_1030003_Answer_0_Text" value="Verdade das Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_1030004_Title" value="Sábio Bagulagul" />
+  <keys prop="Description" type="monster" key="Dialog_1030004_Text0" value="Os pamonhas de Morenta tiveram que abandonar nosso lar ancestral devido a um transtorno mental que se espalhou entre nós. Agora, vivemos graças aos nossos protetores humanos, mas um dia voltaremos ao nosso lar." />
+  <keys prop="Description" type="monster" key="Dialog_1030004_Answer_0_Text" value="Baú de Tesouro de Akrashin" />
+  <keys prop="Description" type="monster" key="Dialog_2020002_Title" value="Lojista de Alimentos" />
+  <keys prop="Description" type="monster" key="Dialog_2020002_Text0" value="Tenho muitos produtos baratos." />
+  <keys prop="Description" type="monster" key="Dialog_2020002_Answer_0_Text" value="Loja de Alimentos" />
+  <keys prop="Description" type="monster" key="Dialog_2020002_Answer_1_Text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_1020001_Title" value="Capitão do Titã do Céu Prengel" />
+  <keys prop="Description" type="monster" key="Dialog_1020001_Text0" value="Os Braghin estão por trás desse ataque! Eu deveria voltar para a capital em segurança, mas não, tive que ajudar o Corvo a sair da prisão. Não acredito que fugimos daquele lugar horroroso para acabarmos sendo abatidos pelos Braghin na Floresta de Brakarr! Há feridos demais aqui. Precisamos montar acampamento e nos defendermos das feras da floresta." />
+  <keys prop="Description" type="monster" key="Dialog_1020002_Title" value="Engenheiro Tragu'Rhan" />
+  <keys prop="Description" type="monster" key="Dialog_1020002_Text0" value="Estou reparando os componentes chave para conseguir operar o Titã do Céu.&lt;br&gt;&lt;br&gt;O cilindro está quebrado e será difícil reparar completamente o Tubo de Vapor do Eixo de Acionamento porque ele foi retorcido.&lt;br&gt;&lt;br&gt;Preciso das ferramentas principais consertadas para que o motor funcione novamente. Não será fácil, viu?" />
+  <keys prop="Description" type="monster" key="Dialog_1020003_Title" value="Corvo" />
+  <keys prop="Description" type="monster" key="Dialog_1020003_Text0" value="Você se recuperou do impacto da queda? Me pergunto onde fica este local.&lt;br&gt;&lt;br&gt; A Floresta de Brakarr é uma terra no interior cercada por altas montanhas, onde as mãos do reino não podem alcançar, e agora a floresta está dominada pelos Braghin predadores." />
+  <keys prop="Description" type="monster" key="Dialog_1020003_Answer_0_Text" value="" />
+  <keys prop="Description" type="monster" key="Dialog_1020004_Title" value="Elfo Criança" />
+  <keys prop="Description" type="monster" key="Dialog_1020004_Text0" value="Quer brincar comigo?" />
+  <keys prop="Description" type="monster" key="Dialog_1020005_Title" value="Elfo Mulher" />
+  <keys prop="Description" type="monster" key="Dialog_1020005_Text0" value="Olá." />
+  <keys prop="Description" type="monster" key="Dialog_1020006_Title" value="Familiar Guarda" />
+  <keys prop="Description" type="monster" key="Dialog_1020006_Text0" value="Nem todos os familiares podem se tornar guardas." />
+  <keys prop="Description" type="monster" key="Dialog_1020007_Title" value="Elfo Homem" />
+  <keys prop="Description" type="monster" key="Dialog_1020007_Text0" value="Deve haver uma cidade próxima. Não podemos ficar aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1020009_Title" value="Líder Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020009_Text0" value="Os Braghin complicaram nossa pesquisa. Ainda há muito a ser feito. " />
+  <keys prop="Description" type="monster" key="Dialog_1020010_Title" value="Pesquisador Erudito" />
+  <keys prop="Description" type="monster" key="Dialog_1020010_Text0" value="Onde coloquei aquele relatório...?" />
+  <keys prop="Description" type="monster" key="Dialog_1020011_Title" value="Investigador Real" />
+  <keys prop="Description" type="monster" key="Dialog_1020011_Text0" value="Ainda há muito a aprender sobre a Floresta de Brakarr. Hakanas tem interesse nessa região." />
+  <keys prop="Description" type="monster" key="Dialog_1010003_Title" value="Piloto de Titã do Céu" />
+  <keys prop="Description" type="monster" key="Dialog_1010003_Text0" value="Precisamos correr." />
+  <keys prop="Description" type="monster" key="Dialog_1020012_Title" value="Corvo" />
+  <keys prop="Description" type="monster" key="Dialog_1020012_Text0" value="Você chegou em um bom momento. Devo ficar aqui para impedir a aproximação dos golens e dos Braghin. Você deve ir para a capital e alertar o rei sobre o destino da Princesa Lania. " />
+  <keys prop="Description" type="monster" key="Dialog_1020013_Title" value="Capataz Allen" />
+  <keys prop="Description" type="monster" key="Dialog_1020013_Text0" value="Não é hora de bater papo. Preciso de ajuda com esse incêndio!" />
+  <keys prop="Description" type="monster" key="Dialog_1020014_Title" value="Guia Florestal Elfo" />
+  <keys prop="Description" type="monster" key="Dialog_1020014_Text0" value="Cuidado! As redondezas da floresta estão totalmente tomadas por uma força perigosa. Que as bênçãos de Ellora estejam com você. " />
+  <keys prop="Description" type="monster" key="Dialog_1020014_Answer_0_Text" value="Vá para a Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_1020014_Answer_1_Text" value="Para as Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_1020014_Answer_2_Text" value="Sobre a Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_1020014_Answer_3_Text" value="Sobre as Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_1020015_Title" value="Líder Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020015_Text0" value="Mas vi a Relíquia de Carendia, mudei de ideia e acabei roubando-a." />
+  <keys prop="Description" type="monster" key="Dialog_1020015_Answer_0_Text" value="Que história interessante." />
+  <keys prop="Description" type="monster" key="Dialog_1020016_Title" value="Líder Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020016_Text0" value="Quanto mais penso nisso, mais chateado fico." />
+  <keys prop="Description" type="monster" key="Dialog_1020016_Answer_0_Text" value="Relíquia de Carendia" />
+  <keys prop="Description" type="monster" key="Dialog_1020017_Title" value="Espectro das Ruínas" />
+  <keys prop="Description" type="monster" key="Dialog_1020017_Text0" value="Soube que você recuperou a relíquia. Vamos dar uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_1020017_Answer_0_Text" value="Aqui está." />
+  <keys prop="Description" type="monster" key="Dialog_1020018_Title" value="Líder Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020018_Text0" value="Ah! Realmente, é a Relíquia de Carendia." />
+  <keys prop="Description" type="monster" key="Dialog_1020018_Answer_0_Text" value="Sim." />
+  <keys prop="Description" type="monster" key="Dialog_1020019_Title" value="Líder Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020019_Text0" value="Ainda bem que você deu uma lição naquele xamã Braghin." />
+  <keys prop="Description" type="monster" key="Dialog_1020019_Answer_0_Text" value="Relíquia de Carendia" />
+  <keys prop="Description" type="monster" key="Dialog_1020020_Title" value="Traidor da Expedição" />
+  <keys prop="Description" type="monster" key="Dialog_1020020_Text0" value="Se eu voltar agora, eles vão me prender e punir..." />
+  <keys prop="Description" type="monster" key="Dialog_1020020_Answer_2_Text" value="O que precisa acontecer para você me dar a relíquia?" />
+  <keys prop="Description" type="monster" key="Dialog_1020022_Title" value="Traidor da Expedição" />
+  <keys prop="Description" type="monster" key="Dialog_1020022_Text0" value="Ai... Desisto. Perdi. Pronto, vou devolver a Relíquia de Carendia." />
+  <keys prop="Description" type="monster" key="Dialog_1020022_Answer_0_Text" value="Bem pensado." />
+  <keys prop="Description" type="monster" key="Dialog_1020090_Title" value="Líder Arqueólogo Rehan" />
+  <keys prop="Description" type="monster" key="Dialog_1020090_Text0" value="As Ruínas do Norte são tudo o que resta de um lugar destruído por Zelnaris, o Deus da Ruína, durante a Guerra da Luz. Foi esquecido por tantas pessoas... o que quer dizer que ainda pode haver segredos a serem revelados ali." />
+  <keys prop="Description" type="monster" key="Dialog_1020091_Title" value="Ferreiro Gialon" />
+  <keys prop="Description" type="monster" key="Dialog_1020091_Text0" value="Quer que eu dê uma olhada em sua arma?" />
+  <keys prop="Description" type="monster" key="Dialog_1020092_Title" value="Cavaleiro de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_1020092_Text0" value="Precisamos descobrir o que há dentro da caverna." />
+  <keys prop="Description" type="monster" key="Dialog_1020093_Title" value="Soldado do Posto de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_1020093_Text0" value="Meu comandante está procurando alguém que consiga obter as informações da caverna." />
+  <keys prop="Description" type="monster" key="Dialog_1020021_Title" value="Espírito Elementar" />
+  <keys prop="Description" type="monster" key="Dialog_1020021_Text0" value="Sinto que há outro poder dentro de você." />
+  <keys prop="Description" type="monster" key="Dialog_1020025_Title" value="Mestre de Habilidades Iniciantes de Berserker" />
+  <keys prop="Description" type="monster" key="Dialog_1020025_Text0" value="Se você treinar duro regularmente, você terá coragem até mesmo nas situações mais terríveis! Precisa de um livro sobre treinamento Berserk?" />
+  <keys prop="Description" type="monster" key="Dialog_1020026_Title" value="Mestre de Habilidades Iniciantes de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_1020026_Text0" value="Estávamos a caminho de Hakanas também. Precisamos desempenhar nossos deveres sempre e em qualquer lugar, mesmo nessas situações. Você precisa de um livro de treinamento de Sacerdote?" />
+  <keys prop="Description" type="monster" key="Dialog_1020027_Title" value="Engenheiro Chefe Hama'Rahn" />
+  <keys prop="Description" type="monster" key="Dialog_1020027_Text0" value="Soube que há Braghin dando tiros à toa na direção de qualquer um que sobrevoe a Floresta de Brakarr. Deveríamos ter sido mais cuidadosos. Nossa altitude estava baixa demais. Se não conseguirmos colocar o titã no céu antes de eles nos encontrarem..." />
+  <keys prop="Description" type="monster" key="Dialog_1020029_Title" value="Boman" />
+  <keys prop="Description" type="monster" key="Dialog_1020029_Text0" value="Preso pelos Braghin com nada além de sopa para comer. Se não fosse por Noiman, as coisas não estariam tão ruins. Ele está sempre reclamando da comida... e sou eu quem faz a sopa!" />
+  <keys prop="Description" type="monster" key="Dialog_1020030_Title" value="Noiman" />
+  <keys prop="Description" type="monster" key="Dialog_1020030_Text0" value="Não aguento mais a sopa do Boman. Só o cheiro dela me faz vomitar! Experimente um pouco. Vai entender." />
+  <keys prop="Description" type="monster" key="Dialog_1020031_Title" value="Engenheiro" />
+  <keys prop="Description" type="monster" key="Dialog_1020031_Text0" value="Que bagunça... Não sei por onde começar." />
+  <keys prop="Description" type="monster" key="Dialog_1020032_Title" value="Leo" />
+  <keys prop="Description" type="monster" key="Dialog_1020032_Text0" value="Grr... Sniff sniff!" />
+  <keys prop="Description" type="monster" key="Dialog_1020033_Title" value="Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020033_Text0" value="A julgar pelos entalhes em Élfico Antigo nessas ruínas... Nossa! Você me assustou. Quem é você? " />
+  <keys prop="Description" type="monster" key="Dialog_1020034_Title" value="Comerciante Estagiário de Mendiom" />
+  <keys prop="Description" type="monster" key="Dialog_1020034_Text0" value="Boas-vindas à filial da Sociedade de Mercadores de Mendiom. Pode parecer estranho que tenhamos uma filial aqui, mas o mundo é estranho." />
+  <keys prop="Description" type="monster" key="Dialog_1020035_Title" value="Recepcionista de Mendiom" />
+  <keys prop="Description" type="monster" key="Dialog_1020035_Text0" value="Por aqui! Por mais que a situação seja ruim, a sociedade sempre coloca a conveniência do cliente na frente!" />
+  <keys prop="Description" type="monster" key="Dialog_1020038_Title" value="Sir Paolo Roaman" />
+  <keys prop="Description" type="monster" key="Dialog_1020038_Text0" value="Os Cavaleiros do Dragão foram enviados para destruir os Braghin. Podemos estar presos aqui, mas isso só quer dizer que os Braghin estão presos conosco. Una-se à luta!" />
+  <keys prop="Description" type="monster" key="Dialog_1020038_Text0_F" value="If you leave and Canas province for the Brage Subjugation did not know to send such a long time in this place. real threats mean did not know anything of Fire Golem, not the power of Brage itself. First Fire If you do not clean up the golem Brage and no end, no matter how ssawodo.&#xD;&#xA;&lt;br&gt; &lt;br&gt;&#xD;&#xA;Golem has entered into a flame remains lit defeat to swallow a lot of articles sinryong four lost their lives. However, we're sinryong Knights. Eopji could mean that up.&#xD;&#xA;&lt;br&gt; &lt;br&gt;&#xD;&#xA;Brage're launching a giant crossbow continue to attack our camp itne up in trouble. This article mobility as there is a limit to cope with falling. Jundamyeon to help you beat the Brage we'll have a week to help you. " />
+  <keys prop="Description" type="monster" key="Dialog_1020038_Text1" value="Os Cavaleiros do Dragão foram enviados para destruir os Braghin. Podemos estar presos aqui, mas isso só quer dizer que os Braghin estão presos conosco. Una-se à luta!" />
+  <keys prop="Description" type="monster" key="Dialog_1020039_Title" value="Membro da Expedição Braghin" />
+  <keys prop="Description" type="monster" key="Dialog_1020039_Text0" value="Nunca te vi. Você está com a equipe de pesquisa?" />
+  <keys prop="Description" type="monster" key="Dialog_1020040_Title" value="Membro da Expedição Braghin" />
+  <keys prop="Description" type="monster" key="Dialog_1020040_Text0" value="Esqueça os Braghin. Os fantasmas me preocupam mais!" />
+  <keys prop="Description" type="monster" key="Dialog_1020041_Title" value="Smillan" />
+  <keys prop="Description" type="monster" key="Dialog_1020041_Text0" value="Nenhuma raça é melhor do que Crokhoon quando se trata de habilidades de ferreiros.&lt;br&gt;&lt;br&gt;Nós somos responsáveis pela manutenção das armas e armaduras dos cavaleiros que lutam ferozmente contra os Braghin." />
+  <keys prop="Description" type="monster" key="Dialog_1020042_Title" value="Comerciante de Vagonetas de Mendiom" />
+  <keys prop="Description" type="monster" key="Dialog_1020042_Text0" value="Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_1020043_Title" value="Mestre de Habilidades Intermediárias de Berserkers" />
+  <keys prop="Description" type="monster" key="Dialog_1020043_Text0" value="Se você deseja aprender habilidades poderosas que irão fortalecer sua espada, meus livros serão de grande ajuda!" />
+  <keys prop="Description" type="monster" key="Dialog_1020044_Title" value="Mestre de Habilidades Intermediárias de Sacerdotes" />
+  <keys prop="Description" type="monster" key="Dialog_1020044_Text0" value="Auxílio do livro sagrado é absolutamente necessário para se tornar um sacerdote poderoso." />
+  <keys prop="Description" type="monster" key="Dialog_1020045_Title" value="Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020045_Text0" value="Há muito a se descobrir! E eu estou aqui parado... estou entediado." />
+  <keys prop="Description" type="monster" key="Dialog_1020046_Title" value="Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020046_Text0" value="O que não falta na Floresta de Brakarr é ruína. Por isso estamos aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1020047_Title" value="Cullaghan" />
+  <keys prop="Description" type="monster" key="Dialog_1020047_Text0" value="O maldito Braghin roubou meu martelo. Sim, tenho outro, mas é o MEU martelo! É especial. Tenho ele desde que eu era criança!" />
+  <keys prop="Description" type="monster" key="Dialog_1020047_Answer_7_Text" value="Converse com o ferreiro." />
+  <keys prop="Description" type="monster" key="Dialog_1020047_Answer_8_Text" value="Converse com o ferreiro." />
+  <keys prop="Description" type="monster" key="Dialog_1020048_Title" value="Barrivus" />
+  <keys prop="Description" type="monster" key="Dialog_1020048_Text0" value="Eu auxilio os Cavaleiros do Dragão nesses lugares selvagens do mundo. Os Braghin da Floresta de Brakarr alimentam pensamentos gananciosos, violentos. Eles destroem a floresta, matam a vida selvagem e desperdiçam todas as bênçãos que os deuses nos deram. Luto contra os Braghin para proteger essas coisas." />
+  <keys prop="Description" type="monster" key="Dialog_1020049_Title" value="Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_1020049_Text0" value="Mas que horroroso! Estamos trabalhando muito aqui, pra esses desconhecidos chegarem estragando tudo! " />
+  <keys prop="Description" type="monster" key="Dialog_1020050_Title" value="Sir Paolo Roaman" />
+  <keys prop="Description" type="monster" key="Dialog_1020050_Text0" value="Você deve ser forte, mesmo, para chegar até aqui sozinho. Aqui foi onde tudo começou! " />
+  <keys prop="Description" type="monster" key="Dialog_1020050_Answer_0_Text" value="Lacaio da Pedra Incandescente" />
+  <keys prop="Description" type="monster" key="Dialog_1020050_Answer_1_Text" value="Golem da Pedra Incandescente" />
+  <keys prop="Description" type="monster" key="Dialog_1020050_Answer_2_Text" value="Voltar ao Início" />
+  <keys prop="Description" type="monster" key="Dialog_1020051_Title" value="Administrador de transportes" />
+  <keys prop="Description" type="monster" key="Dialog_1020051_Text0" value="Vendo transporte de familiares a outras cidades. Claro que, por não ter nenhum familiar disponível, no momento não estou oferecendo o serviço. " />
+  <keys prop="Description" type="monster" key="Dialog_1020052_Title" value="Romero" />
+  <keys prop="Description" type="monster" key="Dialog_1020052_Text0" value="Estes Santuários de Trânsito podem te transportar instantaneamente para qualquer outro santuário que você já tenha visitado." />
+  <keys prop="Description" type="monster" key="Dialog_1020052_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_1020052_Answer_1_Text" value="Back to the brilliance forest camp" />
+  <keys prop="Description" type="monster" key="Dialog_1020052_Answer_2_Text" value="Go into the city of Saran bit" />
+  <keys prop="Description" type="monster" key="Dialog_1020053_Title" value="Tenente Alex" />
+  <keys prop="Description" type="monster" key="Dialog_1020053_Text0" value="Existem criaturas sombrias nas ruínas daqui. Os fantasmas daqueles que morreram com amargura no coração atacam qualquer coisa que tenha vida. Isso deixa meus homens nervosos, para dizer o mínimo." />
+  <keys prop="Description" type="monster" key="Dialog_1020053_Answer_6_Text" value="Avisar que trouxe a poção." />
+  <keys prop="Description" type="monster" key="Dialog_1020054_Title" value="Soldado Raso Boris" />
+  <keys prop="Description" type="monster" key="Dialog_1020054_Text0" value="O trabalho de guarda não seria tão ruim se não fossem os fantasmas. Todas as noites, quando vou dormir, fico morrendo de medo de eles aparecerem em meus sonhos..." />
+  <keys prop="Description" type="monster" key="Dialog_1020056_Title" value="Dame Celine" />
+  <keys prop="Description" type="monster" key="Dialog_1020056_Text0" value="Estamos ocupados lutando contra as fadas malignas, mas não pense que nos esquecemos dos Braghin na colina." />
+  <keys prop="Description" type="monster" key="Dialog_1020056_Answer_6_Text" value="to talk to scouts won serine" />
+  <keys prop="Description" type="monster" key="Dialog_1020057_Title" value="Kylas" />
+  <keys prop="Description" type="monster" key="Dialog_1020057_Text0" value="Antigamente, conseguíamos ouvir a voz de toda árvore, de toda pedra e de todo espírito. Mas agora que as fadas se renderam à corrupção, não conseguimos ouvir nada." />
+  <keys prop="Description" type="monster" key="Dialog_1020059_Title" value="Dame Renata" />
+  <keys prop="Description" type="monster" key="Dialog_1020059_Text0" value="Que bom te ver de pé de novo. Precisamos de toda a ajuda possível com os feridos." />
+  <keys prop="Description" type="monster" key="Dialog_1020060_Title" value="Tortus" />
+  <keys prop="Description" type="monster" key="Dialog_1020060_Text0" value="Corvo partiu para salvar a Princesa Lania, mas só encontrou nossas carcaças. Fico feliz por estar fora daquela prisão, mas precisamos contar ao rei o que aconteceu com sua filha. " />
+  <keys prop="Description" type="monster" key="Dialog_1020061_Title" value="Sir Rolen" />
+  <keys prop="Description" type="monster" key="Dialog_1020061_Text0" value="Abaixe-se! Quer levar um tiro de balista na cabeça? Os Braghin notaram que não poderiam nos enfrentar em uma luta justa, por isso eles têm nos cercado e atacado sem parar. Se isso não parar logo, teremos que recuar... e não temos para onde recuar! " />
+  <keys prop="Description" type="monster" key="Dialog_1020071_Title" value="Santuário da Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_1020071_Text0" value="Este santuário pode te levar à Caverna da Luz de Lava." />
+  <keys prop="Description" type="monster" key="Dialog_1020071_answer_0_text" value="Entrar na Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_1020072_Title" value="Santuário de Trânsito de Retorno da Floresta de Brakarr" />
+  <keys prop="Description" type="monster" key="Dialog_1020072_Text0" value="Este Santuário de Trânsito pode levar você à Floresta de Brakarr." />
+  <keys prop="Description" type="monster" key="Dialog_1020072_answer_0_text" value="Voltar à Floresta de Brakarr" />
+  <keys prop="Description" type="monster" key="Dialog_1020073_Title" value="Soldado Raso Nills" />
+  <keys prop="Description" type="monster" key="Dialog_1020073_Text0" value="Tenho lutado contra os Braghin aqui há muito tempo. Por mais que eu mate, esta batalha parece que nunca vai terminar. Meu avô foi soldado antes de mim, mas não me lembro de ele já ter ficado preso em uma floresta como esta." />
+  <keys prop="Description" type="monster" key="Dialog_1020074_Title" value="Sir Marcus" />
+  <keys prop="Description" type="monster" key="Dialog_1020074_Text0" value="Os Cavaleiros do Dragão respondem diretamente ao rei, e a maioria do exército de Hakanas responde a nós. É por isso que as pessoas costumam se referir aos soldados, de modo geral, como &quot;Cavaleiros do Dragão&quot;, até mesmo os soldados de cavalaria que nunca se tornaram cavaleiros. O próprio General Akaldus, o grande herói da Guerra da Luz, nos fundou. " />
+  <keys prop="Description" type="monster" key="Dialog_1020075_Title" value="Soldado Raso Numerick" />
+  <keys prop="Description" type="monster" key="Dialog_1020075_Text0" value="Salant está por trás do ataque Braghin. Tenho certeza disso. O imbecil posou como mago de Arcano durante anos antes até mostrar quem realmente era, e agora, lidera um exército de demônios e monstros. Dizem que ele é o Zelnaris encarnado, o Deus da Ruína! &lt;br&gt;&lt;br&gt;O exército dele é tão poderoso que precisamos nos treinar arduamente para que possamos enfrentá-los." />
+  <keys prop="Description" type="monster" key="Dialog_1020076_Title" value="Soldado Raso Florick" />
+  <keys prop="Description" type="monster" key="Dialog_1020076_Text0" value="Não poderemos derrotar os Braghin enquanto eles estiverem com aquelas balistas. Seguindo a estrada, meus companheiros estão sendo abatidos por aquelas máquinas horrorosas." />
+  <keys prop="Description" type="monster" key="Dialog_1020077_Title" value="Soldado Raso Illias" />
+  <keys prop="Description" type="monster" key="Dialog_1020077_Text0" value="Deixe os Braghin conosco agora. Essa estrada leva ao Posto Braghin. Vá para as ruínas e encontre o Soldado Raso Boris." />
+  <keys prop="Description" type="monster" key="Dialog_1020078_Title" value="Soldado Raso Curtis" />
+  <keys prop="Description" type="monster" key="Dialog_1020078_Text0" value="O que você está fazendo aqui? Estamos em um campo de batalha! Se levar um tiro de balista no peito, não diga que eu não te alertei!  " />
+  <keys prop="Description" type="monster" key="Dialog_1020079_Title" value="Soldado Raso Kahntaris" />
+  <keys prop="Description" type="monster" key="Dialog_1020079_Text0" value="Cuidado se chegar perto das ruínas. Os fantasmas que vivem ali não podem ser vistos pelos mortais, mas ainda assim podem causar muitos danos físicos. Temos sorte por eles não terem aprendido a sair..." />
+  <keys prop="Description" type="monster" key="Dialog_1020080_Title" value="Sacerdotisa Chapley Singer" />
+  <keys prop="Description" type="monster" key="Dialog_1020080_Text0" value="Po-por favor... So-socorro?" />
+  <keys prop="Description" type="monster" key="Dialog_1020080_Text1" value="O golem maligno da Caverna da Luz de Lava foi derrotado! Conseguimos, graças a você!" />
+  <keys prop="Description" type="monster" key="Dialog_1020081_Title" value="Soldado Raso Corrance" />
+  <keys prop="Description" type="monster" key="Dialog_1020081_Text0" value="Quem é você...? Po-por favor, me ajude..." />
+  <keys prop="Description" type="monster" key="Dialog_1020082_Title" value="Inugi" />
+  <keys prop="Description" type="monster" key="Dialog_1020082_Text0" value="(Ele não diz nada.)&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1020083_Title" value="Aksel" />
+  <keys prop="Description" type="monster" key="Dialog_1020083_Text0" value="Meu nome é Aksel. Você veio aqui para aprender a se comunicar com os animais?" />
+  <keys prop="Description" type="monster" key="Dialog_1020083_Answer_5_Text" value="Domando Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_1020083_Answer_6_Text" value="Loja de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_1020083_Answer_7_Text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_4020001_Title" value="Comerciante de Bolsas" />
+  <keys prop="Description" type="monster" key="Dialog_4020001_Text0" value="Boas-vindas. Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_4020001_Answer_0_Text" value="Gostaria de expandir minha mochila." />
+  <keys prop="Description" type="monster" key="Dialog_2020004_Title" value="Mestre de Habilidades" />
+  <keys prop="Description" type="monster" key="Dialog_2020004_Text0" value="Ei, você, busca a iluminação? Aqui estão alguns livros que podem te ajudar nesse caminho." />
+  <keys prop="Description" type="monster" key="Dialog_2020004_Answer_0_Text" value="Comprar Livro de Habilidade" />
+  <keys prop="Description" type="monster" key="Dialog_2021001_Title" value="Comerciante de Equipamentos de Mendiom" />
+  <keys prop="Description" type="monster" key="Dialog_2021001_Text0" value="Uma coisinha como uma batida de titãs do céu não pode me atrasar. Esse é o espírito dos comerciantes de Mendiom!" />
+  <keys prop="Description" type="monster" key="Dialog_2021001_Answer_0_Text" value="Item de Equipamento" />
+  <keys prop="Description" type="monster" key="Dialog_2023001_Title" value="Kenny " />
+  <keys prop="Description" type="monster" key="Dialog_2023001_Text0" value="Oi. Eu estava indo para a capital para vender meus produtos, mas acho que não conseguirei levá-los comigo a pé. Você tem interesse nos meus produtos?" />
+  <keys prop="Description" type="monster" key="Dialog_2023001_Answer_0_Text" value="equipment items" />
+  <keys prop="Description" type="monster" key="Dialog_2024001_Title" value="Parvang" />
+  <keys prop="Description" type="monster" key="Dialog_2024001_Text0" value="Você está bem? Sinto muito... se eu tivesse ficado mais no controle, isso não teria acontecido..." />
+  <keys prop="Description" type="monster" key="Dialog_2024001_Answer_0_Text" value="Quero aprender uma habilidade." />
+  <keys prop="Description" type="monster" key="Dialog_2024001_Answer_1_Text" value="Conte-me sobre o Livro de Habilidades." />
+  <keys prop="Description" type="monster" key="Dialog_2026001_Title" value="Criador de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2026001_Text0" value="Seus companheiros são valiosos, por isso trate-os bem." />
+  <keys prop="Description" type="monster" key="Dialog_2026001_Answer_0_Text" value="Trocar ovo de familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2021002_Title" value="Glen" />
+  <keys prop="Description" type="monster" key="Dialog_2021002_Text0" value="Dizem que a guerra é boa para os negócios, mas esses soldados não estão comprando meus produtos! Ei, você teria interesse nesta bela arma? Não é tão boa quanto as que você encontrará na Travessia de Hakain, mas não estamos na Travessia de Hakain, certo?&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_2021002_Answer_0_Text" value="Armas" />
+  <keys prop="Description" type="monster" key="Dialog_2023002_Title" value="Adina" />
+  <keys prop="Description" type="monster" key="Dialog_2023002_Text0" value="Sei que a situação é ruim, mas, pelo menos, temos comida boa para comer! Quer alguma coisa? Os preços são todos muito razoáveis, posso te garantir!" />
+  <keys prop="Description" type="monster" key="Dialog_2023002_Answer_0_Text" value="goods, food" />
+  <keys prop="Description" type="monster" key="Dialog_2026002_Title" value="Criador de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2026002_Text0" value="Seus companheiros são valiosos, por isso trate-os bem." />
+  <keys prop="Description" type="monster" key="Dialog_2026002_Answer_0_Text" value="Trocar ovo de familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2024002_Title" value="Mestre de Habilidades de Combate Douglas" />
+  <keys prop="Description" type="monster" key="Dialog_2024002_Text0" value="Quando o inimigo vier com tudo, aconselho você a pegá-lo! Se quiser aprender a bater, posso te ensinar." />
+  <keys prop="Description" type="monster" key="Dialog_2024002_Answer_0_Text" value="Quero aprender uma habilidade." />
+  <keys prop="Description" type="monster" key="Dialog_2025001_Title" value="Comerciante de Bolsas" />
+  <keys prop="Description" type="monster" key="Dialog_2025001_Text0" value="Boas-vindas. Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_2025001_Answer_0_Text" value="Gostaria de expandir minha mochila." />
+  <keys prop="Description" type="monster" key="Dialog_2024003_Title" value="Mestre de Habilidades Avançadas de Berserkers" />
+  <keys prop="Description" type="monster" key="Dialog_2024003_Text0" value="Ei, você, busca a iluminação? Aqui estão alguns livros que podem te ajudar nesse caminho." />
+  <keys prop="Description" type="monster" key="Dialog_2024003_Answer_0_Text" value="Comprar Livro de Habilidade" />
+  <keys prop="Description" type="monster" key="Dialog_2021003_Title" value="Amarran" />
+  <keys prop="Description" type="monster" key="Dialog_2021003_Text0" value="Encontre sua armadura aqui! Você não vai encontrar equipamentos melhores fora da capital. Não vá para a batalha sem ela!" />
+  <keys prop="Description" type="monster" key="Dialog_2021003_Answer_0_Text" value="armor items" />
+  <keys prop="Description" type="monster" key="Dialog_2023003_Title" value="Coleman" />
+  <keys prop="Description" type="monster" key="Dialog_2023003_Text0" value="Quer comprar umas poções? Sou o único farmacêutico da floresta toda. Já aviso que minhas poções salvam vidas. Faça um estoque delas agora ou vai se arrepender depois." />
+  <keys prop="Description" type="monster" key="Dialog_2023003_Answer_0_Text" value="potion" />
+  <keys prop="Description" type="monster" key="Dialog_2023004_Title" value="Jennie" />
+  <keys prop="Description" type="monster" key="Dialog_2023004_Text0" value="Graças aos Cavaleiros do Dragão, posso vir até aqui e fazer negócios. Dê uma olhada em meus produtos. Tenho certeza de que você encontrará algo de que precisa." />
+  <keys prop="Description" type="monster" key="Dialog_2023004_Answer_0_Text" value="goods, food" />
+  <keys prop="Description" type="monster" key="Dialog_2026003_Title" value="Criador de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2026003_Text0" value="Seus companheiros são valiosos, por isso trate-os bem." />
+  <keys prop="Description" type="monster" key="Dialog_2026003_Answer_0_Text" value="Trocar ovo de familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2025002_Title" value="Comerciante de Bolsas" />
+  <keys prop="Description" type="monster" key="Dialog_2025002_Text0" value="Boas-vindas. Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_2025002_Answer_0_Text" value="Gostaria de expandir minha mochila." />
+  <keys prop="Description" type="monster" key="Dialog_2024004_Title" value="Mestre de Habilidades Iniciantes de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_2024004_Text0" value="Estávamos a caminho de Hakanas também. Precisamos desempenhar nossos deveres sempre e em qualquer lugar, mesmo nessas situações. Você precisa de um livro de treinamento de Sacerdote?" />
+  <keys prop="Description" type="monster" key="Dialog_2024004_Answer_0_Text" value="learning skills" />
+  <keys prop="Description" type="monster" key="Dialog_2024004_Answer_1_Text" value="Tell me about Skillbook." />
+  <keys prop="Description" type="monster" key="Dialog_2024005_Title" value="Mestre de Habilidade de Feiticeiros Elina" />
+  <keys prop="Description" type="monster" key="Dialog_2024005_Text0" value="Nós que temos o dom da cura devemos fazer o que pudermos nesses períodos conturbados." />
+  <keys prop="Description" type="monster" key="Dialog_2024005_Answer_0_Text" value="Quero aprender uma habilidade." />
+  <keys prop="Description" type="monster" key="Dialog_2024006_Title" value="Mestre de Habilidades Avançadas de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_2024006_Text0" value="Aquele que escolheu o caminho da generosidade. Espero que você salve muitas vidas." />
+  <keys prop="Description" type="monster" key="Dialog_2024006_Answer_0_Text" value="Comprar Livro de Habilidade" />
+  <keys prop="Description" type="monster" key="Dialog_2028001_Title" value="Freud" />
+  <keys prop="Description" type="monster" key="Dialog_2028001_Text0" value="Posso te mandar para onde quiser ir. Não de graça, claro. Aonde você gostaria de ir?" />
+  <keys prop="Description" type="monster" key="Dialog_2028001_Answer_0_Text" value="sinryong Go to the Knights Templar garrison" />
+  <keys prop="Description" type="monster" key="Dialog_2028001_Answer_1_Text" value="Back to the brilliance forest camp" />
+  <keys prop="Description" type="monster" key="Dialog_2028002_Title" value="Spencer" />
+  <keys prop="Description" type="monster" key="Dialog_2028002_Text0" value="Com o poder de minha magia e este santuário, posso te mandar para qualquer lugar do mundo Qualquer lugar que tenha um santuário, quero dizer. Para onde quer ir?" />
+  <keys prop="Description" type="monster" key="Dialog_2028002_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_2028002_Answer_1_Text" value="Back to the ruins of the camp sites" />
+  <keys prop="Description" type="monster" key="Dialog_2999998_Title" value="Comerciante de Equipamentos, Armas Secundárias" />
+  <keys prop="Description" type="monster" key="Dialog_2999998_Text0" value="Pegue suas armas, equipamentos de mão secundária e armadura aqui." />
+  <keys prop="Description" type="monster" key="Dialog_2999998_Answer_0_Text" value="Comerciante de Equipamentos, Armas Secundárias" />
+  <keys prop="Description" type="monster" key="Dialog_2999999_Title" value="Armeiro" />
+  <keys prop="Description" type="monster" key="Dialog_2999999_Text0" value="Pegue sua armadura aqui." />
+  <keys prop="Description" type="monster" key="Dialog_2999999_Answer_0_Text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_9011001_Title" value="Trocar ovo de familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9011001_Text0" value="São necessárias 5 energias da alma de cada categoria para se conseguir um mármore da vida familiar." />
+  <keys prop="Description" type="monster" key="Dialog_9011001_Answer_0_Text" value="mammalian-based life marbles exchange" />
+  <keys prop="Description" type="monster" key="Dialog_9011001_Answer_1_Text" value="benefit-based life marbles exchange" />
+  <keys prop="Description" type="monster" key="Dialog_9011001_Answer_2_Text" value="file exchange beads stairway of life" />
+  <keys prop="Description" type="monster" key="Dialog_9011001_Answer_3_Text" value="insect-based life marbles exchange" />
+  <keys prop="Description" type="monster" key="Dialog_9011001_Answer_4_Text" value="jeongryeonggye life of the bead exchange" />
+  <keys prop="Description" type="monster" key="Dialog_9011002_Title" value="Sobre a Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_9011002_Text0" value="A Caverna da Luz de Lava é comandada pelo Golem Ancião da Pedra Incandescente e seus subalternos, criados pela Pedra Demoníaca." />
+  <keys prop="Description" type="monster" key="Dialog_9011002_Answer_0_Text" value="Dicas para a Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_9011002_Answer_1_Text" value="Dicas para o Chefe da Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_9011003_Title" value="Dicas para a Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_9011003_Text0" value="As armas com afinidade de gelo são mais eficazes contra os inimigos na Caverna da Luz de Lava, Se você estiver enfrentando muitos danos causados pelo fogo, a fonte dentro da caverna pode ser usada para que você se refresque. " />
+  <keys prop="Description" type="monster" key="Dialog_9011004_Title" value="Dicas para o Chefe da Caverna da Luz de Lava" />
+  <keys prop="Description" type="monster" key="Dialog_9011004_Text0" value="O líder do fogo pode ser muito prejudicado se os lacaios do Golem da Pedra Incandescente se autodestruírem perto dele. " />
+  <keys prop="Description" type="monster" key="Dialog_9011005_Title" value="Sobre as Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_9011005_Text0" value="A trilha que conecta a Floresta de Brakarr ao Jardim dos Cogumelos Frescos se congelou. Humanos bestiais estão usando a Pedra Demoníaca para fazer isso." />
+  <keys prop="Description" type="monster" key="Dialog_9011005_Answer_0_Text" value="Dicas para Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_9011005_Answer_1_Text" value="Dicas para o Chefe das Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_9011006_Title" value="Dicas para Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_9011006_Text0" value="As Minas Gélidas foram dominadas por monstros com afinidade de gelo. Use armas de fogo para derrotá-los mais facilmente. " />
+  <keys prop="Description" type="monster" key="Dialog_9011007_Title" value="Dicas para o Chefe das Minas Gélidas" />
+  <keys prop="Description" type="monster" key="Dialog_9011007_Text0" value="Sinthan pode atacar com ataques de gelo à distância. Evite esses ataques e responda com alguns ataques de fogo." />
+  <keys prop="Description" type="monster" key="Dialog_3020001_Title" value="Mestre de Habilidades Iniciantes de Berserker" />
+  <keys prop="Description" type="monster" key="Dialog_3020001_Text0" value="Livro de Habilidades é um livro que pode tanto te ajudar a aprender Habilidades de Berserker ou aprimorar habilidades que você já tenha aprendido. Mas para usar esse livro, você precisa de pontos de habilidade." />
+  <keys prop="Description" type="monster" key="Dialog_3020001_Answer_0_Text" value="Tudo bem." />
+  <keys prop="Description" type="monster" key="Dialog_3020002_Title" value="Mestre de Habilidades Iniciantes de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_3020002_Text0" value="Livro de Habilidades é um livro que pode tanto te ajudar a aprender Habilidades de Sacerdote ou aprimorar habilidades que você já tenha aprendido. Mas para usar esse livro, você precisa de pontos de habilidade." />
+  <keys prop="Description" type="monster" key="Dialog_3020002_Answer_0_Text" value="Tudo bem." />
+  <keys prop="Description" type="monster" key="Dialog_3020003_Title" value="Traidor da Expedição" />
+  <keys prop="Description" type="monster" key="Dialog_3020003_Text0" value="Se quiser a Relíquia de Carendia, vai ter que arrancá-la de mim!" />
+  <keys prop="Description" type="monster" key="Dialog_3020003_Answer_0_Text" value="Tudo bem." />
+  <keys prop="Description" type="monster" key="Dialog_3020004_Title" value="Cullaghan" />
+  <keys prop="Description" type="monster" key="Dialog_3020004_Text0" value="Então, você quer saber como derrotar o Golem Ancião da Pedra Incandescente e sair do túnel." />
+  <keys prop="Description" type="monster" key="Dialog_3020004_Answer_0_Text" value="Encerrar Conversa" />
+  <keys prop="Description" type="monster" key="Dialog_3020005_Title" value="Tenente Alex" />
+  <keys prop="Description" type="monster" key="Dialog_3020005_Text0" value="Será que esse Frasco de Visão Real vai mesmo me ajudar a ver fantasmas...?" />
+  <keys prop="Description" type="monster" key="Dialog_3020005_Answer_0_Text" value="Encerrar Conversa" />
+  <keys prop="Description" type="monster" key="Dialog_3020006_Title" value="Cullaghan" />
+  <keys prop="Description" type="monster" key="Dialog_3020006_Text0" value="Você conseguiu o Tecido Congelado! Muito bem." />
+  <keys prop="Description" type="monster" key="Dialog_3020006_Answer_0_Text" value="Encerrar Conversa" />
+  <keys prop="Description" type="monster" key="Dialog_3020007_Title" value="Dame Celine" />
+  <keys prop="Description" type="monster" key="Dialog_3020007_Text0" value="Bom saber que minha poção surtiu efeito." />
+  <keys prop="Description" type="monster" key="Dialog_3020007_Answer_0_Text" value="Encerrar Conversa" />
+  <keys prop="Description" type="monster" key="Dialog_9014005_Title" value="Mestre de Armazenamento" />
+  <keys prop="Description" type="monster" key="Dialog_9014005_Text0" value="Não sente dor nas costas por carregar todas essas coisas? Por que não as deixa em segurança em meu armazém?" />
+  <keys prop="Description" type="monster" key="Dialog_9014005_Answer_0_Text" value="Utilizar Armazém" />
+  <keys prop="Description" type="monster" key="Dialog_9014006_Title" value="Corretor do Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_9014006_Text0" value="Se você pretende vender alguma coisa, posso encontrar um comprador. Se quiser comprar, aproxime-se e veja o que tenho organizado!" />
+  <keys prop="Description" type="monster" key="Dialog_9014006_Answer_0_Text" value="Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_2024008_Title" value="Mestre de Habilidades Iniciantes de Feiticeiro" />
+  <keys prop="Description" type="monster" key="Dialog_2024008_Text0" value="Você precisa do Livro de Habilidades Iniciantes de Feiticeiro" />
+  <keys prop="Description" type="monster" key="Dialog_2024008_Answer_0_Text" value="Comprar Livro de Habilidade Iniciante de Feiticeiro" />
+  <keys prop="Description" type="monster" key="Dialog_2024009_Title" value="Mestre de Habilidade de Feiticeiros Dianna" />
+  <keys prop="Description" type="monster" key="Dialog_2024009_Text0" value="Usar magia é dar uma chance para a ordem natural.&lt;br&gt;&lt;br&gt;Se você não entender a verdadeira essência do fogo, água e luz, você estará correndo grande perigo com o desequilíbrio natural.&lt;br&gt;&lt;br&gt;Você se acha capaz de usar magia? Se achar, tenho algo para te ensinar. " />
+  <keys prop="Description" type="monster" key="Dialog_2024009_Answer_0_Text" value="Wizard to learn skills" />
+  <keys prop="Description" type="monster" key="Dialog_2024010_Title" value="Mestre de Habilidades Iniciantes de Assassino" />
+  <keys prop="Description" type="monster" key="Dialog_2024010_Text0" value="Você precisa do Livro de Habilidades Iniciantes de Assassino?" />
+  <keys prop="Description" type="monster" key="Dialog_2024010_Answer_0_Text" value="Comprar Livro de Habilidade Iniciante de Assassino" />
+  <keys prop="Description" type="monster" key="Dialog_2024011_Title" value="Mestre de Habilidades Avançadas de Assassino" />
+  <keys prop="Description" type="monster" key="Dialog_2024011_Text0" value="Meu avô, que foi um famoso assassino no reino, uma vez me disse que se eu conseguir emboscar, perder uma pequena parte de mim não é nada. Então estou sempre pronto para encarar esse momento.&lt;br&gt;&lt;br&gt;Se você quiser aprender essa misteriosa habilidade também, eu vou te contar mais sobre esse segredo também." />
+  <keys prop="Description" type="monster" key="Dialog_2024011_Answer_0_Text" value="assassin skills to learn" />
+  <keys prop="Description" type="monster" key="Dialog_2024012_Title" value="Mestre de Habilidades Iniciantes de Arqueiro" />
+  <keys prop="Description" type="monster" key="Dialog_2024012_Text0" value="Você precisa do Livro de Habilidades Iniciantes de Arqueiro?" />
+  <keys prop="Description" type="monster" key="Dialog_2024012_Answer_0_Text" value="Comprar Livro de Habilidade Iniciante de Arqueiro" />
+  <keys prop="Description" type="monster" key="Dialog_2024013_Title" value="Americks, Mestre de Habilidades de Arqueiros" />
+  <keys prop="Description" type="monster" key="Dialog_2024013_Text0" value="O destino guiou seu caminho até aqui. Assim como tudo nesse mundo flui seguindo os princípios de harmonia e equilíbrio....&lt;br&gt;&lt;br&gt;Se você não atingiu o mais alto nível enquanto Arqueiro, eu darei a orientação para seu crescimento." />
+  <keys prop="Description" type="monster" key="Dialog_2024013_Answer_0_Text" value="Nature Learning Skills" />
+  <keys prop="Description" type="monster" key="Dialog_3020701_Title" value="Converter Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Dialog_3020701_Text0" value="Boas-vindas. Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_3020701_Answer_1_Text" value="Equipar Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Dialog_3020701_Answer_2_Text" value="Remover Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Dialog_3020701_Answer_3_Text" value="Restaurar Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Dialog_1040001_Title" value="Magren, o Peregrino" />
+  <keys prop="Description" type="monster" key="Dialog_1040001_Text0" value="Dá para escutar a vida nos ventos... Olá, amigo viajante. Sou Magren, o Peregrino. Vim aqui para aprender a respeito daqueles que vieram antes de nós. Nunca esperei encontrar tanto caos aqui..." />
+  <keys prop="Description" type="monster" key="Dialog_1040002_Title" value="Rei Ronfraine" />
+  <keys prop="Description" type="monster" key="Dialog_1040002_Text0" value="Deixe-me tomar medidas contra eles. Tenha em mente que isso não é apenas para a Família Real." />
+  <keys prop="Description" type="monster" key="Dialog_1040003_Title" value="Mestre Yulnus" />
+  <keys prop="Description" type="monster" key="Dialog_1040003_Text0" value="Este velho pobre é Yulnus. Ele não é um homem profundo o suficiente para ouvir uma voz tão tremenda.&lt;br&gt;&lt;br&gt;Apenas um velho profundamente cético sobre como ele pode pagar seus pecados." />
+  <keys prop="Description" type="monster" key="Dialog_1040003_Answer_14_Text" value="Nossa preparação está pronta." />
+  <keys prop="Description" type="monster" key="Dialog_1040004_Title" value="Mestre de Habilidades de Berserker Blake" />
+  <keys prop="Description" type="monster" key="Dialog_1040004_Text0" value="A lâmina vai onde a morte está! &lt;br&gt;&lt;br&gt;Em minhas mãos tenho a espada para a justiça e o escudo para proteger! No meu coração, o amor!&lt;br&gt;&lt;br&gt;Não esqueça do seu coração como um Berserker!" />
+  <keys prop="Description" type="monster" key="Dialog_1040004_Answer_4_Text" value="Aprender Habilidades Avançadas de Berserker" />
+  <keys prop="Description" type="monster" key="Dialog_1040005_Title" value="Mestre de Habilidades de Feiticeiros Wizlead" />
+  <keys prop="Description" type="monster" key="Dialog_1040005_Text0" value="Se você tem poder de sobra, então use-o!&lt;br&gt;&lt;br&gt;Nós vamos andar com equilíbrio e não fugir da providência. &lt;br&gt;&lt;br&gt;Nada é dado a um feiticeiro que não se esforça. O que você quer, feiticeiro ingênuo?" />
+  <keys prop="Description" type="monster" key="Dialog_1040005_Answer_4_Text" value="Advanced Wizard to learn skills" />
+  <keys prop="Description" type="monster" key="Dialog_1040006_Title" value="Millia, Mestre de Habilidades de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_1040006_Text0" value="Exalte todas as coisas deste mundo... &lt;br&gt;&lt;br&gt;Você acredita em regeneração no meio da destruição? Você acredita em todas as coisas voltando à vida?&lt;br&gt;&lt;br&gt;Se você acredita, terá minha ajuda." />
+  <keys prop="Description" type="monster" key="Dialog_1040006_Answer_4_Text" value="Aprender Habilidades Avançadas de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_1040007_Title" value="Seed, Mestre de Habilidades de Assassino" />
+  <keys prop="Description" type="monster" key="Dialog_1040007_Text0" value="Para a luz no escuro.&lt;br&gt;&lt;br&gt;Querido irmão, como você está hoje? Querido irmão, como será o amanhã?&lt;br&gt;&lt;br&gt; Mesmo se as coisas forem terríveis, se vivermos para o amanhã, não haverá arrependimentos. Então, o que está acontecendo?" />
+  <keys prop="Description" type="monster" key="Dialog_1040007_Answer_4_Text" value="Aprender Habilidades Avançadas de Assassino" />
+  <keys prop="Description" type="monster" key="Dialog_1040008_Title" value="Ian, Mestre de Habilidades de Arqueiro" />
+  <keys prop="Description" type="monster" key="Dialog_1040008_Text0" value="Prosperidade vem da partilha e doação.&lt;br&gt;&lt;br&gt;O que é obtido da natureza retorna para a natureza. Não force, mas deixe estar. &lt;br&gt;&lt;br&gt;Se você fizer o seu melhor, é o suficiente. Tudo o mais acontecerá pela lei da natureza. Como alguém com mais experiência, contarei a você tudo que sei." />
+  <keys prop="Description" type="monster" key="Dialog_1040008_Answer_4_Text" value="Aprender Habilidades Avançadas de Arqueiro" />
+  <keys prop="Description" type="monster" key="Dialog_1040009_Title" value="Velzeroth" />
+  <keys prop="Description" type="monster" key="Dialog_1040009_Text0" value="Esperei por muito tempo neste lugar, preso ao meu compromisso. O que o destino me reserva?" />
+  <keys prop="Description" type="monster" key="Dialog_1040010_Title" value="Comerciante de Alimentos e Mercadorias em Geral Mac" />
+  <keys prop="Description" type="monster" key="Dialog_1040010_Text0" value="Boas-vindas. Temos tudo de tudo e nada de nada!" />
+  <keys prop="Description" type="monster" key="Dialog_1040011_Title" value="Danzuul" />
+  <keys prop="Description" type="monster" key="Dialog_1040011_Text0" value="Sobrevivi aos lobisomens... por pouco. Mas se não recuperarmos o rancho, vamos morrer de fome." />
+  <keys prop="Description" type="monster" key="Dialog_1040012_Title" value="Mariel" />
+  <keys prop="Description" type="monster" key="Dialog_1040012_Text0" value="O-oi... Como você está? Soube que este lugar é bem perigoso. &#xD;&#xA;&lt;br&gt;&lt;br&gt;Eu deveria ter treinado quando tive a oportunidade. Talvez teria conseguido proteger Magren." />
+  <keys prop="Description" type="monster" key="Dialog_1040013_Title" value="Soldado das Ruínas Carel" />
+  <keys prop="Description" type="monster" key="Dialog_1040013_Text0" value="Olá! Sou a força que habita as Ruínas!&lt;br&gt;&lt;br&gt;Sim, sou uma força de um. Aparentemente, este posto não era importante o suficiente para mais do que um soldado. Claro, existem todos os tipos de monstros, fantasmas e coisas horríveis, mas não, vamos enviar uma pessoa. Esquadrão Carel a seu dispor." />
+  <keys prop="Description" type="monster" key="Dialog_1040014_Title" value="Maria" />
+  <keys prop="Description" type="monster" key="Dialog_1040014_Text0" value="A luz é uma bênção, viajante. Você tem muita coragem para vir a um lugar como este. Sou Maria, e cuido dos feridos aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1040015_Title" value="Rancheiro Herbert" />
+  <keys prop="Description" type="monster" key="Dialog_1040015_Text0" value="Nunca te vi por aqui antes. Melhor se fazer útil. " />
+  <keys prop="Description" type="monster" key="Dialog_1040016_Title" value="Caçador de Lobos Amos" />
+  <keys prop="Description" type="monster" key="Dialog_1040016_Text0" value="Você tem coragem para andar por um rancho cheio de lobisomens. " />
+  <keys prop="Description" type="monster" key="Dialog_1040017_Title" value="Ralf" />
+  <keys prop="Description" type="monster" key="Dialog_1040017_Text0" value="Olá, sou o Ralf. Se você veio causar problemas, vai se ver comigo." />
+  <keys prop="Description" type="monster" key="Dialog_1040018_Title" value="Jensen" />
+  <keys prop="Description" type="monster" key="Dialog_1040018_Text0" value="Sou fazendeiro há muito tempo, mas nunca vi nada como aquele ataque de lobos. O rebanho está espalhado por todas as partes e eu não sei quantas pessoas morreram. O que está acontecendo com o mundo?" />
+  <keys prop="Description" type="monster" key="Dialog_1040019_Title" value="Migran" />
+  <keys prop="Description" type="monster" key="Dialog_1040019_Text0" value="Você está falando com a líder dos Comerciantes de Baús da Felicidade, fique sabendo. Sinto-me lisonjeada por você querer negociar, mas duvido que consiga dar conta do volume com o qual costumo lidar." />
+  <keys prop="Description" type="monster" key="Dialog_1040020_Title" value="Nikam" />
+  <keys prop="Description" type="monster" key="Dialog_1040020_Text0" value="Você acha que eu ganho muito dinheiro, não acha? Está enganado. Minhas reservas são péssimas. Convenhamos, gerenciar um negócio em um lugar perigoso como este não é exatamente para se ter lucro. Tem mais a ver com senso de responsabilidade." />
+  <keys prop="Description" type="monster" key="Dialog_1040020_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_1040021_Title" value="Duque" />
+  <keys prop="Description" type="monster" key="Dialog_1040021_Text0" value="Contanto que se tenha alguém para amar, dá para passar por tudo. Apenas se alegre por estar vivo." />
+  <keys prop="Description" type="monster" key="Dialog_1040022_Title" value="Derick" />
+  <keys prop="Description" type="monster" key="Dialog_1040022_Text0" value="Somos bons cidadãos. Pagamos nossos impostos. Então como é que o reino pôde permitir que um monte de Lebrini invadisse e tomasse nosso lar, hein?" />
+  <keys prop="Description" type="monster" key="Dialog_1040023_Title" value="Sophia" />
+  <keys prop="Description" type="monster" key="Dialog_1040023_Text0" value="Meu sogro e meu marido quase não conseguiram sair vivos. " />
+  <keys prop="Description" type="monster" key="Dialog_1040024_Title" value="Lauren" />
+  <keys prop="Description" type="monster" key="Dialog_1040024_Text0" value="Acredito que eu poderia montar minha loja aqui, mas parece meio perigoso. " />
+  <keys prop="Description" type="monster" key="Dialog_1040025_Title" value="Corvo" />
+  <keys prop="Description" type="monster" key="Dialog_1040025_Text0" value="Ei, você. O que você está fazendo?&lt;br&gt;&lt;br&gt; Termine suas tarefas e depois conversamos. Estou ocupado também. Temos muitas coisas a fazer.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1040026_Title" value="Eldred, o Feiticeiro da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_1040026_Text0" value="Como uma Virtude do Arcano, minha maior obrigação é buscar conhecimento. Nossos magos não devem se macular com sonhos de glória e riqueza. Devemos desejar conhecimento e nada mais. Quem, além de um mago, é mais adequado para tais buscas?" />
+  <keys prop="Description" type="monster" key="Dialog_1040027_Title" value="Leila" />
+  <keys prop="Description" type="monster" key="Dialog_1040027_Text0" value="Veio ao bar no meio do dia, né? Pelo visto, temos um cliente campeão.&lt;br&gt;&lt;br&gt;Ultimamente, os bares andam cheios de patifes e trabalhadores braçais, todos eles reclamando que os mercenários têm tomado seus trabalhos. Eu não me importaria se eles não estivessem bebendo as coisas mais baratas que conseguem comprar." />
+  <keys prop="Description" type="monster" key="Dialog_1040028_Title" value="Sra. Barelli" />
+  <keys prop="Description" type="monster" key="Dialog_1040028_Text0" value="Você deve ser meio mercenário, gabando-se desse jeito. Meu filho é soldado, sabia? Eu disse para ele ser um agricultor, mas ele não me ouve. Agora, está localizado em Sansupus, enfrentando sabe Ellora o quê.&lt;br&gt;&lt;br&gt;Eu perco o sono toda noite, preocupado com ele." />
+  <keys prop="Description" type="monster" key="Dialog_1040029_Title" value="Howard" />
+  <keys prop="Description" type="monster" key="Dialog_1040029_Text0" value="Soldado raso Howard, primeira infantaria. Agradecemos a sua cooperação." />
+  <keys prop="Description" type="monster" key="Dialog_1040030_Title" value="Charlotte" />
+  <keys prop="Description" type="monster" key="Dialog_1040030_Text0" value="Quando não é uma coisa, é outra. Meu amado foi enviado em uma missão muito perigosa e eu não tenho notícias dele há semanas. Passei a noite toda escrevendo esta carta, mas não posso nem sequer deixar a capital antes de concluir meus estudos! Como poderei entregar minha carta a ele em uma zona de batalha?" />
+  <keys prop="Description" type="monster" key="Dialog_1040031_Title" value="Stuart" />
+  <keys prop="Description" type="monster" key="Dialog_1040031_Text0" value="Se tiver uma reclamação a fazer, encontrou o homem certo. Não que eu possa fazer algo para ajudar, claro. Olha, pensei que fosse meu trabalho fosse cuidar para que o reino não tenha problemas. Mas não, não, claramente estou aqui para ouvir cada reclamação boba que os cidadãos de Hakanas se dão ao trabalho de fazer. Sem falar que não tenho dinheiro para consertar nada. &lt;br&gt;&lt;br&gt;Porém, só eu consigo fazer o que eu faço, então não tem jeito." />
+  <keys prop="Description" type="monster" key="Dialog_1040032_Title" value="Capitão Melvin Haan" />
+  <keys prop="Description" type="monster" key="Dialog_1040032_Text0" value="Meu nome é Melvin Haan e estou no comando da torre de vigia do norte.&lt;br&gt;Você veio aqui por um curto período de tempo? Ouvi dizer que a situação em torno de Zadaran é séria, mas agora ouvi dizer que está um pouco estável.&lt;br&gt;&lt;br&gt;Parece uma solução habilidosa.&lt;br&gt;Mas não basta apenas ser habilidosa.&lt;br&gt; Deve ser perfeita!" />
+  <keys prop="Description" type="monster" key="Dialog_1040033_Title" value="Guarda Lucas" />
+  <keys prop="Description" type="monster" key="Dialog_1040033_Text0" value="É verdade o que dizem sobre Sansupus? Que o rancho todo está tomado por lobisomens?&lt;br&gt;&lt;br&gt;Jack e eu íamos tentar caçar lobisomens, mas minha família me convenceu a não fazer isso. Eu deveria ter ido com ele! Perdi uma grande aventura!" />
+  <keys prop="Description" type="monster" key="Dialog_1040034_Title" value="Caçador Kaal" />
+  <keys prop="Description" type="monster" key="Dialog_1040034_Text0" value="Lobisomens...? Como é possível?" />
+  <keys prop="Description" type="monster" key="Dialog_1040035_Title" value="Liam" />
+  <keys prop="Description" type="monster" key="Dialog_1040035_Text0" value="Calma! A magia de Salant manchou esta terra. Se tiver que passar pelas Terras Altas, pegue a estrada para o sul.&lt;br&gt;&lt;br&gt;Espere, você é um desses cavaleiros da capital! Nesse caso, apenas tente não morrer." />
+  <keys prop="Description" type="monster" key="Dialog_1040036_Title" value="Artesão Iliad" />
+  <keys prop="Description" type="monster" key="Dialog_1040036_Text0" value="Eu vim aqui reunir materiais, mas mal consigo deixar a costa sem que algo tente arrancar minha mão... " />
+  <keys prop="Description" type="monster" key="Dialog_1040037_Title" value="Thomas" />
+  <keys prop="Description" type="monster" key="Dialog_1040037_Text0" value="Claro, eu costumava entrar de cabeça na batalha sem medo de nada. Mas esses monstros? Eles são mais ferozes do que qualquer criatura que já vi!" />
+  <keys prop="Description" type="monster" key="Dialog_1040038_Title" value="Lokke" />
+  <keys prop="Description" type="monster" key="Dialog_1040038_Text0" value="Dizem que a pescaria ensina mais a ter tranquilidade do que a pegar peixes, mas quer saber de uma coisa? Isso é o que dizem os amadores." />
+  <keys prop="Description" type="monster" key="Dialog_1040039_Title" value="Azalia, a Feiticeira da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_1040039_Text0" value="Sou Azalia, aspirante a Feiticeira da Virtude. Ordens secretas do Comandante Corvo só podem significar uma coisa: você está em uma missão muito importante.&lt;br&gt;&lt;br&gt;Isso quer dizer que devemos ser rápidos." />
+  <keys prop="Description" type="monster" key="Dialog_1040040_Title" value="Ancião James" />
+  <keys prop="Description" type="monster" key="Dialog_1040040_Text0" value="Esta cidadezinha pode não impressionar muito, mas nossas fazendas fornecem quase metade dos alimentos de Hakanas. Pelo menos, costumávamos...&lt;br&gt;&lt;br&gt;Verdade seja dita, estaríamos nos preparando para a colheita do próximo ano, não fossem esses vampiros." />
+  <keys prop="Description" type="monster" key="Dialog_1040041_Title" value="Fazendeiro Matthew" />
+  <keys prop="Description" type="monster" key="Dialog_1040041_Text0" value="Não me importo com esses vampiros. Tenho que cuidar da terra! É pra isso que eu vivo. Não sei quem está fazendo o quê, mas vão pagar por terem envolvido pessoas inocentes como eu.&lt;br&gt;&lt;br&gt;Meus pais me ensinaram a pensar nas outras pessoas. Não entendo como essas pessoas estudadas não sabem coisas simples como essa." />
+  <keys prop="Description" type="monster" key="Dialog_1040042_Title" value="Aurelia" />
+  <keys prop="Description" type="monster" key="Dialog_1040042_Text0" value="Precisa de alguma coisa? Posso fazer o que for, se você me der os ingredientes." />
+  <keys prop="Description" type="monster" key="Dialog_1040043_Title" value="Miliciano Drex" />
+  <keys prop="Description" type="monster" key="Dialog_1040043_Text0" value="Hein?!" />
+  <keys prop="Description" type="monster" key="Dialog_1040044_Title" value="Guarda Logan" />
+  <keys prop="Description" type="monster" key="Dialog_1040044_Text0" value="Você é corajoso por entrar aqui desse jeito." />
+  <keys prop="Description" type="monster" key="Dialog_1040045_Title" value="Jessica" />
+  <keys prop="Description" type="monster" key="Dialog_1040045_Text0" value="Como você chegou aqui? " />
+  <keys prop="Description" type="monster" key="Dialog_1040046_Title" value="Lady Godiva" />
+  <keys prop="Description" type="monster" key="Dialog_1040046_Text0" value="Como chegamos a esse ponto...?&lt;br&gt;&lt;br&gt;Não vou me esconder dos pecados de meu pai. Se o rei permitir que eu redima o nome de minha família, farei o que for preciso. E se ele quiser tirar meu título, não vou me opor. " />
+  <keys prop="Description" type="monster" key="Dialog_1040047_Title" value="Sir Leto" />
+  <keys prop="Description" type="monster" key="Dialog_1040047_Text0" value="Pa-pare! Esta é a propriedade do Conde Carleon, Lorde das Terras Altas! Você não pode entrar!" />
+  <keys prop="Description" type="monster" key="Dialog_1040048_Title" value="Soldado Raso Austin" />
+  <keys prop="Description" type="monster" key="Dialog_1040048_Text0" value="A magia maligna de Salant colocou a vida selvagem contra nós. Alguma coisa na floresta está fazendo com que eles enlouqueçam! " />
+  <keys prop="Description" type="monster" key="Dialog_1040049_Title" value="Layla" />
+  <keys prop="Description" type="monster" key="Dialog_1040049_Text0" value="Aqui é o acampamento dos Cavaleiros do Dragão! Somente pessoas autorizadas podem entrar aqui. Pode se afastar agora!&lt;br&gt;&lt;br&gt;O que? Você está fazendo a missão dada pelo Corvo? Então pode ficar aqui, mas peço que não cause nenhuma confusão por aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1040050_Title" value="Capitão Rostham" />
+  <keys prop="Description" type="monster" key="Dialog_1040050_Text0" value="Devemos acabar com a ameaça Khabimista. O resto é só distração." />
+  <keys prop="Description" type="monster" key="Dialog_1040051_Title" value="Phillip" />
+  <keys prop="Description" type="monster" key="Dialog_1040051_Text0" value="O Instituto Real de Ciências se dedica a desvendar os segredos do mundo natural. Eu não deveria estar aqui, mas fico feliz por estar... " />
+  <keys prop="Description" type="monster" key="Dialog_1040052_Title" value="Natalie" />
+  <keys prop="Description" type="monster" key="Dialog_1040052_Text0" value="Não me importa o que digam. Não saio daqui sem saber o que aconteceu com meu amado marido!" />
+  <keys prop="Description" type="monster" key="Dialog_1040053_Title" value="August" />
+  <keys prop="Description" type="monster" key="Dialog_1040053_Text0" value="Seguir esses soldados é bom para os negócios, mas nunca me senti tão entediado na vida! A mesma rotina, os mesmos rostos e a mesma comida horrorosa, TODOS OS DIAS!&lt;br&gt;&lt;br&gt;Mas já chega de falar de mim. Posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_1040053_Answer_2_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_1040054_Title" value="Zeloth" />
+  <keys prop="Description" type="monster" key="Dialog_1040054_Text0" value="Está frio demais aqui. Detesto enxergar minha própria respiração saindo. Detesto ouvir meus pés amassando a neve. E detesto as feras horrorosas que chamam o frio de lar. Este lugar costumava ser muito mais quente!" />
+  <keys prop="Description" type="monster" key="Dialog_1040055_Title" value="Edgar, o Feiticeiro da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_1040055_Text0" value="Esse mundo é repleto de maravilhas, e eu pretendo descobrir todas elas. Olá, meu novo amigo. Pode me ajudar a construir um legado que dure mil anos?" />
+  <keys prop="Description" type="monster" key="Dialog_1040056_Title" value="Syven" />
+  <keys prop="Description" type="monster" key="Dialog_1040056_Text0" value="Boas-vindas. Não tenho muita variedade, mas tenho tudo o que é necessário." />
+  <keys prop="Description" type="monster" key="Dialog_1040056_answer_1_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_1040057_Title" value="Ilvar" />
+  <keys prop="Description" type="monster" key="Dialog_1040057_Text0" value="Sou mineiro desde sempre. Eu trabalhava com os Crokhoon para encontrar bons minerais. Tenho um incrível dom para encontrar minério, mas não tanto para a mineração. &lt;br&gt;&lt;br&gt;Espero muito voltar às Minas Gélidas um dia..." />
+  <keys prop="Description" type="monster" key="Dialog_1040058_Title" value="Cabo Cosette" />
+  <keys prop="Description" type="monster" key="Dialog_1040058_Text0" value="O Capitão Rostham mandou você? Boas-vindas ao acampamento.&lt;br&gt;&lt;br&gt;O bom capitão me recrutou, sabe? Ele me pegou tentando roubar sua carteira, e em vez de me entregar, investiu meus talentos para trabalhar para os Cavaleiros do Dragão." />
+  <keys prop="Description" type="monster" key="Dialog_1040059_Title" value="Patrulheiro Secreto dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="Dialog_1040059_Text0" value="Shh!&lt;br&gt;&lt;br&gt;Estamos em uma missão secreta. Não venha falar conosco desse jeito!" />
+  <keys prop="Description" type="monster" key="Dialog_1040060_Title" value="Baros, o Feiticeiro da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_1040060_Text0" value="Demônios Khabimistas. Eles tiram cadáveres das covas, e transformam moradores inocentes em lobisomens e vampiros. Nós deveríamos tê-los destruído há muito tempo." />
+  <keys prop="Description" type="monster" key="Dialog_1040061_Title" value="Jeffy" />
+  <keys prop="Description" type="monster" key="Dialog_1040061_Text0" value="Eu... Eu não me sinto muito bem... " />
+  <keys prop="Description" type="monster" key="Dialog_1040062_Title" value="Lobisomem Jeffy" />
+  <keys prop="Description" type="monster" key="Dialog_1040062_Text0" value="Como... Eu me tornei tão monstruoso? O que aconteceu?" />
+  <keys prop="Description" type="monster" key="Dialog_1040063_Title" value="Santuário de Trânsito do Reino de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_1040063_Text0" value="Este Santuário de Trânsito levará você à Travessia de Hakain." />
+  <keys prop="Description" type="monster" key="Dialog_1040063_Answer_0_Text" value="Viajar para a Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Dialog_1040064_Title" value="Santuário de Trânsito da Floresta de Brakarr" />
+  <keys prop="Description" type="monster" key="Dialog_1040064_Text0" value="Este Santuário de Trânsito levará você à Floresta de Brakarr." />
+  <keys prop="Description" type="monster" key="Dialog_1040064_Answer_0_Text" value="Viajar para a Floresta de Brakarr " />
+  <keys prop="Description" type="monster" key="Dialog_1040065_Title" value="Hugh" />
+  <keys prop="Description" type="monster" key="Dialog_1040065_Text0" value="O que fizemos para merecer isso?" />
+  <keys prop="Description" type="monster" key="Dialog_2023005_title" value="Mac, o Comerciante" />
+  <keys prop="Description" type="monster" key="Dialog_2023005_text0" value="Boas-vindas.&lt;br&gt;&lt;br&gt;Temos tudo de tudo e nada de nada!" />
+  <keys prop="Description" type="monster" key="Dialog_2023005_answer_0_text" value="grocery store" />
+  <keys prop="Description" type="monster" key="Dialog_2023006_title" value="Costureiro Bolt" />
+  <keys prop="Description" type="monster" key="Dialog_2023006_text0" value="Temos todos os equipamentos do mundo! Ou quase!" />
+  <keys prop="Description" type="monster" key="Dialog_2023006_answer_0_text" value="shop equipment" />
+  <keys prop="Description" type="monster" key="Dialog_2023007_title" value="Comerciante de Armas Robun" />
+  <keys prop="Description" type="monster" key="Dialog_2023007_text0" value="Uma arma na qual confiar totalmente! Não há onde conseguir outra assim, só aqui!" />
+  <keys prop="Description" type="monster" key="Dialog_2023007_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_2023008_title" value="Paul" />
+  <keys prop="Description" type="monster" key="Dialog_2023008_text0" value="De uma mão só ou de duas, tenho o que você precisa. É só falar que arma quer!" />
+  <keys prop="Description" type="monster" key="Dialog_2023008_answer_0_text" value="weapon shop" />
+  <keys prop="Description" type="monster" key="Dialog_2023009_title" value="Comerciante de Armas Feighan" />
+  <keys prop="Description" type="monster" key="Dialog_2023009_text0" value="As armas precisam ser substituídas, como qualquer outra ferramenta. E não compre armas ruins. Não vale a pena arriscar a vida desse jeito." />
+  <keys prop="Description" type="monster" key="Dialog_2023009_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_2023010_title" value="Armeiro Rolinoa" />
+  <keys prop="Description" type="monster" key="Dialog_2023010_text0" value="A defesa é o melhor ataque, e não permita que ninguém diga o contrário!" />
+  <keys prop="Description" type="monster" key="Dialog_2023010_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_2023011_title" value="Armeiro Clark" />
+  <keys prop="Description" type="monster" key="Dialog_2023011_text0" value="Veja você! Aposto que a maioria dos inimigos não consegue te atingir nem uma vez. Mas no caso de um inimigo, por sorte, acabar te acertando, você não gostaria de ter uma armadura boa? Por favor, analise meus produtos." />
+  <keys prop="Description" type="monster" key="Dialog_2023011_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_2023012_title" value="Comerciante Benjamin" />
+  <keys prop="Description" type="monster" key="Dialog_2023012_text0" value="Eu vendo todos os tipos de coisas. Não vá para outras lojas. Por favor!" />
+  <keys prop="Description" type="monster" key="Dialog_2023012_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_2023013_title" value="Costureiro Jeff" />
+  <keys prop="Description" type="monster" key="Dialog_2023013_text0" value="Qualquer coisinha é capaz de fazer diferença no campo de batalha. Então, por que correr riscos com sua armadura?" />
+  <keys prop="Description" type="monster" key="Dialog_2023013_answer_0_text" value="shop equipment" />
+  <keys prop="Description" type="monster" key="Dialog_2023014_title" value="Farmacêutico Roland" />
+  <keys prop="Description" type="monster" key="Dialog_2023014_text0" value="Em um caso de emergência, não há nada melhor do que uma poção. Meus produtos não são baratos, mas você vai ficar feliz com eles!" />
+  <keys prop="Description" type="monster" key="Dialog_2023014_answer_0_text" value="Potion Shop" />
+  <keys prop="Description" type="monster" key="Dialog_2023015_title" value="Armeiro Cron" />
+  <keys prop="Description" type="monster" key="Dialog_2023015_text0" value="Homens de verdade são exigentes com suas armaduras. Sim, a sobrevivência é importância, mas só precisamos disso?" />
+  <keys prop="Description" type="monster" key="Dialog_2023015_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_2023016_title" value="Comerciante de Armas Beck" />
+  <keys prop="Description" type="monster" key="Dialog_2023016_text0" value="Você está procurando uma arma aqui? Não é problema meu, mas isso me parece falta de preparo.&lt;br&gt;&lt;br&gt;Tenho algumas coisas para mostrar, se você estiver desesperado." />
+  <keys prop="Description" type="monster" key="Dialog_2023016_answer_0_text" value="weapon shop" />
+  <keys prop="Description" type="monster" key="Dialog_2023017_title" value="Armeiro Svent" />
+  <keys prop="Description" type="monster" key="Dialog_2023017_text0" value="Ótimos mestres sabem ótimas coisas!&lt;br&gt;&lt;br&gt;Tenho algumas coisas ótimas. Você pode tê-las, desde que tenha dinheiro." />
+  <keys prop="Description" type="monster" key="Dialog_2023017_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_2023018_title" value="Bentley" />
+  <keys prop="Description" type="monster" key="Dialog_2023018_text0" value="Se quiser sobreviver na floresta, precisa de proteção. Você está procurando alguma coisa?" />
+  <keys prop="Description" type="monster" key="Dialog_2023018_answer_0_text" value="armor shop" />
+  <keys prop="Description" type="monster" key="Dialog_2023019_title" value="Lina" />
+  <keys prop="Description" type="monster" key="Dialog_2023019_text0" value="Dê uma olhada aqui. Espero que você encontre o que está procurando." />
+  <keys prop="Description" type="monster" key="Dialog_2023019_answer_0_text" value="grocery store" />
+  <keys prop="Description" type="monster" key="Dialog_2023020_title" value="Maggie" />
+  <keys prop="Description" type="monster" key="Dialog_2023020_text0" value="Até mesmo os aventureiros precisam comer. Não se pode sair para lutar, brigar ou o que quer que seja com o estômago vazio!" />
+  <keys prop="Description" type="monster" key="Dialog_2023020_answer_0_text" value="food stores" />
+  <keys prop="Description" type="monster" key="Dialog_2023021_title" value="Quitandeira Gina" />
+  <keys prop="Description" type="monster" key="Dialog_2023021_text0" value="Comida deliciosa! O que mais se pode precisar?" />
+  <keys prop="Description" type="monster" key="Dialog_2023021_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="Dialog_2023022_title" value="Comerciante Molly" />
+  <keys prop="Description" type="monster" key="Dialog_2023022_text0" value="Mantenha distância dos agricultores, desconhecido. Os vampiros não estão de brincadeira.&lt;br&gt;&lt;br&gt; Para nossa sorte, a capital enviou alguns soldados para nos manter em segurança." />
+  <keys prop="Description" type="monster" key="Dialog_2023022_answer_0_text" value="grocery store" />
+  <keys prop="Description" type="monster" key="Dialog_2023023_title" value="Quitandeira Peggy" />
+  <keys prop="Description" type="monster" key="Dialog_2023023_text0" value="Nutritivo e saboroso! Se quiser as duas coisas, procurou a mulher certa." />
+  <keys prop="Description" type="monster" key="Dialog_2023023_answer_0_text" value="food stores" />
+  <keys prop="Description" type="monster" key="Dialog_2023024_title" value="Quitandeira Laura" />
+  <keys prop="Description" type="monster" key="Dialog_2023024_text0" value="Uma ótima comida envolve preparo e amor, e tenho essas duas coisas em abundância. Quer comprar algo?" />
+  <keys prop="Description" type="monster" key="Dialog_2023024_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="Dialog_2023025_title" value="Vendedora de Poção Elina" />
+  <keys prop="Description" type="monster" key="Dialog_2023025_text0" value="Esses malditos alquimistas são sempre muito mesquinhos. Compro várias poções deles e eles nunca me dão um desconto! Mas... o que posso fazer?" />
+  <keys prop="Description" type="monster" key="Dialog_2023025_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="Dialog_1040066_title" value="Guarda do Santuário de Trânsito Afris" />
+  <keys prop="Description" type="monster" key="Dialog_1040066_text0" value="Você pode usar este Santuário de Trânsito para se teletransportar para outros santuários na região. Vai encontrar Santuários de Regiões em áreas maiores que podem viajar entre continentes, mas ainda não tenho qualificação para operá-los ainda. " />
+  <keys prop="Description" type="monster" key="Dialog_1040066_answer_0_text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_1040067_title" value="portal to move four prion" />
+  <keys prop="Description" type="monster" key="Dialog_1040067_text0" value="Using this portal, not able to move quickly to a fixed place of Ned continent.&#xD;&#xA;&lt;br&gt; &lt;br&gt;&#xD;&#xA;of course. 'm Being a small fee in exchange for magic beyond time and space. Tengah use the portal? " />
+  <keys prop="Description" type="monster" key="Dialog_1040067_answer_0_text" value="Go to the Elven Ruins" />
+  <keys prop="Description" type="monster" key="Dialog_1040067_answer_1_text" value="Back to the Woods Kehl mill town" />
+  <keys prop="Description" type="monster" key="Dialog_1040067_answer_2_text" value="Go to the woods garrison roar" />
+  <keys prop="Description" type="monster" key="Dialog_1040067_answer_3_text" value="sinryong Go to the Knights Templar garrison [Forest of Spirits]" />
+  <keys prop="Description" type="monster" key="Dialog_1040068_title" value="Guarda Avançado do Santuário de Trânsito Antílope" />
+  <keys prop="Description" type="monster" key="Dialog_1040068_text0" value="Este santuário pode levar você a diversos outros santuários, incluindo a continentes distantes. " />
+  <keys prop="Description" type="monster" key="Dialog_1040068_answer_0_text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_1040068_answer_1_text" value="Go to the woods garrison roar" />
+  <keys prop="Description" type="monster" key="Dialog_1040069_title" value="Guarda do Santuário de Trânsito Aronward" />
+  <keys prop="Description" type="monster" key="Dialog_1040069_text0" value="Este santuário pode transportar você a qualquer lugar do mundo.&lt;br&gt;&lt;br&gt;Claro, é cobrado um pequeno valor para atravessar o tempo e o espaço." />
+  <keys prop="Description" type="monster" key="Dialog_1040069_answer_0_text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_1040069_answer_1_text" value="to go to Canas Province" />
+  <keys prop="Description" type="monster" key="Dialog_1040070_title" value="Capitão Levin Kotter" />
+  <keys prop="Description" type="monster" key="Dialog_1040070_text0" value="As coisas andam meio malucas aqui ultimamente, mas estamos fazendo o melhor que podemos para proteger este lugar." />
+  <keys prop="Description" type="monster" key="Dialog_1040071_title" value="Lorde Balleroa" />
+  <keys prop="Description" type="monster" key="Dialog_1040071_text0" value="Eu vim até aqui em busca de grande sonho meu. Eu serei aquele que estará no topo deste reino um dia. Estou falando sério! Para isso, preciso criar uma rede de contatos com pessoas importantes. Eu estou montando essa rede agora. Que tal me ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_1040072_title" value="Sir San Garlen" />
+  <keys prop="Description" type="monster" key="Dialog_1040072_text0" value="Tem alguma coisa para me contar?" />
+  <keys prop="Description" type="monster" key="Dialog_1040073_title" value="Corretor do Mercado Harridman" />
+  <keys prop="Description" type="monster" key="Dialog_1040073_text0" value="Se está aqui para comprar ou vender, fale. Não tenho tempo para papo furado!" />
+  <keys prop="Description" type="monster" key="Dialog_1040074_title" value="Capitão de Navio Yorof" />
+  <keys prop="Description" type="monster" key="Dialog_1040074_text0" value="Posso ir a qualquer lugar, se for pago para isso. Para onde estava pensando em ir?" />
+  <keys prop="Description" type="monster" key="Dialog_1040075_title" value="Capitão do Titã do Céu Spinit" />
+  <keys prop="Description" type="monster" key="Dialog_1040075_text0" value="Espere um minuto. Ainda estamos esperando alguns outros passageiros." />
+  <keys prop="Description" type="monster" key="Dialog_1040076_title" value="Tesoureiro Real Aronward" />
+  <keys prop="Description" type="monster" key="Dialog_1040076_text0" value="Se quiser ser rico, precisa analisar a floresta, não a árvore. Procure fluxos de caixa e faça os investimentos certos. E nunca tema alguns conselhos." />
+  <keys prop="Description" type="monster" key="Dialog_1040077_title" value="Linetta, a Feiticeira da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_1040077_text0" value="Apesar do que alguns de meus colegas poderiam fazer com que você pensasse, as Virtudes existem, antes de mais nada, para manter a justiça diante do mal. Só uma mente diligente e o jeito para a mágica não levarão você ao Arcano." />
+  <keys prop="Description" type="monster" key="Dialog_1040078_title" value="Mestre Ferreiro Tuhorin" />
+  <keys prop="Description" type="monster" key="Dialog_1040078_text0" value="Você! Está interessado em se tornar um ferreiro? É tudo de que precisa!" />
+  <keys prop="Description" type="monster" key="Dialog_1040079_title" value="Haslem" />
+  <keys prop="Description" type="monster" key="Dialog_1040079_text0" value="Fantasma de Hakain! Você me assustou! Não se aproxime tão silenciosamente assim de alguém, está bem? Pensei que algum zumbi tivesse entrado no acampamento!" />
+  <keys prop="Description" type="monster" key="Dialog_1040080_title" value="Mestre Armadureiro Swin" />
+  <keys prop="Description" type="monster" key="Dialog_1040080_text0" value="Hmm... Não acredito que você vestiu esses trapos... Sabe como é, o mundo nem sempre envolve ser eficiente e prático." />
+  <keys prop="Description" type="monster" key="Dialog_1040081_title" value="Guarda Diego" />
+  <keys prop="Description" type="monster" key="Dialog_1040081_text0" value="Tome cuidado, viajante. As estradas não são mais seguras. Eu já até soube que há dragões por perto." />
+  <keys prop="Description" type="monster" key="Dialog_1040082_title" value="Brody" />
+  <keys prop="Description" type="monster" key="Dialog_1040082_text0" value="Os Cavaleiros do Dragão têm um acampamento não muito longe daqui. Será que eles permitiriam que eu me unisse a eles? Meus amigos dizem que eu deveria ficar satisfeito na guarda da cidade, mas não sei..." />
+  <keys prop="Description" type="monster" key="Dialog_1040083_title" value="Aida" />
+  <keys prop="Description" type="monster" key="Dialog_1040083_text0" value="Quem... Quem é você? Onde estou?&lt;br&gt;&lt;br&gt;Meu filho, onde está meu filho Jeffy?" />
+  <keys prop="Description" type="monster" key="Dialog_1040084_title" value="Rainha Veneficia" />
+  <keys prop="Description" type="monster" key="Dialog_1040084_text0" value="Minha filha é uma pessoa delicada, mas o sangue de Hakain corre por suas veias. Tenho fé de que ela se manterá firme até você salvá-la." />
+  <keys prop="Description" type="monster" key="Dialog_9011008_title" value="Guia de Doma" />
+  <keys prop="Description" type="monster" key="Dialog_9011008_text0" value="Vamos aprender a domar animais.&lt;br&gt;&lt;br&gt;Em primeiro lugar, escolha um animal que pode ser domado.&lt;br&gt;&lt;br&gt;Em segundo lugar, aproxime-se e use suas habilidades de doma.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_3020702_Title" value="Tintureira Lables" />
+  <keys prop="Description" type="monster" key="Dialog_3020702_Text0" value="Boas-vindas. Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_3020702_Answer_0_Text" value="Gostaria de tingir um item." />
+  <keys prop="Description" type="monster" key="Dialog_3020702_Answer_1_Text" value="Gostaria de tingir meus cabelos." />
+  <keys prop="Description" type="monster" key="Dialog_3020901_Title" value="Socorrista" />
+  <keys prop="Description" type="monster" key="Dialog_3020901_Text0" value="Eu sinto uma dor na sua alma." />
+  <keys prop="Description" type="monster" key="Dialog_3020901_Answer_0_Text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="Dialog_9999999_Title" value="Último Número de Diálogo" />
+  <keys prop="Description" type="monster" key="Dialog_9999999_Text0" value="Último Número de Diálogo" />
+  <keys prop="Description" type="monster" key="Dialog_3020703_Title" value="Tintureira Irina" />
+  <keys prop="Description" type="monster" key="Dialog_3020703_Text0" value="Boas-vindas. Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_3020703_Answer_0_Text" value="Gostaria de tingir um item." />
+  <keys prop="Description" type="monster" key="Dialog_3020703_Answer_1_Text" value="Gostaria de tingir meus cabelos." />
+  <keys prop="Description" type="monster" key="Dialog_3020704_Title" value="Tintureira Rose" />
+  <keys prop="Description" type="monster" key="Dialog_3020704_Text0" value="Boas-vindas. Como posso te ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_3020704_Answer_0_Text" value="Gostaria de tingir um item." />
+  <keys prop="Description" type="monster" key="Dialog_3020704_Answer_1_Text" value="Gostaria de tingir meus cabelos." />
+  <keys prop="Description" type="monster" key="Dialog_1000001_Title" value="O Homem dos Eventos G☆STAR" />
+  <keys prop="Description" type="monster" key="Dialog_1000001_Text0" value="Boas vindas!&lt;br&gt;&lt;br&gt;G☆STAR 2010! Você está se divertindo?&lt;br&gt;&lt;br&gt;Tenha mais diversão com NED!" />
+  <keys prop="Description" type="monster" key="Dialog_1040085_Title" value="Mago em Trânsito Dyran" />
+  <keys prop="Description" type="monster" key="Dialog_1040085_Text0" value="O Salão do Conhecimento está escondido dentro do castelo de Hakanas. Precisaremos da ajuda de um mago, como eu, para chegar lá. Você gostaria de ir?" />
+  <keys prop="Description" type="monster" key="Dialog_1040085_Answer_0_Text" value="Eu gostaria de ir ao Salão do Conhecimento." />
+  <keys prop="Description" type="monster" key="Dialog_1040086_Title" value="Mago em Trânsito Lucos" />
+  <keys prop="Description" type="monster" key="Dialog_1040086_Text0" value="Você vai precisar de nossa ajuda para sair daqui também. Gostaria de voltar para o castelo agora?" />
+  <keys prop="Description" type="monster" key="Dialog_1040086_Answer_0_Text" value="Eu gostaria de voltar para o castelo." />
+  <keys prop="Description" type="monster" key="Dialog_1040087_Title" value="Peregrino Ander" />
+  <keys prop="Description" type="monster" key="Dialog_1040087_Text0" value="..." />
+  <keys prop="Description" type="monster" key="Dialog_1040088_Title" value="Behain" />
+  <keys prop="Description" type="monster" key="Dialog_1040088_Text0" value="Fale baixo." />
+  <keys prop="Description" type="monster" key="Dialog_1040089_Title" value="Sir Ripley" />
+  <keys prop="Description" type="monster" key="Dialog_1040089_Text0" value="Qual assunto você tem para tratar com um cavaleiro?" />
+  <keys prop="Description" type="monster" key="Dialog_1040090_Title" value="Stevens Braçoforte" />
+  <keys prop="Description" type="monster" key="Dialog_1040090_Text0" value="Deixe-me em paz. Posso me embebedar o quanto quiser!" />
+  <keys prop="Description" type="monster" key="Dialog_1040091_Title" value="Celene" />
+  <keys prop="Description" type="monster" key="Dialog_1040091_Text0" value="Espero que minha querida princesa esteja segura." />
+  <keys prop="Description" type="monster" key="Dialog_1040092_Title" value="Madame Ekaterina" />
+  <keys prop="Description" type="monster" key="Dialog_1040092_Text0" value="Como ousa falar comigo, camponês?!" />
+  <keys prop="Description" type="monster" key="Dialog_1040092_answer_0_Text" value="Madame Ekaterina está agindo de um jeito suspeito. Vamos perguntar por que está aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1040093_Title" value="Lis" />
+  <keys prop="Description" type="monster" key="Dialog_1040093_Text0" value="Graças à luz você não é um deles! Meus amigos... os guardas e as criadas, todos foram transformados em vampiros! Estou com muito medo. Não aguento mais lidar com isso!" />
+  <keys prop="Description" type="monster" key="Dialog_9011009_Title" value="Madame Ekaterina" />
+  <keys prop="Description" type="monster" key="Dialog_9011009_Text0" value="Por que está perguntando? Vai contar para a Princesa Lania?&lt;br&gt;&lt;br&gt;Vá em frente! Conte para ela! Conte para ela, se ainda conseguir encontrá-la aqui!&lt;br&gt;&lt;br&gt;Espere, isso mesmo. Não pode fazer isso porque vai desaparecer logo!" />
+</files>

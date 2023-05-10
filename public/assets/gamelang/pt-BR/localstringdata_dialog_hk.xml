@@ -1,0 +1,1094 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+  <keys prop="Description" type="monster" key="Dialog_1040094_Title" value="Cadáver de Gunther" />
+  <keys prop="Description" type="monster" key="Dialog_1040094_Text0" value="(O chão ao redor do corpo está escuro por causa do sangue seco)" />
+  <keys prop="Description" type="monster" key="Dialog_3050001_Title" value="Capitão Black Joe" />
+  <keys prop="Description" type="monster" key="Dialog_3050001_Text0" value="Olá." />
+  <keys prop="Description" type="monster" key="Dialog_3050002_Title" value="Capitão Skippus" />
+  <keys prop="Description" type="monster" key="Dialog_3050002_Text0" value="Entre em meu titã do céu e vamos para a Costa de Parna! Você está pronto para começar uma nova aventura, cavaleiro?" />
+  <keys prop="Description" type="monster" key="Dialog_3050002_Answer_0_Text" value="Viajar para a Costa de Parna" />
+  <keys prop="Description" type="monster" key="Dialog_1040095_Title" value="Frayer" />
+  <keys prop="Description" type="monster" key="Dialog_1040095_Text0" value="Cuidar dos familiares que habitam a Caldeira Quebrada é uma das minhas responsabilidades como sacerdote. Ninguém os conhece melhor que eu.&lt;br&gt;&lt;br&gt;Se você quiser voar mais alto, você pode tentar domar uma das fênixes daqui. Se você puder, é claro." />
+  <keys prop="Description" type="monster" key="Dialog_1040095_answer_7_text" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015660_Title" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015660_Text0" value="Cada familiar tem um limite de quão alto ele consegue voar. É preciso muito esforço e força para ele voar mais alto.&lt;br&gt;&lt;br&gt;Por exemplo, o Bico Flamejante de Caldeira consegue voar mais alto que o Filhote de Penavermelha, e o Crista da Chama da Pedra Incandescente consegue voar ainda mais alto que o Bico Flamejante de Caldeira." />
+  <keys prop="Description" type="monster" key="Dialog_1040096_Title" value="Soldado Raso Trid" />
+  <keys prop="Description" type="monster" key="Dialog_1040096_Text0" value="Ficar esperando pelo ataque das fênixes está me enlouquecendo. Estou disposto a lutar a qualquer hora, em qualquer lugar, mas meu comandante não deixa." />
+  <keys prop="Description" type="monster" key="Dialog_1040097_Title" value="Soldado Raso Rosette" />
+  <keys prop="Description" type="monster" key="Dialog_1040097_Text0" value="Não podemos deixar as fênixes soltas em Hakanas. Se você ver alguma delas escapar, me avise imediatamente!" />
+  <keys prop="Description" type="monster" key="Dialog_1040098_Title" value="Draden" />
+  <keys prop="Description" type="monster" key="Dialog_1040098_Text0" value="Os Dragões da Tempestade estão tentando dominar este lugar. Você vai me ajudar a defender minha terra sagrada?" />
+  <keys prop="Description" type="monster" key="Dialog_1040099_Title" value="Soldado Raso Daylos" />
+  <keys prop="Description" type="monster" key="Dialog_1040099_Text0" value="Meu esquadrão foi nomeado para proteger o portão, mas um dragão apareceu e os levou! Eu ainda estou vivo, mas os meus amigos...&lt;br&gt;&lt;br&gt;Eu ainda posso ouvir seus gritos. Eles estavam...caindo do céu... " />
+  <keys prop="Description" type="monster" key="Dialog_1040100_Title" value="Aventureiro Ferido" />
+  <keys prop="Description" type="monster" key="Dialog_1040100_Text0" value="Argh... Eu quase morri tentando domar um familiar voador... Tenho sorte de só ter quebrado a perna..." />
+  <keys prop="Description" type="monster" key="Dialog_1040101_Title" value="Serlian Ancião" />
+  <keys prop="Description" type="monster" key="Dialog_1040101_Text0" value="Fênixes atacaram nossa cidade. Tudo o que pudemos fazer foi correr. Como um desastre desses pôde acontecer?" />
+  <keys prop="Description" type="monster" key="Dialog_1040101_Answer_2_Text" value="Fênixes" />
+  <keys prop="Description" type="monster" key="Dialog_1040101_Answer_3_Text" value="Dragões da Tempestade" />
+  <keys prop="Description" type="monster" key="Dialog_1040102_Title" value="Zebia Koter" />
+  <keys prop="Description" type="monster" key="Dialog_1040102_Text0" value="Nós já estávamos com poucos homens por causa da guerra com Salant. Mas este caos nas terras altas? Não estávamos preparados para isso.&lt;br&gt;&lt;br&gt;Tenho certeza de que a Irmandade de Khabim está por trás de tudo isso." />
+  <keys prop="Description" type="monster" key="Dialog_1040103_Title" value="Cozinheiro do Acampamento Khude" />
+  <keys prop="Description" type="monster" key="Dialog_1040103_Text0" value="Nós somos caçadores, e não guerreiros. Claro que lutaremos se houver necessidade, mas tentamos evitar ao máximo." />
+  <keys prop="Description" type="monster" key="Dialog_1040104_Title" value="Legis" />
+  <keys prop="Description" type="monster" key="Dialog_1040104_Text0" value="Minha cabeça está doendo de novo. Desde que encontrei o ouro... Mas eu posso lidar com uma pequena tontura por mais ouro. " />
+  <keys prop="Description" type="monster" key="Dialog_1040105_Title" value="Capitão Perseguidor" />
+  <keys prop="Description" type="monster" key="Dialog_1040105_Text0" value="É difícil acompanhar os Cavaleiros do Dragão, mas os Caçadores de Averis não são preguiçosos.&lt;br&gt;&lt;br&gt;Estamos acostumados a ficar na fronteira. Quando uma nova aldeia é construída, ela precisa de carne fresca e peles. Isso dá um bom dinheiro. Mas até que os Khabimistas sejam derrotados, não acho que Hakanas construirá novas cidades." />
+  <keys prop="Description" type="monster" key="Dialog_1040106_Title" value="Unica" />
+  <keys prop="Description" type="monster" key="Dialog_1040106_Text0" value="Os unicórnios desta área nasceram a partir dos esforços dos magos. Eles juntaram um chifre de luz e o corpo de um cavalo.&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Alguns podem dizer que eles não são de verdade, mas isso não os faz menos especiais. A missão agora é fazer os unicórnios emitirem uma luz ainda mais forte. " />
+  <keys prop="Description" type="monster" key="Dialog_1040106_Answer_2_Text" value="Loja de Ração de Unicórnio" />
+  <keys prop="Description" type="monster" key="Dialog_3050801_Title" value="Annsjon Protetora do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_3050801_Text0" value="Eu posso ajudar você a se locomover mais rápido pela Travessia de Hakain. Me avise se você quiser usar o Santuário de Trânsito. " />
+  <keys prop="Description" type="monster" key="Dialog_3050801_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050802_Title" value="Raglans Protetor do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_3050802_Text0" value="Com um Santuário de Trânsito, você pode se mover rapidamente em qualquer lugar do continente. Se você tem um lugar para onde queira ir, você pode usar um Santuário de Trânsito. &lt;br&gt; &lt;br&gt; Claro que você sabe que você já visitou um desses uma vez, não é?" />
+  <keys prop="Description" type="monster" key="Dialog_3050802_Answer_7_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050802_Answer_10_Text" value="Viajar para Outras Regiões" />
+  <keys prop="Description" type="monster" key="Dialog_3050802_Answer_11_Text" value="Santuário de Trânsito e de Mundos" />
+  <keys prop="Description" type="monster" key="Dialog_3050803_Title" value="Croban Protetora do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_3050803_Text0" value="Aqui no Templo de Ellora nós temos um Santuário de Trânsito para a comodidade dos crentes. Você gostaria de utilizar o Santuário de Trânsito?" />
+  <keys prop="Description" type="monster" key="Dialog_3050803_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050804_Title" value="Darris" />
+  <keys prop="Description" type="monster" key="Dialog_3050804_Text0" value="O Santuário de Trânsito registra o histórico de visitas do visitante para que você possa navegar rápida e facilmente pelo portal onde quer que vá. &lt;br&gt;&lt;br&gt;Oh, você já sabia? É bom vê-lo, é minha missão semanal monitorar os corredores, mas ocasionalmente eles guiam os aventureiros que não sabem como usar o portal." />
+  <keys prop="Description" type="monster" key="Dialog_3050804_Answer_4_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050804_Answer_1_Text" value="Pronto." />
+  <keys prop="Description" type="monster" key="Dialog_3050805_Title" value="Drayful Protetora do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_3050805_Text0" value="Eu posso ajudar você a se locomover mais rápido pela Travessia de Hakain. Me avise se você quiser usar o Santuário de Trânsito. " />
+  <keys prop="Description" type="monster" key="Dialog_3050805_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_2030401_Title" value=" Mestre de Habilidade de Sacerdotes Sayne" />
+  <keys prop="Description" type="monster" key="Dialog_2030401_Text0" value="Minhas irmãs e eu trabalhamos para proteger este mundo até o retorno da deusa Ellora. O que você protege?" />
+  <keys prop="Description" type="monster" key="Dialog_2030401_Answer_0_Text" value="Aprender Habilidades de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_2030402_Title" value="Berdo" />
+  <keys prop="Description" type="monster" key="Dialog_2030402_Text0" value="Uma vez que esteja no campo de batalha, você precisa abandonar seus medos. Se você sentir muito medo, com certeza irá perder. Você não está só. Lembre-se de que seu familiar está com você. Mesmo nas piores condições possíveis, mesmo que seus companheiros abandonem você, seu familiar sempre estará lá." />
+  <keys prop="Description" type="monster" key="Dialog_2030402_Answer_8_Text" value="Familiares de Elite" />
+  <keys prop="Description" type="monster" key="Dialog_2030402_Answer_10_Text" value="Chakai" />
+  <keys prop="Description" type="monster" key="Dialog_2030402_Answer_11_Text" value="Bestas e Lanças" />
+  <keys prop="Description" type="monster" key="Dialog_2030403_Title" value="Dido" />
+  <keys prop="Description" type="monster" key="Dialog_2030403_Text0" value="O Arqueiro é alguém que está em sintonia com a natureza. O Arqueiro enfrenta aqueles que a destrói e que vai contra as regras da natureza.&lt;br&gt;&lt;br&gt;Esta é uma habilidade necessária, ficarei feliz em ensiná-la a você." />
+  <keys prop="Description" type="monster" key="Dialog_2030403_Answer_0_Text" value="Aprender Habilidades de Arqueiro" />
+  <keys prop="Description" type="monster" key="Dialog_2030404_Title" value="Bagrand" />
+  <keys prop="Description" type="monster" key="Dialog_2030404_Text0" value="Você pode dizer que somos artistas na escuridão. Digo, quem mais pode enfrentar o oponente movendo-se tão rápido e causando Dano Crítico como se fosse arte?&lt;br&gt;&lt;br&gt;Posso te ensinar as habilidades necessárias para você fazer o mesmo." />
+  <keys prop="Description" type="monster" key="Dialog_2030404_Answer_0_Text" value="Aprender Habilidades de Assassino" />
+  <keys prop="Description" type="monster" key="Dialog_2030405_Title" value="Argon" />
+  <keys prop="Description" type="monster" key="Dialog_2030405_Text0" value="Controlar um escudo e uma espada ao mesmo tempo não é fácil. Fazê-lo rapidamente é um desafio. Mas, quando você atingir a harmonia, nenhum adversário vai derrubar você." />
+  <keys prop="Description" type="monster" key="Dialog_2030405_Answer_0_Text" value="Aprender Habilidades de Guardião" />
+  <keys prop="Description" type="monster" key="Dialog_2030406_Title" value="Elisabeth" />
+  <keys prop="Description" type="monster" key="Dialog_2030406_Text0" value="Ellora sacrificou-se para derrotar o Deus da Ruína. Até ela retornar, é nosso dever fazer sua luz brilhar onde quer que vamos.&lt;br&gt;&lt;br&gt;Eu faço a minha parte iluminando o conhecimento perdido. Como você faz a sua parte?" />
+  <keys prop="Description" type="monster" key="Dialog_2030406_Answer_0_Text" value="Aprender Habilidades de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_2030407_Title" value="Antonion" />
+  <keys prop="Description" type="monster" key="Dialog_2030407_Text0" value="Uma vez que esteja no campo de batalha, você precisa abandonar seus medos. Medos só te afetam negativamente e atrapalham seu caminho para a vitória. Mas cuidado para não confundir medo com aquele estado de alerta. Se você perder o estado de alerta junto com seu medo, não conseguirá vencer." />
+  <keys prop="Description" type="monster" key="Dialog_2030407_Answer_0_Text" value="Aprender Habilidades de Berserker" />
+  <keys prop="Description" type="monster" key="Dialog_2030408_Title" value="Okinrek" />
+  <keys prop="Description" type="monster" key="Dialog_2030408_Text0" value="O Arqueiro é alguém que está em sintonia com a natureza. O Arqueiro enfrenta aqueles que a destrói e que vai contra as regras da natureza.&lt;br&gt;&lt;br&gt;Esta é uma habilidade necessária, ficarei feliz em ensiná-la a você." />
+  <keys prop="Description" type="monster" key="Dialog_2030408_Answer_0_Text" value="Aprender Habilidades de Arqueiro" />
+  <keys prop="Description" type="monster" key="Dialog_2030411_Title" value="Halcyon" />
+  <keys prop="Description" type="monster" key="Dialog_2030411_Text0" value="Dominar a espada e o escudo é uma tradição muito antiga na minha família. Não é a mais grandiosa das profissões, mas é um bom trabalho com ganhos garantidos. Melhor do que ter que ficar bajulando a realeza, assim diz meu pai." />
+  <keys prop="Description" type="monster" key="Dialog_2030411_Answer_0_Text" value="Aprender Habilidades de Guardião" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Title" value="Treinador de Feras Sarnik" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Text0" value="Eu não treino muito minhas feras, já que eu faço uma parceria com elas. Eu posso te ensinar, se você quiser aprender." />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_11_Text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_3_Text" value="Loja de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_4_Text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_5_Text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_6_Text" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_7_Text" value="Familiares dos Ares das Terras Altas" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_8_Text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_9_Text" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2030601_Answer_10_Text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Title" value="Canavan" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Text0" value="Para domar uma fera, você precisa ver o que se passa dentro de seu coração. Eu posso ensinar a você como fazer isso." />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_14_Text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_6_Text" value="Loja de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_7_Text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_8_Text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_9_Text" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_10_Text" value="Familiares dos Ares das Terras Altas" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_11_Text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_12_Text" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2030602_Answer_13_Text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2050601_Title" value="Treinador de Feras Flight" />
+  <keys prop="Description" type="monster" key="Dialog_2050601_Answer_9_text" value="Domando Familiares " />
+  <keys prop="Description" type="monster" key="Dialog_2050601_Text0" value="Eu vivo com feras. As pessoas me chamam de treinador... Mas prefiro ser considerado alguém que se conecta e vive em harmonia com as feras." />
+  <keys prop="Description" type="monster" key="Dialog_2050601_Answer_6_Text" value="Loja de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2050601_Answer_7_Text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2050601_Answer_8_Text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_1040107_Title" value="Guarda Owen" />
+  <keys prop="Description" type="monster" key="Dialog_1040107_Text0" value="Como se todas as feras selvagens não fossem o suficiente, agora as fadas do Lago Morineh também se voltaram contra nós..." />
+  <keys prop="Description" type="monster" key="Dialog_1040108_Title" value="Capitão Rogers" />
+  <keys prop="Description" type="monster" key="Dialog_1040108_Text0" value="Khabimistas safados! Como eles ousam desonrar os mortos? Para o bem de Hakanas e de nossas almas, devemos detê-los." />
+  <keys prop="Description" type="monster" key="Dialog_1040109_Title" value="Dallwynn" />
+  <keys prop="Description" type="monster" key="Dialog_1040109_Text0" value="Corvo me fez entrar na Ordem. Estou aqui hoje para ajudá-lo. " />
+  <keys prop="Description" type="monster" key="Dialog_1040110_Title" value="Capitão Garland" />
+  <keys prop="Description" type="monster" key="Dialog_1040110_Text0" value="Este é o lugar onde os bravos soldados estão reunidos para proteger Hakanas. Aqueles que estão aqui estão se arriscando e protegendo o futuro de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_1040111_Title" value="Zhamis Katarr" />
+  <keys prop="Description" type="monster" key="Dialog_1040111_Text0" value="Ótimo dia! É uma pena!" />
+  <keys prop="Description" type="monster" key="Dialog_1040112_Title" value="Senhora Malone" />
+  <keys prop="Description" type="monster" key="Dialog_1040112_Text0" value="O resto da minha família foi para a capital. Pediram para eu ir junto, mas eu não podia abandonar minha casa.   " />
+  <keys prop="Description" type="monster" key="Dialog_1040113_Title" value="Guardião do Armazém Romero" />
+  <keys prop="Description" type="monster" key="Dialog_1040113_Text0" value="Bom dia." />
+  <keys prop="Description" type="monster" key="Dialog_1040114_Title" value="Diretor Willow" />
+  <keys prop="Description" type="monster" key="Dialog_1040114_Text0" value="Nos da Academia de Familiares dedicamos nossas vidas à pesquisa da ligação entre humanos e familiares. Continuaremos até aprendermos tudo. " />
+  <keys prop="Description" type="monster" key="Dialog_1040115_Title" value="Angélica" />
+  <keys prop="Description" type="monster" key="Dialog_1040115_Text0" value="Merlin é meu melhor amigo desde que eu sou criança. Não consigo imaginar uma vida sem ele. " />
+  <keys prop="Description" type="monster" key="Dialog_1040116_Title" value="Pierre" />
+  <keys prop="Description" type="monster" key="Dialog_1040116_Text0" value="Você quer domar um familiar voador? Espero que você tenha fé... " />
+  <keys prop="Description" type="monster" key="Dialog_1040117_Title" value="Sparas" />
+  <keys prop="Description" type="monster" key="Dialog_1040117_Text0" value="Oito olhos que brilham com sabedoria e bondade. Pernas que se movem com precisão. Uma aparência nobre. Eu encontrei esta aranha na Costa de Parna. O que você acha? Ela é linda, não é? " />
+  <keys prop="Description" type="monster" key="Dialog_1040118_Title" value="Sovell" />
+  <keys prop="Description" type="monster" key="Dialog_1040118_Text0" value="Meu urso é duas vezes mais forte do que um urso normal. E eu estou pesquisando maneiras de deixá-lo mais forte ainda!" />
+  <keys prop="Description" type="monster" key="Dialog_1040124_Title" value="Gareth Bane" />
+  <keys prop="Description" type="monster" key="Dialog_1040124_Text0" value="Quando acontece algo de ruim na Travessia de Hakain, a Guarda da Capital vem resolver. É por isso que estou aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1050000_Title" value="Mestre da Guilda Ortiz" />
+  <keys prop="Description" type="monster" key="Dialog_1050000_Text0" value="Você consegue sobreviver sozinho tendo muita determinação, mas todos em Hakanas devem trabalhar juntos para se livrar da ameaça que enfrentamos agora." />
+  <keys prop="Description" type="monster" key="Dialog_1050000_Answer_0_Text" value="Criar Guilda" />
+  <keys prop="Description" type="monster" key="Dialog_1050000_Answer_1_Text" value="Dissolver Guilda" />
+  <keys prop="Description" type="monster" key="Dialog_1050000_Answer_2_Text" value="Melhorar Guilda" />
+  <keys prop="Description" type="monster" key="Dialog_1050000_Answer_3_Text" value="Alterar Emblema da Guilda" />
+  <keys prop="Description" type="monster" key="Dialog_1070100_Title" value="Migg" />
+  <keys prop="Description" type="monster" key="Dialog_1070100_Text0" value="Você está na presença de uma lenda, amigo!" />
+  <keys prop="Description" type="monster" key="Dialog_1070110_Title" value="Kimou, o Generoso" />
+  <keys prop="Description" type="monster" key="Dialog_1070110_Text0" value="Eu sou Kimou e amo colecionar mais do que você ou que qualquer outro." />
+  <keys prop="Description" type="monster" key="Dialog_1070110_Answer_3_Text" value="Aumentar a Proficiência de Coleta" />
+  <keys prop="Description" type="monster" key="Dialog_1070120_Title" value="Velho Lambert" />
+  <keys prop="Description" type="monster" key="Dialog_1070120_Text0" value="O segredo da criação de objetos de cerâmica é sempre garantir que você faça o suficiente." />
+  <keys prop="Description" type="monster" key="Dialog_1070130_Title" value="Princesa Amelia" />
+  <keys prop="Description" type="monster" key="Dialog_1070130_Text0" value="Você é o guarda-costas da minha irmã, certo? Você me parece familiar." />
+  <keys prop="Description" type="monster" key="Dialog_1070140_Title" value="Bertrand" />
+  <keys prop="Description" type="monster" key="Dialog_1070140_Text0" value="Boas-vindas à biblioteca. Espero que você encontre tudo que precisa saber nestes corredores." />
+  <keys prop="Description" type="monster" key="Dialog_1070150_Title" value="Dame Renata" />
+  <keys prop="Description" type="monster" key="Dialog_1070150_Text0" value="Eu fico pensando na noite em que perdemos a princesa. Rondo sabia exatamente onde estávamos. Só posso supor que temos um traidor entre nós..." />
+  <keys prop="Description" type="monster" key="Dialog_1070160_Title" value="Dame Renata" />
+  <keys prop="Description" type="monster" key="Dialog_1070160_Text0" value="Diziam que Conde Carleon era um homem bom. Caçá-lo assim é uma pena, mas devemos cumprir as tarefas que nos são dadas." />
+  <keys prop="Description" type="monster" key="Dialog_1070170_Title" value="Dame Renata" />
+  <keys prop="Description" type="monster" key="Dialog_1070170_Text0" value="Não posso acreditar que esta escória Khabimista tem se espalhado tão rápido. Precisamos cortar esta mal pela raiz." />
+  <keys prop="Description" type="monster" key="Dialog_1070180_Title" value="Dame Renata" />
+  <keys prop="Description" type="monster" key="Dialog_1070180_Text0" value="..." />
+  <keys prop="Description" type="monster" key="Dialog_1070190_Title" value="Rexton" />
+  <keys prop="Description" type="monster" key="Dialog_1070190_Text0" value="Quem eram essas pessoas? Vai demorar bastante para reconstruirmos este lugar. Acho que minha conceria vai ficar fechada por um tempo..." />
+  <keys prop="Description" type="monster" key="Dialog_1070200_Title" value="Treinador de Feras Riley" />
+  <keys prop="Description" type="monster" key="Dialog_1070200_Text0" value="Há uma fera rara que vive nessas matas. É uma lutadora. Antigamente existiam várias dessa, mas agora só existe uma..." />
+  <keys prop="Description" type="monster" key="Dialog_1070420_Title" value="Comerciante de Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_1070420_Text0" value="Sua armadura é a sua salvação no campo de batalha. Eu tenho o que você precisa para ter uma armadura forte." />
+  <keys prop="Description" type="monster" key="Dialog_1070420_Answer_0_Text" value="Loja de Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_1070430_Title" value="Comerciante de Alquimia" />
+  <keys prop="Description" type="monster" key="Dialog_1070430_Text0" value="Você é um misturador de poções? Venha, dê uma olhada nos meus reagentes." />
+  <keys prop="Description" type="monster" key="Dialog_1070430_Answer_0_Text" value="Loja de Alquimia" />
+  <keys prop="Description" type="monster" key="Dialog_1070440_Title" value="Comerciante Culinário" />
+  <keys prop="Description" type="monster" key="Dialog_1070440_Text0" value="Cozinhar começa com ingredientes frescos. Para sua sorte, tenho vários!" />
+  <keys prop="Description" type="monster" key="Dialog_1070440_Answer_0_Text" value="Despensa de Ingredientes" />
+  <keys prop="Description" type="monster" key="Dialog_1070450_Title" value="Comerciante de Criação de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_1070450_Text0" value="Nada se ajusta melhor a sua mão do que uma arma que você mesmo fez." />
+  <keys prop="Description" type="monster" key="Dialog_1070450_Answer_0_Text" value="Loja de Criação de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_1070460_Title" value="Comerciante de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="Dialog_1070460_Text0" value="Seus familiares precisam de equipamentos fortes para sobreviver aqui, você sabe." />
+  <keys prop="Description" type="monster" key="Dialog_1070460_Answer_0_Text" value="Loja de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="Dialog_1070470_Title" value="Comerciante de Criação de Joias" />
+  <keys prop="Description" type="monster" key="Dialog_1070470_Text0" value="Dê uma olhada! Eu tenho o que você precisa para fazer suas próprias joias cintilantes." />
+  <keys prop="Description" type="monster" key="Dialog_1070470_Answer_0_Text" value="Loja de Criação de Joias" />
+  <keys prop="Description" type="monster" key="Dialog_3050806_Title" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="Dialog_3050806_Text0" value="Santuários de Trânsito permitem que você se teletransporte para qualquer outro santuário da região que você já esteve. " />
+  <keys prop="Description" type="monster" key="Dialog_3050806_Answer_0_Text" value="Teletransportar para um Santuário Local" />
+  <keys prop="Description" type="monster" key="Dialog_3050806_Answer_1_Text" value="Definir Local de Retorno" />
+  <keys prop="Description" type="monster" key="Dialog_3050807_Title" value="Santuário de Mundos" />
+  <keys prop="Description" type="monster" key="Dialog_3050807_Text0" value="Santuários de Mundos permitem que você se teletransporte para qualquer outro santuário que você já esteve, independentemente da distância. " />
+  <keys prop="Description" type="monster" key="Dialog_3050807_Answer_0_Text" value="Tetransportar para Outra Região" />
+  <keys prop="Description" type="monster" key="Dialog_3050807_Answer_1_Text" value="Teletransportar para um Santuário Local" />
+  <keys prop="Description" type="monster" key="Dialog_3050807_Answer_2_Text" value="Definir Local de Retorno" />
+  <keys prop="Description" type="monster" key="Dialog_3050808_Title" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="Dialog_3050808_Text0" value="Santuários de passagem permitem que você se teletransporte para qualquer outro santuário da Travessia de Hakain que você já esteve. " />
+  <keys prop="Description" type="monster" key="Dialog_3050808_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050809_Title" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="Dialog_3050809_Text0" value="Santuários de passagem permitem que você se teletransporte para qualquer outro santuário da Travessia de Hakain que você já esteve. " />
+  <keys prop="Description" type="monster" key="Dialog_3050809_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050810_Title" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="Dialog_3050810_Text0" value="Santuários de passagem permitem que você se teletransporte para qualquer outro santuário da Travessia de Hakain que você já esteve. " />
+  <keys prop="Description" type="monster" key="Dialog_3050810_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050811_Title" value="Yode Protetora do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_3050811_Text0" value="Eu posso fazer você se locomover rápido pela Travessia de Hakain. Interessa?" />
+  <keys prop="Description" type="monster" key="Dialog_3050811_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3050811_Answer_1_Text" value="Pronto." />
+  <keys prop="Description" type="monster" key="Dialog_1040119_Title" value="Brighton" />
+  <keys prop="Description" type="monster" key="Dialog_1040119_Text0" value="Nuvens escuras no horizonte. Se meus cálculos estão certos, é mau agouro..." />
+  <keys prop="Description" type="monster" key="Dialog_1040120_Title" value="Corvo" />
+  <keys prop="Description" type="monster" key="Dialog_1040120_Text0" value="Quem bom que você ainda está aqui. Precisamos de sua ajuda." />
+  <keys prop="Description" type="monster" key="Dialog_1040121_Title" value="Aaron" />
+  <keys prop="Description" type="monster" key="Dialog_1040121_Text0" value="Por favor! Por favor, ajude! " />
+  <keys prop="Description" type="monster" key="Dialog_1040122_Title" value="Esmeralda" />
+  <keys prop="Description" type="monster" key="Dialog_1040122_Text0" value="Isso é tão divertido! Eu gostaria que o papai me deixasse treinar familiares. " />
+  <keys prop="Description" type="monster" key="Dialog_3050812_Title" value="Capitão Snider" />
+  <keys prop="Description" type="monster" key="Dialog_3050812_Text0" value="Logo vamos partir para a Fenda de Tritael. Você quer uma carona?" />
+  <keys prop="Description" type="monster" key="dialog_3050812_answer_5_text" value="Viajar para a Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="Dialog_3050814_Title" value="Tieli, a Fada" />
+  <keys prop="Description" type="monster" key="Dialog_3050814_Text0" value="Nos conhecemos na Floresta da Luz Trêmula, certo? Eu segui Corvo até aqui.&lt;br&gt;&lt;br&gt;Eu mudei meu modo de pensar desde quando a rainha morreu. Eu sou só uma pequena fada, mas quero causar um impacto grande no mundo!" />
+  <keys prop="Description" type="monster" key="Dialog_3050815_Title" value="Azzar" />
+  <keys prop="Description" type="monster" key="Dialog_3050815_Text0" value="Eu estou guardando o portão leste da capital." />
+  <keys prop="Description" type="monster" key="dialog_1040090_answer_8_text" value="Stevens Braçoforte" />
+  <keys prop="Description" type="monster" key="Dialog_3050816_Title" value="Stevens Braçoforte" />
+  <keys prop="Description" type="monster" key="Dialog_3050816_Text0" value="Eu costumava ser o melhor... o melhor aventureiro! Eu podia vencer todos, humanos, crokhoons, cavalos...&lt;br&gt;&lt;br&gt;Mas aí aquelazinha estragou TUDO! Qual é o nome dela mesmo? Rihner? Reema? Arena?" />
+  <keys prop="Description" type="monster" key="Dialog_2050602_Title" value="Treinador de Feras Diehl" />
+  <keys prop="Description" type="monster" key="Dialog_2050602_Text0" value="Você precisa ter uma ligação com sua fera se você espera domá-la." />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_16_text" value="Loja de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_17_text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_18_text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_19_text" value="Métodos de Domação" />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_20_text" value="Sobre Familiares" />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_22_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_23_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_2050602_answer_24_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2050603_Title" value="Treinador de Feras Plati" />
+  <keys prop="Description" type="monster" key="Dialog_2050603_Text0" value="Eu amo a aventura de domar uma criatura. Pense nisso. Você estaria aqui se não tivesse um familiar voador?" />
+  <keys prop="Description" type="monster" key="dialog_2050603_answer_0_text" value="Loja de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_2050603_answer_1_text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="dialog_2050603_answer_3_text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="dialog_2050603_answer_4_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_2050603_answer_5_text" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="dialog_2050603_answer_6_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_2050603_answer_7_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2050604_Title" value="Treinador de Feras Glati" />
+  <keys prop="Description" type="monster" key="Dialog_2050604_Text0" value="Você também quer se tornar um grande treinador? Então você deve praticar. Quando você está domando uma fera, você precisa se conectar com ela primeiro." />
+  <keys prop="Description" type="monster" key="dialog_2050604_answer_0_text" value="Loja de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_2050604_answer_1_text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="dialog_2050604_answer_3_text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="dialog_2050604_answer_4_text" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="dialog_2050604_answer_5_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_2050604_answer_6_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_3520601_Title" value="Treinador de Feras Radus" />
+  <keys prop="Description" type="monster" key="Dialog_3520601_Text0" value="Eu vim aqui para domar Leorid, mas não consigo fazer nada por causa dos yetis. Para ter alguma chance, você precisará de uma pedra de dominação." />
+  <keys prop="Description" type="monster" key="Dialog_3600006_Title" value="Marin" />
+  <keys prop="Description" type="monster" key="Dialog_3600006_Text0" value="Até onde todos sabem, eu sou a Dame Marin, amazona errante. Mas nosso amigo em comum diz que você é confiável, então... A Ordem Ônix manda lembranças." />
+  <keys prop="Description" type="monster" key="Dialog_3600006_Text1" value="A luz de Ellora parece estar nos mostrando onde a princesa está. Estou redirecionando nossa rede para o Deserto da Imortalidade.&lt;br&gt;&lt;br&gt;A Ordem vai precisar de algum tempo para se preparar. Eu avisarei quando estivermos prontos." />
+  <keys prop="Description" type="monster" key="Dialog_3600006_answer_12_text" value="Costa de Parna" />
+  <keys prop="Description" type="monster" key="Dialog_3600008_Title" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_3600008_Text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="Dialog_3600008_answer_4_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_3600009_Title" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_3600009_Text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="Dialog_3600009_answer_4_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_3600010_Title" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_3600010_Text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="Dialog_3600010_answer_3_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_3600007_Title" value="Behain" />
+  <keys prop="Description" type="monster" key="Dialog_3600007_Text0" value="Boas-vindas à Costa de Parna, lar de Rondo e da Guarda Gélida." />
+  <keys prop="Description" type="monster" key="Dialog_2020301_title" value="Jedury" />
+  <keys prop="Description" type="monster" key="Dialog_2020301_text0" value="Eu vendo todos os tipos de coisas. Não vá para outras lojas. Por favor!" />
+  <keys prop="Description" type="monster" key="Dialog_2020301_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_2020302_title" value="Missha" />
+  <keys prop="Description" type="monster" key="Dialog_2020302_text0" value="Pegue suas poções aqui! Não existe algo como ter poções demais!" />
+  <keys prop="Description" type="monster" key="Dialog_2020302_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_2020303_title" value="Quadro de Avisos" />
+  <keys prop="Description" type="monster" key="Dialog_2020303_text0" value="Não são permitidos papéis nem tintas solúveis em água.&lt;br&gt;&lt;br&gt;Sumo Sacerdote Antarion" />
+  <keys prop="Description" type="monster" key="Dialog_2020304_title" value="Quadro de Avisos de Hakoora" />
+  <keys prop="Description" type="monster" key="Dialog_2020304_text0" value="Ofertas de emprego apenas para caçadores e lutadores. Artesãos devem olhar seus próprios quadros. Isso é para você, Lian'tuul!&lt;br&gt;&lt;br&gt;- Fada'khan" />
+  <keys prop="Description" type="monster" key="Dialog_2020305_title" value="Quadro de Avisos de Sansupus" />
+  <keys prop="Description" type="monster" key="Dialog_2020305_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020306_title" value="Quadro de Avisos do Bosque de Kell" />
+  <keys prop="Description" type="monster" key="Dialog_2020306_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020307_title" value="Quadro de Avisos da Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Dialog_2020307_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020308_title" value="Quadro de Avisos do Acampamento do Pico Alto" />
+  <keys prop="Description" type="monster" key="Dialog_2020308_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020309_title" value="Quadro de Avisos do Santuário do Eclipse" />
+  <keys prop="Description" type="monster" key="Dialog_2020309_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020310_title" value="Quadro de Avisos de Alseik" />
+  <keys prop="Description" type="monster" key="Dialog_2020310_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020311_title" value="Quadro de Avisos do Pico Dourado" />
+  <keys prop="Description" type="monster" key="Dialog_2020311_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020312_title" value="Quadro de Avisos da Cidade do Eremita" />
+  <keys prop="Description" type="monster" key="Dialog_2020312_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020313_title" value="Rick" />
+  <keys prop="Description" type="monster" key="Dialog_2020313_text0" value="Esses Lebrini idiotas transformaram a aldeia inteira em uma bagunça!" />
+  <keys prop="Description" type="monster" key="Dialog_2020314_title" value="John Clakey" />
+  <keys prop="Description" type="monster" key="Dialog_2020314_text0" value="Eu nunca achei que teria vergonha de ser um Clakey. Meus irmãos destruíram nossa família... " />
+  <keys prop="Description" type="monster" key="Dialog_2020315_title" value="Maris" />
+  <keys prop="Description" type="monster" key="Dialog_2020315_text0" value="(A criança soluça incontrolavelmente)" />
+  <keys prop="Description" type="monster" key="Dialog_2020316_title" value="Keersin" />
+  <keys prop="Description" type="monster" key="Dialog_2020316_text0" value="Zadaran é minha cidade natal...ou costumava ser. Um dia eu a ajudarei a recuperar sua glória." />
+  <keys prop="Description" type="monster" key="Dialog_2020317_title" value="Harry" />
+  <keys prop="Description" type="monster" key="Dialog_2020317_text0" value="O que está acontecendo Por que todos estão tão irritados? Eu não entendo..." />
+  <keys prop="Description" type="monster" key="Dialog_2020318_title" value="Obelisco Secreto " />
+  <keys prop="Description" type="monster" key="Dialog_2020318_text0" value="Quem ousar despertar o poder inferior, deve ir para a mais profunda escuridão antes de poder ver a luz do dia novamente.&lt;br&gt;&lt;br&gt;(Parece que você não pode voltar atrás se você for adiante.)" />
+  <keys prop="Description" type="monster" key="Dialog_2020319_title" value="Harry" />
+  <keys prop="Description" type="monster" key="Dialog_2020319_text0" value="Obrigado. A Azalia disse que me ajudaria a me tornar humano novamente!" />
+  <keys prop="Description" type="monster" key="Dialog_2020320_title" value="Rick" />
+  <keys prop="Description" type="monster" key="Dialog_2020320_text0" value="Eu serei um grande fabricante de bestas, assim como meu avô! Volte em alguns anos e eu farei uma só para você." />
+  <keys prop="Description" type="monster" key="Dialog_2020321_title" value="Ive" />
+  <keys prop="Description" type="monster" key="Dialog_2020321_text0" value="Normalmente vigiar as ruínas é um trabalho sossegado. Normalmente..." />
+  <keys prop="Description" type="monster" key="Dialog_2020322_title" value="Melwood" />
+  <keys prop="Description" type="monster" key="Dialog_2020322_text0" value="Meu coração ainda está acelerado! O que descobrirei a seguir?" />
+  <keys prop="Description" type="monster" key="Dialog_2020323_title" value="Mazis" />
+  <keys prop="Description" type="monster" key="Dialog_2020323_text0" value="Fui um curtidor por 40 anos antes desses Khabimistas aparecerem com suas magias. " />
+  <keys prop="Description" type="monster" key="Dialog_2020324_title" value="Bruco" />
+  <keys prop="Description" type="monster" key="Dialog_2020324_text0" value="Diz aí, você é aquele cavaleiro famoso. Eu ouvi dizer que você e Corvo fugiram da prisão de Salant." />
+  <keys prop="Description" type="monster" key="Dialog_2020325_title" value="Sino" />
+  <keys prop="Description" type="monster" key="Dialog_2020325_text0" value="Se a minha mais nova invenção funcionar, todos serão beneficiados. É uma pena que as Aranhas Gélidas não sejam mais... cooperativas." />
+  <keys prop="Description" type="monster" key="Dialog_2020326_title" value="Grimm Dourado" />
+  <keys prop="Description" type="monster" key="Dialog_2020326_text0" value="Cuidado para não incomodar as feras daqui. Sobreviver na floresta significa tornar-se parte dela." />
+  <keys prop="Description" type="monster" key="Dialog_2020327_title" value="Magistrado do Campo Harmon" />
+  <keys prop="Description" type="monster" key="Dialog_2020327_text0" value="Esses dragões acham que podem tomar o portão e desafiar Velzeroth. O Arcano nunca permitirá isso." />
+  <keys prop="Description" type="monster" key="Dialog_2020328_title" value="Quadro de Avisos de Zadaran" />
+  <keys prop="Description" type="monster" key="Dialog_2020328_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020329_title" value="Quadro de Avisos das Encostas" />
+  <keys prop="Description" type="monster" key="Dialog_2020329_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020330_title" value="Linetta, a Feiticeira da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_2020330_text0" value="Agora, a capital de Hakanas está um caos. É a missão dos Feiticeiros da Virtude defender Hakanas. E essa é a minha firme convicção." />
+  <keys prop="Description" type="monster" key="Dialog_2020331_title" value="Linetta, a Feiticeira da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_2020331_text0" value="As proteções do Arcano servem para blindar a Travessia de Hakain. Elas deveriam ser secretas, mas parece que o segredo foi descoberto." />
+  <keys prop="Description" type="monster" key="Dialog_2020332_title" value="Linetta, a Feiticeira da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_2020332_text0" value="Nós estávamos um passo atrás ... Mas foi o suficiente para proteger Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_2020333_title" value="Behain" />
+  <keys prop="Description" type="monster" key="Dialog_2020333_text0" value="A Ordem Ônix possui a maior rede de inteligência em Hakanas. Os pássaros são nossos olhos e os ratos nossos ouvidos." />
+  <keys prop="Description" type="monster" key="Dialog_2020334_title" value="General Russell" />
+  <keys prop="Description" type="monster" key="Dialog_2020334_text0" value="É meu dever criar uma Hakanas que nunca pode perder. Eu sacrificaria tudo para alcançar esse objetivo." />
+  <keys prop="Description" type="monster" key="Dialog_2020335_title" value="Homer" />
+  <keys prop="Description" type="monster" key="Dialog_2020335_text0" value="Isso parece errado. Isso parece tão errado..." />
+  <keys prop="Description" type="monster" key="Dialog_2020336_title" value="Homer" />
+  <keys prop="Description" type="monster" key="Dialog_2020336_text0" value="Isso parece errado. Isso parece tão errado..." />
+  <keys prop="Description" type="monster" key="Dialog_1070500_Title" value="Baú de Enigmas da Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_1070500_Text0" value="Você quer ganhar uma guerra? Veio ao lugar certo, então. Minhas caixas tem tudo que você precisa para triunfar nesta terra brutal." />
+  <keys prop="Description" type="monster" key="Dialog_1070500_Answer_0_Text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_2020338_title" value="Quadro de Avisos da Torre de Vigia do Norte" />
+  <keys prop="Description" type="monster" key="Dialog_2020338_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020339_title" value="Gedriff" />
+  <keys prop="Description" type="monster" key="Dialog_2020339_text0" value="Me pergunte tudo o que quiser sobre criação. O conhecimento daquele papudo do Kimou é tão ultrapassado. Eu sou um verdadeiro mestre de criação, com vasto conhecimento das teorias de criação mais recentes. O mundo só não me valoriza ainda. Eles não entendem de criação como eu!" />
+  <keys prop="Description" type="monster" key="Dialog_2020340_title" value="Dahrven" />
+  <keys prop="Description" type="monster" key="Dialog_2020340_text0" value="Eu tenho muito respeito pela a Sociedade Mágica da Virtude, mas há benefícios em ser um mago independente. Eu sou mais capaz de servir a coroa quando minha mente está livre de preconceitos." />
+  <keys prop="Description" type="monster" key="Dialog_2020340_Answer_4_Text" value="Talentos" />
+  <keys prop="Description" type="monster" key="Dialog_2020341_title" value="Quadro de Avisos do Bosque Dourado" />
+  <keys prop="Description" type="monster" key="Dialog_2020341_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020342_title" value="Quadro de Avisos da Caldeira Quebrada" />
+  <keys prop="Description" type="monster" key="Dialog_2020342_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020343_title" value="Quadro de Avisos do Cemitério" />
+  <keys prop="Description" type="monster" key="Dialog_2020343_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020344_title" value="Quadro de Avisos do Portão do Guardião" />
+  <keys prop="Description" type="monster" key="Dialog_2020344_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020500_title" value="Mestre de Criação Rômulo" />
+  <keys prop="Description" type="monster" key="Dialog_2020500_text0" value="Trabalho na Praça Artesã por mais de 10 anos. Acredito que deve ser hora de passar um pouco mais de tempo com a minha família. E logo, eu espero... " />
+  <keys prop="Description" type="monster" key="Dialog_2020500_Answer_36_Text" value="Loja Especial" />
+  <keys prop="Description" type="monster" key="Dialog_2020500_Answer_37_Text" value="Armas com Infusão Mágica" />
+  <keys prop="Description" type="monster" key="Dialog_2020501_title" value="Quadro de Avisos do Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="Dialog_2020501_text0" value="Esta mensagem é para todos os Cavaleiros de Pégaso e guerreiros de Hakanas. Sejam corajosos e completem sua missão, seja ela qual for. Sua vida é a vida de Hakanas e de seus companheiros. Mantenham-se vivos.&lt;br&gt;&#xD;&#xA;Capitão dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="Dialog_2020502_title" value="Quadro de Avisos do Bairro do Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_2020502_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020503_title" value="Mestra Rufala Teega" />
+  <keys prop="Description" type="monster" key="Dialog_2020503_text0" value="Existem momentos em que os inimigos fortes não caem no seu ataque ou perdem a cabeça. Neste ponto, você pode efetivamente derrotar o inimigo com um golpe crítico poderoso que quebra essa resistência. Acho isso muito válido. &lt;br&gt; Golpe Crítico: A habilidade descrita como tendo validade de reação terá todos esses atributos." />
+  <keys prop="Description" type="monster" key="Dialog_2020504_title" value="Ricappo" />
+  <keys prop="Description" type="monster" key="Dialog_2020504_text0" value="Sim, eu estou com os Comerciantes de Guinnezz, mas sou apenas um aprendiz. Se você quer comprar, eu sugiro que você procure um dos comerciantes locais." />
+  <keys prop="Description" type="monster" key="Dialog_2020505_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020505_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020505_Answer_0_Text" value="Costa da Divindade" />
+  <keys prop="Description" type="monster" key="Dialog_2020506_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020506_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020506_Answer_0_Text" value="Fazendas do Bosque de Kell" />
+  <keys prop="Description" type="monster" key="Dialog_2020507_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020507_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020507_Answer_0_Text" value="Cemitério do Sul" />
+  <keys prop="Description" type="monster" key="Dialog_2020507_Answer_1_Text" value="Cemitério do Norte" />
+  <keys prop="Description" type="monster" key="Dialog_2020507_Answer_2_Text" value="Caminho Congelado" />
+  <keys prop="Description" type="monster" key="Dialog_2020508_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020508_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020508_Answer_0_Text" value="Ruínas de Exarahn" />
+  <keys prop="Description" type="monster" key="Dialog_2020509_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020509_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020510_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020510_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020511_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020511_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020512_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020512_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020513_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020513_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020514_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020514_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_2020515_title" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="Dialog_2020515_text0" value="Olá e muito prazer! Serei seu guia de todos os lugares de interesse, agora e para sempre. Sinta-se à vontade para me perguntar qualquer coisa que você quiser saber sobre essas terras." />
+  <keys prop="Description" type="monster" key="Dialog_90000002_title" value="Baul" />
+  <keys prop="Description" type="monster" key="Dialog_90000002_text0" value="Eu estou morto? Eu sempre esqueço..." />
+  <keys prop="Description" type="monster" key="Dialog_90000003_title" value="Jutren" />
+  <keys prop="Description" type="monster" key="Dialog_90000003_text0" value="Minha família já não é mais tão famosa, mas costumávamos ser conhecidos em todo o reino." />
+  <keys prop="Description" type="monster" key="Dialog_90000004_title" value="Familiares de Elite" />
+  <keys prop="Description" type="monster" key="Dialog_90000004_text0" value="Os familiares de elite são mais fortes, mais rápidos e muito melhores que os familiares comuns. Se você sabe o que está fazendo, pode domar essas feras de elite, como Chakai e Trutan.&lt;br&gt; " />
+  <keys prop="Description" type="monster" key="Dialog_90000004_text0_attach_0" value="&lt;br&gt;Estas criaturas são naturalmente fortes, mas elas também têm o poder de fazer seu cavaleiro ainda mais poderoso. A Academia de Familiares possui uma lista de todos os familiares de elite conhecidos." />
+  <keys prop="Description" type="monster" key="Dialog_9020000_title" value="Aumentando o Seu Nível de Criação de Armadura" />
+  <keys prop="Description" type="monster" key="Dialog_9020000_text0" value="Tudo o que você precisa é saber como fazer duas armas com perfeição. Essa geração chama isso de ser mestre em itens. Aumente sua proficiência com armas para ser mestre.&lt;br&gt;&lt;br&gt;(Abra sua janela de criação e veja os círculos próximos aos nomes das armas. Estes círculos indicam sua proficiência.)" />
+  <keys prop="Description" type="monster" key="Dialog_9020000_text0_attach_0" value="&lt;br&gt;&lt;br&gt;(Há restrições de nível a cada 10 níveis. Você precisa alcançar o Nível 10 para chegar a Criação de Armas II e o Nível 20 para chegar a Criação de Armas III)" />
+  <keys prop="Description" type="monster" key="Dialog_9020001_title" value="Como posso ter sucesso forjando armas?" />
+  <keys prop="Description" type="monster" key="Dialog_9020001_text0" value="[Ter Muito Sucesso Forjando Armas]&lt;br&gt;&lt;br&gt;Você pode fazer armas extras e obter maior proficiência quando você tiver muito sucesso forjando armas. Tudo se resume a sorte, é claro. Você terá melhores chances se for experiente. E eu percebi que pessoas com maior proficiência têm mais sucesso." />
+  <keys prop="Description" type="monster" key="Dialog_9020002_title" value="De quais materiais preciso para forjar armas?" />
+  <keys prop="Description" type="monster" key="Dialog_9020002_text0" value="[Materiais para Criação de Armas]&lt;br&gt;&lt;br&gt;Quando você está trabalhando em uma estação de criação, você pode ver quais materiais são necessários para fazer uma determinada arma. Alguns materiais podem ser obtidos com comerciantes, outros devem ser colhidos nos campos ou retirados de monstros." />
+  <keys prop="Description" type="monster" key="Dialog_9020002_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Apenas lembre-se, você pode encontrar materiais em lojas e em depósitos minerais." />
+  <keys prop="Description" type="monster" key="Dialog_9020003_title" value="Bigorna para Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9020003_text0" value="Você pode fazer armas em qualquer lugar que encontrar uma bigorna para armas. Temos algumas aqui. A maior parte das cidades grandes possui instalações de criação. No entanto, você precisará de sorte para encontrá-las em cidades pequenas e aldeias." />
+  <keys prop="Description" type="monster" key="Dialog_9020004_title" value="Aumentando o Seu Nível de Criação de Armadura" />
+  <keys prop="Description" type="monster" key="Dialog_9020004_text0" value="Quando você atinge maestria em dois tipos de armaduras, você pode melhorar suas habilidades de criação.&lt;br&gt;&lt;br&gt;(Na janela de criação, há círculos próximos a cada armadura. Estes círculos indicam sua proficiência.)" />
+  <keys prop="Description" type="monster" key="Dialog_9020004_text0_attach_0" value="&lt;br&gt;&lt;br&gt;(Há restrições de nível a cada 10 níveis. Você precisa alcançar o Nível 10 para chegar a Criação de Armaduras II e o Nível 20 para chegar a Criação de Armaduras III)" />
+  <keys prop="Description" type="monster" key="Dialog_9020005_title" value="Como posso ter sucesso na criação de armaduras?" />
+  <keys prop="Description" type="monster" key="Dialog_9020005_text0" value="[Ter Muito Sucesso na Criação de Armaduras]&lt;br&gt;&lt;br&gt;Você pode fazer armaduras extras e obter maior proficiência quando você tiver muito sucesso criando armaduras. Tudo se resume a sorte, é claro. Você terá melhores chances se for experiente. E eu percebi que pessoas com maior proficiência têm mais sucesso." />
+  <keys prop="Description" type="monster" key="Dialog_9020006_title" value="De quais materiais preciso para criar armaduras?" />
+  <keys prop="Description" type="monster" key="Dialog_9020006_text0" value="[Materiais para Criação de Armaduras]&lt;br&gt;&lt;br&gt;Quando você está trabalhando em uma estação de criação, você pode ver quais materiais são necessários para fazer uma determinada armadura. Alguns materiais podem ser obtidos com comerciantes, outros devem ser colhidos nos campos ou retirados de monstros." />
+  <keys prop="Description" type="monster" key="Dialog_9020006_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Além dos materiais você consegue minerando ou caçando, você também precisará de alguns materiais das lojas." />
+  <keys prop="Description" type="monster" key="Dialog_9020007_title" value="Bigorna para Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_9020007_text0" value="Você pode fazer armaduras em qualquer lugar que encontrar uma bigorna para armaduras. Temos algumas aqui. A maior parte das cidades grandes possui instalações de criação." />
+  <keys prop="Description" type="monster" key="Dialog_9020008_title" value="Como eu melhoro minhas habilidades de fazer joias?" />
+  <keys prop="Description" type="monster" key="Dialog_9020008_text0" value="Quando você atinge maestria em dois tipos de acessórios, você pode melhorar suas habilidades de fazer joias.&lt;br&gt;&lt;br&gt;(Na janela de criação, há círculos próximos a cada acessório. Estes círculos indicam sua proficiência.)" />
+  <keys prop="Description" type="monster" key="Dialog_9020008_text0_attach_0" value="&lt;br&gt;&lt;br&gt;(Há restrições de nível a cada 10 níveis. Você precisa alcançar o Nível 10 para chegar a Criação de Joias II e o Nível 20 para chegar a Criação de Joias III)" />
+  <keys prop="Description" type="monster" key="Dialog_9020009_title" value="Como posso ter sucesso fazendo joias?" />
+  <keys prop="Description" type="monster" key="Dialog_9020009_text0" value="[Ter Muito Sucesso Criando Joias]&lt;br&gt;&lt;br&gt;Você pode fazer acessórios extras e obter maior proficiência quando você tiver muito sucesso criando joias. Tudo se resume a sorte, é claro. Você terá melhores chances se for experiente. E eu percebi que pessoas com maior proficiência têm mais sucesso." />
+  <keys prop="Description" type="monster" key="Dialog_9020010_title" value="De que preciso para trabalhar com joias?" />
+  <keys prop="Description" type="monster" key="Dialog_9020010_text0" value="[Materiais para Criação de Joias]&lt;br&gt;&lt;br&gt;Quando você está trabalhando em uma estação de criação, você pode ver quais materiais são necessários para fazer um determinado acessório. Alguns materiais podem ser obtidos com comerciantes, outros devem ser colhidos nos campos ou retirados de monstros." />
+  <keys prop="Description" type="monster" key="Dialog_9020011_title" value="Estações de Criação de Joias" />
+  <keys prop="Description" type="monster" key="Dialog_9020011_text0" value="Você pode fazer acessórios em qualquer lugar que encontrar uma bancada de ourives. Temos algumas aqui. A maior parte das cidades grandes possui instalações de criação." />
+  <keys prop="Description" type="monster" key="Dialog_9020012_title" value="Aumentar Seu Nível de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="Dialog_9020012_text0" value="Quando você atinge maestria em dois tipos de selaria, você pode melhorar suas habilidades de criação de selaria.&lt;br&gt;&lt;br&gt;(Na janela de criação, há círculos próximos a cada selaria. Estes círculos indicam sua proficiência.)" />
+  <keys prop="Description" type="monster" key="Dialog_9020012_text0_attach_0" value="&lt;br&gt;&lt;br&gt;(Há restrições de nível a cada 10 níveis. Você precisa alcançar o Nível 10 para chegar a Criação de Selaria II e o Nível 20 para chegar a Criação de Selaria III)" />
+  <keys prop="Description" type="monster" key="Dialog_9020013_title" value="Como posso ser bem-sucedido fazendo selas?" />
+  <keys prop="Description" type="monster" key="Dialog_9020013_text0" value="[Sucesso Triunfante na Criação de Selaria]&lt;br&gt;&lt;br&gt;Você pode fazer selarias extras e obter maior proficiência quando você tiver sucesso triunfante criando selarias. Tudo se resume a sorte, é claro. Você terá melhores chances se for experiente. E eu percebi que pessoas com maior proficiência têm mais sucesso." />
+  <keys prop="Description" type="monster" key="Dialog_9020014_title" value="Por que preciso trabalhar com selas?" />
+  <keys prop="Description" type="monster" key="Dialog_9020014_text0" value="[Materiais para Criação de Selaria]&lt;br&gt;&lt;br&gt;Quando você está trabalhando em uma estação de criação, você pode ver quais materiais são necessários para fazer uma determinada selaria. Alguns materiais podem ser obtidos com comerciantes, outros devem ser colhidos nos campos ou retirados de monstros." />
+  <keys prop="Description" type="monster" key="Dialog_9020015_title" value="Mesa de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="Dialog_9020015_text0" value="Você pode criar selarias em qualquer lugar que encontrar uma estação de criação. Temos várias aqui. A maior parte das cidades grandes possui instalações de criação." />
+  <keys prop="Description" type="monster" key="Dialog_9020016_title" value="Treinar Alquimia" />
+  <keys prop="Description" type="monster" key="Dialog_9020016_text0" value="Quando você atinge maestria em dois tipos de poção, você pode melhorar suas habilidades de alquimia.&lt;br&gt;&lt;br&gt;(Na janela de criação, há círculos próximos a cada poção. Estes círculos indicam sua proficiência.)" />
+  <keys prop="Description" type="monster" key="Dialog_9020017_title" value="Como posso ter sucesso na alquimia?" />
+  <keys prop="Description" type="monster" key="Dialog_9020017_text0" value="[Ter Muito Sucesso em Alquimia]&lt;br&gt;&lt;br&gt;Você pode fazer poções extras e obter maior proficiência quando você tiver muito sucesso em alquimia. Tudo se resume a sorte, é claro. Você terá melhores chances se for experiente. E eu percebi que pessoas com maior proficiência têm mais sucesso." />
+  <keys prop="Description" type="monster" key="Dialog_9020018_title" value="Por que preciso realizar alquimia?" />
+  <keys prop="Description" type="monster" key="Dialog_9020018_text0" value="[Materiais de Alquimia]&lt;br&gt;&lt;br&gt;Quando você está trabalhando em uma estação de criação, você pode ver quais materiais são necessários para fazer uma determinada poção. Alguns materiais podem ser obtidos com comerciantes, outros devem ser colhidos nos campos ou retirados de monstros." />
+  <keys prop="Description" type="monster" key="Dialog_9020019_title" value="Laboratórios de Alquimia" />
+  <keys prop="Description" type="monster" key="Dialog_9020019_text0" value="Você pode fazer poções em qualquer lugar que encontrar um laboratório de alquimia. Temos vários em minha oficina. A maior parte das cidades grandes possui laboratórios de alquimia." />
+  <keys prop="Description" type="monster" key="Dialog_9020020_title" value="Praticar Culinária" />
+  <keys prop="Description" type="monster" key="Dialog_9020020_text0" value="Quando você atinge maestria em dois pratos, você pode melhorar suas habilidades de cozinhar.&lt;br&gt;&lt;br&gt;(Na janela de criação, há círculos próximos aos pratos. Estes círculos indicam sua proficiência.)" />
+  <keys prop="Description" type="monster" key="Dialog_9020020_text0_attach_0" value="&lt;br&gt;&lt;br&gt;(Há restrições de nível a cada 10 níveis. Você precisa alcançar o Nível 10 para chegar a Cozinhar II e o Nível 20 para chegar a Cozinhar III)" />
+  <keys prop="Description" type="monster" key="Dialog_9020021_title" value="Como posso ser bem-sucedido na culinária?" />
+  <keys prop="Description" type="monster" key="Dialog_9020021_text0" value="[Ter Muito Sucesso Cozinhando]&lt;br&gt;&lt;br&gt;Você pode fazer pratos extras e obter maior proficiência quando você tiver muito sucesso cozinhando. Tudo se resume a sorte, é claro. Você terá melhores chances se for experiente. E eu percebi que pessoas com maior proficiência têm mais sucesso." />
+  <keys prop="Description" type="monster" key="Dialog_9020022_title" value="O que preciso cozinhar?" />
+  <keys prop="Description" type="monster" key="Dialog_9020022_text0" value="[Materiais para Cozinhar]&lt;br&gt;&lt;br&gt;Quando você está trabalhando em uma estação de criação, você pode ver quais materiais são necessários para fazer um determinado prato. Alguns materiais podem ser obtidos com comerciantes, outros devem ser colhidos nos campos ou retirados de monstros." />
+  <keys prop="Description" type="monster" key="Dialog_9020023_title" value="Estações de Culinária" />
+  <keys prop="Description" type="monster" key="Dialog_9020023_text0" value="Você pode cozinhar em qualquer lugar que encontrar uma estação de cozimento. Temos várias aqui. A maior parte das cidades grandes possui estações de cozimento." />
+  <keys prop="Description" type="monster" key="Dialog_9020024_title" value="Talentos" />
+  <keys prop="Description" type="monster" key="Dialog_9020024_text0" value="Ao aprender talentos, você pode aumentar sua eficiência com certos tipos de habilidades. Você pode mudar seus talentos a qualquer momento, mas qualquer poder você tenha colocado nesses talentos serão perdidos." />
+  <keys prop="Description" type="monster" key="Dialog_9020025_title" value="Chakai" />
+  <keys prop="Description" type="monster" key="Dialog_9020025_text0" value="Ao montar Chakai, a probabilidade de seus oponentes lhe causarem dano crítico aumenta. Chakai pode lutar por mais tempo e golpear mais forte que familiares comuns. Na verdade, todos os familiares de elite são capazes disso." />
+  <keys prop="Description" type="monster" key="Dialog_9020026_title" value="Bestas e Lanças" />
+  <keys prop="Description" type="monster" key="Dialog_9020026_text0" value="As bestas têm a vantagem da distância. Por sua vez, as lanças exigem que você se aproxime. No entanto, elas podem atingir vários inimigos ao mesmo tempo. É uma questão de usar a arma certa para a situação." />
+  <keys prop="Description" type="monster" key="Dialog_9020027_title" value="Sobre Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="Dialog_9020027_text0" value="Perder batalhas geralmente resulta em ferimentos duradouros. Como socorrista, posso curar esses ferimentos para você. Claro, se você não puder pagar minha taxa modesta, suas feridas se curarão sozinhas... com o passar do tempo.&lt;br&gt;&lt;br&gt;(Não há penalidades para mortes antes do nível 8.)" />
+  <keys prop="Description" type="monster" key="Dialog_3600129_title" value="Fogueira" />
+  <keys prop="Description" type="monster" key="Dialog_3600129_text0" value="(O fogo queima e crepita. Se você ficar olhando muito tempo, seus olhos lacrimejam.)" />
+  <keys prop="Description" type="monster" key="Dialog_3600130_title" value="Cadáver" />
+  <keys prop="Description" type="monster" key="Dialog_3600130_text0" value="(Não está se movendo. Provavelmente é só um cadáver.)" />
+  <keys prop="Description" type="monster" key="Dialog_3600131_title" value="Latini" />
+  <keys prop="Description" type="monster" key="Dialog_3600131_text0" value="Eu sou Latini, uma familiarologista extraordinária. Eu fico de olho nas coisas por aqui e me certifico de que os Galantes de Brakarr não estão causando problemas." />
+  <keys prop="Description" type="monster" key="Dialog_3600132_title" value="Wilson" />
+  <keys prop="Description" type="monster" key="Dialog_3600132_text0" value="Seus inimigos não vão se conter, e nem você deveria fazê-lo. Consiga armas e armaduras de alta qualidade aqui." />
+  <keys prop="Description" type="monster" key="Dialog_3600132_Answer_0_Text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015600_Title" value="Forjar Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015600_Text0" value="Você fazer armas, claro! Espadas, montantes, adagas, cetros, cajados... O que você puder balançar, você pode fazer." />
+  <keys prop="Description" type="monster" key="Dialog_9015610_Title" value="Criar Armadura" />
+  <keys prop="Description" type="monster" key="Dialog_9015610_Text0" value="A criação de armaduras permite que você faça qualquer coisa que possa usar, além de um escudo para complementar. As armaduras podem ter diferentes pesos e tecidos. As partes individuais podem cobrir seu corpo, ombros, pés, mãos e cabeça." />
+  <keys prop="Description" type="monster" key="Dialog_9015620_Title" value="Cozinhar" />
+  <keys prop="Description" type="monster" key="Dialog_9015620_Text0" value="Você pode fazer todos os tipos de pratos ao cozinhar. Um prato ótimo dá o impulso necessário para a batalha. Não é ótimo?" />
+  <keys prop="Description" type="monster" key="Dialog_9015630_Title" value="Misturar Poções" />
+  <keys prop="Description" type="monster" key="Dialog_9015630_Text0" value="Alquimia é a arte de misturar e preparar poções. Você pode fazer poções de recuperação e poções para melhorar suas habilidades. Você também pode fazer bandagens para tratar suas feridas." />
+  <keys prop="Description" type="monster" key="Dialog_9015640_Title" value="Do que me serve fazer joias?" />
+  <keys prop="Description" type="monster" key="Dialog_9015640_Text0" value="Você pode criar anéis e colares que dão vantagem em batalhas. Acessórios normalmente melhoram suas habilidades físicas ou mágicas. Certifique-se de criar acessórios que coincidam com suas preferências." />
+  <keys prop="Description" type="monster" key="Dialog_9015650_Title" value="Criar Selaria" />
+  <keys prop="Description" type="monster" key="Dialog_9015650_Text0" value="Além das selarias tradicionais -- armaduras e equipamentos de familiares -- você também pode fazer poções especiais para familiares e itens para ajudar a domar familiares raros." />
+  <keys prop="Description" type="monster" key="Dialog_9015680_Title" value="Viajar para Outras Regiões" />
+  <keys prop="Description" type="monster" key="Dialog_9015680_Text0" value="Todos os Santuários de Trânsito permitem que você viaje rapidamente em uma região, mas para distâncias maiores você precisa de um Santuário de Mundos. Por exemplo, se você quer ir daqui para as Terras Altas de Hakanas, você precisa de um Santuário de Mundos. Na verdade é bem simples." />
+  <keys prop="Description" type="monster" key="Dialog_9015670_Title" value="Santuário de Trânsito e de Mundos" />
+  <keys prop="Description" type="monster" key="Dialog_9015670_Text0" value="O Santuário de Mundos permite que você viaje entre regiões. Normalmente ele fica em um lugar importante, como uma cidade. Por sua vez, os Santuários de Trânsito só permitem que você viaje em uma região. Você consegue diferenciá-los porque os Santuários de Mundo são maiores." />
+  <keys prop="Description" type="monster" key="Dialog_9016810_Title" value="Ruínas de Exarahn" />
+  <keys prop="Description" type="monster" key="Dialog_9016810_Text0" value="Há ruínas de um posto Exarahniano perto da Caverna da Luz de Lava. Os mortos-vivos de lá são assustadoramente fortes. Eu não iria lá por conta própria.&lt;br&gt;&lt;br&gt;(As Ruínas de Exarahn são destinadas para aventureiros de Nível 14-15.)" />
+  <keys prop="Description" type="monster" key="Dialog_9016690_Title" value="Fazendas do Bosque de Kell" />
+  <keys prop="Description" type="monster" key="Dialog_9016690_Text0" value="As Fazendas do Bosque de Kell eram um lugar adorável, mas agora estão cheias de vampiros. Se você está indo para lá, sugiro levar uma lança ou feitiços que possam atingir vários alvos ao mesmo tempo.&lt;br&gt;&lt;br&gt;(As Fazendas do Bosque de Kell são destinadas para aventureiros de Nível 17-18.)" />
+  <keys prop="Description" type="monster" key="Dialog_9016700_Title" value="Costa da Divindade" />
+  <keys prop="Description" type="monster" key="Dialog_9016700_Text0" value="Esta é a costa entre as encostas e a Caldeira Quebrada. Diz a lenda que a cauda de Velzeroth criou o corpo de água ao longo da costa. Jeranin e seus Khabimistas dominaram o lugar. É melhor levar dois soldados com você.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9016700_Text0_attach_0" value="(A Costa da Divindade é destinada para aventureiros de Nível 18-20)" />
+  <keys prop="Description" type="monster" key="Dialog_9016710_Title" value="Cemitério do Sul" />
+  <keys prop="Description" type="monster" key="Dialog_9016710_Text0" value="O cemitério é dividido em norte e sul. A parte sul está cheia de mortos-vivos repugnantes. Eles são os mortos de Exarahn que despertaram. Você precisará de uma lança ou de feitiços que atinjam grupos de inimigos para reduzir o número de mortos-vivos." />
+  <keys prop="Description" type="monster" key="Dialog_9016720_Title" value="Cemitério do Norte" />
+  <keys prop="Description" type="monster" key="Dialog_9016720_Text0" value="O cemitério do norte está cheio de espíritos malignos. Eles derrotaram seus inimigos com magias poderosas. Eu não iria lá com um grupo com menos de 3 pessoas. " />
+  <keys prop="Description" type="monster" key="Dialog_9016730_Title" value="Caminho Congelado" />
+  <keys prop="Description" type="monster" key="Dialog_9016730_Text0" value="Os yetis de Matren dominaram completamente a estrada da montanha. Se você for lá sozinho, eles vão mandar você para um túmulo gelado." />
+  <keys prop="Description" type="monster" key="Dialog_9016740_Title" value="Arquipélago Berilo" />
+  <keys prop="Description" type="monster" key="Dialog_9016740_Text0" value="Em Desenvolvimento" />
+  <keys prop="Description" type="monster" key="Dialog_9016750_Title" value="Recife de Coral Arco-Íris" />
+  <keys prop="Description" type="monster" key="Dialog_9016750_Text0" value="Em Desenvolvimento" />
+  <keys prop="Description" type="monster" key="Dialog_9016760_Title" value="Utran" />
+  <keys prop="Description" type="monster" key="Dialog_9016760_Text0" value="Em Desenvolvimento" />
+  <keys prop="Description" type="monster" key="Dialog_9016770_Title" value="Piratas Bismuth" />
+  <keys prop="Description" type="monster" key="Dialog_9016770_Text0" value="Em Desenvolvimento" />
+  <keys prop="Description" type="monster" key="Dialog_9016780_Title" value="Warhuul" />
+  <keys prop="Description" type="monster" key="Dialog_9016780_Text0" value="Em Desenvolvimento" />
+  <keys prop="Description" type="monster" key="Dialog_9016790_Title" value="Planície de Sorma" />
+  <keys prop="Description" type="monster" key="Dialog_9016790_Text0" value="Em Desenvolvimento" />
+  <keys prop="Description" type="monster" key="Dialog_9016800_Title" value="Posto de Farlark" />
+  <keys prop="Description" type="monster" key="Dialog_9016800_Text0" value="Em Desenvolvimento" />
+  <keys prop="Description" type="monster" key="Dialog_9015725_Title" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015725_Text0" value="Os familiares se cansam rapidamente quando estão perto de sua altitude máxima. Se você faz um familiar voar mais alto que sua altitude, ele será dispensado e você cairá! Tome cuidado quando voar alto." />
+  <keys prop="Description" type="monster" key="Dialog_9015726_Title" value="Familiares dos Ares das Terras Altas" />
+  <keys prop="Description" type="monster" key="Dialog_9015726_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;&lt;br&gt;Filhote de Penavermelha 150m&lt;br&gt;Scalleda 550m&lt;br&gt;Crista da Chama da Pedra Incandescente 500m" />
+  <keys prop="Description" type="monster" key="Dialog_9015726_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares dos Ares de Elite]&lt;br&gt;&lt;br&gt;Bico Flamejante de Caldeira 250m" />
+  <keys prop="Description" type="monster" key="Dialog_9015727_Title" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015727_Text0" value="Os familiares se cansam rapidamente quando estão perto de sua altitude máxima. Se você faz um familiar voar mais alto que sua altitude, ele será dispensado e você cairá! Tome cuidado quando voar alto." />
+  <keys prop="Description" type="monster" key="Dialog_9015728_Title" value="Familiares dos Ares das Terras Altas" />
+  <keys prop="Description" type="monster" key="Dialog_9015728_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;&lt;br&gt;Filhote de Penavermelha 150m&lt;br&gt;Scalleda 550m&lt;br&gt;Crista da Chama da Pedra Incandescente 500m" />
+  <keys prop="Description" type="monster" key="Dialog_9015728_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares dos Ares de Elite]&lt;br&gt;&lt;br&gt;Bico Flamejante de Caldeira 250m" />
+  <keys prop="Description" type="monster" key="Dialog_3050003_title" value="Capitão Blaider" />
+  <keys prop="Description" type="monster" key="Dialog_3050003_text0" value="Você ainda não está pronto. Volte quando você estiver mais forte." />
+  <keys prop="Description" type="monster" key="Dialog_3050004_title" value="Capitão Blaider" />
+  <keys prop="Description" type="monster" key="Dialog_3050004_text0" value="Eu conheço o trabalho perfeito para você. Estou mandando você para a Fenda de Tritael. Você vai querer ter cuidado lá." />
+  <keys prop="Description" type="monster" key="Dialog_3050004_Answer_0_Text" value="Viajar para a Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="Dialog_9015733_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015733_Text0" value="[Familiares Terrestres Comuns]&lt;br&gt;Búfalo Selvagem&lt;br&gt;Jabuti Cascolava&lt;br&gt;Cão de Fogo&lt;br&gt;Aranha Morta-Viva&lt;br&gt;&lt;br&gt;[Familiares Terrestres de Elite]&lt;br&gt;Al-Shai&lt;br&gt;Natana, a Tirana&lt;br&gt;Vento Negro&lt;br&gt;Aranha Gélida&lt;br&gt;Urso Garragélida&lt;br&gt;Leorid" />
+  <keys prop="Description" type="monster" key="Dialog_9015734_Title" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015734_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;Crista da Chama da Pedra Incandescente 400m&lt;br&gt;&lt;br&gt;[Familiares dos Ares de Elite]&lt;br&gt;Bico Flamejante de Caldeira 250m&lt;br&gt; Scalleda 550m" />
+  <keys prop="Description" type="monster" key="Dialog_9015735_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015735_Text0" value="[Familiares Terrestres Comuns]&lt;br&gt;Pantera Predadora&lt;br&gt;Unicórnio&lt;br&gt;Pantera de Bigodes Brancos&lt;br&gt;Bisão Negro&lt;br&gt;Búfalo Fosco&lt;br&gt;Tartaruga de Morineh&lt;br&gt;Rena Patanegra&lt;br&gt;Aranossauro&lt;br&gt;Búfalo Selvagem&lt;br&gt;Cervo Galhada de Cristal&lt;br&gt;Pantera de Juba Branca&lt;br&gt;Búfalo Feroz&lt;br&gt;Urso Grenhacinzenta" />
+  <keys prop="Description" type="monster" key="Dialog_9015735_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares Terrestres de Elite]&lt;br&gt;Chakai&lt;br&gt;Hoonbaba&lt;br&gt;Baranossauro&lt;br&gt;Rogaton, o Branco&lt;br&gt;Vento Negro" />
+  <keys prop="Description" type="monster" key="Dialog_9015736_Title" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015736_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;Filhote de Penavermelha 150m" />
+  <keys prop="Description" type="monster" key="Dialog_9015737_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015737_Text0" value="[Familiares Terrestres Comuns]&lt;br&gt;Rena das Ruínas&lt;br&gt;Lobo Sombrio&lt;br&gt;Caribu Juba de Âmbar&lt;br&gt;Vaca Malhada&lt;br&gt;Grande Rena das Ruínas&lt;br&gt;Corça Juba de Âmbar&lt;br&gt;Cão Sombrio&lt;br&gt;Urso Catador&lt;br&gt;Corça Chifre de Cristal&lt;br&gt;Caribu de Juba Escura&lt;br&gt;Urso Guerreiro&lt;br&gt;Rena do Bosque de Kell&lt;br&gt;Pantera das Terras Altas&lt;br&gt;&lt;br&gt;[Familiares Terrestres de Elite]&lt;br&gt;Logash&lt;br&gt;Fenris&lt;br&gt;Trutan&lt;br&gt;Cão de Magma" />
+  <keys prop="Description" type="monster" key="Dialog_9015758_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015758_Text0" value="[Familiares Terrestres de Elite]&lt;br&gt;Plutão" />
+  <keys prop="Description" type="monster" key="Dialog_9015759_Title" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015759_Text0" value="[Familiar Voador Comum]&lt;br&gt;Águiatrovão Encouraçada 600m&lt;br&gt;Cinzento Seco 600m&lt;br&gt;Draku 600m&lt;br&gt;Flotier 700m&lt;br&gt;Wyrm Cinzento 700m&lt;br&gt;Imeba 700m&lt;br&gt;Laetta 700m&lt;br&gt;Draco Chifre Lustroso 750m&lt;br&gt;Flotier Debulhado em Maldade 750m&lt;br&gt;Wyvern Gélido 800m&lt;br&gt;Pégaso 800m" />
+  <keys prop="Description" type="monster" key="Dialog_9015760_Title" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015760_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;Horos 450m&lt;br&gt;Blatier 650m&lt;br&gt;Grasnador Negro 650m&lt;br&gt;Azrada 550 m&lt;br&gt;Wyvern Gélido Prateado 600m&lt;br&gt;&lt;br&gt;[Familiares dos Ares de Elite]&lt;br&gt;Balark 300m&lt;br&gt;Lâmina de Asa Azul 400m&lt;br&gt;Kravid do Vazio 300m&lt;br&gt;Drauph Bestavácua 250m" />
+  <keys prop="Description" type="monster" key="Dialog_9015770_Title" value="Funcionária do Banco" />
+  <keys prop="Description" type="monster" key="Dialog_9015770_Text0" value="Você se sentirá muito melhor ao deixar suas mercadorias no armazém. Nós nos preocupamos por você!" />
+  <keys prop="Description" type="monster" key="Dialog_9015770_Answer_0_Text" value="Armazém" />
+  <keys prop="Description" type="monster" key="Dialog_9020028_Title" value="Costa de Parna" />
+  <keys prop="Description" type="monster" key="Dialog_9020028_Text0" value="O porto entre Hakanas e Parna está fechado devido à uma epidemia. De qualquer forma, o rei autorizou uma nova estação aérea na Costa de Parna que deve começar a funcionar logo. Receio que você terá que esperar." />
+  <keys prop="Description" type="monster" key="Dialog_9020029_Title" value="Hakoora" />
+  <keys prop="Description" type="monster" key="Dialog_9020029_Text0" value="A estrada para Hakoora está bloqueada devido a um deslizamento de terra. Quando ela for reaberta, eu aviso você. " />
+  <keys prop="Description" type="monster" key="Dialog_9015771_Title" value="Operadora de Moedas Marlene" />
+  <keys prop="Description" type="monster" key="Dialog_9015771_Text0" value="Boas-vindas! Por um acaso você possui moedas de Hakanas? Dependendo de quanto você tiver, eu as trocarei por alguns de meus itens. Estou sempre disposta a trocar se você tiver moedas!" />
+  <keys prop="Description" type="monster" key="Dialog_9015771_Answer_0_Text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_9015772_Title" value="Guarda da Capital (Porto)" />
+  <keys prop="Description" type="monster" key="Dialog_9015772_Text0" value="Não há como salvarmos todos daqui. A única coisa que podemos fazer é tentar conter as coisas..." />
+  <keys prop="Description" type="monster" key="Dialog_9015773_Title" value="Guarda da Capital (Porto)" />
+  <keys prop="Description" type="monster" key="Dialog_9015773_Text0" value="Alto lá! O porto está fechado. Se você valoriza sua vida, vá embora. Esta praga... Não é uma morte bonita." />
+  <keys prop="Description" type="monster" key="Dialog_9015773_Answer_0_Text" value="Praga" />
+  <keys prop="Description" type="monster" key="Dialog_9015774_Title" value="Praga" />
+  <keys prop="Description" type="monster" key="Dialog_9015774_Text0" value="A coroa enviou estudiosos para investigar, mas eles estão tão perplexos quanto nós. Eu ouvi dizer que um mago está por trás de tudo isso, mas é só um rumor. O que quer que seja essa praga, ela não é natural." />
+  <keys prop="Description" type="monster" key="Dialog_9020031_Title" value="Armas com Infusão Mágica" />
+  <keys prop="Description" type="monster" key="Dialog_9020031_Text0" value="Haverá momentos que você irá adquirir armas ou armaduras raras que não são necessariamente úteis para você. Se você tiver uma arma com infusão mágica de uma classe diferente, ela é inútil para você. Não seria bom poder trocá-la por outra coisa?" />
+  <keys prop="Description" type="monster" key="Dialog_9020031_Text0_attach_0" value="Por estes motivos, tenho trabalhado com mestres de criação para alterar a magia infundida em armas e armaduras. Como você pode imaginar, não é fácil. Os materiais necessários são raros, mas se você tiver interesse, vale a pena tentar." />
+  <keys prop="Description" type="monster" key="Dialog_1070501_Title" value="Comerciante de Criação de Armaduras 2" />
+  <keys prop="Description" type="monster" key="Dialog_1070501_Text0" value="Sua armadura é a sua salvação no campo de batalha. Eu tenho o que você precisa para ter uma armadura forte." />
+  <keys prop="Description" type="monster" key="Dialog_1070501_Answer_0_Text" value="Loja de Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_1070501_Answer_1_Text" value="Praticar Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_1070502_Title" value="Comerciante de Alquimia 2" />
+  <keys prop="Description" type="monster" key="Dialog_1070502_Text0" value="Você é um misturador de poções? Venha, dê uma olhada nos meus reagentes." />
+  <keys prop="Description" type="monster" key="Dialog_1070502_Answer_0_Text" value="Loja de Alquimia" />
+  <keys prop="Description" type="monster" key="Dialog_1070502_Answer_1_Text" value="Treinar Alquimia" />
+  <keys prop="Description" type="monster" key="Dialog_1070503_Title" value="Comerciante de Ingredientes 2" />
+  <keys prop="Description" type="monster" key="Dialog_1070503_Text0" value="Cozinhar começa com ingredientes frescos. Para sua sorte, tenho vários!" />
+  <keys prop="Description" type="monster" key="Dialog_1070503_Answer_0_Text" value="Despensa de Ingredientes" />
+  <keys prop="Description" type="monster" key="Dialog_1070503_Answer_1_Text" value="Aumentar seu Nível de Culinária" />
+  <keys prop="Description" type="monster" key="Dialog_1070504_Title" value="Comerciante de Criação de Armas 2" />
+  <keys prop="Description" type="monster" key="Dialog_1070504_Text0" value="Nada se ajusta melhor a sua mão do que uma arma que você mesmo fez." />
+  <keys prop="Description" type="monster" key="Dialog_1070504_Answer_0_Text" value="Loja de Criação de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_1070504_Answer_1_Text" value="Praticar Criação de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_1070505_Title" value="Comerciante de Criação de Joias" />
+  <keys prop="Description" type="monster" key="Dialog_1070505_Text0" value="Dê uma olhada! Eu tenho o que você precisa para fazer suas próprias joias cintilantes." />
+  <keys prop="Description" type="monster" key="Dialog_1070505_Answer_0_Text" value="Loja de Criação de Joias" />
+  <keys prop="Description" type="monster" key="Dialog_1070505_Answer_1_Text" value="Praticar Criação de Joias" />
+  <keys prop="Description" type="monster" key="Dialog_3050817_Title" value="O Sonomante" />
+  <keys prop="Description" type="monster" key="Dialog_3050817_Text0" value="Viajar no tempo para mudar os acontecimentos do passado? Hmm, é uma ideia interessante... Usar o poder do tempo para desafiar os deuses é apenas uma prova de como os seres humanos como limitados." />
+  <keys prop="Description" type="monster" key="Dialog_9015779_Title" value="Treinador Hong (Evento da Copa do Mundo)" />
+  <keys prop="Description" type="monster" key="Dialog_9015779_Text0" value="Olá!&lt;br&gt;Estão todos prontos para curtir a Copa do Mundo?&lt;br&gt;Hum... Esse seu traje não é adequado para torcer.&lt;br&gt;&lt;br&gt;Se você me trouxer uma bola de futebol, eu a trocarei por uma Caixa da Sorte com um traje para torcer pelo time de futebol coreano!" />
+  <keys prop="Description" type="monster" key="Dialog_9015779_Answer_0_Text" value="Loja de Permuta de Bolas de Futebol" />
+  <keys prop="Description" type="monster" key="Dialog_9015780_Title" value="Lebrini Lunar (Evento de Ano Novo)" />
+  <keys prop="Description" type="monster" key="Dialog_9015780_Text0" value="Boas-vindas, humano!&lt;br&gt;Nós Lebrini estamos vendendo Sopa de Bolinho de Arroz para comemorar a melhor festividade. Por favor, compre muito, estamos vendendo baratinho!&lt;br&gt;&lt;br&gt;Se você trouxer muita Sopa de Bolinho de Arroz, eu as troco por diversos itens!" />
+  <keys prop="Description" type="monster" key="Dialog_9015780_Answer_0_Text" value="Loja de Sopa de Bolinho de Arroz" />
+  <keys prop="Description" type="monster" key="Dialog_1100054_Title" value="Seratia" />
+  <keys prop="Description" type="monster" key="Dialog_1100054_Text0" value="Estas terras estão divididas entre agentes do caos e nossos protetores benevolentes desde os tempos de outrora. É o poder de Ellora que nos mantém seguros, e a vontade dela é que me fez e fez os meus aceitarem sua oferta.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Temos a tarefa de manter o equilíbrio dos deuses. E você? Está aqui para trazer equilíbrio? Ou para quebrá-lo?" />
+  <keys prop="Description" type="monster" key="Dialog_1100054_Answer_6_Text" value="O Papel do Leão" />
+  <keys prop="Description" type="monster" key="Dialog_1100054_Answer_7_Text" value="Entrelaçamento do Tempo" />
+  <keys prop="Description" type="monster" key="Dialog_1100054_Answer_14_Text" value="Emblema Lendário" />
+  <keys prop="Description" type="monster" key="Dialog_9020032_Title" value="O Papel do Leão" />
+  <keys prop="Description" type="monster" key="Dialog_9020032_Text0" value="Eu não sou a única com este trabalho. Sou apenas uma dos observadores daqui que mantêm o equilíbrio e realizam a vontade da Deusa. Muitas irmãs adotaram nossa causa.&lt;br&gt;&lt;br&gt;Algumas pessoas nos chamam de anjos. O que você acha? Como me pareço aos seus olhos?" />
+  <keys prop="Description" type="monster" key="Dialog_9020033_Title" value="Entrelaçamento do Tempo" />
+  <keys prop="Description" type="monster" key="Dialog_9020033_Text0" value="O tempo é um rio tempestuoso. É impossível ir contra ele. Aparentemente...&lt;br&gt;&lt;br&gt;Dizem que nas áreas desconhecidas além deste mundo, o fluxo do tempo não significa nada." />
+  <keys prop="Description" type="monster" key="Dialog_9020033_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Alguns conseguiram alterar nosso próprio rio, aqui mesmo neste mundo. Alguém deve ter sido envolvido na anomalia que acabou de acontecer e há poucos que lidam com este tipo de poder..." />
+  <keys prop="Description" type="monster" key="Dialog_9020034_Title" value="Emblema Lendário" />
+  <keys prop="Description" type="monster" key="Dialog_9020034_Text0" value="Minhas irmãs e eu monitoramos continuamente as movimentações dos Khabimistas e sua magia perigosa. Os magos Khabim têm viajado pela terra, recrutando antigos apóstolos do mal que um dia governaram lugares como a Caverna da Luz de Lava, a Mansão Carleon e Matren.&lt;br&gt;&lt;br&gt;Uma vez que o tempo foi alterado em um lugar, ninguém pode entrar nele em segurança sem um emblema como proteção. Infelizmente, existem apenas duas maneiras de obter um..." />
+  <keys prop="Description" type="monster" key="Dialog_9020034_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Você pode desafiar as áreas mais perigosas da Brecha, da Caverna da Luz de Lava, da Mansão Carleon e das Ruínas de Matren.&lt;br&gt;&lt;br&gt;Se isso parece ser muito difícil, eu também poderei fornecer os emblemas que você procura em troca de ajuda. Não se esqueça, meus emblemas são vinculados a você por magia." />
+  <keys prop="Description" type="monster" key="Dialog_1050214_Title" value="Marin" />
+  <keys prop="Description" type="monster" key="Dialog_1050214_Text0" value="Até onde todos sabem, eu sou a Dame Marin, amazona errante. Mas nosso amigo em comum diz que você é confiável, então... A Ordem Ônix manda lembranças." />
+  <keys prop="Description" type="monster" key="Dialog_1050214_Answer_0_Text" value="O Mar de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_9015781_Title" value="Yuri" />
+  <keys prop="Description" type="monster" key="Dialog_9015781_Text0" value="Olá! Yuri está aqui para celebrar o primeiro aniversário de Icarus!&lt;br&gt;&lt;br&gt;Isso é possível graças a todos! Icarus não estaria aqui se não fosse por todos vocês! Existem vários eventos para você então, por favor, aproveite cada um deles.&lt;br&gt;&lt;br&gt;Vamos comemorar o primeiro aniversário de Icarus juntos!" />
+  <keys prop="Description" type="monster" key="Dialog_9015781_Answer_0_Text" value="Loja de Permuta de Sopa de Bolinho de Arroz" />
+  <keys prop="Description" type="monster" key="Dialog_9015782_Title" value="PCoelhinho (Evento de Lan House)" />
+  <keys prop="Description" type="monster" key="Dialog_9015782_Text0" value="Boas-vindas!&lt;br&gt;Se você logar da Lan House, você pode ganhar moedas de PCoelhinho a cada 10 minutos.&lt;br&gt;&lt;br&gt;Se você coletá-las e trazê-las para mim, eu as troco por itens incríveis.&lt;br&gt;Eu não cobro para olhar, então fique à vontade." />
+  <keys prop="Description" type="monster" key="Dialog_9015782_Answer_0_Text" value="Loja de Permuta de Moedas de PCoelhinho" />
+  <keys prop="Description" type="monster" key="Dialog_9015783_Title" value="Christoph Lebrini (Encarregado do Evento dos Comerciantes)" />
+  <keys prop="Description" type="monster" key="Dialog_9015783_Text0" value="Prazer em ver você!&lt;br&gt;Rapaz, claro que existem muitos exploradores, trabalhando duro por Midellas!&lt;br&gt;&lt;br&gt;Nosso objetivo é conseguir bons equipamentos para todos os exploradores. Mas me entristece não podermos simplesmente distribuí-los. Então nós preparamos um pequeno evento para os exploradores. Aproveite, sem qualquer pressão." />
+  <keys prop="Description" type="monster" key="Dialog_9015784_Title" value="Ossos" />
+  <keys prop="Description" type="monster" key="Dialog_9015784_Text0" value="Você precisa de Traje do Dia das Bruxas? Eu posso lhe dar um...? Ou não...?&lt;br&gt;&lt;br&gt;Quer dizer, não é de graça, claro! Eu não posso sair distribuindo coisas grátis o tempo todo." />
+  <keys prop="Description" type="monster" key="Dialog_9015784_Answer_0_Text" value="Loja do Festival de Traje do Dia das Bruxas" />
+  <keys prop="Description" type="monster" key="Dialog_9015784_Answer_1_Text" value="O Cavaleiro Sem Cabeça" />
+  <keys prop="Description" type="monster" key="Dialog_9015784_Answer_2_Text" value="Coiste Bodhar" />
+  <keys prop="Description" type="monster" key="Dialog_9015785_Title" value="Abóbora" />
+  <keys prop="Description" type="monster" key="Dialog_9015785_Text0" value="Hehehe! Dizem que há uma casa amaldiçoada onde aparece fantasmas. Não se pode celebrar o Dia das Bruxas sem passar pela casa como ela!&lt;br&gt;&lt;br&gt;Ei, você, vá logo visitá-la!" />
+  <keys prop="Description" type="monster" key="Dialog_9015785_Answer_0_Text" value="Loja do Festival do Dia das Bruxas" />
+  <keys prop="Description" type="monster" key="Dialog_9015785_Answer_1_Text" value="Como Cumprimentar no Dia das Bruxas" />
+  <keys prop="Description" type="monster" key="Dialog_9015786_Title" value="Goldie Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015786_Text0" value="Como vai você? Vim resolver um problema que vocês exploradores têm passado.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Carregar todas essas moedas de prata Lebrini pesadas deve ser difícil. É por isso que eu tenho algumas moedas de ouro muito especiais cunhadas.&lt;br&gt;&lt;br&gt;Traga 50 moedas de prata e fazemos negócio." />
+  <keys prop="Description" type="monster" key="Dialog_9015786_Answer_0_Text" value="Loja de Moedas " />
+  <keys prop="Description" type="monster" key="Dialog_9015786_Answer_2_Text" value="Ravini coins exchange" />
+  <keys prop="Description" type="monster" key="Dialog_9015787_Title" value="Eddy Smith" />
+  <keys prop="Description" type="monster" key="Dialog_9015787_Text0" value="Venha e faça o negócio da sua vida! Estou vendendo um baú do tesouro que pode conter alguns dos itens mais raros conhecidos em toda a terra! Eu digo &quot;pode&quot; porque os encantos nestas coisas podem ser um pouco complicados, então você vai precisar de um pouco de sorte.&lt;br&gt;&lt;br&gt;Não caia nas mentiras do meu irmão John. Ele é um covarde e uma fraude! Meus baús são os melhores!" />
+  <keys prop="Description" type="monster" key="Dialog_9015787_Answer_0_Text" value="Loja de Moedas de Ouro" />
+  <keys prop="Description" type="monster" key="Dialog_9015788_Title" value="John Smith" />
+  <keys prop="Description" type="monster" key="Dialog_9015788_Text0" value="Eddy te mandou aqui? Ele sempre manda trabalho para mim. Ele é o melhor irmão que alguém poderia pedir.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Agora, se você está interessado em fazer um grande negócio, gostaria de oferecer um dos meus baús fantásticos. É garantido que cada um dos itens tenha qualidade lendária. Ele também possui garantia de devolução de dinheiro se os itens não forem bons. Como você pode deixar passar um negócio assim?" />
+  <keys prop="Description" type="monster" key="Dialog_9015788_Answer_0_Text" value="Loja Premium de Moedas de Ouro" />
+  <keys prop="Description" type="monster" key="Dialog_3050818_Title" value="Santuário de Mundos" />
+  <keys prop="Description" type="monster" key="Dialog_3050818_Text0" value="Santuários de Mundos permitem que você se teletransporte para qualquer outro santuário que você já esteve, independentemente da distância. " />
+  <keys prop="Description" type="monster" key="Dialog_3050818_Answer_0_Text" value="Tetransportar para Outra Região" />
+  <keys prop="Description" type="monster" key="Dialog_3050818_Answer_1_Text" value="Definir Local de Retorno" />
+  <keys prop="Description" type="monster" key="Dialog_9015789_Title" value="Kaladin" />
+  <keys prop="Description" type="monster" key="Dialog_9015789_Text0" value="Salve! As guildas de Midellas atacaram Exarahn em uma tentativa de recuperar essa terra misteriosa. O Conselho Real da Aliança está de olho na luta que está acontecendo lá. Você gostaria do último relatório?" />
+  <keys prop="Description" type="monster" key="Dialog_9015789_Answer_0_Text" value="Progresso de Guerra de Alianças" />
+  <keys prop="Description" type="monster" key="Dialog_9015790_Title" value="Mileya" />
+  <keys prop="Description" type="monster" key="Dialog_9015790_Text0" value="Não gosta da sua aparência? Você está esperando por uma transformação que trará um novo sentimento para suas aventuras? Eu tenho o que você precisa. Acredite, o preço vale bem a pena!" />
+  <keys prop="Description" type="monster" key="Dialog_9015790_Answer_0_Text" value="Customização de Personagem" />
+  <keys prop="Description" type="monster" key="Dialog_9015791_Title" value="Clinton Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015791_Text0" value="Bom dia a você! Eu e meus colegas Lebrini estamos aqui na sua linda cidade para ajudar grandes aventureiros como você!&lt;br&gt;&lt;br&gt;&#xD;&#xA;Como, você pergunta? Ajudando você a encontrar o animal de estimação dos seus sonhos! Minha especialidade é uma versão mini adorável de Karasha." />
+  <keys prop="Description" type="monster" key="Dialog_9015791_Answer_0_Text" value="Loja de Animais Mini Karasha Lendário" />
+  <keys prop="Description" type="monster" key="Dialog_9015792_Title" value="Cleveland Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015792_Text0" value="Já ouvi muitas histórias de pessoas em toda a terra encontrando cupons valiosos que eu e meus primos poderíamos usar. Se você encontrar algo de valor, talvez eu possa trocar por um mini Karasha heroico! É uma criatura nobre e útil, eu juro!" />
+  <keys prop="Description" type="monster" key="Dialog_9015792_Text0_attach_0" value="Como são itens realmente bons, demorou muito para decidir o item da transação. Fong Pong! &lt;br&gt; Pegue um zircão que pode ser obtido em 10 minutos na Lan House. &lt;br&gt; Quando você coletar esse zircão, vai trocá-lo por um item enorme. Pong Pong! &lt;br&gt; Aposto que não será um acordo para perder dinheiro. Puff! " />
+  <keys prop="Description" type="monster" key="Dialog_9015792_Answer_0_Text" value="Loja de Animais Mini Karasha Heroico" />
+  <keys prop="Description" type="monster" key="Dialog_9015793_Title" value="Carroll Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015793_Text0" value="Você já ouviu falar do mercado da luz da lua? É para onde nós comerciantes vamos quando precisamos de coisas que não estão...facilmente disponíveis. Eu poderia estar disposto a pegar algumas coisas de lá, pelo preço certo." />
+  <keys prop="Description" type="monster" key="Dialog_9015793_Answer_0_Text" value="Loja de Medalhas de Pedra Azure" />
+  <keys prop="Description" type="monster" key="Dialog_9015794_Title" value="Christian Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015794_Text0" value="Um dia como esse não acontece sempre! Se você tem uma medalha dourada, ficará feliz por ter vindo." />
+  <keys prop="Description" type="monster" key="Dialog_9015794_Answer_0_Text" value="Loja de Medalhas Douradas" />
+  <keys prop="Description" type="monster" key="Dialog_9015795_Title" value="Boneco de Neve" />
+  <keys prop="Description" type="monster" key="Dialog_9015795_Text0" value="Eu amo Natal. A comida, o clima festivo... os bonecos de neve! Você também não ama os bonecos de neve?" />
+  <keys prop="Description" type="monster" key="Dialog_9015795_Answer_0_Text" value="Loja de Meias" />
+  <keys prop="Description" type="monster" key="Dialog_9015796_Title" value="Merrie" />
+  <keys prop="Description" type="monster" key="Dialog_9015796_Text0" value="Eu preparei um evento especial este ano para celebrar Natal. Venha celebrar comigo!" />
+  <keys prop="Description" type="monster" key="Dialog_9015796_Answer_0_Text" value="Loja de Natal" />
+  <keys prop="Description" type="monster" key="Dialog_9015797_Title" value="Clement Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015797_Text0" value="Parece que a exaustão te pegou! Não se preocupe, os Comerciantes da Lua Crescente estão aqui para facilitar sua vida." />
+  <keys prop="Description" type="monster" key="Dialog_9015798_Title" value="Clement Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015798_Text0" value="Não há nada de errado em tirar um dia de folga. Especialmente quando há compras para fazer." />
+  <keys prop="Description" type="monster" key="Dialog_9015799_Title" value="Clement Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015799_Text0" value="Não há nada de errado em tirar um dia de folga. Especialmente quando há compras para fazer." />
+  <keys prop="Description" type="monster" key="Dialog_9015800_Title" value="Glendor" />
+  <keys prop="Description" type="monster" key="Dialog_9015800_Text0" value="Você e seu familiar devem pensar como um só. Eu ficaria feliz em te ensinar." />
+  <keys prop="Description" type="monster" key="Dialog_9015800_Answer_0_Text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015800_Answer_1_Text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_9015801_Title" value="Rex Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015801_Text0" value="Parece que você alcançou o seu objetivo de subir de nível! Parabéns!" />
+  <keys prop="Description" type="monster" key="Dialog_9015801_Answer_0_Text" value="Level Reward" />
+  <keys prop="Description" type="monster" key="Dialog_9015802_Title" value="Riley Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015802_Text0" value="Lebrini Roripang chegou com as Caixas da Sorte Temáticas para comemorar o aniversário de 1 ano de Icarus. Você deve estar com sorte!&lt;br&gt;&lt;br&gt;Se você não puder aproveitar o evento porque não tem tempo mesmo tendo ouro, sinto muito. Mas não se preocupe." />
+  <keys prop="Description" type="monster" key="Dialog_9015802_Answer_0_Text" value="Loja de Caixas da Sorte Temáticas" />
+  <keys prop="Description" type="monster" key="Dialog_9015803_Title" value="Altemir da Virtude, o Veloz" />
+  <keys prop="Description" type="monster" key="Dialog_9015803_Text0" value="Posso sentir um calor forte nesta área. Por um acaso você ouve o desespero das almas em chamas?&lt;br&gt;&lt;br&gt;Sou Altemir, e vim para enfrentar o mal em nome da justiça." />
+  <keys prop="Description" type="monster" key="Dialog_9015804_Title" value="Siclid da Virtude, o Pesaroso" />
+  <keys prop="Description" type="monster" key="Dialog_9015804_Text0" value="Hakanas sucumbiria ao mal se não fosse pela Sociedade Mágica da Virtude.&lt;br&gt;&lt;br&gt;É nosso dever proteger este reino e todos que vivem aqui." />
+  <keys prop="Description" type="monster" key="Dialog_9015805_Title" value="Hazran da Virtude, o Tranquilo" />
+  <keys prop="Description" type="monster" key="Dialog_9015805_Text0" value="Eu vim para cá quando soube do massacre. É muito igual ao de Hakanas...frio e cruel. Esses cadáveres congelados só podem ser obra de Sinthan." />
+  <keys prop="Description" type="monster" key="Dialog_9015806_Title" value="Jaynan" />
+  <keys prop="Description" type="monster" key="Dialog_9015806_Text0" value="Até mesmo um familiar forte não pode ajudá-lo se ele não for bem cuidado. Fique atento a quanto você pressiona seus familiares." />
+  <keys prop="Description" type="monster" key="Dialog_9015806_Answer_0_Text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015806_Answer_1_Text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_9015807_Title" value="Pedro" />
+  <keys prop="Description" type="monster" key="Dialog_9015807_Text0" value="Ligação e equipamentos são importantes, claro, mas você não pode ignorar a saúde do seu familiar. É o que um bom treinador de feras pode fazer por você." />
+  <keys prop="Description" type="monster" key="Dialog_9015807_Answer_0_Text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_9015807_Answer_1_Text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_9015808_Title" value="Ernest Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015808_Text0" value="Bom te ver! Eu ouvi que Ronfraine III decretou 1º de Maio como o Dia dos Adultos. Você sabia?&lt;br&gt; Se não sabia, então escute. Dia dos Adultos é para os adultos do Reino de Hakanas. O Reino irá prover todos os adultos com bebida e comida, tanto quanto queiram.&lt;br&gt;&lt;br&gt;No Dia dos Adultos, até mesmo Salant descansa. Então você pode curtir tanto quanto queira.&lt;br&gt;Acredite se quiser..." />
+  <keys prop="Description" type="monster" key="Dialog_9015808_Answer_0_Text" value="Loja do Dia dos Adultos" />
+  <keys prop="Description" type="monster" key="Dialog_9015809_Title" value="Ministro das Finanças Dewran" />
+  <keys prop="Description" type="monster" key="Dialog_9015809_Text0" value="Meu nome é Dewran e sou responsável pelas finanças reais. Sou encarregado de tudo, desde o início do reino até agora, então não vamos demorar muito." />
+  <keys prop="Description" type="monster" key="Dialog_9015810_Title" value="Asteria" />
+  <keys prop="Description" type="monster" key="Dialog_9015810_Text0" value="Um novo mundo de aventuras abre suas portas. Estou pensando em fazer novamente outro evento empolgante. Estão todos prontos?" />
+  <keys prop="Description" type="monster" key="Dialog_9015810_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Icarus com YD. Convido a todos para um mundo de aventuras novo e ainda mais divertido." />
+  <keys prop="Description" type="monster" key="Dialog_9015810_Answer_0_Text" value="Loja de Evento" />
+  <keys prop="Description" type="monster" key="Dialog_9015811_Title" value="Elisa" />
+  <keys prop="Description" type="monster" key="Dialog_9015811_Text0" value="Olá! Sou Elisa. Uma gravação é como um seguro para o seu equipamento ou familiar. Você gastou tanto tempo com as coisas que ama. Por que não protegê-las?" />
+  <keys prop="Description" type="monster" key="Dialog_9015812_Title" value="Pitero" />
+  <keys prop="Description" type="monster" key="Dialog_9015812_Text0" value="Coisas boas. &lt;br&gt; É bom ter um bom equipamento para se manter no campo de batalha, mas você sabe que precisa preparar vários suprimentos? Não se sinta envergonhado quando começar a praticar e não se preocupe se conseguir com antecedência." />
+  <keys prop="Description" type="monster" key="Dialog_9015812_Answer_0_Text" value="Loja de Suprimentos PvP " />
+  <keys prop="Description" type="monster" key="Dialog_9015813_Title" value="Pelkain " />
+  <keys prop="Description" type="monster" key="Dialog_9015813_Text0" value="Os companheiros são como um tolo para um aventureiro. &lt;br&gt;Companheiros que crescem bem enquanto se cuidam são muito mais seguros do que os colegas. O que posso dizer por enquanto? Dê uma olhada nisso." />
+  <keys prop="Description" type="monster" key="Dialog_9015813_Answer_0_Text" value="Caixa de Marcas de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_9015814_Title" value="Yura (Traje de banho) " />
+  <keys prop="Description" type="monster" key="Dialog_9015814_Text0" value="Olá aventureiros, é o verão!&lt;br&gt;&lt;br&gt;Eu sei que todos vocês estão se empenhando muito para proteger a paz de Midellas mesmo com todo esse calor!&lt;br&gt;&lt;br&gt;Hm? Eu me pareço com alguém? Sim, eu sou Yuri, a irmã gêmea de Yura.&lt;br&gt;&lt;br&gt;Que tal enfrentar o calor do verão junto comigo!" />
+  <keys prop="Description" type="monster" key="Dialog_9015814_Answer_0_Text" value="Confeitaria de gelo " />
+  <keys prop="Description" type="monster" key="Dialog_9015815_Title" value="Asteria (traje de banho) " />
+  <keys prop="Description" type="monster" key="Dialog_9015815_Text0" value="Uau, é verão! &lt;br&gt;Vou ficar aborrecido com o incômodo cada vez maior devido ao clima quente, mas trouxe coisas que acabariam com todas as irritações de uma vez. Não preciso me preocupar com compras porque tenho itens especiais para acabar com o calor com a armadura lendária." />
+  <keys prop="Description" type="monster" key="Dialog_9015815_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Boas-vindas ao festival de verão, que alegria! Aproveite o Festival de Verão! Grite &quot;Festival de Verão&quot;!" />
+  <keys prop="Description" type="monster" key="Dialog_9015815_Answer_0_Text" value="Loja de Festa de Verão " />
+  <keys prop="Description" type="monster" key="Dialog_9015816_Title" value="Eldrea" />
+  <keys prop="Description" type="monster" key="Dialog_9015816_Text0" value="Eu tenho tudo o que um aventureiro gostaria de ter. Olhe ao redor e veja tudo o que você gostaria de ter.&lt;br&gt;&lt;br&gt;Só não tente roubar nada ou terei que te bater." />
+  <keys prop="Description" type="monster" key="Dialog_9015816_Answer_0_Text" value="Loja Premium" />
+  <keys prop="Description" type="monster" key="Dialog_9015817_Title" value="Lebrini Soringringo " />
+  <keys prop="Description" type="monster" key="Dialog_9015817_Text0" value="Prazer em conhecê-los! Eu sou Soringringo e vim aqui para agradecer a todos!&lt;br&gt;&lt;br&gt;Eu queria pedir desculpas a todos os aventureiros, principalmente aos pioneiros, que sofreram muito por causa dos humanos idiotas. Peço mil desculpas e gostaria que vocês os perdoassem.&lt;br&gt;&lt;br&gt;Meu Deus, esses humanos idiotas... " />
+  <keys prop="Description" type="monster" key="Dialog_9015818_Title" value="Zekfreid, O Bastião " />
+  <keys prop="Description" type="monster" key="Dialog_9015818_Text0" value="Hakanas sucumbiria ao mal se não fosse pela Sociedade Mágica da Virtude.&lt;br&gt;&lt;br&gt;É nosso dever proteger este reino e todos que vivem aqui." />
+  <keys prop="Description" type="monster" key="Dialog_9015819_Title" value="Auste Generoso " />
+  <keys prop="Description" type="monster" key="Dialog_9015819_Text0" value="Hakanas sucumbiria ao mal se não fosse pela Sociedade Mágica da Virtude.&lt;br&gt;&lt;br&gt;É nosso dever proteger este reino e todos que vivem aqui." />
+  <keys prop="Description" type="monster" key="Dialog_9015820_Title" value="Marsia " />
+  <keys prop="Description" type="monster" key="Dialog_9015820_Text0" value="Hakanas sucumbiria ao mal se não fosse pela Sociedade Mágica da Virtude.&lt;br&gt;&lt;br&gt;É nosso dever proteger este reino e todos que vivem aqui." />
+  <keys prop="Description" type="monster" key="Dialog_9015821_Title" value="Silveste da Lua Cheia " />
+  <keys prop="Description" type="monster" key="Dialog_9015821_Text0" value="Hakanas sucumbiria ao mal se não fosse pela Sociedade Mágica da Virtude.&lt;br&gt;&lt;br&gt;É nosso dever proteger este reino e todos que vivem aqui." />
+  <keys prop="Description" type="monster" key="Dialog_9015822_Title" value="Vatra da Agonia " />
+  <keys prop="Description" type="monster" key="Dialog_9015822_Text0" value="Hakanas sucumbiria ao mal se não fosse pela Sociedade Mágica da Virtude.&lt;br&gt;&lt;br&gt;É nosso dever proteger este reino e todos que vivem aqui." />
+  <keys prop="Description" type="monster" key="Dialog_9015823_Title" value="O paradoxo de Nagal " />
+  <keys prop="Description" type="monster" key="Dialog_9015823_Text0" value="Hakanas sucumbiria ao mal se não fosse pela Sociedade Mágica da Virtude.&lt;br&gt;&lt;br&gt;É nosso dever proteger este reino e todos que vivem aqui." />
+  <keys prop="Description" type="monster" key="Dialog_9015824_Title" value="Aersera" />
+  <keys prop="Description" type="monster" key="Dialog_9015824_Text0" value="Você já ouviu falar da transcendência de item? Você pode usar pedras de transcendência para aumentar o valor do seu equipamento. Ela é essencial para manter um equipamento excelente se um aventureiro quiser se tornar mais forte." />
+  <keys prop="Description" type="monster" key="Dialog_9015824_Answer_0_Text" value="Loja de Pedra Transcendente" />
+  <keys prop="Description" type="monster" key="Dialog_9015824_Answer_1_Text" value="Transcendência de Item" />
+  <keys prop="Description" type="monster" key="Dialog_9015825_Title" value="Transcendência de Item" />
+  <keys prop="Description" type="monster" key="Dialog_9015825_Text0" value="O que é a transcendência? É o processo de melhora do desempenho de um item ao consumir um item idêntico. Você pode usar a transcendência para melhorar o atributo secundário de um item.&lt;br&gt;&lt;br&gt;Você vai precisar de 2 do mesmo item, e você pode transcender até 5 vezes. Somente equipamentos e joias podem ser transcendidos, e o nível de temperamento do item alvo e a pedra-lacre equipada serão mantidos após a transcendência." />
+  <keys prop="Description" type="monster" key="Dialog_1210275_Title" value="Stoney" />
+  <keys prop="Description" type="monster" key="Dialog_1210275_Text0" value="Saudações! Sou Stoney, o guia da sala da guilda.&lt;br&gt;&lt;br&gt;Quando você entra na sala da guilda, você recebe bônus. Os bônus que você pode receber estão a seguir.&lt;br&gt;&lt;br&gt;Mal posso esperar pelo crescimento da sua guilda!" />
+  <keys prop="Description" type="monster" key="Dialog_1210275_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Você pode comprar outros bônus na loja. Mal posso esperar pelo crescimento da sua guilda." />
+  <keys prop="Description" type="monster" key="Dialog_1210275_Answer_0_Text" value="Efeito de Bônus de Conforto" />
+  <keys prop="Description" type="monster" key="Dialog_1210276_Title" value="Efeito de Bônus de Conforto " />
+  <keys prop="Description" type="monster" key="Dialog_1210276_Text0" value="[Comfort Buff] &lt;br&gt;&lt;br&gt; 5% de aumento no índice de sucesso de fortalecimento &lt;br&gt; 5% de aumento na taxa de desconto de vendas &lt;br&gt;5% decréscimo em taxa de comissão de vendas &lt;br&gt;&lt;br&gt;5% aumento de 100% " />
+  <keys prop="Description" type="monster" key="Dialog_1210275_Answer_1_Text" value="Efeito de Bônus Aconchegante" />
+  <keys prop="Description" type="monster" key="Dialog_1210277_Title" value="Efeito de Bônus Aconchegante " />
+  <keys prop="Description" type="monster" key="Dialog_1210277_Text0" value="[Cooldown Buff] &lt;br&gt;&lt;br&gt; Aumento de recuperação HP &lt;br&gt;Aumento de recuperação de mana - Aumento máximo HP " />
+  <keys prop="Description" type="monster" key="Dialog_1210275_Answer_2_Text" value="Receber Bônus Aconchegante" />
+  <keys prop="Description" type="monster" key="Dialog_9015826_Title" value="Sowoni Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015826_Text0" value="Humans, goodbye! I wish I had made a wish to the moon! &lt;br&gt;Our rabbits have a feast for the big celebration of human beings on Chuseok! &lt;br&gt;Sitting around a large carrot, dancing and sharing it! It's more delicious than eating together!" />
+  <keys prop="Description" type="monster" key="Dialog_9015827_Title" value="Ninino Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015827_Text0" value="Maldição! O bolinho de arroz deliciosa que fiz com cuidado desapareceu! &lt;br&gt; Ninino tem o dinheiro para comprar bolinhos de arroz. Eu só tinha alguns dias para brincar! Humanos, Lebrini quer VINGANÇA! Se você me der a vingança, darei a você o bolinho de arroz colorido! " />
+  <keys prop="Description" type="monster" key="Dialog_9015828_Title" value="Ninino Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015828_Text0" value="Maldição! O bolinho de arroz deliciosa que fiz com cuidado desapareceu! &lt;br&gt; Ninino tem o dinheiro para comprar bolinhos de arroz. Eu só tinha alguns dias para brincar! Humanos, Lebrini quer VINGANÇA! Se você me der a vingança, darei a você o bolinho de arroz colorido! " />
+  <keys prop="Description" type="monster" key="Dialog_9015829_Title" value="Ninino Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015829_Text0" value="Maldição! O bolinho de arroz deliciosa que fiz com cuidado desapareceu! &lt;br&gt; Ninino tem o dinheiro para comprar bolinhos de arroz. Eu só tinha alguns dias para brincar! Humanos, Lebrini quer VINGANÇA! Se você me der a vingança, darei a você o bolinho de arroz colorido! " />
+  <keys prop="Description" type="monster" key="Dialog_9015830_Title" value="Yuri" />
+  <keys prop="Description" type="monster" key="Dialog_9015830_Text0" value="Hi! &lt;br&gt;Welcome to the National Day of Chuseok, a beautiful glass came like a full moon! &lt;br&gt;&lt;br&gt;What do you think about Chuseok? &lt;br&gt;Glass is the first thing I remember the full moon! &lt;br&gt;In this Chuseok, Ravigny has a full moon in Ravigne's Garden. Do you want to go to Ravigne's Garden? Huhh! &lt;br&gt;&lt;br&gt;I will give you a special gift when you collect Ravigny's full moon. So, today, Icarus and plenty of hanbok send it!" />
+  <keys prop="Description" type="monster" key="Dialog_9015830_Answer_0_Text" value="Loja da Lua Cheia " />
+  <keys prop="Description" type="monster" key="Dialog_9015831_Title" value="Rio Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015831_Text0" value="Goodbye! Come on! &lt;br&gt;The nation's greatest wishes for the abundance In celebration of Thanksgiving, our rabbits have come to congratulate you! &lt;br&gt;When you bring Rice cake, I will exchange it with good things! &lt;br&gt;&lt;br&gt;Rice cake material can be obtained from all over the Icarus continent! &lt;br&gt;If you go to the glass next to me, you will be able to get a recipe for making Rice cake! Then bring a lot of delicious Rice cake!" />
+  <keys prop="Description" type="monster" key="Dialog_9015832_Title" value="Lebrini está vindo " />
+  <keys prop="Description" type="monster" key="Dialog_9015832_Text0" value="Humano, que bom que você voltou! Os Lebrinis adoram Bolinhos de Arroz! &lt;br&gt; Vou te dar um presente se você me der um Bolinho de Arroz de Cinco Cores! &lt;br&gt; &lt;br&gt; Você pode fazer um Bolinho de Arroz de Cinco Cores com Bolinho de Arroz e Bolinho de Arroz Colorido! A receita está com Yuri ao meu lado! Até mais!" />
+  <keys prop="Description" type="monster" key="dialog_9015831_answer_0_text" value="Loja de Bolinhos de Arroz" />
+  <keys prop="Description" type="monster" key="dialog_9015832_answer_0_text" value="Loja de bolinhos de arroz coloridos de outono " />
+  <keys prop="Description" type="monster" key="dialog_9015830_answer_2_text" value="Loja de Receitas de Bolinhos de Arroz " />
+  <keys prop="Description" type="monster" key="Dialog_9015834_Title" value="Refinador de Item" />
+  <keys prop="Description" type="monster" key="Dialog_9015834_Text0" value="Minhas técnicas patenteadas de refinação proverão ao seu equipamento novos atributos aleatórios! Você não está muito feliz com a espada que encontrou em alguma masmorra úmida e escura? Só me mostre!&lt;br&gt;&lt;br&gt;Traga um item para refinar e pedras de refinação para equiparar a qualidade, e eu o refinarei para você. " />
+  <keys prop="Description" type="monster" key="Dialog_9015834_answer_0_text" value="Refinação" />
+  <keys prop="Description" type="monster" key="Dialog_9015834_answer_1_text" value="Aperfeiçoamento de Item" />
+  <keys prop="Description" type="monster" key="Dialog_9015835_Title" value="Graham Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015835_Text0" value="Não deixe a sobrecarga te deixar para baixo. Estou aqui para aliviar você! Manterei seus itens protegidos com o zelo e a confiabilidade pelos quais meu povo é famoso!" />
+  <keys prop="Description" type="monster" key="Dialog_9015835_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_Title" value="Merona Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_Text0" value="Quer você esteja comprando ou vendendo, eu sou a Lebrini que você procura! Precisando, é só chamar." />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_9015837_Title" value="Elle &lt;Comerciante de Recompensas de Janeiro&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015837_Text0" value="Olá, aventureiro, prazer em conhecê-lo! Se você tiver um Cupom de Recompensas de Março, por favor, venha me visitar. Eu vou trocá-lo por algo muito especial. Até mais." />
+  <keys prop="Description" type="monster" key="Dialog_9015837_answer_0_text" value="Comerciante de Recompensas de Janeiro" />
+  <keys prop="Description" type="monster" key="Dialog_9015901_Title" value="Mariana (Terras Altas de Hakanas)" />
+  <keys prop="Description" type="monster" key="Dialog_9015901_Text0" value="Oi, é um prazer te conhecer. Sou Mariana, a pescadora! A pesca é amor, a pesca é vida. Quer tentar? Posso te ensinar!" />
+  <keys prop="Description" type="monster" key="Dialog_9015901_answer_4_text" value="Como eu pesco?" />
+  <keys prop="Description" type="monster" key="Dialog_9015901_answer_5_text" value="Como consigo missões de pesca?" />
+  <keys prop="Description" type="monster" key="Dialog_9015901_answer_8_text" value="Loja Mensal " />
+  <keys prop="Description" type="monster" key="Dialog_9015904_Title" value="Lessair " />
+  <keys prop="Description" type="monster" key="Dialog_9015904_Text0" value="Ah, outro aspirante a pescador aqui por causa de minha sabedoria! Se você precisa de uma vara de pesca, você está no lugar certo! Aqui o mar está para peixe para você! Venha dar uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_9015904_answer_0_text" value="Loja de Samburá de Miudezas" />
+  <keys prop="Description" type="monster" key="Dialog_9015838_Title" value="Belle &lt;Comerciante de Recompensas de Fevereiro&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015838_Text0" value="Olá, aventureiro, prazer em conhecê-lo! Se você tiver um Cupom de Recompensas de Fevereiro, por favor, venha me visitar. Eu vou trocá-lo por algo muito especial. Até mais." />
+  <keys prop="Description" type="monster" key="Dialog_9015838_answer_0_text" value="Comerciante de Recompensas de Fevereiro" />
+  <keys prop="Description" type="monster" key="Dialog_9015905_Title" value="Nasti " />
+  <keys prop="Description" type="monster" key="Dialog_9015905_Text0" value="Ao pescar, uma isca de qualidade é crucial! Quanto mais sofisticada, melhor. Estes peixes são especialistas em isca!&lt;br&gt;&lt;br&gt;Eu mesmo fiz tudo. Venderei a um preço muito justo, então venha dar uma olhada!" />
+  <keys prop="Description" type="monster" key="Dialog_9015905_answer_0_text" value="Loja de Samburá de Miudezas" />
+  <keys prop="Description" type="monster" key="Dialog_9015906_Title" value="Quadro de Pesca" />
+  <keys prop="Description" type="monster" key="Dialog_9015906_Text0" value="Informa sobre os itens que podem ser obtidos na loja de samburá de miudezas." />
+  <keys prop="Description" type="monster" key="Dialog_9015906_answer_0_text" value="Terras Altas de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_9015906_answer_1_text" value="Mar de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_9015906_answer_2_text" value="Deserto da Imortalidade" />
+  <keys prop="Description" type="monster" key="Dialog_9015906_answer_3_text" value="Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="Dialog_9015906_answer_4_text" value="Stygaea" />
+  <keys prop="Description" type="monster" key="Dialog_9015907_Title" value="Terras Altas de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_9015907_Text0" value="Terras Altas de Hakanas - Pesqueiro da Costa da Divindade&lt;br&gt;&lt;br&gt;Samburá de Miudezas&lt;br&gt;Flowerhorn, Alevino, Bordalo, Isca Sofisticada, Arenque Azul, Arenque Amarelo, Poção de EXP de Familiar Pequena, Poção de EXP de Familiar Grande, Tintura de Vida Máxima, Poção de EXP para Adornar Familiar, Marca de Pesca Reluzente (Evento), Visual de Arma do Maníaco por Pesca (7 dias) (Evento)" />
+  <keys prop="Description" type="monster" key="Dialog_9015908_Title" value="Mar de Hakanas" />
+  <keys prop="Description" type="monster" key="Dialog_9015908_Text0" value="Mar de Hakanas - Pesqueiro Recife Arco-Íris&lt;br&gt;&lt;br&gt;Samburá de Miudezas&lt;br&gt;Flowerhorn, Alevino, Bordalo, Isca Sofisticada, Peixe-Palhaço Amarelo, Peixe-Palhaço, Pedra de Têmpera de Elite Nível 130, Pedra de Têmpera de Elite Nível 140, Pedra de Têmpera de Elite Nível 150, Marca de Pesca Reluzente (Evento), Visual de Arma do Maníaco por Pesca (7 dias) (Evento)" />
+  <keys prop="Description" type="monster" key="Dialog_9015908_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Peixe Grande&lt;br&gt;Caixa do Oceano à Deriva I, Pedra Transcendente Lendária Austera, Pedra de Têmpera de Joias Elite Nível 150, Pedra de Têmpera Elite Nível 160" />
+  <keys prop="Description" type="monster" key="Dialog_9015908_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Peixe Extra Grande&lt;br&gt;Caixa do Oceano à Deriva II" />
+  <keys prop="Description" type="monster" key="Dialog_9015909_Title" value="Deserto da Imortalidade" />
+  <keys prop="Description" type="monster" key="Dialog_9015909_Text0" value="Deserto da Imortalidade - Pesqueiro do Filósofo&lt;br&gt;&lt;br&gt;Samburá de Miudezas&lt;br&gt;Flowerhorn, Alevino, Bordalo, Isca Sofisticada, Peixe de Coral, Peixe Azul de Coral, Peça de Tecido Densa e Luminosa, Lingote Refinado de Adamantium, Fragmento de Alma de Karasha, Esmeralda Densa, Marca de Pesca Reluzente (Evento), Visual de Arma do Maníaco por Pesca (7 dias) (Evento)" />
+  <keys prop="Description" type="monster" key="Dialog_9015909_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Peixe Grande&lt;br&gt;Caixa do Deserto da Imortalidade à Deriva I, Caixa de Gemas (Nível 5), Caixa da Sorte da Armadura de Karasha, Caixa da Sorte das Joias de Karasha" />
+  <keys prop="Description" type="monster" key="Dialog_9015909_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Peixe Extra Grande&lt;br&gt;Caixa do Deserto da Imortalidade à Deriva II" />
+  <keys prop="Description" type="monster" key="Dialog_9015910_Title" value="Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="Dialog_9015910_Text0" value="Santuário de Ellora - Pesqueiro de Elgaden&lt;br&gt;&lt;br&gt;Samburá de Miudezas&lt;br&gt;Flowerhorn, Alevino, Bordalo, Isca Sofisticada, Atum Rabilho, Atum Albacora, Pedra-Lacre de Elite, Pedra-Lacre Heroica, Ficha-Lacre de Familiar Heroico, Marca de Pesca Reluzente (Evento), Visual de Arma do Maníaco por Pesca (7 dias) (Evento)" />
+  <keys prop="Description" type="monster" key="Dialog_9015910_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Peixe Grande&lt;br&gt;Caixa do Santuário à Deriva I, Caixa da Sorte de Marca de Stygaea Heroica, Caixa de Marca de Ellora Heroica, Caixa de Marca Lendária" />
+  <keys prop="Description" type="monster" key="Dialog_9015910_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Peixe Extra Grande&lt;br&gt;Caixa do Santuário à Deriva II" />
+  <keys prop="Description" type="monster" key="Dialog_9015911_Title" value="Stygaea" />
+  <keys prop="Description" type="monster" key="Dialog_9015911_Text0" value="&lt;br&gt;&lt;br&gt;Lago da Eternidade&lt;br&gt;&lt;br&gt;Samburá de Miudezas&lt;br&gt;Alevino, Energia, Minério Kherim, Piranha, Fragmento de Espírito, Essência de Espírito, Essência do Caos, Enguia Elétrica, Tubarão Matador, Marca de Pesca Reluzente (Evento), Visual de Arma do Maníaco por Pesca (7 dias) (Evento)" />
+  <keys prop="Description" type="monster" key="Dialog_9015911_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Peixe Grande&lt;br&gt;Lingote de Kherim (Pacote com 15), Liga de Kherim (Pacote com 15), Pó de Kherim (Pacote com 15), Fibras de Kherim (Pacote com 15), Moeda de Stygaea (Pacote com 35), Moeda de Stygaea (Pacote com 50)" />
+  <keys prop="Description" type="monster" key="Dialog_9015911_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Peixe Extra Grande&lt;br&gt;Moeda de Stygaea (Pacote com 300), Moeda de Stygaea (Pacote com 500)" />
+  <keys prop="Description" type="monster" key="Dialog_9015839_Title" value="Daveen" />
+  <keys prop="Description" type="monster" key="Dialog_9015839_Text0" value="Olá. Eu sou Daveen, que veio para torcer pelos aventureiros que estão começando uma nova aventura em um novo servidor! &lt;br&gt; &lt;br&gt; As futuras aventuras também são lutas! Daveen sempre vai torcer!" />
+  <keys prop="Description" type="monster" key="Dialog_9015790_Answer_1_Text" value="Troca de Sexo" />
+  <keys prop="Description" type="monster" key="Dialog_9015844_Title" value="Crusoe Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015844_Text0" value="Meu nome é Crusoe Lebrini!&lt;br&gt;Sob o comando de Clausewitz, eu guio guerreiros ao Caminho do Criador! Só pode ser o trabalho mais importante do mundo, então não se surpreenda se eu desaparecer de repente... Eu provavelmente estarei guiando um acólito digno pelo caminho mais verdadeiro que existe!&lt;br&gt;Mas você ainda deve esperar por mim, você sabe. Se você esperar, prometo que trarei um presente incrível, além dos meus dons espirituais!" />
+  <keys prop="Description" type="monster" key="Dialog_9015844_answer_0_text" value="Loja de Moedas do Sortudo" />
+  <keys prop="Description" type="monster" key="Dialog_9015844_answer_1_text" value="Caminho do Criador" />
+  <keys prop="Description" type="monster" key="Dialog_9015845_Title" value="Rex Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015845_Text0" value="Por que os aventureiros andam desanimados ultimamente? Há tantas aventuras pela frente e já ficaram cansados?&lt;br&gt;&lt;br&gt;Eu, Rex Lebrini, preparei um presentão para os aventureiros que estão cansados de tanta aventura. Querem saber?&lt;br&gt;Então venham ver. Não fiquem pensando aí e venham para cá!" />
+  <keys prop="Description" type="monster" key="Dialog_9015845_answer_0_text" value="Loja de Caixas da Sorte " />
+  <keys prop="Description" type="monster" key="Dialog_9015846_Title" value="Gazini Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015846_Text0" value="Você é um aventureiro? Olá! Eu venho para animar os aventureiros!&lt;br&gt;&lt;br&gt;Vou lhe dar uma missão especial todos os dias! Se você completar a missão, você poderá receber uma moeda valiosa! Obviamente, esta moeda será usada em um lugar muito bom!" />
+  <keys prop="Description" type="monster" key="Dialog_9015847_Title" value="Manila Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015847_Text0" value="Saudações, viajante! Eu sou Manila Lebrini, e ESTOU aqui para VOCÊ! Estou aqui especificamente para oferecer uma missão especial com uma recompensa MUITO especial!" />
+  <keys prop="Description" type="monster" key="dialog_9015848_Title" value="Africa BJ Event Rica " />
+  <keys prop="Description" type="monster" key="dialog_9015848_text0" value="Hi! Nice to meet you. &lt;br&gt;I am here to give you a special gift. &lt;br&gt;&lt;br&gt;Join the Africa TV BJ now! We offer a very special gift to those who have achieved 50 levels during the event! &lt;br&gt;&lt;br&gt;Achieve 50 levels and get special gifts! &lt;br&gt;&lt;br&gt;Special missions can be accepted through items in the bag when creating a character." />
+  <keys prop="Description" type="monster" key="dialog_9015849_Title" value="Luthor Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9015849_text0" value="Saudações! Eu sou Luthor Lebrini! Eu fui designado especialmente para a Sala da Glória da Guilda. Possuir uma sala da guilda tão boa como esta é maravilhoso!&lt;br&gt;&lt;br&gt;Existe alguma coisa que você precisa? Eu tenho o melhor de tudo, então dê uma olhada!" />
+  <keys prop="Description" type="monster" key="dialog_9015849_answer_0_text" value="Loja Premium da Glória" />
+  <keys prop="Description" type="monster" key="dialog_9015850_Title" value="Larenzo Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9015850_text0" value="Saudações! Eu sou Larenzo Lebrini! Eu fui designado especialmente para a Sala da Honra da Guilda. Possuir uma sala da guilda tão boa como esta é maravilhoso!&lt;br&gt;&lt;br&gt;Existe alguma coisa que você precisa? Eu tenho o melhor de tudo, então dê uma olhada!" />
+  <keys prop="Description" type="monster" key="dialog_9015850_answer_0_text" value="Loja Premium da Honra" />
+  <keys prop="Description" type="monster" key="dialog_9015851_Title" value="Penley Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9015851_text0" value="Saudações! Eu sou Penley Lebrini! Eu fui designado especialmente para a Sala da Unidade da Guilda. Possuir uma sala da guilda tão boa como esta é maravilhoso!&lt;br&gt;&lt;br&gt;Existe alguma coisa que você precisa? Eu tenho o melhor de tudo, então dê uma olhada!" />
+  <keys prop="Description" type="monster" key="dialog_9015851_answer_0_text" value="Loja Premium da Unidade" />
+  <keys prop="Description" type="monster" key="dialog_9015852_Title" value="Mestre de Guilda Lumen" />
+  <keys prop="Description" type="monster" key="dialog_9015852_text0" value="Mesmo os heróis das batalhas mais violentas um dia encontrarão a força que por si só não é suficiente. Para combater os mais hediondos do mal, é importante que muitos trabalhem juntos como uma força unificada. Espero que você encontre companheiros para percorrer o caminho da justiça com você." />
+  <keys prop="Description" type="monster" key="dialog_9015852_answer_0_text" value="Criar Guilda" />
+  <keys prop="Description" type="monster" key="dialog_9015852_answer_1_text" value="Dissolver Guilda" />
+  <keys prop="Description" type="monster" key="dialog_9015852_answer_2_text" value="Melhorar Guilda" />
+  <keys prop="Description" type="monster" key="dialog_9015852_answer_3_text" value="Alterar Emblema da Guilda" />
+  <keys prop="Description" type="monster" key="dialog_9015854_Title" value="Santuário de Trânsito Cross-Server (Sala da Guilda)" />
+  <keys prop="Description" type="monster" key="dialog_9015854_text0" value="Você pode usar o Portão da Brecha para viajar para a sua sala da guilda." />
+  <keys prop="Description" type="monster" key="dialog_9015854_answer_0_text" value="Viajar para a Sala da Glória da Guilda" />
+  <keys prop="Description" type="monster" key="dialog_9015854_answer_1_text" value="Viajar para a Sala da Guilda de Honra" />
+  <keys prop="Description" type="monster" key="dialog_9015854_answer_2_text" value="Viajar para a Sala da Guilda de Unidade" />
+  <keys prop="Description" type="monster" key="dialog_9015855_Title" value="Cloel &lt;Domador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9015855_text0" value="Deixe-me ser seu guia para todas as coisas sobre familiares." />
+  <keys prop="Description" type="monster" key="dialog_9015855_answer_0_text" value="Nutrir Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9015856_Title" value="Arud &lt;Feiticeiro da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9015856_text0" value="Sou Arud, um Feiticeiro da Virtude, que está vigiando a terra dos mortos.&lt;br&gt;&lt;br&gt;Uma fenda dimensional apareceu e uma força negra está se infiltrando, ameaçando destruir Stygaea.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9015856_text0_attach_0" value="Mas os monarcas de Stygaea foram corrompidos por essa energia nova e poderosa. Sua ganância fez com que não enxergassem a força destrutiva dessa energia, e eles pretendem espalhá-la por toda a terra. Não podemos permitir que eles obtenham sucesso." />
+  <keys prop="Description" type="monster" key="Dialog_9015923_Title" value="Stoney" />
+  <keys prop="Description" type="monster" key="Dialog_9015923_Text0" value="Saudações! Sou Stoney, o guia da sala da guilda.&lt;br&gt;&lt;br&gt;Quando você entra na sala da guilda, você recebe um bônus de conforto que dá os seguintes efeitos.&lt;br&gt;&lt;br&gt;Bônus de Conforto&lt;br&gt; Chance de Temperar +5%&lt;br&gt; Chance de Criação Triunfante +5%&lt;br&gt; Recuperação Básica de Vida+100%" />
+  <keys prop="Description" type="monster" key="Dialog_9015923_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Você pode comprar outros bônus na loja. Mal posso esperar pelo crescimento da sua guilda." />
+  <keys prop="Description" type="monster" key="Dialog_9015923_Answer_0_Text" value="Loja da Marca da Guilda" />
+  <keys prop="Description" type="monster" key="Dialog_9015924_Title" value="Stoney" />
+  <keys prop="Description" type="monster" key="Dialog_9015924_Text0" value="Saudações! Sou Stoney, o guia da sala da guilda.&lt;br&gt;&lt;br&gt;Quando você entra na sala da guilda, você recebe um bônus de conforto que dá os seguintes efeitos.&lt;br&gt;&lt;br&gt;Bônus de Conforto&lt;br&gt; Chance de Temperar +5%&lt;br&gt; Chance de Criação Triunfante +5%&lt;br&gt; Recuperação Básica de Vida+100%" />
+  <keys prop="Description" type="monster" key="Dialog_9015924_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Você pode comprar outros bônus na loja. Mal posso esperar pelo crescimento da sua guilda." />
+  <keys prop="Description" type="monster" key="Dialog_9015924_Answer_0_Text" value="Loja da Marca da Guilda" />
+  <keys prop="Description" type="monster" key="Dialog_9015925_Title" value="Beliana" />
+  <keys prop="Description" type="monster" key="Dialog_9015925_Text0" value="Olá. Sou Beliana, comerciante da sala da guida.&lt;br&gt;&lt;br&gt;Você se interessa em explorar salas de guilda? Me traga um bilhete de aluguel, e eu ficarei feliz em ajudar com um aluguel!" />
+  <keys prop="Description" type="monster" key="Dialog_9015925_Answer_0_Text" value="Loja da Sala da Guilda" />
+  <keys prop="Description" type="monster" key="Dialog_9015926_Title" value="Kylie" />
+  <keys prop="Description" type="monster" key="Dialog_9015926_Text0" value="Para sua guilda prosperar, a cooperação é o caminho.&lt;br&gt;&lt;br&gt;Vou conceder a você uma missão. Junte-se aos membros da sua guilda demonstrando o espírito de trabalho em equipe, e eu vou te dar uma marca. " />
+  <keys prop="Description" type="monster" key="Dialog_9015927_Title" value="Galáxia" />
+  <keys prop="Description" type="monster" key="Dialog_9015927_Text0" value="Há uma galáxia como recompensa que preparei para você, aventureiro ~ Yufu ~!" />
+  <keys prop="Description" type="monster" key="Dialog_9015927_Answer_0_Text" value="A galáxia torce por você! Adquira um bônus!" />
+  <keys prop="Description" type="monster" key="Dialog_9015928_Title" value="Desejo" />
+  <keys prop="Description" type="monster" key="Dialog_9015928_Text0" value="Hoje é um dia maravilhoso! Vou te dar um bônus especial para que você não se machuque, aventureiro" />
+  <keys prop="Description" type="monster" key="Dialog_9015928_Answer_0_Text" value="Obter bônus de todos os desejo de GFriend" />
+  <keys prop="Description" type="monster" key="Dialog_9015929_Title" value="Yuju " />
+  <keys prop="Description" type="monster" key="Dialog_9015929_Text0" value="Vamos! Yuju preparou um presente para o aventureiro com doçura" />
+  <keys prop="Description" type="monster" key="Dialog_9015930_Title" value="Yerin " />
+  <keys prop="Description" type="monster" key="Dialog_9015930_Text0" value="Vou te dar a energia animada de Yerin. Então aproveite a sua aventura hoje." />
+  <keys prop="Description" type="monster" key="Dialog_9015930_Answer_0_Text" value="Yerin tomará conta disso! Aquisição de bônus " />
+  <keys prop="Description" type="monster" key="Dialog_9015935_Title" value="Quadro da Ilha do Paraíso" />
+  <keys prop="Description" type="monster" key="Dialog_9015935_Text0_attach_0" value="Você só pode pescar à moda antiga na Ilha do Paraíso, mas há uma chance maior de conseguir recompensas melhores do que nas pescarias normais." />
+  <keys prop="Description" type="monster" key="Dialog_9015935_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;[staff]&lt;br&gt;Barak Faksi, Penggemar Lumbung Ikan, Lumbung Pancing, Lumbung Pancing, Barak Pancing, Pagar Barak, Pagar Barak, Ramuan / kotak keberuntungan, kotak harta karun kostum pulau harta karun (3 hari), kotak resep tema, berkah Alsatian, Alsatian aura, jiwa Alsatian " />
+  <keys prop="Description" type="monster" key="Dialog_9015935_Text0_attach_2" value="&lt;br&gt;&lt;br&gt;[Monthly] &lt;br&gt;Lingote de Ouro Puro, Pérola do Oceano de Lucius Volifax, Refeição de Hakanas, Caixa de Familiares Lendários Despertos, Caixa de Marcas de Familiares Mecha/de Pelúcia II, Familiar do Pescador e Caixa de Pet Aleatório, Caixa da Sorte de Pedra de Refinamento, Caixa da Sorte de Melhoria Reversa, Caixa à Deriva, Caixa da Sorte, Receita de Herança Temmajin, Pedra Transcendente Lendária Nível 65, Pedra de Têmpera Reluzente de Elite 30% " />
+  <keys prop="Description" type="monster" key="Dialog_9015942_Title" value="Daveen Doceira " />
+  <keys prop="Description" type="monster" key="Dialog_9015942_Text0" value="Ah ~ como eu amo doces!" />
+  <keys prop="Description" type="monster" key="Dialog_9015942_answer_0_text" value="Confeitaria de Daveen " />
+  <keys prop="Description" type="monster" key="Dialog_9015945_Title" value="Poporingo Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015945_Text0" value="Aventureiros? Eu sou Poporingo Lebrini, vim oferecer ofertas especiais aos aventureiros! Venham ver!" />
+  <keys prop="Description" type="monster" key="Dialog_9015945_answer_0_text" value="Venda de Moedas Ancestrais  " />
+  <keys prop="Description" type="monster" key="Dialog_9015956_Title" value="Agarithe &lt;Diretora&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015956_Text0" value="Sou Agarithe, diretora do Conservatório Laipera, uma escola de magia para a raça shaling. As shaling possuem habilidades em magia desde a antiguidade, e muitas estudantes talentosas frequentam esta escola para aprender como manejá-la." />
+  <keys prop="Description" type="monster" key="Dialog_9015956_answer_5_text" value="Raça Shaling" />
+  <keys prop="Description" type="monster" key="Dialog_9015956_answer_6_text" value="Travessa" />
+  <keys prop="Description" type="monster" key="Dialog_9015956_answer_7_text" value="Ursinho de Pelúcia" />
+  <keys prop="Description" type="monster" key="Dialog_9015956_answer_8_text" value="Técnico Premium" />
+  <keys prop="Description" type="monster" key="Dialog_9015956_answer_9_text" value="Viajar para a Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Dialog_9015957_Title" value="Eric &lt;Comerciante Sábio&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015957_Text0" value="Saudações! Sou Eric. Posso parecer jovem, mas eu tenho muito conhecimento. Se você está curioso sobre uma coisa, pergunte!" />
+  <keys prop="Description" type="monster" key="Dialog_9015957_answer_4_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_9015958_Title" value="Tortus" />
+  <keys prop="Description" type="monster" key="Dialog_9015958_Text0" value="Parece que você se acostumou aos combates, mas ainda não está completamente pronto para a jornada. Adquira um pouco mais de prática, depois entregue a mensagem sobre a Princesa Lania à sua majestade na Travessia de Hakain." />
+  <keys prop="Description" type="monster" key="Dialog_9015959_Title" value="Raça Shaling" />
+  <keys prop="Description" type="monster" key="Dialog_9015959_Text0" value="A deusa Ellora criou a raça Shaling porque ela queria enviar ajuda para a Aliança da Luz. Ela concedeu sua força a um seleto grupo de jovens mulheres ao redor do mundo, dando-lhes um talento mágico excepcional e transformando-as nas fascinantes heroínas aladas que você vê hoje." />
+  <keys prop="Description" type="monster" key="Dialog_9015960_Title" value="Travessa" />
+  <keys prop="Description" type="monster" key="Dialog_9015960_Text0" value="Diz a lenda que Ellora escolheu fêmeas humanas para receber seu presente devido a seu grande amor pelo zelo e paixão pela vida que elas tinham. Ellora preservou essas qualidades, concedendo a elas a juventude eterna! Até hoje essa índole despreocupada e, às vezes, brincalhona perdura, o que dá a elas o nome de Travessa." />
+  <keys prop="Description" type="monster" key="Dialog_9015960_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Elas possuem magia potencialmente destrutiva, mas, por causa de sua boa índole, elas são respeitadas e admiradas por outras raças, em vez de serem temidas." />
+  <keys prop="Description" type="monster" key="Dialog_9015961_Title" value="Urso de pelúcia" />
+  <keys prop="Description" type="monster" key="Dialog_9015961_Text0" value="As Shaling são oponentes formidáveis que muitas vezes são subestimadas. Quando lutam, é como se elas estivessem apenas brincando, e os ursinhos de pelúcia que elas carregam reforçam essa ideia.&lt;br&gt;&lt;br&gt;No entanto, esses simples brinquedos são incrivelmente valiosos. Já que as Shaling são enviadas para o Conservatório Laipera para serem treinadas quando ainda são muito jovens, estes ursinhos se tornam companheiros vitais." />
+  <keys prop="Description" type="monster" key="Dialog_9015961_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Logo, os ursinhos são como família para as shaling, e eles são preciosidades para elas." />
+  <keys prop="Description" type="monster" key="Dialog_9015962_Title" value="Técnico Premium" />
+  <keys prop="Description" type="monster" key="Dialog_9015962_Text0" value="As Shaling possuem talentos naturais com magia, e elas ficam especialmente poderosas quando usam magia extraída de um minério de oreum. Elas levam muito menos dano em combate e gastam magia em uma taxa muito mais lenta, o que torna esta raça única." />
+  <keys prop="Description" type="monster" key="Dialog_9015962_Text0_attach_0" value="As Shaling possuem talentos naturais com magia, e elas ficam especialmente poderosas quando usam magia extraída de um minério de oreum. Elas levam muito menos dano em combate e gastam magia em uma taxa muito mais lenta, o que torna esta raça única. Essas habilidades singulares as tornam inestimáveis em combate, apoiando e fortalecendo aliados." />
+  <keys prop="Description" type="monster" key="Dialog_9015963_title" value="Latini" />
+  <keys prop="Description" type="monster" key="Dialog_9015963_text0" value="Eu sou Latini, uma familiarologista extraordinária. Eu fico de olho nas coisas por aqui e me certifico de que os Galantes de Brakarr não estão causando problemas." />
+  <keys prop="Description" type="monster" key="Dialog_9015964_title" value="Pesquisadora de Familiares Latini " />
+  <keys prop="Description" type="monster" key="Dialog_9015964_text0" value="Eu sou Latini, uma familiarologista extraordinária. Eu fico de olho nas coisas por aqui e me certifico de que os Galantes de Brakarr não estão causando problemas." />
+  <keys prop="Description" type="monster" key="Dialog_9015965_Title" value="Santuário de Trânsito de Agarithe" />
+  <keys prop="Description" type="monster" key="Dialog_9015965_Text0" value="Um Santuário de Trânsito conjurado pela magia de Agarithe. Utilize-o para viajar para a Travessia de Hakain." />
+  <keys prop="Description" type="monster" key="Dialog_9015965_answer_0_text" value="Viajar para a Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Dialog_9015966_Title" value="Kingston Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015966_Text0" value="Indo para uma aventura? Eu sou Kingston Lebrini, o comerciante de pedra de mana! Venha ver meus produtos maravilhosos!" />
+  <keys prop="Description" type="monster" key="Dialog_9015966_answer_0_text" value="Loja de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Dialog_9015967_Title" value="Suiguchi Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015967_Text0" value="Está quente, não está? Eu preparei alguns itens para ajudar aventureiros como você a se aliviarem do calor!" />
+  <keys prop="Description" type="monster" key="Dialog_9015967_answer_0_text" value="Loja de Melancia Doce Doce " />
+  <keys prop="Description" type="monster" key="Dialog_9015968_Title" value="Conrad Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9015968_Text0" value="Você ouviu os rumores mais recentes? Fantasmas e ghouls nas paredes da cidade... " />
+  <keys prop="Description" type="monster" key="Dialog_9015968_answer_0_text" value="Loja da Mansão Assombrada" />
+  <keys prop="Description" type="monster" key="Dialog_9015969_Title" value="Mivelle" />
+  <keys prop="Description" type="monster" key="Dialog_9015969_Text0" value="A casa dos sonhos era finalmente minha, e isso acontece? Que desgraça..." />
+  <keys prop="Description" type="monster" key="Dialog_9015970_Title" value="Zehra" />
+  <keys prop="Description" type="monster" key="Dialog_9015970_Text0" value="Eu sou Zehra, e estou ajudando os aventureiros a evoluírem pelo comando do rei. Se você tiver alguma dificuldade em evoluir, por favor, venha até mim quando desejar!" />
+  <keys prop="Description" type="monster" key="Dialog_9015970_Answer_0_Text" value="O nome do rei " />
+  <keys prop="Description" type="monster" key="Dialog_9015970_Answer_1_Text" value="Se você der um pouco de luz," />
+  <keys prop="Description" type="monster" key="Dialog_9015973_Title" value="O nome do rei " />
+  <keys prop="Description" type="monster" key="Dialog_9015973_Text0" value="O rei espera que os novos aventureiros que acabaram de entrar no mundo evoluam rapidamente e se tornem bens valiosos do Reino de Hakanas. Claro, essa categoria incluirá você também. &lt;br&gt;De acordo com a vontade do rei, eu ajudarei os aventureiros a evoluírem." />
+  <keys prop="Description" type="monster" key="Dialog_9015972_Title" value="Se você der um pouco de luz," />
+  <keys prop="Description" type="monster" key="Dialog_9015972_Text0" value="Eu me pergunto o que acontece se você der um pouco de luz. &lt;br&gt;&lt;br&gt;Eu vou te chutar até que seu quadril ficar quadrado, então eu vou te lançar para que você possa voar mais alto que o familiar aéreo!" />
+  <keys prop="Description" type="monster" key="Dialog_9015974_Title" value="Van Owen Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9015974_Text0" value="Um turista? O topo da nossa lua crescente é despachado para cada área para suprir os turistas.&lt;br&gt;Sempre que você precisar de ajuda, venha a mim!" />
+  <keys prop="Description" type="monster" key="Dialog_9015979_Title" value=" Quadro de Avisos de Fazenda de Familiares " />
+  <keys prop="Description" type="monster" key="Dialog_9015979_Text0" value="Pesqueiro da Fazenda de Familiares&lt;br&gt;&lt;br&gt;Samburá de Miudezas&lt;br&gt;Alevino, Truta Bronze, Truta Prateada, Poção de EXP de Familiar Grande, Poção de EXP para Adornar Familiar, Poção de EXP de Familiar Premium, Samburá de Pesca Bronze" />
+  <keys prop="Description" type="monster" key="Dialog_9015979_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Peixe Grande, Poção de Evolução Completa de Familiar, Samburá de Pesca Bronze, Truta Prateada, Samburá de Pesca Prata, Truta Dourada, Marca de Bruniche, Marca de Enjani, Marca de Tekanin, Marca de Zaminus, Marca de Dredrum, Marca de Elicuno, Caixa de Marcas Lendárias" />
+  <keys prop="Description" type="monster" key="Dialog_9015979_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Peixe Extra Grande, Caixa de Marcas do Laboratório III, +5 Extrator Lendário, Caixa de Fragmentos Intrincada Lendária, Samburá de Pesca Bronze, Samburá de Pesca Prata, Bolsa de Pets (7 dias), Emblema de Saque (7 dias), Samburá de Pesca Ouro, Marca Torkai, Marca Taisha, Marca Aidus, Marca Tishanan" />
+  <keys prop="Description" type="monster" key="Dialog_9015981_Title" value="Rômulo &lt;Sábio&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015981_Text0" value="Há muitos idosos falando sobre os jovens de hoje, dizendo que eles não se esforçam o suficiente e que tivemos mais dificuldades. Acho que não é bem assim.&lt;br&gt;&lt;br&gt; O reino está em um turbilhão e a princesa foi raptada. Quem pode se esforçar neste mundo onde todos os tipos de grupos estranhos surgem?&lt;br&gt;Eu costumava me sentir seguro. Ao menos havia esperança. O que diabos está acontecendo... " />
+  <keys prop="Description" type="monster" key="Dialog_9015982_Title" value="Dafarr &lt;Corretor do Mercado de Fazenda de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015982_Text0" value="Não há nada que eu não consiga. De verdade! Se você quiser comprar, eu vou encontrar alguém que queira vender!" />
+  <keys prop="Description" type="monster" key="Dialog_9015982_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_9015983_Title" value="Santuário de Mundos &lt;Santuário de Fazenda de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015983_Text0" value="Santuários de Mundos permitem que você se teletransporte para qualquer outro santuário que você já esteve, independentemente da distância. " />
+  <keys prop="Description" type="monster" key="Dialog_9015983_answer_0_text" value="Tetransportar para Outra Região" />
+  <keys prop="Description" type="monster" key="Dialog_9015984_Title" value="Saiki Leica " />
+  <keys prop="Description" type="monster" key="Dialog_9015984_Text0" value="Minha carga muscular! Meu encantamento! &lt;br&gt;&lt;br&gt;Embaixadora das Shaling Saiki Leika!" />
+  <keys prop="Description" type="monster" key="Dialog_9015989_Title" value="Caminho do Criador" />
+  <keys prop="Description" type="monster" key="Dialog_9015989_Text0" value="Por ordem do rei, Clausewitz construiu o Caminho do Criador em preparação ao herói que um dia será abençoado pelo próprio Criador." />
+  <keys prop="Description" type="monster" key="Dialog_9015989_Text0_attach_0" value="&lt;br&gt;&lt;br&gt; Este Campo de Batalha único é o lugar perfeito para mostrar suas habilidades, força e coragem em combate. Agora é a sua chance de se tornar o herói supremo." />
+  <keys prop="Description" type="monster" key="Dialog_9015990_Title" value="Aru &lt;Mestre do Despertar de Armas&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9015990_Text0" value="Saudações, cavaleiro! Eu sou Aru, Mestre do Despertar de Armas.&lt;br&gt;Eu tenho habilidade e proficiência para despertar sua arma.&lt;br&gt;Você pode considerar esta a oportunidade da sua vida se você puder coletar os materiais necessários." />
+  <keys prop="Description" type="monster" key="Dialog_9015990_Answer_0_Text" value="Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015990_Answer_1_Text" value="Requisitos para o Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015990_Answer_2_Text" value="Falha no Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015990_Answer_3_Text" value="Êxito no Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015990_Answer_4_Text" value="Loja de Materiais para o Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015991_Title" value="Requisitos para o Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015991_Text0" value="Se sua arma é de uma classe lendária além de Karasha, como exceção das armas Ruinosas, meus parabéns! Você está qualificado para ter sua arma Despertada.&lt;br&gt;&lt;br&gt;Tome nota que, a fim de despertar o seu equipamento lendário, ele precisa ser temperado até +25. Isto é devido ao estresse que a arma irá passar durante o processo de despertar, para ter certeza que ela pode suportar o procedimento.&lt;br&gt;&lt;br&gt;O Despertar pode ser realizado cinco vezes. Isto significa que, depois de despertar sua arma pela primeira vez, você poderá despertá-la mais quatro vezes." />
+  <keys prop="Description" type="monster" key="Dialog_9015991_Text0_attach_0" value="Para o despertar você precisará de diversos ingredientes, como uma Pedra-Lacre de Familiar antiga, fragmentos das Masmorras Lendárias e de Chefe de Raides, e materiais das lojas." />
+  <keys prop="Description" type="monster" key="Dialog_9015992_Title" value="Falha no Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015992_Text0" value="Há uma chance do processo de despertar armas falhar, claro.&lt;br&gt;&lt;br&gt;Quando isso acontecer, também há uma chance da arma ser destruída permanentemente. &lt;br&gt;&lt;br&gt;Mas não se preocupe! Você ainda pode usar Ellun para evitar que as arma sejam destruídas." />
+  <keys prop="Description" type="monster" key="Dialog_9015993_Title" value="Êxito no Despertar de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_9015993_Text0" value="Quando você tem êxito no despertar de uma arma, equipá-la irá melhorar uma habilidade específica e fortalecê-la ainda mais. Não é empolgante?" />
+  <keys prop="Description" type="monster" key="Dialog_9015994_Title" value="Saudações do Dia das Bruxas " />
+  <keys prop="Description" type="monster" key="Dialog_9015994_Text0" value="&lt;font color = &quot;#1a4c53&quot;&gt;Travessuras ou Gostosuras&lt;/font&gt;Huhu, os doces de Dia das Bruxas já podem ser comprados!&lt;br&gt;Escreva &lt;font color = &quot;# 1a4c53&quot;&gt;Travessuras ou Gostosuras&lt;/font&gt; agora na janela de bate-papo. Você receberá uma energia especial através das abóboras de Dia das Bruxas!" />
+  <keys prop="Description" type="monster" key="Dialog_9015995_Title" value="Cavaleiro Sem Cabeça " />
+  <keys prop="Description" type="monster" key="Dialog_9015995_Text0" value="Cavaleiro Sedento... Dullahan... Ele já foi um bravo cavaleiro que uma vez andou no Campo de Batalha. Mas a partir de um certo momento, tornou-se um fantasma sedento por sangue e começou a prejudicar pessoas inocentes. Foi um cavaleiro muito bom, mas é uma pena." />
+  <keys prop="Description" type="monster" key="Dialog_9015995_Text0_attach_0" value="Você conhece os detalhes do cavaleiro sem cabeça? Bem ... eu sei onde a cabeça dele está enterrada. Pense nisso da próxima vez. &lt;br&gt;Se você encontrar um cavaleiro sem cabeça em uma masmorra, tente focar nisso!" />
+  <keys prop="Description" type="monster" key="Dialog_9015996_Title" value="Coiste Bodhar" />
+  <keys prop="Description" type="monster" key="Dialog_9015996_Text0" value="Coiste Bodhar é um dos maiores cavaleiros no campo de batalha com um cavaleiro sedento como Dullahan. Se você encontrar Dullahan, certifique-se de ter um Coiste Bodhar ao lado dele.&lt;br&gt;Se Coiste Bodhar estiver com você, livre-se do cavaleiro sem cabeça e não perca essa oportunidade! Se não for o momento, não haverá outro para obter Coiste Bodhar." />
+  <keys prop="Description" type="monster" key="dialog_9031550_title" value="Lebrini Rudolpingo" />
+  <keys prop="Description" type="monster" key="dialog_9031550_text0" value="Feliz Natal! &lt;br&gt;Eu estou guardando as coisas preciosas de Mivelle! &lt;br&gt;&lt;br&gt; Mas agora estou preocupado que Mivelle talvez esteja em apuros." />
+  <keys prop="Description" type="monster" key="dialog_9031550_Answer_3_Text" value="Loja de Troca" />
+  <keys prop="Description" type="monster" key="dialog_9031594_title" value="Lebrinirin " />
+  <keys prop="Description" type="monster" key="dialog_9031594_text0" value="Venha para a Loja Ellun também! Qualquer pessoa que tenha Ellun é bem vinda.&lt;br&gt; Vamos lá, venha!" />
+  <keys prop="Description" type="monster" key="dialog_9031594_Answer_0_Text" value="Loja Ellun " />
+  <keys prop="Description" type="monster" key="dialog_9031596_title" value="Lebrini Ruína " />
+  <keys prop="Description" type="monster" key="dialog_9031596_text0" value="Um turista? Os Comerciantes da Lua Crescente vão a todos os lugares para ajudar os viajantes.&lt;br&gt;Sempre que você precisar de ajuda, venha a mim!" />
+  <keys prop="Description" type="monster" key="dialog_1040072_title" value="Sir San Garlen" />
+  <keys prop="Description" type="monster" key="dialog_1040072_text0" value="Tem alguma coisa para me contar?" />
+  <keys prop="Description" type="monster" key="dialog_1040072_Answer_0_Text" value="Segredos da Biblioteca de Hakanas " />
+  <keys prop="Description" type="monster" key="dialog_1040076_title" value="Tesoureiro Real Aronward" />
+  <keys prop="Description" type="monster" key="dialog_1040076_text0" value="Se quiser ser rico, precisa analisar a floresta, não a árvore. Procure fluxos de caixa e faça os investimentos certos. E nunca tema alguns conselhos." />
+  <keys prop="Description" type="monster" key="dialog_9031595_title" value="Haman &lt;Especialista em Mentoria&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031595_text0" value="Olá, amigo!&lt;br&gt;O mundo é um lugar muito grande, com muito a se explorar! Por que não ter um companheiro especial para se aventurar com você?" />
+  <keys prop="Description" type="monster" key="dialog_9031595_Answer_0_Text" value="O que é mentoria?" />
+  <keys prop="Description" type="monster" key="dialog_9031595_Answer_1_Text" value="Benefícios da Mentoria" />
+  <keys prop="Description" type="monster" key="dialog_9031595_Answer_2_Text" value="Graduação da Mentoria" />
+  <keys prop="Description" type="monster" key="dialog_9031595_Answer_3_Text" value="Loja de Moedas da Mentoria" />
+  <keys prop="Description" type="monster" key="dialog_9031597_title" value="O que é mentoria?" />
+  <keys prop="Description" type="monster" key="dialog_9031597_text0" value="Clique no botão de Gerenciamento de Mentoria na janela de Mentoria (tecla de atalho: O) para ver uma lista de recomendações. De lá, envie uma solicitação para outra pessoa.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031597_Text0_attach_1" value="Se você está no nível 1-59, você pode se tornar um tutorado e receber ajuda.&lt;br&gt;&lt;br&gt;Se você está acima do nível 60, você pode se tornar um mentor e ajudar um tutorado.&lt;br&gt;&lt;br&gt;Se você está tendo dificuldades em encontrar um tutorado, utilize o recurso de Recomendações da janela de Gerenciamento de Mentoria." />
+  <keys prop="Description" type="monster" key="dialog_9031598_title" value="Benefícios da Mentoria" />
+  <keys prop="Description" type="monster" key="dialog_9031598_text0" value="Quando um tutorado alcança um determinado nível, tanto o tutorado quanto o mentor recebem um bônus e um item especiais.&lt;br&gt;&lt;br&gt;O mentor e o tutorado também serão capazes de invocar um ao outro sem taxas.&lt;br&gt;&lt;br&gt;Você pode ver todos os detalhes destas recompensas clicando no botão Recompensas na janela de Mentoria (tecla de atalho: O). Dê uma olhada!" />
+  <keys prop="Description" type="monster" key="dialog_9031599_title" value="Graduação da Mentoria" />
+  <keys prop="Description" type="monster" key="dialog_9031599_text0" value="Quando seu personagem alcança o nível 60, você pode se tornar mentor de outro usuário e ajudá-lo em sua jornada.&lt;br&gt;&lt;br&gt;Se você alcançar o nível 60 e ainda quiser continuar aprendendo, você pode continuar sendo um tutorado. Mas lembre-se, quando você se graduar não poderá mais ser um tutorado." />
+  <keys prop="Description" type="monster" key="Dialog_9015956_answer_10_text" value="Bruxa " />
+  <keys prop="Description" type="monster" key="Dialog_9016001_Title" value="Marina Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9016001_Text0" value="Por algum motivo desconhecido, existem algumas Shaling que não conseguem usar magia de forma nenhuma. Apesar de serem naturalmente alegres e positivas, elas ficaram cada vez mais tristes por não poderem se tornar Travessas." />
+  <keys prop="Description" type="monster" key="Dialog_9016001_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Foram a Ordem Ônix e os feiticeiros que Corvo liderava que ajudaram estas Shaling. A Ordem Ônix teve a ideia de injetar energia negra nelas, já que elas têm um talento natural para lidar com a energia interna de seus corpos. Felizmente, as Shaling se adaptaram bem ao poder, e os Feiticeiros as ensinaram a lidar com o esse novo poder. E, assim, o Rei Ronfraine deu a elas o nome de Bruxa." />
+  <keys prop="Description" type="monster" key="Dialog_9016001_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Como puderam fazer isso com as Shaling que foram abençoadas por Ellora...&lt;br&gt;É bom saber que elas estão bem agora, mas, por outro lado, estou preocupada com as consequências de termos mudado a essência das Shaling ao nosso próprio critério." />
+  <keys prop="Description" type="monster" key="Dialog_9031600_Title" value="Nota" />
+  <keys prop="Description" type="monster" key="Dialog_9031600_Text0" value="Eu vou onde quer que precisem de mim.&lt;br&gt; Claro, eu não estou registrado na Associação de Socorristas mas sou bem melhor que eles! Deixa comigo!&lt;br&gt;&lt;br&gt; Oh… Tem um socorrista aí já?" />
+  <keys prop="Description" type="monster" key="dialog_9031600_answer_0_text" value="Curar Feridas Horrendas." />
+  <keys prop="Description" type="monster" key="Dialog_9031601_Title" value="Akuma Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_9031601_Text0" value="Eu sou Akuma, famoso caçador de tesouros! Ouvi um boato de que há um tesouro escondido por aqui.&lt;br&gt;Todos me chamam de maluco, mas eu tenho certeza disso!" />
+  <keys prop="Description" type="monster" key="Dialog_9031602_Title" value="Conata Covarde" />
+  <keys prop="Description" type="monster" key="Dialog_9031602_Text0" value="Eu vi com meus próprios olhos.&lt;br&gt;&lt;br&gt;Tantos monstros por aqui!&lt;br&gt;O Garlen… ele é louco! Eu vou morrer aqui!&lt;br&gt;Eu não quero morrer!!!" />
+  <keys prop="Description" type="monster" key="Dialog_9031603_Title" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="Dialog_9031603_Text0" value="Luz… eu não vejo a luz…&lt;br&gt;Por que você está aqui… Você quer morrer…" />
+  <keys prop="Description" type="monster" key="Dialog_9031604_Title" value="Homem Ganancioso" />
+  <keys prop="Description" type="monster" key="Dialog_9031604_Text0" value="Todos estão me falando que eu sou louco.&lt;br&gt; Me perguntando quem viria por vontade própria a este lugar ganhar dinheiro.&lt;br&gt;&lt;br&gt; Ainda assim, ganhei muito dinheiro aqui neste lugar por causa de aventureiros irresponsáveis como você.&lt;br&gt;Se você precisar de alguma coisa, pode falar!" />
+  <keys prop="Description" type="monster" key="dialog_9031604_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_9031605_Title" value="Reginaldo" />
+  <keys prop="Description" type="monster" key="Dialog_9031605_Text0" value="Eu faço parte do time de investigação do Labirinto Subterrâneo.&lt;br&gt; Para nós, Hadakhan uma vez foi apenas uma história antiga dentro dos livros da Biblioteca de Homenagem a Baellas.&lt;br&gt;&lt;br&gt;Agora... Estou muito feliz que realmente estamos vivendo a história." />
+  <keys prop="Description" type="monster" key="Dialog_9031606_Title" value="Itsuka" />
+  <keys prop="Description" type="monster" key="Dialog_9031606_Text0" value="Olá!&lt;br&gt;Eu recebo ordens do Sir San Garlen como um guia do labirinto.&lt;br&gt;Se tiver alguma dúvida, pode perguntar!" />
+  <keys prop="Description" type="monster" key="dialog_9031606_answer_0_text" value="Quem é o Rei Hadakhan?" />
+  <keys prop="Description" type="monster" key="dialog_9031606_answer_1_text" value="O que é o Labirinto Subterrâneo de Hadakhan?" />
+  <keys prop="Description" type="monster" key="dialog_9031606_answer_2_text" value="O que eu devo fazer aqui?" />
+  <keys prop="Description" type="monster" key="Dialog_9031607_Title" value="Fleur" />
+  <keys prop="Description" type="monster" key="Dialog_9031607_Text0" value="Você viu algum outro socorrista por aqui? &lt;br&gt; Ele está vestido como um mas eu tenho certeza que ele não é. Por favor, tenha cuidado." />
+  <keys prop="Description" type="monster" key="dialog_9031607_answer_0_text" value="Curar Feridas Horrendas." />
+  <keys prop="Description" type="monster" key="Dialog_9031608_Title" value="Elle" />
+  <keys prop="Description" type="monster" key="Dialog_9031608_Text0" value="Eu costumava ajudar os Elfos da Luz enfrentarem os Elfos do Caos no Santuário de Ellora.&lt;br&gt;Agora estou aqui com Garlen. Este lugar não é mais tão perigoso como era, mas ainda tem seus momentos.&lt;br&gt;Tenha cuidado." />
+  <keys prop="Description" type="monster" key="Dialog_9031609_Title" value="Engenheiro Finny" />
+  <keys prop="Description" type="monster" key="Dialog_9031609_Text0" value="Eu sou um dos engenheiros mais talentosos de Hakanas.&lt;br&gt; Esta porta é ajustada para fechar automaticamente quando detecta a presença de monstros. &lt;br&gt;Não abrirei a porta até eles irem embora." />
+  <keys prop="Description" type="monster" key="dialog_9031609_answer_0_text" value="Vou entrar." />
+  <keys prop="Description" type="monster" key="Dialog_9031610_Title" value="San Garlen &lt;Diretor de Pesquisa&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031610_Text0" value="Uau! Você se livrou do líder, que era a nossa maior dor de cabeça.&lt;br&gt; O líder morre no solo, um monstro nasce do solo.&lt;br&gt;&lt;br&gt;A morte faz com que ele nunca tenha existido. &lt;br&gt;Mas ainda assim ficarei recluso por alguns dias." />
+  <keys prop="Description" type="monster" key="Dialog_9031611_Title" value="Glendor " />
+  <keys prop="Description" type="monster" key="Dialog_9031611_Text0" value="A empatia é muito importante para domar um familiar. Para saber como se comunicar com seu familiar, me procure a qualquer momento." />
+  <keys prop="Description" type="monster" key="Dialog_9031613_Title" value="Engenheiro Finny" />
+  <keys prop="Description" type="monster" key="Dialog_9031613_Text0" value="Você sabe como abrir esta porta? Parece que quando os monstros forem embora, ela abrirá automaticamente. &lt;br&gt;Espera, você quer entrar? Hmm, tudo bem, deixa comigo!&lt;br&gt;Estou aprendendo a teletransportar pessoas como hobby e tenho certeza que posso te colocar lá dentro. &lt;br&gt;&lt;br&gt;Só para você saber... Às vezes eu mando as pessoas para um lugar diferente do que elas querei ir... Mas só às vezes, então não se preocupe!" />
+  <keys prop="Description" type="monster" key="Dialog_9031613_answer_0_text" value="Vá para o Labirinto Subterrâneo de Hadakhan" />
+  <keys prop="Description" type="monster" key="Dialog_9031614_Title" value="Arqueólogo" />
+  <keys prop="Description" type="monster" key="Dialog_9031614_Text0" value="Ah, sim... Este Labirinto foi construído durante o Antigo Reino de Exarahn que antecede o Reino de Hakanas.&lt;br&gt;&lt;br&gt;Bem aqui, estamos em um pedaço da história. Se não houvesse monstros aqui, a investigação teria começado há muito tempo.&lt;br&gt;Se você conseguir passar pelo labirinto, estará respirando o ar do Antigo Reino de Exarahn.&lt;br&gt;Isso aqui é uma ligação com o passado." />
+  <keys prop="Description" type="monster" key="Dialog_9031615_Title" value="Famoso Historiador" />
+  <keys prop="Description" type="monster" key="Dialog_9031615_Text0" value="Exarahn era um reino notável cultural e intelectualmente durante o reinado do rei Hadakhan.&lt;br&gt;Tudo mudou quando seu filho morreu na guerra contra os demônios imortais. &lt;br&gt;&lt;br&gt;Cá entre nós, eu acho que ele deveria ser um modelo para as pessoas... Mas talvez minha opinião seja um pouco diferente das outra pessoas.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031615_Text0_attach_1" value="Naquela época, os nobres eram fortes. O rei estava apreensivo. Ele se juntou à guerra para fortalecer seu reinado. Seu desejo matou seu filho." />
+  <keys prop="Description" type="monster" key="Dialog_9031616_Title" value="Rei Aventureiro Rukiruki" />
+  <keys prop="Description" type="monster" key="Dialog_9031616_Text0" value="Olá?&lt;br&gt;Sou Rukiruki e acabei de voltar de Midellas. Todos me chamam de Rei Aventureiro Rukiruki!&lt;br&gt;&lt;br&gt;Ouvi dizer que há um lugar no Reino de Hakanas com aventuras!&lt;br&gt;É por isso que estou aqui!&lt;br&gt;Por que você está tão triste? Erga sua cabeça e olhe ao redor." />
+  <keys prop="Description" type="monster" key="Dialog_9031617_Title" value="Yuri" />
+  <keys prop="Description" type="monster" key="Dialog_9031617_Text0" value="Olá, [UserName]!&lt;br&gt;Icarus celebra seu 3º aniversário!&lt;br&gt;&lt;br&gt;Preparamos um evento muito bom para você.&lt;br&gt;Agradecemos por participar do 3º aniversário de Icarus.&lt;br&gt;&lt;br&gt;Logo estarei com você!" />
+  <keys prop="Description" type="monster" key="Dialog_9031618_Title" value="Mari " />
+  <keys prop="Description" type="monster" key="Dialog_9031618_Text0" value="Prazer em conhecer, viajante! Eu vim para passarmos um dia feliz juntos!&lt;br&gt;&lt;br&gt;Icarus acaba de comemorar seu terceiro aniversário!&lt;br&gt;Esta é a chance de começar uma nova aventura! Bom, Mari vai ajudar você." />
+  <keys prop="Description" type="monster" key="Dialog_9031618_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Se você tiver um cupom Alsaciano ou de Teleo, traga-o para mim.&lt;br&gt;Você pode trocar por equipamentos!&lt;br&gt;&lt;br&gt;Será tão emocionante quanto foi da primeira vez!" />
+  <keys prop="Description" type="monster" key="dialog_9031618_answer_0_text" value="Loja de Troca de Armas do 3º Aniversário " />
+  <keys prop="Description" type="monster" key="Dialog_9015790_Answer_2_Text" value="Loja de Fantasias " />
+  <keys prop="Description" type="monster" key="Dialog_9031619_Title" value="Yukari Lebrini " />
+  <keys prop="Description" type="monster" key="Dialog_9031619_Text0" value="Olá, humanos! Eu sou o grande epicurista Ravigny Yukari! &lt;br&gt;Este peixe está tão bom!&lt;br&gt;Humano! Se você quer ter cabelos brilhantes e pernas saudáveis como eu, coma peixe! &lt;br&gt;Peixe é muito bom! O melhor! " />
+  <keys prop="Description" type="monster" key="Dialog_9031621_Title" value="Curar Ferida Horrenda." />
+  <keys prop="Description" type="monster" key="Dialog_9031621_Text0" value="(Surpreendentemente nada aconteceu. Claramente charlatanismo.)" />
+  <keys prop="Description" type="monster" key="Dialog_9015790_Answer_3_Text" value="Alterar Nome de Personagem " />
+  <keys prop="Description" type="monster" key="Dialog_9031740_Title" value="Páscoa&lt;Evento de Páscoa&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031740_Text0" value="Boas-vindas à Loja de Ovos do Pascal e da Domênica! Estamos aqui para celebrar o início da primavera com flores novas.&lt;br&gt;Consiga lindos ovos ao completar minhas missões, e minha amiga Domênica trocará esses ovos por um presente incrível!&lt;br&gt;Então, como você gostaria de começar esta primavera maravilhosa?&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="dialog_9031740_answer_0_text" value="Loja do 4° Aniversário " />
+  <keys prop="Description" type="monster" key="Dialog_9031741_Title" value="Domênica &lt;Loja do Evento de Páscoa&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_9031741_Text0" value="Boas-vindas à Loja de Ovos do Pascal e da Domênica!&lt;br&gt;Você possui Ovos de Páscoa que gostaria de trocar? Posso trocar esse ovos por presentes incríveis!&lt;br&gt;Você está pronto para aproveitar a primavera conosco?" />
+  <keys prop="Description" type="monster" key="Dialog_9031742_Title" value="Esportista" />
+  <keys prop="Description" type="monster" key="Dialog_9031742_Text0" value="Festival de Icarus!&lt;br&gt;Vamos celebrar o sucesso da abertura da Copa Rabbini!&lt;br&gt;&lt;br&gt;Meu nome é Esportista, estou aqui para dividir a alegria da Copa Rabbini! " />
+  <keys prop="Description" type="monster" key="Dialog_9031743_Title" value="Supervisor do Grupo A" />
+  <keys prop="Description" type="monster" key="Dialog_9031743_Text0" value="Olá! Sou o Supervisor Rabbini do Grupo A.&lt;br&gt;&lt;br&gt;No Grupo A da Copa Rabbini, estão&lt;br&gt;&lt;font color=&quot;#FFffff&quot;&gt;Rússia&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFffff&quot;&gt;Arábia Saudita&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFffff&quot;&gt;Egito&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFffff&quot;&gt;Uruguai&lt;/font&gt;&lt;br&gt;!&lt;br&gt;&lt;br&gt;Se quiser torcer para esses países, por favor, me procure!" />
+  <keys prop="Description" type="monster" key="dialog_9031743_answer_0_text" value="Loja de Troca de Bilhete de Familiares " />
+</files>

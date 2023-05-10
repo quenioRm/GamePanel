@@ -89,7 +89,7 @@
   <keys prop="Name" type="monster" key="E_C02_subosmupad_1" value="Harmon Zeloso" />
   <keys prop="Description" type="monster" key="E_C02_subosmupad_1Detail" value="Revolucionário Vermelho" />
   <keys prop="Name" type="monster" key="E_C02_ghosmanag_1" value="Espírito Amaldiçoado" />
-  <keys prop="Description" type="monster" key="E_C02_ghosmanag_1Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_C02_ghosmanag_1Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_C02_bismoneye_4" value="[Elite] Assassino Cruel Karrad" />
   <keys prop="Description" type="monster" key="E_C02_bismoneye_4Detail" value="" />
   <keys prop="Name" type="monster" key="E_C02_corstreas_4" value="[Elite] Saqueador Cruel Karrad" />
@@ -185,7 +185,7 @@
   <keys prop="Name" type="monster" key="E_C02_badon_1" value="Bardon" />
   <keys prop="Description" type="monster" key="E_C02_badon_1Detail" value="Líder Merumi" />
   <keys prop="Name" type="monster" key="E_C02_ghosmanag_2" value="Espírito Amaldiçoado do Passado" />
-  <keys prop="Description" type="monster" key="E_C02_ghosmanag_2Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_C02_ghosmanag_2Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_C02_Bear_1" value="Urso do Prado Enfurecido" />
   <keys prop="Description" type="monster" key="E_C02_Bear_1Detail" value="" />
   <keys prop="Name" type="monster" key="E_C02_snake_1" value="Cascavel das Planícies" />
@@ -281,7 +281,7 @@
   <keys prop="Name" type="monster" key="E_D12_ditugaren_1" value="Honrado de Elite Divagren" />
   <keys prop="Description" type="monster" key="E_D12_ditugaren_1Detail" value="" />
   <keys prop="Name" type="monster" key="E_D12_ghosmanag_1" value="Espírito Amaldiçoado" />
-  <keys prop="Description" type="monster" key="E_D12_ghosmanag_1Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D12_ghosmanag_1Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D12_SpiritDog_1" value="Cão Experimental K12-13" />
   <keys prop="Description" type="monster" key="E_D12_SpiritDog_1Detail" value="" />
   <keys prop="Name" type="monster" key="E_D12_DoberArmor_1" value="Cão de Guarda Encouraçado" />
@@ -405,7 +405,7 @@
   <keys prop="Name" type="monster" key="E_C02_UGarmu_0" value="Magnatu" />
   <keys prop="Description" type="monster" key="E_C02_UGarmu_0Detail" value="" />
   <keys prop="Name" type="monster" key="E_P01_MPhoenix_0" value="Narnis Escarlate" />
-  <keys prop="Description" type="monster" key="E_P01_MPhoenix_0Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_P01_MPhoenix_0Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_F05_Mutant_0" value="Vylis" />
   <keys prop="Description" type="monster" key="E_F05_Mutant_0Detail" value="" />
   <keys prop="Name" type="monster" key="E_Ev_WhaleBusE_0" value="Letonsia de Pelúcia Rosa" />
@@ -539,25 +539,25 @@
   <keys prop="Name" type="monster" key="E_D11_Spir_0" value="Chek" />
   <keys prop="Description" type="monster" key="E_D11_Spir_0Detail" value="" />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP80_1" value="[Jason] Roochek (80%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_1Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_1Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP80_2" value="[Jason] Roochek (80%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_2Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_2Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP80_3" value="[Jason] Roochek (80%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_3Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_3Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP80_4" value="[Jason] Roochek (80%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_4Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP80_4Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP60_1" value="[Jason] Roochek (60%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_1Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_1Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP60_2" value="[Jason] Roochek (60%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_2Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_2Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP60_3" value="[Jason] Roochek (60%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_3Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_3Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP60_4" value="[Jason] Roochek (60%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_4Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP60_4Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP40_1" value="[Jason] Roochek (40%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP40_1Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP40_1Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D13_Spir_HP40_2" value="[Jason] Roochek (40%)" />
-  <keys prop="Description" type="monster" key="E_D13_Spir_HP40_2Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D13_Spir_HP40_2Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D11_Bomb_1" value="Detonador de Explosivos" />
   <keys prop="Description" type="monster" key="E_D11_Bomb_1Detail" value="" />
   <keys prop="Name" type="monster" key="E_D11_Kraken_0" value="Kraken Tentáculos de Navalha" />
@@ -585,7 +585,7 @@
   <keys prop="Name" type="monster" key="E_D99_KingBat_002" value="Shakiba" />
   <keys prop="Description" type="monster" key="E_D99_KingBat_002Detail" value="" />
   <keys prop="Name" type="monster" key="E_D99_MPhoenix_0" value="Narnis Escarlate" />
-  <keys prop="Description" type="monster" key="E_D99_MPhoenix_0Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D99_MPhoenix_0Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Name" type="monster" key="E_D99_Mutant_0" value="Vylis" />
   <keys prop="Description" type="monster" key="E_D99_Mutant_0Detail" value="" />
   <keys prop="Name" type="monster" key="E_D99_WhaleRed_0001" value="Graveon" />
@@ -635,12 +635,12 @@
   <keys prop="Description" type="monster" key="E_D11_altar_01Detail" value="Verificação do Local" />
   <keys prop="Description" type="monster" key="E_D11_altar_02Detail" value="Verificação do Local" />
   <keys prop="Description" type="monster" key="E_D11_altar_03Detail" value="Verificação do Local" />
-  <keys prop="Description" type="monster" key="E_D11_altarmana_01Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
-  <keys prop="Description" type="monster" key="E_D11_altarmana_02Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
-  <keys prop="Description" type="monster" key="E_D11_altarmana_03Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D11_altarmana_01Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D11_altarmana_02Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D11_altarmana_03Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Description" type="monster" key="E_D11_overload_01Detail" value="" />
   <keys prop="Description" type="monster" key="E_D11_manastorm_0Detail" value="" />
-  <keys prop="Description" type="monster" key="E_D11_puremana_01Detail" value="John MacBain's Request: br&gt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
+  <keys prop="Description" type="monster" key="E_D11_puremana_01Detail" value="John MacBain's Request: &lt;br&gt;&lt;br&gt;Have you heard about the Manastone Battles here in Stygaea? I heard you were wild. I love a good fight, but I'm afraid I can not participate. MacBain does not work alone! I mean ... they work, but ... You get it." />
   <keys prop="Description" type="monster" key="E_D11_phase_01Detail" value="Verificador Fase 1" />
   <keys prop="Description" type="monster" key="E_D11_phase_02Detail" value="Verificador Fase 2" />
   <keys prop="Description" type="monster" key="E_D11_phase_03Detail" value="Verificador Fase 3" />
