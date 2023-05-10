@@ -7,7 +7,7 @@
     <div class="wrapper">
         <h3>DOWNLOAD</h3>
 
-        <a href="https://download.icarus101xp.com.br/downloads/PlayIcarus101XPInstaller.msi" download="#" class="btn primary download">
+        {{-- <a href="https://download.icarus101xp.com.br/downloads/PlayIcarus101XPInstaller.msi" download="#" class="btn primary download">
             <div class="bk_logos">
                 <div class="logo"></div>
                 <div class="logo_bar"></div>
@@ -15,7 +15,7 @@
             </div>
             <span class="txt_g" style="color:#fff;">DOWNLOAD SMALL</span>
             <span class="ico"></span>
-        </a>
+        </a> --}}
 
         <a href="https://download.icarus101xp.com.br/downloads/Icarus101XPFullInstaller.rar" download="#" class="btn primary download">
             <div class="bk_logos">
