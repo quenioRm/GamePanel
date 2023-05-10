@@ -16,6 +16,6 @@ class IcarusWikiApiController extends Controller
             'icon' => Functions::FindElementInGameBin($itemId, "icon")
         ];
 
-        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => $item, 'errors' => null], 'resultData' => null, 'returnUrl' => '' ], 200);
+        return response()->json(['resultCode' => 1000, 'resultMsg' => ['message' => 'sucess', 'errors' => null], 'resultData' => $item, 'returnUrl' => '' ], 200);
     }
 }
