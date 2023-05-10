@@ -1,2 +1,604 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="dialog_9030100_title" value="Kite [Primeiro-Marinheiro do Martelo Vermelho]" />
+  <keys prop="Description" type="monster" key="dialog_9030100_text0" value="Boas-vindas!&lt;br&gt;O Martelo é um titã que vai de e para a Plataforma de Titã da Aldeia do Desfiladeiro Grandioso e do Castelo de Hakanas.&lt;br&gt;Se você quer ir para o Castelo de Hakanas, por favor me avise a qualquer momento." />
+  <keys prop="Description" type="monster" key="dialog_9030100_answer_0_text" value="Partindo para o Castelo de Hakanas" />
+  <keys prop="Description" type="monster" key="dialog_9030100_answer_1_text" value="Paisagem do Cais" />
+  <keys prop="Description" type="monster" key="dialog_9030101_title" value="Paisagem do Cais" />
+  <keys prop="Description" type="monster" key="dialog_9030101_text0" value="Veja essa vista...&lt;br&gt; Sinto muitas emoções sempre que fico aqui. Adoro essa paisagem desde antes de me tornar marinheiro.&lt;br&gt;Muitas pessoas me dizem que as coisas estão ruins na minha vida, mas não penso dessa maneira. Estou satisfeito com ela.&lt;br&gt;Tente ignorar o que os outros pensam de você, o preconceito que eles têm.&lt;br&gt;O importante é o que você pensa de si mesmo." />
+  <keys prop="Description" type="monster" key="dialog_9030102_title" value="Louis Lebrini &lt;Comerciante de Ellun&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030102_text0" value="Ei, você!&lt;br&gt;Estou vendendo itens premium que não podem ser encontrados com outros comerciantes.&lt;br&gt;Só aceito Ellun, nada de cobre, prata ou ouro.&lt;br&gt;Se você tem um monte de Ellun, aproveite!&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="dialog_9030102_answer_0_text" value="Loja Ellun" />
+  <keys prop="Description" type="monster" key="dialog_9030102_answer_1_text" value="Confiança na Qualidade" />
+  <keys prop="Description" type="monster" key="dialog_9030102_answer_2_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030103_title" value="Confiança na Qualidade" />
+  <keys prop="Description" type="monster" key="dialog_9030103_text0" value="Você pode ter fé nos Comerciantes de Ellun - porque negociamos com fé! Somente os mais dignos são abençoados pelos Criadores, então nós só vendemos os itens mais dignos." />
+  <keys prop="Description" type="monster" key="dialog_9030104_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030104_text0" value="Se quiser montar uma venda no Grand Canyon, vai ter que receber permissão de Rokun primeiro.&lt;br&gt;Felizmente, ele permite que isso aconteça se os comerciantes e lojistas pagarem uma taxa razoável.&lt;br&gt;Eles são boas pessoas que me mantiveram protegido de pessoas muito ruins. Eu valorizo muito o esforço deles." />
+  <keys prop="Description" type="monster" key="dialog_9030105_title" value="Muzaka &lt;Corretor do Mercado&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030105_text0" value="Há alguma coisa que você queira comprar ou vender?&lt;br&gt;Todos os Corretores do Mercado em Turimnan estão sob meu comando.&lt;br&gt;Eu também tenho permissão de Rokun para trabalhar por conta própria." />
+  <keys prop="Description" type="monster" key="dialog_9030105_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="dialog_9030105_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030106_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030106_text0" value="Rokun ofereceu uma oportunidade para que os Corretores do Mercado, como eu, fossem ativos em Turimnan.&lt;br&gt;Talvez fosse uma maneira de superar a falta de comerciantes que agora trabalham em uma área limitada da região.&lt;br&gt;Graças ao nosso relacionamento com os Comerciantes de Crokhoon, agora podemos importar e exportar produtos." />
+  <keys prop="Description" type="monster" key="dialog_9030107_title" value="Urmi &lt;Lojista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030107_text0" value="Urmi só vende o melhor!&lt;br&gt;Pode ser que eu tenha as mercadorias que você precisa. Dê uma olhada, você não vai se arrepender!" />
+  <keys prop="Description" type="monster" key="dialog_9030107_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_9030107_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030108_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030108_text0" value="Minha loja mercantil existe por causa de Rokun.&lt;br&gt;De todas as lojas em Turimnan, não há uma única que não está sob os Comerciantes Crokhoon.&lt;br&gt;É por isso que a influência mercantil da facção é tão grande!" />
+  <keys prop="Description" type="monster" key="dialog_9030109_title" value="Jonathan &lt;Farmacêutico&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030109_text0" value="Eu vendo poções que eu fiz usando alquimia, com os materiais que eu comprei de Bailin!&lt;br&gt;&lt;br&gt;Eu juro que fiz tudo com minhas próprias mãos!&lt;br&gt;&lt;br&gt;Eu juro!&lt;br&gt;&lt;br&gt;(Ele parece exagerado...)" />
+  <keys prop="Description" type="monster" key="dialog_9030109_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="dialog_9030109_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030110_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030110_text0" value="Ah! Os Comerciantes de Crokhoon? Claro que sim! Eu estou de acordo com eles.&lt;br&gt;Não posso fazer outra coisa que não seja pedir ao próprio sr. Rokun para estabelecer um acordo comigo. Hahaha! &lt;br&gt;Ssssh! Não conte isso a ninguém, nunca!&lt;br&gt;Vai ser difícil para mim quando todo mundo souber que a grandiosidade de Jonathan foi revelada ao mundo.&lt;br&gt;&lt;br&gt;(Ele me parece maluco...)" />
+  <keys prop="Description" type="monster" key="dialog_9030111_title" value="Bailey &lt;Quitandeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030111_text0" value="Não é ótimo ver mais pessoas comendo muito ultimamente? Graças à minha linha de trabalho, estou ganhando muito dinheiro, então acho muito bom.&lt;br&gt;&lt;br&gt;Muitas pessoas dizem que acreditam ser triste o fato de eu não comer com aqueles a quem sirvo. Gosto de ver os outros ficando saudáveis por minha causa.&lt;br&gt;&lt;br&gt;Talvez eu esteja começando a ter essa sensação porque está ficando mais difícil para as pessoas conseguirem comer hoje em dia. Ou talvez seja apenas porque quero mais pessoas comendo juntas." />
+  <keys prop="Description" type="monster" key="dialog_9030111_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_9030111_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030112_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030112_text0" value="Bem, toda a comida vendida em Turimnan na verdade é distribuída pelos Comerciantes Crokhoon.&lt;br&gt;O que significa que tecnicamente eu tenho que pegar comida deles para vender para o povo.." />
+  <keys prop="Description" type="monster" key="dialog_9030113_title" value="Chris Bale &lt;Comerciante de Armamentos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030113_text0" value="É curioso como a vida acontece...&lt;br&gt;Ainda me lembro como se tivesse sido ontem, de quando brincava com uma bola na água quando era criança, mas agora sou só um homem de meia-idade que vende armas.&lt;br&gt;Até salvei o mundo com alguns amigos, mas ainda não sei como acabei me tornando um comerciante de armas.&lt;br&gt;Hahaha! Bem, você queria comprar alguma coisa de minha loja?" />
+  <keys prop="Description" type="monster" key="dialog_9030113_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030113_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030114_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030114_text0" value="Sr. Rokun?&lt;br&gt;Sim, eu trabalho para ele.&lt;br&gt;Foi ele quem me salvou da minha reclusão. Ele me transformou em um comerciante de armamentos quando eu não sabia mais o que fazer." />
+  <keys prop="Description" type="monster" key="dialog_9030115_title" value="Yorris Bale &lt;Armeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030115_text0" value="Se precisar de uma armadura, analise o que temos. Não pense que vai ganhar desconto.&lt;br&gt;&lt;br&gt;...&lt;br&gt;&lt;br&gt;Sim, já vi essa sua cara muitas vezes. Você acha que já me viu em algum outro lugar, não acha?&lt;br&gt;Sim, é o meu irmão, o vendedor de armas, Chris Bale. Ele é meu irmão. Mas não somos os mesmos, acho que sou até mais bonito do que ele." />
+  <keys prop="Description" type="monster" key="dialog_9030115_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030115_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030116_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030116_text0" value="Eu trabalho para o Sr. Rokun com o Chris.&lt;br&gt;Não se preocupe, eu não vim de outro planeta como meu irmão diz, e é por isso que eu não falo muito sobre ter salvado o mundo no passado.&lt;br&gt;É só ele, acho que ele ficou louco de verdade." />
+  <keys prop="Description" type="monster" key="dialog_9030117_title" value="Parmati &lt;Negociante de Moedas de Colecionador&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030117_text0" value="Saudações!&lt;br&gt;Visto que há muitos familiares em Turimnan, nossos colecionadores também estão nesta região.&lt;br&gt;Também temos uma loja, então se você precisar de moedas, por favor, sinta-se à vontade para entrar em contato.&lt;br&gt;Tenha um ótimo dia!" />
+  <keys prop="Description" type="monster" key="dialog_9030117_answer_0_text" value="Loja de Moedas de Colecionador" />
+  <keys prop="Description" type="monster" key="dialog_9030117_answer_1_text" value="O que é a Loja de Moedas de Colecionador?" />
+  <keys prop="Description" type="monster" key="dialog_9030117_answer_2_text" value="O que é este grupo chamado de Colecionadores?" />
+  <keys prop="Description" type="monster" key="dialog_9030117_answer_3_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030118_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030118_text0" value="Oh, você está falando sobre os Crokhoon?&lt;br&gt;Com certeza, eu amo os Comerciantes Crokhoon, mas não tenho muito a ver com eles.&lt;br&gt;Não ganhamos muito dinheiro com eles, e é por isso que eu não ligo muito." />
+  <keys prop="Description" type="monster" key="dialog_9030119_title" value="Minnow &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030119_text0" value="Meu nome é Minnow.&lt;br&gt;Eu sou um belo homem que gosta de monstros, especialmente feras.&lt;br&gt;&lt;br&gt;...&lt;br&gt;&lt;br&gt;É porque mulheres bonitas gostam disso, viu?&lt;br&gt;Eu sou um homem ocupado, nunca tive a oportunidade de conhecer uma mulher. Como você acha que eu conseguirei resolver esse enigma?" />
+  <keys prop="Description" type="monster" key="dialog_9030119_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030119_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9030119_answer_2_text" value="Familiares Lendários de Turimnan" />
+  <keys prop="Description" type="monster" key="dialog_9030119_answer_3_text" value="Os Problemas de Minnow" />
+  <keys prop="Description" type="monster" key="dialog_9030119_answer_4_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030120_title" value="Familiares Lendários Locais" />
+  <keys prop="Description" type="monster" key="dialog_9030120_text0" value="Bem como em outras regiões, familiares lendários também vivem em Turimnan.&lt;br&gt;Aqui estão algumas informações sobre eles.&lt;br&gt;&lt;br&gt;Turimnan Inteiro&lt;br&gt;Antares Furioso&lt;br&gt;Antares Benevolente&lt;br&gt;&lt;br&gt;Floresta de Aklan&lt;br&gt;Soluna, o Spiroon" />
+  <keys prop="Description" type="monster" key="dialog_9030121_title" value="Os Problemas de Minnow" />
+  <keys prop="Description" type="monster" key="dialog_9030121_text0" value="(Eu falei para Minnow que se ele trabalhasse bastante, eu o visitaria...)&lt;br&gt;&lt;br&gt;Mentira!!!&lt;br&gt;Falando sério agora... Muito sério!&lt;br&gt;Se você conhecer alguma mulher bonita, você pode me apresentar, por favor?&lt;br&gt;&lt;br&gt;Espere! Onde você está indo? Você tem que me apresentar!!!" />
+  <keys prop="Description" type="monster" key="dialog_9030122_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030122_text0" value="Comerciantes Crokhoon? Você quer dizer, os meus senhores?&lt;br&gt;Tenho certeza que existe uma moça bonita no grupo deles... Mas eu ainda me preocupo mesmo é com o meu trabalho...&lt;br&gt;&lt;br&gt;(Parece que ele é solitário...)" />
+  <keys prop="Description" type="monster" key="dialog_9030123_title" value="Bailin &lt;Comerciante de Alquimia&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030123_text0" value="Hmm, Jonathan parece muito empolgado com os materiais que vendi a ele.&lt;br&gt;Não me sinto bem por isso.&lt;br&gt;&lt;br&gt;Estou surpreso.&lt;br&gt;&lt;br&gt;Então, o que fez você ficar?&lt;br&gt;Ah, você veio visitar minha loja? Eu tenho todo o material que você precisa.&lt;br&gt;Vá em frente e confira." />
+  <keys prop="Description" type="monster" key="dialog_9030123_answer_0_text" value="Loja de Alquimia" />
+  <keys prop="Description" type="monster" key="dialog_9030123_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030124_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030124_text0" value="Claro que tenho um contrato com os Comerciantes de Crokhoon.&lt;br&gt;Por que está perguntando?&lt;br&gt;&lt;br&gt;(Perguntei a Bailin como ele conseguiu seu contrato com os Comerciantes de Crokhoon...)&lt;br&gt;&lt;br&gt;Não posso te contar nada a respeito disso por motivos de segurança.&lt;br&gt;Mas se quer saber, eles não são mercadores do mal. Eles são bons. Bem, Rokun é bom." />
+  <keys prop="Description" type="monster" key="dialog_9030125_title" value="Christian &lt;Comerciante de Criação de Armaduras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030125_text0" value="Eu vendo os materiais de armadura mais baratos e de melhor qualidade em toda a região.&lt;br&gt;Tenha certeza de que cada peça foi escolhida a dedo do melhor dos melhores pelos Comerciantes Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030125_answer_0_text" value="Loja de Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030125_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030126_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030126_text0" value="Sim, os materiais da minha loja são fornecidos pelos Comerciantes Crokhoon&lt;br&gt;É por isso que posso dizer com certeza que garantimos que nossos produtos sejam da mais alta qualidade.&lt;br&gt;Se você precisar, posso mostrar meu contrato com os Comerciantes Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030127_title" value="Eshian &lt;Comerciante de Criação de Armas&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030127_text0" value="Uma pessoa corajosa define sua beleza. É o mesmo com armas. Armas como as minhas são belamente feitas. Para fazer isso, precisamos de coragem e trabalho duro." />
+  <keys prop="Description" type="monster" key="dialog_9030127_answer_0_text" value="Loja de Criação de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030127_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030128_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030128_text0" value="Croonukhoon&lt;br&gt;Croonukhoon, as a person, he really lost sight of his path.&lt;br&gt;&lt;br&gt;As soon as he saw my beauty, he became indeed the Weapon Craft Merchant just to impress me.&lt;br&gt;Oh Ho Ho Ho!!!&lt;br&gt;&lt;br&gt;(I do not know how to addressed him, to call him &quot;foolish&quot; or just a &quot;weird person&quot;.)" />
+  <keys prop="Description" type="monster" key="dialog_9030129_title" value="Heinkes &lt;Barder Craft Merchant&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030129_text0" value="The problem is that the number of people discarding the Battle Mount has increased when they got bored of it.&lt;br&gt;The Battle Mount is not a thing to be play with. They have senses, they have a life, and a heart that is fragile.&lt;br&gt;They knew when they are abandoned, and my heart is shattered into pieces seeing them like that. So, I would like you to reconsider the Battle Mount' feeling first before abandoning them." />
+  <keys prop="Description" type="monster" key="dialog_9030129_answer_0_text" value="Loja de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="dialog_9030129_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030130_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030130_text0" value="Rokun o trata como se ele fosse seu próprio filho. Ele tem mostrado interesse e afeição por um mero comerciante como eu, ele me dá abrigo e comida, mesmo estando ocupado com suas atividades mercantis.&lt;br&gt;Eu o admiro. Ele é uma figura paterna para mim." />
+  <keys prop="Description" type="monster" key="dialog_9030131_title" value="Murant &lt;Comerciante Culinário&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030131_text0" value="Ingredientes frescos são essenciais para fazer pratos deliciosos!&lt;br&gt;O sabor do prato vai depender de quais ingredientes você usa.&lt;br&gt;Deixe-me compartilhar um segredinho...&lt;br&gt;&lt;br&gt;(Eu cheguei perto para ouvir o segredo...)&lt;br&gt;&lt;br&gt;A verdade é..." />
+  <keys prop="Description" type="monster" key="dialog_9030131_text0_attach_0" value="&lt;br&gt;Eu tenho aqui um pó muito especial, quando eu o adicionei na comida durante o cozimento, ficou com o gosto da comida da minha própria mãe, que ninguém pode recriar.&lt;br&gt;(Mesmo se você tentar pensar muito sobre isso, ainda parece que você sabe qual é o sabor do pó...)" />
+  <keys prop="Description" type="monster" key="dialog_9030131_answer_0_text" value="Despensa de Ingredientes" />
+  <keys prop="Description" type="monster" key="dialog_9030131_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030132_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030132_text0" value="I own the Ingredient Pantry that one of the top Rokun's Shops&lt;br&gt;Rokun's Wife specially loves the things in my shop. Do you want to see it?&lt;br&gt;Hmm ... I'll tell you specifically. The materials that she usually get is either decreasing-increasing or increasing-decreasing or decreasing flat in the market.&lt;br&gt;Oh, please do keep it a secret to Rokun. If you tell him this information, you may get confused by Rokun." />
+  <keys prop="Description" type="monster" key="dialog_9030133_title" value="Theo &lt;Comerciante de Criação de Joias&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030133_text0" value="Dê uma olhada! Eu tenho todos os materiais que você precisa para fazer uma joia.&lt;br&gt;Se você está interessado em fazer joias, visite nossa loja.&lt;br&gt;Estarei sempre esperando por você." />
+  <keys prop="Description" type="monster" key="dialog_9030133_answer_0_text" value="Loja de Criação de Joias" />
+  <keys prop="Description" type="monster" key="dialog_9030133_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030134_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030134_text0" value="Os materiais de joias são muito escassos comparados a outros materiais.&lt;br&gt; Esses tipos de materiais não deveriam ser manuseados por Comerciantes de Crokhoon.&lt;br&gt;&lt;br&gt;Soube de outras pessoas que os Comerciantes de Crokhoon começam a monopolizar o fornecimento de joias, pensei que haveria uma disputa de preços. Mas fiquei chocado quando soube que os Comerciantes de Crokhoon conseguiram manter fornecimento e preço estáveis." />
+  <keys prop="Description" type="monster" key="dialog_9030135_title" value="Antoine &lt;Aprendiz de Alquimista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030135_text0" value="Eu tenho habilidades de alquimia excelentes, embora eu ainda seja um aprendiz.&lt;br&gt;&lt;br&gt;Não me leve a mal, ah ... Se estiver tudo certo, fico feliz. Eu estava estressado e chocado quando todas essas pessoas vieram aqui para fazer roupas." />
+  <keys prop="Description" type="monster" key="dialog_9030135_answer_0_text" value="Treinar Alquimia" />
+  <keys prop="Description" type="monster" key="dialog_9030136_title" value="Simone &lt;Armadureira&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030136_text0" value="Para fazer uma boa armadura, você deve ter uma mente sã e um corpo forte.&lt;br&gt;Então, eu sempre faço muito exercício físico e treinamento mental para manter minha postura. Agora olhe aqui, não é empolgante ver meus músculos?" />
+  <keys prop="Description" type="monster" key="dialog_9030136_answer_0_text" value="Aumentando o Seu Nível de Criação de Armadura" />
+  <keys prop="Description" type="monster" key="dialog_9030137_title" value="Ferrina &lt;Armadureira&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030137_text0" value="Tenho ensinado técnicas de produção de armas há anos.&lt;br&gt;Mas recentemente, tenho sofrido porque não consigo encontrar um sucessor a quem passar meus ensinamentos sobre produção de armas. Em pouco tempo, vou me aposentar... Se tiver um amigo a quem possa sugerir ou recomendar para que seja meu sucessor, traga-o aqui e vou ensinar a ele como aperfeiçoar suas habilidades para se tornar meu sucessor no futuro." />
+  <keys prop="Description" type="monster" key="dialog_9030137_answer_0_text" value="Aumentando o Seu Nível de Criação de Armadura" />
+  <keys prop="Description" type="monster" key="dialog_9030138_title" value="Pierro &lt;Criador de Selaria&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030138_text0" value="I have been working as a Battle Mount research scholar, conducting research on Battle Mount.&lt;br&gt;I'am studying all the Battle Mount around the world. I have some particular fields that I'am interested in.&lt;br&gt;&lt;br&gt;&lt;Battle Mount Journal&gt;&lt;br&gt;Rough mane is delicious. Bark is delicous.&lt;br&gt;The relics are delicious.&lt;br&gt;&lt;br&gt;...&lt;br&gt;&lt;br&gt;(This is confusing, I do not know if it is a research scholar or a gourmet.)" />
+  <keys prop="Description" type="monster" key="dialog_9030138_answer_0_text" value="Aumentar Seu Nível de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="dialog_9030139_title" value="Whitney &lt;Cozinheira&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030139_text0" value="Está tudo pronto para prepararmos uma comida deliciosa?&lt;br&gt;Bom, é muito fácil e divertido. Eu misturei as tudo, fervi isso aqui e salpiquei um último ingrediente. Perfeito!&lt;br&gt;&lt;br&gt;Huh? Você quer aprender mais? Se sim, ensinarei tudo o que eu sei." />
+  <keys prop="Description" type="monster" key="dialog_9030139_answer_0_text" value="Praticar Culinária" />
+  <keys prop="Description" type="monster" key="dialog_9030140_title" value="Rene &lt;Joalheiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030140_text0" value="Why do people mistake me for Princess Lania? Do I really look like her?&lt;br&gt;Oh, I don't even like the style of the princess. It doesn't even look that good...&lt;br&gt;Do I look like a princess to you?&lt;br&gt;&lt;br&gt;(I think it might be best if I just learn about crafting instead...)" />
+  <keys prop="Description" type="monster" key="dialog_9030140_answer_0_text" value="Praticar Criação de Joias" />
+  <keys prop="Description" type="monster" key="dialog_9030141_title" value="Lamella &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030141_text0" value="Nós curadores curamos mentes e almas cansadas.&lt;br&gt;Também fazemos várias sessões de aconselhamento que ajudarão sua mente e sua alma a ficarem tranquilas depois da ressurreição." />
+  <keys prop="Description" type="monster" key="dialog_9030141_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030141_answer_1_text" value="Sobre Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030141_answer_2_text" value="Curar Mente Horrenda" />
+  <keys prop="Description" type="monster" key="dialog_9030142_title" value="&lt;Socorrista&gt; Sobre as Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030142_text0" value="Perder batalhas geralmente resulta em ferimentos duradouros. Como socorrista, posso curar esses ferimentos para você. Claro, se você não puder pagar minha taxa modesta, suas feridas se curarão sozinhas... com o passar do tempo.&lt;br&gt;&lt;br&gt;(Não há penalidades para mortes antes do nível 8.)" />
+  <keys prop="Description" type="monster" key="dialog_9030143_title" value="Curar Mente Horrenda" />
+  <keys prop="Description" type="monster" key="dialog_9030143_text0" value="Quando vivemos neste mundo, teremos momentos em que nos sentiremos cansados ou exaustos.&lt;br&gt;As pessoas estão sempre dizendo que estou ótimo para superar esse cansaço e que elas nunca conseguiriam ser como sou.&lt;br&gt;O que não sabem é que eu me sinto assim também.&lt;br&gt;&lt;br&gt;Tudo bem se ninguém compreende nossas dificuldades. Grite aos céus quanto isso dói.&lt;br&gt;Só isso deve reduzir a frustração que se acumulou em sua mente e em seu coração." />
+  <keys prop="Description" type="monster" key="dialog_9030144_title" value="Vernon &lt;Storage Master&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030144_text0" value="This is one of the best security storage in Turimnan, that of which the Crokhoon Merchants have entrusted me with.&lt;br&gt;&lt;br&gt;If you have something you want to be kept, just leave it here. Oh, and of course, taking care of things that are related to corruption is an exemption." />
+  <keys prop="Description" type="monster" key="dialog_9030144_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_9030144_answer_1_text" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030145_title" value="Relacionamento com os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9030145_text0" value="I don't belong to the Crokhoon Merchants but most of my profits come from them.&lt;br&gt;They put a lot of stuff in my warehouse and they let me purchase at a cheaper price from their products.&lt;br&gt;It's kind of a mutual thing." />
+  <keys prop="Description" type="monster" key="dialog_9030146_title" value="Ethan &lt;Hammer Captain&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030146_text0" value="Eu sou o capitão do Martelo, Ethan!&lt;br&gt;Você deve se sentir honrado em estar falando comigo.&lt;br&gt;Você nunca mais encontrará um capitão tão bom e responsável quanto eu, isso é certeza." />
+  <keys prop="Description" type="monster" key="dialog_9030146_answer_0_text" value="O Martelo Vermelho" />
+  <keys prop="Description" type="monster" key="dialog_9030147_title" value="O Martelo Vermelho" />
+  <keys prop="Description" type="monster" key="dialog_9030147_text0" value="Yes, yes. I've heard this story before. The Red Hammer Ship has crashed from a mysterious attack.&lt;br&gt;A lot of the people died but the captain of the Red Hammer Ship said that he was the only one that escaped.&lt;br&gt;&lt;br&gt;OH! You're one of the miraculous survivors of the ship? That's amazing." />
+  <keys prop="Description" type="monster" key="dialog_9030148_title" value="Ailo &lt;Market Broker&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030148_text0" value="Sabe quando comprar produtos com o menor preço?&lt;br&gt;&lt;br&gt;(Vou contar o que sei...)&lt;br&gt;&lt;br&gt;Não, não, não!&lt;br&gt;Quis dizer &quot;quando vender&quot;!&lt;br&gt;Você nem sabe dar um preço!&lt;br&gt;&lt;br&gt;Este é preço de Corretor do Mercado!&lt;br&gt;Quero que saiba disso." />
+  <keys prop="Description" type="monster" key="dialog_9030148_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="dialog_9030150_title" value="Anbou &lt;Storage Master&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030150_text0" value="Se não sabe bem quais são as coisas que pretende manter aqui, dê prioridade às coisas importantes! &lt;br&gt; Aqui é o Estoque dos Comerciantes de Crokhoon. Com certeza guardarei suas coisas em segurança! Pode deixar suas coisas comigo." />
+  <keys prop="Description" type="monster" key="dialog_9030150_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_9030152_title" value="Hogarth &lt;Lojista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030152_text0" value="Sniffing... Haachoo!&lt;br&gt;&lt;br&gt;(Looks like he's having a runny nose...)&lt;br&gt;&lt;br&gt;Oh, what is it? What are you looking for?&lt;br&gt;If you need anything, take a look around." />
+  <keys prop="Description" type="monster" key="dialog_9030152_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_9030154_title" value="Paijin &lt;Apothecary&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030154_text0" value="Vendo apenas as melhores poções a preços bem razoáveis!&lt;br&gt;Fique tranquilo porque minhas poções foram estritamente analisadas pelos Comerciantes de Crokhoon um a um.&lt;br&gt;Eu mesmo fiz algumas delas." />
+  <keys prop="Description" type="monster" key="dialog_9030154_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="dialog_9030156_title" value="Dian &lt;Quitandeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030156_text0" value="Vendo apenas a comida de maior qualidade a preços razoáveis!&lt;br&gt;Fique tranquilo porque qualquer coisa que você comer na minha loja e só na minha loja são de enorme qualidade, pois foram analisadas pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030156_answer_0_text" value="Quitandeiro" />
+  <keys prop="Description" type="monster" key="dialog_9030158_title" value="Aiji &lt;Comerciante de Armamentos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030158_text0" value="I sell only the cheapest quality armaments money can buy!&lt;br&gt;Rest assured that every swing, spell cast, and arrows flung are the best because each and every piece of weapon I sell have been vetted by the Crokhoon Merchants.&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="dialog_9030158_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030160_title" value="Tsurugi &lt;Armorer&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030160_text0" value="I sell only the cheapest quality armor money can buy!&lt;br&gt;Rest assured that every hit you take will feel almost nothing when wearing by duds as each and every piece of equipment I sell are from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030160_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030162_title" value="Familiar de Sebrinch &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030162_text0" value="If you want your Battle Mount to be strong, leave them to me and I will train them.&lt;br&gt;I can also send you to the Battle Mount Ranch as a service." />
+  <keys prop="Description" type="monster" key="dialog_9030162_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030162_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9030164_title" value="Aano &lt;Comerciante de Alquimia&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030164_text0" value="I sell only the cheapest quality alchemy materials in all the land at a reasonable price.&lt;br&gt;Rest assured that no potion you make will ever be a catastrophic failure because of my reagents." />
+  <keys prop="Description" type="monster" key="dialog_9030164_answer_0_text" value="Loja de Alquimia" />
+  <keys prop="Description" type="monster" key="dialog_9030166_title" value="Foggy &lt;Comerciante de Criação de Armaduras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030166_text0" value="Eu vendo os materiais de armadura mais baratos e de melhor qualidade em toda a região.&lt;br&gt;Tenha certeza de que cada peça foi escolhida a dedo do melhor dos melhores pelos Comerciantes Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030166_answer_0_text" value="Loja de Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030168_title" value="Rico &lt;Comerciante de Criação de Armas&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030168_text0" value="I only sell the cheapest quality weapon materials in all the land.&lt;br&gt;Rest assured that each material you find in my shop are the select few of the best from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030168_answer_0_text" value="Loja de Criação de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030170_title" value="Ferrero &lt;Barder Craft Merchant&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030170_text0" value="I sell only the cheapest quality barder craft materials in the land at their most reasonable prices!&lt;br&gt;Each material has been handpicked solely by the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030170_answer_0_text" value="Loja de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="dialog_9030172_title" value="Nabian &lt;Comerciante Culinário&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030172_text0" value="I sell only the cheapest quality ingredients in all the land!&lt;br&gt;Rest assured that my products come only from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030172_answer_0_text" value="Despensa de Ingredientes" />
+  <keys prop="Description" type="monster" key="dialog_9030174_title" value="Vanilla &lt;Comerciante de Criação de Joias&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030174_text0" value="I sell only the best Jewelry Crafting materials at the lowest prices!&lt;br&gt;Rest assured that each and every small piece of product have been produced by the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030174_answer_0_text" value="Loja de Criação de Joias" />
+  <keys prop="Description" type="monster" key="dialog_9030176_title" value="Fortuna &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030176_text0" value="Whew... There are so many people that wants to cure Dire Wound.&lt;br&gt;How'd I even get assigned to such a place.&lt;br&gt;If I only knew it'd be hard, I'd rather have went to a much more comfortable place instead." />
+  <keys prop="Description" type="monster" key="dialog_9030176_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030178_title" value="Feindal &lt;Lojista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030178_text0" value="I only sell the cheapest quality goods at reasonable prices!&lt;br&gt;Rest assured that everything you purchase from my shop are the best since they're shipped from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030178_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_9030180_title" value="Aileen &lt;Farmacêutico&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030180_text0" value="Vendo apenas as melhores poções a preços bem razoáveis!&lt;br&gt;Fique tranquilo porque minhas poções foram estritamente analisadas pelos Comerciantes de Crokhoon um a um.&lt;br&gt;Eu mesmo fiz algumas delas." />
+  <keys prop="Description" type="monster" key="dialog_9030180_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="dialog_9030182_title" value="Grandalf &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030182_text0" value="Ahhh...&lt;br&gt;I feel the soul of the hero that will save the world eMPting from you...&lt;br&gt;&lt;br&gt;However, in some way, I also feel raw power of destruction at the same time. Are you hiding something like a cursed ring? Strange. If I were to come across one, I would immediately purge it of all evil." />
+  <keys prop="Description" type="monster" key="dialog_9030182_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030184_title" value="Fredo &lt;Comerciante de Mercadorias em Geral&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030184_text0" value="Vendo apenas comida boa a preços bem razoáveis!&lt;br&gt;Tenha certeza de que tudo o que você come de minha loja e só da minha loja é da maior qualidade, pois tudo foi checado pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030184_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_9030186_title" value="Hannety &lt;Comerciante de Armamentos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030186_text0" value="I sell only the cheapest quality armaments money can buy!&lt;br&gt;Rest assured that every swing, spell cast, and arrows flung are the best because each and every piece of weapon I sell have been vetted by the Crokhoon Merchants.&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="dialog_9030186_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030188_title" value="Amon &lt;Armorer&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030188_text0" value="I sell only the cheapest quality armor money can buy!&lt;br&gt;Rest assured that every hit you take will feel almost nothing when wearing by duds as each and every piece of equipment I sell are from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030188_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030190_title" value="Arumi &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030190_text0" value="Eu posso ajudar seu familiar a crescer.&lt;br&gt;Enquanto você tiver dinheiro.&lt;br&gt;No entanto, ele não pode ficar mais forte do que o dono." />
+  <keys prop="Description" type="monster" key="dialog_9030190_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030190_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9030192_title" value="Abianno &lt;Storage Master&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030192_text0" value="Greetings from your Storage Master, Abianno at your service!&lt;br&gt;&lt;br&gt;I have been wandering from place to place and now settled in Ithilis Supply Station. Feel free to leave your things.&lt;br&gt;Rest assured that I will not run away with the things that you have entrusted to me.&lt;br&gt;&lt;br&gt;(I don't trust him.)" />
+  <keys prop="Description" type="monster" key="dialog_9030192_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_9030194_title" value="Seiko &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030194_text0" value="Sinto a tristeza de todas as almas nas redondezas.&lt;br&gt;&lt;br&gt;...&lt;br&gt;&lt;br&gt;E sua alma também está chorando. Você se identifica com essa triste realidade?" />
+  <keys prop="Description" type="monster" key="dialog_9030194_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030196_title" value="Tily &lt;Comerciante de Mercadorias em Geral&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030196_text0" value="Vendo apenas comida boa a preços bem razoáveis!&lt;br&gt;Tenha certeza de que tudo o que você come de minha loja e só da minha loja é da maior qualidade, pois tudo foi checado pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030196_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_9030198_title" value="Aioni &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030198_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030198_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030200_title" value="Gurte &lt;Corretor do Mercado&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030200_text0" value="We'll appraise your goods at the best price!&lt;br&gt;Of course, I buy other people’s goods at the lowest price.&lt;br&gt;Trust me, please.&lt;br&gt;&lt;br&gt;(Trust doesn't really have anything ot do with it.)" />
+  <keys prop="Description" type="monster" key="dialog_9030200_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="dialog_9030202_title" value="Lamia &lt;Storage Master&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030202_text0" value="Vou cuidar de seus pertences.&lt;br&gt;Confie em mim!" />
+  <keys prop="Description" type="monster" key="dialog_9030202_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_9030204_title" value="Garana &lt;Lojista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030204_text0" value="I only sell the cheapest quality goods at reasonable prices!&lt;br&gt;Rest assured that everything you purchase from my shop are the best since they're shipped from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030204_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_9030206_title" value="Randini &lt;Apothecary&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030206_text0" value="Vendo apenas as melhores poções a preços bem razoáveis!&lt;br&gt;Fique tranquilo porque minhas poções foram estritamente analisadas pelos Comerciantes de Crokhoon um a um.&lt;br&gt;Eu mesmo fiz algumas delas." />
+  <keys prop="Description" type="monster" key="dialog_9030206_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="dialog_9030208_title" value="Mileyn &lt;Quitandeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030208_text0" value="Vendo apenas a comida de maior qualidade a preços razoáveis!&lt;br&gt;Fique tranquilo porque qualquer coisa que você comer na minha loja e só na minha loja são de enorme qualidade, pois foram analisadas pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030208_answer_0_text" value="Quitandeiro" />
+  <keys prop="Description" type="monster" key="dialog_9030210_title" value="Ireel" />
+  <keys prop="Description" type="monster" key="dialog_9030210_text0" value="Só recentemente consegui começar a vender armamentos para as pessoas.&lt;br&gt;Decidi fazer isso porque como é um momento muito difícil para todo mundo, pensei que poderia ajudar a transformá-lo em um lugar melhor vendendo armas para pessoas como você." />
+  <keys prop="Description" type="monster" key="dialog_9030210_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030212_title" value="Celistine &lt;Armeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030212_text0" value="I sell only the cheapest quality armor money can buy!&lt;br&gt;Rest assured that every hit you take will feel almost nothing when wearing by duds as each and every piece of equipment I sell are from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030212_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030214_title" value="Cecilia &lt;Treinadora de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030214_text0" value="Eu ajudarei você a nutrir seu familiar.&lt;br&gt;Também posso enviar você para a Fazenda de Familiares." />
+  <keys prop="Description" type="monster" key="dialog_9030214_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030214_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9030216_title" value="Corelia &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030216_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030216_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030218_title" value="Saiton &lt;Lojista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030218_text0" value="I only sell the cheapest quality goods at reasonable prices!&lt;br&gt;Rest assured that everything you purchase from my shop are the best since they're shipped from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030218_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_9030220_title" value="Brennan &lt;Quitandeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030220_text0" value="Vendo apenas a comida de maior qualidade a preços razoáveis!&lt;br&gt;Fique tranquilo porque qualquer coisa que você comer na minha loja e só na minha loja são de enorme qualidade, pois foram analisadas pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030220_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_9030222_title" value="Arturo &lt;Comerciante de Armamentos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030222_text0" value="I sell only the cheapest quality armaments money can buy!&lt;br&gt;Rest assured that every swing, spell cast, and arrows flung are the best because each and every piece of weapon I sell have been vetted by the Crokhoon Merchants.&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="dialog_9030222_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030224_title" value="Chandler &lt;Armeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030224_text0" value="I sell only the cheapest quality armor money can buy!&lt;br&gt;Rest assured that every hit you take will feel almost nothing when wearing by duds as each and every piece of equipment I sell are from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030224_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030226_title" value="Coix &lt;Storage&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030226_text0" value="Vou cuidar de seus pertences.&lt;br&gt;Confie em mim!" />
+  <keys prop="Description" type="monster" key="dialog_9030226_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_9030228_title" value="Esian &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030228_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030228_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030230_title" value="Dynin &lt;Comerciante de Mercadorias em Geral&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030230_text0" value="Vendo apenas comida boa a preços bem razoáveis!&lt;br&gt;Tenha certeza de que tudo o que você come de minha loja e só da minha loja é da maior qualidade, pois tudo foi checado pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030230_answer_0_text" value="Quitandeiro" />
+  <keys prop="Description" type="monster" key="dialog_9030232_title" value="Iton &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030232_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030232_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030234_title" value="Grandal &lt;Comerciante de Mercadorias em Geral&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030234_text0" value="Here we sell cheap and quality goods and food at reasonable prices.&lt;br&gt;Please be assured that you are handling only good quality items that have been shipped directly from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030234_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_9030236_title" value="Spinney" />
+  <keys prop="Description" type="monster" key="dialog_9030236_text0" value="Haaay~! It's hard to make a living in this world...&lt;br&gt;Are you an adventurer too?" />
+  <keys prop="Description" type="monster" key="dialog_9030236_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030238_title" value="Braun" />
+  <keys prop="Description" type="monster" key="dialog_9030238_text0" value="Let's go! Aja~!&lt;br&gt;Ahhh~! This is right!&lt;br&gt;&lt;br&gt;(He seems to be practicing for something...)" />
+  <keys prop="Description" type="monster" key="dialog_9030238_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030240_title" value="Murakami &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030240_text0" value="Eu ajudarei você a nutrir seu familiar.&lt;br&gt;Também posso enviar você para a Fazenda de Familiares." />
+  <keys prop="Description" type="monster" key="dialog_9030240_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030240_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9030242_title" value="Abraão &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030242_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030242_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030244_title" value="Gacha " />
+  <keys prop="Description" type="monster" key="dialog_9030244_text0" value="Here we sell cheap and quality goods and food at reasonable prices.&lt;br&gt;Please be assured that we are handling only good quality items that have been shipped directly from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030244_answer_0_text" value="Quitandeiro" />
+  <keys prop="Description" type="monster" key="dialog_9030246_title" value="Hailey &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030246_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030246_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030248_title" value="Maillin &lt;Corretor do Mercado&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030248_text0" value="Hmm? You wanna buy? You find me.!&lt;br&gt;Hmm? You wanna sell? You find me!&lt;br&gt;&lt;br&gt;Maillin is the master of buying and selling! Trust me!" />
+  <keys prop="Description" type="monster" key="dialog_9030248_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="dialog_9030250_title" value="Guarin &lt;Storage Master&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030250_text0" value="Vou cuidar de seus pertences.&lt;br&gt;Confie em mim!" />
+  <keys prop="Description" type="monster" key="dialog_9030250_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_9030252_title" value="Celie &lt;Lojista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030252_text0" value="I only sell the cheapest quality goods at reasonable prices!&lt;br&gt;Rest assured that everything you purchase from my shop are the best since they're shipped from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030252_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_9030254_title" value="Justine &lt;Farmacêutico&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030254_text0" value="Vendo apenas as melhores poções a preços bem razoáveis!&lt;br&gt;Fique tranquilo porque minhas poções foram estritamente analisadas pelos Comerciantes de Crokhoon um a um.&lt;br&gt;Eu mesmo fiz algumas delas." />
+  <keys prop="Description" type="monster" key="dialog_9030254_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="dialog_9030256_title" value="Sentein &lt;Quitandeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030256_text0" value="Vendo apenas comida boa a preços bem razoáveis!&lt;br&gt;Tenha certeza de que tudo o que você come de minha loja e só da minha loja é da maior qualidade, pois tudo foi checado pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030256_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_9030258_title" value="Frei &lt;Comerciante de Armamentos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030258_text0" value="I sell only the cheapest quality armaments money can buy!&lt;br&gt;Rest assured that every swing, spell cast, and arrows flung are the best because each and every piece of weapon I sell have been vetted by the Crokhoon Merchants.&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="dialog_9030258_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030260_title" value="Nevan" />
+  <keys prop="Description" type="monster" key="dialog_9030260_text0" value="(Looks serious. I don't think it would be nice to talk...)" />
+  <keys prop="Description" type="monster" key="dialog_9030260_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030262_title" value="Alvis &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030262_text0" value="Eu ajudarei você a nutrir seu familiar.&lt;br&gt;Também posso enviar você para a Fazenda de Familiares." />
+  <keys prop="Description" type="monster" key="dialog_9030262_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030262_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9030264_title" value="Oz &lt;Comerciante de Alquimia&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030264_text0" value="I sell only the cheapest quality alchemy materials in all the land at a reasonable price.&lt;br&gt;Rest assured that no potion you make will ever be a catastrophic failure because of my reagents." />
+  <keys prop="Description" type="monster" key="dialog_9030264_answer_0_text" value="Loja de Alquimia" />
+  <keys prop="Description" type="monster" key="dialog_9030266_title" value="Elise &lt;Comerciante de Criação de Armaduras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030266_text0" value="Eu vendo os materiais de armadura mais baratos e de melhor qualidade em toda a região.&lt;br&gt;Tenha certeza de que cada peça foi escolhida a dedo do melhor dos melhores pelos Comerciantes Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030266_answer_0_text" value="Loja de Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030268_title" value="Kerkim &lt;Comerciante de Criação de Armas&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030268_text0" value="I only sell the cheapest quality weapon materials in all the land.&lt;br&gt;Rest assured that each material you find in my shop are the select few of the best from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030268_answer_0_text" value="Loja de Criação de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030270_title" value="Sonnet &lt;Barder Craft Merchant&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030270_text0" value="I sell only the cheapest quality barder craft materials in the land at their most reasonable prices!&lt;br&gt;Each material has been handpicked solely by the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030270_answer_0_text" value="Loja de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="dialog_9030272_title" value="Parser &lt;Comerciante Culinário&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030272_text0" value="I sell only the cheapest quality ingredients in all the land!&lt;br&gt;Rest assured that my products come only from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030272_answer_0_text" value="Despensa de Ingredientes" />
+  <keys prop="Description" type="monster" key="dialog_9030274_title" value="Sunrise &lt;Comerciante de Criação de Joias&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030274_text0" value="I sell only the best Jewelry Crafting materials at the lowest prices!&lt;br&gt;Rest assured that each and every small piece of product have been produced by the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030274_answer_0_text" value="Loja de Criação de Joias" />
+  <keys prop="Description" type="monster" key="dialog_9030276_title" value="Burd &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030276_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030276_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030278_title" value="Daido &lt;Quitandeiro&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030278_text0" value="Vendo apenas comida boa a preços bem razoáveis!&lt;br&gt;Tenha certeza de que tudo o que você come de minha loja e só da minha loja é da maior qualidade, pois tudo foi checado pelos próprios Comerciantes de Crokhoon." />
+  <keys prop="Description" type="monster" key="dialog_9030278_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="dialog_9030280_title" value="Chalidge &lt;Comerciante de Armamentos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030280_text0" value="I sell only the cheapest quality armaments money can buy!&lt;br&gt;Rest assured that every swing, spell cast, and arrows flung are the best because each and every piece of weapon I sell have been vetted by the Crokhoon Merchants.&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="dialog_9030280_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="dialog_9030282_title" value="Vesti &lt;Armorer&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030282_text0" value="I sell only the cheapest quality armor money can buy!&lt;br&gt;Rest assured that every hit you take will feel almost nothing when wearing by duds as each and every piece of equipment I sell are from the Crokhoon Merchants." />
+  <keys prop="Description" type="monster" key="dialog_9030282_answer_0_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="dialog_9030284_title" value="Curtis &lt;Treinador de Familiares&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030284_text0" value="Eu ajudarei você a nutrir seu familiar.&lt;br&gt;Também posso enviar você para a Fazenda de Familiares." />
+  <keys prop="Description" type="monster" key="dialog_9030284_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030284_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9030286_title" value="Tarmat &lt;Socorrista&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030286_text0" value="Esta energia... Você possui uma alma ferida..." />
+  <keys prop="Description" type="monster" key="dialog_9030286_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_9030287_title" value="Cha Lin &lt;Beast Trainer&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9030287_text0" value="Eu posso ajudar seu familiar a crescer.&lt;br&gt;Enquanto você tiver dinheiro.&lt;br&gt;No entanto, ele não pode ficar mais forte do que o dono." />
+  <keys prop="Description" type="monster" key="dialog_9030287_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_9030287_answer_1_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_9031500_title" value="Quadro de Missões &lt;Aldeia do Desfiladeiro Grandioso&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031500_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="dialog_9031500_answer_0_text" value="Aviso dos Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031501_title" value="Quadro de Missões &lt;Fortaleza de Ithilis&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031501_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="dialog_9031502_title" value="Quadro de Missões &lt;Estação de Abastecimento de Ithilis&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031502_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="dialog_9031503_title" value="Quadro de Missões &lt;Posto de Comando Abandonado&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031503_text0" value="(É um quadro de missões bem velho.)" />
+  <keys prop="Description" type="monster" key="dialog_9031503_answer_0_text" value="Aviso do Comandante" />
+  <keys prop="Description" type="monster" key="dialog_9031504_title" value="Quadro de Missões &lt;Posto de Comando Abandonado&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031504_text0" value="(É um quadro de missões bem velho. Há pichações que devem ter sido feitas por quem estava no Acampamento da Prisão.)" />
+  <keys prop="Description" type="monster" key="dialog_9031504_answer_0_text" value="Primeira Pichação dos Prisioneiros" />
+  <keys prop="Description" type="monster" key="dialog_9031504_answer_1_text" value="Segunda Pichação dos Prisioneiros" />
+  <keys prop="Description" type="monster" key="dialog_9031504_answer_2_text" value="Terceira Pichação dos Prisioneiros" />
+  <keys prop="Description" type="monster" key="dialog_9031505_title" value="Quadro de Missões &lt;Acampamento Arcano&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031505_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="dialog_9031505_answer_0_text" value="Refeições da Semana" />
+  <keys prop="Description" type="monster" key="dialog_9031505_answer_1_text" value="Bilhete para Grandal" />
+  <keys prop="Description" type="monster" key="dialog_9031506_title" value="Quadro de Missões &lt;Acampamento Improvisado do Rei dos Insetos&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031506_text0" value="Você será executado em nome do Rei Inseto Jarad se danificar ou destruir um posto." />
+  <keys prop="Description" type="monster" key="dialog_9031507_title" value="Quadro de Missões &lt;Acampamento da Ilha Flutuante&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031507_text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="dialog_9031508_title" value="Aviso dos Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031508_text0" value="Crokhoon Merchants Notice&lt;br&gt;&lt;br&gt;The amount of thieves stealing from the Crokhoon Merchants is increasing.&lt;br&gt;We understand that it's getting harder and harder to eat due to the scarcity of food but please do not resort to thieving.&lt;br&gt;Any one that doesn't pay will no longer be able to purchase from the Crokhoon Merchants.&lt;br&gt;&lt;br&gt;Rokun, Crokhoon Leader" />
+  <keys prop="Description" type="monster" key="dialog_9031509_title" value="Aviso do Comandante" />
+  <keys prop="Description" type="monster" key="dialog_9031509_text0" value="(It's an antique article and some of the text is blurred out...)&lt;br&gt;&lt;br&gt;My name is... I'm the general commander of the Turimnan Kingdom. It's been a while and this may be my last few moments of life.&lt;br&gt;Most of my troops have died under the hand of the human wizard Raken. We are desperate for backup..." />
+  <keys prop="Description" type="monster" key="dialog_9031509_text0_attach_0" value="&lt;br&gt;But there's an even more desperate story than that. The real enemy is from the inside. She's twisted, maybe. Perhaps even wicked. I don't even know anymore. What I know is that she isn't completely insect like us. I never did trust her, but what can I do? We're already dead." />
+  <keys prop="Description" type="monster" key="dialog_9031510_title" value="Primeira Pichação dos Prisioneiros" />
+  <keys prop="Description" type="monster" key="dialog_9031510_text0" value="(Alguns rabiscos legíveis aqui e ali...)&lt;br&gt;&lt;br&gt;Eu me dediquei ao futuro do reino, mas ninguém se incomodou em me resgatar..." />
+  <keys prop="Description" type="monster" key="dialog_9031511_title" value="Segunda Pichação dos Prisioneiros" />
+  <keys prop="Description" type="monster" key="dialog_9031511_text0" value="(Parece ser uma resposta à primeira pichação...)&lt;br&gt;&lt;br&gt;Fui trazido para cá recentemente, mas não vejo ninguém.&lt;br&gt;Você foi resgatado? Se foi, serei resgatado também?&lt;br&gt;Não quero acabar morrendo sozinho aqui." />
+  <keys prop="Description" type="monster" key="dialog_9031512_title" value="Terceira Pichação dos Prisioneiros" />
+  <keys prop="Description" type="monster" key="dialog_9031512_text0" value="(Uma resposta à terceira pichação...)&lt;br&gt;&lt;br&gt;Seus idiotas. O reino nunca os salvará. O rei é um covarde.&lt;br&gt;Se vocês querem ser salvos, rezem muito.&lt;br&gt;Se o universo os ouvir, talvez ele os ajude." />
+  <keys prop="Description" type="monster" key="dialog_9031513_title" value="Refeições da Semana" />
+  <keys prop="Description" type="monster" key="dialog_9031513_text0" value="Refeições da Semana&lt;br&gt;&lt;br&gt;Café da manhã: Sopa de Rabo de Cavalo Fermentado&lt;br&gt;Almoço: Pernas de Aranha Grelhadas Crocantes&lt;br&gt;Janta: Traça do Prado Frita Crocante" />
+  <keys prop="Description" type="monster" key="dialog_9031514_title" value="Bilhete para Grandal" />
+  <keys prop="Description" type="monster" key="dialog_9031514_text0" value="(Um bilhete para Grandal.)&lt;br&gt;&lt;br&gt;Por favor... Me ajude! Eu não quero morrer." />
+  <keys prop="Description" type="monster" key="dialog_9031515_title" value="Romanson &lt;Protetor da Aldeia do Desfiladeiro Grandioso&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031515_text0" value="Você está bem? Não se esforce, você pode não estar totalmente bem depois do acidente." />
+  <keys prop="Description" type="monster" key="dialog_9031515_answer_0_text" value="Eventos Durante o Acidente" />
+  <keys prop="Description" type="monster" key="dialog_9031515_answer_1_text" value="Sobrevivente do Navio Martelo Vermelho" />
+  <keys prop="Description" type="monster" key="dialog_9031515_answer_2_text" value="Mover para a Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="dialog_9031516_title" value="Eventos Durante o Acidente" />
+  <keys prop="Description" type="monster" key="dialog_9031516_text0" value="I don't know if you remember but your ship, the Red Hammer, crashed because of some unknown assailant.&lt;br&gt;Perhaps it may be the attack of the Insect Kingdom that's hostile to the Hakanas Kingdom but I believe we need to investigate it further." />
+  <keys prop="Description" type="monster" key="dialog_9031517_title" value="Sobrevivente do Navio Martelo Vermelho" />
+  <keys prop="Description" type="monster" key="dialog_9031517_text0" value="A maior parte das pessoas do Navio Martelo Vermelho morreu.&lt;br&gt;Nós conseguimos recuperar alguns dos corpos, mas há pelo menos cinco faltando.&lt;br&gt;Não se preocupe. Vamos encontrá-los." />
+  <keys prop="Description" type="monster" key="dialog_9031518_title" value="Clack &lt;Familiar de Romanson&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031518_text0" value="(O familiar de Romanson que pode me levar à Aldeia do Desfiladeiro Grandioso.)" />
+  <keys prop="Description" type="monster" key="dialog_9031518_answer_0_text" value="Mover para a Aldeia do Desfiladeiro Grandioso com Clack." />
+  <keys prop="Description" type="monster" key="dialog_9031519_title" value="Zeromin &lt;Chefe da Aldeia do Desfiladeiro Grandioso&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031519_text0" value="Welcome to the Grand Canyon Village belonging to the Hakanas Kingdom.&lt;br&gt;My name is Zeromin, the chief of this village.&lt;br&gt;This is a town that maintains a livelihood with the Fortress of Ithilis that also belongs to the Hakanas Kingdom.&lt;br&gt;Please... Rest well in our humble village." />
+  <keys prop="Description" type="monster" key="dialog_9031519_answer_0_text" value="Fortaleza de Turimnan" />
+  <keys prop="Description" type="monster" key="dialog_9031519_answer_1_text" value="Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031520_title" value="Forças de Turimnan" />
+  <keys prop="Description" type="monster" key="dialog_9031520_text0" value="Turimnan consists of four sectors and on floating island.&lt;br&gt;The western-most sector contains the Ithilis Fortress and this village where we stand now belongs to the Hakanas Kingdom.&lt;br&gt;The northern and eastern sectors are hostile belonging to the Insect Legion.&lt;br&gt;You're safe in this village." />
+  <keys prop="Description" type="monster" key="dialog_9031521_title" value="Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031521_text0" value="Como mencionei anteriormente, nossa cidade se sustenta de maneira similar à Fortaleza de Ithilis do Reino de Hakanas.&lt;br&gt;Os Comerciantes Crokhoon, os representantes da nossa aldeia, milagrosamente trazem grandes quantidades de ouro, influenciando Turimnan e a Fortaleza de Ithilis." />
+  <keys prop="Description" type="monster" key="dialog_9031521_text0_attach_0" value="&lt;br&gt;Para mim é constrangedor, mas se você pensar bem, o verdadeiro líder desta aldeia é Rokun dos Comerciantes Crokhoon.&lt;br&gt;Todos são leais a ele." />
+  <keys prop="Description" type="monster" key="dialog_9031522_title" value="Valgas &lt;Crokhoon Protectorate&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031522_text0" value="Eu sou Valgas!&lt;br&gt;Assim que você se torna guarda de Rokun, aconteça o que acontecer, você deve protegê-lo.&lt;br&gt;Saia do meu caminho! Seu corpo gordo está bloqueando minha visão da área!" />
+  <keys prop="Description" type="monster" key="dialog_9031522_answer_0_text" value="Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031522_answer_1_text" value="Os Problemas de Rokun" />
+  <keys prop="Description" type="monster" key="dialog_9031523_title" value="Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031523_text0" value="O quê? Blasfêmia! Como é possível que você não saiba nada sobre os Comerciantes de Crokhoon?!&lt;br&gt;Nós, os comerciantes com a maior influência na região toda de Turimnan em relação ao dinheiro.&lt;br&gt;Na verdade, pode-se dizer que nós dominamos a economia da região." />
+  <keys prop="Description" type="monster" key="dialog_9031524_title" value="Os Problemas de Rokun" />
+  <keys prop="Description" type="monster" key="dialog_9031524_text0" value="Did you know that the Red Hammer Ship recently fell near the Grand Canyon Village? A lot of people lost their lives.&lt;br&gt;&lt;br&gt;(I told him that I am a survivor of the tradgedy...)&lt;br&gt;&lt;br&gt;Unbelievable! You're a survivor? You must have been very strong." />
+  <keys prop="Description" type="monster" key="dialog_9031524_text0_attach_0" value="Anyway, Rokun has gotten nervous after that. I don't know why but the number of assailants that tried to kill Rokun increased in appearance.&lt;br&gt;Don't worry. As long as Valgas is here, they will never get to Rokun.&lt;br&gt;&lt;br&gt;Are you looking at Rokun?" />
+  <keys prop="Description" type="monster" key="dialog_9031525_title" value="Rokun &lt;Crokhoon Leader&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031525_text0" value="Boas-vindas ao Desfiladeiro Grandioso... Não, na verdade boas vindas aos Comerciantes Crokhoon. Eu sou o líder, Rokun dos Comerciantes Crokhoon.&lt;br&gt;&lt;br&gt;Se você precisar de alguma coisa relacionada ao comércio, venha até mim. Não precisa nem ser ouro, também fazemos escambo aqui." />
+  <keys prop="Description" type="monster" key="dialog_9031525_answer_0_text" value="Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031525_answer_1_text" value="Por Que Eu Comecei os Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031525_answer_2_text" value="Shizu, o Assistente" />
+  <keys prop="Description" type="monster" key="dialog_9031526_title" value="Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031526_text0" value="The Crokhoon Merchants are the only merchants that have succeeded in Turimnan.&lt;br&gt;Some people say it's because of my success as Rokun but I don't think so.&lt;br&gt;The Crokhoon Merchant is successful because of all the traders that have sacrficed blood, sweat, and tears for us all.&lt;br&gt;If it weren't for them, we wouldn't exist." />
+  <keys prop="Description" type="monster" key="dialog_9031527_title" value="Por Que Eu Comecei os Crokhoon" />
+  <keys prop="Description" type="monster" key="dialog_9031527_text0" value="Como você pode perceber pela minha aparência, não sou humano.&lt;br&gt;Embora seja esse o caso, isso não importou para a nobreza da sociedade humana. Foi por causa da influência incrível do meu padrasto humano.&lt;br&gt;Oh, mas não, não tenho sangue humano." />
+  <keys prop="Description" type="monster" key="dialog_9031527_text0_attach_0" value="Ele era muito caridoso. Ele estava viajando a trabalho quando ele me encontrou e me adotou por eu ser uma vítima da guerra.&lt;br&gt;Eu queria fazer uma guilda para ajudar outros, assim posso retribuir." />
+  <keys prop="Description" type="monster" key="dialog_9031528_title" value="Shizu, o Assistente" />
+  <keys prop="Description" type="monster" key="dialog_9031528_text0" value="We do have a problem these days here.&lt;br&gt;Yeah, sure, I'm worried that there are more and more people looking to cut my head off my body but there's a much more serious issue than that.&lt;br&gt;&lt;br&gt;(What issue could be much worse than that? I ask him what's wrong...)&lt;br&gt;&lt;br&gt;It's my assistant. I think she's really sick but doesn't show it even though her appearance has already started to change her.&lt;br&gt;How will I be able to cure her?" />
+  <keys prop="Description" type="monster" key="dialog_9031529_title" value="Shizu (Secretário de Rokun)" />
+  <keys prop="Description" type="monster" key="dialog_9031529_text0" value="Estou trabalhando na coleta e gerenciamento de informações relacionadas aos Comerciantes Crokhoon como Secretário de Rokun.&lt;br&gt;Se você quer falar sobre a guilda, eu gostaria que você falasse comigo primeiro antes de falar com Rokun." />
+  <keys prop="Description" type="monster" key="dialog_9031529_answer_0_text" value="Por Que Eu Me Tornei Secretário de Rokun" />
+  <keys prop="Description" type="monster" key="dialog_9031530_title" value="Por Que Eu Me Tornei Secretário de Rokun" />
+  <keys prop="Description" type="monster" key="dialog_9031530_text0" value="Rokun asked me to be his secretary because of my elegant beauty. Yes, those that praise my beauty are from all over the world. I personally think that Rokun is the best person among them which is why I decided to work under him. Oh ho ho ho ho!&lt;br&gt;&lt;br&gt;(She is a strange woman...)" />
+  <keys prop="Description" type="monster" key="dialog_9031531_title" value="Cecil &lt;Ithilis Supply Captain&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031531_text0" value="O que você acha do meu bando de abastecimento, hein?&lt;br&gt;Você já pensou em amparar Ithilis?&lt;br&gt;Se sim, talvez você queira visitar a fortaleza e não esta estação.&lt;br&gt;Tudo relacionado ao recrutamento de tropas está sob o comando de Henry." />
+  <keys prop="Description" type="monster" key="dialog_9031531_answer_0_text" value="Situação do Abastecimento" />
+  <keys prop="Description" type="monster" key="dialog_9031532_title" value="Situação do Abastecimento" />
+  <keys prop="Description" type="monster" key="dialog_9031532_text0" value="Você sabe o que fazemos, certo?&lt;br&gt;Como você pode imaginar, o bando funciona como uma distribuidora de suprimentos em Ithilis.&lt;br&gt;Amparamos todos por aqui, incluindo a fortaleza." />
+  <keys prop="Description" type="monster" key="dialog_9031532_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Embora haja um problema com a distribuição, ela não está funcionando tão bem como funcionou nos últimos anos.&lt;br&gt;A maior parte dos territórios de Ithilis já foi invadida pelo Reino dos Insetos e todas as rotas de abastecimento foram bloqueadas." />
+  <keys prop="Description" type="monster" key="dialog_9031533_title" value="Henry &lt;Commander of Ithilis&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031533_text0" value="Boas-vindas à Fortaleza de Ithilis.&lt;br&gt;Sou Henry, o comandante de Ithilis.&lt;br&gt;Não posso dizer se serei capaz de dormir novamente por causa desta situação horrenda em que estamos." />
+  <keys prop="Description" type="monster" key="dialog_9031533_answer_0_text" value="Situação da Fortaleza" />
+  <keys prop="Description" type="monster" key="dialog_9031534_title" value="Situação da Fortaleza" />
+  <keys prop="Description" type="monster" key="dialog_9031534_text0" value="I think you already know the situation but since you're curious, let me explain.&lt;br&gt;As of now, the fortress is struggling in preventing the invasion of the Insect Kingdom.&lt;br&gt;What's worse is that they've already taken much of the territory.&lt;br&gt;I blame myself, this never should have happened if I've done better." />
+  <keys prop="Description" type="monster" key="dialog_9031535_title" value="Hansen &lt;Patrulheiro de Ithilis&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031535_text0" value="Eu estou monitorando a movimentação do Reino dos Insetos com meus colegas por ordem de Henry.&lt;br&gt;Desculpe-me por não poder falar muito agora." />
+  <keys prop="Description" type="monster" key="dialog_9031536_title" value="Igor &lt;Kurodian's Deputy&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031536_text0" value="Já chega!&lt;br&gt;Não faz sentido que não exista uma única pessoa neste pedaço de terra que possa tirar Kurodian do cativeiro.&lt;br&gt;Inúteis, todos vocês!&lt;br&gt;Quando tudo isso acabar, farei vocês pagarem!" />
+  <keys prop="Description" type="monster" key="dialog_9031536_answer_0_text" value="Causa da Guerra Civil" />
+  <keys prop="Description" type="monster" key="dialog_9031537_title" value="Causa da Guerra Civil" />
+  <keys prop="Description" type="monster" key="dialog_9031537_text0" value="Você é imbecil? Você já não deveria saber disso quando decidiu vir para cá?&lt;br&gt;Escute aqui. Havia um traidor no Reino dos Insetos, Salazar. Ele nos traiu depois de conseguir poder de Zelnaris, o Deus da Ruína. Ele é um estorvo para Kurodian. Você precisa matá-lo por Kurodian! Mate-o!" />
+  <keys prop="Description" type="monster" key="dialog_9031538_title" value="Kurodian &lt;Witch of Turimnan&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031538_text0" value="Ei! Sim! Sim, você! Você pode por favor me tirar daqui? Eu prometo que você não vai se arrepender." />
+  <keys prop="Description" type="monster" key="dialog_9031539_title" value="Kurodian &lt;Witch of Turimnan&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031539_text0" value="You're the first person that tried to save me...&lt;br&gt;Actually, second person that tried, but the first person that succeeded.&lt;br&gt;Anyway, tell me what did you want to do with me for saving me? I'm sure there's something I can offer you, darling.&lt;br&gt;Something only a real woman can give. Hahaha!" />
+  <keys prop="Description" type="monster" key="dialog_9031539_answer_0_text" value="Sobre Kurodian" />
+  <keys prop="Description" type="monster" key="dialog_9031539_answer_1_text" value="Sobre Salazar" />
+  <keys prop="Description" type="monster" key="dialog_9031540_title" value="Sobre Kurodian" />
+  <keys prop="Description" type="monster" key="dialog_9031540_text0" value="Oh? Você quer saber mais sobre mim?&lt;br&gt;Espere até hoje a noite e eu mostrarei a você algo sobre mim...&lt;br&gt;Huh? Você corou.&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031540_text0_attach_0" value="Tudo bem. Vou parar com as brincadeiras e me apresentar adequadamente.&lt;br&gt;Meu nome é Kurodian. O Reino dos Insetos me chama de Bruxa de Turimnan. Dediquei a minha vida a exterminar Salazar e seus lacaios de uma vez por todas!&lt;br&gt;E...&lt;br&gt;Eu espero que alguém me ame pelo o que eu sou!&lt;br&gt;Agora você sabe qual tipo de mulher eu sou." />
+  <keys prop="Description" type="monster" key="dialog_9031541_title" value="Guarda Axel" />
+  <keys prop="Description" type="monster" key="dialog_9031541_text0" value="Olá!&lt;br&gt;Esta é uma área perigosa e não é permitido o acesso de pessoas não autorizadas.&lt;br&gt;&lt;br&gt;Isto é para sua segurança." />
+  <keys prop="Description" type="monster" key="dialog_9031542_title" value="Subordinada Kendall" />
+  <keys prop="Description" type="monster" key="dialog_9031542_text0" value="Sempre sonhei em trabalhar na Travessia de Hakain, mas ao invés de ser enviada para lá, me mandaram para Turimnan.&lt;br&gt;&lt;br&gt;Pensando bem, eu deveria é ter me tornado fazendeira em minha cidade natal." />
+  <keys prop="Description" type="monster" key="dialog_9031543_title" value="Exploration Team Ivin (inside the grave of the Wyrm)" />
+  <keys prop="Description" type="monster" key="dialog_9031543_text0" value="Ah, meu Deus! Muito obrigado!" />
+  <keys prop="Description" type="monster" key="dialog_9031544_title" value="Exploration Daewon Ei Bin (The Tomb of the Wyrm Portal)" />
+  <keys prop="Description" type="monster" key="dialog_9031544_text0" value="Agradeça a Deusa!&lt;br&gt;&lt;br&gt;Eu encontrei um portal para o laboratório de Kurodian.&lt;br&gt;Ele parece ser ativado por uma determinada condição, mas não sei qual.&lt;br&gt;Felizmente, eu sou capaz de operá-lo. É só dizer a hora de ir até Kurodian." />
+  <keys prop="Description" type="monster" key="dialog_9031545_title" value="Exploration Daewon Ibin (entrance to the tomb of the Wyrmons)" />
+  <keys prop="Description" type="monster" key="dialog_9031545_text0" value="Pensei que eu nunca mais sentiria o sol e o vento no meu rosto.&lt;br&gt;Nunca mais tomarei como certas as pequenas coisas da vida." />
+  <keys prop="Description" type="monster" key="dialog_9031546_title" value="Lojista Morrow &lt;Tumba do Wyrm&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031546_text0" value="Eu nunca mais serei impulsivo assim." />
+  <keys prop="Description" type="monster" key="dialog_9031547_title" value="Lojista Morrow &lt;Tumba do Wyrm&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031547_text0" value="É como se eu tivesse renascido!&lt;br&gt;Estou com vergonha de como eu tenho sido um fardo para você." />
+  <keys prop="Description" type="monster" key="dialog_9031548_title" value="Comerciante Hammeron" />
+  <keys prop="Description" type="monster" key="dialog_9031548_text0" value="Mercantilismo!&lt;br&gt;Que palavra bonita.&lt;br&gt;&lt;br&gt;O dinheiro não traz felicidade? Se você não tem dinheiro, você pode nunca ser feliz." />
+  <keys prop="Description" type="monster" key="dialog_9031549_title" value="Pesquisadora Serena" />
+  <keys prop="Description" type="monster" key="dialog_9031549_text0" value="Looking back in the past and analyze it in the present to apply in in the future. That's my motto.&lt;br&gt;&lt;br&gt;We may not be able to change the past but we can certainly change the future.&lt;br&gt;The past can be abandoned for a better more comfortable future.&lt;br&gt;&lt;br&gt;Does the past create the future? No one would want to live in a dark future." />
+  <keys prop="Description" type="monster" key="dialog_9031551_title" value="Guvan &lt;Red Hammer Ship Captain&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031551_text0" value="O navio mais rápido do mundo. Boas-vindas ao Martelo Vermelho. &lt;br&gt; Meu nome é Guvan. Por circunstâncias desconhecidas, a pessoa que era originalmente o capitão do navio abandonou o posto e decidiu me nomear como o novo capitão deste navio.&lt;br&gt; Nós somos os únicos do Reino de Hakanas que vão para Magmafora, com o trabalho de transporte de passageiros e carga.&lt;br&gt; Espero que tenha uma viagem confortável." />
+  <keys prop="Description" type="monster" key="dialog_9031551_answer_0_text" value="Ir para Magmafora" />
+  <keys prop="Description" type="monster" key="dialog_9031552_title" value="Guvan &lt;Red Hammer Ship Captain&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031552_text0" value="I'm sorry! I have nothing else to say...&lt;br&gt;As a captain, I should have let all the passengers leave before myself, but I selfishly let myself out first because I wanted to live.&lt;br&gt;Everything was happening so fast, I panicked! I won't beg for my life. I'll accept any punishment that I deserve. I only wish that you'd forgive me." />
+  <keys prop="Description" type="monster" key="dialog_9031553_title" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9031553_text0" value="Temporary ambassador" />
+  <keys prop="Description" type="monster" key="dialog_9031554_title" value="Penelope" />
+  <keys prop="Description" type="monster" key="dialog_9031554_text0" value="Temporary ambassador" />
+  <keys prop="Description" type="monster" key="dialog_9031555_title" value="Marinheiro Morto &lt;Red Hammer Sailor&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031555_text0" value="Temporary ambassador" />
+  <keys prop="Description" type="monster" key="dialog_9031556_title" value="Marinheiro Ferido &lt;Red Hammer Sailor&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031556_text0" value="Temporary ambassador" />
+  <keys prop="Description" type="monster" key="dialog_9031557_title" value="Sacerdotisa Yana &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031557_text0" value="Temporary ambassador" />
+  <keys prop="Description" type="monster" key="dialog_9031558_title" value="Salazar" />
+  <keys prop="Description" type="monster" key="dialog_9031558_text0" value="Who's Salazar?&lt;br&gt;&lt;br&gt;Once upon a time, he was a chemist that represented the Insect Kingdom but now he's just trash that serves Zelnaris.&lt;br&gt;The worst part is that he's stolen the heart of someone I love and has caused all the chaos happening in this land.&lt;br&gt;He's nothing but a cockroach that needs to die." />
+  <keys prop="Description" type="monster" key="dialog_9031559_title" value="Catherine &lt;Head of the Arcanum&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031559_text0" value="Só há um motivo para o Arcano investigar a Floresta de Aklan.&lt;br&gt;É proteger o povo do Reino de Hakanas que sofre em Turimnan.&lt;br&gt;Por isso, temos que descobrir o que está causando a anomalia de insetos em Turimnan, custe o que custar." />
+  <keys prop="Description" type="monster" key="dialog_9031559_answer_0_text" value="Sobre a Investigação" />
+  <keys prop="Description" type="monster" key="dialog_9031560_title" value="Sobre a Investigação" />
+  <keys prop="Description" type="monster" key="dialog_9031560_text0" value="The investigation is going along smoothly.&lt;br&gt;This, of course, also means that our researchers may lose their lives or injure themselves.&lt;br&gt;But I want to be honest, I don't want anyone to get hurt anymore.&lt;br&gt;But as long as you have to investigate in the middle of a war, you need to have some sort of strong determination to push through." />
+  <keys prop="Description" type="monster" key="dialog_9031561_title" value="Tasha &lt;Investigation Team - Arcanum&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031561_text0" value="Yaah! Você me pegou de surpresa!&lt;br&gt;&lt;br&gt;(Ela realmente parece surpresa...)&lt;br&gt;&lt;br&gt;Huuuh, você não assusta Tasha!" />
+  <keys prop="Description" type="monster" key="dialog_9031561_answer_0_text" value="A Entonação de Tasha" />
+  <keys prop="Description" type="monster" key="dialog_9031562_title" value="A Entonação de Tasha" />
+  <keys prop="Description" type="monster" key="dialog_9031562_text0" value="Huuh? A entonação de Tasha é estranha?&lt;br&gt;Hmmm... É estranha a maneira que Tasha fala?&lt;br&gt;Hmmm....&lt;br&gt;&lt;br&gt;(Acho melhor parar de perguntar...)" />
+  <keys prop="Description" type="monster" key="dialog_9031563_title" value="Silveth &lt;Assistente de Jarad&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031563_text0" value="Eu não sou o inimigo. Não seja tão crítico.&lt;br&gt;Meu nome é Silveth. Eu sou do Reino dos Insetos&lt;br&gt;Eu tenho algo a dizer, estou ajudando a Equipe de Investigação do Arcano." />
+  <keys prop="Description" type="monster" key="dialog_9031563_answer_0_text" value="Motivos" />
+  <keys prop="Description" type="monster" key="dialog_9031564_title" value="Motivos" />
+  <keys prop="Description" type="monster" key="dialog_9031564_text0" value="Most of the people think that the reason why the Ancient Kingdom of Turimnan was destroyed was because of the Wizard Raken, but in fact, I think it was because of the growing hostility between the Hakanas Kingdom and the Insect Kingdom that caused this.&lt;br&gt;I'm ready to do whatever it takes to uncover this conspiracy which is why I'm aiding the Investigation Team of Arcanum." />
+  <keys prop="Description" type="monster" key="dialog_9031565_title" value="Jarad &lt;Insect King&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031565_text0" value="(Ele parece estar preso em seus pensamentos...)" />
+  <keys prop="Description" type="monster" key="dialog_9031566_title" value="Silveth &lt;Assistente de Jarad&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031566_text0" value="Eu percebi que o motivo da rivalidade entre os dois reinos começou com Salazar.&lt;br&gt;O desentendimento entre eles agora pode ser resolvido, voltando ao relacionamento pacífico.&lt;br&gt;Mas, é claro, eu entendo que este é um processo longo e difícil por causa da duração da guerra, mas isso não importa." />
+  <keys prop="Description" type="monster" key="dialog_9031566_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Eu acho que não existe nada melhor do que o que nós fizemos... O primeiro passo em direção à paz e prosperidade.&lt;br&gt;&lt;br&gt;Em nome do Reino dos Insetos, eu gostaria de agradecer por tudo." />
+  <keys prop="Description" type="monster" key="dialog_9031567_title" value="Sasha &lt;Assistente de Ani&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031567_text0" value="Meu nome é Sasha.&lt;br&gt;Sou assistente de um dos acólitos de Chimer.&lt;br&gt;Eu preciso levar você a ela assim que possível, &lt;UserName&gt;." />
+  <keys prop="Description" type="monster" key="dialog_9031568_title" value="Ani &lt;Acólito de Chimer&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031568_text0" value="Olá, sou acólita e mensageira de Chimer.&lt;br&gt;Ela me disse para ficar na Aldeia do Desfiladeiro Grandioso e ajudar você, &lt;UserName&gt;.&lt;br&gt;Eu vim aqui para cumprir a profecia que foi mostrada.&lt;br&gt;Espero que minha presença seja uma grande ajuda em ambos os nossos futuros." />
+  <keys prop="Description" type="monster" key="dialog_9031568_answer_0_text" value="Relacionamento com Chimer" />
+  <keys prop="Description" type="monster" key="dialog_9031569_title" value="Relacionamento com Chimer" />
+  <keys prop="Description" type="monster" key="dialog_9031569_text0" value="Por hora, sou a mensageira de Chimer por vir para esta aldeia para ajudar você. Mas como acólita de Chimer, estou me preparando para me tornar uma profeta um dia." />
+  <keys prop="Description" type="monster" key="dialog_9031570_title" value="Sasha &lt;Assistente de Ani&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031570_text0" value="Já que vou ficar aqui por um tempo, vou tentar achar maneiras de ajudar você, &lt;UserName&gt;.&lt;br&gt;Tenho certeza que pensarei em algo bom." />
+  <keys prop="Description" type="monster" key="dialog_9031571_title" value="Jarad &lt;Insect King&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031571_text0" value="Human beings. The war itself has finally come to this place and it has expected you to suffer.&lt;br&gt;&lt;br&gt;But when I finally understood one of the humans, they were so different from what I initially thought. It seems that the misunderstanding due to the war has caused much tension and mistrust." />
+  <keys prop="Description" type="monster" key="dialog_9031572_title" value="Ahmak &lt;Capitão Sentinela&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031572_text0" value="As forças do inimigo estão quase no limite de nossas defesas.&lt;br&gt;Se perdermos esta última linha de defesa, a fortaleza cairá." />
+  <keys prop="Description" type="monster" key="dialog_9031573_title" value="Penzar Prateado" />
+  <keys prop="Description" type="monster" key="dialog_9031573_text0" value="Soldados inúteis! Eles não conseguem nem me trazer remédio para um simples resfriado!&lt;br&gt;Estou com muito frio...&lt;br&gt;Ughh, eu tenho que ir para a Travessia de Hakain para me tratar.&lt;br&gt;&lt;br&gt;(Eu não acho que ajudá-lo seja uma boa ideia...)" />
+  <keys prop="Description" type="monster" key="dialog_9031574_title" value="Penzar Prateado" />
+  <keys prop="Description" type="monster" key="dialog_9031574_text0" value="Estou com muito frio...&lt;br&gt;&lt;br&gt;(Parece que ele ainda esta resfriado...)" />
+  <keys prop="Description" type="monster" key="dialog_9031575_title" value="Elizabeth" />
+  <keys prop="Description" type="monster" key="dialog_9031575_text0" value="Oh, por favor... Por favor, me ajude...&lt;br&gt;Por favor, salve meu marido, por favor..." />
+  <keys prop="Description" type="monster" key="dialog_9031576_title" value="Elizabeth" />
+  <keys prop="Description" type="monster" key="dialog_9031576_text0" value="Meu marido está doente e morrendo...&lt;br&gt;Se ele se for, eu também morro..." />
+  <keys prop="Description" type="monster" key="dialog_9031577_title" value="Clausewitz" />
+  <keys prop="Description" type="monster" key="dialog_9031577_text0" value="(Talvez eu possa salvá-lo se eu fizer algo...)" />
+  <keys prop="Description" type="monster" key="dialog_9031578_title" value="Clausewitz" />
+  <keys prop="Description" type="monster" key="dialog_9031578_text0" value="(Ele está respirando lentamente... Ele não está nada bem...)" />
+  <keys prop="Description" type="monster" key="dialog_9031579_title" value="Flore &lt;Investigation Team - Arcanum&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031579_text0" value="Ugh! Eu não quero me envolver nesta pesquisa, mas não quero que meus superiores achem que não sou capaz de pesquisar." />
+  <keys prop="Description" type="monster" key="dialog_9031580_title" value="Croat &lt;Insect Kingdom&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031580_text0" value="Sou Croat do Reino dos Insetos.&lt;br&gt;Eu vim aqui para prender os rebeldes sob julgamento do rei." />
+  <keys prop="Description" type="monster" key="dialog_9031581_title" value="Gubami Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9031581_text0" value="O que é isso, humano?&lt;br&gt;Huh? Alguém pediu para você me proteger?&lt;br&gt;&lt;br&gt;Hahahaha!&lt;br&gt;&lt;br&gt;Não se preocupe. Gubami Lebrini não morre assim tão fácil.&lt;br&gt;Eu posso voltar para casa em segurança. Não se preocupe muito." />
+  <keys prop="Description" type="monster" key="dialog_9031582_title" value="Cayde" />
+  <keys prop="Description" type="monster" key="dialog_9031582_text0" value="Ahh! Ajude-me!" />
+  <keys prop="Description" type="monster" key="dialog_9031583_title" value="Cayde" />
+  <keys prop="Description" type="monster" key="dialog_9031583_text0" value="Ufa! Minha vida poderia ter acabado ali mesmo.&lt;br&gt;Assim que eu relatar todas as informações que consegui no Reino dos Insetos, minha missão finalmente acabará.&lt;br&gt;Não terei que fazer mais nada pelo resto da minha vida." />
+  <keys prop="Description" type="monster" key="dialog_9031584_title" value="Servo do Rei dos Insetos" />
+  <keys prop="Description" type="monster" key="dialog_9031584_text0" value="Eu sou um servo do povo do Reino dos Insetos.&lt;br&gt;Eu nunca fiz mais nada além de servir.&lt;br&gt;Espero que os outros pensem bem de mim." />
+  <keys prop="Description" type="monster" key="dialog_9031585_title" value="Curalan" />
+  <keys prop="Description" type="monster" key="dialog_9031585_text0" value="A floresta está brava!&lt;br&gt;A montanha está brava!&lt;br&gt;O oceano está bravo!&lt;br&gt;Aproveite!!!&lt;br&gt;&lt;br&gt;(Isto não parece bom...)" />
+  <keys prop="Description" type="monster" key="dialog_9031586_title" value="Patrulheiro Kips &lt;Insect Kingdom&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031586_text0" value="Um Lebrini que visitou o reino desapareceu.&lt;br&gt;Isso não é nada bom." />
+  <keys prop="Description" type="monster" key="dialog_9031587_title" value="Patrulheiro Iowa &lt;Insect Kingdom&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031587_text0" value="Eu não quero morrer, eu não quero morrer..." />
+  <keys prop="Description" type="monster" key="dialog_9031588_title" value="Clack Domado &lt;Familiar de Romanson&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031588_text0" value="(O familiar de Romanson. É bem rápido para sua espécie.)&lt;br&gt;O que aconteceu?" />
+  <keys prop="Description" type="monster" key="dialog_9031588_answer_0_text" value="Mover para a Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="dialog_9031589_title" value="Santuário de Trânsito de Sasha" />
+  <keys prop="Description" type="monster" key="dialog_9031589_text0" value="É um Santuário de Trânsito conjurado pelo poder mágico de Sasha.&lt;br&gt;Qualquer um que o usa é automaticamente movido para a Aldeia do Desfiladeiro Grandioso." />
+  <keys prop="Description" type="monster" key="dialog_9031589_answer_0_text" value="Mover para a Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="dialog_9031590_title" value="Porus" />
+  <keys prop="Description" type="monster" key="dialog_9031590_text0" value="Há rumores que insetos não identificados estejam aparecendo na aldeia.&lt;br&gt;&lt;br&gt;Eles ficam perguntando sobre o paradeiro de Rokun." />
+  <keys prop="Description" type="monster" key="dialog_9031591_title" value="Arqueologista Zamwa" />
+  <keys prop="Description" type="monster" key="dialog_9031591_text0" value="Lalala lala~!&lt;br&gt; Eu sou o Arqueólogo do Reino de Hakanas!&lt;br&gt;&lt;br&gt;Eu estudo tudo o que é ancestral sobre Turimnan, especialmente o Antigo Reino.&lt;br&gt;Se durante suas viagens você achar algo dessa época, não se esqueça de falar comigo~." />
+  <keys prop="Description" type="monster" key="dialog_9031592_title" value="Alma Anciã &lt;Livro de Registros&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031592_text0" value="What? You want to know about the power of Salazar? All I know is that Salazar created friction between the two kingdoms.&lt;br&gt;This friction became the spark of war that soon after destroyed Turimnan.&lt;br&gt;He acquired some sort of unidentified power of evil of which I have no clue." />
+  <keys prop="Description" type="monster" key="dialog_9031593_title" value="Yummi Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9031593_text0" value="Achei vocêêê~!&lt;br&gt;Sou Yummi Lebrini! Eu amo todas as coisas pequeninas e fofas do mundo! &lt;br&gt;Minha coisa favorita é a boneca rosa pêssego, então por favor traga uma para mim!~.&lt;br&gt;&lt;br&gt;Os itens que tenho são limitados, então não deixe de ver todos!" />
+  <keys prop="Description" type="monster" key="dialog_9031593_answer_0_text" value="Loja Secreta de Yummi Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_9031636_title" value="Danny &lt;Operations Chief&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031636_text0" value="Olá.&lt;br&gt;Sou o Chefe de Operações da Fortaleza de Ithilis&lt;br&gt;&lt;br&gt;Os ataques da Legião dos Insetos estão cada vez mais frequentes.&lt;br&gt;Tenha cuidado." />
+  <keys prop="Description" type="monster" key="dialog_9031637_title" value="Izar, o Vira-Casaca" />
+  <keys prop="Description" type="monster" key="dialog_9031637_text0" value="A Legião dos Insetos é corrupta.&lt;br&gt;Um exército corrupto mais cedo ou mais tarde entra em colapso.&lt;br&gt;&lt;br&gt;Eu fiz o certo em deixá-la." />
+  <keys prop="Description" type="monster" key="dialog_9031635_title" value="Makaru &lt;Capitão de Segurança da Prisão&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9031635_text0" value="Hek hek hek hek...&lt;br&gt;Eu não acredito nem nos humanos, nem nos insetos...&lt;br&gt;Os humanos são mais horripilantes do que aparentam ser. Hek hek hek...&lt;br&gt;Eu acho isto muito conveniente para eles..." />
+  <keys prop="Description" type="monster" key="dialog_9031638_title" value="Santuário de Trânsito para a Floresta de Brakarr" />
+  <keys prop="Description" type="monster" key="dialog_9031638_text0" value="Um Santuário de Trânsito direto para a Floresta de Brakarr." />
+  <keys prop="Description" type="monster" key="dialog_9031638_answer_0_text" value="Mover para Floresta de Brakarr" />
+</files>

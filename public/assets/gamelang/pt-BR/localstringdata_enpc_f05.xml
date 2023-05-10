@@ -1,409 +1,818 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="E_D13_Sinsia_01" value="Cynthia" />
-  <keys type="npc" key="E_D13_Sinsia_02" value="Cynthia" />
-  <keys type="npc" key="E_D13_Sinsia_03" value="Cynthia Enlouquecida" />
-  <keys type="npc" key="E_D13_Sinsia_04" value="Cynthia Enlouquecida" />
-  <keys type="npc" key="E_D13_Jason_01" value="Jayce" />
-  <keys type="npc" key="E_D13_Jason_02" value="Jayce" />
-  <keys type="npc" key="E_D13_Jason_03" value="Jayce, o Perverso" />
-  <keys type="npc" key="E_D13_Jason_04" value="Jayce, o Perverso" />
-  <keys type="npc" key="E_D13_Devco_01" value="Mago Sombrio Nibar" />
-  <keys type="npc" key="E_D13_Devco_02" value="Mago Sombrio Nibar" />
-  <keys type="npc" key="E_D13_Devco_03" value="Mago Sombrio Nibar" />
-  <keys type="npc" key="E_D13_Devco_04" value="Mago Sombrio Nibar" />
-  <keys type="npc" key="E_D13_Chimera_01" value="Quimera" />
-  <keys type="npc" key="E_D13_Chimera_02" value="Quimera" />
-  <keys type="npc" key="E_D13_Chimera_03" value="Quimera" />
-  <keys type="npc" key="E_D13_Spirit_01" value="Altar da Destruição" />
-  <keys type="npc" key="E_D13_Magic_door_01" value="Esfera Primordial" />
-  <keys type="npc" key="E_D13_KingBat_01" value="Morcego Ancestral" />
-  <keys type="npc" key="E_D13_GagoTamp_01" value="Gárgula Subterrânea" />
-  <keys type="npc" key="E_D13_GagoRock_01" value="Gárgula de Pedra" />
-  <keys type="npc" key="E_D13_Fanasnipe_01" value="Vigilante Khabimista" />
-  <keys type="npc" key="E_D13_FanaDevo_01" value="Mago Khabimista" />
-  <keys type="npc" key="E_D13_CabePatro_01" value="Guarda Khabimista" />
-  <keys type="npc" key="E_D13_Cabeassa_01" value="Assassino Khabimista" />
-  <keys type="npc" key="E_D13_RebSold_01" value="Guardião de Relíquia Guerreiro" />
-  <keys type="npc" key="E_D13_RebWiz_01" value="Guardião de Relíquia Mago" />
-  <keys type="npc" key="E_D13_RebBow_01" value="Guardião de Relíquia Arqueiro" />
-  <keys type="npc" key="E_F05_0_0000_0002" value="Leopardo do Deserto" />
-  <keys type="npc" key="E_F05_ScorTong_001" value="Escorpião de Garra Gigante" />
-  <keys type="npc" key="E_F05_ScorTail_001" value="Escorpião Peçonhento" />
-  <keys type="npc" key="E_F05_BaldEagle_001" value="Abutre" />
-  <keys type="npc" key="E_F05_BaldThun_001" value="Aranha da Areia" />
-  <keys type="npc" key="E_F05_OstrichDC_001" value="Búfalo do Deserto" />
-  <keys type="npc" key="E_F05_EturSand_001" value="Tartaruga da Costa" />
-  <keys type="npc" key="E_F05_CrocOasi_001" value="Crocodilo do Mar" />
-  <keys type="npc" key="E_F05_Griffon_001" value="Grifo" />
-  <keys type="npc" key="E_F05_Griffon_002" value="Chanus" />
-  <keys type="npc" key="E_F05_Ceratops_001" value="Escorpião Peçonhento" />
-  <keys type="npc" key="E_F05_KingBat_001" value="Kibaren Dourado" />
-  <keys type="npc" key="E_F05_ScorTong_002" value="Vegarus" />
-  <keys type="npc" key="E_f05_DragFrost_001" value="Tolus" />
-  <keys type="npc" key="E_f05_UndeadBear_001" value="Urso Fantasma" />
-  <keys type="npc" key="E_f05_UndeadBull_001" value="Bisão Fantasma" />
-  <keys type="npc" key="E_f05_UndeadWolf_001" value="Lobo Fantasma" />
-  <keys type="npc" key="e_f05_Matura_001" value="Matura" />
-  <keys type="npc" key="E_f05_FatOwl00_001" value="Piyo" />
-  <keys type="npc" key="E_f05_CaspCat_001" value="Martina" />
-  <keys type="npc" key="E_f05_LTurt00_001" value="Sábia Deva" />
-  <keys type="npc" key="E_f05_Ceras00_001" value="Dinoceronte" />
-  <keys type="npc" key="E_f05_Raptor00_001" value="Bajanin" />
-  <keys type="npc" key="E_f05_FatOwl01_001" value="Toro Esperto" />
-  <keys type="npc" key="E_f05_Hydra00_001" value="Rutesh, o Poderoso" />
-  <keys type="npc" key="E_f05_Hydra01_001" value="Radesh, o Sábio" />
-  <keys type="npc" key="E_f05_Hydra02_001" value="Rodesh, o Cruel" />
-  <keys type="npc" key="E_f05_BoneCru00_001" value="Vonash" />
-  <keys type="npc" key="E_f05_FatOwl02_001" value="Poyo" />
-  <keys type="npc" key="E_f05_SandSaurs_001" value="Denbassauro" />
-  <keys type="npc" key="E_f05_LTurt01_001" value="Aliba" />
-  <keys type="npc" key="E_f05_BoneCru01_001" value="Monoceros" />
-  <keys type="npc" key="E_f05_BoneCru02_001" value="Quebrador de Ossos" />
-  <keys type="npc" key="E_f05_Raptor01_001" value="Jabuti do Deserto" />
-  <keys type="npc" key="E_f05_Kangroo00_001" value="Esmagador de Ossos" />
-  <keys type="npc" key="E_f05_Rhino00_001" value="Andarilho das Teias da Ravina" />
-  <keys type="npc" key="E_f05_RaptBaja_001" value="Bajanin" />
-  <keys type="npc" key="E_F05_Taraku_001" value="Trinoceronte" />
-  <keys type="npc" key="E_F05_KingBat_002" value="Shakiba" />
-  <keys type="npc" key="E_F05_KingBat_003" value="Parente de Shakiba" />
-  <keys type="npc" key="E_F05_BoneCru03_001" value="Voknos" />
-  <keys type="npc" key="E_F05_BaldEagle_002" value="Abutre" />
-  <keys type="npc" key="E_F05_DragRaba_001" value="Grifo Mutante" />
-  <keys type="npc" key="E_D13_Tower_000" value="Pedra da Barreira de Skatrasha" />
-  <keys type="npc" key="e_f05_ImmoTalos_001" value="Talos Espinho Vermelho" />
-  <keys type="npc" key="e_f05_ImmoTalos_002" value="Talos Espinho Vermelho" />
-  <keys type="npc" key="e_f05_ImmoTalos_003" value="Talos Espinho Vermelho" />
-  <keys type="npc" key="e_f05_ImmoTalos_004" value="Talos Espinho Vermelho" />
-  <keys type="npc" key="e_f05_ImmoMorga_001" value="Morrigan Sombra Negra" />
-  <keys type="npc" key="e_f05_ImmoMorga_002" value="Morrigan Sombra Negra" />
-  <keys type="npc" key="e_f05_ImmoMorga_003" value="Morrigan Sombra Negra" />
-  <keys type="npc" key="e_f05_ImmoMorga_004" value="Morrigan Sombra Negra" />
-  <keys type="npc" key="e_f05_ImmoMerc_001" value="Executor Mercurius" />
-  <keys type="npc" key="e_f05_ImmoMerc_002" value="Executor Mercurius" />
-  <keys type="npc" key="e_f05_ImmoMerc_003" value="Executor Mercurius" />
-  <keys type="npc" key="e_f05_ImmoMerc_004" value="Executor Mercurius" />
-  <keys type="npc" key="E_F05_ScorTail_003" value="[Elite] Escorpião Peçonhento Gigante" />
-  <keys type="npc" key="E_F05_SnakRattl_003" value="[Elite] Cascavel Gigante do Deserto" />
-  <keys type="npc" key="E_F05_CactSand_002" value="[Elite] Cacto Gigante do Deserto" />
-  <keys type="npc" key="E_D13_RebSword_01" value="Protetor do Templo" />
-  <keys type="npc" key="E_F05_0_0000_0013" value="Leopardo do Deserto Capturado" />
-  <keys type="npc" key="E_F05_0_0000_0014" value="Leopardo do Deserto Capturado" />
-  <keys type="npc" key="E_F05_0_0000_0015" value="Leopardo do Deserto Capturado" />
-  <keys type="npc" key="E_F05_0_0000_0016" value="Leopardo do Deserto Capturado" />
-  <keys type="npc" key="E_D13_CabePatro_02" value="Guarda Khabimista" />
-  <keys type="npc" key="E_D13_Fanasnipe_02" value="Vigilante Khabimista" />
-  <keys type="npc" key="E_03_0_1000_0011" value="Soldado Mohaban" />
-  <keys type="npc" key="e_D06_ImmoSoldi_001" value="Saqueador Imortal" />
-  <keys type="npc" key="e_D06_ImmoSoldi_002" value="Saqueador Imortal" />
-  <keys type="npc" key="e_D06_ImmoSoldi_003" value="Saqueador Imortal" />
-  <keys type="npc" key="e_D06_ImmoSoldi_004" value="Saqueador Imortal" />
-  <keys type="npc" key="e_D06_ImmoSoldi_005" value="Saqueador Imortal" />
-  <keys type="npc" key="e_D06_ImmoKnigh_001" value="Defensor Imortal" />
-  <keys type="npc" key="e_D06_ImmoKnigh_002" value="Defensor Imortal" />
-  <keys type="npc" key="e_D06_ImmoKnigh_003" value="Defensor Imortal" />
-  <keys type="npc" key="e_D06_ImmoKnigh_004" value="Defensor Imortal" />
-  <keys type="npc" key="e_D06_ImmoImpsu_001" value="Invocador Imortal" />
-  <keys type="npc" key="e_D06_ImmoImpsu_002" value="Invocador Imortal" />
-  <keys type="npc" key="e_D06_ImmoImpsu_003" value="Invocador Imortal" />
-  <keys type="npc" key="e_D06_ImmoImpsu_004" value="Invocador Imortal" />
-  <keys type="npc" key="e_D06_ImmoMagi_001" value="Soldado Imortal do Mundo Sombrio" />
-  <keys type="npc" key="e_D06_ImmoMagi_002" value="Soldado Imortal do Mundo Sombrio" />
-  <keys type="npc" key="e_D06_ImmoMagi_003" value="Soldado Imortal do Mundo Sombrio" />
-  <keys type="npc" key="e_D06_ImmoMagi_004" value="Soldado Imortal do Mundo Sombrio" />
-  <keys type="npc" key="E_D06_Dimp_001" value="Diabinho Escravo" />
-  <keys type="npc" key="E_F05_Dimp_002" value="Trair" />
-  <keys type="npc" key="E_F05_Dimp_003" value="Revolta" />
-  <keys type="npc" key="E_D06_Dimp_002" value="Diabinho Escravo" />
-  <keys type="npc" key="E_D06_Dimp_003" value="Diabinho Escravo" />
-  <keys type="npc" key="E_D06_GhoulMdea_001" value="Imortal" />
-  <keys type="npc" key="E_D06_GhoulMdea_002" value="Imortal" />
-  <keys type="npc" key="E_D06_GhoulMdea_003" value="Imortal" />
-  <keys type="npc" key="E_D06_GhoulWdea_001" value="Imortal" />
-  <keys type="npc" key="E_D06_GhoulWdea_002" value="Imortal" />
-  <keys type="npc" key="E_D06_GhoulWdea_003" value="Imortal" />
-  <keys type="npc" key="E_D06_ZombSlave_001" value="Imortal" />
-  <keys type="npc" key="E_D06_ZombSlave_002" value="Imortal" />
-  <keys type="npc" key="E_D06_ZombSlave_003" value="Imortal" />
-  <keys type="npc" key="E_D06_ZombSlave_004" value="Imortal" />
-  <keys type="npc" key="E_D06_ZombSlave_005" value="Imortal" />
-  <keys type="npc" key="E_D13_SinsiaSh_01" value="Cynthia Enlouquecida" />
-  <keys type="npc" key="E_F05_SpirSpark_0001" value="Chefe Servo" />
-  <keys type="npc" key="E_F05_SpirWood_0001" value="Fada Serva" />
-  <keys type="npc" key="E_F05_WolfWild_0001" value="Sentinela de Shakiba" />
-  <keys type="npc" key="e_f04_ImmoGorak_003" value="Kranox" />
-  <keys type="npc" key="E_F05_Potpoison_000" value="Jarro de Veneno" />
-  <keys type="npc" key="E_F05_Statue_bro_000" value="Trabalho Póstumo de Claudel" />
-  <keys type="npc" key="e_f04_ImmoImpsu_010" value="Invocadora Sombria Megan" />
-  <keys type="npc" key="E_f03_0_0000_0020" value="Subordinado Leal" />
-  <keys type="npc" key="E_03_0_0013_0010" value="Alma Corrompida" />
-  <keys type="npc" key="E_f04_Spirwisp_010" value="Pensamento Corrompido" />
-  <keys type="npc" key="e_f04_ImmoHopli_010" value="Vigilante Sombrio" />
-  <keys type="npc" key="E_F05_KrokEngee_005" value="Caçador Crokhoon - Corrompido" />
-  <keys type="npc" key="E_F05_KrokGladi_006" value="Escolta Crokhoon - Corrompida" />
-  <keys type="npc" key="E_F05_KrokTaine_002" value="Lutador Crokhoon Corrompido" />
-  <keys type="npc" key="E_f05_BoneCru02_002" value="Sentinela Sombrio" />
-  <keys type="npc" key="E_D13_SinsiaSh_02" value="Cynthia Enlouquecida" />
-  <keys type="npc" key="E_F06_KrokHam_01" value="Vanguarda do Templo" />
-  <keys type="npc" key="E_F06_KrokBow_01" value="Arqueiro do Templo" />
-  <keys type="npc" key="e_f06_krokpries_01" value="Sacerdote do Templo" />
-  <keys type="npc" key="E_F06_KrokAsse_01" value="Matador do Templo" />
-  <keys type="npc" key="E_F06_KrokGladi_01" value="Cavaleiro do Templo" />
-  <keys type="npc" key="E_F06_Krokhatch_01" value="Saqueador do Templo" />
-  <keys type="npc" key="E_F06_KrokTrai_01" value="Mestre Leopardo do Templo" />
-  <keys type="npc" key="E_F06_KrokTrai_02" value="Mestre Escorpião do Templo" />
-  <keys type="npc" key="E_F06_Scorkni_01" value="Cavaleiro Escorpião do Templo" />
-  <keys type="npc" key="E_F06_ScorTail_01" value="Escorpião Peçonhento" />
-  <keys type="npc" key="E_F06_LeopSand_01" value="Leopardo do Deserto" />
-  <keys type="npc" key="E_03_0_0695_0010" value="Servo Ferido por Magia" />
-  <keys type="npc" key="E_03_0_0695_0011" value="Mão da Morte" />
-  <keys type="npc" key="E_51_0_1210_0010" value="Mão da Morte" />
-  <keys type="npc" key="E_03_0_1110_0010" value="Passit" />
-  <keys type="npc" key="E_03_0_1000_0012" value="Xamã da Destruição" />
-  <keys type="npc" key="E_03_0_0682_0011" value="Abelha Soldado do Deserto" />
-  <keys type="npc" key="E_03_0_0682_0012" value="Vespa do Deserto" />
-  <keys type="npc" key="E_03_0_0682_0013" value="Rainha da Colmeia" />
-  <keys type="npc" key="E_03_0_0682_0014" value="Guarda da Rainha" />
-  <keys type="npc" key="E_03_0_0694_0011" value="Ladrão de Túmulos do Templo" />
-  <keys type="npc" key="E_03_0_0694_0012" value="Revior Lebrini" />
-  <keys type="npc" key="e_f04_ImmoMagi_010" value="Mensageiro Infernal" />
-  <keys type="npc" key="e_f04_ImmoImpsu_011" value="Chablis" />
-  <keys type="npc" key="E_03_0_0002_0010" value="Eremita Esquecido" />
-  <keys type="npc" key="E_50_0_0718_0010" value="Caveira Sanguinária" />
-  <keys type="npc" key="E_f02_hufpub_g_010" value="Alma Inquieta" />
-  <keys type="npc" key="E_03_0_0104_0010" value="Sol Litorâneo" />
-  <keys type="npc" key="E_04_0_0678_0010" value="Crustáceo Primitivo" />
-  <keys type="npc" key="E_F05_CrocOasi01_001" value="Crocodilo do Oásis" />
-  <keys type="npc" key="E_f05_CaspCat_002" value="Pelinho Lustroso" />
-  <keys type="npc" key="E_f05_Chimpus_001" value="Chim" />
-  <keys type="npc" key="E_f05_Adelake00_001" value="Adelark" />
-  <keys type="npc" key="E_f05_Adelake01_001" value="Tulinum" />
-  <keys type="npc" key="E_F05_FloatDR_001" value="Guardião do Sol" />
-  <keys type="npc" key="E_F05_EturSand00_001" value="Javali do Deserto" />
-  <keys type="npc" key="E_f05_Ostrich00_001" value="Tritty" />
-  <keys type="npc" key="E_f05_Raptor00_002" value="Bajarn Chifrelongo" />
-  <keys type="npc" key="E_f05_BoneCru04_001" value="Vonash" />
-  <keys type="npc" key="E_D06_ZombSlave_006" value="Aquele Que Não Pode Morrer" />
-  <keys type="npc" key="E_D06_ZombSlave_007" value="Aquele Que Não Pode Morrer" />
-  <keys type="npc" key="E_D06_ZombSlave_008" value="Aquele Que Não Pode Morrer" />
-  <keys type="npc" key="E_D13_Magic_door_02" value="Esfera Primordial" />
-  <keys type="npc" key="E_D13_KingBat_02" value="Morcego Ancestral" />
-  <keys type="npc" key="E_D13_GagoTamp_02" value="Gárgula Subterrânea" />
-  <keys type="npc" key="E_D13_GagoRock_02" value="Gárgula de Pedra" />
-  <keys type="npc" key="E_D13_FanaDevo_02" value="Mago Khabimista" />
-  <keys type="npc" key="E_D13_Cabeassa_02" value="Assassino Khabimista" />
-  <keys type="npc" key="E_D13_RebSold_02" value="Guardião de Relíquia Guerreiro" />
-  <keys type="npc" key="E_D13_RebWiz_02" value="Guardião de Relíquia Mago" />
-  <keys type="npc" key="E_D13_RebBow_02" value="Guardião de Relíquia Arqueiro" />
-  <keys type="npc" key="E_D13_RebSword_02" value="Protetor do Templo" />
-  <keys type="npc" key="E_D13_CabePatro_04" value="Guarda Khabimista" />
-  <keys type="npc" key="E_D13_Fanasnipe_04" value="Vigilante Khabimista" />
-  <keys type="npc" key="E_D13_CabePatro_03" value="Guarda Khabimista" />
-  <keys type="npc" key="E_D13_Fanasnipe_03" value="Vigilante Khabimista" />
-  <keys type="npc" key="E_F05_GagoTampl_010" value="Gárgula Sombria" />
-  <keys type="npc" key="E_F05_GagoTampl_011" value="Gárgula Sombria" />
-  <keys type="npc" key="E_F05_cutscene_000" value="Gárgula Sombria" />
-  <keys type="npc" key="e_f04_ImmoGorak_004" value="Kranox" />
-  <keys type="npc" key="E_f05_BoneCru02_003" value="Sentinela Sombrio" />
-  <keys type="npc" key="E_F05_ImmoKnigh_002" value="Cavaleiro Sombrio da Legião Caída" />
-  <keys type="npc" key="E_F05_ImmoKnigh_003" value="Cavaleiro Sombrio da Legião Caída" />
-  <keys type="npc" key="E_F05_ImmoSoldi_002" value="Soldado Sombrio da Legião Caída" />
-  <keys type="npc" key="E_F05_ImmoSoldi_003" value="Soldado Sombrio da Legião Caída" />
-  <keys type="npc" key="E_F05_GagoRock_002" value="Gárgula de Pedra" />
-  <keys type="npc" key="E_F06_KrokAsse_02" value="Matador do Templo" />
-  <keys type="npc" key="E_F06_Scor_01" value="Escorpião de Garra Gigante" />
-  <keys type="npc" key="E_F06_ScorGladi_02" value="Cavaleiro Escorpião do Templo" />
-  <keys type="npc" key="E_F06_KrokGladi_02" value="Cavaleiro do Templo" />
-  <keys type="npc" key="E_F06_Krokhatch_02" value="Saqueador do Templo" />
-  <keys type="npc" key="E_F06_KrokPries_02" value="Sacerdote do Templo" />
-  <keys type="npc" key="E_04_0_0691_0003" value="Tartaruga Marinha Primitiva" />
-  <keys type="npc" key="E_F05_Quest_Cart_01" value="Espadachim Mohaban" />
-  <keys type="npc" key="E_F05_KrokEngee_006" value="[Elite] Colecionador de Corpos" />
-  <keys type="npc" key="E_F05_KrokBowma_004" value="[Elite] Caçador de Corpos" />
-  <keys type="npc" key="E_F05_KrokPries_003" value="[Elite] Xamã de Corpos" />
-  <keys type="npc" key="E_F05_KrokGladi_007" value="[Elite] Escultor de Corpos" />
-  <keys type="npc" key="E_f05_Kangroo00_002" value="[Elite] Vonash Domado" />
-  <keys type="npc" key="E_f05_UndeadBull_002" value="[Elite] Dinoceronte Domado" />
-  <keys type="npc" key="E_f05_UndeadBear_002" value="[Elite] Bajanin Domado" />
-  <keys type="npc" key="E_f05_UndeadWolf_002" value="[Elite] Dennivan Domada" />
-  <keys type="npc" key="E_F06_KrokBow_02" value="Arqueiro do Templo" />
-  <keys type="npc" key="E_f05_LTurt02_001" value="Dennivan" />
-  <keys type="npc" key="E_F05_KrokTaine_003" value="[Elite] Mestre de Corpos Corrompido" />
-  <keys type="npc" key="E_03_0_0676_0006" value="[Elite] Trabalhador Aranha Apodrecido" />
-  <keys type="npc" key="E_03_0_0695_0020" value="Subordinado Ressuscitado" />
-  <keys type="npc" key="E_F05_ImmoKnigh_005" value="Gladiador Sombrio da Legião Caída" />
-  <keys type="npc" key="E_F05_Gargonest_000" value="Estátua de Gárgula" />
-  <keys type="npc" key="E_F05_ImmoSoldi_004" value="Demônio Escondido" />
-  <keys type="npc" key="E_F05_KrokManac_002" value="Manaz'tuul" />
-  <keys type="npc" key="E_F05_ImmoSoldi_005" value="Soldado Sombrio da Legião Caída" />
-  <keys type="npc" key="E_F06_KrokHam_02" value="Vanguarda do Templo" />
-  <keys type="npc" key="E_F05_KrokEngee_007" value="Caçador Crokhoon de Elite Corrompido" />
-  <keys type="npc" key="E_D06_GhostL_001" value="Chaleira Errante" />
-  <keys type="npc" key="E_D06_GhostS_001" value="Alma de Outro Mundo" />
-  <keys type="npc" key="E_D06_UndeadWolf_001" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_UndeadWolf_002" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_UndeadWolf_003" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_UndeadWolf_004" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_UndeadWolf_005" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_UndeadWolf_006" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_DaemonWolf_001" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_DaemonWolf_002" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_DaemonWolf_003" value="Vonash Invocado" />
-  <keys type="npc" key="E_D06_DaemonWolf_004" value="Vonash Invocado" />
-  <keys type="npc" key="E_05_Sandpeli_000" value="Pelicano da Praia do Deserto" />
-  <keys type="npc" key="e_f06_scorgladi_01" value="Cavaleiro Escorpião do Templo" />
-  <keys type="npc" key="e_D06_ImmoSoldi_006" value="Saqueador Imortal Mobilizado" />
-  <keys type="npc" key="e_D06_ImmoKnigh_005" value="Defensor Imortal Mobilizado" />
-  <keys type="npc" key="E_F06_Trap_000" value="Armadilha" />
-  <keys type="npc" key="E_F06_Trap_001" value="Armadilha" />
-  <keys type="npc" key="E_F06_Trap_002" value="Armadilha" />
-  <keys type="npc" key="E_F06_Trap_003" value="Armadilha" />
-  <keys type="npc" key="E_F05_E02_mana" value="Infusor Mágico" />
-  <keys type="npc" key="E_D06_GhostL_002" value="Chaleira Errante" />
-  <keys type="npc" key="E_F05_GoleBreak_003" value="Espírito de Pedra" />
-  <keys type="npc" key="E_02_0_0040_0002" value="Chefe Guerreiro Korb" />
-  <keys type="npc" key="E_02_0_0042_0001" value="Saqueador Braghin do Deserto" />
-  <keys type="npc" key="E_02_0_0018_0001" value="Voluntário Braghin do Deserto" />
-  <keys type="npc" key="E_F05_KrokBowma_005" value="Sentinela Crokhoon Corrompido" />
-  <keys type="npc" key="E_F05_BaldEagle_003" value="Abutre Treinado" />
-  <keys type="npc" key="E_02_5_0001_0007" value="Balista Braghin do Deserto" />
-  <keys type="npc" key="E_03_5_0001_0010" value="Barricada Braghin do Deserto" />
-  <keys type="npc" key="E_F05_Dimp_004" value="Demos" />
-  <keys type="npc" key="E_F05_Dimp_005" value="Laherr" />
-  <keys type="npc" key="E_F05_GhosAM1_01" value="Espírito do Fogo" />
-  <keys type="npc" key="E_D13_zomb_01" value="Morto Atado" />
-  <keys type="npc" key="E_D13_zomb_02" value="Morto Atado" />
-  <keys type="npc" key="E_F05_E02_mana2" value="Infusor Mágico" />
-  <keys type="npc" key="E_03_0_0695_0012" value="Cobaia de Epidemia" />
-  <keys type="npc" key="E_f02_GhosSM1_0001" value="Guardião do Fogo" />
-  <keys type="npc" key="E_F05_MohabaS1_01" value="Espadachim Mohaban" />
-  <keys type="npc" key="E_F05_0_0000_0017" value="Leopardo do Deserto Capturado" />
-  <keys type="npc" key="E_F05_0_0000_0018" value="Leopardo do Deserto Capturado" />
-  <keys type="npc" key="E_d00_0_RunRab_0001" value="Roberto Colecionador de Relíquias" />
-  <keys type="npc" key="E_d00_0_RunRab_0002" value="Roberto Colecionador de Relíquias" />
-  <keys type="npc" key="E_d00_0_RunRab_0003" value="Roberto Colecionador de Relíquias" />
-  <keys type="npc" key="E_P02_Mphonix_001" value="Finion" />
-  <keys type="npc" key="E_P02_UGarmu_0001" value="Magnatu" />
-  <keys type="npc" key="E_P02_IroHors_0001" value="Calypos" />
-  <keys type="npc" key="E_P02_Ceras01_001" value="Sharack" />
-  <keys type="npc" key="E_P02_Garesha_001" value="Jamirot" />
-  <keys type="npc" key="E_P02_PoisCroc_001" value="Poelle" />
-  <keys type="npc" key="E_P02_BigScrop_001" value="Vemigus" />
-  <keys type="npc" key="E_P02_BatSnd_001" value="Hilber" />
-  <keys type="npc" key="E_P02_Eagle00_001" value="Gurion" />
-  <keys type="npc" key="E_P02_Firebird_001" value="Kunos" />
-  <keys type="npc" key="E_P02_DrRaba_001" value="Balor" />
-  <keys type="npc" key="E_p02_SkullH1_01" value="Soldado Inquieto" />
-  <keys type="npc" key="E_P02_SkulKnight_01" value="Espadachim Inquieto" />
-  <keys type="npc" key="E_p02_RebSword_01" value="Cavaleiro Inquieto" />
-  <keys type="npc" key="E_p02_CabeAshu_01" value="Comandante do Esquecimento" />
-  <keys type="npc" key="E_p02_SkulBlarc_01" value="Atirador Inquieto" />
-  <keys type="npc" key="E_p02_Spirwisp_01" value="Espectro Azul" />
-  <keys type="npc" key="E_p02_DeadBismo_01" value="Ranote" />
-  <keys type="npc" key="E_p02_DeadJeranin_01" value="Henok" />
-  <keys type="npc" key="E_p02_undergrass_01" value="Raiz de Seivavermelha" />
-  <keys type="npc" key="E_p02_underspir_01" value="Fada Arbórea Vermelha" />
-  <keys type="npc" key="E_p02_underrabi_01" value="Gatuno de Stygaea" />
-  <keys type="npc" key="E_p02_UnderRabu_01" value="Ladrão de Stygaea" />
-  <keys type="npc" key="E_p02_UnderRibi_01" value="Ribbi Ladrão de Túmulos" />
-  <keys type="npc" key="E_p02_UnAgMag_01" value="Espectro Psíquico" />
-  <keys type="npc" key="E_p02_UnAgHunt_01" value="Caçador de Espíritos" />
-  <keys type="npc" key="E_p02_UnAgMugl_01" value="Myrock" />
-  <keys type="npc" key="E_p02_VampBat_01" value="Morcego das Sombras do Esquecimento" />
-  <keys type="npc" key="E_p02_VampBat_02" value="Morcego das Sombras" />
-  <keys type="npc" key="E_p02_GagoTampl_01" value="Patrulheiro do Abismo Negro" />
-  <keys type="npc" key="E_p02_GhosAncien_01" value="Apanhador de Almas" />
-  <keys type="npc" key="E_p02_VampHecto_01" value="Mestre Atemporal" />
-  <keys type="npc" key="E_p02_VampLance_01" value="Guardião Atemporal" />
-  <keys type="npc" key="E_p02_VampLance_02" value="Casca Desalmada" />
-  <keys type="npc" key="E_p02_ZombSlave1_01" value="Leão Imortal" />
-  <keys type="npc" key="E_p02_SkullH1_02" value="Soldados da Destruição" />
-  <keys type="npc" key="E_P02_SkulKnight_02" value="Carniceiro Implacável" />
-  <keys type="npc" key="E_p02_RebSword_02" value="Espadachim Fugaz" />
-  <keys type="npc" key="E_p02_CabeAshu_02" value="Saqueador Passageiro" />
-  <keys type="npc" key="E_p02_SkulBlarc_02" value="Arqueiro Implacável" />
-  <keys type="npc" key="E_p02_RebSword_03" value="Alma" />
-  <keys type="npc" key="E_p02_Spirwisp_02" value="Espectro Sombrio" />
-  <keys type="npc" key="E_p02_Spirwisp_03" value="Espectro Vermelho" />
-  <keys type="npc" key="E_p02_ZombSlave_01" value="Leão Retorcido" />
-  <keys type="npc" key="E_p02_GhoulMdea_01" value="Peão Caótico" />
-  <keys type="npc" key="E_p02_GhoulWdea_01" value="Peão Caótico" />
-  <keys type="npc" key="E_F05_Fance_01" value="Portão de Ferro Superior" />
-  <keys type="npc" key="E_F05_Fance_02" value="Barreira do Templo" />
-  <keys type="npc" key="E_F05_Fance_03" value="Grande Cavidade da Pedra de Bloqueio" />
-  <keys type="npc" key="E_p02_GhosShrin_01" value="Anjo Atemporal" />
-  <keys type="npc" key="E_D22_Soldi_03" value="Guerreiro da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Knight_03" value="Cavaleiro da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Impsu_03" value="Invocador da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Magic_03" value="Xamã da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Hopli_03" value="Cavaleiro de Armadura Pesada da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Soldi_04" value="Guerreiro da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Knight_04" value="Cavaleiro da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Impsu_04" value="Invocador da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Magic_04" value="Xamã da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Hopli_04" value="Cavaleiro de Armadura Pesada da Fenda de Tritael" />
-  <keys type="npc" key="E_D22_Agul_02" value="Kagru" />
-  <keys type="npc" key="E_D22_ImmoUranu_002" value="O Quarto Guardião, Izhora" />
-  <keys type="npc" key="E_D22_FlyRay_003" value="Umax, o Devorador" />
-  <keys type="npc" key="E_D22_SpirtDC_003" value="Aura da Fenda Retorcida" />
-  <keys type="npc" key="E_D22_SpirtDC_004" value="Aura da Fenda Retorcida" />
-  <keys type="npc" key="E_D22_Elqu_02" value="Marnes" />
-  <keys type="npc" key="E_D22_Teran_03" value="Lorde da Fenda Lukadra" />
-  <keys type="npc" key="E_D22_Toomb_02" value="O Primeiro Guardião, Tenente Katura" />
-  <keys type="npc" key="E_D22_Gorak_04" value="O Segundo Guardião, Conselheiro Tarandra" />
-  <keys type="npc" key="E_D22_Lilis_02" value="Lorde da Fenda Lineth" />
-  <keys type="npc" key="E_D22_Lance_02" value="Tenente Jaron" />
-  <keys type="npc" key="E_D22_Lamb_02" value="Tenente Lemd" />
-  <keys type="npc" key="E_D22_flybabray_002" value="Kouooz" />
-  <keys type="npc" key="e_d22_magic_door_02" value="Sinal da Brecha" />
-  <keys type="npc" key="E_D22_stone_06" value="Plinto Caótico" />
-  <keys type="npc" key="E_D22_stone_07" value="Plinto Caótico" />
-  <keys type="npc" key="E_d22_stonespine_02" value="Barreira Fractal" />
-  <keys type="npc" key="E_D22_Gole_03" value="O Terceiro Guardião, Golem da Fenda de Tritael" />
-  <keys type="npc" key="E_P02_Mphonix_002" value="Finion" />
-  <keys type="npc" key="E_P02_UGarmu_0002" value="Magnatu" />
-  <keys type="npc" key="E_P02_IroHors_0002" value="Calypos" />
-  <keys type="npc" key="E_P02_Garesha_002" value="Jamirot" />
-  <keys type="npc" key="E_p02_CabeAshu_03" value="Alma Interna" />
-  <keys type="npc" key="E_p02_GhoulMdea_02" value="Servo Sem Alma" />
-  <keys type="npc" key="E_p02_GhoulWdea_02" value="Servo Sem Alma" />
-  <keys type="npc" key="E_p02_VampLance_03" value="Guarda Ganancioso" />
-  <keys type="npc" key="E_d03_CrabSkal_02" value="Skelian" />
-  <keys type="npc" key="E_p02_GhosAncien_02" value="Apanhador de Almas" />
-  <keys type="npc" key="E_D22_Impsu_05" value="Guardião Mágico" />
-  <keys type="npc" key="E_d03_Irmion_01" value="Arakan" />
-  <keys type="npc" key="E_d03_Devco_01" value="Guia da Angústia" />
-  <keys type="npc" key="E_f03_DrFrBoy0_0001" value="Poreon" />
-  <keys type="npc" key="E_f03_DrFrBoy1_0001" value="Galerion" />
-  <keys type="npc" key="E_f04_DrFrBoy2_0001" value="Runelon" />
-  <keys type="npc" key="E_d22_0_RabMer_0003" value="Lebrini Colecionador de Relíquias" />
-  <keys type="npc" key="E_d22_0_RabMer_0004" value="Lebrini Colecionador de Relíquias" />
-  <keys type="npc" key="E_d04_Devco_01" value="Guia da Angústia" />
-  <keys type="npc" key="E_p02_Spirwisp_04" value="Espírito" />
-  <keys type="npc" key="E_p02_UnderRabu_02" value="Ladrão de Túmulos" />
-  <keys type="npc" key="E_p02_UnAgMag_02" value="Espectro Psíquico" />
-  <keys type="npc" key="E_p02_UnAgHunt_02" value="Caçador de Espíritos" />
-  <keys type="npc" key="E_D22_Magic_05" value="Xamã da Fenda de Tritael" />
-  <keys type="npc" key="E_f03_DrFrBoy0_0002" value="Poreon" />
-  <keys type="npc" key="E_f03_DrFrBoy1_0002" value="Galerion" />
-  <keys type="npc" key="E_f04_DrFrBoy2_0002" value="Runelon" />
-  <keys type="npc" key="E_d04_ReblGuard_01" value="Guarda Suspeito" />
-  <keys type="npc" key="E_d03_Ankel_0002" value="Ankelion" />
-  <keys type="npc" key="E_F05_GoleStrom_002" value="Dispositivo de Descarte" />
-  <keys type="npc" key="E_F05_GoleStrom_003" value="Tempestade de Areia" />
-  <keys type="npc" key="E_F05_GoleBreak_004" value="Fragmento de Tempestade" />
-  <keys type="npc" key="e_d24_Knigh_01" value="Soldado da Guarda" />
-  <keys type="npc" key="e_d24_Knigh_02" value="Soldado da Guarda" />
-  <keys type="npc" key="e_d24_LKnigh_01" value="Capitão da Guarda" />
-  <keys type="npc" key="E_D13_Devco_05" value="Mago Sombrio Nibar" />
-  <keys type="npc" key="E_D13_GagoRock_04" value="Gárgula de Pedra" />
-  <keys type="npc" key="E_D13_GagoTamp_04" value="Gárgula Subterrânea" />
-  <keys type="npc" key="E_D13_KingBat_04" value="Morcego Ancestral" />
-  <keys type="npc" key="E_D13_Spir_sinsia_1" value="Armadilha Paralisante" />
-  <keys type="npc" key="E_D13_AElephant_001" value="Taisha Gigante" />
-  <keys type="npc" key="E_F05_GoleStrom_004" value="Awakened Sandstorm" />
-  <keys type="npc" key="E_F05_GoleStrom_005" value="Disposal Device" />
-  <keys type="npc" key="E_F05_GoleStrom_006" value="Sandstorm" />
-  <keys type="npc" key="E_F05_GoleStrom_007" value="Sandstorm" />
-  <keys type="npc" key="E_F05_GoleBreak_005" value="Storm Fragment" />
+  <keys prop="Name" type="monster" key="E_D13_Sinsia_01" value="Cynthia" />
+  <keys prop="Description" type="monster" key="E_D13_Sinsia_01Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Sinsia_02" value="Cynthia" />
+  <keys prop="Description" type="monster" key="E_D13_Sinsia_02Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Sinsia_03" value="Cynthia Enlouquecida" />
+  <keys prop="Description" type="monster" key="E_D13_Sinsia_03Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Sinsia_04" value="Cynthia Enlouquecida" />
+  <keys prop="Description" type="monster" key="E_D13_Sinsia_04Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Jason_01" value="Jayce" />
+  <keys prop="Description" type="monster" key="E_D13_Jason_01Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Jason_02" value="Jayce" />
+  <keys prop="Description" type="monster" key="E_D13_Jason_02Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Jason_03" value="Jayce, o Perverso" />
+  <keys prop="Description" type="monster" key="E_D13_Jason_03Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Jason_04" value="Jayce, o Perverso" />
+  <keys prop="Description" type="monster" key="E_D13_Jason_04Detail" value="Comandante Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Devco_01" value="Mago Sombrio Nibar" />
+  <keys prop="Description" type="monster" key="E_D13_Devco_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Devco_02" value="Mago Sombrio Nibar" />
+  <keys prop="Description" type="monster" key="E_D13_Devco_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Devco_03" value="Mago Sombrio Nibar" />
+  <keys prop="Description" type="monster" key="E_D13_Devco_03Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Devco_04" value="Mago Sombrio Nibar" />
+  <keys prop="Description" type="monster" key="E_D13_Devco_04Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Chimera_01" value="Quimera" />
+  <keys prop="Description" type="monster" key="E_D13_Chimera_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Chimera_02" value="Quimera" />
+  <keys prop="Description" type="monster" key="E_D13_Chimera_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Chimera_03" value="Quimera" />
+  <keys prop="Description" type="monster" key="E_D13_Chimera_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D13_Spirit_01" value="Altar da Destruição" />
+  <keys prop="Description" type="monster" key="E_D13_Spirit_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D13_Magic_door_01" value="Esfera Primordial" />
+  <keys prop="Description" type="monster" key="E_D13_Magic_door_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_KingBat_01" value="Morcego Ancestral" />
+  <keys prop="Description" type="monster" key="E_D13_KingBat_01Detail" value="Servo" />
+  <keys prop="Name" type="monster" key="E_D13_GagoTamp_01" value="Gárgula Subterrânea" />
+  <keys prop="Description" type="monster" key="E_D13_GagoTamp_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_GagoRock_01" value="Gárgula de Pedra" />
+  <keys prop="Description" type="monster" key="E_D13_GagoRock_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Fanasnipe_01" value="Vigilante Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_Fanasnipe_01Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_FanaDevo_01" value="Mago Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_FanaDevo_01Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_CabePatro_01" value="Guarda Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_CabePatro_01Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Cabeassa_01" value="Assassino Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_Cabeassa_01Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_RebSold_01" value="Guardião de Relíquia Guerreiro" />
+  <keys prop="Description" type="monster" key="E_D13_RebSold_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D13_RebWiz_01" value="Guardião de Relíquia Mago" />
+  <keys prop="Description" type="monster" key="E_D13_RebWiz_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_RebBow_01" value="Guardião de Relíquia Arqueiro" />
+  <keys prop="Description" type="monster" key="E_D13_RebBow_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_0_0000_0002" value="Leopardo do Deserto" />
+  <keys prop="Description" type="monster" key="E_F05_0_0000_0002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ScorTong_001" value="Escorpião de Garra Gigante" />
+  <keys prop="Description" type="monster" key="E_F05_ScorTong_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ScorTail_001" value="Escorpião Peçonhento" />
+  <keys prop="Description" type="monster" key="E_F05_ScorTail_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_BaldEagle_001" value="Abutre" />
+  <keys prop="Description" type="monster" key="E_F05_BaldEagle_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_BaldThun_001" value="Aranha da Areia" />
+  <keys prop="Description" type="monster" key="E_F05_BaldThun_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_OstrichDC_001" value="Búfalo do Deserto" />
+  <keys prop="Description" type="monster" key="E_F05_OstrichDC_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_EturSand_001" value="Tartaruga da Costa" />
+  <keys prop="Description" type="monster" key="E_F05_EturSand_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_CrocOasi_001" value="Crocodilo do Mar" />
+  <keys prop="Description" type="monster" key="E_F05_CrocOasi_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_Griffon_001" value="Grifo" />
+  <keys prop="Description" type="monster" key="E_F05_Griffon_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_Griffon_002" value="Chanus" />
+  <keys prop="Description" type="monster" key="E_F05_Griffon_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_Ceratops_001" value="Escorpião Peçonhento" />
+  <keys prop="Description" type="monster" key="E_F05_Ceratops_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KingBat_001" value="Kibaren Dourado" />
+  <keys prop="Description" type="monster" key="E_F05_KingBat_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ScorTong_002" value="Vegarus" />
+  <keys prop="Description" type="monster" key="E_F05_ScorTong_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_DragFrost_001" value="Tolus" />
+  <keys prop="Description" type="monster" key="E_f05_DragFrost_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_UndeadBear_001" value="Urso Fantasma" />
+  <keys prop="Description" type="monster" key="E_f05_UndeadBear_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_UndeadBull_001" value="Bisão Fantasma" />
+  <keys prop="Description" type="monster" key="E_f05_UndeadBull_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_UndeadWolf_001" value="Lobo Fantasma" />
+  <keys prop="Description" type="monster" key="E_f05_UndeadWolf_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_Matura_001" value="Matura" />
+  <keys prop="Description" type="monster" key="e_f05_Matura_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_FatOwl00_001" value="Piyo" />
+  <keys prop="Description" type="monster" key="E_f05_FatOwl00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_CaspCat_001" value="Martina" />
+  <keys prop="Description" type="monster" key="E_f05_CaspCat_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_LTurt00_001" value="Sábia Deva" />
+  <keys prop="Description" type="monster" key="E_f05_LTurt00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Ceras00_001" value="Dinoceronte" />
+  <keys prop="Description" type="monster" key="E_f05_Ceras00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Raptor00_001" value="Bajanin" />
+  <keys prop="Description" type="monster" key="E_f05_Raptor00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_FatOwl01_001" value="Toro Esperto" />
+  <keys prop="Description" type="monster" key="E_f05_FatOwl01_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Hydra00_001" value="Rutesh, o Poderoso" />
+  <keys prop="Description" type="monster" key="E_f05_Hydra00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Hydra01_001" value="Radesh, o Sábio" />
+  <keys prop="Description" type="monster" key="E_f05_Hydra01_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Hydra02_001" value="Rodesh, o Cruel" />
+  <keys prop="Description" type="monster" key="E_f05_Hydra02_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_BoneCru00_001" value="Vonash" />
+  <keys prop="Description" type="monster" key="E_f05_BoneCru00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_FatOwl02_001" value="Poyo" />
+  <keys prop="Description" type="monster" key="E_f05_FatOwl02_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_SandSaurs_001" value="Denbassauro" />
+  <keys prop="Description" type="monster" key="E_f05_SandSaurs_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_LTurt01_001" value="Aliba" />
+  <keys prop="Description" type="monster" key="E_f05_LTurt01_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_BoneCru01_001" value="Monoceros" />
+  <keys prop="Description" type="monster" key="E_f05_BoneCru01_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_BoneCru02_001" value="Quebrador de Ossos" />
+  <keys prop="Description" type="monster" key="E_f05_BoneCru02_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f05_Raptor01_001" value="Jabuti do Deserto" />
+  <keys prop="Description" type="monster" key="E_f05_Raptor01_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f05_Kangroo00_001" value="Esmagador de Ossos" />
+  <keys prop="Description" type="monster" key="E_f05_Kangroo00_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f05_Rhino00_001" value="Andarilho das Teias da Ravina" />
+  <keys prop="Description" type="monster" key="E_f05_Rhino00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_RaptBaja_001" value="Bajanin" />
+  <keys prop="Description" type="monster" key="E_f05_RaptBaja_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_Taraku_001" value="Trinoceronte" />
+  <keys prop="Description" type="monster" key="E_F05_Taraku_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KingBat_002" value="Shakiba" />
+  <keys prop="Description" type="monster" key="E_F05_KingBat_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KingBat_003" value="Parente de Shakiba" />
+  <keys prop="Description" type="monster" key="E_F05_KingBat_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_BoneCru03_001" value="Voknos" />
+  <keys prop="Description" type="monster" key="E_F05_BoneCru03_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_BaldEagle_002" value="Abutre" />
+  <keys prop="Description" type="monster" key="E_F05_BaldEagle_002Detail" value="Familiar da Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_DragRaba_001" value="Grifo Mutante" />
+  <keys prop="Description" type="monster" key="E_F05_DragRaba_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_Tower_000" value="Pedra da Barreira de Skatrasha" />
+  <keys prop="Description" type="monster" key="E_D13_Tower_000Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoTalos_001" value="Talos Espinho Vermelho" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoTalos_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoTalos_002" value="Talos Espinho Vermelho" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoTalos_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoTalos_003" value="Talos Espinho Vermelho" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoTalos_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoTalos_004" value="Talos Espinho Vermelho" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoTalos_004Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMorga_001" value="Morrigan Sombra Negra" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMorga_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMorga_002" value="Morrigan Sombra Negra" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMorga_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMorga_003" value="Morrigan Sombra Negra" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMorga_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMorga_004" value="Morrigan Sombra Negra" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMorga_004Detail" value="" />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMerc_001" value="Executor Mercurius" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMerc_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMerc_002" value="Executor Mercurius" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMerc_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMerc_003" value="Executor Mercurius" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMerc_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f05_ImmoMerc_004" value="Executor Mercurius" />
+  <keys prop="Description" type="monster" key="e_f05_ImmoMerc_004Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ScorTail_003" value="[Elite] Escorpião Peçonhento Gigante" />
+  <keys prop="Description" type="monster" key="E_F05_ScorTail_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_SnakRattl_003" value="[Elite] Cascavel Gigante do Deserto" />
+  <keys prop="Description" type="monster" key="E_F05_SnakRattl_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_CactSand_002" value="[Elite] Cacto Gigante do Deserto" />
+  <keys prop="Description" type="monster" key="E_F05_CactSand_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_RebSword_01" value="Protetor do Templo" />
+  <keys prop="Description" type="monster" key="E_D13_RebSword_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_0_0000_0013" value="Leopardo do Deserto Capturado" />
+  <keys prop="Description" type="monster" key="E_F05_0_0000_0013Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_0_0000_0014" value="Leopardo do Deserto Capturado" />
+  <keys prop="Description" type="monster" key="E_F05_0_0000_0014Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_0_0000_0015" value="Leopardo do Deserto Capturado" />
+  <keys prop="Description" type="monster" key="E_F05_0_0000_0015Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_0_0000_0016" value="Leopardo do Deserto Capturado" />
+  <keys prop="Description" type="monster" key="E_F05_0_0000_0016Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_CabePatro_02" value="Guarda Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_CabePatro_02Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Fanasnipe_02" value="Vigilante Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_Fanasnipe_02Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_03_0_1000_0011" value="Soldado Mohaban" />
+  <keys prop="Description" type="monster" key="E_03_0_1000_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoSoldi_001" value="Saqueador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoSoldi_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoSoldi_002" value="Saqueador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoSoldi_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoSoldi_003" value="Saqueador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoSoldi_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoSoldi_004" value="Saqueador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoSoldi_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoSoldi_005" value="Saqueador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoSoldi_005Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoKnigh_001" value="Defensor Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoKnigh_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoKnigh_002" value="Defensor Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoKnigh_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoKnigh_003" value="Defensor Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoKnigh_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoKnigh_004" value="Defensor Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoKnigh_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoImpsu_001" value="Invocador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoImpsu_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoImpsu_002" value="Invocador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoImpsu_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoImpsu_003" value="Invocador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoImpsu_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoImpsu_004" value="Invocador Imortal" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoImpsu_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoMagi_001" value="Soldado Imortal do Mundo Sombrio" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoMagi_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoMagi_002" value="Soldado Imortal do Mundo Sombrio" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoMagi_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoMagi_003" value="Soldado Imortal do Mundo Sombrio" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoMagi_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoMagi_004" value="Soldado Imortal do Mundo Sombrio" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoMagi_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_Dimp_001" value="Diabinho Escravo" />
+  <keys prop="Description" type="monster" key="E_D06_Dimp_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_Dimp_002" value="Trair" />
+  <keys prop="Description" type="monster" key="E_F05_Dimp_002Detail" value="Subordinado de Morrigan" />
+  <keys prop="Name" type="monster" key="E_F05_Dimp_003" value="Revolta" />
+  <keys prop="Description" type="monster" key="E_F05_Dimp_003Detail" value="Subordinado de Morrigan" />
+  <keys prop="Name" type="monster" key="E_D06_Dimp_002" value="Diabinho Escravo" />
+  <keys prop="Description" type="monster" key="E_D06_Dimp_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_Dimp_003" value="Diabinho Escravo" />
+  <keys prop="Description" type="monster" key="E_D06_Dimp_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_GhoulMdea_001" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_GhoulMdea_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_GhoulMdea_002" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_GhoulMdea_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_GhoulMdea_003" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_GhoulMdea_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_GhoulWdea_001" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_GhoulWdea_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_GhoulWdea_002" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_GhoulWdea_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_GhoulWdea_003" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_GhoulWdea_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_001" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_002" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_003" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_004" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_005" value="Imortal" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_005Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D13_SinsiaSh_01" value="Cynthia Enlouquecida" />
+  <keys prop="Description" type="monster" key="E_D13_SinsiaSh_01Detail" value="Ilusão de Cynthia" />
+  <keys prop="Name" type="monster" key="E_F05_SpirSpark_0001" value="Chefe Servo" />
+  <keys prop="Description" type="monster" key="E_F05_SpirSpark_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_SpirWood_0001" value="Fada Serva" />
+  <keys prop="Description" type="monster" key="E_F05_SpirWood_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_WolfWild_0001" value="Sentinela de Shakiba" />
+  <keys prop="Description" type="monster" key="E_F05_WolfWild_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f04_ImmoGorak_003" value="Kranox" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoGorak_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_Potpoison_000" value="Jarro de Veneno" />
+  <keys prop="Description" type="monster" key="E_F05_Potpoison_000Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_Statue_bro_000" value="Trabalho Póstumo de Claudel" />
+  <keys prop="Description" type="monster" key="E_F05_Statue_bro_000Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f04_ImmoImpsu_010" value="Invocadora Sombria Megan" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoImpsu_010Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f03_0_0000_0020" value="Subordinado Leal" />
+  <keys prop="Description" type="monster" key="E_f03_0_0000_0020Detail" value="" />
+  <keys prop="Name" type="monster" key="E_03_0_0013_0010" value="Alma Corrompida" />
+  <keys prop="Description" type="monster" key="E_03_0_0013_0010Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f04_Spirwisp_010" value="Pensamento Corrompido" />
+  <keys prop="Description" type="monster" key="E_f04_Spirwisp_010Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f04_ImmoHopli_010" value="Vigilante Sombrio" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoHopli_010Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_KrokEngee_005" value="Caçador Crokhoon - Corrompido" />
+  <keys prop="Description" type="monster" key="E_F05_KrokEngee_005Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_KrokGladi_006" value="Escolta Crokhoon - Corrompida" />
+  <keys prop="Description" type="monster" key="E_F05_KrokGladi_006Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KrokTaine_002" value="Lutador Crokhoon Corrompido" />
+  <keys prop="Description" type="monster" key="E_F05_KrokTaine_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_BoneCru02_002" value="Sentinela Sombrio" />
+  <keys prop="Description" type="monster" key="E_f05_BoneCru02_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D13_SinsiaSh_02" value="Cynthia Enlouquecida" />
+  <keys prop="Description" type="monster" key="E_D13_SinsiaSh_02Detail" value="Ilusão de Cynthia" />
+  <keys prop="Name" type="monster" key="E_F06_KrokHam_01" value="Vanguarda do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokHam_01Detail" value="Guarda de Aço de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_KrokBow_01" value="Arqueiro do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokBow_01Detail" value="Guarda de Aço de Fratura" />
+  <keys prop="Name" type="monster" key="e_f06_krokpries_01" value="Sacerdote do Templo" />
+  <keys prop="Description" type="monster" key="e_f06_krokpries_01Detail" value="Guarnição de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_KrokAsse_01" value="Matador do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokAsse_01Detail" value="Esquadrão da Morte de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_KrokGladi_01" value="Cavaleiro do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokGladi_01Detail" value="Guarda de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_Krokhatch_01" value="Saqueador do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_Krokhatch_01Detail" value="Guarda de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_KrokTrai_01" value="Mestre Leopardo do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokTrai_01Detail" value="Guarda de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_KrokTrai_02" value="Mestre Escorpião do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokTrai_02Detail" value="Raide de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_Scorkni_01" value="Cavaleiro Escorpião do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_Scorkni_01Detail" value="Raide de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_ScorTail_01" value="Escorpião Peçonhento" />
+  <keys prop="Description" type="monster" key="E_F06_ScorTail_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F06_LeopSand_01" value="Leopardo do Deserto" />
+  <keys prop="Description" type="monster" key="E_F06_LeopSand_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_03_0_0695_0010" value="Servo Ferido por Magia" />
+  <keys prop="Description" type="monster" key="E_03_0_0695_0010Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_03_0_0695_0011" value="Mão da Morte" />
+  <keys prop="Description" type="monster" key="E_03_0_0695_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="E_51_0_1210_0010" value="Mão da Morte" />
+  <keys prop="Description" type="monster" key="E_51_0_1210_0010Detail" value="" />
+  <keys prop="Name" type="monster" key="E_03_0_1110_0010" value="Passit" />
+  <keys prop="Description" type="monster" key="E_03_0_1110_0010Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_03_0_1000_0012" value="Xamã da Destruição" />
+  <keys prop="Description" type="monster" key="E_03_0_1000_0012Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_03_0_0682_0011" value="Abelha Soldado do Deserto" />
+  <keys prop="Description" type="monster" key="E_03_0_0682_0011Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_03_0_0682_0012" value="Vespa do Deserto" />
+  <keys prop="Description" type="monster" key="E_03_0_0682_0012Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_03_0_0682_0013" value="Rainha da Colmeia" />
+  <keys prop="Description" type="monster" key="E_03_0_0682_0013Detail" value="Abelha Rainha do Deserto" />
+  <keys prop="Name" type="monster" key="E_03_0_0682_0014" value="Guarda da Rainha" />
+  <keys prop="Description" type="monster" key="E_03_0_0682_0014Detail" value="Escolta da Rainha" />
+  <keys prop="Name" type="monster" key="E_03_0_0694_0011" value="Ladrão de Túmulos do Templo" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="E_03_0_0694_0012" value="Revior Lebrini" />
+  <keys prop="Description" type="monster" key="E_03_0_0694_0012Detail" value="Ladrão Mestre" />
+  <keys prop="Name" type="monster" key="e_f04_ImmoMagi_010" value="Mensageiro Infernal" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoMagi_010Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_f04_ImmoImpsu_011" value="Chablis" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoImpsu_011Detail" value="Camareiro da Legião Caída" />
+  <keys prop="Name" type="monster" key="E_03_0_0002_0010" value="Eremita Esquecido" />
+  <keys prop="Description" type="monster" key="E_03_0_0002_0010Detail" value="Espírito do Penhasco" />
+  <keys prop="Name" type="monster" key="E_50_0_0718_0010" value="Caveira Sanguinária" />
+  <keys prop="Description" type="monster" key="E_50_0_0718_0010Detail" value="Espírito do Penhasco" />
+  <keys prop="Name" type="monster" key="E_f02_hufpub_g_010" value="Alma Inquieta" />
+  <keys prop="Description" type="monster" key="E_f02_hufpub_g_010Detail" value="Filha de Avro" />
+  <keys prop="Name" type="monster" key="E_03_0_0104_0010" value="Sol Litorâneo" />
+  <keys prop="Description" type="monster" key="E_03_0_0104_0010Detail" value="Anomalia Infernal" />
+  <keys prop="Name" type="monster" key="E_04_0_0678_0010" value="Crustáceo Primitivo" />
+  <keys prop="Description" type="monster" key="E_04_0_0678_0010Detail" value="Criatura Anciã" />
+  <keys prop="Name" type="monster" key="E_F05_CrocOasi01_001" value="Crocodilo do Oásis" />
+  <keys prop="Description" type="monster" key="E_F05_CrocOasi01_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f05_CaspCat_002" value="Pelinho Lustroso" />
+  <keys prop="Description" type="monster" key="E_f05_CaspCat_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Chimpus_001" value="Chim" />
+  <keys prop="Description" type="monster" key="E_f05_Chimpus_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Adelake00_001" value="Adelark" />
+  <keys prop="Description" type="monster" key="E_f05_Adelake00_001Detail" value="Governante das Aranhas" />
+  <keys prop="Name" type="monster" key="E_f05_Adelake01_001" value="Tulinum" />
+  <keys prop="Description" type="monster" key="E_f05_Adelake01_001Detail" value="Aranha de Escolta" />
+  <keys prop="Name" type="monster" key="E_F05_FloatDR_001" value="Guardião do Sol" />
+  <keys prop="Description" type="monster" key="E_F05_FloatDR_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_EturSand00_001" value="Javali do Deserto" />
+  <keys prop="Description" type="monster" key="E_F05_EturSand00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Ostrich00_001" value="Tritty" />
+  <keys prop="Description" type="monster" key="E_f05_Ostrich00_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_f05_Raptor00_002" value="Bajarn Chifrelongo" />
+  <keys prop="Description" type="monster" key="E_f05_Raptor00_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_BoneCru04_001" value="Vonash" />
+  <keys prop="Description" type="monster" key="E_f05_BoneCru04_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_006" value="Aquele Que Não Pode Morrer" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_006Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_007" value="Aquele Que Não Pode Morrer" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_007Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_ZombSlave_008" value="Aquele Que Não Pode Morrer" />
+  <keys prop="Description" type="monster" key="E_D06_ZombSlave_008Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D13_Magic_door_02" value="Esfera Primordial" />
+  <keys prop="Description" type="monster" key="E_D13_Magic_door_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_KingBat_02" value="Morcego Ancestral" />
+  <keys prop="Description" type="monster" key="E_D13_KingBat_02Detail" value="Servo" />
+  <keys prop="Name" type="monster" key="E_D13_GagoTamp_02" value="Gárgula Subterrânea" />
+  <keys prop="Description" type="monster" key="E_D13_GagoTamp_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_GagoRock_02" value="Gárgula de Pedra" />
+  <keys prop="Description" type="monster" key="E_D13_GagoRock_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_FanaDevo_02" value="Mago Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_FanaDevo_02Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Cabeassa_02" value="Assassino Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_Cabeassa_02Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_RebSold_02" value="Guardião de Relíquia Guerreiro" />
+  <keys prop="Description" type="monster" key="E_D13_RebSold_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_RebWiz_02" value="Guardião de Relíquia Mago" />
+  <keys prop="Description" type="monster" key="E_D13_RebWiz_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_RebBow_02" value="Guardião de Relíquia Arqueiro" />
+  <keys prop="Description" type="monster" key="E_D13_RebBow_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_RebSword_02" value="Protetor do Templo" />
+  <keys prop="Description" type="monster" key="E_D13_RebSword_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_CabePatro_04" value="Guarda Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_CabePatro_04Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Fanasnipe_04" value="Vigilante Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_Fanasnipe_04Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_CabePatro_03" value="Guarda Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_CabePatro_03Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_D13_Fanasnipe_03" value="Vigilante Khabimista" />
+  <keys prop="Description" type="monster" key="E_D13_Fanasnipe_03Detail" value="Irmandade de Khabim" />
+  <keys prop="Name" type="monster" key="E_F05_GagoTampl_010" value="Gárgula Sombria" />
+  <keys prop="Description" type="monster" key="E_F05_GagoTampl_010Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_GagoTampl_011" value="Gárgula Sombria" />
+  <keys prop="Description" type="monster" key="E_F05_GagoTampl_011Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_cutscene_000" value="Gárgula Sombria" />
+  <keys prop="Description" type="monster" key="E_F05_cutscene_000Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_f04_ImmoGorak_004" value="Kranox" />
+  <keys prop="Description" type="monster" key="e_f04_ImmoGorak_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_f05_BoneCru02_003" value="Sentinela Sombrio" />
+  <keys prop="Description" type="monster" key="E_f05_BoneCru02_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_ImmoKnigh_002" value="Cavaleiro Sombrio da Legião Caída" />
+  <keys prop="Description" type="monster" key="E_F05_ImmoKnigh_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ImmoKnigh_003" value="Cavaleiro Sombrio da Legião Caída" />
+  <keys prop="Description" type="monster" key="E_F05_ImmoKnigh_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ImmoSoldi_002" value="Soldado Sombrio da Legião Caída" />
+  <keys prop="Description" type="monster" key="E_F05_ImmoSoldi_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ImmoSoldi_003" value="Soldado Sombrio da Legião Caída" />
+  <keys prop="Description" type="monster" key="E_F05_ImmoSoldi_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_GagoRock_002" value="Gárgula de Pedra" />
+  <keys prop="Description" type="monster" key="E_F05_GagoRock_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F06_KrokAsse_02" value="Matador do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokAsse_02Detail" value="Esquadrão da Morte de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_Scor_01" value="Escorpião de Garra Gigante" />
+  <keys prop="Description" type="monster" key="E_F06_Scor_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F06_ScorGladi_02" value="Cavaleiro Escorpião do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_ScorGladi_02Detail" value="Raide de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_KrokGladi_02" value="Cavaleiro do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokGladi_02Detail" value="Raide de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_Krokhatch_02" value="Saqueador do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_Krokhatch_02Detail" value="Guarda de Fratura" />
+  <keys prop="Name" type="monster" key="E_F06_KrokPries_02" value="Sacerdote do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokPries_02Detail" value="Guarda de Fratura" />
+  <keys prop="Name" type="monster" key="E_04_0_0691_0003" value="Tartaruga Marinha Primitiva" />
+  <keys prop="Description" type="monster" key="E_04_0_0691_0003Detail" value="Criatura Anciã" />
+  <keys prop="Name" type="monster" key="E_F05_Quest_Cart_01" value="Espadachim Mohaban" />
+  <keys prop="Description" type="monster" key="E_F05_Quest_Cart_01Detail" value="Soldado da Emboscada do Vagão" />
+  <keys prop="Name" type="monster" key="E_F05_KrokEngee_006" value="[Elite] Colecionador de Corpos" />
+  <keys prop="Description" type="monster" key="E_F05_KrokEngee_006Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KrokBowma_004" value="[Elite] Caçador de Corpos" />
+  <keys prop="Description" type="monster" key="E_F05_KrokBowma_004Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KrokPries_003" value="[Elite] Xamã de Corpos" />
+  <keys prop="Description" type="monster" key="E_F05_KrokPries_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KrokGladi_007" value="[Elite] Escultor de Corpos" />
+  <keys prop="Description" type="monster" key="E_F05_KrokGladi_007Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_Kangroo00_002" value="[Elite] Vonash Domado" />
+  <keys prop="Description" type="monster" key="E_f05_Kangroo00_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_UndeadBull_002" value="[Elite] Dinoceronte Domado" />
+  <keys prop="Description" type="monster" key="E_f05_UndeadBull_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_UndeadBear_002" value="[Elite] Bajanin Domado" />
+  <keys prop="Description" type="monster" key="E_f05_UndeadBear_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f05_UndeadWolf_002" value="[Elite] Dennivan Domada" />
+  <keys prop="Description" type="monster" key="E_f05_UndeadWolf_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F06_KrokBow_02" value="Arqueiro do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokBow_02Detail" value="Guardas do Demônio Conquistador de Fratura" />
+  <keys prop="Name" type="monster" key="E_f05_LTurt02_001" value="Dennivan" />
+  <keys prop="Description" type="monster" key="E_f05_LTurt02_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_KrokTaine_003" value="[Elite] Mestre de Corpos Corrompido" />
+  <keys prop="Description" type="monster" key="E_F05_KrokTaine_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_03_0_0676_0006" value="[Elite] Trabalhador Aranha Apodrecido" />
+  <keys prop="Description" type="monster" key="E_03_0_0676_0006Detail" value="" />
+  <keys prop="Name" type="monster" key="E_03_0_0695_0020" value="Subordinado Ressuscitado" />
+  <keys prop="Description" type="monster" key="E_03_0_0695_0020Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ImmoKnigh_005" value="Gladiador Sombrio da Legião Caída" />
+  <keys prop="Description" type="monster" key="E_F05_ImmoKnigh_005Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_Gargonest_000" value="Estátua de Gárgula" />
+  <keys prop="Description" type="monster" key="E_F05_Gargonest_000Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_ImmoSoldi_004" value="Demônio Escondido" />
+  <keys prop="Description" type="monster" key="E_F05_ImmoSoldi_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F05_KrokManac_002" value="Manaz'tuul" />
+  <keys prop="Description" type="monster" key="E_F05_KrokManac_002Detail" value="Comandante de Fratura" />
+  <keys prop="Name" type="monster" key="E_F05_ImmoSoldi_005" value="Soldado Sombrio da Legião Caída" />
+  <keys prop="Description" type="monster" key="E_F05_ImmoSoldi_005Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F06_KrokHam_02" value="Vanguarda do Templo" />
+  <keys prop="Description" type="monster" key="E_F06_KrokHam_02Detail" value="Guardas do Demônio Conquistador de Fratura" />
+  <keys prop="Name" type="monster" key="E_F05_KrokEngee_007" value="Caçador Crokhoon de Elite Corrompido" />
+  <keys prop="Description" type="monster" key="E_F05_KrokEngee_007Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D06_GhostL_001" value="Chaleira Errante" />
+  <keys prop="Description" type="monster" key="E_D06_GhostL_001Detail" value="Viajante Dimensional" />
+  <keys prop="Name" type="monster" key="E_D06_GhostS_001" value="Alma de Outro Mundo" />
+  <keys prop="Description" type="monster" key="E_D06_GhostS_001Detail" value="Viajante Dimensional" />
+  <keys prop="Name" type="monster" key="E_D06_UndeadWolf_001" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_UndeadWolf_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_UndeadWolf_002" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_UndeadWolf_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_UndeadWolf_003" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_UndeadWolf_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_UndeadWolf_004" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_UndeadWolf_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_UndeadWolf_005" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_UndeadWolf_005Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_UndeadWolf_006" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_UndeadWolf_006Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_DaemonWolf_001" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_DaemonWolf_001Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_DaemonWolf_002" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_DaemonWolf_002Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_DaemonWolf_003" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_DaemonWolf_003Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_D06_DaemonWolf_004" value="Vonash Invocado" />
+  <keys prop="Description" type="monster" key="E_D06_DaemonWolf_004Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_05_Sandpeli_000" value="Pelicano da Praia do Deserto" />
+  <keys prop="Description" type="monster" key="E_05_Sandpeli_000Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_f06_scorgladi_01" value="Cavaleiro Escorpião do Templo" />
+  <keys prop="Description" type="monster" key="e_f06_scorgladi_01Detail" value="Raide de Fratura" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoSoldi_006" value="Saqueador Imortal Mobilizado" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoSoldi_006Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="e_D06_ImmoKnigh_005" value="Defensor Imortal Mobilizado" />
+  <keys prop="Description" type="monster" key="e_D06_ImmoKnigh_005Detail" value="Legião Caída" />
+  <keys prop="Name" type="monster" key="E_F06_Trap_000" value="Armadilha" />
+  <keys prop="Description" type="monster" key="E_F06_Trap_000Detail" value="Energia de Fogo" />
+  <keys prop="Name" type="monster" key="E_F06_Trap_001" value="Armadilha" />
+  <keys prop="Description" type="monster" key="E_F06_Trap_001Detail" value="Energia de Fogo" />
+  <keys prop="Name" type="monster" key="E_F06_Trap_002" value="Armadilha" />
+  <keys prop="Description" type="monster" key="E_F06_Trap_002Detail" value="Energia de Fogo" />
+  <keys prop="Name" type="monster" key="E_F06_Trap_003" value="Armadilha" />
+  <keys prop="Description" type="monster" key="E_F06_Trap_003Detail" value="Energia de Ferro Fundido" />
+  <keys prop="Name" type="monster" key="E_F05_E02_mana" value="Infusor Mágico" />
+  <keys prop="Description" type="monster" key="E_F05_E02_manaDetail" value=" " />
+  <keys prop="Name" type="monster" key="E_D06_GhostL_002" value="Chaleira Errante" />
+  <keys prop="Description" type="monster" key="E_D06_GhostL_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_GoleBreak_003" value="Espírito de Pedra" />
+  <keys prop="Description" type="monster" key="E_F05_GoleBreak_003Detail" value="Guardião Rocha Enfurecido" />
+  <keys prop="Name" type="monster" key="E_02_0_0040_0002" value="Chefe Guerreiro Korb" />
+  <keys prop="Description" type="monster" key="E_02_0_0040_0002Detail" value="Aliado Crokhoon" />
+  <keys prop="Name" type="monster" key="E_02_0_0042_0001" value="Saqueador Braghin do Deserto" />
+  <keys prop="Description" type="monster" key="E_02_0_0042_0001Detail" value="Aliado Crokhoon" />
+  <keys prop="Name" type="monster" key="E_02_0_0018_0001" value="Voluntário Braghin do Deserto" />
+  <keys prop="Description" type="monster" key="E_02_0_0018_0001Detail" value="Aliado Crokhoon" />
+  <keys prop="Name" type="monster" key="E_F05_KrokBowma_005" value="Sentinela Crokhoon Corrompido" />
+  <keys prop="Description" type="monster" key="E_F05_KrokBowma_005Detail" value="Cuidador do Berrante" />
+  <keys prop="Name" type="monster" key="E_F05_BaldEagle_003" value="Abutre Treinado" />
+  <keys prop="Description" type="monster" key="E_F05_BaldEagle_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_02_5_0001_0007" value="Balista Braghin do Deserto" />
+  <keys prop="Description" type="monster" key="E_02_5_0001_0007Detail" value="" />
+  <keys prop="Name" type="monster" key="E_03_5_0001_0010" value="Barricada Braghin do Deserto" />
+  <keys prop="Description" type="monster" key="E_03_5_0001_0010Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_Dimp_004" value="Demos" />
+  <keys prop="Description" type="monster" key="E_F05_Dimp_004Detail" value="Subordinado de Morrigan" />
+  <keys prop="Name" type="monster" key="E_F05_Dimp_005" value="Laherr" />
+  <keys prop="Description" type="monster" key="E_F05_Dimp_005Detail" value="Subordinado de Morrigan" />
+  <keys prop="Name" type="monster" key="E_F05_GhosAM1_01" value="Espírito do Fogo" />
+  <keys prop="Description" type="monster" key="E_F05_GhosAM1_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_zomb_01" value="Morto Atado" />
+  <keys prop="Description" type="monster" key="E_D13_zomb_01Detail" value="Servo de Nibar" />
+  <keys prop="Name" type="monster" key="E_D13_zomb_02" value="Morto Atado" />
+  <keys prop="Description" type="monster" key="E_D13_zomb_02Detail" value="Servo de Nibar" />
+  <keys prop="Name" type="monster" key="E_F05_E02_mana2" value="Infusor Mágico" />
+  <keys prop="Description" type="monster" key="E_F05_E02_mana2Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_03_0_0695_0012" value="Cobaia de Epidemia" />
+  <keys prop="Description" type="monster" key="E_03_0_0695_0012Detail" value="Cobaia de Passit" />
+  <keys prop="Name" type="monster" key="E_f02_GhosSM1_0001" value="Guardião do Fogo" />
+  <keys prop="Description" type="monster" key="E_f02_GhosSM1_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_MohabaS1_01" value="Espadachim Mohaban" />
+  <keys prop="Description" type="monster" key="E_F05_MohabaS1_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_0_0000_0017" value="Leopardo do Deserto Capturado" />
+  <keys prop="Description" type="monster" key="E_F05_0_0000_0017Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_0_0000_0018" value="Leopardo do Deserto Capturado" />
+  <keys prop="Description" type="monster" key="E_F05_0_0000_0018Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d00_0_RunRab_0001" value="Roberto Colecionador de Relíquias" />
+  <keys prop="Description" type="monster" key="E_d00_0_RunRab_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_d00_0_RunRab_0002" value="Roberto Colecionador de Relíquias" />
+  <keys prop="Description" type="monster" key="E_d00_0_RunRab_0002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_d00_0_RunRab_0003" value="Roberto Colecionador de Relíquias" />
+  <keys prop="Description" type="monster" key="E_d00_0_RunRab_0003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_Mphonix_001" value="Finion" />
+  <keys prop="Description" type="monster" key="E_P02_Mphonix_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_UGarmu_0001" value="Magnatu" />
+  <keys prop="Description" type="monster" key="E_P02_UGarmu_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_IroHors_0001" value="Calypos" />
+  <keys prop="Description" type="monster" key="E_P02_IroHors_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_Ceras01_001" value="Sharack" />
+  <keys prop="Description" type="monster" key="E_P02_Ceras01_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_P02_Garesha_001" value="Jamirot" />
+  <keys prop="Description" type="monster" key="E_P02_Garesha_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_PoisCroc_001" value="Poelle" />
+  <keys prop="Description" type="monster" key="E_P02_PoisCroc_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_P02_BigScrop_001" value="Vemigus" />
+  <keys prop="Description" type="monster" key="E_P02_BigScrop_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_BatSnd_001" value="Hilber" />
+  <keys prop="Description" type="monster" key="E_P02_BatSnd_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_P02_Eagle00_001" value="Gurion" />
+  <keys prop="Description" type="monster" key="E_P02_Eagle00_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_Firebird_001" value="Kunos" />
+  <keys prop="Description" type="monster" key="E_P02_Firebird_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_DrRaba_001" value="Balor" />
+  <keys prop="Description" type="monster" key="E_P02_DrRaba_001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_SkullH1_01" value="Soldado Inquieto" />
+  <keys prop="Description" type="monster" key="E_p02_SkullH1_01Detail" value="Vanguarda de Henok" />
+  <keys prop="Name" type="monster" key="E_P02_SkulKnight_01" value="Espadachim Inquieto" />
+  <keys prop="Description" type="monster" key="E_P02_SkulKnight_01Detail" value="Vanguarda de Henok" />
+  <keys prop="Name" type="monster" key="E_p02_RebSword_01" value="Cavaleiro Inquieto" />
+  <keys prop="Description" type="monster" key="E_p02_RebSword_01Detail" value="Vanguarda de Henok" />
+  <keys prop="Name" type="monster" key="E_p02_CabeAshu_01" value="Comandante do Esquecimento" />
+  <keys prop="Description" type="monster" key="E_p02_CabeAshu_01Detail" value="Vanguarda de Ranote" />
+  <keys prop="Name" type="monster" key="E_p02_SkulBlarc_01" value="Atirador Inquieto" />
+  <keys prop="Description" type="monster" key="E_p02_SkulBlarc_01Detail" value="Vanguarda de Henok" />
+  <keys prop="Name" type="monster" key="E_p02_Spirwisp_01" value="Espectro Azul" />
+  <keys prop="Description" type="monster" key="E_p02_Spirwisp_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_p02_DeadBismo_01" value="Ranote" />
+  <keys prop="Description" type="monster" key="E_p02_DeadBismo_01Detail" value="Monarca de Stygaea" />
+  <keys prop="Name" type="monster" key="E_p02_DeadJeranin_01" value="Henok" />
+  <keys prop="Description" type="monster" key="E_p02_DeadJeranin_01Detail" value="Monarca de Stygaea" />
+  <keys prop="Name" type="monster" key="E_p02_undergrass_01" value="Raiz de Seivavermelha" />
+  <keys prop="Description" type="monster" key="E_p02_undergrass_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_underspir_01" value="Fada Arbórea Vermelha" />
+  <keys prop="Description" type="monster" key="E_p02_underspir_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_underrabi_01" value="Gatuno de Stygaea" />
+  <keys prop="Description" type="monster" key="E_p02_underrabi_01Detail" value="Bandido Lebrini" />
+  <keys prop="Name" type="monster" key="E_p02_UnderRabu_01" value="Ladrão de Stygaea" />
+  <keys prop="Description" type="monster" key="E_p02_UnderRabu_01Detail" value="Bandido Lebrini" />
+  <keys prop="Name" type="monster" key="E_p02_UnderRibi_01" value="Ribbi Ladrão de Túmulos" />
+  <keys prop="Description" type="monster" key="E_p02_UnderRibi_01Detail" value="Bandido Lebrini" />
+  <keys prop="Name" type="monster" key="E_p02_UnAgMag_01" value="Espectro Psíquico" />
+  <keys prop="Description" type="monster" key="E_p02_UnAgMag_01Detail" value="Sentinela Eterno" />
+  <keys prop="Name" type="monster" key="E_p02_UnAgHunt_01" value="Caçador de Espíritos" />
+  <keys prop="Description" type="monster" key="E_p02_UnAgHunt_01Detail" value="Sentinela Eterno" />
+  <keys prop="Name" type="monster" key="E_p02_UnAgMugl_01" value="Myrock" />
+  <keys prop="Description" type="monster" key="E_p02_UnAgMugl_01Detail" value="Sentinela Eterno" />
+  <keys prop="Name" type="monster" key="E_p02_VampBat_01" value="Morcego das Sombras do Esquecimento" />
+  <keys prop="Description" type="monster" key="E_p02_VampBat_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_VampBat_02" value="Morcego das Sombras" />
+  <keys prop="Description" type="monster" key="E_p02_VampBat_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_GagoTampl_01" value="Patrulheiro do Abismo Negro" />
+  <keys prop="Description" type="monster" key="E_p02_GagoTampl_01Detail" value="Vanguarda de Finion" />
+  <keys prop="Name" type="monster" key="E_p02_GhosAncien_01" value="Apanhador de Almas" />
+  <keys prop="Description" type="monster" key="E_p02_GhosAncien_01Detail" value="Guardião do Purgatório" />
+  <keys prop="Name" type="monster" key="E_p02_VampHecto_01" value="Mestre Atemporal" />
+  <keys prop="Description" type="monster" key="E_p02_VampHecto_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_VampLance_01" value="Guardião Atemporal" />
+  <keys prop="Description" type="monster" key="E_p02_VampLance_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_VampLance_02" value="Casca Desalmada" />
+  <keys prop="Description" type="monster" key="E_p02_VampLance_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_ZombSlave1_01" value="Leão Imortal" />
+  <keys prop="Description" type="monster" key="E_p02_ZombSlave1_01Detail" value="Vanguarda de Magnatu" />
+  <keys prop="Name" type="monster" key="E_p02_SkullH1_02" value="Soldados da Destruição" />
+  <keys prop="Description" type="monster" key="E_p02_SkullH1_02Detail" value="Vanguarda de Ranote" />
+  <keys prop="Name" type="monster" key="E_P02_SkulKnight_02" value="Carniceiro Implacável" />
+  <keys prop="Description" type="monster" key="E_P02_SkulKnight_02Detail" value="Vanguarda de Ranote" />
+  <keys prop="Name" type="monster" key="E_p02_RebSword_02" value="Espadachim Fugaz" />
+  <keys prop="Description" type="monster" key="E_p02_RebSword_02Detail" value="Vetor da Praga" />
+  <keys prop="Name" type="monster" key="E_p02_CabeAshu_02" value="Saqueador Passageiro" />
+  <keys prop="Description" type="monster" key="E_p02_CabeAshu_02Detail" value="Vetor da Praga" />
+  <keys prop="Name" type="monster" key="E_p02_SkulBlarc_02" value="Arqueiro Implacável" />
+  <keys prop="Description" type="monster" key="E_p02_SkulBlarc_02Detail" value="Vanguarda de Ranote" />
+  <keys prop="Name" type="monster" key="E_p02_RebSword_03" value="Alma" />
+  <keys prop="Description" type="monster" key="E_p02_RebSword_03Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_Spirwisp_02" value="Espectro Sombrio" />
+  <keys prop="Description" type="monster" key="E_p02_Spirwisp_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_Spirwisp_03" value="Espectro Vermelho" />
+  <keys prop="Description" type="monster" key="E_p02_Spirwisp_03Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_ZombSlave_01" value="Leão Retorcido" />
+  <keys prop="Description" type="monster" key="E_p02_ZombSlave_01Detail" value="Vanguarda de Magnatu" />
+  <keys prop="Name" type="monster" key="E_p02_GhoulMdea_01" value="Peão Caótico" />
+  <keys prop="Description" type="monster" key="E_p02_GhoulMdea_01Detail" value="Vanguarda de Magnatu" />
+  <keys prop="Name" type="monster" key="E_p02_GhoulWdea_01" value="Peão Caótico" />
+  <keys prop="Description" type="monster" key="E_p02_GhoulWdea_01Detail" value="Vanguarda de Magnatu" />
+  <keys prop="Name" type="monster" key="E_F05_Fance_01" value="Portão de Ferro Superior" />
+  <keys prop="Description" type="monster" key="E_F05_Fance_01Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_Fance_02" value="Barreira do Templo" />
+  <keys prop="Description" type="monster" key="E_F05_Fance_02Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_Fance_03" value="Grande Cavidade da Pedra de Bloqueio" />
+  <keys prop="Description" type="monster" key="E_F05_Fance_03Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_GhosShrin_01" value="Anjo Atemporal" />
+  <keys prop="Description" type="monster" key="E_p02_GhosShrin_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D22_Soldi_03" value="Guerreiro da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Soldi_03Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Knight_03" value="Cavaleiro da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Knight_03Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Impsu_03" value="Invocador da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Impsu_03Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Magic_03" value="Xamã da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Magic_03Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Hopli_03" value="Cavaleiro de Armadura Pesada da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Hopli_03Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Soldi_04" value="Guerreiro da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Soldi_04Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Knight_04" value="Cavaleiro da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Knight_04Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Impsu_04" value="Invocador da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Impsu_04Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Magic_04" value="Xamã da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Magic_04Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Hopli_04" value="Cavaleiro de Armadura Pesada da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Hopli_04Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Agul_02" value="Kagru" />
+  <keys prop="Description" type="monster" key="E_D22_Agul_02Detail" value="Criatura da Fenda" />
+  <keys prop="Name" type="monster" key="E_D22_ImmoUranu_002" value="O Quarto Guardião, Izhora" />
+  <keys prop="Description" type="monster" key="E_D22_ImmoUranu_002Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_FlyRay_003" value="Umax, o Devorador" />
+  <keys prop="Description" type="monster" key="E_D22_FlyRay_003Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_SpirtDC_003" value="Aura da Fenda Retorcida" />
+  <keys prop="Description" type="monster" key="E_D22_SpirtDC_003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D22_SpirtDC_004" value="Aura da Fenda Retorcida" />
+  <keys prop="Description" type="monster" key="E_D22_SpirtDC_004Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D22_Elqu_02" value="Marnes" />
+  <keys prop="Description" type="monster" key="E_D22_Elqu_02Detail" value="Criatura da Fenda" />
+  <keys prop="Name" type="monster" key="E_D22_Teran_03" value="Lorde da Fenda Lukadra" />
+  <keys prop="Description" type="monster" key="E_D22_Teran_03Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Toomb_02" value="O Primeiro Guardião, Tenente Katura" />
+  <keys prop="Description" type="monster" key="E_D22_Toomb_02Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Gorak_04" value="O Segundo Guardião, Conselheiro Tarandra" />
+  <keys prop="Description" type="monster" key="E_D22_Gorak_04Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Lilis_02" value="Lorde da Fenda Lineth" />
+  <keys prop="Description" type="monster" key="E_D22_Lilis_02Detail" value="Xerife da Legião" />
+  <keys prop="Name" type="monster" key="E_D22_Lance_02" value="Tenente Jaron" />
+  <keys prop="Description" type="monster" key="E_D22_Lance_02Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_Lamb_02" value="Tenente Lemd" />
+  <keys prop="Description" type="monster" key="E_D22_Lamb_02Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_D22_flybabray_002" value="Kouooz" />
+  <keys prop="Description" type="monster" key="E_D22_flybabray_002Detail" value="" />
+  <keys prop="Name" type="monster" key="e_d22_magic_door_02" value="Sinal da Brecha" />
+  <keys prop="Description" type="monster" key="e_d22_magic_door_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D22_stone_06" value="Plinto Caótico" />
+  <keys prop="Description" type="monster" key="E_D22_stone_06Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D22_stone_07" value="Plinto Caótico" />
+  <keys prop="Description" type="monster" key="E_D22_stone_07Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_d22_stonespine_02" value="Barreira Fractal" />
+  <keys prop="Description" type="monster" key="E_d22_stonespine_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D22_Gole_03" value="O Terceiro Guardião, Golem da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Gole_03Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_P02_Mphonix_002" value="Finion" />
+  <keys prop="Description" type="monster" key="E_P02_Mphonix_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_UGarmu_0002" value="Magnatu" />
+  <keys prop="Description" type="monster" key="E_P02_UGarmu_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_P02_IroHors_0002" value="Calypos" />
+  <keys prop="Description" type="monster" key="E_P02_IroHors_0002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_P02_Garesha_002" value="Jamirot" />
+  <keys prop="Description" type="monster" key="E_P02_Garesha_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_CabeAshu_03" value="Alma Interna" />
+  <keys prop="Description" type="monster" key="E_p02_CabeAshu_03Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_GhoulMdea_02" value="Servo Sem Alma" />
+  <keys prop="Description" type="monster" key="E_p02_GhoulMdea_02Detail" value="Vetor da Praga" />
+  <keys prop="Name" type="monster" key="E_p02_GhoulWdea_02" value="Servo Sem Alma" />
+  <keys prop="Description" type="monster" key="E_p02_GhoulWdea_02Detail" value="Vetor da Praga" />
+  <keys prop="Name" type="monster" key="E_p02_VampLance_03" value="Guarda Ganancioso" />
+  <keys prop="Description" type="monster" key="E_p02_VampLance_03Detail" value="Guardião do Purgatório" />
+  <keys prop="Name" type="monster" key="E_d03_CrabSkal_02" value="Skelian" />
+  <keys prop="Description" type="monster" key="E_d03_CrabSkal_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_p02_GhosAncien_02" value="Apanhador de Almas" />
+  <keys prop="Description" type="monster" key="E_p02_GhosAncien_02Detail" value="Guardião do Purgatório" />
+  <keys prop="Name" type="monster" key="E_D22_Impsu_05" value="Guardião Mágico" />
+  <keys prop="Description" type="monster" key="E_D22_Impsu_05Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_d03_Irmion_01" value="Arakan" />
+  <keys prop="Description" type="monster" key="E_d03_Irmion_01Detail" value="Sumo Sacerdote" />
+  <keys prop="Name" type="monster" key="E_d03_Devco_01" value="Guia da Angústia" />
+  <keys prop="Description" type="monster" key="E_d03_Devco_01Detail" value="Mestre Boneco" />
+  <keys prop="Name" type="monster" key="E_f03_DrFrBoy0_0001" value="Poreon" />
+  <keys prop="Description" type="monster" key="E_f03_DrFrBoy0_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f03_DrFrBoy1_0001" value="Galerion" />
+  <keys prop="Description" type="monster" key="E_f03_DrFrBoy1_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f04_DrFrBoy2_0001" value="Runelon" />
+  <keys prop="Description" type="monster" key="E_f04_DrFrBoy2_0001Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_d22_0_RabMer_0003" value="Lebrini Colecionador de Relíquias" />
+  <keys prop="Description" type="monster" key="E_d22_0_RabMer_0003Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_d22_0_RabMer_0004" value="Lebrini Colecionador de Relíquias" />
+  <keys prop="Description" type="monster" key="E_d22_0_RabMer_0004Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_d04_Devco_01" value="Guia da Angústia" />
+  <keys prop="Description" type="monster" key="E_d04_Devco_01Detail" value="Mestre Boneco" />
+  <keys prop="Name" type="monster" key="E_p02_Spirwisp_04" value="Espírito" />
+  <keys prop="Description" type="monster" key="E_p02_Spirwisp_04Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_p02_UnderRabu_02" value="Ladrão de Túmulos" />
+  <keys prop="Description" type="monster" key="E_p02_UnderRabu_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_p02_UnAgMag_02" value="Espectro Psíquico" />
+  <keys prop="Description" type="monster" key="E_p02_UnAgMag_02Detail" value="Sentinela Eterno" />
+  <keys prop="Name" type="monster" key="E_p02_UnAgHunt_02" value="Caçador de Espíritos" />
+  <keys prop="Description" type="monster" key="E_p02_UnAgHunt_02Detail" value="Sentinela Eterno" />
+  <keys prop="Name" type="monster" key="E_D22_Magic_05" value="Xamã da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="E_D22_Magic_05Detail" value="Servo de Izhora" />
+  <keys prop="Name" type="monster" key="E_f03_DrFrBoy0_0002" value="Poreon" />
+  <keys prop="Description" type="monster" key="E_f03_DrFrBoy0_0002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f03_DrFrBoy1_0002" value="Galerion" />
+  <keys prop="Description" type="monster" key="E_f03_DrFrBoy1_0002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_f04_DrFrBoy2_0002" value="Runelon" />
+  <keys prop="Description" type="monster" key="E_f04_DrFrBoy2_0002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_d04_ReblGuard_01" value="Guarda Suspeito" />
+  <keys prop="Description" type="monster" key="E_d04_ReblGuard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d03_Ankel_0002" value="Ankelion" />
+  <keys prop="Description" type="monster" key="E_d03_Ankel_0002Detail" value="Sumo Sacerdote" />
+  <keys prop="Name" type="monster" key="E_F05_GoleStrom_002" value="Dispositivo de Descarte" />
+  <keys prop="Description" type="monster" key="E_F05_GoleStrom_002Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_F05_GoleStrom_003" value="Tempestade de Areia" />
+  <keys prop="Description" type="monster" key="E_F05_GoleStrom_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_GoleBreak_004" value="Fragmento de Tempestade" />
+  <keys prop="Description" type="monster" key="E_F05_GoleBreak_004Detail" value=" " />
+  <keys prop="Name" type="monster" key="e_d24_Knigh_01" value="Soldado da Guarda" />
+  <keys prop="Description" type="monster" key="e_d24_Knigh_01Detail" value="Defesa do Covil" />
+  <keys prop="Name" type="monster" key="e_d24_Knigh_02" value="Soldado da Guarda" />
+  <keys prop="Description" type="monster" key="e_d24_Knigh_02Detail" value="Defesa do Covil" />
+  <keys prop="Name" type="monster" key="e_d24_LKnigh_01" value="Capitão da Guarda" />
+  <keys prop="Description" type="monster" key="e_d24_LKnigh_01Detail" value="Defesa do Covil" />
+  <keys prop="Description" type="monster" key="ss_right_arm" value="Braço de Rocha de Tempestade de Areia" />
+  <keys prop="Description" type="monster" key="ss_left_arm" value="Mãos de Rocha de Tempestade de Areia" />
+  <keys prop="Description" type="monster" key="ss_core" value="Coração de Tempestade de Areia" />
+  <keys prop="Name" type="monster" key="E_D13_Devco_05" value="Mago Sombrio Nibar" />
+  <keys prop="Description" type="monster" key="E_D13_Devco_05Detail" value="Sombra de Nibar" />
+  <keys prop="Name" type="monster" key="E_D13_GagoRock_04" value="Gárgula de Pedra" />
+  <keys prop="Description" type="monster" key="E_D13_GagoRock_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D13_GagoTamp_04" value="Gárgula Subterrânea" />
+  <keys prop="Description" type="monster" key="E_D13_GagoTamp_04Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_KingBat_04" value="Morcego Ancestral" />
+  <keys prop="Description" type="monster" key="E_D13_KingBat_04Detail" value="Servo" />
+  <keys prop="Name" type="monster" key="E_D13_Spir_sinsia_1" value="Armadilha Paralisante" />
+  <keys prop="Description" type="monster" key="E_D13_Spir_sinsia_1Detail" value=" " />
+  <keys prop="Name" type="monster" key="E_D13_AElephant_001" value="Taisha Gigante" />
+  <keys prop="Description" type="monster" key="E_D13_AElephant_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_GoleStrom_004" value="Awakened Sandstorm" />
+  <keys prop="Description" type="monster" key="E_F05_GoleStrom_004Detail" value="Forgotten Guardian" />
+  <keys prop="Name" type="monster" key="E_F05_GoleStrom_005" value="Disposal Device" />
+  <keys prop="Description" type="monster" key="E_F05_GoleStrom_005Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_GoleStrom_006" value="Sandstorm" />
+  <keys prop="Description" type="monster" key="E_F05_GoleStrom_006Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_GoleStrom_007" value="Sandstorm" />
+  <keys prop="Description" type="monster" key="E_F05_GoleStrom_007Detail" value="" />
+  <keys prop="Name" type="monster" key="E_F05_GoleBreak_005" value="Storm Fragment" />
+  <keys prop="Description" type="monster" key="E_F05_GoleBreak_005Detail" value="" />
 </files>

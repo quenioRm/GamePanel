@@ -67,7 +67,7 @@ class TableCharacter extends Model
             foreach ($characters as $key => $character) {
                 if(!empty($character->characterStatus->toArray())){
                     if($character->characterStatus[0]['onlineStatus'] == $online){
-                        $character->MapId = Functions::GetDataFromXML($character->MapId, $lang);
+                        $character->MapId = Functions::GetNameTranslateFromXml($character->MapId, $lang);
                         $character->Class = Functions::GetClassName($character->Class);
 
                         return $character;

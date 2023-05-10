@@ -79,6 +79,14 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
     Route::get('getonlineaccounts', [App\Http\Controllers\Games\IcarusAccountController::class,
     'GetOnlineAccounts'])->name('getonlineaccounts');
 
+    // WIKI
+    Route::prefix('wiki')->name('wiki.')->group( function(){
+
+        Route::get('getitemdescription/{itemid}', [App\Http\Controllers\Games\IcarusWikiApiController::class,
+        'GetItemDescription'])->name('getitemdescription');
+
+    });
+
 });
 
 Route::prefix('launcher')->name('launcher.')->group( function(){
@@ -87,6 +95,9 @@ Route::prefix('launcher')->name('launcher.')->group( function(){
     'GetNews'])->name('getnews');
 
 });
+
+
+
 
 
 //

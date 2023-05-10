@@ -53,7 +53,7 @@ class Functions{
         }
     }
 
-    public static function GetDataFromXML($id, $langFolder)
+    public static function GetNameTranslateFromXml($id, $langFolder, $param = "Name")
     {
         $myfiles = array_diff(scandir('assets/gamelang/' . $langFolder), array('.', '..'));
 
@@ -66,24 +66,13 @@ class Functions{
             $phpArray = json_decode($json, true);
 
             if(!empty($phpArray)){
-                $result = Functions::FindKey($id, $phpArray);
+                $result = Functions::FindKey($id, $phpArray, $param);
                 if($result != null)
                     return $result;
             }
         }
 
         return null;
-    }
-
-    public static function FindKey($id, $phpArray)
-    {
-        foreach ($phpArray as $key => $phpitems) {
-            foreach ($phpitems as $key => $item) {
-                if(isset($item['@attributes']['key']) && $item['@attributes']['key'] == $id){
-                    return $item['@attributes']['value'];
-                }
-            }
-        }
     }
 
     public static function GetClassName($class)
@@ -114,6 +103,54 @@ class Functions{
             default:
                 return "";
                 break;
+        }
+    }
+
+    public static function FindElementInGameBin($id, $element)
+    {
+        $myfiles = array_diff(scandir('assets/gamebins'), array('.', '..'));
+
+        foreach ($myfiles as $key => $file) {
+
+            $xmlString = file_get_contents(public_path('assets/gamebins' . '/' . $file));
+            $xmlObject = simplexml_load_string($xmlString);
+
+            $json = json_encode($xmlObject);
+            $phpArray = json_decode($json, true);
+
+            if(!empty($phpArray)){
+                $result = Functions::FindIcon($id, $phpArray);
+                if($result != null)
+                    return $result;
+            }
+        }
+
+        return null;
+    }
+
+    public static function FindKey($id, $phpArray, $prop)
+    {
+        foreach ($phpArray as $key => $phpitems) {
+            foreach ($phpitems as $key => $item) {
+                if(isset($item['@attributes']['key']) && strtolower($item['@attributes']['key']) == strtolower($id)){
+                    if($item['@attributes']['prop'] == $prop){
+                        return $item['@attributes']['value'];
+                    }
+                }
+            }
+        }
+    }
+
+    public static function FindIcon($id, $phpArray)
+    {
+        foreach ($phpArray as $key => $phpitems) {
+            foreach ($phpitems as $key => $item) {
+                if(isset($item['@attributes']['id'])){
+                    if(strtolower($item['@attributes']['id']) == strtolower($id)){
+                        return $item['@attributes']['icon'];
+                    }
+                }
+            }
         }
     }
 }

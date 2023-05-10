@@ -1,127 +1,433 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="E_f06_Chaser_001" value="W. Spirit Chaser" />
-  <keys type="npc" key="E_f06_Chaser_002" value="B. Spirit Chaser" />
-  <keys type="npc" key="E_D94_VampBat_01" value="Stray Bats" />
-  <keys type="npc" key="E_D94_SkulSoldier_01" value="Lost Adventurer" />
-  <keys type="npc" key="E_D94_SkulSoldier_02" value="Lost Soldier" />
-  <keys type="npc" key="E_D94_SkulSoldier_03" value="Lost Warrior" />
-  <keys type="npc" key="E_D94_ZombElite_01" value="Strong zombie" />
-  <keys type="npc" key="E_D94_ZombElite_02" value="Strong Zombie" />
-  <keys type="npc" key="E_D94_ZombWeak_01" value="Weak Zombie" />
-  <keys type="npc" key="E_D94_GoleGuard_01" value="Forgotten Guardian Golem" />
-  <keys type="npc" key="E_D94_GoleGuard_02" value="Forgotten Destruction Golem" />
-  <keys type="npc" key="E_D94_GoleBomb_01" value="Unstable Shard" />
-  <keys type="npc" key="E_D94_GoleBomb_02" value="Burning Golem Shard" />
-  <keys type="npc" key="E_D94_GoleElite_01" value="Overheated Guardian Golem" />
-  <keys type="npc" key="E_D94_GoleElite_02" value="Runaway Destruction Golem" />
-  <keys type="npc" key="E_D94_TowerGil_01" value="Gilgamesh" />
-  <keys type="npc" key="E_D94_Leopard_01" value="Wild Leopard" />
-  <keys type="npc" key="E_D94_Chimpus_01" value="Wild Kangaroo" />
-  <keys type="npc" key="E_D94_Rhino_01" value="Wild Rhino" />
-  <keys type="npc" key="E_D94_Elephant_01" value="Wild Elephant" />
-  <keys type="npc" key="E_D94_RabHunter_01" value="Veterinarian Laviny" />
-  <keys type="npc" key="E_D94_RabHunter_02" value="Trainer Rabini" />
-  <keys type="npc" key="E_D94_AnimalMst_01" value="Black Panther" />
-  <keys type="npc" key="E_D94_DollHorse_01" value="Wild Sewing Calypse" />
-  <keys type="npc" key="E_D94_DollCat_01" value="Wild Sewing Panos" />
-  <keys type="npc" key="E_D94_DollWolf_01" value="Wild Sewing Phantom" />
-  <keys type="npc" key="E_D94_DollWolf_02" value="Wild Sewing Luna" />
-  <keys type="npc" key="E_D94_DollHorse_02" value="Wild Sewing Calypto" />
-  <keys type="npc" key="E_D94_DollHorse_03" value="Wild Sewing Demonus" />
-  <keys type="npc" key="E_D94_DollHealer_01" value="Fogny" />
-  <keys type="npc" key="E_D94_DevyDoll_01" value="Marie" />
-  <keys type="npc" key="E_D94_DevyDoll_02" value="Net" />
-  <keys type="npc" key="E_D94_Ender_01" value="Lone Executioner" />
-  <keys type="npc" key="E_D94_rabcar_01" value="Suspicious Carrot" />
-  <keys type="npc" key="E_D94_rabcarbomb_01" value="Suspicious Carrot" />
-  <keys type="npc" key="E_D94_SkulSoldier_04" value="Lost Adventurer" />
-  <keys type="npc" key="E_D94_SkulSoldier_05" value="Lost Soldier" />
-  <keys type="npc" key="E_D94_SkulSoldier_06" value="Lost Warrior" />
-  <keys type="npc" key="E_D94_AnimalMst_02" value="Hungry Warrior" />
-  <keys type="npc" key="E_D94_lever_01" value="Delicious Meat" />
-  <keys type="npc" key="E_D94_lever_02" value="Chewy Meats" />
-  <keys type="npc" key="E_D94_lever_03" value="Chewy Meats" />
-  <keys type="npc" key="E_D94_DevyDoll_03" value="Voodoo Doll" />
-  <keys type="npc" key="E_D94_Leopard_02" value="Wild Leopard" />
-  <keys type="npc" key="E_D94_RabHunter_03" value="Veterinarian Rabbini" />
-  <keys type="npc" key="E_D94_RabHunter_04" value="Trainer Rabini" />
-  <keys type="npc" key="E_D94_Trap_01" value="Surprise Trap" />
-  <keys type="npc" key="E_D94_Clear_001" value="Zombie Crystal" />
-  <keys type="npc" key="E_D94_Clear_002" value="Grail's Crystal" />
-  <keys type="npc" key="E_D94_Clear_003" value="Black Panther's Crystal" />
-  <keys type="npc" key="E_D94_Clear_004" value="Puppet Crystal" />
-  <keys type="npc" key="E_D94_Rhino_02" value="Wild Rhino" />
-  <keys type="npc" key="E_D94_Elephant_02" value="Wild Elephant" />
-  <keys type="npc" key="E_D94_Trap_02" value="Surprise Trap" />
-  <keys type="npc" key="E_D11_RedrCrotus_P01" value="Unstable Croctus" />
-  <keys type="npc" key="E_D11_RedrCrotus_P03" value="Empowered Croctus" />
-  <keys type="npc" key="E_D11_RedrCrotus_P05" value="Croctus' Illusion" />
-  <keys type="npc" key="E_D11_RedrCrotus_B02" value="Croctus' Blood Spirit" />
-  <keys type="npc" key="E_D11_RedrCrotus_B03" value="Croctus' Blood Spirit" />
-  <keys type="npc" key="E_D11_RedrCrotus_sm1" value="Revived Hawston" />
-  <keys type="npc" key="E_D11_RedrCrotus_sm2" value="Revived Zenon" />
-  <keys type="npc" key="E_D11_RedrCrotus_sm3" value="Revived Lazart" />
-  <keys type="npc" key="E_D11_RedrCrotus_sm4" value="Revived Shakis" />
-  <keys type="npc" key="E_D11_RedrCrotus_B01" value="Croctus" />
-  <keys type="npc" key="E_D11_Dstone_01" value="Tainted Red Magic Stone" />
-  <keys type="npc" key="E_D11_RedrCrotus_P07" value="Croctus' Illusion" />
-  <keys type="npc" key="E_D11_RedrCrotus_B09" value="Croctus' Blood Spirit" />
-  <keys type="npc" key="E_D11_RedrCrotus_P08" value="Croctus' Illusion" />
-  <keys type="npc" key="E_D88_hydra_h01" value="Dragon Statue Head (Left)" />
-  <keys type="npc" key="E_D88_hydra_h02" value="Dragon Stone Gate (Middle)" />
-  <keys type="npc" key="E_D88_hydra_h03" value="Dragon Stone Gate (Right)" />
-  <keys type="npc" key="E_D88_hydra_b01" value="Dragon Stone Gate (Body)" />
-  <keys type="npc" key="E_D88_mong_001" value="Dragonkin Guard" />
-  <keys type="npc" key="E_D88_monw_001" value="Dragonkin Warrior" />
-  <keys type="npc" key="E_D88_monb_001" value="Dragonkin Archer" />
-  <keys type="npc" key="E_D88_mont_001" value="Hidden Dragonkin Assassin" />
-  <keys type="npc" key="E_D88_mongc_001" value="Dragonkin Elite Guard" />
-  <keys type="npc" key="E_D88_mons_001" value="Dragonkin Gargoyle" />
-  <keys type="npc" key="E_D88_nid_001" value="Nidaroth" />
-  <keys type="npc" key="E_D88_fold_001" value="Folcierra" />
-  <keys type="npc" key="E_D88_quad_001" value="Quadracan" />
-  <keys type="npc" key="E_D88_quad_002" value="Quadracan" />
-  <keys type="npc" key="E_D88_quad_003" value="Quadracan" />
-  <keys type="npc" key="E_D88_hydra_b02" value="Dragon Stone Gate (Body)" />
-  <keys type="npc" key="E_D88_hydra_h04" value="Dragon Statue Head (Left)" />
-  <keys type="npc" key="E_D88_hydra_h05" value="Dragon Stone Gate (Middle)" />
-  <keys type="npc" key="E_D88_hydra_h06" value="Dragon Stone Gate (Right)" />
-  <keys type="npc" key="E_D88_hydra_b03" value="Dragon Stone Gate (Body)" />
-  <keys type="npc" key="E_D88_es_01" value="Cursed Ellora Statue (Head)" />
-  <keys type="npc" key="E_D88_es_02" value="Cursed Ellora Statue (Body)" />
-  <keys type="npc" key="E_D88_es_03" value="Cursed Ellora Statue (Wings)" />
-  <keys type="npc" key="E_D88_monbs_001" value="Stromcaller Archer" />
-  <keys type="npc" key="E_D88_nidfire_001" value="Blazing Ground" />
-  <keys type="npc" key="E_d88_trap_0" value="Lightning Trap" />
-  <keys type="npc" key="E_d88_fold_002" value="Stromcaller Assassin" />
-  <keys type="npc" key="E_D88_hydra_h07" value="Dragon Statue Head (Left)" />
-  <keys type="npc" key="E_D88_hydra_h08" value="Dragon Stone Gate (Middle)" />
-  <keys type="npc" key="E_D88_hydra_h09" value="Dragon Stone Gate (Right)" />
-  <keys type="npc" key="E_D88_hydra_h10" value="Dragon Statue Head (Left)" />
-  <keys type="npc" key="E_D88_hydra_h11" value="Dragon Stone Gate (Middle)" />
-  <keys type="npc" key="E_D88_hydra_h12" value="Dragon Stone Gate (Right)" />
-  <keys type="npc" key="E_D88_hydra_b04" value="Dragon Stone Gate (Body)" />
-  <keys type="npc" key="E_D88_hydra_h13" value="Dragon Statue Head (Left)" />
-  <keys type="npc" key="E_D88_hydra_h14" value="Dragon Stone Gate (Middle)" />
-  <keys type="npc" key="E_D88_hydra_h15" value="Dragon Stone Gate (Right)" />
-  <keys type="npc" key="E_D88_hydra_b05" value="Dragon Stone Gate (Body)" />
-  <keys type="npc" key="E_D88_hydra_h16" value="Dragon Statue Head (Left)" />
-  <keys type="npc" key="E_D88_hydra_h17" value="Dragon Stone Gate (Middle)" />
-  <keys type="npc" key="E_D88_hydra_h18" value="Dragon Stone Gate (Right)" />
-  <keys type="npc" key="E_D88_hydra_b06" value="Dragon Stone Gate (Body)" />
-  <keys type="npc" key="E_D88_startdoor_01" value="Old Iron Gate" />
-  <keys type="npc" key="E_D88_modeltest_002" value="Dragonkin Guard Captain" />
-  <keys type="npc" key="E_D88_nidstone_001" value="First Water Energy" />
-  <keys type="npc" key="E_D88_nidstone_002" value="Second Water Energy" />
-  <keys type="npc" key="E_D88_nidstone_003" value="Third Water Energy" />
-  <keys type="npc" key="E_D88_nidstone_004" value="Fourth Water Energy" />
-  <keys type="npc" key="E_D88_waterdar_001" value="Cold-Blooded Leviathan" />
-  <keys type="npc" key="E_D88_waterdar_002" value="Cold-Blooded Leviathan" />
-  <keys type="npc" key="E_D88_waterdar_003" value="Cold-Blooded Leviathan" />
-  <keys type="npc" key="E_D88_Thunder_001" value="Thunderstorm" />
-  <keys type="npc" key="E_D11_GAE_COS" value="Croctus" />
-  <keys type="npc" key="E_F09_GAE_ATTAIUS" value="Attaius" />
-  <keys type="npc" key="e_e01_ghosshrin_2" value="Grim Reaper" />
-  <keys type="npc" key="E_Event_Con_Xmas" value="Algidus" />
+  <keys prop="Description" type="monster" key="e_event_contag_01" value="" />
+  <keys prop="Description" type="monster" key="e_event_contag_01detail" value="" />
+  <keys prop="Description" type="monster" key="e_event_makerav_0001" value="" />
+  <keys prop="Description" type="monster" key="e_event_makerav_0001detail" value="" />
+  <keys prop="Description" type="monster" key="e_event_conpega_01" value="" />
+  <keys prop="Description" type="monster" key="e_event_conpega_01detail" value="" />
+  <keys prop="Description" type="monster" key="e_event_congold_01" value="" />
+  <keys prop="Description" type="monster" key="e_event_gdragon_01" value="" />
+  <keys prop="Description" type="monster" key="e_event_agnas_01" value="" />
+  <keys prop="Description" type="monster" key="e_event_congold_01detail" value="" />
+  <keys prop="Description" type="monster" key="e_event_gdragon_01detail" value="" />
+  <keys prop="Description" type="monster" key="e_event_agnas_01detail" value="" />
+  <keys prop="Name" type="monster" key="E_f06_Chaser_001" value="" />
+  <keys prop="Name" type="monster" key="E_f06_Chaser_002" value="" />
+  <keys prop="Description" type="monster" key="E_f06_Chaser_001detail" value="" />
+  <keys prop="Description" type="monster" key="E_f06_Chaser_002detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_VampBat_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_VampBat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_03" value="" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_ZombElite_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_ZombElite_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_ZombElite_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_ZombElite_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_ZombWeak_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_ZombWeak_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleGuard_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_GoleGuard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleGuard_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_GoleGuard_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleBomb_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_GoleBomb_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleBomb_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_GoleBomb_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleElite_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_GoleElite_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_GoleElite_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_GoleElite_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_TowerGil_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_TowerGil_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Leopard_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Leopard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Chimpus_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Chimpus_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Rhino_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Rhino_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Elephant_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Elephant_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_AnimalMst_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_AnimalMst_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollHorse_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DollHorse_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollCat_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DollCat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollWolf_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DollWolf_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollWolf_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DollWolf_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollHorse_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DollHorse_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollHorse_03" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DollHorse_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DollHealer_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DollHealer_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DevyDoll_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DevyDoll_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DevyDoll_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DevyDoll_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Ender_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Ender_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_rabcar_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_rabcar_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_rabcarbomb_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_rabcarbomb_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_04" value="" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_05" value="" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_SkulSoldier_06" value="" />
+  <keys prop="Description" type="monster" key="E_D94_SkulSoldier_06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_AnimalMst_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_AnimalMst_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_lever_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_lever_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_lever_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_lever_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_lever_03" value="" />
+  <keys prop="Description" type="monster" key="E_D94_lever_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_DevyDoll_03" value="" />
+  <keys prop="Description" type="monster" key="E_D94_DevyDoll_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Leopard_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Leopard_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_03" value="" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_RabHunter_04" value="" />
+  <keys prop="Description" type="monster" key="E_D94_RabHunter_04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Trap_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Trap_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_001" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_002" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_003" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Clear_004" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Clear_004Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Rhino_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Rhino_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Elephant_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Elephant_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D94_Trap_02" value="" />
+  <keys prop="Description" type="monster" key="E_D94_Trap_02Detail" value="" />
+  <keys prop="Description" type="monster" key="e_c00_halowghsta_01" value="" />
+  <keys prop="Description" type="monster" key="e_c00_halowghstb_01" value="" />
+  <keys prop="Description" type="monster" key="e_c00_halowghst_001" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_P01" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_P01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_P03" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_P03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_P05" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_P05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_B02" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_B02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_B03" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_B03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_sm1" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_sm1Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_sm2" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_sm2Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_sm3" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_sm3Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_sm4" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_sm4Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_B01" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_B01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_Dstone_01" value="" />
+  <keys prop="Description" type="monster" key="E_D11_Dstone_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_P07" value="" />
+  <keys prop="Description" type="monster" key="E_D11_RedrCrotus_P07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_B09" value="" />
+  <keys prop="Name" type="monster" key="E_D11_RedrCrotus_P08" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h01" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h02" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h03" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_b01" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_b01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_mong_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_mong_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_monw_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_monw_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_monb_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_monb_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_mont_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_mont_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_mongc_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_mongc_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_mons_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_mons_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_nid_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_nid_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_fold_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_fold_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_quad_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_quad_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_quad_002" value="" />
+  <keys prop="Description" type="monster" key="E_D88_quad_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_quad_003" value="" />
+  <keys prop="Description" type="monster" key="E_D88_quad_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_b02" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_b02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h04" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h05" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h06" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_b03" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_b03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_es_01" value="" />
+  <keys prop="Description" type="monster" key="E_D88_es_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_es_02" value="" />
+  <keys prop="Description" type="monster" key="E_D88_es_02Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_es_03" value="" />
+  <keys prop="Description" type="monster" key="E_D88_es_03Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_monbs_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_monbs_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_nidfire_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_nidfire_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d88_trap_0" value="" />
+  <keys prop="Description" type="monster" key="E_d88_trap_0Detail" value="" />
+  <keys prop="Name" type="monster" key="E_d88_fold_002" value="" />
+  <keys prop="Description" type="monster" key="E_d88_fold_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h07" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h07Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h08" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h08Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h09" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h09Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h10" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h10Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h11" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h11Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h12" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h12Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_b04" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_b04Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h13" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h13Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h14" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h14Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h15" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h15Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_b05" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_b05Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h16" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h16Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h17" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h17Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_h18" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_h18Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_hydra_b06" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hydra_b06Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_startdoor_01" value="" />
+  <keys prop="Description" type="monster" key="E_D88_startdoor_01Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_modeltest_002" value="" />
+  <keys prop="Description" type="monster" key="E_D88_modeltest_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_nidstone_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_nidstone_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_nidstone_002" value="" />
+  <keys prop="Description" type="monster" key="E_D88_nidstone_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_nidstone_003" value="" />
+  <keys prop="Description" type="monster" key="E_D88_nidstone_003Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_nidstone_004" value="" />
+  <keys prop="Description" type="monster" key="E_D88_nidstone_004Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_waterdar_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_waterdar_001Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_waterdar_002" value="" />
+  <keys prop="Description" type="monster" key="E_D88_waterdar_002Detail" value="" />
+  <keys prop="Name" type="monster" key="E_D88_waterdar_003" value="" />
+  <keys prop="Description" type="monster" key="E_D88_waterdar_003Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hide_r01" value="" />
+  <keys prop="Description" type="monster" key="E_D88_hide_r02" value="" />
+  <keys prop="Description" type="monster" key="E_D88_es_o01" value="" />
+  <keys prop="Description" type="monster" key="E_D88_es_o02" value="" />
+  <keys prop="Description" type="monster" key="E_D88_es_o03" value="" />
+  <keys prop="Name" type="monster" key="E_D88_Thunder_001" value="" />
+  <keys prop="Description" type="monster" key="E_D88_Thunder_001Detail" value="" />
+  <keys prop="Description" type="monster" key="e_NA_Aqabes_001" value="" />
+  <keys prop="Description" type="monster" key="e_c00_jppegaa_001" value="" />
+  <keys prop="Name" type="monster" key="E_D11_GAE_COS" value="" />
+  <keys prop="Description" type="monster" key="E_D11_GAE_COSDetail" value="" />
+  <keys prop="Name" type="monster" key="E_F09_GAE_ATTAIUS" value="" />
+  <keys prop="Name" type="monster" key="e_e01_ghosshrin_2" value="" />
+  <keys prop="Description" type="monster" key="e_e01_ghosshrin_2Detail" value="" />
+  <keys prop="Description" type="monster" key="e_f08_nspiroon_001" value="" />
+  <keys prop="Name" type="monster" key="E_Event_Con_Xmas" value="" />
+  <keys prop="Description" type="monster" key="E_Event_Con_XmasDetail" value="" />
+  <keys prop="Description" type="monster" key="e_d88_quad_004" value="" />
+  <keys prop="Description" type="monster" key="e_d88_quad_004detail" value="" />
+  <keys prop="Description" type="monster" key="e_sc_celfneebl_01" value="" />
+  <keys prop="Description" type="monster" key="e_sc_celfneebl_01detail" value="" />
+  <keys prop="Description" type="monster" key="e_sc_celfneebl_02" value="" />
+  <keys prop="Description" type="monster" key="e_sc_celfneebl_02detail" value="" />
+  <keys prop="Description" type="monster" key="e_sc_zombweak_01" value="" />
+  <keys prop="Description" type="monster" key="e_sc_zombweak_01detail" value="" />
+  <keys prop="Description" type="monster" key="e_sc_devydoll_01" value="" />
+  <keys prop="Description" type="monster" key="e_sc_devydoll_01detail" value="" />
+  <keys prop="Description" type="monster" key="e_sc_devydoll_02" value="" />
+  <keys prop="Description" type="monster" key="e_sc_devydoll_02detail" value="" />
+  <keys prop="Description" type="monster" key="e_f07_blossom_001" value="" />
+  <keys prop="Description" type="monster" key="e_f07_blossom_001detail" value="" />
+  <keys prop="Description" type="monster" key="e_event_rabsummer_3" value="" />
+  <keys prop="Description" type="monster" key="e_event_rabsummer_3detail" value="" />
+  <keys prop="Description" type="monster" key="E_D00_FireSpine_02" value="" />
+  <keys prop="Description" type="monster" key="E_D00_FireSpine_03" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakSkull_01" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakSkull_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakSkull_02" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakSkull_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakHound_01" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakHound_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakGole_01" value="" />
+  <keys prop="Description" type="monster" key="E_D00_AwakGole_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakBat_01" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakBat_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakGust_01" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakGust_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakLamb_01" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakLamb_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakRan_01" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakRan_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakVamp_01" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakVamp_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D02_AwakIren_01" value="" />
+  <keys prop="Description" type="monster" key="E_D02_AwakIren_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D02_AwakMatu_01" value="" />
+  <keys prop="Description" type="monster" key="E_D02_AwakMatu_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D02_AwakLiger_01" value="" />
+  <keys prop="Description" type="monster" key="E_D02_AwakLiger_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D02_Awakyeti_01" value="" />
+  <keys prop="Description" type="monster" key="E_D02_Awakyeti_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakSkal_01" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakSkal_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakKeron_01" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakKeron_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakIrmion_01" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakIrmion_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakDevco_01" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakDevco_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakAnkel_02" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakAnkel_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakKeron_02" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakKeron_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakIrmion_02" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakIrmion_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakEye_01" value="" />
+  <keys prop="Description" type="monster" key="E_D03_AwakEye_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakBalbo_01" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakBalbo_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakDelam_01" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakDelam_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakRondL_01" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakRondL_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_00" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_00Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_01" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_02" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_03" value="" />
+  <keys prop="Description" type="monster" key="E_D04_Awakwolf_03Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakRondH_01" value="" />
+  <keys prop="Description" type="monster" key="E_D04_AwakRondH_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakGole_01" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakGole_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakRex_01" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakRex_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakRay_01" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakRay_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakIzho_01" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakIzho_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakSinsia_01" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakSinsia_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakNibar_01" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakNibar_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakMerc_01" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakMerc_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakJaso_01" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakJaso_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakNas_01" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakNas_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakDatu_01" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakDatu_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakHElder_01" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakHElder_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakDElder_01" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakDElder_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakWorm_01" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakWorm_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakKinu_01" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakKinu_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZarq_01" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZarq_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZanu_01" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZanu_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakKinu_02" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakKinu_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZarq_02" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZarq_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZanu_02" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakZanu_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakBelte_R" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakBelte_RDetail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakBelte_S" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakBelte_SDetail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakKuro_01" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakKuro_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_d00_awakBoom_01" value="" />
+  <keys prop="Description" type="monster" key="e_d07_buglancaw_01" value="" />
+  <keys prop="Description" type="monster" key="E_D07_ExceBetaw_01" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakKim_01" value="" />
+  <keys prop="Description" type="monster" key="E_D01_AwakKim_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D07_AwakBio_01" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakNibar_02" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakNibar_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakImp_01" value="" />
+  <keys prop="Description" type="monster" key="E_D22_AwakImp_01Detail" value="" />
+  <keys prop="Description" type="monster" key="e_p02_elitemagi_01" value="" />
+  <keys prop="Description" type="monster" key="e_p02_elitemagi_01Detail" value="" />
+  <keys prop="Description" type="monster" key="e_p02_elitewarr_01" value="" />
+  <keys prop="Description" type="monster" key="e_p02_elitewarr_01Detail" value="" />
+  <keys prop="Description" type="monster" key="e_p02_eliteskull_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_P02_Areye_1" value="" />
+  <keys prop="Description" type="monster" key="E_P02_Areye_1Detail" value="" />
+  <keys prop="Description" type="monster" key="E_P02_Areye_0Detail" value="" />
+  <keys prop="Description" type="monster" key="e_p02_deadbismo_02Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D94_TowerArc_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_TowerArc_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D94_TowerSab_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_TowerSab_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D94_TowerRid_01" value="" />
+  <keys prop="Description" type="monster" key="E_D94_TowerRid_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_EV_GrimReaper_01" value="" />
+  <keys prop="Description" type="monster" key="E_EV_GrimReaper_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_EV_SkyGod_01" value="" />
+  <keys prop="Description" type="monster" key="E_EV_SkyGod_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_EV_Celestial_01" value="" />
+  <keys prop="Description" type="monster" key="E_Ev_Dullahan_01" value="" />
+  <keys prop="Description" type="monster" key="E_Ev_Dullahan_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_Ev_Skelliago_01" value="" />
+  <keys prop="Description" type="monster" key="E_Ev_Skelliago_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakJaso_01" value="" />
+  <keys prop="Description" type="monster" key="E_D13_AwakJaso_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakDElder_01" value="" />
+  <keys prop="Description" type="monster" key="E_D12_AwakDElder_01Detail" value="" />
+  <keys prop="Description" type="monster" key="E_solo_SkulSoldier_1" value="" />
+  <keys prop="Description" type="monster" key="E_solo_SkulSoldier_2" value="" />
+  <keys prop="Description" type="monster" key="E_solo_SkulSoldier_3" value="" />
+  <keys prop="Description" type="monster" key="e_d88_nidfire_002" value="" />
 </files>

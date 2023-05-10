@@ -138,7 +138,7 @@ class RegisterController extends Controller
 
         return $request->wantsJson()
         ? response()->json(['resultCode' => 0, 'resultMsg' => 'success', 'returnUrl' => '' ], 200)
-        : redirect(route('login'));
+        : redirect(route('gamepanel.login'));
     }
 
     public function isBlockEmailDomain(Request $request)

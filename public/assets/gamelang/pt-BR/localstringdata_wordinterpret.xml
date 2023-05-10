@@ -1,2 +1,1301 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="SecDamage" value="DPS" />
+  <keys prop="Description" type="monster" key="CriticalRate" value="Taxa de Crítico" />
+  <keys prop="Description" type="monster" key="CombinePower" value="Solidariedade" />
+  <keys prop="Description" type="monster" key="Casting" value="Conjuração" />
+  <keys prop="Description" type="monster" key="Activity" value="Ativar" />
+  <keys prop="Description" type="monster" key="InvCastingTarget" value="Reverse Casting_Target" />
+  <keys prop="Description" type="monster" key="CoolTime" value="Tempo de Recarga:" />
+  <keys prop="Description" type="monster" key="CannotTrade" value="Não negociável" />
+  <keys prop="Description" type="monster" key="CannotDestroy" value="Indestrutível" />
+  <keys prop="Description" type="monster" key="CanTrade" value="Negociável" />
+  <keys prop="Description" type="monster" key="BelongingGet" value="Vinculado ao Obter" />
+  <keys prop="Description" type="monster" key="BelongingEquip" value="Vinculado ao Equipar" />
+  <keys prop="Description" type="monster" key="CannotPerTrade" value="Não trocável" />
+  <keys prop="Description" type="monster" key="CannotShopTrade" value="Não vendível" />
+  <keys prop="Description" type="monster" key="LimitEquip" value="Limited Equip" />
+  <keys prop="Description" type="monster" key="Upper" value="Acima" />
+  <keys prop="Description" type="monster" key="AttackAttr" value="Afinidade de Ataque" />
+  <keys prop="Description" type="monster" key="AttackAttrNone" value="Sem Afinidade" />
+  <keys prop="Description" type="monster" key="Phy" value="Físico" />
+  <keys prop="Description" type="monster" key="Fire" value="Fogo" />
+  <keys prop="Description" type="monster" key="Ice" value="Ice" />
+  <keys prop="Description" type="monster" key="Light" value="Light" />
+  <keys prop="Description" type="monster" key="Dark" value="Sombrio" />
+  <keys prop="Description" type="monster" key="OneHandSword" value="Espada" />
+  <keys prop="Description" type="monster" key="TwoHandSword" value="Montante" />
+  <keys prop="Description" type="monster" key="OneHandHammer" value="Porrete" />
+  <keys prop="Description" type="monster" key="TwoHandHammer" value="Malho" />
+  <keys prop="Description" type="monster" key="OneHandDagger" value="Adaga" />
+  <keys prop="Description" type="monster" key="TwoHandGun" value="Fuzil" />
+  <keys prop="Description" type="monster" key="OneHandMagicStaff" value="Cetro" />
+  <keys prop="Description" type="monster" key="TwoHandMagicStaff" value="Cajado" />
+  <keys prop="Description" type="monster" key="twohandbow" value="Arco" />
+  <keys prop="Description" type="monster" key="DuelGun" value="Armas Duplas" />
+  <keys prop="Description" type="monster" key="EquipPos" value="Posição de Equipamento" />
+  <keys prop="Description" type="monster" key="Jacket" value="Top" />
+  <keys prop="Description" type="monster" key="Pants" value="Parte Inferior" />
+  <keys prop="Description" type="monster" key="Gloves" value="Gloves" />
+  <keys prop="Description" type="monster" key="boots" value="Sapatos" />
+  <keys prop="Description" type="monster" key="hat" value="Helm" />
+  <keys prop="Description" type="monster" key="Shoulder" value="Brafoneira" />
+  <keys prop="Description" type="monster" key="shield" value="Escudo" />
+  <keys prop="Description" type="monster" key="artifact" value="Brasão" />
+  <keys prop="Description" type="monster" key="Gauntlet" value="Gauntlets" />
+  <keys prop="Description" type="monster" key="SubItem" value="Item Secundário" />
+  <keys prop="Description" type="monster" key="Ring" value="Anel" />
+  <keys prop="Description" type="monster" key="Necklace" value="Colar" />
+  <keys prop="Description" type="monster" key="RequireStr" value="Força Requerida" />
+  <keys prop="Description" type="monster" key="RequireDex" value="Destreza Requerida" />
+  <keys prop="Description" type="monster" key="RequireInt" value="Inteligência Requerida" />
+  <keys prop="Description" type="monster" key="RequireVit" value="Vida Requerida" />
+  <keys prop="Description" type="monster" key="RequireSpr" value="Mana Requerida" />
+  <keys prop="Description" type="monster" key="Job" value="Class" />
+  <keys prop="Description" type="monster" key="Warrior" value="Berserker" />
+  <keys prop="Description" type="monster" key="Guardian" value="Guardian" />
+  <keys prop="Description" type="monster" key="Priest" value="Sacerdote" />
+  <keys prop="Description" type="monster" key="Wizard" value="Feiticeiro" />
+  <keys prop="Description" type="monster" key="Archer" value="Arqueiro" />
+  <keys prop="Description" type="monster" key="Thief" value="Assassino" />
+  <keys prop="Description" type="monster" key="AttackSpeed" value="Velocidade de Ataque" />
+  <keys prop="Description" type="monster" key="Damage" value="Dano" />
+  <keys prop="Description" type="monster" key="Durability" value="Durabilidade" />
+  <keys prop="Description" type="monster" key="Maker" value="Crafter" />
+  <keys prop="Description" type="monster" key="EMPowerLevel" value="Temperar:" />
+  <keys prop="Description" type="monster" key="sellprice" value="Valor" />
+  <keys prop="Description" type="monster" key="buyprice" value="Preço de Compra" />
+  <keys prop="Description" type="monster" key="CreatureCanLink" value="Familiar Vinculável" />
+  <keys prop="Description" type="monster" key="CreatureCanEquip" value="Familiar Equipável" />
+  <keys prop="Description" type="monster" key="CreatedChar" value="Personagem Criado" />
+  <keys prop="Description" type="monster" key="Warning" value="Aviso" />
+  <keys prop="Description" type="monster" key="Personal" value="Pessoal" />
+  <keys prop="Description" type="monster" key="Free" value="Livre" />
+  <keys prop="Description" type="monster" key="Summon" value="Invocar" />
+  <keys prop="Description" type="monster" key="Return" value="Retornar" />
+  <keys prop="Description" type="monster" key="Incubator" value="Incubator" />
+  <keys prop="Description" type="monster" key="Error" value="Erro" />
+  <keys prop="Description" type="monster" key="Notice" value="Anúncio" />
+  <keys prop="Description" type="monster" key="complete" value="Completo" />
+  <keys prop="Description" type="monster" key="STP_TRAIT" value="Livre" />
+  <keys prop="Description" type="monster" key="STP_TECH" value="Invocar" />
+  <keys prop="Description" type="monster" key="STC_GENE" value="Retornar" />
+  <keys prop="Description" type="monster" key="STC_SWAP" value="Incubadora" />
+  <keys prop="Description" type="monster" key="STC_LEARN" value="Erro" />
+  <keys prop="Description" type="monster" key="STC_CREATE" value="Anúncio" />
+  <keys prop="Description" type="monster" key="STC_POTEN" value="Completo" />
+  <keys prop="Description" type="monster" key="STC_CHANGE" value="Completo" />
+  <keys prop="Description" type="monster" key="STN_LEARN" value="Completo" />
+  <keys prop="Description" type="monster" key="SCT_NONE" value="Criar" />
+  <keys prop="Description" type="monster" key="SCT_FORWARD" value="Potencial" />
+  <keys prop="Description" type="monster" key="SCT_BACKWARD1" value="Mudar" />
+  <keys prop="Description" type="monster" key="SCT_BACKWARD2" value="HABILIDADE (APRENDER)" />
+  <keys prop="Description" type="monster" key="SCT_DIRECT" value="NADA" />
+  <keys prop="Description" type="monster" key="STT_NONE" value="Ação para Frente" />
+  <keys prop="Description" type="monster" key="STT_SELF" value="Ação para Trás 1" />
+  <keys prop="Description" type="monster" key="STT_GROUND" value="Ação para Trás 2" />
+  <keys prop="Description" type="monster" key="STT_FRIENDLY" value="Ativação Imediata" />
+  <keys prop="Description" type="monster" key="STT_ENEMY" value="NADA (Sem Alvo)" />
+  <keys prop="Description" type="monster" key="STT_FAMILY" value="VOCÊ (Mirar em você)" />
+  <keys prop="Description" type="monster" key="STT_OWNER" value="CHÃO (Mirar no Terreno)" />
+  <keys prop="Description" type="monster" key="STT_MYCREATURE" value="AMIGÁVEL (Mirar em Aliado)" />
+  <keys prop="Description" type="monster" key="CFS_NONE" value="INIMIGO (Mirar em Inimigo)" />
+  <keys prop="Description" type="monster" key="CFS_NEUTRAL" value="FAMÍLIA (Alvo (MyPlayer+MyCreature))" />
+  <keys prop="Description" type="monster" key="CFS_FURY" value="DONO (Alvo (MyPlayer))" />
+  <keys prop="Description" type="monster" key="CFS_MORALE" value="MINHACRIATURA (Alvo (MyCreature))" />
+  <keys prop="Description" type="monster" key="CFS_BRAVE" value="NENHUM (Nenhum Emote)" />
+  <keys prop="Description" type="monster" key="CFS_FURY_EX" value="NEUTRO (Emote Neutro)" />
+  <keys prop="Description" type="monster" key="CFS_MORALE_EX" value="RAIVA (Emote de Raiva)" />
+  <keys prop="Description" type="monster" key="CFS_BRAVE_EX" value="ÂNIMO (Emote de Ânimo)" />
+  <keys prop="Description" type="monster" key="SET_NONE" value="VALENTE (Emote de Valente)" />
+  <keys prop="Description" type="monster" key="SET_PHYSIC" value="IRA_EX (Explosão de Ira)" />
+  <keys prop="Description" type="monster" key="SET_MAGIC" value="Nível de Habilidade" />
+  <keys prop="Description" type="monster" key="SET_MIND" value="Nível de Habilidade" />
+  <keys prop="Description" type="monster" key="STS_DEATH" value="Nível de Habilidade" />
+  <keys prop="Description" type="monster" key="STS_ALIVE" value="Nível de Habilidade" />
+  <keys prop="Description" type="monster" key="STS_ALL" value="Nível de Habilidade" />
+  <keys prop="Description" type="monster" key="SkillLevel" value="Nível de Habilidade" />
+  <keys prop="Description" type="monster" key="UseMP" value="Custo de Mana" />
+  <keys prop="Description" type="monster" key="Attribute" value="Afinidade" />
+  <keys prop="Description" type="monster" key="active" value="Ativa" />
+  <keys prop="Description" type="monster" key="Passive" value="Passiva" />
+  <keys prop="Description" type="monster" key="CastTime" value="Tempo de Ação:" />
+  <keys prop="Description" type="monster" key="Second" value=" s" />
+  <keys prop="Description" type="monster" key="Backward" value="Ativado Quando Feito" />
+  <keys prop="Description" type="monster" key="CastDirect" value="Instantâneo" />
+  <keys prop="Description" type="monster" key="StandByCoolTime" value="Tempo de Recarga" />
+  <keys prop="Description" type="monster" key="SkillEffect" value="Efeito de Habilidade" />
+  <keys prop="Description" type="monster" key="RequireWeapon" value="Arma:" />
+  <keys prop="Description" type="monster" key="RequireHP" value="Vida Consumida:" />
+  <keys prop="Description" type="monster" key="RequireLevel" value="Nível Necessário:" />
+  <keys prop="Description" type="monster" key="equiplevel" value="Nível Exigido:" />
+  <keys prop="Description" type="monster" key="RequrePoint" value="Pontos Cumulativos de Habilidade Exigidos" />
+  <keys prop="Description" type="monster" key="NextLevel" value="Próximo Nível" />
+  <keys prop="Description" type="monster" key="Form" value="Modelo" />
+  <keys prop="Description" type="monster" key="Hair" value="Head" />
+  <keys prop="Description" type="monster" key="Face" value="Rosto" />
+  <keys prop="Description" type="monster" key="Channel" value="Canal" />
+  <keys prop="Description" type="monster" key="Closed" value="Cheio" />
+  <keys prop="Description" type="monster" key="Normal" value="Comum" />
+  <keys prop="Description" type="monster" key="Recommend" value="Melhor" />
+  <keys prop="Description" type="monster" key="Crowded" value="Disponível" />
+  <keys prop="Description" type="monster" key="PossessCreature" value="Familiar Possuído" />
+  <keys prop="Description" type="monster" key="Nedian" value="NED" />
+  <keys prop="Description" type="monster" key="CreateDialog" value="Criar Janela de Bate-Papo" />
+  <keys prop="Description" type="monster" key="DeleteDialog" value="Fechar Janela de Bate-Papo" />
+  <keys prop="Description" type="monster" key="SetChannel" value="Definir Canal" />
+  <keys prop="Description" type="monster" key="ChatNormal" value="Bate-Papo Geral" />
+  <keys prop="Description" type="monster" key="ChatParty" value="Bate-Papo do Grupo" />
+  <keys prop="Description" type="monster" key="ChatGuild" value="Bate-Papo da Guilda" />
+  <keys prop="Description" type="monster" key="ChatWhisper" value="Sussurro" />
+  <keys prop="Description" type="monster" key="ChatPublic" value="Bate-Papo Público" />
+  <keys prop="Description" type="monster" key="ChatTrade" value="Bate-Papo da Troca" />
+  <keys prop="Description" type="monster" key="ChatSystem" value="Sistema" />
+  <keys prop="Description" type="monster" key="Gold" value="gold" />
+  <keys prop="Description" type="monster" key="Silver" value="prata" />
+  <keys prop="Description" type="monster" key="Copper" value="cobre" />
+  <keys prop="Description" type="monster" key="Trade" value="Troca" />
+  <keys prop="Description" type="monster" key="PartyInvite" value="Convite para Grupo" />
+  <keys prop="Description" type="monster" key="Duel" value="Duelar" />
+  <keys prop="Description" type="monster" key="Match" value="Familiar Mating" />
+  <keys prop="Description" type="monster" key="PartyExpel" value="Expulsar Membro do Grupo" />
+  <keys prop="Description" type="monster" key="PartyCommission" value="Delegar líder do grupo" />
+  <keys prop="Description" type="monster" key="PartyLeave" value="Sair do Grupo" />
+  <keys prop="Description" type="monster" key="PartyQuestShare" value="Compartilhar Missão" />
+  <keys prop="Description" type="monster" key="PartyInvite_NoSpace" value="Convite para Grupo" />
+  <keys prop="Description" type="monster" key="PartyLeave_NoSpace" value="Sair do Grupo" />
+  <keys prop="Description" type="monster" key="GetItemRule" value="Item Distribution" />
+  <keys prop="Description" type="monster" key="GetItemGrade" value="Item Distribution Grade" />
+  <keys prop="Description" type="monster" key="SetLeaderCreature" value="Definir Familiar como Líder" />
+  <keys prop="Description" type="monster" key="DuelFree" value="Duelo Casual" />
+  <keys prop="Description" type="monster" key="DuelNormal" value="Duelo Competitivo" />
+  <keys prop="Description" type="monster" key="GetItemRuleFree" value="Acquired from Free Duel" />
+  <keys prop="Description" type="monster" key="GetItemRuleOrder" value="Acquired Order for Duel" />
+  <keys prop="Description" type="monster" key="GetItemRuleLooter" value="Acquired to be in Charge" />
+  <keys prop="Description" type="monster" key="GetItemRuleNoLimit" value="No Limit" />
+  <keys prop="Description" type="monster" key="GetItemRuleNormal" value="Common" />
+  <keys prop="Description" type="monster" key="GetItemRuleRare" value="Elite" />
+  <keys prop="Description" type="monster" key="GetItemRuleHero" value="Heroic" />
+  <keys prop="Description" type="monster" key="GetItemRuleLegend" value="Legendary" />
+  <keys prop="Description" type="monster" key="NGT_MERCHANT" value="Comerciante" />
+  <keys prop="Description" type="monster" key="NGT_GENERAL" value="Monstro" />
+  <keys prop="Description" type="monster" key="NGT_BOSS" value="Chefe" />
+  <keys prop="Description" type="monster" key="NGT_RAID" value="Raide" />
+  <keys prop="Description" type="monster" key="NGT_SUMMON" value="Invocado" />
+  <keys prop="Description" type="monster" key="NGT_MINE" value="Mina" />
+  <keys prop="Description" type="monster" key="NGT_GENERALNPC" value="NPC" />
+  <keys prop="Description" type="monster" key="Minute" value="min" />
+  <keys prop="Description" type="monster" key="Male" value="Male" />
+  <keys prop="Description" type="monster" key="Female" value="Feminino" />
+  <keys prop="Description" type="monster" key="Weapon" value="Armas" />
+  <keys prop="Description" type="monster" key="Armor" value="Armadura" />
+  <keys prop="Description" type="monster" key="Sub" value="Sub Equipamento" />
+  <keys prop="Description" type="monster" key="Accessory" value="Seu pacote de carga está vazio." />
+  <keys prop="Description" type="monster" key="Quest" value="Missão" />
+  <keys prop="Description" type="monster" key="Exchange" value="Mercadorias em Geral" />
+  <keys prop="Description" type="monster" key="consume" value="Consumíveis" />
+  <keys prop="Description" type="monster" key="enchantstone" value="Pedras da Alma" />
+  <keys prop="Description" type="monster" key="materialitem" value="Crafting Material" />
+  <keys prop="Description" type="monster" key="skillbook" value="Livros de Habilidade" />
+  <keys prop="Description" type="monster" key="monstersheet" value="Books" />
+  <keys prop="Description" type="monster" key="dyeingitem" value="Tintas" />
+  <keys prop="Description" type="monster" key="Bag" value="Inventário" />
+  <keys prop="Description" type="monster" key="box" value="Caixas de Presente" />
+  <keys prop="Description" type="monster" key="Creature" value="Familiares" />
+  <keys prop="Description" type="monster" key="Money" value="Money" />
+  <keys prop="Description" type="monster" key="Level" value="Level" />
+  <keys prop="Description" type="monster" key="Class" value="Classe" />
+  <keys prop="Description" type="monster" key="Faction" value="Estilo de Jogo" />
+  <keys prop="Description" type="monster" key="MyState" value="Minha Condição" />
+  <keys prop="Description" type="monster" key="Battle" value="Combate" />
+  <keys prop="Description" type="monster" key="General" value="General" />
+  <keys prop="Description" type="monster" key="TargetState" value="Condição do Alvo" />
+  <keys prop="Description" type="monster" key="Standard" value="Padrão" />
+  <keys prop="Description" type="monster" key="Elite" value="Elite" />
+  <keys prop="Description" type="monster" key="NormalAttack" value="Ataque Normal" />
+  <keys prop="Description" type="monster" key="QuestRequest" value="Pedido de Missão" />
+  <keys prop="Description" type="monster" key="QuestCoMPlete" value="Missão Completa" />
+  <keys prop="Description" type="monster" key="QuestText" value="Texto de Missão" />
+  <keys prop="Description" type="monster" key="Reward" value="Recompensas" />
+  <keys prop="Description" type="monster" key="RewardMoney" value="Recompensa em Dinheiro" />
+  <keys prop="Description" type="monster" key="RewardSkillSelect" value="Habilidade de Recompensa (Selecionar)" />
+  <keys prop="Description" type="monster" key="RewardSkillNormal" value="Habilidade de Recompensa (Normal)" />
+  <keys prop="Description" type="monster" key="RewardItemSelect" value="Item de Recompensa (Selecionar)" />
+  <keys prop="Description" type="monster" key="RewardItemNormal" value="Item de Recompensa (Normal)" />
+  <keys prop="Description" type="monster" key="SelectCreature" value="Selecionar Familiar" />
+  <keys prop="Description" type="monster" key="QuestList" value="Lista de Missões" />
+  <keys prop="Description" type="monster" key="BTAccept" value="Aceitar" />
+  <keys prop="Description" type="monster" key="BTConfirm" value="Confirmar" />
+  <keys prop="Description" type="monster" key="BTCoMPlete" value="Completo" />
+  <keys prop="Description" type="monster" key="SkillTreeWarrior1" value="Golpear (Habilidade de Guerreiro de Árvore)" />
+  <keys prop="Description" type="monster" key="SkillTreeWarrior2" value="Oprimir (Habilidade de Guerreiro de Árvore)" />
+  <keys prop="Description" type="monster" key="SkillTreeWarrior3" value="Defender (Habilidade de Guerreiro de Árvore)" />
+  <keys prop="Description" type="monster" key="SkillTreePriest1" value="Suporte" />
+  <keys prop="Description" type="monster" key="SkillTreePriest2" value="Recuperar" />
+  <keys prop="Description" type="monster" key="SkillTreePriest3" value="Mente" />
+  <keys prop="Description" type="monster" key="SkillTreeWizard1" value="Fogo" />
+  <keys prop="Description" type="monster" key="SkillTreeWizard2" value="Gelo" />
+  <keys prop="Description" type="monster" key="SkillTreeWizard3" value="Tempestade" />
+  <keys prop="Description" type="monster" key="SkillTreeNature1" value="Atirar" />
+  <keys prop="Description" type="monster" key="SkillTreeNature2" value="Suporte" />
+  <keys prop="Description" type="monster" key="SkillTreeNature3" value="Maldição" />
+  <keys prop="Description" type="monster" key="SkillTreeThief1" value="Raide" />
+  <keys prop="Description" type="monster" key="SkillTreeThief2" value="Vingança" />
+  <keys prop="Description" type="monster" key="SkillTreeThief3" value="Sobreviver" />
+  <keys prop="Description" type="monster" key="ViewEntire" value="Ver Tudo" />
+  <keys prop="Description" type="monster" key="CurPos" value="Localização Atual" />
+  <keys prop="Description" type="monster" key="EntireMap" value="Mapa do Mundo" />
+  <keys prop="Description" type="monster" key="Sundries" value="Mercadorias em Geral" />
+  <keys prop="Description" type="monster" key="Repair" value="Reparar" />
+  <keys prop="Description" type="monster" key="ResurrectPoint" value="Santuário de Revitalização" />
+  <keys prop="Description" type="monster" key="Hydrate" value="Baggage" />
+  <keys prop="Description" type="monster" key="Except" value="Outro" />
+  <keys prop="Description" type="monster" key="Persons" value="Nome" />
+  <keys prop="Description" type="monster" key="AttributeAttack" value="Ataque de Afinidade" />
+  <keys prop="Description" type="monster" key="Cost" value="Custo" />
+  <keys prop="Description" type="monster" key="failure" value="Sem sucesso" />
+  <keys prop="Description" type="monster" key="Target" value="Alvo:" />
+  <keys prop="Description" type="monster" key="deathblow" value="Acerto Crítico" />
+  <keys prop="Description" type="monster" key="maximize" value="Critical Hit" />
+  <keys prop="Description" type="monster" key="avoid" value="Evasão" />
+  <keys prop="Description" type="monster" key="miss" value="Miss" />
+  <keys prop="Description" type="monster" key="defense" value="Defesa" />
+  <keys prop="Description" type="monster" key="tradeinvite_nospace" value="Troca" />
+  <keys prop="Description" type="monster" key="duelinvite_nospace" value="Duelos" />
+  <keys prop="Description" type="monster" key="friendinvite_nospace" value="Friend invite" />
+  <keys prop="Description" type="monster" key="targetme" value="Você" />
+  <keys prop="Description" type="monster" key="targetcoMPany" value="Aliado" />
+  <keys prop="Description" type="monster" key="targetparty" value="Grupo" />
+  <keys prop="Description" type="monster" key="targetenemy" value="Inimigo" />
+  <keys prop="Description" type="monster" key="targetground" value="Área" />
+  <keys prop="Description" type="monster" key="targetnone" value="Nenhum" />
+  <keys prop="Description" type="monster" key="attackpow" value="Ataque" />
+  <keys prop="Description" type="monster" key="subattackpow" value="Sub-ataque" />
+  <keys prop="Description" type="monster" key="attackrate" value="Taxa de Ataque" />
+  <keys prop="Description" type="monster" key="defensepow" value="Defesa" />
+  <keys prop="Description" type="monster" key="defenserate" value="P. Def" />
+  <keys prop="Description" type="monster" key="gaugerate" value="Gauge" />
+  <keys prop="Description" type="monster" key="neutral" value="Neutro" />
+  <keys prop="Description" type="monster" key="elgenus" value="El Genus" />
+  <keys prop="Description" type="monster" key="purengere" value="Purengere" />
+  <keys prop="Description" type="monster" key="develier" value="Develier" />
+  <keys prop="Description" type="monster" key="player3" value="O Terceiro Poder" />
+  <keys prop="Description" type="monster" key="fnpc" value="Aliado" />
+  <keys prop="Description" type="monster" key="enpc" value="Inimigo" />
+  <keys prop="Description" type="monster" key="enpc_beast" value="Inimigo Carnívoro" />
+  <keys prop="Description" type="monster" key="enpc_animal" value="Inimigo Herbívoro" />
+  <keys prop="Description" type="monster" key="none" value="Sem Características" />
+  <keys prop="Description" type="monster" key="hour" value="hr" />
+  <keys prop="Description" type="monster" key="day" value=" dia(s)" />
+  <keys prop="Description" type="monster" key="HP" value="Health" />
+  <keys prop="Description" type="monster" key="MP" value="Mana" />
+  <keys prop="Description" type="monster" key="wpphattpow" value="Dano Físico" />
+  <keys prop="Description" type="monster" key="spphattpow" value="Dano Mágico" />
+  <keys prop="Description" type="monster" key="fireattpow" value="Ataque de Fogo" />
+  <keys prop="Description" type="monster" key="iceattpow" value="Ice Attack" />
+  <keys prop="Description" type="monster" key="lightattpow" value="Light Attack" />
+  <keys prop="Description" type="monster" key="darkattpow" value="Ataque Sombrio" />
+  <keys prop="Description" type="monster" key="wpphdefpow" value="Defesa" />
+  <keys prop="Description" type="monster" key="spphdefpow" value="Nível de Defesa Mágica" />
+  <keys prop="Description" type="monster" key="firedefpow" value="Nível de Defesa contra Fogo" />
+  <keys prop="Description" type="monster" key="icedefpow" value="Ice Defense Level" />
+  <keys prop="Description" type="monster" key="lightdefpow" value="Light Defense Level" />
+  <keys prop="Description" type="monster" key="darkdefpow" value="Nível de Defesa contra Escuridão" />
+  <keys prop="Description" type="monster" key="wpphdefrate" value="Defesa" />
+  <keys prop="Description" type="monster" key="wpfiredefrate" value="Defesa contra Fogo" />
+  <keys prop="Description" type="monster" key="wpicedefrate" value="Defesa contra Gelo" />
+  <keys prop="Description" type="monster" key="wplightdefrate" value="Defesa contra Luz" />
+  <keys prop="Description" type="monster" key="wpdarkdefrate" value="Defesa contra Escuridão" />
+  <keys prop="Description" type="monster" key="spphdefrate" value="Defesa Mágica" />
+  <keys prop="Description" type="monster" key="spfiredefrate" value="Defesa contra Fogo" />
+  <keys prop="Description" type="monster" key="spicedefrate" value="Defesa contra Gelo" />
+  <keys prop="Description" type="monster" key="splightdefrate" value="Defesa contra Luz" />
+  <keys prop="Description" type="monster" key="spdarkdefrate" value="Defesa contra Escuridão" />
+  <keys prop="Description" type="monster" key="wpphavdrate" value="Evasão" />
+  <keys prop="Description" type="monster" key="spphavdrate" value="Evasão Mágica" />
+  <keys prop="Description" type="monster" key="fireavdrate" value="Evasão de Fogo" />
+  <keys prop="Description" type="monster" key="iceavdrate" value="Ice Evasion" />
+  <keys prop="Description" type="monster" key="lightavdrate" value="Light Evasion" />
+  <keys prop="Description" type="monster" key="darkavdrate" value="Evasão de Escuridão" />
+  <keys prop="Description" type="monster" key="wphitrate" value="Precisão" />
+  <keys prop="Description" type="monster" key="subwphitrate" value="Precisão Secundária" />
+  <keys prop="Description" type="monster" key="sphitrate" value="Precisão Mágica" />
+  <keys prop="Description" type="monster" key="pkattpowmult" value="Taxa de Ataque em PvP" />
+  <keys prop="Description" type="monster" key="pkdefpowmult" value="Defesa em PvP" />
+  <keys prop="Description" type="monster" key="pkbodyregistrateplus" value="Resistência em PvP" />
+  <keys prop="Description" type="monster" key="wpgaugeattpow" value="Ataque de Arma do Medidor" />
+  <keys prop="Description" type="monster" key="firegaugedefpow" value="Nível de Defesa do Medidor de Fogo" />
+  <keys prop="Description" type="monster" key="icegaugedefpow" value="Ice Gauge Defense Level" />
+  <keys prop="Description" type="monster" key="lightgaugedefpow" value="Light Gauge Defense Level" />
+  <keys prop="Description" type="monster" key="darkgaugedefpow" value="Nível de Defesa do Medidor de Escuridão" />
+  <keys prop="Description" type="monster" key="wpcrirate" value="Taxa de Crítico Físico" />
+  <keys prop="Description" type="monster" key="subwpcrirate" value="Taxa de Crítico Secundário" />
+  <keys prop="Description" type="monster" key="spcrirate" value="Taxa de Crítico Mágico" />
+  <keys prop="Description" type="monster" key="Str" value="Força" />
+  <keys prop="Description" type="monster" key="Dex" value="Destreza" />
+  <keys prop="Description" type="monster" key="Int" value="Intelligence" />
+  <keys prop="Description" type="monster" key="Vtl" value="Constituição" />
+  <keys prop="Description" type="monster" key="mtl" value="Willpower" />
+  <keys prop="Description" type="monster" key="BDY" value="Resistência Física" />
+  <keys prop="Description" type="monster" key="MND" value="Magic Resistance" />
+  <keys prop="Description" type="monster" key="maxHP" value="Health" />
+  <keys prop="Description" type="monster" key="maxMP" value="Mana" />
+  <keys prop="Description" type="monster" key="maxfire" value="Max Fire Gauge" />
+  <keys prop="Description" type="monster" key="maxice" value="Max Ice Gauge" />
+  <keys prop="Description" type="monster" key="maxlight" value="Max Light Gauge" />
+  <keys prop="Description" type="monster" key="maxdark" value="Max Dark Gauge" />
+  <keys prop="Description" type="monster" key="runspeed" value="Velocidade de Corrida" />
+  <keys prop="Description" type="monster" key="walkspeed" value="Velocidade de Caminhada" />
+  <keys prop="Description" type="monster" key="wpattrange" value="Alcance" />
+  <keys prop="Description" type="monster" key="wpattspeed" value="Velocidade de Ataque" />
+  <keys prop="Description" type="monster" key="recHPpow" value="Regeneração de Vida Base" />
+  <keys prop="Description" type="monster" key="recMPpow" value="Regeneração de Mana Base" />
+  <keys prop="Description" type="monster" key="stunregist" value="Resistência a Atordoamento" />
+  <keys prop="Description" type="monster" key="fearregist" value="Resistência a Terror" />
+  <keys prop="Description" type="monster" key="sleepregist" value="Resistência a Sono" />
+  <keys prop="Description" type="monster" key="moveblockregist" value="Frostbite Resistance" />
+  <keys prop="Description" type="monster" key="poisonregist" value="Resistência a Veneno" />
+  <keys prop="Description" type="monster" key="wppyattpow" value="Ataque de Afinidade" />
+  <keys prop="Description" type="monster" key="wpphattpowplus" value="Dano Físico" />
+  <keys prop="Description" type="monster" key="wpphattpowmult" value="Dano Físico" />
+  <keys prop="Description" type="monster" key="fireattpowplus" value="Ataque de Fogo" />
+  <keys prop="Description" type="monster" key="fireattpowmult" value="Ataque de Fogo" />
+  <keys prop="Description" type="monster" key="iceattpowplus" value="Ice Attack" />
+  <keys prop="Description" type="monster" key="iceattpowmult" value="Ice Attack" />
+  <keys prop="Description" type="monster" key="lightattpowplus" value="Light Attack" />
+  <keys prop="Description" type="monster" key="lightattpowmult" value="Light Attack" />
+  <keys prop="Description" type="monster" key="darkattpowplus" value="Ataque Sombrio" />
+  <keys prop="Description" type="monster" key="darkattpowmult" value="Ataque Sombrio" />
+  <keys prop="Description" type="monster" key="spphattpowplus" value="Dano Mágico" />
+  <keys prop="Description" type="monster" key="spphattpowmult" value="Dano Mágico" />
+  <keys prop="Description" type="monster" key="wpphdefpowplus" value="P. Def" />
+  <keys prop="Description" type="monster" key="wpphdefpowmult" value="P. Def" />
+  <keys prop="Description" type="monster" key="spdefpowplus" value="M.Def" />
+  <keys prop="Description" type="monster" key="spdefpowmult" value="M.Def" />
+  <keys prop="Description" type="monster" key="firedefpowplus" value="Resistência a Fogo" />
+  <keys prop="Description" type="monster" key="firedefpowmult" value="Taxa de Resistência a Fogo" />
+  <keys prop="Description" type="monster" key="icedefpowplus" value="Ice Resistance" />
+  <keys prop="Description" type="monster" key="icedefpowmult" value="Ice Resist Rate" />
+  <keys prop="Description" type="monster" key="lightdefpowplus" value="Light Resistance" />
+  <keys prop="Description" type="monster" key="lightdefpowmult" value="Light Resist Rate" />
+  <keys prop="Description" type="monster" key="darkdefpowplus" value="Resistência a Escuridão" />
+  <keys prop="Description" type="monster" key="darkdefpowmult" value="Taxa de Resistência a Escuridão" />
+  <keys prop="Description" type="monster" key="wphitrateplus" value="Precisão" />
+  <keys prop="Description" type="monster" key="sphitrateplus" value="Precisão Mágica" />
+  <keys prop="Description" type="monster" key="wphitpowplus" value="Força de Precisão" />
+  <keys prop="Description" type="monster" key="sphitpowplus" value="Força de Precisão Mágica" />
+  <keys prop="Description" type="monster" key="avdpowplus" value="Poder da Evasão" />
+  <keys prop="Description" type="monster" key="avdrateplus" value="Evasão" />
+  <keys prop="Description" type="monster" key="comborateplus" value="Taxa de Combinação" />
+  <keys prop="Description" type="monster" key="wpfiregaugeattpowplus" value="Poder de Ataque da Arma do Medidor de Fogo" />
+  <keys prop="Description" type="monster" key="wpicegaugeattpowplus" value="Poder de Ataque da Arma do Medidor de Gelo" />
+  <keys prop="Description" type="monster" key="wplightgaugeattpowplus" value="Poder de Ataque da Arma do Medidor de Luz" />
+  <keys prop="Description" type="monster" key="wpdarkgaugeattpowplus" value="Poder de Ataque da Arma do Medidor de Escuridão" />
+  <keys prop="Description" type="monster" key="spfiregaugeattpowplus" value="Poder de Dano Mágico do Medidor de Fogo" />
+  <keys prop="Description" type="monster" key="spicegaugeattpowplus" value="Poder de Ataque do Medidor Mágico de Calafrio" />
+  <keys prop="Description" type="monster" key="splightgaugeattpowplus" value="Poder de Ataque do Medidor Mágico de Luz" />
+  <keys prop="Description" type="monster" key="spdarkgaugeattpowplus" value="Poder de Ataque do Medidor Mágico de Escuridão" />
+  <keys prop="Description" type="monster" key="firegaugedefpowplus" value="Nível de Defesa do Medidor de Fogo" />
+  <keys prop="Description" type="monster" key="icegaugedefpowplus" value="Ice Gauge Defense Level" />
+  <keys prop="Description" type="monster" key="lightgaugedefpowplus" value="Light Gauge Defense Level" />
+  <keys prop="Description" type="monster" key="darkgaugedefpowplus" value="Nível de Defesa do Medidor de Escuridão" />
+  <keys prop="Description" type="monster" key="wpcripowplus" value="Dano Crítico Físico" />
+  <keys prop="Description" type="monster" key="spcripowplus" value="Dano Crítico Mágico" />
+  <keys prop="Description" type="monster" key="wpcrirateplus" value="Taxa de Crítico Físico" />
+  <keys prop="Description" type="monster" key="spcrirateplus" value="Taxa de Crítico Mágico" />
+  <keys prop="Description" type="monster" key="wpspellplus" value="Poder de Combate" />
+  <keys prop="Description" type="monster" key="spspellplus" value="Poder Mágico" />
+  <keys prop="Description" type="monster" key="wpphdaMPlus" value="Dano Físico" />
+  <keys prop="Description" type="monster" key="spphdaMPlus" value="Dano Mágico" />
+  <keys prop="Description" type="monster" key="wpcridaMPlus" value="Dano Crítico de Arma" />
+  <keys prop="Description" type="monster" key="spcridaMPlus" value="Dano Crítico Mágico" />
+  <keys prop="Description" type="monster" key="allstatplus" value="Todos os Atributos" />
+  <keys prop="Description" type="monster" key="StrPlus" value="Força" />
+  <keys prop="Description" type="monster" key="StrMult" value="Força" />
+  <keys prop="Description" type="monster" key="DexPlus" value="Destreza" />
+  <keys prop="Description" type="monster" key="DexMult" value="Destreza" />
+  <keys prop="Description" type="monster" key="IntPlus" value="Intelligence" />
+  <keys prop="Description" type="monster" key="IntMult" value="Intelligence" />
+  <keys prop="Description" type="monster" key="VtlPlus" value="Constituição" />
+  <keys prop="Description" type="monster" key="VtlMult" value="Constituição" />
+  <keys prop="Description" type="monster" key="MtlPlus" value="Willpower" />
+  <keys prop="Description" type="monster" key="MtlMult" value="Willpower" />
+  <keys prop="Description" type="monster" key="BdyPlus" value="Resistência Física" />
+  <keys prop="Description" type="monster" key="BdyMult" value="Resistência Física" />
+  <keys prop="Description" type="monster" key="MndPlus" value="Magic Resistance" />
+  <keys prop="Description" type="monster" key="MndMult" value="Magic Resistance" />
+  <keys prop="Description" type="monster" key="maxHPplus" value="Health" />
+  <keys prop="Description" type="monster" key="maxMPplus" value="Mana" />
+  <keys prop="Description" type="monster" key="maxfireplus" value="Max Fire Gauge" />
+  <keys prop="Description" type="monster" key="maxiceplus" value="Max Ice Gauge" />
+  <keys prop="Description" type="monster" key="maxlightplus" value="Max Light Gauge" />
+  <keys prop="Description" type="monster" key="maxdarkplus" value="Max Dark Gauge" />
+  <keys prop="Description" type="monster" key="maxHPmult" value="Health" />
+  <keys prop="Description" type="monster" key="maxMPmult" value="Mana" />
+  <keys prop="Description" type="monster" key="maxfiremult" value="Max Fire Gauge" />
+  <keys prop="Description" type="monster" key="maxicemult" value="Max Ice Gauge" />
+  <keys prop="Description" type="monster" key="maxlightmult" value="Max Light Gauge" />
+  <keys prop="Description" type="monster" key="maxdarkmult" value="Max Dark Gauge" />
+  <keys prop="Description" type="monster" key="movespeedmult" value="Move Speed" />
+  <keys prop="Description" type="monster" key="vehiclespeedmult" value="Velocidade da Montaria" />
+  <keys prop="Description" type="monster" key="wpattrangemult" value="Alcance de Tiro de Arma" />
+  <keys prop="Description" type="monster" key="wpattspeedmult" value="Velocidade de Ataque" />
+  <keys prop="Description" type="monster" key="castingspeedmult" value="Tempo de Conjuração" />
+  <keys prop="Description" type="monster" key="recHPpowplus" value="Regeneração de Vida Base" />
+  <keys prop="Description" type="monster" key="recMPpowplus" value="Regeneração de Mana Base" />
+  <keys prop="Description" type="monster" key="reccombatHPplus" value="Regeneração de Vida em Combate" />
+  <keys prop="Description" type="monster" key="reccombatMPplus" value="Regeneração de Mana em Combate" />
+  <keys prop="Description" type="monster" key="absorbHPfromstategaugeofdier" value="PM" />
+  <keys prop="Description" type="monster" key="consumMPplus" value="Mana Usada" />
+  <keys prop="Description" type="monster" key="stunstate" value="Atordoar" />
+  <keys prop="Description" type="monster" key="chaosstate" value="Confundir" />
+  <keys prop="Description" type="monster" key="roaredstate" value="Aterrorizar" />
+  <keys prop="Description" type="monster" key="sleepstate" value="Dormir" />
+  <keys prop="Description" type="monster" key="silencestate" value="Silêncio" />
+  <keys prop="Description" type="monster" key="fearstate" value="Medo" />
+  <keys prop="Description" type="monster" key="VineTangledState" value="Laço" />
+  <keys prop="Description" type="monster" key="NetTangledState" value="Enrolado" />
+  <keys prop="Description" type="monster" key="PhysicalPoisonState" value="Dependência de Veneno Físico" />
+  <keys prop="Description" type="monster" key="MentalPoisonState" value="Mental Poison Addiction" />
+  <keys prop="Description" type="monster" key="DeadlyPoisonState" value="Dependência de Veneno Mortal" />
+  <keys prop="Description" type="monster" key="CorrosionPoisonState" value="Dependência de Veneno Apodrecido" />
+  <keys prop="Description" type="monster" key="DizzyState" value="Atordoado" />
+  <keys prop="Description" type="monster" key="BleedingState" value="Chance de obter o triplo de proficiência" />
+  <keys prop="Description" type="monster" key="DiseaseState" value="Tóxico" />
+  <keys prop="Description" type="monster" key="ThrowupState" value="Vomitando" />
+  <keys prop="Description" type="monster" key="SealedState" value="Bloqueio" />
+  <keys prop="Description" type="monster" key="skillmovingstate" value="Meio da Habilidade de Mover" />
+  <keys prop="Description" type="monster" key="parriedstate" value="Atingido" />
+  <keys prop="Description" type="monster" key="frozenstate" value="Frozen" />
+  <keys prop="Description" type="monster" key="attacklessstate" value="Impedido de Atacar" />
+  <keys prop="Description" type="monster" key="poisonstate" value="Vício" />
+  <keys prop="Description" type="monster" key="risingstate" value="Levitação" />
+  <keys prop="Description" type="monster" key="capturedstate" value="Capturado" />
+  <keys prop="Description" type="monster" key="CaptureFailedState" value="Captura Falhou" />
+  <keys prop="Description" type="monster" key="ConcentratedState" value="Foco no Aviso" />
+  <keys prop="Description" type="monster" key="knockdownImmunitystate" value="Knockdown Immunity" />
+  <keys prop="Description" type="monster" key="knockbackdownImmunitystate" value="Knockback/Knockdown Immunity" />
+  <keys prop="Description" type="monster" key="oddactionbypropertyimmunitystate" value="Imunidade a Afinidade/Status" />
+  <keys prop="Description" type="monster" key="fireImmunitystate" value="Imunidade a Fogo" />
+  <keys prop="Description" type="monster" key="iceImmunitystate" value="Ice Immunity" />
+  <keys prop="Description" type="monster" key="lightImmunitystate" value="Light Immunity" />
+  <keys prop="Description" type="monster" key="darkImmunitystate" value="Imunidade a Sombras" />
+  <keys prop="Description" type="monster" key="magicImmunitystate" value="Magic Immunity" />
+  <keys prop="Description" type="monster" key="physicImmunitystate" value="Imunidade Física" />
+  <keys prop="Description" type="monster" key="meleephysicImmunitystate" value="Melee Immunity" />
+  <keys prop="Description" type="monster" key="rangephysicImmunitystate" value="Imunidade a Alcance" />
+  <keys prop="Description" type="monster" key="OddActionImuumityState" value="Imunidade a Ação" />
+  <keys prop="Description" type="monster" key="defencestate" value="Posição Defensiva" />
+  <keys prop="Description" type="monster" key="spiritstate" value="Converter Alma" />
+  <keys prop="Description" type="monster" key="StealthState" value="Tornar Transparente" />
+  <keys prop="Description" type="monster" key="GhostState" value="Ghost Mode" />
+  <keys prop="Description" type="monster" key="ExorcistState" value="Modo Exorcista" />
+  <keys prop="Description" type="monster" key="StealthBlockState" value="Proibir Transparência" />
+  <keys prop="Description" type="monster" key="perceptrangerate" value="Distância de Visualização do Primeiro Ataque" />
+  <keys prop="Description" type="monster" key="ui_attack" value="Ataque Básico" />
+  <keys prop="Description" type="monster" key="ui_character" value="Informações do Personagem" />
+  <keys prop="Description" type="monster" key="ui_map" value="Mapa" />
+  <keys prop="Description" type="monster" key="ui_inventory" value="Inventário" />
+  <keys prop="Description" type="monster" key="ui_skill" value="Informação de Habilidade" />
+  <keys prop="Description" type="monster" key="ui_quest" value="Registro de Missão" />
+  <keys prop="Description" type="monster" key="ui_fieldmapview" value="Mapa Detalhado" />
+  <keys prop="Description" type="monster" key="ui_worldmapview" value="Mapa do Mundo" />
+  <keys prop="Description" type="monster" key="start" value="Iniciar" />
+  <keys prop="Description" type="monster" key="finish" value="Sair" />
+  <keys prop="Description" type="monster" key="ok" value="Confirmar" />
+  <keys prop="Description" type="monster" key="cancel" value="Cancelar" />
+  <keys prop="Description" type="monster" key="year" value="Ano" />
+  <keys prop="Description" type="monster" key="month" value="Mês" />
+  <keys prop="Description" type="monster" key="variety" value="Espécies" />
+  <keys prop="Description" type="monster" key="limit_time" value="Time Limit" />
+  <keys prop="Description" type="monster" key="arrival_time" value="Tempo Estimado" />
+  <keys prop="Description" type="monster" key="ui_worldmapalpha" value="Mapa Transparente" />
+  <keys prop="Description" type="monster" key="server_closed" value="Fechado" />
+  <keys prop="Description" type="monster" key="quest_limit_time" value="Limite de Tempo" />
+  <keys prop="Description" type="monster" key="equipiMPossible" value="Não Equipável" />
+  <keys prop="Description" type="monster" key="throw_dice" value="Saque do Grupo" />
+  <keys prop="Description" type="monster" key="cancel_dice" value="Desistir" />
+  <keys prop="Description" type="monster" key="decision" value="Decidir" />
+  <keys prop="Description" type="monster" key="fixation" value="Ficar" />
+  <keys prop="Description" type="monster" key="dyeing" value="Pintar" />
+  <keys prop="Description" type="monster" key="color" value="Seu pacote de carga está vazio." />
+  <keys prop="Description" type="monster" key="getitemrulejoblimit" value="Class-based Acquired" />
+  <keys prop="Description" type="monster" key="kind" value="Type" />
+  <keys prop="Description" type="monster" key="grade" value="Level" />
+  <keys prop="Description" type="monster" key="esummon" value="Invocar" />
+  <keys prop="Description" type="monster" key="magicstone" value="Magic Stone" />
+  <keys prop="Description" type="monster" key="equippeditem" value="Equipado" />
+  <keys prop="Description" type="monster" key="preemptivestrike" value="Hostil" />
+  <keys prop="Description" type="monster" key="nopreemptivestrike" value="Passiva" />
+  <keys prop="Description" type="monster" key="trait" value="Tipo de Combate" />
+  <keys prop="Description" type="monster" key="melee" value="Melee" />
+  <keys prop="Description" type="monster" key="defence" value="Defesa" />
+  <keys prop="Description" type="monster" key="magic" value="Magic" />
+  <keys prop="Description" type="monster" key="heal" value="Healing" />
+  <keys prop="Description" type="monster" key="range" value="Longa Distância" />
+  <keys prop="Description" type="monster" key="parry" value=" Repelir" />
+  <keys prop="Description" type="monster" key="immunity" value="No Effect" />
+  <keys prop="Description" type="monster" key="resist_invincibility" value="Sem Efeito" />
+  <keys prop="Description" type="monster" key="resist_reactionresistancepoint" value="Sem Efeito" />
+  <keys prop="Description" type="monster" key="resist_castingignorereaction" value="Sem Efeito" />
+  <keys prop="Description" type="monster" key="actornomal" value="Comum" />
+  <keys prop="Description" type="monster" key="hero" value="Heroic" />
+  <keys prop="Description" type="monster" key="ParryRate" value="Defesa" />
+  <keys prop="Description" type="monster" key="BlockRate" value="Chance de obter proficiência em dobro" />
+  <keys prop="Description" type="monster" key="BlockRateplus" value="Taxa de Desvio de Escudo" />
+  <keys prop="Description" type="monster" key="belongitem" value="Vincular" />
+  <keys prop="Description" type="monster" key="material" value="Material" />
+  <keys prop="Description" type="monster" key="plate" value="Armadura Pesada" />
+  <keys prop="Description" type="monster" key="chain" value="Armadura Leve" />
+  <keys prop="Description" type="monster" key="leather" value="Visor" />
+  <keys prop="Description" type="monster" key="cloth" value="Túnica" />
+  <keys prop="Description" type="monster" key="attphpowersecond" value="DPS" />
+  <keys prop="Description" type="monster" key="equipeff" value="Efeitos Equipados" />
+  <keys prop="Description" type="monster" key="skilllearneff" value="Efeito Obtido" />
+  <keys prop="Description" type="monster" key="doing" value="Em Progresso" />
+  <keys prop="Description" type="monster" key="learnprice" value="Obtained Price" />
+  <keys prop="Description" type="monster" key="exp" value="EXP" />
+  <keys prop="Description" type="monster" key="repeat" value="Repetível" />
+  <keys prop="Description" type="monster" key="emotion_win" value="Vitória" />
+  <keys prop="Description" type="monster" key="emotion_lose" value="Derrota" />
+  <keys prop="Description" type="monster" key="emotion_confession" value="Cortejar" />
+  <keys prop="Description" type="monster" key="emotion_surprise" value="Choque" />
+  <keys prop="Description" type="monster" key="emotion_charge" value="Investida" />
+  <keys prop="Description" type="monster" key="emotion_shame" value="Timidez" />
+  <keys prop="Description" type="monster" key="emotion_greeting" value="Acenar" />
+  <keys prop="Description" type="monster" key="emotion_joyful" value="Entusiasmo" />
+  <keys prop="Description" type="monster" key="emotion_cry" value="Chorar" />
+  <keys prop="Description" type="monster" key="emotion_smile" value="Rir" />
+  <keys prop="Description" type="monster" key="emotion_cheerup" value="Torcer" />
+  <keys prop="Description" type="monster" key="emotion_mockery" value="Zoar" />
+  <keys prop="Description" type="monster" key="emotion_cheers" value="Alegria" />
+  <keys prop="Description" type="monster" key="emotion_penalty1" value="Punição 1" />
+  <keys prop="Description" type="monster" key="emotion_penalty2" value="Punição 2" />
+  <keys prop="Description" type="monster" key="emotion_refuse" value="Recusar" />
+  <keys prop="Description" type="monster" key="emotion_angry" value="Raiva" />
+  <keys prop="Description" type="monster" key="emotion_applause" value="Aplaudir" />
+  <keys prop="Description" type="monster" key="emotion_salute" value="Saudar" />
+  <keys prop="Description" type="monster" key="emotion_beg" value="Implorar" />
+  <keys prop="Description" type="monster" key="emotion_cheek" value="Tapa" />
+  <keys prop="Description" type="monster" key="emotion_slapped" value="Levar Tapa" />
+  <keys prop="Description" type="monster" key="emotion_beg2" value="Resmungar" />
+  <keys prop="Description" type="monster" key="emotion_step" value="Passo" />
+  <keys prop="Description" type="monster" key="emotion_affirmation" value="Concordar" />
+  <keys prop="Description" type="monster" key="ui_questalarm" value="Alternar Rastreador de Missão" />
+  <keys prop="Description" type="monster" key="possible" value="Sim" />
+  <keys prop="Description" type="monster" key="impossible" value="No" />
+  <keys prop="Description" type="monster" key="deadbody" value="Cadáver" />
+  <keys prop="Description" type="monster" key="ui_zoomin" value="Aumentar Zoom" />
+  <keys prop="Description" type="monster" key="ui_zoomout" value="Reduzir Zoom" />
+  <keys prop="Description" type="monster" key="ui_minimapsetting" value="Exibição de Radar" />
+  <keys prop="Description" type="monster" key="skilltype" value="Tipo:" />
+  <keys prop="Description" type="monster" key="forwardcasting" value="Ativação depois da Ação" />
+  <keys prop="Description" type="monster" key="nouseonride" value="Não pode ser usado enquanto montado" />
+  <keys prop="Description" type="monster" key="bufftime" value="Duração" />
+  <keys prop="Description" type="monster" key="expert" value="Alto" />
+  <keys prop="Description" type="monster" key="master" value="Very High" />
+  <keys prop="Description" type="monster" key="attack" value="Ataque" />
+  <keys prop="Description" type="monster" key="buff" value="Bônus" />
+  <keys prop="Description" type="monster" key="debuff" value="Penalidade" />
+  <keys prop="Description" type="monster" key="fellowpassive" value="Familiar (Passivo)" />
+  <keys prop="Description" type="monster" key="fellowattack" value="Familiar(Ataque)" />
+  <keys prop="Description" type="monster" key="fellowdefense" value="Familiar(Defesa)" />
+  <keys prop="Description" type="monster" key="fellowrecover" value="Familiar(Recuperação)" />
+  <keys prop="Description" type="monster" key="fellowbuff" value="Familiar(Bônus)" />
+  <keys prop="Description" type="monster" key="fellowdebuff" value="Familiar(Penalidade)" />
+  <keys prop="Description" type="monster" key="castingtype" value="Tipo de Ação:" />
+  <keys prop="Description" type="monster" key="secondwhile" value="A Cada Seg" />
+  <keys prop="Description" type="monster" key="size" value="Tamanho" />
+  <keys prop="Description" type="monster" key="small" value="Pequena" />
+  <keys prop="Description" type="monster" key="medium" value="Medium" />
+  <keys prop="Description" type="monster" key="large" value="Large" />
+  <keys prop="Description" type="monster" key="StopAutoAttack" value="Parar Ataque" />
+  <keys prop="Description" type="monster" key="seizestate" value="Domar" />
+  <keys prop="Description" type="monster" key="tip" value="DICA" />
+  <keys prop="Description" type="monster" key="interactive" value="interactive" />
+  <keys prop="Description" type="monster" key="activate" value="Barba" />
+  <keys prop="Description" type="monster" key="deactivate" value="desativar" />
+  <keys prop="Description" type="monster" key="fellow" value="Familiares" />
+  <keys prop="Description" type="monster" key="tool" value="Ferramenta" />
+  <keys prop="Description" type="monster" key="twohandlance" value="Lança (Montada)" />
+  <keys prop="Description" type="monster" key="twohandcrossbow" value="Besta (Montada)" />
+  <keys prop="Description" type="monster" key="ChatAll" value="Todos" />
+  <keys prop="Description" type="monster" key="ChatGeneral" value="Geral" />
+  <keys prop="Description" type="monster" key="backattackdammult" value="Taxa de Ataque nas Costas" />
+  <keys prop="Description" type="monster" key="tamableonbattle" value="Capaz de domar durante combate" />
+  <keys prop="Description" type="monster" key="fellowdeathdesc" value="Seu familiar está gravemente ferido. Você deve esperar 5 minutos antes de poder invocá-lo novamente." />
+  <keys prop="Description" type="monster" key="waittime" value="Tempo Restante" />
+  <keys prop="Description" type="monster" key="short_local_key" value="[S]" />
+  <keys prop="Description" type="monster" key="short_whisper_key" value="[W]" />
+  <keys prop="Description" type="monster" key="short_party_key" value="[P]" />
+  <keys prop="Description" type="monster" key="short_guild_key" value="[G]" />
+  <keys prop="Description" type="monster" key="short_shout_key" value="[C]" />
+  <keys prop="Description" type="monster" key="short_server_key" value="[1]" />
+  <keys prop="Description" type="monster" key="short_trade_key" value="[2]" />
+  <keys prop="Description" type="monster" key="short_findparty_key" value="[3]" />
+  <keys prop="Description" type="monster" key="HPHealRateMult" value="Health Regen" />
+  <keys prop="Description" type="monster" key="Tamablestate" value="Doma Disponível" />
+  <keys prop="Description" type="monster" key="BodyImmunityState" value="Imunidade a Status Físico" />
+  <keys prop="Description" type="monster" key="MindImmunityState" value="Magic Status Immunity" />
+  <keys prop="Description" type="monster" key="Chat" value="Todos os Bate-Papos" />
+  <keys prop="Description" type="monster" key="My_Battle" value="Informações de Combate" />
+  <keys prop="Description" type="monster" key="Party_Battle" value="Informação de Combate (Grupo)" />
+  <keys prop="Description" type="monster" key="FNPC_Battle" value="Informação de Combate (NPC)" />
+  <keys prop="Description" type="monster" key="ENPC_Battle" value="Informação de Combate (Inimigo)" />
+  <keys prop="Description" type="monster" key="all" value="Todos" />
+  <keys prop="Description" type="monster" key="party" value="Grupo" />
+  <keys prop="Description" type="monster" key="NoneDamagePlus" value="Taxa de Dano Sem Afinidade" />
+  <keys prop="Description" type="monster" key="NoneDamageMult" value="Taxa de Dano Sem Afinidade" />
+  <keys prop="Description" type="monster" key="FireDamagePlus" value="Taxa de Dano de Afinidade de Fogo" />
+  <keys prop="Description" type="monster" key="FireDamageMult" value="Taxa de Dano de Afinidade de Fogo" />
+  <keys prop="Description" type="monster" key="IceDamagePlus" value="Ice Affinity Damage Rate" />
+  <keys prop="Description" type="monster" key="IceDamageMult" value="Ice Affinity Damage Rate" />
+  <keys prop="Description" type="monster" key="LightDamagePlus" value="Light Affinity Damage Rate" />
+  <keys prop="Description" type="monster" key="LightDamageMult" value="Light Affinity Damage Rate" />
+  <keys prop="Description" type="monster" key="DarkDamagePlus" value="Taxa de Dano de Afinidade de Escuridão" />
+  <keys prop="Description" type="monster" key="DarkDamageMult" value="Taxa de Dano de Afinidade de Escuridão" />
+  <keys prop="Description" type="monster" key="msg_emotion" value="Emotes" />
+  <keys prop="Description" type="monster" key="normal_fellow" value="Bate-Papo de Familiar" />
+  <keys prop="Description" type="monster" key="zone" value="Bate-Papo da Região" />
+  <keys prop="Description" type="monster" key="whisperget" value="Sussurros Recebidos" />
+  <keys prop="Description" type="monster" key="whispersend" value="Sussurros Enviados" />
+  <keys prop="Description" type="monster" key="normal_fnpc" value="NPCs Aliados" />
+  <keys prop="Description" type="monster" key="normal_enpc" value="NPCs Inimigos" />
+  <keys prop="Description" type="monster" key="guild" value="Guild Chat" />
+  <keys prop="Description" type="monster" key="msg_notice_guild" value="Guild Alerts" />
+  <keys prop="Description" type="monster" key="alience" value="Bate-Papo da Aliança" />
+  <keys prop="Description" type="monster" key="msg_notice_alience" value="Alliance Alerts" />
+  <keys prop="Description" type="monster" key="channel_server" value="Servidor" />
+  <keys prop="Description" type="monster" key="channel_trade" value="Troca" />
+  <keys prop="Description" type="monster" key="channel_party" value="Procurando por Grupo" />
+  <keys prop="Description" type="monster" key="msg_battle" value="All Combat" />
+  <keys prop="Description" type="monster" key="msg_battle_my_send_action" value="Your Attacks" />
+  <keys prop="Description" type="monster" key="msg_battle_my_send_addeffect" value="Your Buffs" />
+  <keys prop="Description" type="monster" key="msg_battle_my_get_action" value="Your Target's Attacks" />
+  <keys prop="Description" type="monster" key="msg_battle_my_get_addeffect" value="Your Target's Buffs" />
+  <keys prop="Description" type="monster" key="msg_battle_myfellow_send_action" value="Familiar Attacks" />
+  <keys prop="Description" type="monster" key="msg_battle_myfellow_send_addeffect" value="Familiar Buffs" />
+  <keys prop="Description" type="monster" key="msg_battle_myfellow_get_action" value="Familiar's Target Attacks" />
+  <keys prop="Description" type="monster" key="msg_battle_myfellow_get_addeffect" value="Familiar's Target Buffs" />
+  <keys prop="Description" type="monster" key="msg_battle_party_send_action" value="Party Attack/Skill" />
+  <keys prop="Description" type="monster" key="msg_battle_party_send_addeffect" value="Party Buff/Debuff" />
+  <keys prop="Description" type="monster" key="msg_battle_party_get_action" value="Party Target Attack/Skill" />
+  <keys prop="Description" type="monster" key="msg_battle_party_get_addeffect" value="Party Target Buff/Debuff" />
+  <keys prop="Description" type="monster" key="msg_battle_partyfellow_send_action" value="Party Familiar Attacks" />
+  <keys prop="Description" type="monster" key="msg_battle_partyfellow_send_addeffect" value="Party Familiar Buffs" />
+  <keys prop="Description" type="monster" key="msg_battle_partyfellow_get_action" value="Party Familiar Target's Attacks" />
+  <keys prop="Description" type="monster" key="msg_battle_partyfellow_get_addeffect" value="Party Familiar Target's Buffs" />
+  <keys prop="Description" type="monster" key="msg_battle_fnpc_send_action" value="Allied NPC Attack/Skill" />
+  <keys prop="Description" type="monster" key="msg_battle_fnpc_send_addeffect" value="Allied NPC Buff/Debuff" />
+  <keys prop="Description" type="monster" key="msg_battle_fnpc_get_action" value="Allied NPC Target Damage/Skill" />
+  <keys prop="Description" type="monster" key="msg_battle_fnpc_get_addeffect" value="Allied NPC Target Buff/Debuff" />
+  <keys prop="Description" type="monster" key="msg_battle_enemy_send_action" value="Enemy Attack/Skill" />
+  <keys prop="Description" type="monster" key="msg_battle_enemy_send_addeffect" value="Enemy Buff/Debuff" />
+  <keys prop="Description" type="monster" key="msg_battle_enemy_get_action" value="Enemy Target Damage/Skill" />
+  <keys prop="Description" type="monster" key="msg_battle_enemy_get_addeffect" value="Enemy Target Buff/Debuff" />
+  <keys prop="Description" type="monster" key="msg_notice_gm" value="GM Announcements" />
+  <keys prop="Description" type="monster" key="msg_notice_game" value="Game Announcements" />
+  <keys prop="Description" type="monster" key="msg_info_game" value="Game Information" />
+  <keys prop="Description" type="monster" key="msg_info_error" value="Error Messages/Warnings" />
+  <keys prop="Description" type="monster" key="msg_info_fellow" value="Familiar Announcements" />
+  <keys prop="Description" type="monster" key="msg_action_collection" value="Gathering Results" />
+  <keys prop="Description" type="monster" key="msg_action_production" value="Crafting Results" />
+  <keys prop="Description" type="monster" key="msg_death_my" value="My Deaths" />
+  <keys prop="Description" type="monster" key="msg_death_myfellow" value="My Familiar's Deaths" />
+  <keys prop="Description" type="monster" key="msg_death_party" value="Party Member Deaths" />
+  <keys prop="Description" type="monster" key="msg_death_partyfellow" value="Party Familiar Deaths" />
+  <keys prop="Description" type="monster" key="msg_death_npc" value="NPC Deaths" />
+  <keys prop="Description" type="monster" key="msg_death_enemy" value="Enemy Deaths" />
+  <keys prop="Description" type="monster" key="msg_gain_exp" value="Acquired EXP" />
+  <keys prop="Description" type="monster" key="msg_gain_gold" value="Acquired Gold" />
+  <keys prop="Description" type="monster" key="msg_gain_item" value="Acquired Items" />
+  <keys prop="Description" type="monster" key="LockChatUI" value="Lock Chat Window" />
+  <keys prop="Description" type="monster" key="InitChatUI" value="Reset Chat Window" />
+  <keys prop="Description" type="monster" key="AddTab" value="Adicionar Aba" />
+  <keys prop="Description" type="monster" key="DeleteTab" value="Apagar Aba" />
+  <keys prop="Description" type="monster" key="RenameTab" value="Configurações de Aba" />
+  <keys prop="Description" type="monster" key="rename" value="Trocar" />
+  <keys prop="Description" type="monster" key="InitTabText" value="Clear Tab" />
+  <keys prop="Description" type="monster" key="EditTabOption" value="Opções de Bate-papo" />
+  <keys prop="Description" type="monster" key="EditTabTextColor" value="Opções de Cor de Aba" />
+  <keys prop="Description" type="monster" key="FontSize" value="Tamanha da Fonte" />
+  <keys prop="Description" type="monster" key="FontSize_Large" value=" Grande" />
+  <keys prop="Description" type="monster" key="FontSize_Middle" value=" Média" />
+  <keys prop="Description" type="monster" key="FontSize_Small" value=" Pequena" />
+  <keys prop="Description" type="monster" key="Emotion" value="Emotes" />
+  <keys prop="Description" type="monster" key="HotkeyInfo" value="Hotkey Help" />
+  <keys prop="Description" type="monster" key="ChatHotkey_Normal" value="Geral:/s,/S" />
+  <keys prop="Description" type="monster" key="ChatHotkey_Party" value="Grupo:/p,/P" />
+  <keys prop="Description" type="monster" key="ChatHotkey_Guild" value="Guilda:/g,/G" />
+  <keys prop="Description" type="monster" key="ChatHotkey_Whisper" value="Sussurro:/w,/W + Nome do Personagem + Conteúdo da Conversa" />
+  <keys prop="Description" type="monster" key="ChatHotkey_Zone" value="Bate-Papo Regional:/c,/C" />
+  <keys prop="Description" type="monster" key="ChatHotkey_LinkInfo" value="Link de Informação: Ctrl + obj" />
+  <keys prop="Description" type="monster" key="notshortkeydesc" value="Essa tecla não pode ser usada." />
+  <keys prop="Description" type="monster" key="green" value="Green" />
+  <keys prop="Description" type="monster" key="red" value="Red" />
+  <keys prop="Description" type="monster" key="blue" value="Blue" />
+  <keys prop="Description" type="monster" key="transparency" value="Transparente" />
+  <keys prop="Description" type="monster" key="colour" value="Nível Familiar" />
+  <keys prop="Description" type="monster" key="defaltshortkeydesc" value="Para limpar uma tecla de atalho, selecione a tecla de atalho e pressione Backspace." />
+  <keys prop="Description" type="monster" key="overlapkeydesc" value=" já está sendo usado como uma tecla de atalho." />
+  <keys prop="Description" type="monster" key="removekeydesc" value=" foi deletado, pois já está sendo usado como tecla de atalho." />
+  <keys prop="Description" type="monster" key="LocalChat" value="General" />
+  <keys prop="Description" type="monster" key="ZoneChat" value="Região" />
+  <keys prop="Description" type="monster" key="WhisperChat" value="Sussurro" />
+  <keys prop="Description" type="monster" key="PartyChat" value="Grupo" />
+  <keys prop="Description" type="monster" key="GuildChat" value="Guild" />
+  <keys prop="Description" type="monster" key="ChannelServerChat" value="Servidor" />
+  <keys prop="Description" type="monster" key="ChannelTrade" value="Troca" />
+  <keys prop="Description" type="monster" key="ChannelPartyChat" value="Encontrar Grupo" />
+  <keys prop="Description" type="monster" key="Toggle" value="Alternar" />
+  <keys prop="Description" type="monster" key="Toggle_Local" value="Geral" />
+  <keys prop="Description" type="monster" key="Toggle_Zone" value="Região" />
+  <keys prop="Description" type="monster" key="Toggle_Whisper" value="Sussurrar" />
+  <keys prop="Description" type="monster" key="Toggle_Party" value="Grupo" />
+  <keys prop="Description" type="monster" key="Toggle_Guild" value="Guilda" />
+  <keys prop="Description" type="monster" key="Toggle_ChannelServer" value="Servidor" />
+  <keys prop="Description" type="monster" key="Toggle_ChannelParty" value="Encontrar Grupo" />
+  <keys prop="Description" type="monster" key="Toggle_ChannelTrade" value="Troca" />
+  <keys prop="Description" type="monster" key="resurrection_ok" value="Renascimento Instantâneo" />
+  <keys prop="Description" type="monster" key="fellowitem" value="Equipamento (Selas)" />
+  <keys prop="Description" type="monster" key="Wolf" value="Lobo" />
+  <keys prop="Description" type="monster" key="Leopard" value="Leopard" />
+  <keys prop="Description" type="monster" key="Boar" value="Javali" />
+  <keys prop="Description" type="monster" key="Bull" value="Pequena" />
+  <keys prop="Description" type="monster" key="Bear" value="Urso" />
+  <keys prop="Description" type="monster" key="Spider" value="Aranha" />
+  <keys prop="Description" type="monster" key="ReinDeer" value="Rena" />
+  <keys prop="Description" type="monster" key="Bee" value="Abelha" />
+  <keys prop="Description" type="monster" key="Turtle" value="Tartaruga" />
+  <keys prop="Description" type="monster" key="Fox" value="Raposa" />
+  <keys prop="Description" type="monster" key="kind0" value="Group" />
+  <keys prop="Description" type="monster" key="quality" value="Qualidade" />
+  <keys prop="Description" type="monster" key="equip" value="Equipar" />
+  <keys prop="Description" type="monster" key="need" value="Necessário" />
+  <keys prop="Description" type="monster" key="noname_attacker" value="Alguém" />
+  <keys prop="Description" type="monster" key="Charinfo_default" value="Informações Básicas" />
+  <keys prop="Description" type="monster" key="nothing_repair" value="Não existem itens para serem consertados." />
+  <keys prop="Description" type="monster" key="ask_repair_all" value="Você deseja consertar todos os itens?" />
+  <keys prop="Description" type="monster" key="MobFeature_Attack" value="High Attack" />
+  <keys prop="Description" type="monster" key="MobFeature_Defence" value="High Defense" />
+  <keys prop="Description" type="monster" key="MobFeature_Heal" value="Healing/Support Magic" />
+  <keys prop="Description" type="monster" key="MobFeature_Magic" value="Offensive Magic" />
+  <keys prop="Description" type="monster" key="MobFeature_Range" value="Ranged Attack" />
+  <keys prop="Description" type="monster" key="effect" value="Efeito:" />
+  <keys prop="Description" type="monster" key="UiQuestAccept" value="Aceitar" />
+  <keys prop="Description" type="monster" key="UiQuestMapconfirm" value="Confirmar Mapa" />
+  <keys prop="Description" type="monster" key="UiQuestRenounce" value="Desistir" />
+  <keys prop="Description" type="monster" key="UiQuestRefuse" value="Recusar" />
+  <keys prop="Description" type="monster" key="UiQuestComplete" value="Completar" />
+  <keys prop="Description" type="monster" key="UiQuestClose" value="Fechar" />
+  <keys prop="Description" type="monster" key="returnarea" value="Local de Retorno" />
+  <keys prop="Description" type="monster" key="weaponneed" value="Arma Utilizável" />
+  <keys prop="Description" type="monster" key="Succes" value="criado com sucesso." />
+  <keys prop="Description" type="monster" key="FireDampingRate" value="Absorção de Afinidade de Fogo" />
+  <keys prop="Description" type="monster" key="IceDampingRate" value="Ice Affinity Absorption" />
+  <keys prop="Description" type="monster" key="LightDampingRate" value="Light Affinity Absorption" />
+  <keys prop="Description" type="monster" key="DarkDampingRate" value="Absorção de Afinidade de Escuridão" />
+  <keys prop="Description" type="monster" key="weapononlyboard" value="Usável quando montado" />
+  <keys prop="Description" type="monster" key="ask_fellow_growing" value="s Lacre de Crescimento. Uma vez que estiver deslacrado, este familiar pode continuar a ganhar experiência, mas não pode extrair Pedras da Alma. Continuar?" />
+  <keys prop="Description" type="monster" key="ask_equip_soulbound" value="Este item será vinculado a você quando for equipado. Continuar?" />
+  <keys prop="Description" type="monster" key="ask_pickup_soulbound" value=" Este item será vinculado a você quando for obtido. Continuar?" />
+  <keys prop="Description" type="monster" key="absence" value="Idle" />
+  <keys prop="Description" type="monster" key="resist_reaction_immun" value="Estabilidade" />
+  <keys prop="Description" type="monster" key="resist_body_immun" value="Resistência" />
+  <keys prop="Description" type="monster" key="resist_body_resist" value="Resistência" />
+  <keys prop="Description" type="monster" key="lightweight" value="Weight: Light" />
+  <keys prop="Description" type="monster" key="normalweight" value="Peso: Normal" />
+  <keys prop="Description" type="monster" key="heavyweight" value="Weight: Heavy" />
+  <keys prop="Description" type="monster" key="system" value="Sistema" />
+  <keys prop="Description" type="monster" key="ep" value="Energia" />
+  <keys prop="Description" type="monster" key="fp" value="Fúria" />
+  <keys prop="Description" type="monster" key="tp" value="Estamina" />
+  <keys prop="Description" type="monster" key="sp" value="Motes" />
+  <keys prop="Description" type="monster" key="nodisplay" value="Não Exibir" />
+  <keys prop="Description" type="monster" key="alwaysdisplay" value="Sempre Exibir" />
+  <keys prop="Description" type="monster" key="battledisplay" value="Exibir em Combate" />
+  <keys prop="Description" type="monster" key="field" value="Área" />
+  <keys prop="Description" type="monster" key="instance" value="Dungeons" />
+  <keys prop="Description" type="monster" key="nothingness" value="nada" />
+  <keys prop="Description" type="monster" key="Enchant_impossible" value="Incapaz de Melhorar" />
+  <keys prop="Description" type="monster" key="Enchant_Possible" value="Capaz de Melhorar" />
+  <keys prop="Description" type="monster" key="Enchant_Nolimit" value="Sem Limites para Melhoramentos" />
+  <keys prop="Description" type="monster" key="usableonnotride" value="Pode ser usado quando estiver desmontado" />
+  <keys prop="Description" type="monster" key="usableonride" value="Pode ser usado quando estiver montado" />
+  <keys prop="Description" type="monster" key="notgroundskill" value="Não pode ser usado no chão" />
+  <keys prop="Description" type="monster" key="notskyskill" value="Não pode ser usado no ar" />
+  <keys prop="Description" type="monster" key="shortcut_move_flying_vertical_descent" value="Descida de Familiar Voador" />
+  <keys prop="Description" type="monster" key="shortcut_move_riding_fellow" value="Montar Familiar" />
+  <keys prop="Description" type="monster" key="shortcut_menu_action_list_open" value="Ações" />
+  <keys prop="Description" type="monster" key="shortcut_menu_transparency_map_open" value="Mapa Transparente" />
+  <keys prop="Description" type="monster" key="shortcut_menu_guild_open" value="Guilda" />
+  <keys prop="Description" type="monster" key="shortcut_menu_help_open" value="Ajuda" />
+  <keys prop="Description" type="monster" key="shortcut_menu_option_open" value="Opções de Jogo" />
+  <keys prop="Description" type="monster" key="shortcut_party_myplayer_select" value="Autoalvo" />
+  <keys prop="Description" type="monster" key="shortcut_quickslot_ex1_10" value="Primeiro Espaço Expandido 11" />
+  <keys prop="Description" type="monster" key="shortcut_quickslot_ex1_11" value="Primeiro Espaço Expandido 12" />
+  <keys prop="Description" type="monster" key="shortcut_quickslot_ex2_10" value="Segundo Espaço Expandido 11" />
+  <keys prop="Description" type="monster" key="shortcut_quickslot_ex2_11" value="Segundo Espaço Expandido 12" />
+  <keys prop="Description" type="monster" key="shortcut_quickslot_ex3_10" value="Terceiro Espaço Expandido 11" />
+  <keys prop="Description" type="monster" key="shortcut_quickslot_ex4_10" value="Quarto Espaço Expandido 11" />
+  <keys prop="Description" type="monster" key="적용" value="Aplicar" />
+  <keys prop="Description" type="monster" key="취소" value="Cancelar" />
+  <keys prop="Description" type="monster" key="확인" value="Confirmar" />
+  <keys prop="Description" type="monster" key="낮음" value="Baixo" />
+  <keys prop="Description" type="monster" key="높음" value="Alto" />
+  <keys prop="Description" type="monster" key="배경 음악 반복 재생" value="Repetir Música" />
+  <keys prop="Description" type="monster" key="시스템 메시지 음성" value="Som de Mensagem de Sistema" />
+  <keys prop="Description" type="monster" key="끄기" value="Desligado" />
+  <keys prop="Description" type="monster" key="전체 음량" value="Volume Geral" />
+  <keys prop="Description" type="monster" key="효과음" value="Efeitos Sonoros" />
+  <keys prop="Description" type="monster" key="배경 음악" value="Música" />
+  <keys prop="Description" type="monster" key="환경음" value="Ambiente" />
+  <keys prop="Description" type="monster" key="사운드 설정" value="Configurações de Som" />
+  <keys prop="Description" type="monster" key="창모드" value="Modo Janela" />
+  <keys prop="Description" type="monster" key="어둡게" value="Mais Escuro" />
+  <keys prop="Description" type="monster" key="밝게" value="Mais Claro" />
+  <keys prop="Description" type="monster" key="해상도" value="Resolução" />
+  <keys prop="Description" type="monster" key="색상수" value="Cores" />
+  <keys prop="Description" type="monster" key="밝기" value="Brilho" />
+  <keys prop="Description" type="monster" key="화면 설정" value="Configurações de Tela" />
+  <keys prop="Description" type="monster" key="뭉게임 효과" value="Efeito de Desfoque" />
+  <keys prop="Description" type="monster" key="고정 프레임" value="Frequência de Quadros" />
+  <keys prop="Description" type="monster" key="전체 화면 스킬 효과" value="Efeitos de Habilidade de Tela Cheia" />
+  <keys prop="Description" type="monster" key="글로우 효과" value="Brilho" />
+  <keys prop="Description" type="monster" key="수직 동기화" value="Sincronização Vertical" />
+  <keys prop="Description" type="monster" key="프레임 표시" value="Exibir FPS" />
+  <keys prop="Description" type="monster" key="기상 효과" value="Efeitos Climáticos" />
+  <keys prop="Description" type="monster" key="거리별 캐릭터 쉐이더" value="Shader do Personagem por Distância" />
+  <keys prop="Description" type="monster" key="가까이" value="Fechar" />
+  <keys prop="Description" type="monster" key="멀리" value="Longe" />
+  <keys prop="Description" type="monster" key="안티앨리어싱" value="Antisserrilhamento" />
+  <keys prop="Description" type="monster" key="지형 시야거리" value="Distância de Visualização de Terreno" />
+  <keys prop="Description" type="monster" key="텍스쳐 품질" value="Qualidade de Textura" />
+  <keys prop="Description" type="monster" key="물 효과" value="Efeito da Água" />
+  <keys prop="Description" type="monster" key="배경표현" value="Exibir Fundo" />
+  <keys prop="Description" type="monster" key="광원 효과" value="Efeitos de Luz" />
+  <keys prop="Description" type="monster" key="그림자 효과" value="Qualidade de Sombra" />
+  <keys prop="Description" type="monster" key="사물 시야거리" value="Distância de Visualização de Objeto" />
+  <keys prop="Description" type="monster" key="쉐이더 품질" value="Qualidade do Sombreador" />
+  <keys prop="Description" type="monster" key="이펙트 품질" value="Qualidade de Efeitos" />
+  <keys prop="Description" type="monster" key="이펙트 표시 대상" value="Alvo de Exibição de Efeito" />
+  <keys prop="Description" type="monster" key="다수 캐릭터 표시 수준" value="Nível de Exibição de Vários Personagens" />
+  <keys prop="Description" type="monster" key="그래픽 세부 설정" value="Configurações Avançadas de Gráficos" />
+  <keys prop="Description" type="monster" key="일괄설정" value="Geral" />
+  <keys prop="Description" type="monster" key="데이터 로그" value="Registro de Dados" />
+  <keys prop="Description" type="monster" key="다음부터 창 띄우지 않기" value="Não exibir novamente" />
+  <keys prop="Description" type="monster" key="Button" value="Botão" />
+  <keys prop="Description" type="monster" key="1" value="1" />
+  <keys prop="Description" type="monster" key="CheckBox" value="Caixa de Seleção" />
+  <keys prop="Description" type="monster" key="List Type" value="List Type" />
+  <keys prop="Description" type="monster" key="Scroll Type" value="Tipo de Pergaminho" />
+  <keys prop="Description" type="monster" key="Label" value="Label" />
+  <keys prop="Description" type="monster" key="Item Renderer" value="Item Renderer" />
+  <keys prop="Description" type="monster" key="RadioButton" value="BotãoRádio" />
+  <keys prop="Description" type="monster" key="일반 우편" value="Correio Normal" />
+  <keys prop="Description" type="monster" key="H" value="H" />
+  <keys prop="Description" type="monster" key="S" value="S" />
+  <keys prop="Description" type="monster" key="B" value="B" />
+  <keys prop="Description" type="monster" key="R:233, G:569, B:122" value="R:233, G:569, B:122" />
+  <keys prop="Description" type="monster" key="전리품" value="Saque" />
+  <keys prop="Description" type="monster" key="퀘스트 네비게이션" value="Navegação da Missão" />
+  <keys prop="Description" type="monster" key="마우스좌표" value="Coordenadas do Mouse" />
+  <keys prop="Description" type="monster" key="Area" value="Campo" />
+  <keys prop="Description" type="monster" key="Center" value="Centro" />
+  <keys prop="Description" type="monster" key="Delete" value="Excluir" />
+  <keys prop="Description" type="monster" key="저장" value="Salvar" />
+  <keys prop="Description" type="monster" key="중점제거" value="Remover Prioridades" />
+  <keys prop="Description" type="monster" key="레벨(존) 리스트" value="Lista de Áreas" />
+  <keys prop="Description" type="monster" key="미션 리스트" value="Lista de Missões" />
+  <keys prop="Description" type="monster" key="퀘스트 리스트" value="Lista de Missões" />
+  <keys prop="Description" type="monster" key="영역 포인트 점 생성" value="Criar Ponto de Região" />
+  <keys prop="Description" type="monster" key="영역포인트 점 제거" value="Remover Ponto de Região" />
+  <keys prop="Description" type="monster" key="실행" value="Correr" />
+  <keys prop="Description" type="monster" key="lobby_questnavi_editor" value="Renew NPC info and navigation list when all quests are complete: " />
+  <keys prop="Description" type="monster" key="로비 에디터" value="Editor de Salão" />
+  <keys prop="Description" type="monster" key="alpha" value="alfa" />
+  <keys prop="Description" type="monster" key="camera range" value="alcance da câmera" />
+  <keys prop="Description" type="monster" key="Front View" value="Front View" />
+  <keys prop="Description" type="monster" key="zoom speed" value="velocidade de zoom" />
+  <keys prop="Description" type="monster" key="색상 편집기" value="Editor de Cor" />
+  <keys prop="Description" type="monster" key="세부설정 편집기" value="Editor de Configurações Detalhadas" />
+  <keys prop="Description" type="monster" key="장비 편집기" value="Editor de Arma" />
+  <keys prop="Description" type="monster" key="플레이어 프리셋 관리" value="Gerenciador de Predefinições do Jogador" />
+  <keys prop="Description" type="monster" key="Npc 프리셋 관리" value="Gerenciador de Predefinições de NPC" />
+  <keys prop="Description" type="monster" key="PlayerNpc 프리셋 관리" value="Gerenciador de Predefinições de NPCJogador" />
+  <keys prop="Description" type="monster" key="방어구 색상 편집기" value="Editor de Cores de Arma" />
+  <keys prop="Description" type="monster" key="애니메이션 플레이어" value="Jogador de Animação" />
+  <keys prop="Description" type="monster" key="프리셋 목록 저장" value="Salvar Lista de Predefinições" />
+  <keys prop="Description" type="monster" key="서브메시 컬러 제거" value="Remover Cor da Sub-Malha" />
+  <keys prop="Description" type="monster" key="게임옵션" value="Opções" />
+  <keys prop="Description" type="monster" key="기본값" value="Padrão" />
+  <keys prop="Description" type="monster" key="auto" value="automática" />
+  <keys prop="Description" type="monster" key="high" value="High" />
+  <keys prop="Description" type="monster" key="middle" value="Intermediate" />
+  <keys prop="Description" type="monster" key="low" value="Low" />
+  <keys prop="Description" type="monster" key="no" value="não" />
+  <keys prop="Description" type="monster" key="서버 선택" value="Selecionar Mundo" />
+  <keys prop="Description" type="monster" key="성능" value="Função" />
+  <keys prop="Description" type="monster" key="품질" value="Qualidade" />
+  <keys prop="Description" type="monster" key="화면 품질" value="Qualidade da Tela" />
+  <keys prop="Description" type="monster" key="화면 모드" value="Modo de Tela" />
+  <keys prop="Description" type="monster" key="뭉게짐 효과" value="Efeito de Desfoque" />
+  <keys prop="Description" type="monster" key="consumtpplus" value="Estamina Consumida" />
+  <keys prop="Description" type="monster" key="casting" value="Cast" />
+  <keys prop="Description" type="monster" key="reversecasting" value="Canalizado" />
+  <keys prop="Description" type="monster" key="charge" value="Investida" />
+  <keys prop="Description" type="monster" key="private" value="Exclusivo" />
+  <keys prop="Description" type="monster" key="equippossible" value="Equipável" />
+  <keys prop="Description" type="monster" key="allclasspossible" value="Todas as Classes" />
+  <keys prop="Description" type="monster" key="enchantpossible" value="Capaz de Melhorar" />
+  <keys prop="Description" type="monster" key="enchantimpossible" value="Não Pode Ser Temperado" />
+  <keys prop="Description" type="monster" key="useeff" value="Efeitos:" />
+  <keys prop="Description" type="monster" key="enchantnolimit" value="Sem Limites para Melhoramentos" />
+  <keys prop="Description" type="monster" key="skill_step" value="Nível" />
+  <keys prop="Description" type="monster" key="reply" value="Responder" />
+  <keys prop="Description" type="monster" key="RecTpPowPlus" value="Efeito de Recuperação de Vida" />
+  <keys prop="Description" type="monster" key="RecTpPowMult" value="Efeito de Recuperação de Vida" />
+  <keys prop="Description" type="monster" key="graphic" value="Graphics" />
+  <keys prop="Description" type="monster" key="sound" value="Som" />
+  <keys prop="Description" type="monster" key="setting" value="Jogo" />
+  <keys prop="Description" type="monster" key="shortcutkey" value="Teclas" />
+  <keys prop="Description" type="monster" key="combo" value="Combo" />
+  <keys prop="Description" type="monster" key="Invalid" value="None" />
+  <keys prop="Description" type="monster" key="compensation" value="Recompensa em Dinheiro" />
+  <keys prop="Description" type="monster" key="accept" value="Aceitar" />
+  <keys prop="Description" type="monster" key="notreactionmovingstate" value="Restrição do Alcance de Ação de Movimento de Golpes" />
+  <keys prop="Description" type="monster" key="cooltimemult" value="Tempo de Recarga" />
+  <keys prop="Description" type="monster" key="furifyonattackplus" value="Rage Gain" />
+  <keys prop="Description" type="monster" key="connect" value="On-line" />
+  <keys prop="Description" type="monster" key="disconnect" value="Off-line" />
+  <keys prop="Description" type="monster" key="letter" value="Stored Mail" />
+  <keys prop="Description" type="monster" key="window" value="Modo Janela" />
+  <keys prop="Description" type="monster" key="fullscreen" value="Full Screen" />
+  <keys prop="Description" type="monster" key="fullscreenwindow" value="Borderless" />
+  <keys prop="Description" type="monster" key="not" value="Nenhuma" />
+  <keys prop="Description" type="monster" key="me" value="Self" />
+  <keys prop="Description" type="monster" key="other" value="Outro Jogador" />
+  <keys prop="Description" type="monster" key="npc" value="NPC" />
+  <keys prop="Description" type="monster" key="itemcomparevalue" value="Compared to Current" />
+  <keys prop="Description" type="monster" key="tamingdisabled" value="Não é possível domar" />
+  <keys prop="Description" type="monster" key="tamingenabled" value="Doma Disponível" />
+  <keys prop="Description" type="monster" key="taminglocked" value="Capaz de domar (precisa atender às condições)" />
+  <keys prop="Description" type="monster" key="ride" value="Montar" />
+  <keys prop="Description" type="monster" key="ready" value="Finalizada" />
+  <keys prop="Description" type="monster" key="allstatmult" value="Todos os Atributos" />
+  <keys prop="Description" type="monster" key="newskill" value="Novas Habilidades" />
+  <keys prop="Description" type="monster" key="event" value="Evento" />
+  <keys prop="Description" type="monster" key="unready" value="Pendente" />
+  <keys prop="Description" type="monster" key="usepossible" value="pode usar esse item" />
+  <keys prop="Description" type="monster" key="allclassusepossible" value="Todas as Classes" />
+  <keys prop="Description" type="monster" key="companyorenemy" value="Aliado / Inimigo" />
+  <keys prop="Description" type="monster" key="stiffstate" value="Confuso" />
+  <keys prop="Description" type="monster" key="invincibility" value="Unbeatable Status" />
+  <keys prop="Description" type="monster" key="maxepmult" value="Max EP" />
+  <keys prop="Description" type="monster" key="agromult" value="Ameaça" />
+  <keys prop="Description" type="monster" key="human" value="Human" />
+  <keys prop="Description" type="monster" key="shaling" value="Shaling" />
+  <keys prop="Description" type="monster" key="crokhoon" value="Crokhoon" />
+  <keys prop="Description" type="monster" key="fellowconsume" value="Consumíveis de Familiares" />
+  <keys prop="Description" type="monster" key="fellowlevel" value="Nível do Familiar" />
+  <keys prop="Description" type="monster" key="fellowexp" value="EXP Acumulativo" />
+  <keys prop="Description" type="monster" key="sealedfellow" value="Familiar Lacrado" />
+  <keys prop="Description" type="monster" key="onehandbow" value="Arco" />
+  <keys prop="Description" type="monster" key="fellownecklace" value="Garras (Item de Familiar)" />
+  <keys prop="Description" type="monster" key="fellowsaddle" value="Sela (Item de Familiar)" />
+  <keys prop="Description" type="monster" key="fellowarmor" value="Pedra da Alma (Item de Familiar)" />
+  <keys prop="Description" type="monster" key="maxep" value="Max EP" />
+  <keys prop="Description" type="monster" key="Plus" value="Aumento" />
+  <keys prop="Description" type="monster" key="ui_fellow_gauge_hp" value="Recupere a saúde do pet." />
+  <keys prop="Description" type="monster" key="ui_fellow_gauge_ep" value="Recuperar e regenerar a estamina do pet por 4 segundos." />
+  <keys prop="Description" type="monster" key="quick_battle_request" value="Desafiar para Duelo" />
+  <keys prop="Description" type="monster" key="bid" value="Item de Coleta Rara Taxa de Drop" />
+  <keys prop="Description" type="monster" key="renounce" value="Desistir" />
+  <keys prop="Description" type="monster" key="wearing" value="Quando Equipado" />
+  <keys prop="Description" type="monster" key="seteffect" value="Efeitos de Conjunto " />
+  <keys prop="Description" type="monster" key="min" value="Min" />
+  <keys prop="Description" type="monster" key="max" value="Max" />
+  <keys prop="Description" type="monster" key="item" value="Items" />
+  <keys prop="Description" type="monster" key="comsume" value="Consumível" />
+  <keys prop="Description" type="monster" key="fellowbook" value="Bestiário" />
+  <keys prop="Description" type="monster" key="backattackcrirateplus" value="Dano de Ataque nas Costas" />
+  <keys prop="Description" type="monster" key="bothhands" value="Adaga" />
+  <keys prop="Description" type="monster" key="talents_lack_msg" value="Você precisa de mais poder de talento." />
+  <keys prop="Description" type="monster" key="talents_unequip_msg" value="removido.&lt;br/&gt;Poder de talento utilizado irá desaparecer" />
+  <keys prop="Description" type="monster" key="talents_equip_msg" value="equipado." />
+  <keys prop="Description" type="monster" key="ui_tab_characterinfo_soultalents" value="Talentos" />
+  <keys prop="Description" type="monster" key="wr_r" value="Selvageria" />
+  <keys prop="Description" type="monster" key="wr_g" value="Poder" />
+  <keys prop="Description" type="monster" key="wr_b" value="Combate" />
+  <keys prop="Description" type="monster" key="gd_r" value="Aegis" />
+  <keys prop="Description" type="monster" key="gd_g" value="Stalwart" />
+  <keys prop="Description" type="monster" key="gd_b" value="Combat" />
+  <keys prop="Description" type="monster" key="tf_r" value="Aéreo" />
+  <keys prop="Description" type="monster" key="tf_g" value="Agilidade" />
+  <keys prop="Description" type="monster" key="tf_b" value="Controle" />
+  <keys prop="Description" type="monster" key="pr_r" value="Sentinela" />
+  <keys prop="Description" type="monster" key="pr_g" value="Fé" />
+  <keys prop="Description" type="monster" key="pr_b" value="Repreensão" />
+  <keys prop="Description" type="monster" key="wz_r" value="Fogo" />
+  <keys prop="Description" type="monster" key="wz_g" value="Gelo" />
+  <keys prop="Description" type="monster" key="wz_b" value="Afinidade" />
+  <keys prop="Description" type="monster" key="soultalent_point" value="Poder de Talento Requerido" />
+  <keys prop="Description" type="monster" key="ridefellow" value="Montar" />
+  <keys prop="Description" type="monster" key="battlefellow" value="Pets" />
+  <keys prop="Description" type="monster" key="talents_full_msg" value="Você não pode coletar mais poder de talento." />
+  <keys prop="Description" type="monster" key="step" value="Nível" />
+  <keys prop="Description" type="monster" key="weaponcraft" value="Criação de Armas" />
+  <keys prop="Description" type="monster" key="armorcraft" value="Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="accessorycraft" value="Nível Familiar" />
+  <keys prop="Description" type="monster" key="fellowequip" value="Criação do Seleiro" />
+  <keys prop="Description" type="monster" key="alchemy" value="Alquimia" />
+  <keys prop="Description" type="monster" key="cooking" value="Cozinhar" />
+  <keys prop="Description" type="monster" key="WeaponRack" value="Bigorna para Armas" />
+  <keys prop="Description" type="monster" key="ArmorRack" value="Bigorna para Armaduras" />
+  <keys prop="Description" type="monster" key="CookingRack" value="Estação de Cozimento" />
+  <keys prop="Description" type="monster" key="AlchemyRack" value="Laboratório de Alquimia" />
+  <keys prop="Description" type="monster" key="AccessoryRack" value="Chance aumentada de capturar peixes muito grandes" />
+  <keys prop="Description" type="monster" key="FellowEquipRack" value="Mesa de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="ui_soultalents_blank" value="Este espaço de talento está disponível." />
+  <keys prop="Description" type="monster" key="adjust_skill" value="Habilidades Aplicadas" />
+  <keys prop="Description" type="monster" key="selectitem" value="Selecionar Recompensas" />
+  <keys prop="Description" type="monster" key="greatsucces" value="triumphantly crafted!" />
+  <keys prop="Description" type="monster" key="new_mail_count" value="Novo Email" />
+  <keys prop="Description" type="monster" key="recipe" value="Receita" />
+  <keys prop="Description" type="monster" key="production" value="Criar" />
+  <keys prop="Description" type="monster" key="synergy" value="Sinergia" />
+  <keys prop="Description" type="monster" key="talents_equipsoulstone_msg" value="Gostaria de converter para poder de talento?" />
+  <keys prop="Description" type="monster" key="soultalentpoint" value="Poder de Talento" />
+  <keys prop="Description" type="monster" key="fellow_talon" value="Garra" />
+  <keys prop="Description" type="monster" key="fellow_saddle" value="Sela" />
+  <keys prop="Description" type="monster" key="fellow_sounstone" value="Pedra da Alma" />
+  <keys prop="Description" type="monster" key="idoncare" value="Unarmed" />
+  <keys prop="Description" type="monster" key="gather" value="Gathering" />
+  <keys prop="Description" type="monster" key="enetfailure talents notopenpart" value="Você pode equipar um poder de talento" />
+  <keys prop="Description" type="monster" key="sealedfelloweffect" value="Efeito de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="sealedfelloweffectdesc" value="Nenhuma pedra-lacre equipada" />
+  <keys prop="Description" type="monster" key="previewfelloweffect" value="Familiar Seal Stone Effect" />
+  <keys prop="Description" type="monster" key="itemequipskill" value="Equipped Skill" />
+  <keys prop="Description" type="monster" key="quick_token" value="Mark" />
+  <keys prop="Description" type="monster" key="HunterPKState" value="Human Hunter Status" />
+  <keys prop="Description" type="monster" key="KillPKState" value="Slayer Status" />
+  <keys prop="Description" type="monster" key="GodPKState" value="God of Death Status" />
+  <keys prop="Description" type="monster" key="daily" value="Diário" />
+  <keys prop="Description" type="monster" key="tamingcondition" value="Condições de Doma" />
+  <keys prop="Description" type="monster" key="tamingappoint" value="Pontos de Doma" />
+  <keys prop="Description" type="monster" key="tamingconditionneed" value="Condições de Doma Não Atendidas (Verifique o Bestiário)" />
+  <keys prop="Description" type="monster" key="tamingconditionsatisfy" value="Condições de Doma Atendidas" />
+  <keys prop="Description" type="monster" key="lobby_delete_char" value="Delete Now" />
+  <keys prop="Description" type="monster" key="tooltip_killcount_kill" value="&lt;UI_Y&gt;Abates&lt;/UI_Y&gt;&#xD;&#xA;Jogadores mortos hoje:" />
+  <keys prop="Description" type="monster" key="tooltip_killcount_death" value="&lt;UI_Y&gt;Mortes:&lt;/UI_Y&gt;&#xD;&#xA;Mortes pessoais de hoje:" />
+  <keys prop="Description" type="monster" key="soultalentskilllearn" value="&lt;Y_ST&gt;Habilidade Obtida&lt;/Y_ST&gt;" />
+  <keys prop="Description" type="monster" key="areaaltitude" value="Região Máx." />
+  <keys prop="Description" type="monster" key="fellowaltitudetooltip" value="Cada familiar tem sua própria altitude máxima. Voe muito alto e ele será dispensado." />
+  <keys prop="Description" type="monster" key="hour_time" value="hr" />
+  <keys prop="Description" type="monster" key="guild_mark_no_gold" value="You don't have enough money." />
+  <keys prop="Description" type="monster" key="guild_mark_diffent_size_msg" value="Will you delegate guild leader to this person?" />
+  <keys prop="Description" type="monster" key="guild_mark_upload_description" value="Moving GuildMark.JPG from folder.&#xD;&#xA;The size is 64x64 px." />
+  <keys prop="Description" type="monster" key="point" value="Ponto" />
+  <keys prop="Description" type="monster" key="savedkeyduplication" value="Essa chave já está em uso." />
+  <keys prop="Description" type="monster" key="chat_exe_boarding_apply" value="Pedir Carona" />
+  <keys prop="Description" type="monster" key="chat_exe_boarding_invite" value="Convite para um Passeio" />
+  <keys prop="Description" type="monster" key="itemuse_split_item" value="Divide Stack" />
+  <keys prop="Description" type="monster" key="itemuse_change_fellow" value="Rename Familiar" />
+  <keys prop="Description" type="monster" key="itemuse_jump_map" value="Teleport Scroll" />
+  <keys prop="Description" type="monster" key="itemuse_throw_item" value="Trash Item" />
+  <keys prop="Description" type="monster" key="itemuse_skill_use" value="Use Item" />
+  <keys prop="Description" type="monster" key="People" value=" Pessoas" />
+  <keys prop="Description" type="monster" key="NoLimit" value="Sem Limite" />
+  <keys prop="Description" type="monster" key="Hide" value="Hide" />
+  <keys prop="Description" type="monster" key="SimpleDraw" value="Simples" />
+  <keys prop="Description" type="monster" key="proficiency" value="Nível de Habilidade" />
+  <keys prop="Description" type="monster" key="mastery" value="Proficiency" />
+  <keys prop="Description" type="monster" key="check" value="Manutenção em Andamento" />
+  <keys prop="Description" type="monster" key="spdamagereductionmult" value="Redução de Dano Mágico" />
+  <keys prop="Description" type="monster" key="spdefense" value="Defesa Mágica" />
+  <keys prop="Description" type="monster" key="rechppowmult" value="Regeneração de Vida Base" />
+  <keys prop="Description" type="monster" key="recmppowmult" value="Regeneração de Mana Base" />
+  <keys prop="Description" type="monster" key="altitudeplus" value="Altitude de Familiar" />
+  <keys prop="Description" type="monster" key="FellowGrowUpExpMult" value="EXP do Familiar" />
+  <keys prop="Description" type="monster" key="FellowGrowUpExpPlus" value="EXP do Familiar" />
+  <keys prop="Description" type="monster" key="fellowtamingaprate" value="Pontos de Doma Consumidos" />
+  <keys prop="Description" type="monster" key="allgenderusepossible" value="Unissex" />
+  <keys prop="Description" type="monster" key="receppowmult" value="Recuperação de Energia" />
+  <keys prop="Description" type="monster" key="droprateplus" value="Taxa de Drop" />
+  <keys prop="Description" type="monster" key="cannotabandon" value="Indestrutível" />
+  <keys prop="Description" type="monster" key="ui_area_altitude" value="Região Máx." />
+  <keys prop="Description" type="monster" key="fellowmaxlevel" value="Esse familiar atingiu seu nível máximo." />
+  <keys prop="Description" type="monster" key="maxfellowlevel" value="Maximum Level" />
+  <keys prop="Description" type="monster" key="movespeed" value="Move Speed" />
+  <keys prop="Description" type="monster" key="fellow_movespeed_desc" value="Chance aumentada de capturar peixes muito grandes" />
+  <keys prop="Description" type="monster" key="altitude" value="Altitude" />
+  <keys prop="Description" type="monster" key="fellow_altitude_desc" value="A altitude máxima para a qual um familiar pode voar." />
+  <keys prop="Description" type="monster" key="altitudemax" value="Altitude Máxima" />
+  <keys prop="Description" type="monster" key="altitudemax_desc" value="A altitude máxima para a qual um familiar pode voar." />
+  <keys prop="Description" type="monster" key="playergrowupexpmult" value="EXP de Personagem Obtida" />
+  <keys prop="Description" type="monster" key="possessioneff" value="Efeito Consumível" />
+  <keys prop="Description" type="monster" key="cridamreduceplus" value="Defesa de Dano Crítico" />
+  <keys prop="Description" type="monster" key="eYellowTimeSec" value="Tempo de Vida" />
+  <keys prop="Description" type="monster" key="allattpowplus" value="Ataque Global" />
+  <keys prop="Description" type="monster" key="standarddaily" value="Tempo de Vitalidade Diária Restante" />
+  <keys prop="Description" type="monster" key="standardweek" value="Tempo de Vitalidade Semanal Restante" />
+  <keys prop="Description" type="monster" key="premiumweek" value="Tempo de Vitalidade Semanal Restante para lan house" />
+  <keys prop="Description" type="monster" key="allattpowmult" value="Ataque Global" />
+  <keys prop="Description" type="monster" key="alldefpowplus" value="Defesa Geral" />
+  <keys prop="Description" type="monster" key="alldefpowmult" value="Defesa Geral" />
+  <keys prop="Description" type="monster" key="nosealedfellow" value="Você não pode selar esse familiar." />
+  <keys prop="Description" type="monster" key="tamingratemult" value="Chance de Doma" />
+  <keys prop="Description" type="monster" key="createproductratemult" value="Chance de Criação Triunfante" />
+  <keys prop="Description" type="monster" key="reignforcemult" value="Chance de Temperar" />
+  <keys prop="Description" type="monster" key="auctionregfeemult" value="Taxa de Anúncio no Mercado" />
+  <keys prop="Description" type="monster" key="auctionsellfeemult" value="Taxa de Vendas no Mercado" />
+  <keys prop="Description" type="monster" key="dropmoneyratemult" value="Aumento no Drop de Dinheiro" />
+  <keys prop="Description" type="monster" key="maxgemslot" value="&lt;UI_G&gt;Gem Slots&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="IgnoreLimitStr" value="Break Strength Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitDex" value="Break Dexterity Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitInt" value="Break Intelligence Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitVtl" value="Break Constitution Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitMtl" value="Break Willpower Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitBdy" value="Break Physical Resistance Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitMnd" value="Break Magic Resistance Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitMaxHp" value="Break Max Health Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitMaxMp" value="Break Max Mana Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitWpPhMaxAttPow" value="Break Max Physical Attack Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitSpPhMaxAttPow" value="Break Max Magic Attack Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitWpPhDefPow" value="Break Physical Defense Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitSpPhDefPow" value="Break Magic Defense Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitWpPhAttCriRate" value="Break Physical Critical Rate Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitSpCriRate" value="Break Magic Critical Rate Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitBodyRegistRate" value="Break Physical Resistance Rate Limit" />
+  <keys prop="Description" type="monster" key="IgnoreLimitMindRegistRate" value="Break Magic Resistance Rate Limit" />
+  <keys prop="Description" type="monster" key="maxepplus" value="Max EP" />
+  <keys prop="Description" type="monster" key="earnmoneyratemult" value="Total de Dinheiro Caído" />
+  <keys prop="Description" type="monster" key="AllCriRatePlus" value="Taxa de Crítico Geral" />
+  <keys prop="Description" type="monster" key="AllCriPowPlus" value="Ataque Crítico Global" />
+  <keys prop="Description" type="monster" key="ui_logoff" value="Off-line" />
+  <keys prop="Description" type="monster" key="sharing" value="Comum" />
+  <keys prop="Description" type="monster" key="ui_reinforce_notable" value="Indisponível" />
+  <keys prop="Description" type="monster" key="accgemeffect" value="Sex" />
+  <keys prop="Description" type="monster" key="accgemeffectdesc" value="SOU" />
+  <keys prop="Description" type="monster" key="nodecomposition" value="Desmantelamento Indisponível" />
+  <keys prop="Description" type="monster" key="fontsizechange" value="Mudar Tamanho da Fonte" />
+  <keys prop="Description" type="monster" key="fontsize_min" value="Pequena" />
+  <keys prop="Description" type="monster" key="fontsize_default" value="Normal" />
+  <keys prop="Description" type="monster" key="fontsize_max" value="Grande" />
+  <keys prop="Description" type="monster" key="nomovekeeping" value="Não-armazenável" />
+  <keys prop="Description" type="monster" key="ui_title_itemreinforce_gold_not_enough" value="Não há Dinheiro o Suficiente" />
+  <keys prop="Description" type="monster" key="carvetime" value="Validade de Gravação" />
+  <keys prop="Description" type="monster" key="zdaily" value="Conquistas Diárias" />
+  <keys prop="Description" type="monster" key="FellowConsignmentExpMult" value="EXP de Nutrição de Familiar" />
+  <keys prop="Description" type="monster" key="cp" value="Caos" />
+  <keys prop="Description" type="monster" key="tooltip_charactorslotextend" value="Espaços para Personagem" />
+  <keys prop="Description" type="monster" key="reccppowmult" value="Recuperação do Caos" />
+  <keys prop="Description" type="monster" key="ac_r" value="Redução do tempo de coleta" />
+  <keys prop="Description" type="monster" key="ac_g" value="Chance de obter proficiência em dobro" />
+  <keys prop="Description" type="monster" key="ac_b" value="Chance de obter o triplo de proficiência" />
+  <keys prop="Description" type="monster" key="RecCpSpeedPlus" value="Velocidade de Recuperação do Caos" />
+  <keys prop="Description" type="monster" key="lancedammult" value="Lance Damage Received" />
+  <keys prop="Description" type="monster" key="crossbowdammult" value="Dano Recebido de Besta" />
+  <keys prop="Description" type="monster" key="GuildPointRateMult" value="Guild Points Earned" />
+  <keys prop="Description" type="monster" key="MonsterDropRate" value="Rare Drop Chance" />
+  <keys prop="Description" type="monster" key="chat_exe_duelranking_invite" value="Classificação de Duelo" />
+  <keys prop="Description" type="monster" key="allstatderestplus" value="Limite de Ruptura de Atributos" />
+  <keys prop="Description" type="monster" key="allstatderestrate" value="Limite de Ruptura de Atributos" />
+  <keys prop="Description" type="monster" key="blocksummonfellow" value="Incapaz de invocar familiares" />
+  <keys prop="Description" type="monster" key="AttackerCriDamPlusReduceRate" value="Defesa Crítica" />
+  <keys prop="Description" type="monster" key="CriDmgPassMult" value="Penetração Crítica" />
+  <keys prop="Description" type="monster" key="fishingtimeplus" value="Fishing Time (Sec)" />
+  <keys prop="Description" type="monster" key="server" value="Servidor" />
+  <keys prop="Description" type="monster" key="ServerInIntegration" value="Servidor" />
+  <keys prop="Description" type="monster" key="serverinintegrationchat" value="Servidor" />
+  <keys prop="Description" type="monster" key="absorbvitalitysuccessrateplus" value="Chance de obter o item de coleta em dobro" />
+  <keys prop="Description" type="monster" key="absorbvitalityrateplus" value="Item de Coleta Rara Taxa de Drop" />
+  <keys prop="Description" type="monster" key="absorbvitalitysuccessrate" value="Chance de obter o item de coleta triplo" />
+  <keys prop="Description" type="monster" key="absorbvitalityrate" value="Ligação à têmpera" />
+  <keys prop="Description" type="monster" key="fellowconsignmentexpconnectmult" value="EXP de Nutrição Enquanto Logado" />
+  <keys prop="Description" type="monster" key="reversereinforcetry" value="Tentativas de Têmpera reversa restantes" />
+  <keys prop="Description" type="monster" key="reverselevel" value="Reversões" />
+  <keys prop="Description" type="monster" key="guildattendancecheck_counttitle" value="Daily Check-in Status" />
+  <keys prop="Description" type="monster" key="guildattendancereward_counttitle" value="Yesterday's Check-in Status" />
+  <keys prop="Description" type="monster" key="lb_guildattendance_todaycount" value="Current Check-in Count" />
+  <keys prop="Description" type="monster" key="lb_guildattendance_yesterdaycount" value="Yesterday's Check-in Count" />
+  <keys prop="Description" type="monster" key="guildattendancecheck_infotitle" value="Daily Reward Information" />
+  <keys prop="Description" type="monster" key="guildattendancereward_infotitle" value="Daily Reward Information" />
+  <keys prop="Description" type="monster" key="guild_attend_starttime" value="&lt;O_Y&gt;Daily Check-in Start Time&lt;/O_Y&gt;" />
+  <keys prop="Description" type="monster" key="guild_attend_endtime" value="&lt;O_Y&gt;Daily Check-in End Time&lt;/O_Y&gt;" />
+  <keys prop="Description" type="monster" key="getitemrulemythic" value="Legendary+" />
+  <keys prop="Description" type="monster" key="getitemruleancientmythic" value="Mythical" />
+  <keys prop="Description" type="monster" key="auction_ancientmythic" value="Transcendente" />
+  <keys prop="Description" type="monster" key="tooltip_character_bleedingdef" value="Defesa contra Sangramento" />
+  <keys prop="Description" type="monster" key="tooltip_character_bleedingpass" value="Taxa de Sangramento" />
+  <keys prop="Description" type="monster" key="ReverseReinforceMult" value="Taxa de Têmpera Reversa" />
+  <keys prop="Description" type="monster" key="ReverseReinforcePlus" value="Valor de Têmpera Reversa" />
+  <keys prop="Description" type="monster" key="Idoll" value="Trickster" />
+  <keys prop="Description" type="monster" key="BleedingDefRate" value="Chance de obter o item de coleta triplo" />
+  <keys prop="Description" type="monster" key="BleedingPassRate" value="Chance de obter o item de coleta em dobro" />
+  <keys prop="Description" type="monster" key="onehandwand" value="Varinha" />
+  <keys prop="Description" type="monster" key="do_r" value="Bravura" />
+  <keys prop="Description" type="monster" key="do_g" value="Esperança" />
+  <keys prop="Description" type="monster" key="do_b" value="Graça" />
+  <keys prop="Description" type="monster" key="ui_currentlyinuse_label" value="Tempo Restante" />
+  <keys prop="Description" type="monster" key="@ui_currentlyinuse_label" value="Tempo Restante" />
+  <keys prop="Description" type="monster" key="fap" value="Ponto de Aventura" />
+  <keys prop="Description" type="monster" key="Magician" value="Magician" />
+  <keys prop="Description" type="monster" key="under" value="Abaixo" />
+  <keys prop="Description" type="monster" key="mg_r" value="Chaos" />
+  <keys prop="Description" type="monster" key="mg_g" value="Restrain" />
+  <keys prop="Description" type="monster" key="mg_b" value="Magic" />
+  <keys prop="Description" type="monster" key="capture_condition" value="Condições de Captura" />
+  <keys prop="Description" type="monster" key="petcapture_conditionsatisfy" value="Condições de Captura Atendidas" />
+  <keys prop="Description" type="monster" key="petcapture_conditionneed" value="Condições de Captura Não Atendidas (Verifique o Bestiário)" />
+  <keys prop="Description" type="monster" key="capturestate" value="Chance Absoluta de Sucesso de Captura" />
+  <keys prop="Description" type="monster" key="captureratemult" value="Chance de Sucesso de Captura" />
+  <keys prop="Description" type="monster" key="itemgrow_targetitem_type" value="Target Item" />
+  <keys prop="Description" type="monster" key="itemgrow_targetitem_all" value="All Equipment" />
+  <keys prop="Description" type="monster" key="itemgrow_experience_point" value="Obtained EXP" />
+  <keys prop="Description" type="monster" key="AuctionAllFeeMult" value="Todas as Taxas do Mercado" />
+  <keys prop="Description" type="monster" key="ProductSuccess" value="Chance de Sucesso na Criação" />
+  <keys prop="Description" type="monster" key="cg" value="Medidor da Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_NotAvailableOnRegularServer" value="Esse é um conteúdo que não pode ser usado em servidores Normais." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_TransServerNotLinked" value="O TransServer não foi conectado." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_NotAvailableWorldUser" value="Este usuário de mundo não pode ser movido." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_InvalidNPC" value="Esse NPC é inválido." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_FarFromNPC" value="O personagem está fora de alcance." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_AttendingParty" value="Você não pode usar isso enquanto estiver em um grupo." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_RgisteringItemsToAuction" value="Você não pode usar isso enquanto o item estiver registrado no Mercado." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_InSettlement" value="Você não pode usar isso quando há um item de Liquidação do Mercado." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_AgreementState" value="Nível Familiar" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_InTransit" value="Você não pode usar isso durante uma troca." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_IsDeadState" value="Você não pode usar isso enquanto estiver morto." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_AttendingGuild" value="Chance aumentada de capturar peixes muito grandes" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_UsingMentoring" value="Você não pode usar isso enquanto estiver em mentoria." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_UsingPartyBoard" value="Você não pode usar isso enquanto estiver registrando uma postagem no Quadro do Grupo." />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_IsCombating" value="Não pode ser usado durante um combate." />
+  <keys prop="Description" type="monster" key="eNetFailuer_Move_TransmissionReserved" value="O personagem já tem um movimento reservado." />
+  <keys prop="Description" type="monster" key="eNetFailuer_Move_SameServer" value="Você não pode mudar para o mesmo servidor." />
+  <keys prop="Description" type="monster" key="eNetFailuer_Move_InvalidTargetWorld" value="Você não pode mudar para esse servidor." />
+  <keys prop="Description" type="monster" key="pvpchannel" value="&lt;R_Y&gt;Canal PvP&lt;/R_Y&gt;" />
+  <keys prop="Description" type="monster" key="sun" value=" Dom" />
+  <keys prop="Description" type="monster" key="mon" value="Mon" />
+  <keys prop="Description" type="monster" key="tue" value=" Ter" />
+  <keys prop="Description" type="monster" key="wed" value=" Qua" />
+  <keys prop="Description" type="monster" key="thu" value=" Qui" />
+  <keys prop="Description" type="monster" key="fri" value="Fri" />
+  <keys prop="Description" type="monster" key="sat" value=" Sáb" />
+  <keys prop="Description" type="monster" key="DamageReduction" value="Redução de Dano" />
+  <keys prop="Description" type="monster" key="ui_warning_auto_belong_sealed_fellow" value="&lt;font color=&quot;#FF5E00&quot;&gt; Quando estiver criando um item de herança equipado com uma Pedra-Lacre não trocável, o item criado será automaticamente vinculado.&lt;/font&gt;&lt;br&gt;&lt;br&gt;Continuar com a criação?" />
+  <keys prop="Description" type="monster" key="ui_warning_destroy_sealed_fellow" value="&lt;font color=&quot;#FF5E00&quot;&gt; Cuidado: O selo do equipamento do material é consumido após a criação ser bem sucedida, e a &lt;br&gt;Pedra-Lacre pode ser herdada ao usar a opção [Herdar Pedra-Lacre Equipada].&lt;/font&gt;&lt;br&gt;&lt;br&gt;Continuar com a criação?" />
+  <keys prop="Description" type="monster" key="ui_warning_inherit_disabled_fellow_hw" value="&lt;font color=&quot;#FF5E00&quot;&gt; Cristal da Alma de Familiar não pode ser herdado.&lt;br&gt;10% da taxa de Elluns será subtraído quando a criação de herança falhar.&lt;/font&gt; " />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_DiceSystem_Info" value="Não há informações sobre o jogo de dados." />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_DiceSystem_Reward" value="Não há dados de recompensa no jogo de dados." />
+  <keys prop="Description" type="monster" key="eNetFailure_user_DiceSystem" value="O jogo de dados não está disponível no momento." />
+  <keys prop="Description" type="monster" key="eNetFailure_user_DiceSystemInfo" value="Falha ao carregar as informações do jogo de dados." />
+  <keys prop="Description" type="monster" key="itembuylevel" value="Available to purchase above level" />
+  <keys prop="Description" type="monster" key="ui_show_can_use_equipment" value="Equipment you can use" />
+  <keys prop="Description" type="monster" key="itemuse_open_continuity" value="Auto open random box" />
+  <keys prop="Description" type="monster" key="FishingAllRateMult" value="All Fishing Odds" />
+  <keys prop="Description" type="monster" key="movespeedfix" value="fix movespeed" />
+  <keys prop="Description" type="monster" key="getitemruleapostle" value="Apostle" />
+  <keys prop="Description" type="monster" key="precedenceplayergrowupexpmult" value="Experience gained by top characters" />
+  <keys prop="Description" type="monster" key="eNetFailure_item_Pickexceedmoneymaximumlimit" value="Your gold has exceeded the maximum and can no longer be obtained." />
+</files>

@@ -1,2 +1,320 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="dialog_1210000_Title" value="Fabri, o Feiticeiro da Virtude" />
+  <keys prop="Description" type="monster" key="dialog_1210000_text0" value="Ah, que bom te conhecer. Tenho uma mensagem de Yulnus para você. Ele me pediu para entregá-la pessoalmente. " />
+  <keys prop="Description" type="monster" key="dialog_1210000_answer_3_Text" value="O que houve?" />
+  <keys prop="Description" type="monster" key="dialog_1210001_Title" value="Bashu da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210001_text0" value="Os Monarcas de Stygaea ainda não chegaram ao Vilarejo dos Homens Livres. Talvez eles só não tenham começado suas investidas ainda. Vamos ter que esperar para ver." />
+  <keys prop="Description" type="monster" key="dialog_1210001_answer_8_Text" value="Gostaria de saber mais sobre o Arcano." />
+  <keys prop="Description" type="monster" key="dialog_1210001_answer_9_Text" value="Quem são os Monarcas de Stygaea?" />
+  <keys prop="Description" type="monster" key="dialog_1210002_Title" value="Zealem" />
+  <keys prop="Description" type="monster" key="dialog_1210002_text0" value="Precisamos de uma defesa homogênea para manter o Vilarejo dos Homens Livres em segurança. Os Monarcas de Stygaea têm sido uma ameaça crescente desde que ascenderam ao poder." />
+  <keys prop="Description" type="monster" key="dialog_1210002_answer_4_Text" value="Quais são os tipos de ameaça ao vilarejo?" />
+  <keys prop="Description" type="monster" key="dialog_1210003_Title" value="Vlaar" />
+  <keys prop="Description" type="monster" key="dialog_1210003_text0" value="Os mortos ainda têm livre arbítrio. Aqueles de nós que estão livres da carne se uniram para fundar o Vilarejo dos Homens Livres, mas os Monarcas ameaçam nos arrasar sob seu reinado tenebroso. Precisamos de ajuda se quisermos continuar livres." />
+  <keys prop="Description" type="monster" key="dialog_1210003_answer_1_Text" value="Eu não esperava ver um vilarejo no reino dos mortos." />
+  <keys prop="Description" type="monster" key="dialog_1210003_answer_2_Text" value="Homens livres? Tenho certeza de que existe algum sentido por trás disso." />
+  <keys prop="Description" type="monster" key="dialog_1210004_Title" value="Ollet &lt;Andarilho das Sombras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210004_text0" value="Morte, medo, fúria... O turbilhão de emoções aqui me parece muito familiar. Você também sente isso?" />
+  <keys prop="Description" type="monster" key="dialog_1210004_answer_2_Text" value="Alguma coisa aqui te intriga?" />
+  <keys prop="Description" type="monster" key="dialog_1210005_Title" value="Taracio" />
+  <keys prop="Description" type="monster" key="dialog_1210005_text0" value="Fiquei sabendo que você estava adentrando o reino dos mortos, então decidi vir junto. E ainda bem que fiz isso, porque aqui é ótimo para caçar." />
+  <keys prop="Description" type="monster" key="dialog_1210005_answer_2_Text" value="O que você está caçando?" />
+  <keys prop="Description" type="monster" key="dialog_1210006_Title" value="Peria" />
+  <keys prop="Description" type="monster" key="dialog_1210006_text0" value="Começamos nossa viagem com um grupo grande de exploradores, mas depois de pouco tempo em Stygaea, estamos com menos de dez. E as coisas que mataram meus companheiros ainda estão por aí... esperando." />
+  <keys prop="Description" type="monster" key="dialog_1210006_answer_3_Text" value="Você foi mandado para cá para encontrar o quê?" />
+  <keys prop="Description" type="monster" key="dialog_1210006_answer_4_Text" value="Foi um grande sacrifício." />
+  <keys prop="Description" type="monster" key="dialog_1210007_Title" value="Tabram da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210007_text0" value="Dizem que o Lago da Eternidade é o destino final dos mortos tranquilos, mas por lá, eu só vejo os lacaios do Monarca. Como é possível que algum morto tenha paz ali?" />
+  <keys prop="Description" type="monster" key="dialog_1210007_answer_5_Text" value="Soube que alguns membros da Távola Redonda têm missões especiais." />
+  <keys prop="Description" type="monster" key="dialog_1210008_Title" value="Robin" />
+  <keys prop="Description" type="monster" key="dialog_1210008_text0" value="O Abismo Negro é um portão para o além-mundo para almas que passaram pelo Lago da Eternidade. O farol, então, guia as almas para sua recompensa final. Tenho observado a luz e o abismo há muito tempo... E acho que ainda não é hora de parar." />
+  <keys prop="Description" type="monster" key="dialog_1210008_answer_2_Text" value="Como esse farol passou a existir?" />
+  <keys prop="Description" type="monster" key="dialog_1210009_Title" value="Cielle da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210009_text0" value="Está sentindo essa energia incrível? Tente se concentrar..." />
+  <keys prop="Description" type="monster" key="dialog_1210009_answer_4_Text" value="Dá para sentir a magia poderosa que já tomou conta deste lugar." />
+  <keys prop="Description" type="monster" key="dialog_1210010_Title" value="Jass" />
+  <keys prop="Description" type="monster" key="dialog_1210010_text0" value="Explorar o Abismo Negro é uma ideia assustadora. Não sabemos quase nada sobre aquele lugar." />
+  <keys prop="Description" type="monster" key="dialog_1210010_answer_1_Text" value="Ainda há mais a ser explorado por aí." />
+  <keys prop="Description" type="monster" key="dialog_1210011_Title" value="Trigg" />
+  <keys prop="Description" type="monster" key="dialog_1210011_text0" value="Boas-vindas ao Bar de Trigg! Sem tensão, todos são bem-vindos aqui! É só não querer causar problemas. Seres humanos, monstros, vivos ou mortos... Não faz diferença para mim, desde que sejam civilizados." />
+  <keys prop="Description" type="monster" key="dialog_1210011_answer_4_Text" value="Por que não lutar?" />
+  <keys prop="Description" type="monster" key="dialog_1210011_answer_5_Text" value="Esse lugar é seguro mesmo?" />
+  <keys prop="Description" type="monster" key="dialog_1210012_Title" value="Baros da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210012_text0" value="Há vários tesouros lendários escondidos por Stygaea. Estamos falando de armas e artefatos pesados aqui. Se a intenção for desafiar os Monarcas, pode ser útil dispor de uma ou duas armas para isso." />
+  <keys prop="Description" type="monster" key="dialog_1210012_answer_4_Text" value="Eu não esperava encontrar Baros aqui." />
+  <keys prop="Description" type="monster" key="dialog_1210012_answer_5_Text" value="Aconteceu alguma coisa com Linetta? Tabram está preocupado com ela..." />
+  <keys prop="Description" type="monster" key="dialog_1210013_Title" value="Ornetta" />
+  <keys prop="Description" type="monster" key="dialog_1210013_text0" value="Não temo o reino dos mortos. Pelo menos, não enquanto Baros estiver comigo." />
+  <keys prop="Description" type="monster" key="dialog_1210013_answer_3_Text" value="Conte-me o que puder sobre o Arcano." />
+  <keys prop="Description" type="monster" key="dialog_1210014_Title" value="Linetta da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210014_text0" value="Devemos lutar para preservar a justiça onde ela estiver em risco. No reino dos mortos, não é diferente." />
+  <keys prop="Description" type="monster" key="dialog_1210014_answer_5_Text" value="O que existe dentro do Purgatório?" />
+  <keys prop="Description" type="monster" key="dialog_1210014_answer_6_Text" value="Você sabe alguma coisa sobre o líder da Irmandade de Khabim?" />
+  <keys prop="Description" type="monster" key="dialog_1210014_answer_7_Text" value="Essa pessoa ao seu lado está bem?" />
+  <keys prop="Description" type="monster" key="dialog_1210015_Title" value="Hagmaza da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210015_text0" value="Cuidado... o Monarca... Magnatu... (Ele está pálido e gelado. Suas feridas devem ser graves, de fato.)" />
+  <keys prop="Description" type="monster" key="dialog_1210015_answer_0_Text" value="Esse ferimento... Quem o causou?" />
+  <keys prop="Description" type="monster" key="dialog_1210016_Title" value="Hagmaza da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210016_text0" value="(Ele se foi...)" />
+  <keys prop="Description" type="monster" key="dialog_1210016_answer_0_Text" value="(Tem uma carta enfiada na roupa dele. Pode ler?)" />
+  <keys prop="Description" type="monster" key="dialog_1210017_Title" value="Yusei" />
+  <keys prop="Description" type="monster" key="dialog_1210017_text0" value="O-o que devemos fazer? Se alguém puder nos ajudar... Por favor..." />
+  <keys prop="Description" type="monster" key="dialog_1210018_Title" value="Quadro de Avisos do Vilarejo dos Homens Livres" />
+  <keys prop="Description" type="monster" key="dialog_1210018_text0" value="Esse quadro é para uso público. Vandalize-o ou use-o indevidamente A SEU PRÓPRIO RISCO.&lt;br&gt;&lt;br&gt;Líder Zealem da Milícia Civil" />
+  <keys prop="Description" type="monster" key="dialog_1210019_Title" value="Tosen" />
+  <keys prop="Description" type="monster" key="dialog_1210019_text0" value="Não é bom estar sobrecarregado na hora de lutar contra monstros! Deixe o excesso de equipamentos comigo para ficar mais leve." />
+  <keys prop="Description" type="monster" key="dialog_1210019_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_1210020_Title" value="Giselle" />
+  <keys prop="Description" type="monster" key="dialog_1210020_text0" value="Não existe ninguém em Stygaea que saiba mais sobre os equipamentos dos familiares do que eu! Avise-me se precisar de alguma coisa." />
+  <keys prop="Description" type="monster" key="dialog_1210020_answer_0_text" value="Loja de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="dialog_1210021_Title" value="Gomez" />
+  <keys prop="Description" type="monster" key="dialog_1210021_text0" value="Não deixe seus minérios guardados! Faça algo mágico com eles antes que percam o brilho." />
+  <keys prop="Description" type="monster" key="dialog_1210021_answer_0_text" value="Loja de Criação de Joias" />
+  <keys prop="Description" type="monster" key="dialog_1210022_Title" value="Terracci" />
+  <keys prop="Description" type="monster" key="dialog_1210022_text0" value="A alquimia abre um novo mundo de poções e tinturas para te ajudar em suas viagens. Eu adoraria ajudar você no que for preciso." />
+  <keys prop="Description" type="monster" key="dialog_1210022_answer_0_text" value="Loja de Alquimia" />
+  <keys prop="Description" type="monster" key="dialog_1210023_Title" value="Bernyn" />
+  <keys prop="Description" type="monster" key="dialog_1210023_text0" value="Não é difícil cozinhar. Só precisamos de mãos limpas e ingredientes frescos. Você já tem uma dessas coisas... eu acho, e posso conseguir a outra para você." />
+  <keys prop="Description" type="monster" key="dialog_1210023_answer_0_text" value="Despensa de Ingredientes" />
+  <keys prop="Description" type="monster" key="dialog_1210024_Title" value="Capitão da Guarda, Felix" />
+  <keys prop="Description" type="monster" key="dialog_1210024_text0" value="Você pode ter passado por muita coisa na vida, mas nada chega perto das dificuldades de Stygaea. Se quiser chegar aqui, ouça o que estou dizendo." />
+  <keys prop="Description" type="monster" key="dialog_1210024_answer_0_text" value="Progresso de Guerra de Alianças" />
+  <keys prop="Description" type="monster" key="dialog_1210025_Title" value="Ritia" />
+  <keys prop="Description" type="monster" key="dialog_1210025_text0" value="Como posso te ajudar? Tenho certeza de que tenho tudo que você procura." />
+  <keys prop="Description" type="monster" key="dialog_1210025_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210026_Title" value="Frantz" />
+  <keys prop="Description" type="monster" key="dialog_1210026_text0" value="Olá, sou Frantz. Em nome da milícia, Boas-vindas ao Vilarejo dos Homens Livres!" />
+  <keys prop="Description" type="monster" key="dialog_1210026_answer_0_text" value="Entre para a Milícia de Stygaea" />
+  <keys prop="Description" type="monster" key="dialog_1210026_answer_1_text" value="Deixe a Milícia de Stygaea" />
+  <keys prop="Description" type="monster" key="dialog_1210026_answer_2_text" value="Obter Bônus de Chance de Ataque PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210026_answer_3_text" value="Obter Bônus de Chance de Defesa PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210026_answer_4_text" value="Obter Bônus de Chance de Resistência PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210027_Title" value="Johannes" />
+  <keys prop="Description" type="monster" key="dialog_1210027_text0" value="Minha nossa! Você parece ser muito poderoso! Não deveria ter uma arma mais adequada para seu nível de habilidade? Pode ser que eu consiga te ajudar com isso..." />
+  <keys prop="Description" type="monster" key="dialog_1210027_answer_0_text" value="Loja da Caixa de Moedas Aleatória" />
+  <keys prop="Description" type="monster" key="dialog_1210028_Title" value="Strobble" />
+  <keys prop="Description" type="monster" key="dialog_1210028_text0" value="Você parece estar tenso. Bem, Stygaea faz isso com as pessoas. Eu mantenho alguns acessórios e coisas que podem ajudar a acalmar sua mente, amigo. Quer dar uma olhada?" />
+  <keys prop="Description" type="monster" key="dialog_1210028_answer_0_text" value="Loja de Moedas Consumíveis" />
+  <keys prop="Description" type="monster" key="dialog_1210029_Title" value="Flanc" />
+  <keys prop="Description" type="monster" key="dialog_1210029_text0" value="Se tiver alguma pergunta sobre os familiares em Stygaea, é só me perguntar!" />
+  <keys prop="Description" type="monster" key="dialog_1210029_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1210029_answer_1_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210029_answer_2_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210029_answer_3_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210030_Title" value="Sen" />
+  <keys prop="Description" type="monster" key="dialog_1210030_text0" value="Pode ser perigoso por aqui, mas não dá para ganhar dinheiro sem se arriscar um pouco! Tenha compaixão e compre alguma coisa, está bem?" />
+  <keys prop="Description" type="monster" key="dialog_1210030_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210031_Title" value="Jamir" />
+  <keys prop="Description" type="monster" key="dialog_1210031_text0" value="Você deve ser corajoso para ter vindo até aqui. Mas não deixe sua coragem prejudicar seu bom senso." />
+  <keys prop="Description" type="monster" key="dialog_1210031_answer_0_text" value="Entre para a Milícia de Stygaea" />
+  <keys prop="Description" type="monster" key="dialog_1210031_answer_1_text" value="Deixe a Milícia de Stygaea" />
+  <keys prop="Description" type="monster" key="dialog_1210031_answer_2_text" value="Obter Bônus de Chance de Ataque PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210031_answer_3_text" value="Obter Bônus de Chance de Defesa PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210031_answer_4_text" value="Obter Bônus de Chance de Resistência PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210032_Title" value="Warinus Lebrini" />
+  <keys prop="Description" type="monster" key="dialog_1210032_text0" value="Os Comerciantes da Lua Crescente vão dos picos mais altos aos vales mais baixos por nossos exploradores! Compreendemos verdadeiramente o valor da lealdade, e eu sempre estarei estarei aqui para negociar, mesmo em Stygaea!" />
+  <keys prop="Description" type="monster" key="dialog_1210032_answer_0_text" value="Loja de Moedas Consumíveis" />
+  <keys prop="Description" type="monster" key="dialog_1210033_Title" value="Quadro de Missões do Bar de Trigg" />
+  <keys prop="Description" type="monster" key="dialog_1210033_text0" value="Peça permissão antes de postar alguma coisa, ou esteja pronto para pagar por isso!&lt;br&gt;&lt;br&gt;Pubmaster Trigg" />
+  <keys prop="Description" type="monster" key="dialog_1210034_Title" value="Kellogg" />
+  <keys prop="Description" type="monster" key="dialog_1210034_text0" value="(Ele olha ao redor com nervosismo, com gotas de suor na testa. Sim, ele parece confiável.)" />
+  <keys prop="Description" type="monster" key="dialog_1210034_answer_0_text" value="Armazém" />
+  <keys prop="Description" type="monster" key="dialog_1210035_Title" value="Truke" />
+  <keys prop="Description" type="monster" key="dialog_1210035_text0" value="(Ele olha para você com olhos predadores e brilhantes. Provavelmente não está a fim de negociar.)" />
+  <keys prop="Description" type="monster" key="dialog_1210035_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="dialog_1210036_Title" value="Zapata" />
+  <keys prop="Description" type="monster" key="dialog_1210036_text0" value="(Ele monta guarda em silêncio, com uma expressão feroz bem clara.)" />
+  <keys prop="Description" type="monster" key="dialog_1210037_Title" value="Batan" />
+  <keys prop="Description" type="monster" key="dialog_1210037_text0" value="(Ele encara todos que passam. Não cause problema.)" />
+  <keys prop="Description" type="monster" key="dialog_1210038_Title" value="Ghulam" />
+  <keys prop="Description" type="monster" key="dialog_1210038_text0" value="(Ele olha para você em silêncio. É um pouco esquisito, mas ele tem um jeito de ser sereno, quase sagrado.)" />
+  <keys prop="Description" type="monster" key="dialog_1210038_answer_0_text" value="Curar Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1210038_answer_1_text" value="Sobre Feridas Horrendas" />
+  <keys prop="Description" type="monster" key="dialog_1210039_Title" value="Nader" />
+  <keys prop="Description" type="monster" key="dialog_1210039_text0" value="O único ponto possível para cozinhar a carne é o malpassado. Isso se houver cozimento. É preciso deixá-la o mais suculenta possível..." />
+  <keys prop="Description" type="monster" key="dialog_1210040_Title" value="Khahou" />
+  <keys prop="Description" type="monster" key="dialog_1210040_text0" value="(Ele parece bravo com alguma coisa.)" />
+  <keys prop="Description" type="monster" key="dialog_1210040_answer_0_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="dialog_1210040_answer_1_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210040_answer_2_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210040_answer_3_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210041_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210041_text0" value="[Familiares Terrestres de Elite]&lt;br&gt;Poelle&lt;br&gt;Sharack&lt;br&gt;Vemigus" />
+  <keys prop="Description" type="monster" key="dialog_1210042_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210042_text0" value="[Familiares Voadores de Elite]&lt;br&gt;Hilber&lt;br&gt;Gurion&lt;br&gt;Kunos&lt;br&gt;Balor" />
+  <keys prop="Description" type="monster" key="dialog_1210043_Title" value="Napeau" />
+  <keys prop="Description" type="monster" key="dialog_1210043_text0" value="(Ele não fala, mas consegue, de alguma maneira, usar mãos e pés para gerenciar o mercado.)" />
+  <keys prop="Description" type="monster" key="dialog_1210043_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="dialog_1210044_Title" value="Quadro de Missões do Farol da Meia-noite" />
+  <keys prop="Description" type="monster" key="dialog_1210044_text0" value="Esse quadro de avisos é controlado pela Milícia de Stygaean. Por favor, leia as regras de postagem antes de postar." />
+  <keys prop="Description" type="monster" key="dialog_1210045_Title" value="Ollet &lt;Andarilho das Sombras&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210045_text0" value="Morte, medo, fúria... O turbilhão de emoções aqui me parece muito familiar. Você também sente isso?" />
+  <keys prop="Description" type="monster" key="dialog_1210045_answer_2_text" value="Alguma coisa aqui te intriga?" />
+  <keys prop="Description" type="monster" key="dialog_1210046_Title" value="Aconteceu alguma coisa?" />
+  <keys prop="Description" type="monster" key="dialog_1210046_text0" value="Você tem consciência do que tem acontecido no reino dos mortos? Na época do Antigo Reino, os mortos simplesmente atravessavam Stygaea a caminho de seu descanso eterno. Mas alguns dias atrás, isso terminou com uma mensagem de Mitanas, líder da Irmandade de Khabim. Foi um alerta a todos de Midellas." />
+  <keys prop="Description" type="monster" key="dialog_1210046_text0_attach_0" value="&lt;br&gt;&lt;br&gt;A mensagem foi vaga, mas a Sociedade Mágica da Virtude determinou quando a leu que os Monarcas de Stygaea, os cinco antigos governantes da terra, uniram forças com Mitanas. O propósito deles nessa aliança deveria ser óbvio." />
+  <keys prop="Description" type="monster" key="dialog_1210047_Title" value="Gostaria de saber mais sobre o Arcano." />
+  <keys prop="Description" type="monster" key="dialog_1210047_text0" value="A Irmandade usou Exarahn como um caminho para chegar a Stygaea. Yulnus acha que nossos inimigos concentrarão esforços ali, por isso escolheu sete dos nossos magos mais talentosos para levar a batalha a Mitanas e aos Monarcas. Esse grupo é conhecido como Távola Redonda." />
+  <keys prop="Description" type="monster" key="dialog_1210047_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Infelizmente, perdemos quatro dos magos da Távola Redonda nos primeiros estágios de nossa oposição. É por isso que precisamos de mais ajuda, ainda que isso signifique depender de magos mais inexperientes sob o comando de Linetta." />
+  <keys prop="Description" type="monster" key="dialog_1210048_Title" value="Quem são os Monarcas de Stygaea?" />
+  <keys prop="Description" type="monster" key="dialog_1210048_text0" value="Eles são os cinco males misteriosos e antigos que governam o reino dos mortos. Eles representam o esquecimento, o pesar, a dor, o caos e a destruição. Depois da Guerra da Luz, os Monarcas caíram em uma longa letargia." />
+  <keys prop="Description" type="monster" key="dialog_1210048_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Mas Mitanas usou essência de exarium e o poder de Khabim para revivê-los e fazer com que agissem de acordo com sua vontade. Pelo menos, esse é o nosso palpite." />
+  <keys prop="Description" type="monster" key="dialog_1210048_text0_attach_1" value="&lt;br&gt;&lt;br&gt;Agora os Monarcas de Stygaea voltaram, formando seus exércitos de mortos para retomar seus reinos. Os cinco são Finion, Calypos, Henok, Magnatu e Ranote. Midellas não terá paz enquanto o reinado deles não terminar." />
+  <keys prop="Description" type="monster" key="dialog_1210049_Title" value="Quais são os tipos de ameaça ao vilarejo?" />
+  <keys prop="Description" type="monster" key="dialog_1210049_text0" value="Durante a longa letargia dos Monarcas, Stygaea teve paz. Mas agora, o Vilarejo dos Homens Livres está sob ameaça constante dos exércitos deles." />
+  <keys prop="Description" type="monster" key="dialog_1210049_text0_attach_0" value="&lt;br&gt;&lt;br&gt;O perigo nunca se afasta de nossos muros. O Monarca da Dor governa Refúgio Tranquilo, o mais próximo do vilarejo. E há enormes criações vagando pela Floresta Intemporal, criada pelo Monarca da Destruição. Mas não importa qual seja a ameaça, a Milícia Civil fará o que for preciso para proteger o vilarejo!" />
+  <keys prop="Description" type="monster" key="dialog_1210050_Title" value="Eu não esperava ver um vilarejo no reino dos mortos." />
+  <keys prop="Description" type="monster" key="dialog_1210050_text0" value="Stygaea é o reino dos mortos para aqueles cujas almas persistem depois da morte. Damos a esse período o nome de&lt;font color=&quot;#3ec1d0&quot;&gt;Shabat das Almas&lt;/font&gt;, e é diferente para cada um. Alguns deixam Stygaea por um dia, outros podem ficar por anos. Mas qualquer período de estada é perigoso." />
+  <keys prop="Description" type="monster" key="dialog_1210050_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Uma alma inocente não costuma durar muito neste lugar. É por isso que nos unimos para formar este vilarejo, para apoiar aqueles que, não fosse isso, não sobreviveriam ao seu shabat." />
+  <keys prop="Description" type="monster" key="dialog_1210051_Title" value="Homens livres? Tenho certeza de que existe algum sentido por trás disso." />
+  <keys prop="Description" type="monster" key="dialog_1210051_text0" value="Olha, nem todo mundo decidiu se unir a nós. Algumas almas formaram seus próprios grupos, e algumas partiram sozinhas. E quando as forças de Stygaea começaram a mudar, os mais malvados de nós ganharam força. Com o retorno dos Monarcas de Stygaea, as almas do mal agora têm um grupo próprio." />
+  <keys prop="Description" type="monster" key="dialog_1210051_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Começamos a nos referirmos a nós mesmos como&lt;font color=&quot;3ec1d0&quot;&gt;Homens Livres&lt;/font&gt; para nos lembrarmos de que nossos corpos se foram, mas que nossas almas são livres." />
+  <keys prop="Description" type="monster" key="dialog_1210052_Title" value="Alguma coisa aqui te intriga?" />
+  <keys prop="Description" type="monster" key="dialog_1210052_text0" value="Pisar no reino dos mortos, literalmente, já não é bem confuso? Tudo bem, eu acho que a dinâmica deste lugar me interessa. Stygaea surgiu para ser uma ponte entre este mundo e o próximo..." />
+  <keys prop="Description" type="monster" key="dialog_1210052_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Mas com o retorno dos Monarcas, as almas que chegam aqui são mandadas para uma guerra de caos e contrição. É inacreditável que as coisas cheguem a esse ponto...&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(Quase parece que ele está rindo de si mesmo.)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210053_Title" value="O que você está caçando?" />
+  <keys prop="Description" type="monster" key="dialog_1210053_text0" value="Bem, se eu pudesse escolher, seria Finion, um Monarca de Stygaea. Há poucas almas vivas que conseguem acertar aquela coisa, e menos ainda conseguem derrubá-lo. Se eu quiser ser bem-sucedido, preciso esperar o momento perfeito, não agir antes." />
+  <keys prop="Description" type="monster" key="dialog_1210054_Title" value="Você foi mandado para cá para encontrar o quê?" />
+  <keys prop="Description" type="monster" key="dialog_1210054_text0" value="Antes de termos elites da a Sociedade Mágica da Virtude, precisávamos de patrulheiros assim como Exarahn precisava. Esses patrulheiros formaram nossa primeiro expedição para cá. Eles tinham uma tarefa dupla, mapear o terreno e reunir informações sobre os Monarcas. Foi... essa segunda parte que trouxe problemas para eles." />
+  <keys prop="Description" type="monster" key="dialog_1210054_text0_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(Uma sombra toma o rosto de Peria. A lembrança deve ser dolorosa.)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210055_Title" value="Foi um grande sacrifício." />
+  <keys prop="Description" type="monster" key="dialog_1210055_text0" value="Nossa expedição se concentrava apenas em reunir informação. Eles não estavam totalmente treinados em combate, mas sabemos que tomaram todas as precauções. Patrulhar é uma tarefa perigosa, ser enviado ao desconhecido... mas eles conheciam os riscos." />
+  <keys prop="Description" type="monster" key="dialog_1210055_text0_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(A cada pergunta, parece que o estresse de Peria aumenta. Já chega, por enquanto.)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210056_Title" value="Soube que alguns membros da Távola Redonda têm missões especiais." />
+  <keys prop="Description" type="monster" key="dialog_1210056_text0" value="Os sete magos da Távola Redonda recebem a tarefa de manter a região estável. Cada um deles fez o que pôde para impedir o avanço dos Monarcas, e para limpar a magia negra que descobrirem." />
+  <keys prop="Description" type="monster" key="dialog_1210056_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Progredimos um pouco, mas nossa associação em constante mudança nos impede. Além de Baros e de mim, todos os outros membros foram substituídos por magos mais jovens e menos experientes. Com certeza eles são talentosos, ms não têm experiência. E Linetta tem outro problema..." />
+  <keys prop="Description" type="monster" key="dialog_1210056_text0_attach_1" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(A voz de Tabram desaparece. Ele está franzindo o cenho.)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210057_Title" value="Como esse farol passou a existir?" />
+  <keys prop="Description" type="monster" key="dialog_1210057_text0" value="Não sei, na verdade. O farol guia as almas dos mortos de volta ao Abismo Negro, mas não faço ideia de quem o construiu." />
+  <keys prop="Description" type="monster" key="dialog_1210058_Title" value="Dá para sentir a magia poderosa que já tomou conta deste lugar." />
+  <keys prop="Description" type="monster" key="dialog_1210058_text0" value="O Abismo Negro é a fonte do maior poder mágico em toda a Stygaea. Pelo que sei, todo esse poder é o que mantém a entrada para as almas na parte inferior." />
+  <keys prop="Description" type="monster" key="dialog_1210058_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Outro ponto de interesse é como a energia do Abismo Negro pode fortalecer ou destruir almas. Sua verdadeira natureza ainda está envolta em mistério." />
+  <keys prop="Description" type="monster" key="dialog_1210059_Title" value="Ainda há mais a ser explorado por aí." />
+  <keys prop="Description" type="monster" key="dialog_1210059_text0" value="Eu diria que o objetivo da expedição inicial foi conquistado. Sempre há mais a descobrir, claro, mas por enquanto... Na verdade, decidi ficar aqui, estudar essa estranha energia do Abismo Negro." />
+  <keys prop="Description" type="monster" key="dialog_1210060_Title" value="Por que não lutar?" />
+  <keys prop="Description" type="monster" key="dialog_1210060_text0" value="Não há motivo especial. Só acho que deveria haver um lugar nessa maldita terra onde alguém consiga um pouco de sossego e silêncio. Afinal, há muitos outros lugares onde podemos lutar... por que lutar aqui?" />
+  <keys prop="Description" type="monster" key="dialog_1210060_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Mas o motivo não importa. O que importa é que se eu vir uma única agressão, vou partir para cima do agressor." />
+  <keys prop="Description" type="monster" key="dialog_1210061_Title" value="Esse lugar é seguro mesmo?" />
+  <keys prop="Description" type="monster" key="dialog_1210061_text0" value="Seguro? Não existe lugar seguro de verdade em Stygaea. Os Monarcas têm olhos em todas as partes. Literalmente, em alguns casos.&lt;br&gt;&lt;br&gt;Está calmo agora, mas nunca se sabe. Destruição, dor e caos podem ocorrer a qualquer momento..." />
+  <keys prop="Description" type="monster" key="dialog_1210062_Title" value="Eu não esperava encontrar Baros aqui." />
+  <keys prop="Description" type="monster" key="dialog_1210062_text0" value="Eu também não esperava te ver aqui. Vi do que você é capaz nas terras altas, mas dá para perceber que percorreu um longo caminho desde então. Antes, você tinha inteligência e talento, mas agora tem cara de mestre." />
+  <keys prop="Description" type="monster" key="dialog_1210063_Title" value="Aconteceu alguma coisa com Lienetta? Tabram parecia preocupado com ela..." />
+  <keys prop="Description" type="monster" key="dialog_1210063_text0" value="Preocupado? Se o Tabram estiver preocupado com Linetta, as coisas provavelmente estão piores do que você pode imaginar. Ela tem talento e muito apoio da a Sociedade Mágica da Virtude, mas... há muito boatos sobre ela. Estamos de olho nela também." />
+  <keys prop="Description" type="monster" key="dialog_1210063_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Alguns estão muito hesitantes e não confiam nela. Acho que é só o que eu deveria dizer por enquanto. " />
+  <keys prop="Description" type="monster" key="dialog_1210064_Title" value="Conte-me o que puder sobre o Arcano." />
+  <keys prop="Description" type="monster" key="dialog_1210064_text0" value="Os sete magos que formam a Távola Redonda costumam ser os magos mais poderosos de Midellas. Mas antes de chegarem a Stygaea, uma tragédia tirou a vida de vários membros. Eles tiveram que ser substituídos depressa, o que acabou fazendo com que magos mais jovens e menos experientes entrassem no grupo." />
+  <keys prop="Description" type="monster" key="dialog_1210064_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Aprendi muito com o mestre, mas não estou nem perto do nível dele. Linetta, por outro lado, é confiante demais para seu nível. Não é uma atitude saudável." />
+  <keys prop="Description" type="monster" key="dialog_1210065_Title" value="O que existe dentro do Purgatório?" />
+  <keys prop="Description" type="monster" key="dialog_1210065_text0" value="Intenção de matar. Medo. E caos. O Monarca Magnatu tem controle sobre o Purgatório, transformando o lugar em uma fortaleza do mal." />
+  <keys prop="Description" type="monster" key="dialog_1210066_Title" value="Você sabe alguma coisa sobre o líder da Irmandade de Khabim?" />
+  <keys prop="Description" type="monster" key="dialog_1210066_text0" value="O líder da Irmandade de Khabim? Está falando de Mitanas?&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(O medo surge nos olhos dela.)&lt;/font&gt;&lt;br&gt;&lt;br&gt;Mitanas já foi um dos grandes feiticeiros da Sociedade Mágica da Virtude. Mas o talento dele acabou sendo o que o levou à destruição." />
+  <keys prop="Description" type="monster" key="dialog_1210066_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Ele caiu na escuridão em sua busca por poder. Depois de ser expulso de Arcano, ele ressurgiu alguns anos depois como o líder da Irmandade de Khabim. Ele é o ventríloquo por trás dos Monarcas de Stygaea, mas parece que ele mesmo não está ali." />
+  <keys prop="Description" type="monster" key="dialog_1210067_Title" value="Essa pessoa ao seu lado está bem?" />
+  <keys prop="Description" type="monster" key="dialog_1210067_text0" value="Hagmaza e eu passamos a controlar Magnatu, mas fomos atacados durante nossa última viagem ao Purgatório. Temos remédios, pergaminhos, magia... mas nada capaz de curar os ferimentos que sofremos. Já pensei em nos teletransportar de volta à capital, mas Magnatu... fez alguma coisa com Hagmaza. Sem saber o que, não seria seguro locomovê-lo..." />
+  <keys prop="Description" type="monster" key="dialog_1210067_text0_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(Há algo estranho no modo com que ela fala... seria falta de sinceridade?)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210068_Title" value="Esse ferimento... Quem o causou?" />
+  <keys prop="Description" type="monster" key="dialog_1210068_text0" value="Em nossa última viagem ao Purgatório, fomos atacados pelo próprio Magnatu. O Monarca do Caos... não deve ser provocado.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(Hagmaza tosse, e sua mão fica vermelha. Os ferimentos dele são fatais?)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210068_text0_attach_0" value="&lt;br&gt;&lt;br&gt;A magia com que ele... com que ele me atacou...&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;(Ele não consegue terminar a frase. E tosse de novo.)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210069_Title" value="(Tem uma carta enfiada na roupa dele. Pode ler?)" />
+  <keys prop="Description" type="monster" key="dialog_1210069_text0" value="Linetta é um dos membros mais misteriosos da Sociedade Mágica da Virtude. Ela é inegavelmente talentosa, mas os boatos e a falta de confiança a acompanham a todas as partes." />
+  <keys prop="Description" type="monster" key="dialog_1210069_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Alguns dizem que ela só procura aumentar a própria força, ainda que outros sofram por isso. Outros dizem que ela jurou lealdade a Mitanas, o líder da Irmandade de Khabim. Podem ser apenas boatos surgidos devido à inveja? Ainda precisamos ver..." />
+  <keys prop="Description" type="monster" key="dialog_1210069_text0_attach_1" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;&#xD;&#xA;(A carta está ensanguentada e difícil de ler.)&lt;/font&gt;&lt;br&gt;&lt;br&gt;Ela me levou para dentro daquela armadilha? Esse era o plano dela desde o começo? Não quero acreditar. Não acredito. Por enquanto." />
+  <keys prop="Description" type="monster" key="dialog_1210070_Title" value="Hanin" />
+  <keys prop="Description" type="monster" key="dialog_1210070_text0" value="Ser rico e famoso... é só o que todos os aventureiros lutam para conseguir, e as pessoas de Stygaea não são diferentes. O dinheiro pode não ter utilidade aqui, mas a fama é sempre cobiçada. A Milícia faz o recrutamento com base na popularidade que a pessoa tenha, e pode melhorar o status de qualquer um em suas categorias." />
+  <keys prop="Description" type="monster" key="dialog_1210070_answer_0_text" value="Entre para a Milícia de Stygaea" />
+  <keys prop="Description" type="monster" key="dialog_1210070_answer_1_text" value="Deixe a Milícia de Stygaea" />
+  <keys prop="Description" type="monster" key="dialog_1210070_answer_2_text" value="Obter Bônus de Chance de Ataque PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210070_answer_3_text" value="Obter Bônus de Chance de Defesa PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210070_answer_4_text" value="Obter Bônus de Chance de Resistência PvP" />
+  <keys prop="Description" type="monster" key="dialog_1210071_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210071_text0" value="[Familiar Voador Heroico]&lt;br&gt;Finion 905m&lt;br&gt;&lt;br&gt;[Familiar Voador de Elite]&lt;br&gt;Hilber&lt;br&gt;Gurion&lt;br&gt;Kunos&lt;br&gt;Balor&lt;br&gt;&lt;br&gt;&lt;font color=&quot;3ec1d0&quot;&gt;*Aparecer cerca de 790-1100m&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210072_Title" value="Quadro de Avisos do Lago Eterno" />
+  <keys prop="Description" type="monster" key="dialog_1210072_text0" value="Esse quadro de avisos é controlado pela Milícia de Stygaean. Por favor, leia as regras de postagem antes de postar." />
+  <keys prop="Description" type="monster" key="dialog_1210073_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210073_text0" value="[Familiares Terrestres Lendários]&lt;br&gt;Jamirot&lt;br&gt;&lt;br&gt;[Familiares Terrestres Heroicos]&lt;br&gt;Calypos&lt;br&gt;Magnatu&lt;br&gt;&lt;br&gt;[Familiares Terrestres de Elite]&lt;br&gt;Poelle&lt;br&gt;Sharack&lt;br&gt;Vemigus" />
+  <keys prop="Description" type="monster" key="dialog_1210074_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210074_text0" value="[Familiares Terrestres Heroicos]&lt;br&gt;Calypos" />
+  <keys prop="Description" type="monster" key="dialog_1210075_Title" value="Pecan" />
+  <keys prop="Description" type="monster" key="dialog_1210075_text0" value="Minha nossa! Você parece ser muito poderoso! Não deveria ter uma arma mais adequada para seu nível de habilidade? Pode ser que eu consiga te ajudar com isso..." />
+  <keys prop="Description" type="monster" key="dialog_1210075_answer_0_text" value="Loja da Caixa de Moedas Aleatória" />
+  <keys prop="Description" type="monster" key="dialog_1210264_Title" value="Stan" />
+  <keys prop="Description" type="monster" key="dialog_1210264_text0" value="Boas-vindas a Grimvale. Sou Stan, o líder dessas almas teimosas. Gostaria de ter notícias melhores com as quais te receber, mas a paz de nosso vilarejo deu espaço ao desespero e à agonia..." />
+  <keys prop="Description" type="monster" key="dialog_1210265_Title" value="Stan" />
+  <keys prop="Description" type="monster" key="dialog_1210265_text0" value="Boas-vindas a Grimvale. Sou Stan, o líder dessas almas teimosas. Gostaria de ter notícias melhores com as quais te receber, mas a paz de nosso vilarejo deu espaço ao desespero e à agonia..." />
+  <keys prop="Description" type="monster" key="dialog_1210266_Title" value="Penny" />
+  <keys prop="Description" type="monster" key="dialog_1210266_text0" value="O despertar repentino das almas jogou Grimvale no caos. Será que um dia esses espíritos inquietos terão paz de novo?" />
+  <keys prop="Description" type="monster" key="dialog_1210267_Title" value="Penny" />
+  <keys prop="Description" type="monster" key="dialog_1210267_text0" value="O despertar repentino das almas jogou Grimvale no caos. Será que um dia esses espíritos inquietos terão paz de novo?" />
+  <keys prop="Description" type="monster" key="dialog_1210268_Title" value="Robertson" />
+  <keys prop="Description" type="monster" key="dialog_1210268_text0" value="Grimvale precisa de heróis poderosos que garantam sua segurança. Os Monarcas de Stygaea não são os únicos que nos ameaçam, fique sabendo. A terra dos mortos tem muitos perigos." />
+  <keys prop="Description" type="monster" key="dialog_1210269_Title" value="Alveress" />
+  <keys prop="Description" type="monster" key="dialog_1210269_text0" value="Tenho recebido notícias a respeito da chegada de muita gente nova em Stygaea, o que não acontece aqui há muito tempo. O que isso significa para nós?" />
+  <keys prop="Description" type="monster" key="dialog_1210270_Title" value="Enna" />
+  <keys prop="Description" type="monster" key="dialog_1210270_text0" value="A terra dos mortos não deveria ser um lugar de escuridão e desespero. Os mortos merecem descanso eterno, mas o caos aqui deixa todo mundo nervoso." />
+  <keys prop="Description" type="monster" key="dialog_1210271_Title" value="Baros da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210271_text0" value="Há vários tesouros lendários escondidos por Stygaea. Estamos falando de armas e artefatos pesados. Se a intenção for desafiar os Monarcas, pode ser útil dispor de uma ou duas armas para isso." />
+  <keys prop="Description" type="monster" key="dialog_1210272_Title" value="Menera" />
+  <keys prop="Description" type="monster" key="dialog_1210272_text0" value="Ainda não exploramos muito da Colina Cinzenta. Stygaea não é o tipo de lugar no qual alguém deva entrar se não estiver preparado." />
+  <keys prop="Description" type="monster" key="dialog_1210273_Title" value="Linetta da Távola Redonda &lt;Sociedade Mágica da Virtude&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210273_text0" value="Devemos lutar para preservar a justiça onde ela estiver sendo atacada. No reino dos mortos, não é diferente." />
+  <keys prop="Description" type="monster" key="dialog_1210274_Title" value="Torva" />
+  <keys prop="Description" type="monster" key="dialog_1210274_text0" value="A expedição de Stygaea luta contra as forças do mal para preservar o pouco de paz que existe aqui. Tenho certeza de que os vilões que tiraram a vida de meus amigos estão próximos. Eles não podem sair impunes." />
+  <keys prop="Description" type="monster" key="dialog_1210278_Title" value="Quadro de Missões &lt;Grimvale&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210278_text0" value="Esse quadro é para uso público. Vandalize-o ou use-o indevidamente A SEU PRÓPRIO RISCO.&lt;br&gt;&lt;br&gt;Líder Zealem da Milícia Civil" />
+  <keys prop="Description" type="monster" key="dialog_9015833_Title" value="Feiticeiro da Távola Redonda &lt;Vantara Manastone Oracle&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9015833_text0" value="As pedras de Mana Vantara têm poderes fortíssimos, sobrenaturais. Eles podem dar força sem igual àqueles que quiserem esse poder. Mas existe um grande mal dentro das pedras de Mana que ameaça corromper também. " />
+  <keys prop="Description" type="monster" key="dialog_1210279_Title" value="Nestor" />
+  <keys prop="Description" type="monster" key="dialog_1210279_text0" value="Se tiver alguma pergunta a respeito dos familiares de Stygaea, é só perguntar!" />
+  <keys prop="Description" type="monster" key="dialog_1210279_answer_0_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210279_answer_1_text" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210279_answer_2_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="dialog_1210280_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210280_text0" value="[Familiares Terrestres Heroicos]&lt;br&gt;Atilla&lt;br&gt;&lt;br&gt;[Familiares Terrestres de Elite]&lt;br&gt;Kissan&lt;br&gt;Johannes&lt;br&gt;Prosh" />
+  <keys prop="Description" type="monster" key="dialog_1210281_Title" value="Familiares Voadores Locais" />
+  <keys prop="Description" type="monster" key="dialog_1210281_text0" value="[Familiar dos Ares Lendário]&lt;br&gt;Karon 1300m&lt;br&gt;&lt;br&gt;[Familiar dos Ares Heroico*Perto do Abismo Negro]&lt;br&gt;Eregos 1200m&lt;br&gt;&lt;br&gt;[Familiar dos Ares de Elite]&lt;br&gt;Taiwa 1150m" />
+  <keys prop="Description" type="monster" key="dialog_9015833_answer_2_text" value="Pedras de Mana" />
+  <keys prop="Description" type="monster" key="dialog_9015833_answer_3_text" value="Horário das Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_9015833_answer_4_text" value="Recompensas" />
+  <keys prop="Description" type="monster" key="dialog_9015833_answer_5_text" value="Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_1210282_Title" value="Pedras de Mana" />
+  <keys prop="Description" type="monster" key="dialog_1210282_text0" value="Ninguém sabe de onde essas pedras malignas vieram, mas elas têm sido uma praga na terra desde os primeiros dias de Midellas. O Arcano acredita que elas estão de alguma forma ligadas ao reino dos demônios. Foram eles que os nomearam em honra da Virtude que perdeu a vida estudando-as. Essa é a maldição da pedra de mana, para destruir aqueles que usam seu poder. " />
+  <keys prop="Description" type="monster" key="dialog_1210282_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Apesar disso, muitos foram atraídos para Stygaea na esperança de conseguir esse poder. Poucos retornam da viagem. O Arcano mandou magos para alertar os desavisados sobre essa ameaça enganosa. Se encontrar uma pedra de mana, por favor, traga-a para mim imediatamente." />
+  <keys prop="Description" type="monster" key="dialog_1210283_Title" value="Horário das Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_1210283_text0" value="[Servidores Norte-americanos]&lt;br&gt;Domingos da 1:00 às 3:00 UTC&lt;br&gt;[Servidores Europeus]&lt;br&gt;Sábados das 18:00 às 20:00 UTC" />
+  <keys prop="Description" type="monster" key="dialog_1210284_Title" value="Recompensas" />
+  <keys prop="Description" type="monster" key="dialog_1210284_text0" value="A primeira equipe a entregar a pedra de mana ao Oráculo da Pedra de Mana Vantara vence. O lado vencedor ganha acesso a várias recompensas, incluindo uma marca para domar uma montaria que pode levar vários cavaleiros de uma vez! O jogador que devolver a pedra de mana receberá uma Caixa Mestra de Pedra de Mana, e os jogadores do lado dele receberão Caixas de Vitória de Pedra de Mana. Essas recompensas só podem ser recebidas até dez minutos depois do fim da batalha, e desaparecerão depois de 6 dias." />
+  <keys prop="Description" type="monster" key="dialog_1210285_Title" value="Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_1210285_text0" value="Um combate assim é para cavaleiros experientes, por isso é preciso estar no nível 50 ou superior para entrar em uma Batalha de Pedra de Mana. Todos receberão uma notificação quando uma batalha começar e, durante esse tempo, não é permitido utilizar Santuários de Trânsito nem Pedras de Retorno. Após uma contagem regressiva, a Pedra de Mana aparecerá em um local aleatório. Para encontrá-la, confira seu mapa. " />
+  <keys prop="Description" type="monster" key="dialog_1210285_text0_attach_0" value="&lt;br&gt;&lt;br&gt;A vitória em uma Batalha de Pedra de Mana exige que os envolvidos trabalhem em equipe para pegar a pedra de mana e devolvê-la a mim. Quando a pedra de mana aparece, tem início uma batalha livre entre os lados para recuperá-la. " />
+  <keys prop="Description" type="monster" key="dialog_1210285_text0_attach_1" value="&lt;br&gt;&lt;br&gt;Esteja ciente de que a pedra de mana fortalece seu portador, mas também diminui sua velocidade, os impede de montar, utilizar itens ou atacar. Cabe à equipe proteger o portador. Se eles falharem, a pedra de mana permanecerá onde eles morreram. Além disso, a pedra de mana só pode ser transportada por 15 minutos antes de se perder o controle dela. Para reivindicar a vitória, você deve ser o primeiro a entregar a pedra de mana a mim. Quando a batalha terminar, o detentor da pedra de mana e sua equipe serão recompensados." />
+  <keys prop="Description" type="monster" key="dialog_1210286_Title" value="Árbitro da Coragem &lt;Milícia de Stygaea&gt;" />
+  <keys prop="Description" type="monster" key="dialog_1210286_text0" value="Muitas guildas procuram provar sua força por meio das batalhas de pedra de Mana Vantara. Mas a verdadeira força deve ser provada, antes de mais nada, pelos próprios indivíduos! Se você vencer um membro de uma guilda rival que seja forte o bastante para pegar a pedra de mana, estará provando sua força." />
+  <keys prop="Description" type="monster" key="dialog_9015840_Title" value="Feiticeiro da Virtude &lt;Vidente da Pedra de Mana Vantara&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9015840_text0" value="As pedras de Mana Vantara têm poderes fortíssimos, sobrenaturais. Eles podem dar força sem igual àqueles que quiserem esse poder. Mas existe um grande mal dentro das pedras de Mana que ameaça corromper também. " />
+  <keys prop="Description" type="monster" key="dialog_9015840_answer_2_text" value="Horário das Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_9015840_answer_3_text" value="Pedras de Mana" />
+  <keys prop="Description" type="monster" key="dialog_9015840_answer_4_text" value="Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_9015840_answer_5_text" value="Recompensas" />
+  <keys prop="Description" type="monster" key="dialog_1210291_Title" value="Pedras de Mana" />
+  <keys prop="Description" type="monster" key="dialog_1210291_text0" value="Ninguém sabe de onde essas pedras malignas vieram, mas elas têm sido uma praga na terra desde os primeiros dias de Midellas. O Arcano acredita que elas estão de alguma forma ligadas ao reino dos demônios. Foram eles que os nomearam em honra da Virtude que perdeu a vida estudando-as. Essa é a maldição da pedra de mana, para destruir aqueles que usam seu poder. " />
+  <keys prop="Description" type="monster" key="dialog_1210291_text0_attach_0" value="&lt;br&gt;&lt;br&gt;Apesar disso, muitos foram atraídos para Exarahn na esperança de reivindicar esse poder para si próprios. Poucos retornam de suas jornadas. O Arcano enviou magos para avisar os imprudentes dessa ameaça enganosa. Se você se deparar com uma pedra de mana, por favor, traga-a para mim imediatamente." />
+  <keys prop="Description" type="monster" key="dialog_1210292_Title" value="Horário das Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_1210292_text0" value="[Servidores norte-americanos]&lt;br&gt;Quartas-feiras das 1h às 3h UTC&lt;br&gt;[Servidores europeus]&lt;br&gt;Terças-feiras das 18h às 20h UTC" />
+  <keys prop="Description" type="monster" key="dialog_1210293_Title" value="Recompensas" />
+  <keys prop="Description" type="monster" key="dialog_1210293_text0" value="A primeira equipe a entregar a pedra de mana a Aramath vence. O lado vencedor ganha acesso a várias recompensas, incluindo uma marca para domar uma montaria que pode levar vários cavaleiros de uma vez! O jogador que devolver a pedra de mana receberá uma Caixa Mestra de Pedra de Mana, e os jogadores do lado dele receberão Caixas de Vitória de Pedra de Mana. Essas recompensas só podem ser recebidas até dez minutos depois do fim da batalha, e desaparecerão depois de 6 dias." />
+  <keys prop="Description" type="monster" key="dialog_1210294_Title" value="Batalhas de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="dialog_1210294_text0" value="Para participar, você deve estar em uma aliança ou se juntar à uma milícia. Combates como estes são para Cavaleiros experientes, então você deve estar pelo menos no Nível 30 para se juntar a uma Batalha de Pedra de Mana. Todos receberão uma notificação quando uma batalha começar e, durante esse tempo, você não poderá utilizar Santuários de Trânsito ou Pedras de Retorno. Depois de uma contagem regressiva, a pedra de mana aparecerá em um local aleatório nas Terras Devastadas de Exarahn. Verifique seu mapa para encontrá-la. " />
+  <keys prop="Description" type="monster" key="dialog_1210294_text0_attach_0" value="&lt;br&gt;&lt;br&gt;A vitória na Batalha de Pedra de Mana depende de trabalho em equipe para pegar a pedra de mana e devolvê-la a mim no Portão do Conquistador ou no Acampamento Lua de Sangue. Uma vez que a pedra de mana aparece, começa uma batalha livre entre as alianças e a milícia para recuperá-la. " />
+  <keys prop="Description" type="monster" key="dialog_1210294_text0_attach_1" value="&lt;br&gt;&lt;br&gt;Esteja ciente de que a pedra de mana fortalece seu portador, mas também diminui sua velocidade, os impede de montar, utilizar itens ou atacar. Cabe à equipe proteger o portador. Se eles falharem, a pedra de mana permanecerá onde eles morreram. Além disso, a pedra de mana só pode ser transportada por 15 minutos antes de se perder o controle dela. Para reivindicar a vitória, você deve ser o primeiro a entregar a pedra de mana a mim. Quando a batalha terminar, o detentor da pedra de mana e sua equipe serão recompensados." />
+  <keys prop="Description" type="monster" key="dialog_9015841_Title" value="Árbitro da Coragem &lt;Milícia de Exarahn&gt;" />
+  <keys prop="Description" type="monster" key="dialog_9015841_text0" value="Muitas guildas procuram provar sua força por meio das batalhas de pedra de Mana Vantara. Mas a verdadeira força deve ser provada, antes de mais nada, pelos próprios indivíduos! Se você vencer um membro de uma guilda rival que seja forte o bastante para pegar a pedra de mana, estará provando sua força." />
+  <keys prop="Description" type="monster" key="dialog_9020035_Title" value="Lessair" />
+  <keys prop="Description" type="monster" key="dialog_9020035_text0" value="Tenho artigos de pesca para você! Venha dar uma olhada!" />
+  <keys prop="Description" type="monster" key="dialog_9020036_Title" value="Aileen" />
+  <keys prop="Description" type="monster" key="dialog_9020036_text0" value="Venha dar uma olhada! Só olhar não paga, sabia?" />
+  <keys prop="Description" type="monster" key="dialog_9020037_Title" value="Mariana" />
+  <keys prop="Description" type="monster" key="dialog_9020037_text0" value="É preciso esperar, esperar mais um pouco e então, voilà! É essa a beleza da pesca!" />
+  <keys prop="Description" type="monster" key="dialog_9020038_Title" value="Kaito Riffy" />
+  <keys prop="Description" type="monster" key="dialog_9020038_text0" value="Nyaha! Come on over to the Stygea lawless zone!" />
+</files>

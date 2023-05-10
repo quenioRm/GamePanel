@@ -1,71 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="HM_Hair_000" value="human male head 1" />
-  <keys type="item" key="HM_Hair_001" value="human male head 2" />
-  <keys type="item" key="HM_Hair_002" value="human male head 3" />
-  <keys type="item" key="HM_Hair_003" value="human male head 4" />
-  <keys type="item" key="HM_Hair_004" value="human male head 5" />
-  <keys type="item" key="HM_Hair_005" value="human male head 6" />
-  <keys type="item" key="HM_Hair_006" value="human male head 7" />
-  <keys type="item" key="HM_Hair_007" value="human male head 8" />
-  <keys type="item" key="HM_Hair_008" value="human male head 9" />
-  <keys type="item" key="HM_Hair_009" value="human male head 10" />
-  <keys type="item" key="HM_Hair_010" value="human male head 11" />
-  <keys type="item" key="HM_Hair_011" value="human male head 12" />
-  <keys type="item" key="HM_Hair_012" value="human male head 13" />
-  <keys type="item" key="HM_Hair_013" value="human male head 14" />
-  <keys type="item" key="HM_Hair_014" value="human male head 15" />
-  <keys type="item" key="HW_Hair_000" value="human female head 1" />
-  <keys type="item" key="HW_Hair_001" value="human female head 2" />
-  <keys type="item" key="HW_Hair_002" value="human female head 3" />
-  <keys type="item" key="HW_Hair_003" value="human female head 4" />
-  <keys type="item" key="HW_Hair_004" value="human female head 5" />
-  <keys type="item" key="HW_Hair_005" value="human female head 6" />
-  <keys type="item" key="HW_Hair_006" value="human female head 7" />
-  <keys type="item" key="HW_Hair_007" value="human female head 8" />
-  <keys type="item" key="HW_Hair_008" value="human female head 9" />
-  <keys type="item" key="HW_Hair_009" value="human female head 10" />
-  <keys type="item" key="HW_Hair_010" value="human female head 11" />
-  <keys type="item" key="HW_Hair_011" value="human female head 12" />
-  <keys type="item" key="HW_Hair_012" value="human female head 13" />
-  <keys type="item" key="HW_Hair_013" value="human female head 14" />
-  <keys type="item" key="HW_Hair_014" value="human female head 15" />
-  <keys type="item" key="CM_Hair_000" value="Crocoon Male Head 1" />
-  <keys type="item" key="CM_Hair_001" value="Crocoon Male Head 2" />
-  <keys type="item" key="CM_Hair_002" value="Crocoon Male Head 3" />
-  <keys type="item" key="CW_Hair_000" value="Crocoon Woman Head 1" />
-  <keys type="item" key="CW_Hair_001" value="Crocoon Woman Head 2" />
-  <keys type="item" key="CW_Hair_002" value="Crocoon Woman Head 3" />
-  <keys type="item" key="SW_Hair_000" value="Sharing girl head 1" />
-  <keys type="item" key="SW_Hair_001" value="Sharing girl head 2" />
-  <keys type="item" key="SW_Hair_002" value="Sharing girl head 3" />
-  <keys type="item" key="SW_Feeler_000" value="Sharing Antenna 1" />
-  <keys type="item" key="SW_Feeler_001" value="Sharing Antenna 2" />
-  <keys type="item" key="SW_Feeler_002" value="Sharing Antenna 3" />
-  <keys type="item" key="SW_Feeler_003" value="Sharing Antenna 4" />
-  <keys type="item" key="SW_Feeler_004" value="Sharing Antenna 5" />
-  <keys type="item" key="SW_Wing_000" value="Sharing Wings 1" />
-  <keys type="item" key="SW_Wing_001" value="Sharing Wings 2" />
-  <keys type="item" key="SW_Wing_002" value="Sharing Wings 3" />
-  <keys type="item" key="SW_Wing_003" value="Sharing Wings 4" />
-  <keys type="item" key="SW_Wing_004" value="Sharing Wings 5" />
-  <keys type="item" key="SW_Hair_003" value="Sharing girl hair 4" />
-  <keys type="item" key="SW_Hair_004" value="Sharing girl hair 5" />
-  <keys type="item" key="SW_Hair_005" value="Sharing girl hair 6" />
-  <keys type="item" key="SW_Hair_006" value="Sharing girl hair 7" />
-  <keys type="item" key="SW_Hair_007" value="Sharing girl hair 8" />
-  <keys type="item" key="SW_Hair_008" value="Sharing girl hair 9" />
-  <keys type="item" key="SW_Hair_009" value="Sharing girl hair 10" />
-  <keys type="item" key="SW_Hair_010" value="Sharing girl hair 11" />
-  <keys type="item" key="SW_Hair_011" value="Sharing girl hair 12" />
-  <keys type="item" key="SW_Hair_012" value="Sharing girl hair 13" />
-  <keys type="item" key="SW_Hair_013" value="Sharing girl hair 14" />
-  <keys type="item" key="SW_Hair_014" value="Sharing girl hair 15" />
-  <keys type="item" key="SW_Hair_015" value="Sharing girl hair 16" />
-  <keys type="item" key="SW_Feeler_005" value="Sharing Antenna 6" />
-  <keys type="item" key="SW_Feeler_006" value="Sharing Antenna 7" />
-  <keys type="item" key="SW_Feeler_007" value="Sharing Antenna 8" />
-  <keys type="item" key="SW_Wing_005" value="Sharing Wings 6" />
-  <keys type="item" key="SW_Wing_006" value="Sharing Wings 7" />
-  <keys type="item" key="SW_Wing_007" value="Sharing Wings 8" />
+  <keys prop="Name" type="item" key="HM_Hair_000" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_001" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_002" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_003" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_004" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_005" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_006" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_007" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_008" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_009" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_010" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_011" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_012" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_013" value="" />
+  <keys prop="Name" type="item" key="HM_Hair_014" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_000" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_001" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_002" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_003" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_004" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_005" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_006" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_007" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_008" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_009" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_010" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_011" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_012" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_013" value="" />
+  <keys prop="Name" type="item" key="HW_Hair_014" value="" />
+  <keys prop="Name" type="item" key="CM_Hair_000" value="" />
+  <keys prop="Name" type="item" key="CM_Hair_001" value="" />
+  <keys prop="Name" type="item" key="CM_Hair_002" value="" />
+  <keys prop="Name" type="item" key="CW_Hair_000" value="" />
+  <keys prop="Name" type="item" key="CW_Hair_001" value="" />
+  <keys prop="Name" type="item" key="CW_Hair_002" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_000" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_001" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_002" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_000" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_001" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_002" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_003" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_004" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_000" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_001" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_002" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_003" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_004" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_003" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_004" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_005" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_006" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_007" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_008" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_009" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_010" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_011" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_012" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_013" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_014" value="" />
+  <keys prop="Name" type="item" key="SW_Hair_015" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_005" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_006" value="" />
+  <keys prop="Name" type="item" key="SW_Feeler_007" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_005" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_006" value="" />
+  <keys prop="Name" type="item" key="SW_Wing_007" value="" />
 </files>

@@ -1,2 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="eNetFailure_Item_EnergyCharguerMaxGrade" value="The charging pack upgrade level is the maximum level" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_InvalidEnergyChargeItem" value="Charging pack is not charged item" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_InvalidEnergyChargeGrade" value="It is a grade that cannot be used for charging pack charging" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_InvalidChargerUpgradeLevel" value="It is an incompetent charging pack grade" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_EnergyChargeMaxPoint" value="The charging pack is completely charged" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_EnergyChargerEmpty" value="The charging pack is empty" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_NotUsealbeCharging" value="It is an item that cannot be charged" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_MaxEnergyCharging" value="Maximum charging" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_NotActivatedCharecterLevel" value="It is an un active character level" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_Not_Use_Portal_Observer" value="In watching mode mining portals cannot be used" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_Bag_No_Slot" value="There is no slot that can be equipped with a bag" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_IsRacingFellowItem" value="Racing fellow equipment" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_IsNomalFellowItem" value="It is a general fellow equipment" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_alreadyuserandombox" value="I am currently using a random box" />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_CannotChargeItemInDuelMode" value="You cannot charge/upgrade while dueling." />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_CannotChargeEnergyInDuelMode" value="You cannot charge/upgrade while dueling." />
+  <keys prop="Description" type="monster" key="eNetFailure_Item_CannotUpgradeEnergyChargeurInDuelMode" value="You cannot charge/upgrade while dueling." />
+</files>

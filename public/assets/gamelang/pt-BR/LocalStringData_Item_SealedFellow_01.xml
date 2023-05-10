@@ -1,32 +1,117 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="SF2_101_3_0256" value="Inferno Demoroth" />
-  <keys type="item" key="SF2_101_3_0257" value="Wrath Wyvern" />
-  <keys type="item" key="SF2_101_3_0258" value="Adventurer's Familiar Crystal" />
-  <keys type="item" key="SF2_101_3_0259" value="Gold Puppy of Wisdom" />
-  <keys type="item" key="SF2_101_3_0260" value="Gold Puppy of Wisdom" />
-  <keys type="item" key="SF2_101_3_0261" value="Gold Puppy of Wisdom" />
-  <keys type="item" key="SF2_101_3_0262" value="Shining Puppy of Wisdom" />
-  <keys type="item" key="SF2_101_3_0263" value="Gold Puppy of Courage" />
-  <keys type="item" key="SF2_101_3_0264" value="Gold Puppy of Courage" />
-  <keys type="item" key="SF2_101_3_0265" value="Gold Puppy of Courage" />
-  <keys type="item" key="SF2_101_3_0266" value="Savage Baltrow" />
-  <keys type="item" key="SF2_101_3_0267" value="Chariot" />
-  <keys type="item" key="SF2_101_2_0822" value="Agnas Glaciais" />
-  <keys type="item" key="SF2_101_2_0817" value="Caçador de Espíritos" />
-  <keys type="item" key="SF2_101_2_0818" value="Rune Golem" />
-  <keys type="item" key="SF2_101_2_0819" value="Exiled Diramunus" />
-  <keys type="item" key="SF2_101_2_0820" value="5-Year Vinisar" />
-  <keys type="item" key="SF2_101_2_0821" value="Fairy Dragon" />
-  <keys type="item" key="Sf2_101_2_0817" value="Wise Spirit Chaser" />
-  <keys type="item" key="Sf2_101_2_08171" value="Brave Spirit Chaser" />
-  <keys type="item" key="SF2_101_2_0823" value="Algidus" />
-  <keys type="item" key="SF2_101_2_0824" value="Éolo Carmesim" />
-  <keys type="item" key="SF2_101_2_0825" value="Puff the Magic Dragon" />
-  <keys type="item" key="SF2_101_2_0826" value="Montagem: VALOFE - D.R.A.G.O.N." />
-  <keys type="item" key="SF2_101_2_0827" value="Animal de estimação: VALOFE - V.I.O.N." />
-  <keys type="item" key="SF2_101_2_0828" value="Aquavrios radiantes" />
-  <keys type="item" key="SF2_101_2_0829" value="Reigel the Beagle" />
-  <keys type="item" key="SF2_101_2_0830" value="Ruel the Beagle" />
-  <keys type="item" key="SF2_101_2_0831" value="Kiel, o Beagle" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0256" value="Inferno Demoroth" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0257" value="Wrath Wyvern" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0258" value="Adventurer's Familiar Crystal" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0259" value="Gold Puppy of Wisdom" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0260" value="Gold Puppy of Wisdom" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0261" value="Gold Puppy of Wisdom" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0262" value="Shining Puppy of Wisdom" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0263" value="Gold Puppy of Courage" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0264" value="Gold Puppy of Courage" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0265" value="Gold Puppy of Courage" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0266" value="Savage Baltrow" />
+  <keys prop="Name" type="monster" key="SF2_101_3_0267" value="Chariot" />
+  <keys prop="Name" type="monster" key="SF2_101_2_0822" value="Agnas Glaciais" />
+  <keys prop="Name" type="monster" key="SF2_101_2_0817" value="Caçador de Espíritos" />
+  <keys prop="Name" type="monster" key="SF2_101_2_0818" value="Rune Golem" />
+  <keys prop="Name" type="monster" key="SF2_101_2_0819" value="Exiled Diramunus" />
+  <keys prop="Name" type="monster" key="SF2_101_2_0820" value="5-Year Vinisar" />
+  <keys prop="Name" type="monster" key="SF2_101_2_0821" value="Fairy Dragon" />
+  <keys prop="Name" type="monster" key="Sf2_101_2_0817" value="Wise Spirit Chaser" />
+  <keys prop="Name" type="monster" key="Sf2_101_2_08171" value="Brave Spirit Chaser" />
+  <keys prop="Name" type="monster" key="SF2_101_2_0823" value="Algidus" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0823" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0824" value="Éolo Carmesim" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0824" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0825" value="Puff the Magic Dragon" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0825" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0826" value="Ravini White Nuni" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0826" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0827" value="Ravini Christmas" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0827" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0828" value="Aquavrios radiantes" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0828" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0829" value="Reigel the Beagle" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0829" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0830" value="Ruel the Beagle" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0830" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Name" type="monster" key="SF2_101_2_0831" value="Kiel, o Beagle" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0831" value="O selo contém a essência de um familiar.&#xD;&#xA;&lt;It_G&gt; - Pode ser conectado ao equipamento para aumentar os atributos ou adicionar efeitos adicionais.&#xD;&#xA;- Alt + Clique com o botão direito do mouse em qualquer equipamento com um slot para abrir a janela de anexo familiar e selada.&#xD;&#xA;- Pode ser convertido em pontos de talento arrastando-o para a esfera no canto superior esquerdo da guia de talentos da janela de personagem. &lt;/It_G&gt; " />
+  <keys prop="Description" type="monster" key="SF2_901_3_10001" value="Bloodguard Kerav" />
+  <keys prop="Description" type="monster" key="SF2_901_3_10001_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_901_3_10003" value="Aschente" />
+  <keys prop="Description" type="monster" key="SF2_901_3_10003_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_901_3_10005" value="Blazing Quilin" />
+  <keys prop="Description" type="monster" key="SF2_901_3_10005_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0832" value="Algidus" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0832_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0833" value="Luminiel" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0833_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0834" value="Luna Sol" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0834_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0835" value="Aquavrios" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0835_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0836" value="Ethereal Daerytas" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0836_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0837" value="Megami Pegasus" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0837_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0838" value="Dark Pegasus" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0838_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0839" value="Phantasm Calypse" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0839_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="sf2_101_2_0826_1" value="Rabbini Rudolphi" />
+  <keys prop="Description" type="monster" key="sf2_101_2_0826_1_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0827_1" value="Rabbini Frosty" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0827_1_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0787" value="Blazeur" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0787_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="sf2_101_2_0841" value="Moon Catcher" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0841_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0821_1" value="Blossom Torkai" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0821_1_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0821_2" value="Magma Beast" />
+  <keys prop="Description" type="monster" key="Sf2_101_2_0821_2_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="sf2_101_2_d1" value="Awakened Divine Alkanin's Soul" />
+  <keys prop="Description" type="monster" key="sf2_101_2_d1_description" value="A special familiar seal stone filled with godlike power.&#xD;&#xA;&lt;It_G&gt;- Used to craft the mythical Awakened Divine armor set.&lt;br&gt;- Obtain by exchanging 4 Awakened Alkanin Crescents at Belhira.&lt;/It_G&gt;&#xD;&#xA;&lt;It_R&gt;- Not recommended to use for talent power!&lt;/It_R&gt;" />
+  <keys prop="Description" type="monster" key="sf2_101_2_d2" value="Wyvern God Xalmerion" />
+  <keys prop="Description" type="monster" key="sf2_101_2_d2_description" value="Unique Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_Celest" value="Celestial Pegasus" />
+  <keys prop="Description" type="monster" key="SF2_101_Celest_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0842" value="Cyber-Torkai Solariel" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0842_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0843" value="Goldiago" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0843_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0844" value="Skelliago" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0844_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0845" value="Dream Snatcher" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0845_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0846" value="Unlucky the Voodoo Puppy" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0846_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0847" value="Ho-Ho the floating Pumpkin" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0847_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0848" value="Dullahan" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0848_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0849" value="Skygod Revael" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0849_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0850" value="Nekobot Nr. 1" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0850_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0851" value="Nekobot Nr. 2" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0851_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0852" value="Nekobot Nr. 3" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0852_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0853" value="Nekobot Nr. 4" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0853_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0854" value="Grim Reaper" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0854_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0855" value="Malamute Luke" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0855_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0856" value="Malamute Cute" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0856_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0857" value="Malamute Lute" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0857_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0858" value="Purple Toyhorse" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0858_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0859" value="Wooden Toyhorse" />
+  <keys prop="Description" type="monster" key="SF2_101_2_0859_description" value="Familiar Seal Stone&#xD;&#xA;&lt;It_G&gt;- Stats can be increased when putting it in equipment&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Can be converted into talent points by dragging it into the talent-point orb.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;- Alt + right-click on the equip to activate the seal-slot UI&lt;/It_G&gt;" />
 </files>

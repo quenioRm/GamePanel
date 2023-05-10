@@ -1,2 +1,318 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="gage_action_0001" value="Purificando Obelisco" />
+  <keys prop="Description" type="monster" key="gage_action_0002" value="Reaproveitando Madeira" />
+  <keys prop="Description" type="monster" key="gage_action_0003" value="Colocar Ponte" />
+  <keys prop="Description" type="monster" key="gage_action_0004" value="Disparar Canhão" />
+  <keys prop="Description" type="monster" key="gage_action_0005" value="Usando Roldana" />
+  <keys prop="Description" type="monster" key="gage_action_0006" value="Usando Alavanca" />
+  <keys prop="Description" type="monster" key="gage_action_0007" value="Pegando Esfera da Alma" />
+  <keys prop="Description" type="monster" key="gage_action_0008" value="Envenenando Alimento" />
+  <keys prop="Description" type="monster" key="gage_action_0009" value="Envenenando Alimento" />
+  <keys prop="Description" type="monster" key="gage_action_0010" value="Cavar na Areia" />
+  <keys prop="Description" type="monster" key="gage_action_0011" value="Desembainhando Espada" />
+  <keys prop="Description" type="monster" key="gage_action_0012" value="Sacando Arma" />
+  <keys prop="Description" type="monster" key="gage_action_0013" value="Limpando Túmulo" />
+  <keys prop="Description" type="monster" key="gage_action_0014" value="Despejar Água" />
+  <keys prop="Description" type="monster" key="gage_action_0015" value="Colocando Espelho de Água" />
+  <keys prop="Description" type="monster" key="gage_action_0016" value="Colocando Isca" />
+  <keys prop="Description" type="monster" key="gage_action_0017" value="Tocar Colmeia" />
+  <keys prop="Description" type="monster" key="gage_action_0018" value="Queimando Lojas" />
+  <keys prop="Description" type="monster" key="gage_action_0019" value="Destruindo" />
+  <keys prop="Description" type="monster" key="gage_action_0020" value="Extinguindo Fogo" />
+  <keys prop="Description" type="monster" key="gage_action_0021" value="Acendendo Fogo" />
+  <keys prop="Description" type="monster" key="gage_action_0022" value="Acender Fogo" />
+  <keys prop="Description" type="monster" key="gage_action_0023" value="Anexando Documento" />
+  <keys prop="Description" type="monster" key="gage_action_0024" value="Desenterrando ossos" />
+  <keys prop="Description" type="monster" key="gage_action_0025" value="Usando Chifre" />
+  <keys prop="Description" type="monster" key="gage_action_0026" value="Guardando Partes de Besta" />
+  <keys prop="Description" type="monster" key="gage_action_0027" value="Usando Pedra do Invocador" />
+  <keys prop="Description" type="monster" key="gage_action_0028" value="Abrindo Canal" />
+  <keys prop="Description" type="monster" key="gage_action_0029" value="Usar Pedra Guardiã" />
+  <keys prop="Description" type="monster" key="gage_action_0030" value="Invocar Dragão Guardião" />
+  <keys prop="Description" type="monster" key="gage_action_0031" value="Selando Poder de Guardião" />
+  <keys prop="Description" type="monster" key="gage_action_0032" value="Usar Círculo Guardião" />
+  <keys prop="Description" type="monster" key="gage_action_0033" value="Usando Alavanca" />
+  <keys prop="Description" type="monster" key="gage_action_0034" value="Santificando Cadáver" />
+  <keys prop="Description" type="monster" key="gage_action_0035" value="Lidar com o Cadáver" />
+  <keys prop="Description" type="monster" key="gage_action_0036" value="Entregando Suprimentos de Comida" />
+  <keys prop="Description" type="monster" key="gage_action_0037" value="Selando Força" />
+  <keys prop="Description" type="monster" key="gage_action_0038" value="Recebendo Oráculo" />
+  <keys prop="Description" type="monster" key="gage_action_0039" value="Plantar Sementes" />
+  <keys prop="Description" type="monster" key="gage_action_0040" value="Colocando Sela" />
+  <keys prop="Description" type="monster" key="gage_action_0041" value="Pegando Ovo" />
+  <keys prop="Description" type="monster" key="gage_action_0042" value="Acrescentando Especiarias" />
+  <keys prop="Description" type="monster" key="gage_action_0043" value="Pegando Livro da Ruína" />
+  <keys prop="Description" type="monster" key="gage_action_0044" value="Quebrar Estátua de Gelo" />
+  <keys prop="Description" type="monster" key="gage_action_0045" value="Coletando Amostra de Epidemia" />
+  <keys prop="Description" type="monster" key="gage_action_0046" value="Pegar Ferramenta" />
+  <keys prop="Description" type="monster" key="gage_action_0047" value="Pegando" />
+  <keys prop="Description" type="monster" key="gage_action_0048" value="Liderando Almas" />
+  <keys prop="Description" type="monster" key="gage_action_0049" value="Inclinar Fornalha" />
+  <keys prop="Description" type="monster" key="gage_action_0050" value="Tocar na Obra Póstuma" />
+  <keys prop="Description" type="monster" key="gage_action_0051" value="Reunindo" />
+  <keys prop="Description" type="monster" key="gage_action_0052" value="Resgatando Refém" />
+  <keys prop="Description" type="monster" key="gage_action_0053" value="Usando" />
+  <keys prop="Description" type="monster" key="gage_action_0054" value="Coletando Roupas" />
+  <keys prop="Description" type="monster" key="gage_action_0055" value="Coletando Luvas" />
+  <keys prop="Description" type="monster" key="gage_action_0056" value="Pegando o Equipamento" />
+  <keys prop="Description" type="monster" key="gage_action_0057" value="Usando Dispositivo" />
+  <keys prop="Description" type="monster" key="gage_action_0058" value="Entregando" />
+  <keys prop="Description" type="monster" key="gage_action_0059" value="Bebendo Essência" />
+  <keys prop="Description" type="monster" key="gage_action_0060" value="Usando Altar" />
+  <keys prop="Description" type="monster" key="gage_action_0061" value="Acendendo Fogo do Altar" />
+  <keys prop="Description" type="monster" key="gage_action_0062" value="Dispositivo de Desativação" />
+  <keys prop="Description" type="monster" key="gage_action_0063" value="Usando" />
+  <keys prop="Description" type="monster" key="gage_action_0069" value="Tocar Sino" />
+  <keys prop="Description" type="monster" key="gage_action_0070" value="Fornecer Água" />
+  <keys prop="Description" type="monster" key="gage_action_0071" value="Pegando Cajado" />
+  <keys prop="Description" type="monster" key="gage_action_0072" value="Usando Espelho da Verdade" />
+  <keys prop="Description" type="monster" key="gage_action_0073" value="Resgatando Chapley Singer" />
+  <keys prop="Description" type="monster" key="gage_action_0074" value="Fazendo Fricção" />
+  <keys prop="Description" type="monster" key="gage_action_0075" value="Resgatando Prisioneiros" />
+  <keys prop="Description" type="monster" key="gage_action_0076" value="Jogar Bomba" />
+  <keys prop="Description" type="monster" key="gage_action_0077" value="Acender" />
+  <keys prop="Description" type="monster" key="gage_action_0078" value="Roubando" />
+  <keys prop="Description" type="monster" key="gage_action_0079" value="Usando Mina" />
+  <keys prop="Description" type="monster" key="gage_action_0080" value="Neutralizando Altar do Elfo do Caos" />
+  <keys prop="Description" type="monster" key="gage_action_0081" value="Misturando Ingredientes" />
+  <keys prop="Description" type="monster" key="gage_action_0082" value="Reavendo Setas" />
+  <keys prop="Description" type="monster" key="gage_action_0083" value="Carregando Seta" />
+  <keys prop="Description" type="monster" key="gage_action_0084" value="Dividindo Poção do Campo de Batalha" />
+  <keys prop="Description" type="monster" key="gage_break_0001" value="Destruir Carroça" />
+  <keys prop="Description" type="monster" key="gage_break_0002" value="Destruir Guindaste" />
+  <keys prop="Description" type="monster" key="gage_break_0003" value="Dissipando a Insígnia" />
+  <keys prop="Description" type="monster" key="gage_break_0004" value="Destruir Minério Contaminado" />
+  <keys prop="Description" type="monster" key="gage_break_0005" value="Destruindo Dispositivo" />
+  <keys prop="Description" type="monster" key="gage_break_0006" value="Destruir Altar" />
+  <keys prop="Description" type="monster" key="gage_break_0007" value="Destruir Utensílios de Cozinha" />
+  <keys prop="Description" type="monster" key="gage_break_0008" value="Destruindo Equipamento" />
+  <keys prop="Description" type="monster" key="gage_break_0009" value="Destruindo" />
+  <keys prop="Description" type="monster" key="gage_break_0010" value="Quebrar Caldeirão" />
+  <keys prop="Description" type="monster" key="gage_clear_0001" value="Dissipando Círculo de Ritual" />
+  <keys prop="Description" type="monster" key="gage_clear_0002" value="Desativando Barreira" />
+  <keys prop="Description" type="monster" key="gage_clear_0003" value="Remover Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="gage_clear_0004" value="Deslacrando" />
+  <keys prop="Description" type="monster" key="gage_clear_0005" value="Removendo Fonte" />
+  <keys prop="Description" type="monster" key="gage_collect_0001" value="Coletar Materiais de Construção" />
+  <keys prop="Description" type="monster" key="gage_collect_0002" value="Coletando Carne" />
+  <keys prop="Description" type="monster" key="gage_collect_0003" value="Recuperar Livro Ancião" />
+  <keys prop="Description" type="monster" key="gage_collect_0004" value="Coletando Fragmento" />
+  <keys prop="Description" type="monster" key="gage_collect_0005" value="Coletando Minério" />
+  <keys prop="Description" type="monster" key="gage_collect_0006" value="Pegando Ovo de Grifo" />
+  <keys prop="Description" type="monster" key="gage_collect_0007" value="Obtendo Ovo de Grifo" />
+  <keys prop="Description" type="monster" key="gage_collect_0008" value="Transportando na Rede" />
+  <keys prop="Description" type="monster" key="gage_collect_0009" value="Pegando Ouro" />
+  <keys prop="Description" type="monster" key="gage_collect_0010" value="Colhendo Flor" />
+  <keys prop="Description" type="monster" key="gage_collect_0011" value="Coletando Pedras" />
+  <keys prop="Description" type="monster" key="gage_collect_0012" value="Recupere A Esfera Mágica" />
+  <keys prop="Description" type="monster" key="gage_collect_0013" value="Pegando Martelo" />
+  <keys prop="Description" type="monster" key="gage_collect_0014" value="Coletando Cabeça da Estátua" />
+  <keys prop="Description" type="monster" key="gage_collect_0015" value="Reavendo Identificação" />
+  <keys prop="Description" type="monster" key="gage_collect_0016" value="Colhendo Planta Sem Nome" />
+  <keys prop="Description" type="monster" key="gage_collect_0017" value="Reavendo Saco de Trigo" />
+  <keys prop="Description" type="monster" key="gage_collect_0018" value="Colheita de Colmeia" />
+  <keys prop="Description" type="monster" key="gage_collect_0019" value="Coletando Tesouro" />
+  <keys prop="Description" type="monster" key="gage_collect_0020" value="Coletando Partes" />
+  <keys prop="Description" type="monster" key="gage_collect_0021" value="Coletando Restos" />
+  <keys prop="Description" type="monster" key="gage_collect_0022" value="Coletando Ferramentas" />
+  <keys prop="Description" type="monster" key="gage_collect_0023" value="Reavendo Caixa" />
+  <keys prop="Description" type="monster" key="gage_collect_0024" value="Pegar Caixa" />
+  <keys prop="Description" type="monster" key="gage_collect_0025" value="Coletando Pedra" />
+  <keys prop="Description" type="monster" key="gage_collect_0026" value="Coletando" />
+  <keys prop="Description" type="monster" key="gage_collect_0027" value="Recuperar Cadáver" />
+  <keys prop="Description" type="monster" key="gage_collect_0028" value="Coletando Comida" />
+  <keys prop="Description" type="monster" key="gage_collect_0029" value="Coletando Saco de Sementes" />
+  <keys prop="Description" type="monster" key="gage_collect_0030" value="Coletando Ovo" />
+  <keys prop="Description" type="monster" key="gage_collect_0031" value="Recuperando Oreum" />
+  <keys prop="Description" type="monster" key="gage_collect_0032" value="Coletando Roupas" />
+  <keys prop="Description" type="monster" key="gage_collect_0033" value="Recolhendo Restos" />
+  <keys prop="Description" type="monster" key="gage_collect_0034" value="Levando Materiais" />
+  <keys prop="Description" type="monster" key="gage_collect_0035" value="Preparando para Luta" />
+  <keys prop="Description" type="monster" key="gage_collect_0036" value="Coletando Mercadorias" />
+  <keys prop="Description" type="monster" key="gage_collect_0037" value="Pegando Brinquedo" />
+  <keys prop="Description" type="monster" key="gage_collect_0038" value="Pegar Vegetal" />
+  <keys prop="Description" type="monster" key="gage_collect_0039" value="Coletando" />
+  <keys prop="Description" type="monster" key="gage_collect_0040" value="Obter Livro" />
+  <keys prop="Description" type="monster" key="gage_collect_0041" value="Coletando Bomba" />
+  <keys prop="Description" type="monster" key="gage_collect_0042" value="Coletar Marca" />
+  <keys prop="Description" type="monster" key="gage_collect_0043" value="Colhendo Erva" />
+  <keys prop="Description" type="monster" key="gage_collect_0044" value="Colhendo Abóbora" />
+  <keys prop="Description" type="monster" key="gage_collect_0045" value="Coletando" />
+  <keys prop="Description" type="monster" key="gage_collect_0046" value="Coletando Esporo" />
+  <keys prop="Description" type="monster" key="gage_collect_0047" value="Coletando Relíquia" />
+  <keys prop="Description" type="monster" key="gage_instill_0001" value="Usando Pilar" />
+  <keys prop="Description" type="monster" key="gage_instill_0002" value="Infundindo" />
+  <keys prop="Description" type="monster" key="gage_look_0001" value="Verificando Caixão" />
+  <keys prop="Description" type="monster" key="gage_look_0002" value="Checar Carroça" />
+  <keys prop="Description" type="monster" key="gage_look_0003" value="Checando Proteção" />
+  <keys prop="Description" type="monster" key="gage_look_0004" value="Examinar Lápide" />
+  <keys prop="Description" type="monster" key="gage_look_0005" value="Conferir Lápide" />
+  <keys prop="Description" type="monster" key="gage_look_0006" value="Conferir Documento" />
+  <keys prop="Description" type="monster" key="gage_look_0007" value="Verificando Pegadas" />
+  <keys prop="Description" type="monster" key="gage_look_0008" value="Verificar Excreção" />
+  <keys prop="Description" type="monster" key="gage_look_0009" value="Examinando Cadáver" />
+  <keys prop="Description" type="monster" key="gage_look_0010" value="Examinando Recipiente" />
+  <keys prop="Description" type="monster" key="gage_look_0011" value="Verificando Estátua de Pedra" />
+  <keys prop="Description" type="monster" key="gage_look_0012" value="Verificando Pedra" />
+  <keys prop="Description" type="monster" key="gage_look_0013" value="Examinando Corpo" />
+  <keys prop="Description" type="monster" key="gage_look_0014" value="Verificando Cadáver" />
+  <keys prop="Description" type="monster" key="gage_look_0015" value="Verificando Cadáver" />
+  <keys prop="Description" type="monster" key="gage_look_0016" value="Verificando Cadáver" />
+  <keys prop="Description" type="monster" key="gage_look_0017" value="Verificando Cadáver" />
+  <keys prop="Description" type="monster" key="gage_look_0018" value="Verificando Saco de Alimentos" />
+  <keys prop="Description" type="monster" key="gage_look_0019" value="Verificando Notas Musicais" />
+  <keys prop="Description" type="monster" key="gage_look_0020" value="Examinando Carcaça" />
+  <keys prop="Description" type="monster" key="gage_look_0021" value="Verificar Poço" />
+  <keys prop="Description" type="monster" key="gage_look_0022" value="Examinando Diário" />
+  <keys prop="Description" type="monster" key="gage_look_0023" value="Examinando" />
+  <keys prop="Description" type="monster" key="gage_look_0024" value="Verificando Balde" />
+  <keys prop="Description" type="monster" key="gage_look_0025" value="Examinar Recipiente" />
+  <keys prop="Description" type="monster" key="gage_look_0026" value="Verificando" />
+  <keys prop="Description" type="monster" key="gage_melt_0001" value="Derretendo" />
+  <keys prop="Description" type="monster" key="gage_melt_0002" value="Derretendo Gelo" />
+  <keys prop="Description" type="monster" key="gage_mine_0001" value="Minerando Cobre" />
+  <keys prop="Description" type="monster" key="gage_mine_0002" value="Minerando Ouro" />
+  <keys prop="Description" type="monster" key="gage_mine_0003" value="Minerando Diamante" />
+  <keys prop="Description" type="monster" key="gage_mine_0004" value="Minerando Dragonita" />
+  <keys prop="Description" type="monster" key="gage_mine_0005" value="Colhendo Flor Rooshine" />
+  <keys prop="Description" type="monster" key="gage_mine_0006" value="Minerando Mithril" />
+  <keys prop="Description" type="monster" key="gage_mine_0007" value="Coletar as Gemas" />
+  <keys prop="Description" type="monster" key="gage_mine_0008" value="Coletar Erva de Brakarr" />
+  <keys prop="Description" type="monster" key="gage_mine_0009" value="Minerando Safira" />
+  <keys prop="Description" type="monster" key="gage_mine_0010" value="Coletar Planta Gélida" />
+  <keys prop="Description" type="monster" key="gage_mine_0011" value="Colhendo Gramínea" />
+  <keys prop="Description" type="monster" key="gage_mine_0012" value="Coletar Seiva" />
+  <keys prop="Description" type="monster" key="gage_mine_0013" value="Minerando Adamantium" />
+  <keys prop="Description" type="monster" key="gage_mine_0014" value="Coletando Erva da Névoa" />
+  <keys prop="Description" type="monster" key="gage_mine_0015" value="Colhendo Ervas" />
+  <keys prop="Description" type="monster" key="gage_mine_0016" value="Minerando Esmeralda" />
+  <keys prop="Description" type="monster" key="gage_mine_0017" value="Minerando Exarium" />
+  <keys prop="Description" type="monster" key="gage_mine_0018" value="Colhendo Erva da Alma" />
+  <keys prop="Description" type="monster" key="gage_mine_0019" value="Coletando Prata" />
+  <keys prop="Description" type="monster" key="gage_mine_0020" value="Coletando Ametista" />
+  <keys prop="Description" type="monster" key="gage_mine_0021" value="Colhendo grama nativa" />
+  <keys prop="Description" type="monster" key="gage_mine_0022" value="Coletando Essência" />
+  <keys prop="Description" type="monster" key="gage_mine_0023" value="Minerando Ferro" />
+  <keys prop="Description" type="monster" key="gage_mine_0024" value="Colhendo Flor da Neve Cherpa" />
+  <keys prop="Description" type="monster" key="gage_mine_0025" value="Desenterrar Raízes Koor" />
+  <keys prop="Description" type="monster" key="gage_mine_0026" value="Colhendo Erva Taramun" />
+  <keys prop="Description" type="monster" key="gage_mine_0027" value="Minerando Turalium" />
+  <keys prop="Description" type="monster" key="gage_mine_0028" value="Colhendo Cogumelo Poron" />
+  <keys prop="Description" type="monster" key="gage_mine_0029" value="Coletando Flor de Sangue" />
+  <keys prop="Description" type="monster" key="gage_mine_0030" value="Minerando Kherim" />
+  <keys prop="Description" type="monster" key="gage_mine_0031" value="Coletando Aura" />
+  <keys prop="Description" type="monster" key="gage_mine_0032" value="Coletando Luz Sagrada" />
+  <keys prop="Description" type="monster" key="gage_mine_0033" value="Coletando a Energia Sagrada" />
+  <keys prop="Description" type="monster" key="gage_mine_0034" value="Coletando Teia de Aranha" />
+  <keys prop="Description" type="monster" key="gage_open_0001" value="Abrindo Porta" />
+  <keys prop="Description" type="monster" key="gage_open_0002" value="Abrindo Porta" />
+  <keys prop="Description" type="monster" key="gage_open_0003" value="Abrindo Baú" />
+  <keys prop="Description" type="monster" key="gage_open_0004" value="Abrindo" />
+  <keys prop="Description" type="monster" key="gage_open_0005" value="Examinando Recipiente" />
+  <keys prop="Description" type="monster" key="gage_open_0006" value="Abrindo" />
+  <keys prop="Description" type="monster" key="gage_open_0007" value="Abrindo" />
+  <keys prop="Description" type="monster" key="gage_open_0008" value="Abrindo Jaula" />
+  <keys prop="Description" type="monster" key="gage_open_0009" value="Abrir Jaula" />
+  <keys prop="Description" type="monster" key="gage_open_0010" value="Abrindo Caixa de Relíquia" />
+  <keys prop="Description" type="monster" key="gage_open_0011" value="Destrancar" />
+  <keys prop="Description" type="monster" key="gage_open_0012" value="Abrindo Portão de Ferro" />
+  <keys prop="Description" type="monster" key="gage_open_0013" value="Abrir Barras de Aço" />
+  <keys prop="Description" type="monster" key="gage_open_0014" value="Abrir Porta de Aço" />
+  <keys prop="Description" type="monster" key="gage_open_0015" value="Abrindo Baú de Pedra" />
+  <keys prop="Description" type="monster" key="gage_refair_0001" value="Reparando" />
+  <keys prop="Description" type="monster" key="gage_refair_0002" value="Reparando Armadilha" />
+  <keys prop="Description" type="monster" key="gage_refair_0003" value="Tratando" />
+  <keys prop="Description" type="monster" key="gage_refair_0004" value="Tratando" />
+  <keys prop="Description" type="monster" key="gage_refair_0005" value="Restaurando" />
+  <keys prop="Description" type="monster" key="gage_refair_0006" value="Restaurando Estátua" />
+  <keys prop="Description" type="monster" key="gage_refair_0007" value="Reparando" />
+  <keys prop="Description" type="monster" key="gage_refair_0008" value="Restaurando Pedra Guardiã" />
+  <keys prop="Description" type="monster" key="gage_remove_0001" value="Destruindo Teia de Aranha" />
+  <keys prop="Description" type="monster" key="gage_remove_0002" value="Removendo" />
+  <keys prop="Description" type="monster" key="gage_seal_0001" value="Selando a Ira" />
+  <keys prop="Description" type="monster" key="gage_seal_0002" value="Selando a Escuridão" />
+  <keys prop="Description" type="monster" key="gage_take_0001" value="Coletando Gelo" />
+  <keys prop="Description" type="monster" key="gage_take_0002" value="Verificar Armadilha" />
+  <keys prop="Description" type="monster" key="gage_collect_0048" value="Coletando" />
+  <keys prop="Description" type="monster" key="gage_remove_0003" value="Removendo" />
+  <keys prop="Description" type="monster" key="gage_collect_0049" value="Pegando Medalhão" />
+  <keys prop="Description" type="monster" key="gage_clear_0006" value="Usando Antídoto" />
+  <keys prop="Description" type="monster" key="gage_choice_1" value="Escolhendo" />
+  <keys prop="Description" type="monster" key="gage_refair_0009" value="Gravando Pedra de Mana" />
+  <keys prop="Description" type="monster" key="gage_elieum_01" value="Garimpando Minério de Elium" />
+  <keys prop="Description" type="monster" key="gage_look_0027" value="Examinando Recipiente" />
+  <keys prop="Description" type="monster" key="gage_remove_0004" value="Destruir Círculo Mágico" />
+  <keys prop="Description" type="monster" key="gage_collect_0050" value="Coletando" />
+  <keys prop="Description" type="monster" key="gage_collect_0051" value="Coletando Kit de Primeiros Socorros" />
+  <keys prop="Description" type="monster" key="gage_open_0016" value="Acender dispositivo" />
+  <keys prop="Description" type="monster" key="gage_remove_0005" value="Removendo galhos" />
+  <keys prop="Description" type="monster" key="gage_mine_0035" value="Colhendo Flor-Estrela de Aklan" />
+  <keys prop="Description" type="monster" key="gage_mine_0036" value="Minerando Cristalito Ancião" />
+  <keys prop="Description" type="monster" key="gage_mine_0037" value="Coletando Poraonium" />
+  <keys prop="Description" type="monster" key="gage_break_0011" value="Destruindo Ovos Ilrik" />
+  <keys prop="Description" type="monster" key="gage_break_0012" value="Destruindo Planta Devoradora de Homens" />
+  <keys prop="Description" type="monster" key="gage_break_0013" value="Destruindo Biomodificação" />
+  <keys prop="Description" type="monster" key="gage_break_0014" value="Destruindo o Altar" />
+  <keys prop="Description" type="monster" key="gage_break_0015" value="Destruindo Torre da Vitória" />
+  <keys prop="Description" type="monster" key="gage_break_0016" value="Destruindo o Buraco de Inseto" />
+  <keys prop="Description" type="monster" key="gage_fire_0001" value="Queimando Bandeira" />
+  <keys prop="Description" type="monster" key="gage_break_0017" value="Quebrando a Cerca de Madeira" />
+  <keys prop="Description" type="monster" key="gage_break_0018" value="Abrindo Porta da Prisão" />
+  <keys prop="Description" type="monster" key="gage_action_0085" value="Adquirindo a Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="gage_action_0086" value="Confirmando o Primeiro Rumor" />
+  <keys prop="Description" type="monster" key="gage_action_0087" value="Confirmando o Segundo Rumor" />
+  <keys prop="Description" type="monster" key="gage_action_0088" value="Confirmando o Terceiro Rumor" />
+  <keys prop="Description" type="monster" key="gage_collect_0052" value="Coletando Suprimentos" />
+  <keys prop="Description" type="monster" key="gage_action_0089" value="Confirmando a Identidade da Luz" />
+  <keys prop="Description" type="monster" key="gage_look_0028" value="Vestígios de um Lebrini" />
+  <keys prop="Description" type="monster" key="gage_look_0029" value="Evidência de um Lebrini" />
+  <keys prop="Description" type="monster" key="gage_look_0030" value="Vestígios que Lebrini moveu-se" />
+  <keys prop="Description" type="monster" key="gage_look_0031" value="Marcas de que alguém escorregou" />
+  <keys prop="Description" type="monster" key="gage_look_0032" value="Investigando Registros" />
+  <keys prop="Description" type="monster" key="gage_look_0033" value="Revelando a Identidade da Garrafa" />
+  <keys prop="Description" type="monster" key="gage_look_0034" value="Ouvindo os problemas de Rokun" />
+  <keys prop="Description" type="monster" key="gage_look_0035" value="Escutando Sobre a Profecia" />
+  <keys prop="Description" type="monster" key="gage_week_0001" value="Manipulando a Insígnia da Lua" />
+  <keys prop="Description" type="monster" key="gage_week_0002" value="Manipulando a Insígnia do Fogo" />
+  <keys prop="Description" type="monster" key="gage_week_0003" value="Manipulando a Insígnia da Água" />
+  <keys prop="Description" type="monster" key="gage_week_0004" value="Manipulando a Insígnia da Árvore" />
+  <keys prop="Description" type="monster" key="gage_week_0005" value="Manipulando a Insígnia do Ouro" />
+  <keys prop="Description" type="monster" key="gage_week_0006" value="Manipulando a Insígnia da Terra" />
+  <keys prop="Description" type="monster" key="gage_week_0007" value="Manipulando a Insígnia do Sol" />
+  <keys prop="Description" type="monster" key="gage_week_0008" value="Fim da Pausa" />
+  <keys prop="Description" type="monster" key="gage_wakeup_0001" value="Acordando Chapley Singer" />
+  <keys prop="Description" type="monster" key="gage_heal_0001" value="Curando Pyro" />
+  <keys prop="Description" type="monster" key="gage_summer_0001" value="Embarcando no Barco de Pato" />
+  <keys prop="Description" type="monster" key="gage_summer_0002" value="Comendo as Melancias" />
+  <keys prop="Description" type="monster" key="gage_summer_0003" value="Hasteando a Flâmula" />
+  <keys prop="Description" type="monster" key="gage_open_0017" value="Abrindo o Livro Ancião" />
+  <keys prop="Description" type="monster" key="gage_action_0090" value="Recarregando Balista" />
+  <keys prop="Description" type="monster" key="gage_action_0091" value="Ocupando a Pedra de Mana" />
+  <keys prop="Description" type="monster" key="gage_mine_0038" value="Minerando Pelisium Resplandecente" />
+  <keys prop="Description" type="monster" key="gage_mine_0039" value="Minerando Pelisium Resplandecente Puro" />
+  <keys prop="Description" type="monster" key="gage_mine_0040" value="Minerando Pelisium" />
+  <keys prop="Description" type="monster" key="gage_mine_0041" value="Minerando Adamantium Resplandecente" />
+  <keys prop="Description" type="monster" key="gage_mine_0042" value="Minerando Adamantium Resplandecente Puro" />
+  <keys prop="Description" type="monster" key="gage_mine_0043" value="Minerando Adamantium" />
+  <keys prop="Description" type="monster" key="gage_mine_0044" value="Minerando Esmeralda Resplandecente" />
+  <keys prop="Description" type="monster" key="gage_mine_0045" value="Minerando Esmeralda Resplandecente Pura" />
+  <keys prop="Description" type="monster" key="gage_mine_0046" value="Minerando Esmeralda" />
+  <keys prop="Description" type="monster" key="gage_e02_0001" value="Fazendo Bola de Neve" />
+  <keys prop="Description" type="monster" key="gage_dog_0001" value="Afagando Inverninho" />
+  <keys prop="Description" type="monster" key="gage_xmas_0001" value="Abrindo Presente de Natal" />
+  <keys prop="Description" type="monster" key="gage_xmas_0002" value="Inspecionando Trenó de Natal" />
+  <keys prop="Description" type="monster" key="gage_d94_0001" value="Roubando" />
+  <keys prop="Description" type="monster" key="gage_collect_0053" value="Abrindo o Tesouro" />
+  <keys prop="Description" type="monster" key="gage_open_0018" value="Reparação do portal" />
+  <keys prop="Description" type="monster" key="gage_open_0019" value="Injetando faíscas" />
+  <keys prop="Description" type="monster" key="gage_open_0020" value="Liberando triturador" />
+  <keys prop="Description" type="monster" key="gage_open_0021" value="Absorvendo a energia da magia condensada" />
+  <keys prop="Description" type="monster" key="gage_e02_0002" value="Reunião" />
+  <keys prop="Description" type="monster" key="gage_evtake_0001" value="Recolhendo sua bagagem" />
+  <keys prop="Description" type="monster" key="gage_evtake_0002" value="Abrindo a caixa de Rabini" />
+  <keys prop="Description" type="monster" key="gage_evtake_0003" value="Investigando o ninho" />
+  <keys prop="Description" type="monster" key="gage_f10_0001" value="Cavando com cuidado" />
+  <keys prop="Description" type="monster" key="gage_f10_0002" value="Separando bebidas" />
+  <keys prop="Description" type="monster" key="gage_f10_0003" value="Limpando a placa" />
+</files>

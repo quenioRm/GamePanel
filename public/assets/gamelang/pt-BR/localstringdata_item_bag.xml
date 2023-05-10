@@ -1,91 +1,125 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="BG0_001_0_0000" value="Bag (10 Slots)" />
-  <keys type="item" key="BG0_001_0_0001" value="Bag (16 Slots)" />
-  <keys type="item" key="BG0_001_0_0002" value="Bag (12 Slots)" />
-  <keys type="item" key="BG0_001_0_0003" value="Bag (8 Slots)" />
-  <keys type="item" key="BG0_001_0_0004" value="Bag (6 Slots)" />
-  <keys type="item" key="BG0_001_0_0005" value="Bag (4 Slots)" />
-  <keys type="item" key="BG0_001_0_0006" value="Bag (14 Slots)" />
-  <keys type="item" key="BG0_001_0_0007" value="Bag (18 Slots)" />
-  <keys type="item" key="CA_IT_BA_0000" value="Trusty Bag" />
-  <keys type="item" key="CA_IT_BA_0001" value="Designer Bag (24 Slot)" />
-  <keys type="item" key="EV_IT_BA_0000" value="Bag (16 Slot)" />
-  <keys type="item" key="CA_IT_BA_0002" value="Trusty Bag" />
-  <keys type="item" key="CA_IT_BA_0003" value="Designer Bag" />
-  <keys type="item" key="TS_FS_00_0006" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0007" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0008" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0009" value="Mecha Skin" />
-  <keys type="item" key="TS_FS_00_0010" value="Apocalypse Skin" />
-  <keys type="item" key="TS_FS_00_0011" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0012" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0013" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0014" value="Mecha Skin" />
-  <keys type="item" key="TS_FS_00_0015" value="Profane Apocalypse Skin" />
-  <keys type="item" key="TS_FS_00_0016" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0017" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0018" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0019" value="Mecha Skin" />
-  <keys type="item" key="TS_FS_00_0020" value="Calypos Skin" />
-  <keys type="item" key="TS_FS_00_0021" value="Karasha Skin" />
-  <keys type="item" key="TS_FS_00_0022" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0023" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0024" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0025" value="Agnas Skin" />
-  <keys type="item" key="TS_FS_00_0026" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0027" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0028" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0029" value="Paragas Skin" />
-  <keys type="item" key="TS_FS_00_0030" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0031" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0032" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0033" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0034" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0035" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0036" value="Mecha Skin" />
-  <keys type="item" key="TS_FS_00_0037" value="Awakened Apocalypse Skin" />
-  <keys type="item" key="TS_FS_00_0038" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0039" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0040" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0041" value="Mecha Skin" />
-  <keys type="item" key="TS_FS_00_0042" value="Awakened Profane Skin" />
-  <keys type="item" key="TS_FS_00_0043" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0044" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0045" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0046" value="Mecha Skin" />
-  <keys type="item" key="TS_FS_00_0047" value="Awakened Calypos Skin" />
-  <keys type="item" key="TS_FS_00_0048" value="Awakened Karasha Skin" />
-  <keys type="item" key="TS_FS_00_0049" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0050" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0051" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0052" value="Awakened Agnas Skin" />
-  <keys type="item" key="TS_FS_00_0053" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0054" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0055" value="Plush Skin" />
-  <keys type="item" key="TS_FS_00_0056" value="Awakened Paragas Skin" />
-  <keys type="item" key="TS_FS_00_0057" value="Gold Skin" />
-  <keys type="item" key="TS_FS_00_0058" value="Crystal Skin" />
-  <keys type="item" key="TS_FS_00_0059" value="Plush Skin" />
-  <keys type="item" key="TS_IT_BA_0001" value="Test (Short Term) Bag" />
-  <keys type="item" key="TS_IT_BA_0002" value="Familiar (Short Term) Bag" />
-  <keys type="item" key="CA_IT_BA_0004" value="Premium Bag (45 days)" />
-  <keys type="item" key="CA_IT_BA_0005" value="Premium Bag (30 days)" />
-  <keys type="item" key="CA_IT_BA_0006" value="Premium Bag (7 days)" />
-  <keys type="item" key="CA_IT_FB_0001" value="Familiar Bag (14 days)" />
-  <keys type="item" key="CA_IT_FB_0002" value="Familiar Bag (30 days)" />
-  <keys type="item" key="CA_IT_FB_0003" value="Familiar Bag (45 days)" />
-  <keys type="item" key="CA_IT_FB_0004" value="Familiar Bag (3 days)" />
-  <keys type="item" key="CA_IT_FB_0005" value="Familiar Bag (7 days)" />
-  <keys type="item" key="CA_IT_BA_0007" value="Premium Bag (14 days)" />
-  <keys type="item" key="CA_IT_BA_0008" value="Premium Bag (1 days)" />
-  <keys type="item" key="CA_IT_FB_0009" value="Familiar Bag (1 days)" />
-  <keys type="item" key="CA_IT_BA_0009" value="Premium Bag (15 days)" />
-  <keys type="item" key="CA_IT_FB_0010" value="Familiar Bag (15 days)" />
-  <keys type="item" key="CA_IT_BA_0010" value="Premium bag (for premium service)" />
-  <keys type="item" key="CA_IT_BA_0011" value="3rd Anniversary Premium Bag (30 days)" />
-  <keys type="item" key="CA_IT_FB_0011" value="Fellow Bag (Permanent)" />
-  <keys type="item" key="CA_IT_BA_0012" value="Premium Bag (Permanent)" />
-  <keys type="item" key="CA_IT_FB_0012" value="Fellow Bag (1 year)" />
-  <keys type="item" key="CA_IT_BA_0013" value="Premium Bag (1 year)" />
+  <keys prop="Name" type="item" key="BG0_001_0_0000" value="Bag (10 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0000_description" value="A bag with 10 slots." />
+  <keys prop="Name" type="item" key="BG0_001_0_0001" value="Bag (16 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0001_description" value="A bag with 16 slots." />
+  <keys prop="Name" type="item" key="BG0_001_0_0002" value="Bag (12 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0002_description" value="A bag with 12 slots." />
+  <keys prop="Name" type="item" key="BG0_001_0_0003" value="Bag (8 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0003_description" value="A bag with 8 slots." />
+  <keys prop="Name" type="item" key="BG0_001_0_0004" value="Bag (6 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0004" value="A bag with 6 slots." />
+  <keys prop="Name" type="item" key="BG0_001_0_0005" value="Bag (4 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0005" value="A bag with 4 slots." />
+  <keys prop="Name" type="item" key="BG0_001_0_0006" value="Bag (14 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0006" value="A bag with 14 slots." />
+  <keys prop="Name" type="item" key="BG0_001_0_0007" value="Bag (18 Slots)" />
+  <keys prop="Description" type="item" key="BG0_001_0_0007" value="A bag with 18 slots." />
+  <keys prop="Name" type="item" key="CA_IT_BA_0000" value="Trusty Bag" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0000_description" value="A bag with 8 slots." />
+  <keys prop="Name" type="item" key="CA_IT_BA_0001" value="Designer Bag (24 Slot)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0001" value="A bag with 24 slots." />
+  <keys prop="Name" type="item" key="EV_IT_BA_0000" value="Bag (16 Slot)" />
+  <keys prop="Description" type="item" key="EV_IT_BA_0000" value="A bag with 16 slots." />
+  <keys prop="Name" type="item" key="CA_IT_BA_0002" value="Trusty Bag" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0002" value="A bag with 16 slots." />
+  <keys prop="Name" type="item" key="CA_IT_BA_0003" value="Designer Bag" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0003" value="A bag with 24 slots." />
+  <keys prop="Name" type="item" key="TS_FS_00_0006" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0007" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0008" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0009" value="Mecha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0010" value="Apocalypse Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0011" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0012" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0013" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0014" value="Mecha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0015" value="Profane Apocalypse Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0016" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0017" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0018" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0019" value="Mecha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0020" value="Calypos Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0021" value="Karasha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0022" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0023" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0024" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0025" value="Agnas Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0026" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0027" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0028" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0029" value="Paragas Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0030" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0031" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0032" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0033" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0034" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0035" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0036" value="Mecha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0037" value="Awakened Apocalypse Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0038" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0039" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0040" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0041" value="Mecha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0042" value="Awakened Profane Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0043" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0044" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0045" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0046" value="Mecha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0047" value="Awakened Calypos Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0048" value="Awakened Karasha Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0049" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0050" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0051" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0052" value="Awakened Agnas Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0053" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0054" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0055" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0056" value="Awakened Paragas Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0057" value="Gold Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0058" value="Crystal Skin" />
+  <keys prop="Name" type="item" key="TS_FS_00_0059" value="Plush Skin" />
+  <keys prop="Name" type="item" key="TS_IT_BA_0001" value="Test (Short Term) Bag" />
+  <keys prop="Description" type="item" key="TS_IT_BA_0001" value="Test (Short Term) Bag" />
+  <keys prop="Name" type="item" key="TS_IT_BA_0002" value="Familiar (Short Term) Bag" />
+  <keys prop="Description" type="item" key="TS_IT_BA_0002" value="Familiar (Short Term) Bag" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0004" value="Premium Bag (45 days)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0004" value="provides 24 slots for 45 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Premium bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0005" value="Premium Bag (30 days)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0005" value="provides 24 slots for 30 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in short term bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0006" value="Premium Bag (7 days)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0006" value="provides 24 slots for 7 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Premium bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0001" value="Familiar Bag (14 days)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0001" value="provides 12 slots for 14 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Familiar bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0002" value="Familiar Bag (30 days)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0002" value="provides 12 slots for 30 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Familiar bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0003" value="Familiar Bag (45 days)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0003" value="provides 12 slots for 45 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Familiar bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0004" value="Familiar Bag (3 days)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0004" value="provides 12 slots for 3 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Familiar bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0005" value="Familiar Bag (7 days)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0005" value="provides 12 slots for 7 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Familiar bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0007" value="Premium Bag (14 days)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0007" value="provides 24 slots for 14 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Premium bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0008" value="Premium Bag (1 days)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0008" value="provides 24 slots for 1 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Premium bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0009" value="Familiar Bag (1 days)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0009" value="provides 12 slots for 1 days&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Familiar bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0009" value="Premium Bag (15 days)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0009" value="Provides 24 slots for 15 days.&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Premium bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0010" value="Familiar Bag (15 days)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0010" value="Provides 12 slots for 15 days.&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Familiar bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0010" value="Premium bag (for premium service)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0010" value="Provides 24 slots during Premium Service.&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Premium bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0011" value="3rd Anniversary Premium Bag (30 days)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0011" value="Provides 24 slots for 30 days.&#xD;&#xA;&lt;O_Y&gt; 3 purchases per account &lt;/O_Y&gt;&#xD;&#xA;&lt;R_Y&gt; When withdrawal is canceled, repurchase is not possible &lt;/R_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When expired, items in Premium bags cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0011" value="Fellow Bag (Permanent)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0011" value="Fellow bag with 12 storage slots" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0012" value="Premium Bag (Permanent)" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0012" value="Bags used in the premium bag slot. no time limit&#xD;&#xA;Available.&#xD;&#xA;&lt;O_Y&gt;3 purchases per account&lt;/O_Y&gt;&#xD;&#xA;&lt;R_Y&gt;If the subscription is withdrawn. repurchase is not allowed&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_IT_FB_0012" value="Fellow Bag (1 year)" />
+  <keys prop="Name" type="item" key="CA_IT_BA_0013" value="Premium Bag (1 year)" />
+  <keys prop="Description" type="item" key="CA_IT_FB_0012" value="Fellow bag that can use 12 storage slots for 365 days&#xD;&#xA;&lt;O_Y&gt;3 purchases per account&lt;/O_Y&gt;&#xD;&#xA;&lt;R_Y&gt;If the subscription is withdrawn. repurchase is not allowed&lt;/R_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When the period expires. items in the fixed-term bag slot cannot be used or moved.&lt;R_Y&gt;" />
+  <keys prop="Description" type="item" key="CA_IT_BA_0013" value="A bag with 24 storage slots that can be used for 365 days.&#xD;&#xA;&lt;O_Y&gt;3 purchases per account&lt;/O_Y&gt;&#xD;&#xA;&lt;R_Y&gt;If the subscription is withdrawn. repurchase is not allowed&lt;/R_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;R_Y&gt;When the period expires. items in the fixed-term bag slot cannot be used or moved.&lt;R_Y&gt;" />
 </files>

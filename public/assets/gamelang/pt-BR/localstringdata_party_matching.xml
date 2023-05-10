@@ -1,2 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="pm_d01_title" value="" />
+  <keys prop="Description" type="monster" key="pm_d01_subtitle" value="" />
+  <keys prop="Description" type="monster" key="pm_d01_desc_title" value="" />
+  <keys prop="Description" type="monster" key="pm_d01_desc_1" value="" />
+</files>

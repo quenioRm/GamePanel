@@ -1,2 +1,591 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="getitemruleunique" value="Único" />
+  <keys prop="Description" type="monster" key="ui_autolooting_Unique" value="Saque Único+" />
+  <keys prop="Description" type="monster" key="quick_request_mentor" value="Solicitar Mentor" />
+  <keys prop="Description" type="monster" key="quick_invite_mentee" value="Convidar Tutelado" />
+  <keys prop="Description" type="monster" key="ui_tab_friendlist_mentoring" value="Mentoria" />
+  <keys prop="Description" type="monster" key="ui_title_mentoring_invite_mentee" value="Convidar Tutelado" />
+  <keys prop="Description" type="monster" key="ui_title_mentoring_request_mentor" value="Solicitar Mentor" />
+  <keys prop="Description" type="monster" key="ui_title_mentoring_reward" value="Recompensa de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_desc_mentoring_invite_mentee" value="Digite o nome do tutelado para convidar." />
+  <keys prop="Description" type="monster" key="ui_desc_mentoring_request_mentor" value="Digite o nome do mentor para solicitar." />
+  <keys prop="Description" type="monster" key="ui_desc_release_mentoring" value="Não é possível estabelecer novas relações de mentoria por 24 horas após encerrar uma relação de mentoria.&lt;br&gt;Deseja realmente acabar com a relação de mentoria?" />
+  <keys prop="Description" type="monster" key="ui_desc_mentoring_request_graduate" value="Você alcançou o nível exigido para a graduação.&lt;br&gt;Deseja pedir ao seu mentor para se graduar?&lt;br&gt;&lt;br&gt;&lt;G_Y&gt;(Solicitações de graduação não podem ser desfeitas, e se o mentor não aprovar em um prazo de 3 dias, a relação de mentoria será encerrada automaticamente.)&lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_mentoring_person" value="Nome" />
+  <keys prop="Description" type="monster" key="ui_mentoring_level_reward_label" value="Recompensa por Subir de Nível" />
+  <keys prop="Description" type="monster" key="ui_mentoring_mentee_reward_label" value="Recompensa de Tutelado" />
+  <keys prop="Description" type="monster" key="ui_mentoring_mentor_reward_label" value="Recompensa de Mentor" />
+  <keys prop="Description" type="monster" key="ui_mentoring_buff_reward_label" value="Recompensa de Bônus" />
+  <keys prop="Description" type="monster" key="ui_mentoring_move_label" value="Função de Mobilidade Conveniente" />
+  <keys prop="Description" type="monster" key="ui_mentoring_reward_desc" value="Você recebe benefícios especiais ao estabelecer uma relação de mentoria." />
+  <keys prop="Description" type="monster" key="ui_mentoring_level_reward_desc1" value="O tutelado pode ganhar recompensas especiais alcançando os níveis 20, 30, 40, 50, 55 e 60." />
+  <keys prop="Description" type="monster" key="ui_mentoring_level_reward_desc2" value="Quando o tutelado alcança um nível específico, recompensas são enviadas para o Armazém de Ellora. (Itens não resgatados desaparecem após 7 dias.)" />
+  <keys prop="Description" type="monster" key="ui_mentoring_buff_reward_desc" value="Quando o mentor e o tutelado se conectam ao mesmo tempo, aplica-se um bônus. (Quanto mais tutelados se conectam, melhores os bônus do mentor.)" />
+  <keys prop="Description" type="monster" key="ui_mentoring_move_desc" value="Personagens com relações de mentoria podem chamar o outro sem consumir Elluns." />
+  <keys prop="Description" type="monster" key="ui_mentoring_graduation_label" value="Graduação." />
+  <keys prop="Description" type="monster" key="ui_mentoring_mentee_buff_label" value="Bônus de Tutorado." />
+  <keys prop="Description" type="monster" key="ui_mentoring_mentor_buff_label" value="Bônus de Mentor." />
+  <keys prop="Description" type="monster" key="shop_tab_alsas" value="Alsaciano" />
+  <keys prop="Description" type="monster" key="shop_tab_telio" value="Teleo" />
+  <keys prop="Description" type="monster" key="ui_arena_grade_table_info" value="horas" />
+  <keys prop="Description" type="monster" key="ui_arena_no_record" value="Sem Registro" />
+  <keys prop="Description" type="monster" key="ui_arena_rank" value="minutos" />
+  <keys prop="Description" type="monster" key="ui_gameoption_fishingmsg_onoff" value="Mensagem ao Obterem Peixes Extra Grandes" />
+  <keys prop="Description" type="monster" key="ui_tooltip_set_fishingmsg_onoff" value="Quando outra pessoa pescar um Peixe Extra Grande, uma mensagem será exibida no Bate-papo." />
+  <keys prop="Description" type="monster" key="FeBuff015" value="Guerreiro Lendário" />
+  <keys prop="Description" type="monster" key="FeBuff016" value="Mago Fabuloso" />
+  <keys prop="Description" type="monster" key="FeBuff017" value="Carnívoros" />
+  <keys prop="Description" type="monster" key="FeBuff018" value="Inteligência Astronômica" />
+  <keys prop="Description" type="monster" key="FeBuff019" value="Força Astronômica" />
+  <keys prop="Description" type="monster" key="FeBuff015desc" value="Dano Físico +8%, Vida +15% (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff016desc" value="Chance de absorção de Vida +3%, eficiência de absorção de Vida +1%, Vida +10% (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff017desc" value="Ataque Global +8%, Todos Atributos +15 (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff018desc" value="Ataque Geral +15%, Inteligência +150 (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff019desc" value="Ataque Geral +15%, Defesa Geral +150 (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff015_desc" value="Imunidade a Penalidade de Turimnan (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff016_desc" value="Chance de absorção de Vida +3%, eficiência de absorção de Vida +1%, Vida +10% (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff017_desc" value="Ataque Geral +15%, Defesa Geral +15% (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff018_desc" value="Ataque Geral +15%, Inteligência +150 (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff019_desc" value="Ataque Geral +15%, Defesa Geral +150 (2 horas)" />
+  <keys prop="Description" type="monster" key="ui_partyboard_list_hidetext" value="Permite aparência livre e mira para um modo de controle acionado por ação. Use os botões do mouse ou teclas de atalho para transmitir habilidades." />
+  <keys prop="Description" type="monster" key="ui_mentoring_mentor" value="Mentor" />
+  <keys prop="Description" type="monster" key="ui_mentoring_mentee" value="Tutorado" />
+  <keys prop="Description" type="monster" key="ui_friendlist_friendlist_relation" value="Relacionamento" />
+  <keys prop="Description" type="monster" key="ui_graduate_mentee" value="Tutorado Graduado" />
+  <keys prop="Description" type="monster" key="ui_possess_mentee" value="Progresso Atual" />
+  <keys prop="Description" type="monster" key="ui_mentoring_reward_btn" value="Recompensas" />
+  <keys prop="Description" type="monster" key="ui_mentoring_graduation_btn" value="Solicitar Graduação" />
+  <keys prop="Description" type="monster" key="ui_last_login" value="Último Login" />
+  <keys prop="Description" type="monster" key="ui_gameoption_requestmentoring_msg_onoff" value="Exibir Solicitações de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_tooltip_set_requestmentoring_msg_onoff" value="Selecione esta opção para exibir as mensagens de solicitação de mentoria recebidas em sua janela de bate-papo." />
+  <keys prop="Description" type="monster" key="ui_title_mentoring_manage" value="Gerenciamento de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_mentee_manage" value="Gerenciamento de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_mentor_manage" value="Gerenciamento de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_mentee_guide_title" value="Guia de Tutorado" />
+  <keys prop="Description" type="monster" key="ui_mentor_guide_title" value="Guia do Mentor" />
+  <keys prop="Description" type="monster" key="ui_mentee_guide_desc" value="minutos" />
+  <keys prop="Description" type="monster" key="ui_mentor_guide_desc" value="Permite aparência livre e mira para um modo de controle acionado por ação. Use os botões do mouse ou teclas de atalho para transmitir habilidades." />
+  <keys prop="Description" type="monster" key="ui_desc_mentoring_approve_graduation" value="Deseja aprovar a graduação do seu tutorado?&lt;br&gt;&lt;br&gt;&lt;G_Y&gt;(A relação de mentoria será encerrada).&lt;/G_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_tab_mentoring_recommend_mentor" value="Mentores Recomendados" />
+  <keys prop="Description" type="monster" key="ui_tab_mentoring_recommend_mentee" value="Tutorados Recomendados" />
+  <keys prop="Description" type="monster" key="ui_accept_hold_on" value="Aprovação Pendente" />
+  <keys prop="Description" type="monster" key="ui_request_hold_on" value="Solicitação Pendente" />
+  <keys prop="Description" type="monster" key="ui_mentoring_refresh_btn" value="Atualizar" />
+  <keys prop="Description" type="monster" key="ui_hours_ago" value="&lt;UI_G&gt;minuto(s) antes&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="ui_minutes_ago" value="&lt;R_Y&gt;O tempo de status é atualizado a cada 5 minutos.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_mentoring_request_cancel" value="Cancelar Pedido" />
+  <keys prop="Description" type="monster" key="ui_graduaion_hold_on" value="Graduação Pendente" />
+  <keys prop="Description" type="monster" key="ui_btn_graduation_ok" value="Aprovar Graduação" />
+  <keys prop="Description" type="monster" key="remain_approve_time" value="Tempo Restante até Aprovação" />
+  <keys prop="Description" type="monster" key="ui_succes_appraisal" value="Sucesso" />
+  <keys prop="Description" type="monster" key="ui_failure_appraisal" value="Falhou" />
+  <keys prop="Description" type="monster" key="ui_desc_mentoring_request_summon" value="Deseja solicitar uma convocação?" />
+  <keys prop="Description" type="monster" key="ui_title_arena_lobby_move" value="Janela Flutuante de Entrada do Campo de Batalha" />
+  <keys prop="Description" type="monster" key="ui_tab_mentoring_release" value="Encerrar Mentoria" />
+  <keys prop="Description" type="monster" key="ui_tab_mentoring_suggest_graduation" value="Aprovar Graduação" />
+  <keys prop="Description" type="monster" key="ui_mentoring_guide_title" value="Guia de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_mentoring_guide_desc" value="Você pode usar o sistema de mentoria a partir do Nível 10." />
+  <keys prop="Description" type="monster" key="ui_title_mentoring_request_graduate" value="Solicitar Graduação" />
+  <keys prop="Description" type="monster" key="na_premium" value="Premium" />
+  <keys prop="Description" type="monster" key="ui_cashshop_listdesc_na_premium" value="Aqui você pode comprar as roupas e acessórios para ficar estiloso e impressionar o Rei!" />
+  <keys prop="Description" type="monster" key="ui_aprecovery_premiumservice" value="Premium 100" />
+  <keys prop="Description" type="monster" key="ui_premium_move_inventory" value="Este item não pode ser reembolsado após ser movido para o seu inventário.&lt;br&gt;Itens de Serviço Premium também são usados automaticamente quando são movidos para o seu inventário.&lt;br&gt;Deseja continuar?" />
+  <keys prop="Description" type="monster" key="premiumservice_remaintime" value="Clique para Receber seu Ellun!&lt;br&gt;Tempo Restante de Serviço Premium" />
+  <keys prop="Description" type="monster" key="dailysupplies_remaintime" value="Próximo Suprimento Diário" />
+  <keys prop="Description" type="monster" key="premiumservice_title" value="Vantagens de Serviço Premium" />
+  <keys prop="Description" type="monster" key="premiumservice_active" value=" 1. 5 rodadas na Roleta Premium por dia; 1 rotação será liberada a cada 30 minutos&#xD;&#xA; 2. Um Bônus Premium&#xD;&#xA; &#xD;&#xA;40% EXP Personagem&#xD;&#xA;30% Consumo de pontos de doma&#xD;&#xA;10% Drop Rate&#xD;&#xA;20% Rare Drop&#xD;&#xA;20% Drop de gold&#xD;&#xA;30% Redução de taxas do Market&#xD;&#xA;10% Chance de Craft&#xD;&#xA;20% Fishing&#xD;&#xA;10% Tempering&#xD;&#xA;&#xD;&#xA; 3. Título Especial Premium&#xD;&#xA; 4. Passe para Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="premiumservice_deactive" value="Você não está usando o Serviço Premium. &lt;br&gt; &lt;Y_Y&gt; Clique no ícone para ir para a tela de compras do Serviço Premium. &lt;/Y_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_default" value="Recompensa de Evento" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_gmpayment" value="Recompensa de Evento" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_gmevent" value="Recompensa de Evento" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_timeevent" value="Recompensa de Evento de Log-in" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_pccafepayment" value="Recompensa de Log-in" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_coupon" value="Recompensa por Digitar Cupom de Site" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_achievementsreward" value="Recompensa de Conquista" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_levelup" value="Recompensa por Subir de Nível" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_mentoringlevelup" value="Recompensa de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_fellowfarmcoin" value="Recompensa de Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_mapItempayemnt" value="Recompensa de Entrada" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_infiniteranking" value="Recompensa de Classificação do Pináculo de Ellora" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_pkranking" value="Recompensa de Classificação de Duelo" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_battlefieldranking" value="Recompensas de Classificação de Campo de Batalha" />
+  <keys prop="Description" type="monster" key="ui_tooltip_rankarena_desc" value="Selecione esta opção par se mover para a Entrada do Campo de Batalha&lt;br&gt;Não é possível usar na Entrada do Campo de Batalha." />
+  <keys prop="Description" type="monster" key="shop_tab_box_magician" value="Bruxa" />
+  <keys prop="Description" type="monster" key="ui_lobbycharcreate_explain_origin_magician_1" value="A Bruxa usa seu conhecimento arcano ancestral para transformar o caos dentro dela em poderosa energia, que ela usa para conter seus desafortunados inimigos e lançar ataques devastadores." />
+  <keys prop="Description" type="monster" key="ui_lobbycharcreate_explain_difficulty_magician" value="Sua natureza caótica, um embate interno entre luz e ruína, alimente sua habilidade de conter e de atacar os inimigos. Somente aventureiros com grande força de vontade são capazes de usar tamanho poder por longas batalhas." />
+  <keys prop="Description" type="monster" key="ui_customize_class_magician" value="Bruxa" />
+  <keys prop="Description" type="monster" key="lobby_createmagician_btn" value="Pré-criação de Bruxa" />
+  <keys prop="Description" type="monster" key="ui_premium_dailysupplies_remaintime_desc" value=" &lt;O_Y&gt;Elluns são destruídos se você não os reivindicar antes do horário de reinicialização do final do dia, e vantagens podem ser usadas durante o tempo de serviço.&lt;/O_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_mentoring_guide_integration_title" value="Guia de Mentoria" />
+  <keys prop="Description" type="monster" key="ui_mentoring_guide_integration_desc" value="horas" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_ruby" value="Compra de Produto de Ellun" />
+  <keys prop="Description" type="monster" key="ui_mentoring_notice_desc" value="Você tem um pedido de mentoria.&lt;br&gt;Deseja ver agora?" />
+  <keys prop="Description" type="monster" key="ui_fellowgrow_finish_pccoingold" value="Deseja buscar seu familiar?&lt;br&gt;Você pode pagar a taxa de retirada em ouro." />
+  <keys prop="Description" type="monster" key="ui_fellowgrow_finish_pccoinrubygold" value="Deseja buscar seu familiar?&lt;br&gt;Você pode pagar a taxa de retirada em ouro ou Elluns." />
+  <keys prop="Description" type="monster" key="ui_fellowgrow_pcroombtn" value="Recuperação de Moedas" />
+  <keys prop="Description" type="monster" key="ui_cash100418" value="Dinheiro Pmang" />
+  <keys prop="Description" type="monster" key="ui_fellowlist_evolve" value="Evoluir Familiar" />
+  <keys prop="Description" type="monster" key="ui_btn_fellow_evolve" value="Evoluir" />
+  <keys prop="Description" type="monster" key="ui_btn_fellow_reevolve" value="Re-evoluir" />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_addfellow" value="Registre um familiar que gostaria de evoluir." />
+  <keys prop="Description" type="monster" key="ui_fellow_evlovelist_btn_notice" value="Familiares que podem ser evoluídos podem ser registrados&lt;br&gt;usando o botão na parte superior." />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_success" value="A evolução foi bem-sucedida." />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_fail" value="A evolução falhou." />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_grade" value="Classificação de Evolução" />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_cost" value="Custo de Evolução" />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_fail_warning" value="Alguns familiares serão destruídas se a evolução falhar." />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_ruby_protect" value="Reduza as chances de alguns materiais serem destruídas." />
+  <keys prop="Description" type="monster" key="ui_fellow_evolve_possible" value="Familiar que Podem ser Evoluídos" />
+  <keys prop="Description" type="monster" key="ui_fellow_evolve_info" value="Detalhes de Evolução" />
+  <keys prop="Description" type="monster" key="ui_fellow_evolve_detail_desc" value="Clique no ícone do familiar para verificar detalhes da Evolução." />
+  <keys prop="Description" type="monster" key="ui_fellow_evolve_acquire" value="Obter Familiar" />
+  <keys prop="Description" type="monster" key="ui_fellow_evolve_maxlevel" value="Nível Máximo" />
+  <keys prop="Description" type="monster" key="ui_fellow_evolve_cant_evolve_desc" value="Evolução não é possível para esta raridade." />
+  <keys prop="Description" type="monster" key="fellow_cash" value="Familiar Comum" />
+  <keys prop="Description" type="monster" key="fellow_c01" value="Moa" />
+  <keys prop="Description" type="monster" key="ui_fellow_evolve_impossible" value="Evolução não é possível para esta raridade." />
+  <keys prop="Description" type="monster" key="ui_fellow_evlove_ruby_protect_desc" value="Quando a evolução usando Elluns falhar, somente um máximo de 1 familiar será destruído." />
+  <keys prop="Description" type="monster" key="ui_leftcard_open_enable" value="Disponível para Abrir Contagem" />
+  <keys prop="Description" type="monster" key="ui_mulrandom_more" value="Sortear Novamente" />
+  <keys prop="Description" type="monster" key="ui_mulrandom_close" value="Fechar" />
+  <keys prop="Description" type="monster" key="ui_mulrandom_auto" value="Seleção Automática" />
+  <keys prop="Description" type="monster" key="ui_item_grow" value="Ferraria de Itens" />
+  <keys prop="Description" type="monster" key="ui_levelup_btn_ok" value="Subir de Nível" />
+  <keys prop="Description" type="monster" key="ui_levelup_Btn_mass_enrollment" value="Registro de Lote" />
+  <keys prop="Description" type="monster" key="all_item_grade" value="Todos" />
+  <keys prop="Description" type="monster" key="hero_item_grade" value="Abaixo de Heroico" />
+  <keys prop="Description" type="monster" key="rare_item_grade" value="Abaixo de Elite" />
+  <keys prop="Description" type="monster" key="normal_item_grade" value="Abaixo de Normal" />
+  <keys prop="Description" type="monster" key="ui_item_levelup_desc" value="Coloque o equipamento que você deseja aumentar de nível.&lt;br&gt;&lt;font color=&quot;#8d9a8e&quot;&gt;Quanto maior o nível do equipamento, mais ele irá melhorar.&lt;/font&gt; " />
+  <keys prop="Description" type="monster" key="ui_item_reinforce" value="Temperando Equipamento" />
+  <keys prop="Description" type="monster" key="ui_select_reinforcestone" value="Selecione uma Pedra de Têmpera." />
+  <keys prop="Description" type="monster" key="ui_target_item_max_level" value="Nível máximo de Temperamento alcançado." />
+  <keys prop="Description" type="monster" key="ui_insert_target_item" value="Coloque o item alvo." />
+  <keys prop="Description" type="monster" key="ui_renew_reinforce_btnok" value="Temperando Equipamento" />
+  <keys prop="Description" type="monster" key="ui_premium_cant_move_inventory" value="Não é possível resgatar mais de&lt;br&gt;2 itens de Serviço Premium por vez." />
+  <keys prop="Description" type="monster" key="ui_ancient_skill" value="[Ancient] Tipo de Habilidade" />
+  <keys prop="Description" type="monster" key="ui_clear_floor2" value="Campos de Treinamento de Hastan - Sala Mais Alta Concluída" />
+  <keys prop="Description" type="monster" key="ui_infinite_ranking_clear_floor2" value="O padrão para concluir é eliminar os monstros-chave." />
+  <keys prop="Description" type="monster" key="ui_infinitetower_result_title" value="Resultados do Pináculo de Ellora" />
+  <keys prop="Description" type="monster" key="ui_hastantraing_result_title" value="Campos de Treinamento de Hastan - Resultados" />
+  <keys prop="Description" type="monster" key="pet_c01" value="Pet - Comum" />
+  <keys prop="Description" type="monster" key="ui_gameoption_item_sysmsg" value="Exibe Mensagens de Aquisição de Item" />
+  <keys prop="Description" type="monster" key="ui_gameoption_fellow_sysmsg" value="Exibe Mensagens de Doma de Familiar" />
+  <keys prop="Description" type="monster" key="ui_itemcompose_title" value="Fusão de Equipamentos" />
+  <keys prop="Description" type="monster" key="ui_itemcompose_gold_title" value="Custo" />
+  <keys prop="Description" type="monster" key="ui_itemcompose_insert_mainslot" value="Coloque os materiais primários." />
+  <keys prop="Description" type="monster" key="ui_itemcompose_insert_subslot" value="Coloque os materiais adicionais." />
+  <keys prop="Description" type="monster" key="ui_composeinfodesc_desc" value="Os valores de Temperamento e as categorias de atributo permanecem os mesmos para os materiais primários." />
+  <keys prop="Description" type="monster" key="ui_title_itemcompose" value="Item Adquirido" />
+  <keys prop="Description" type="monster" key="ui_option_count" value="Contagem de Atributo" />
+  <keys prop="Description" type="monster" key="ui_slot_count" value="Contagem de Espaços" />
+  <keys prop="Description" type="monster" key="ui_item_count" value=" Peça" />
+  <keys prop="Description" type="monster" key="ui_itemreforge_title" value="Refinar Equipamento" />
+  <keys prop="Description" type="monster" key="ui_itemreforge_gold_title" value="Custo" />
+  <keys prop="Description" type="monster" key="ui_itemreforge_insert_mainslot" value="Coloque os materiais primários." />
+  <keys prop="Description" type="monster" key="ui_itemreforge_insert_subslot" value="Coloque os materiais adicionais." />
+  <keys prop="Description" type="monster" key="ui_reforgeinfodesc_desc" value="Os valores de Temperamento e as categorias de atributo permanecem os mesmos para os materiais primários." />
+  <keys prop="Description" type="monster" key="ui_title_itemreforge" value="Item Adquirido" />
+  <keys prop="Description" type="monster" key="uncommon_item_grade" value="Abaixo de Raro" />
+  <keys prop="Description" type="monster" key="ui_item_gradeup_title" value="Melhoria de Item" />
+  <keys prop="Description" type="monster" key="ui_item_gradeup_desc" value="Coloque o equipamento para melhorar.&lt;br&gt;&lt;font color=&quot;#8d9a8e&quot;&gt;Você pode melhorar suas chances de obter um item de alta qualidade usando uma Pedra de Melhoria.&lt;/font&gt; " />
+  <keys prop="Description" type="monster" key="ui_item_gradeup_sub_desc" value="Pedra de Melhoria de Arma" />
+  <keys prop="Description" type="monster" key="item_gradeup_result" value="Resultados de Melhoria" />
+  <keys prop="Description" type="monster" key="item_gradeup" value="Melhorar" />
+  <keys prop="Description" type="monster" key="random_option_count" value="Contagem de Atributo" />
+  <keys prop="Description" type="monster" key="sealed_fellow_slot_count" value="Espaço de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="ui_grade_up_ok" value="Melhorar" />
+  <keys prop="Description" type="monster" key="ui_reinforce_needgold" value="Custo" />
+  <keys prop="Description" type="monster" key="ui_reinforce_destroy" value="Proteção contra Destruição" />
+  <keys prop="Description" type="monster" key="ui_reinforce_reset" value="REDEFINIR" />
+  <keys prop="Description" type="monster" key="ui_reinforce_fail" value="FALHOU" />
+  <keys prop="Description" type="monster" key="ui_reinforce_succeess" value="SUCESSO" />
+  <keys prop="Description" type="monster" key="ui_reinforce_successrate" value="Chance de Sucesso" />
+  <keys prop="Description" type="monster" key="ui_game_systemmessage" value="Mensagem em Tela Cheia" />
+  <keys prop="Description" type="monster" key="getitemruleuncommon" value="Raro" />
+  <keys prop="Description" type="monster" key="ui_rare" value="Acima de Raro" />
+  <keys prop="Description" type="monster" key="ui_uncommon" value="Acima de Raro" />
+  <keys prop="Description" type="monster" key="ui_hero" value="Acima de Heroico" />
+  <keys prop="Description" type="monster" key="ui_legend" value="Acima de Lendário" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_btn_tooltip_levelup" value="segundos" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_btn_tooltip_compose" value="Fusão" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_btn_tooltip_gradeup" value="Melhorar" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_btn_tooltip_reinforce" value="Temperar" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_btn_tooltip_reforge" value="Refinar" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_levelup_enchantlevel_subitem" value="Se você usar este item como material, o item será consumido. Deseja continuar?" />
+  <keys prop="Description" type="monster" key="ui_item_levelup_title" value="Subir de Nível de Item" />
+  <keys prop="Description" type="monster" key="ui_need_cost" value="Custo" />
+  <keys prop="Description" type="monster" key="ui_tooltip_itemcompose_title" value="Fusão" />
+  <keys prop="Description" type="monster" key="ui_tooltip_itemreforge_title" value="Refinar" />
+  <keys prop="Description" type="monster" key="ui_tooltip_itemcompose_desc" value="Na fusão, é possível adquirir um item com classificação superior." />
+  <keys prop="Description" type="monster" key="ui_tooltip_itemreforge_desc" value="Ao aperfeiçoar, você pode adquirir um item de mesma classificação." />
+  <keys prop="Description" type="monster" key="ui_reinforce_successrate_perfect" value="1" />
+  <keys prop="Description" type="monster" key="ui_reinforce_successrate_zero" value="0" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_level" value="Nível" />
+  <keys prop="Description" type="monster" key="ui_itemgrow_max" value="Máx" />
+  <keys prop="Description" type="monster" key="ui_pccafe" value="Lan House" />
+  <keys prop="Description" type="monster" key="ui_using_roulette" value="Usando a roleta" />
+  <keys prop="Description" type="monster" key="ui_time_remaining_until_next_ticket" value="Tempo restante até o próximo bilhete" />
+  <keys prop="Description" type="monster" key="ui_remaining_ticket" value="Cupons restantes" />
+  <keys prop="Description" type="monster" key="ui_start" value="iniciar" />
+  <keys prop="Description" type="monster" key="ui_title_roulette" value="Roleta da Lan House" />
+  <keys prop="Description" type="monster" key="ui_tooltip_pccafe_item" value="Ao clicar no botão, você receberá os itens bônus de Lan House.&#xD;&#xA; Se o seu inventário estiver cheio, limpe seu inventário, para receber os itens. (Mínimo 2 espaços)&#xD;&#xA; &#xD;&#xA; Itens disponíveis&#xD;&#xA; &lt;UI_G&gt;- 10 poções de cenoura de 100% de vitalidade&#xD;&#xA; - Impulsionador de PCoelhinho (3 horas)&lt;/UI_G&gt;&#xD;&#xA;&lt;Y_Y&gt;※ Atenção: 10 poções de cenoura de 100% de vitalidade é o número máximo que você pode ter em sua bolsa. Se você tiver mais que uma poção, você receberá menos que 10.&lt;/Y_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_title_roulette_desc" value="Informações sobre benefícios da Lan House" />
+  <keys prop="Description" type="monster" key="ui_premiumbox_disable" value="Eu não estou usando uma Lan House.&#xD;&#xA; &lt;Y_Y&gt;Clique no ícone para acessar os benefícios da Lan House.&lt;/Y_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_premiumbox_enable" value="Quando o ícone desaparece, você pode receber o pacote de Ellun do PCoelinho.&lt;br&gt;&lt;br&gt;O pacote de Ellun do PCoelinho é enviado ao Armazém de Ellora.&#xD;&#xA; &lt;Y_Y&gt;Clique no ícone para ver os benefícios da Lan House.&lt;/Y_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_tooltip_pccafe_item_disable" value="&lt;G_Y&gt;É possível receber itens novamente após às 4:00 do dia seguinte&lt;G_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_pccafe_only" value="Exclusivo para Lan House" />
+  <keys prop="Description" type="monster" key="ui_tooltip_ruolette" value="Roleta estará disponível a partir de 31 de maio." />
+  <keys prop="Description" type="monster" key="shop_tab_box_coin" value="Troca de Moedas" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_fellowpccafeslot_1" value="Pet de Lan House" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_fellowpccafeslot_2" value="Familiar Público de Lan House" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_fellowpccafeslot_3" value="Familiar de Solo de Lan House" />
+  <keys prop="Description" type="monster" key="ui_shortcut_fellowpccafeslot" value="Tecla de atalho do Familiar da Lan House" />
+  <keys prop="Description" type="monster" key="ui_pccafe_roulette_close_msg" value="A roleta está de volta. Tem certeza de que deseja sair?" />
+  <keys prop="Description" type="monster" key="ui_tooltip_help_url_open" value="Clique para abrir o guia do jogo na página oficial." />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_25" value="Atalho 25" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_26" value="Atalho 26" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_27" value="Atalho 27" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_28" value="Atalho 28" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_29" value="Atalho 29" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_30" value="Atalho 30" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_31" value="Atalho 31" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_basicquickslot_32" value="Atalho 32" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_extendquickslot_13" value="Espaço Expandido 13" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_extendquickslot_14" value="Espaço Expandido 14" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_extendquickslot_15" value="Espaço Expandido 15" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_extendquickslot_16" value="Espaço Expandido 16" />
+  <keys prop="Description" type="monster" key="ui_gamemenu_game_option" value="Configurações do Jogo" />
+  <keys prop="Description" type="monster" key="ui_meter" value="m" />
+  <keys prop="Description" type="monster" key="ui_gameoption_actionmode_normal" value="Padrão" />
+  <keys prop="Description" type="monster" key="ui_tooltip_action_normalmode" value="Controle o cursor independentemente da câmera para obter uma experiência de MMO tradicional." />
+  <keys prop="Description" type="monster" key="ui_gameoption_actionmode_action" value="Ação (Travamento)" />
+  <keys prop="Description" type="monster" key="ui_tooltip_action_actionmode" value="Seus ataques sempre atacam quem está em sua mira, sem assistência." />
+  <keys prop="Description" type="monster" key="ui_gameoption_actionmode_no_fixtarget" value="Ação (Mira Livre)" />
+  <keys prop="Description" type="monster" key="ui_tooltip_action_actionmode_no_fixtarget" value="Permite câmera e mira livres para obter uma experiência de RPG de ação." />
+  <keys prop="Description" type="monster" key="ui_game_keycontrol" value="Modo de Controle" />
+  <keys prop="Description" type="monster" key="ui_title_action_select" value="Modo de Controle" />
+  <keys prop="Description" type="monster" key="ui_title_normalmode" value="Modo Padrão" />
+  <keys prop="Description" type="monster" key="ui_title_actionmode" value="Modo de Ação" />
+  <keys prop="Description" type="monster" key="ui_normalmode_explain" value="Modo de controle clássico de MMORPG. Escolha um alvo com o seu cursor e ative habilidades com as teclas de atalho." />
+  <keys prop="Description" type="monster" key="ui_actionmode_explain" value="Permite aparência livre e mira para um modo de controle acionado por ação. Use os botões do mouse ou teclas de atalho para transmitir habilidades." />
+  <keys prop="Description" type="monster" key="ui_recommend_class" value="Classes Recomendadas" />
+  <keys prop="Description" type="monster" key="ui_btn_normal_selection" value="Selecionar Modo Padrão" />
+  <keys prop="Description" type="monster" key="ui_btn_action_selection" value="Selecione Modo de Ação" />
+  <keys prop="Description" type="monster" key="ui_mode_change_explain" value="É possível alterar o modo de controle a qualquer momento nas configurações." />
+  <keys prop="Description" type="monster" key="ui_lobby_title_movielist" value="Trailers de Icarus" />
+  <keys prop="Description" type="monster" key="ui_lobby_btn_movielist" value="Trailers" />
+  <keys prop="Description" type="monster" key="ui_btn_shuffle" value="Reembaralhar" />
+  <keys prop="Description" type="monster" key="ui_rbox_shuffle_msg" value="Deseja reembaralhar?" />
+  <keys prop="Description" type="monster" key="ui_timeevent_title" value="Suporte especial todos os dias! Não perca!" />
+  <keys prop="Description" type="monster" key="ui_timeevent_desc" value="Receba os prêmios de login e caixa de vitalidade. Entre todos os dias para ganhar mais!" />
+  <keys prop="Description" type="monster" key="ui_logout_nextday" value="Recompensa de Login de Amanhã" />
+  <keys prop="Description" type="monster" key="ui_logout_today" value="Recompensa de Login de Hoje" />
+  <keys prop="Description" type="monster" key="ui_tooltip_attendance_title" value="Recompensa de Check-in" />
+  <keys prop="Description" type="monster" key="ui_tooltip_vitality_title" value="Recompensa de Caixa Vital" />
+  <keys prop="Description" type="monster" key="ui_tooltip_special_attendance_title" value="Recompensa de Check-in Especial" />
+  <keys prop="Description" type="monster" key="ui_gamemenu_daily_achievement" value="Conquistas" />
+  <keys prop="Description" type="monster" key="ui_gameoption_community_chatemotion" value="Emoções no Bate-papo" />
+  <keys prop="Description" type="monster" key="ui_tooltip_set_chatemotion" value="Selecione esta opção para que, ao digitar certas palavras na janela de bate-papo, seu personagem demonstre uma emoção correspondente." />
+  <keys prop="Description" type="monster" key="tooltip_title_movielist_1" value="Trailer de lançamento de Icarus" />
+  <keys prop="Description" type="monster" key="tooltip_time_movielist_1" value="2 min 20 seg" />
+  <keys prop="Description" type="monster" key="tooltip_desc_movielist_1" value="O incessante combate do herói contra Salant, o descendente do Deus da Ruína, e tudo o que ele representa é uma jornada épica para salvar a Princesa Lania e o reino de Hakanas." />
+  <keys prop="Description" type="monster" key="tooltip_title_movielist_2" value="Familiares de Hakanas" />
+  <keys prop="Description" type="monster" key="tooltip_time_movielist_2" value="1 min 27 seg" />
+  <keys prop="Description" type="monster" key="tooltip_desc_movielist_2" value="O companheiro do aventureiro vem em todos os formatos, tamanhos e modelos, mas o vínculo singular entre proprietário e familiar é o mais impressionante de todos." />
+  <keys prop="Description" type="monster" key="tooltip_title_movielist_3" value="Combate de Titã Lendário" />
+  <keys prop="Description" type="monster" key="tooltip_time_movielist_3" value="1 min 19 seg" />
+  <keys prop="Description" type="monster" key="tooltip_desc_movielist_3" value="A batalha contra os Titãs, as mais formidáveis criações do Deus da Ruína, é o teste definitivo da força e vontade do herói em superar a escuridão!" />
+  <keys prop="Description" type="monster" key="tooltip_title_movielist_4" value="Batalhas PvP em larga escala" />
+  <keys prop="Description" type="monster" key="tooltip_time_movielist_4" value="1 min 31 seg" />
+  <keys prop="Description" type="monster" key="tooltip_desc_movielist_4" value="O combate PvP em larga escala exige heróis de alto calibre com habilidades afiadas e um desejo de conquista que rivalize com o dos próprios Titãs." />
+  <keys prop="Description" type="monster" key="tooltip_title_movielist_5" value="Combate Aéreo Incomparável" />
+  <keys prop="Description" type="monster" key="tooltip_time_movielist_5" value="1 min 1 seg" />
+  <keys prop="Description" type="monster" key="tooltip_desc_movielist_5" value="A emoção do combate aéreo oferece aos aventureiros uma oportunidade única para defender Hakanas, enquanto que montarias de tirar o fôlego se provam o grande aliado do herói." />
+  <keys prop="Description" type="monster" key="tooltip_title_movielist_6" value="Permite aparência livre e mira para um modo de controle acionado por ação. Use os botões do mouse ou teclas de atalho para transmitir habilidades." />
+  <keys prop="Description" type="monster" key="tooltip_time_movielist_6" value="Uso de vários itens" />
+  <keys prop="Description" type="monster" key="tooltip_desc_movielist_6" value="horas" />
+  <keys prop="Description" type="monster" key="ui_cg_gauge_text_before_awaken" value="Quando você atingir o nível 70 e concluir a missão Chamado do Herói, o medidor de transformação será ativado, e você poderá lançar Evolução do Despertar." />
+  <keys prop="Description" type="monster" key="ui_cg_gauge_text_after_awaken" value="Você pode usar a energia no medidor para lançar Evolução do Despertar para Transformação. Durante o Despertar, você poderá usar combos de habilidades para cada classe. O medidor restaura 2 a cada 5 por ataque bem-sucedido." />
+  <keys prop="Description" type="monster" key="ui_customize_itemgroup_muscle" value="Músculos" />
+  <keys prop="Description" type="monster" key="muscle" value="Músculos" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_combat_14" value="Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="ui_awakenskill_edittitle" value="Espaço de Habilidade Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="ui_label_option_shortcutkey_actionmode" value="Definir Modo de Controle" />
+  <keys prop="Description" type="monster" key="ui_tooltip_set_autoskillcontrol" value="Controla a opção de autoataque após o uso de uma habilidade." />
+  <keys prop="Description" type="monster" key="ui_gameoption_camera_dialogeffect" value="Zoom de Diálogo" />
+  <keys prop="Description" type="monster" key="ui_tooltip_set_dislogeffect" value="Faz zoom no NPC quando entra em diálogo. " />
+  <keys prop="Description" type="monster" key="ui_guild_appoint_knight" value="Cavaleiros Nomeados" />
+  <keys prop="Description" type="monster" key="ui_guild_appoint_dismissal" value="Nomear/Dispensar" />
+  <keys prop="Description" type="monster" key="ui_tab_guildknight" value="Cavaleiros" />
+  <keys prop="Description" type="monster" key="ui_appoint" value="Nomear" />
+  <keys prop="Description" type="monster" key="ui_dismissal" value="Dispensar" />
+  <keys prop="Description" type="monster" key="ui_character_server_move_state" value="Você está mudando de servidor." />
+  <keys prop="Description" type="monster" key="ui_title_server_change" value="Mudar de servidor" />
+  <keys prop="Description" type="monster" key="shop_tab_other_item" value="Itens Diversos" />
+  <keys prop="Description" type="monster" key="shop_tab_golden_bass" value="Loja Robalo-Dourado" />
+  <keys prop="Description" type="monster" key="shop_tab_roulette" value="Roleta" />
+  <keys prop="Description" type="monster" key="shop_tab_ica" value="Dia de Celebração Icariano" />
+  <keys prop="Description" type="monster" key="ui_arena_killinfo" value="Informações de Abate de Campo de Batalha" />
+  <keys prop="Description" type="monster" key="ui_tab_guildmasterskill" value="Habilidade de Líder de Guilda" />
+  <keys prop="Description" type="monster" key="ui_cost" value="segundos" />
+  <keys prop="Description" type="monster" key="ui_guildranking_title" value="Classificação da Guilda" />
+  <keys prop="Description" type="monster" key="ui_spotbattle_penalty_msg" value="Você se registrou para o cerco anterior, mas&lt;br&gt;não participou. Portanto, você sofreu uma &lt;font color=&quot;#B28a0e&quot;&gt;penalidade &lt;/font&gt;.&lt;br&gt;&lt;font color=&quot;#B28a0e&quot;&gt;Você não pode participar deste cerco.&lt;/font&gt; " />
+  <keys prop="Description" type="monster" key="ui_spotbattle_can_not_apply_msg" value="Você não pode se registrar para o cerco pelos motivos a seguir.&lt;br&gt;&lt;font color=&quot;#B28a0e&quot;&gt;- Menos de 5 cavaleiros&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#B28a0e&quot;&gt;- Número máximo de guildas participantes alcançado (30)&lt;/font&gt; " />
+  <keys prop="Description" type="monster" key="shop_tab_temain" value="Temmajin" />
+  <keys prop="Description" type="monster" key="ui_enter" value="Entrar" />
+  <keys prop="Description" type="monster" key="ui_not_occupied_guild" value="Sem Guildas Ocupadas" />
+  <keys prop="Description" type="monster" key="Spot_f02_001" value="Base do Bosque de Kell" />
+  <keys prop="Description" type="monster" key="Spot_f02_002" value="Base do Rugido" />
+  <keys prop="Description" type="monster" key="Spot_f02_003" value="Base do Dragão" />
+  <keys prop="Description" type="monster" key="Spot_f02_004" value="Base de Zadaran" />
+  <keys prop="Description" type="monster" key="Spot_f02_005" value="Base de Sansupus" />
+  <keys prop="Description" type="monster" key="Post_f02_101" value="Fazendas do Bosque de Kell" />
+  <keys prop="Description" type="monster" key="Post_f02_102" value="Lago Morineh" />
+  <keys prop="Description" type="monster" key="Post_f02_103" value="Passagem do Dragão Guardião" />
+  <keys prop="Description" type="monster" key="Post_f02_201" value="Cemitério" />
+  <keys prop="Description" type="monster" key="Post_f02_202" value="Encostas" />
+  <keys prop="Description" type="monster" key="Post_f02_203" value="Colina do Moleiro" />
+  <keys prop="Description" type="monster" key="Post_f02_301" value="Costa da Divindade" />
+  <keys prop="Description" type="monster" key="Post_f02_302" value="Pesqueiro da Costa da Divindade" />
+  <keys prop="Description" type="monster" key="Post_f02_303" value="Caldeira Quebrada" />
+  <keys prop="Description" type="monster" key="Post_f02_401" value="Zadaran" />
+  <keys prop="Description" type="monster" key="Post_f02_402" value="Acampamento de Zadaran" />
+  <keys prop="Description" type="monster" key="Post_f02_403" value="Bosque Dourado" />
+  <keys prop="Description" type="monster" key="Post_f02_501" value="Rancho de Sansupus" />
+  <keys prop="Description" type="monster" key="Post_f02_502" value="Ruínas Abandonadas" />
+  <keys prop="Description" type="monster" key="Post_f02_503" value="Lago Morineh" />
+  <keys prop="Description" type="monster" key="ui_under attack" value="Sob Ataque" />
+  <keys prop="Description" type="monster" key="ui_title_fellowinfo_and_ranking" value="Familiar e Classificação" />
+  <keys prop="Description" type="monster" key="dungeon_grade_info" value="Informações da Masmorra" />
+  <keys prop="Description" type="monster" key="dungeon_recommand_info" value="Uso recomendado" />
+  <keys prop="Description" type="monster" key="dungeon_grade_recommand_equip" value="Equipamento" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_spotbattleapplication" value="Recompensa de Participação de Cerco" />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_spotbattleoccupy" value="Recompensa de Ocupação de Cerco" />
+  <keys prop="Description" type="monster" key="shop_tab_temain_recipe" value="Receita de Temmajin" />
+  <keys prop="Description" type="monster" key="shop_tab_alsas_recipe" value="Receita Alsaciana" />
+  <keys prop="Description" type="monster" key="shop_tab_exchange_40" value="Nível 40" />
+  <keys prop="Description" type="monster" key="shop_tab_exchange_50" value="Nível 50" />
+  <keys prop="Description" type="monster" key="shop_tab_exchange_60" value="Nível 60" />
+  <keys prop="Description" type="monster" key="spotbattle_information_1" value="&lt;font color=&quot;#Ff0000&quot;&gt;* Se você não participar, não poderá resgatar essa recompensa, mesmo que se registre.&lt;br&gt;(Recompensas: Verifique o ícone de cerco à esquerda)&lt;/font&gt;&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_2" value="segundos" />
+  <keys prop="Description" type="monster" key="spotbattle_information_3" value="2. Localização: Terras Altas de Hakanas - Canal PvP&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_4" value="3. Máximo de Guildas Participantes: 30&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_5" value="4. Requisito de Registo: Uma guilda com 5-10 cavaleiros&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_6" value="5.&lt;font color=&quot;#Ffff00&quot;&gt;Condições de Vitória&lt;/font&gt;&lt;br&gt; 5-1. Ocupe pelo menos 2 Pedras de Mana dentro de uma base no final do cerco.&lt;br&gt; 5-2. Se a condição acima não for cumprida, a vitória será concedida para o lado com maior tempo de ocupação cumulativo.&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_7" value="&lt;font color=&quot;#Ffff00&quot;&gt;* Tempo de Ocupação Cumulativo&lt;/font&gt;: Este é o tempo acumulado quando uma Pedra de Mana é ocupado por cada base.&lt;br&gt;(A soma é proporcional ao número de Pedras de Mana ocupadas dentro da base).&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_8" value="&lt;font color=&quot;#Ffff00&quot;&gt;Dica. Forme um Raide com outros cavaleiros, é altamente recomendado!&lt;/font&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_9" value="  &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="spotbattle_information_10" value="  &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spotbattle_observer" value="No Modo Espectador" />
+  <keys prop="Description" type="monster" key="shop_tab_token" value="Token de Luz Solar" />
+  <keys prop="Description" type="monster" key="shop_tab_gold" value="Ouro" />
+  <keys prop="Description" type="monster" key="ui_order" value="Ordem" />
+  <keys prop="Description" type="monster" key="ui_guildrangking_noresult" value="Sem resultados." />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_party_6" value="Mirar Membro do Grupo 5" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_party_7" value="Mirar Membro do Grupo 6" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_party_8" value="Mirar Membro do Grupo 7" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_party_9" value="Mirar Membro do Grupo 8" />
+  <keys prop="Description" type="monster" key="ui_gameoption_shortcut_party_10" value="Mirar Membro do Grupo 9" />
+  <keys prop="Description" type="monster" key="ui_equip_sealedfellow_succession" value="Herdar Pedra-Lacre Equipada" />
+  <keys prop="Description" type="monster" key="ui_sealedfellow_succession" value="Pedra-Lacre Herdada" />
+  <keys prop="Description" type="monster" key="ui_charnamechange_title" value="Disclaimer" />
+  <keys prop="Description" type="monster" key="ui_charnamechange_textline" value="1. The character name displayed on crafted items before the name change will still display the name that was used at the time of crafting.&#xD;&#xA;2. Changing character names will be be unavailable for a period of &lt;Y_Y&gt;two (2) months&lt;/Y_Y&gt; after using the service.&#xD;&#xA;3. The character name you had before the change &lt;Y_Y&gt;cannot be used for two (2) months&lt;/Y_Y&gt;.&#xD;&#xA;4. &lt;R_Y&gt;Your character will be moved to the lobby when you request a character name change.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_charnamechange_description" value="Digite o nome para o qual você gostaria de mudar." />
+  <keys prop="Description" type="monster" key="ui_charnamechange_wintitle" value="Alterar Nome de Personagem" />
+  <keys prop="Description" type="monster" key="ui_charnamechange_btn_duplication" value="Verify" />
+  <keys prop="Description" type="monster" key="ui_charnamechange_btn_change" value="Okay" />
+  <keys prop="Description" type="monster" key="shop_tab_ancient" value="Zelnaris" />
+  <keys prop="Description" type="monster" key="shop_tab_shop_tab_ancientrecipe" value="Receita de Zelnaris" />
+  <keys prop="Description" type="monster" key="ui_spotbattle_minimap_timer_description" value=" &lt;O_Y&gt;Elluns são destruídos se não forem resgatados antes do horário de redefinição diário, e vantagens podem ser usadas durante o tempo de serviço.&lt;/O_Y&gt;" />
+  <keys prop="Description" type="monster" key="shop_tab_shop_tab_ancientrecipe2" value="Receita de Sangue Frio" />
+  <keys prop="Description" type="monster" key="ui_apply" value="Aceitar" />
+  <keys prop="Description" type="monster" key="ui_refuse" value="Recusar" />
+  <keys prop="Description" type="monster" key="ui_guild_promote_type_normal" value="Comum" />
+  <keys prop="Description" type="monster" key="ui_guild_promote_type_pvp" value="PvP" />
+  <keys prop="Description" type="monster" key="ui_guild_promote_type_pve" value="JxI" />
+  <keys prop="Description" type="monster" key="ui_guild_promote_type_friendship" value="Social" />
+  <keys prop="Description" type="monster" key="ui_guild_promote_type_all" value="Todos" />
+  <keys prop="Description" type="monster" key="ui_title_guild_join_apply" value="Enviar Inscrição" />
+  <keys prop="Description" type="monster" key="ui_title_guild_join_cancel" value="Cancelar Inscrição" />
+  <keys prop="Description" type="monster" key="ui_title_guild_promote" value="Promover Guilda" />
+  <keys prop="Description" type="monster" key="ui_title_guild_promote_delete" value="Excluir Publicação" />
+  <keys prop="Description" type="monster" key="ui_guild_join_manager" value="Gerenciar Inscrições" />
+  <keys prop="Description" type="monster" key="ui_guild_join_stand" value="Suspender Inscrições" />
+  <keys prop="Description" type="monster" key="ui_title_guild_comunity" value="Comunidade da Guilda" />
+  <keys prop="Description" type="monster" key="ui_guild_promote_detail_info" value="Detalhes" />
+  <keys prop="Description" type="monster" key="ui_guild_promote_initilize_notify" value="Você pode se inscrever para uma guilda por meio d publicação promocional da guilda." />
+  <keys prop="Description" type="monster" key="ui_btn_guild_notice_regist" value="Enviar Publicação" />
+  <keys prop="Description" type="monster" key="ui_btn_guild_notice_delete" value="Excluir Publicação" />
+  <keys prop="Description" type="monster" key="ui_all_knight_summon" value="Convocar Todos Cavaleiros" />
+  <keys prop="Description" type="monster" key="ui_all_knight_summon_request" value="Solicitar Convocação para Todos Cavaleiros" />
+  <keys prop="Description" type="monster" key="ui_btn_guild_join_apply" value="Enviar Publicação" />
+  <keys prop="Description" type="monster" key="ui_btn_request_guild_join" value="Enviar Inscrição" />
+  <keys prop="Description" type="monster" key="ui_achievements_spotbattle" value="Cerco" />
+  <keys prop="Description" type="monster" key="ui_sealedfellow_succession_check_tooltip" value="Selecione para permitir que a Pedra-Lacre no equipamento de material seja herdada. (O Cristal da Alma não pode ser herdado.)&lt;br&gt;A taxa para herdar a Pedra-Lacre é separada." />
+  <keys prop="Description" type="monster" key="ui_spot_reward_0_0" value="7x Moeda MacBain&lt;br&gt;7x Fragmento Mágico de Salant&lt;br&gt;6x Pedra de Mana Destrutiva&lt;br&gt;Medalhão Honorável (2 dias)&lt;br&gt;3x Passe de Entrada da Mina do Bosque de Kell&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_0_1" value="&lt;font color=&quot;#Ff0000&quot;&gt;Benefícios de Ocupação de Base&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#Ffff00&quot;&gt;Benefícios para Todos Membros da Guilda Ocupante&lt;/font&gt;&lt;br&gt;Cidade Utilizável: Bosque de Kell&lt;br&gt;NPC Utilizável: Yunggir&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_0_2" value="Mina Utilizável: Mina do Bosque de Kell&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_1_0" value="5x Moeda MacBain&lt;br&gt;4x Fragmento Mágico de Salant&lt;br&gt;4x Pedra de Mana Destrutiva&lt;br&gt;3x Passe de Entrada da Mina do Rugido&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_1_1" value="&lt;font color=&quot;#Ff0000&quot;&gt;Benefícios de Ocupação de Base&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#Ffff00&quot;&gt;Benefícios para Todos Membros da Guilda Ocupante&lt;/font&gt;&lt;br&gt;Cidade Utilizável: Acampamento nas Encostas&lt;br&gt;NPC Utilizável: Kyusan&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_1_2" value="Mina Utilizável: Mina do Rugido&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_2_0" value="5x Moeda MacBain&lt;br&gt;4x Fragmento Mágico de Salant&lt;br&gt;4x Pedra de Mana Destrutiva&lt;br&gt;3x Passe de Entrada da Mina de Zadaran&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_2_1" value="&lt;font color=&quot;#Ff0000&quot;&gt;Benefícios de Ocupação de Base&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#Ffff00&quot;&gt;Benefícios para Todos Membros da Guilda Ocupante&lt;/font&gt;&lt;br&gt;Cidade Utilizável: Acampamento de Zadaran&lt;br&gt;NPC Utilizável: Henjins&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_spot_reward_2_2" value="Mina Utilizável: Mina de Zadaran&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="ui_occupied" value="Ocupado(a)" />
+  <keys prop="Description" type="monster" key="ui_participation_tooltip" value="Entregue a cavaleiros que participaram do cerco.&lt;br&gt;&lt;R_Y&gt;Se você não participar, não poderá resgatar essa recompensa, mesmo que se registre.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_spotbattle_start_time" value="Horário de Início do Cerco" />
+  <keys prop="Description" type="monster" key="ui_day_of_the_week" value="Dia" />
+  <keys prop="Description" type="monster" key="ui_occupy_success" value="Ocupação Bem-sucedida" />
+  <keys prop="Description" type="monster" key="ui_guild_occupy" value="Ocupação de Guilda" />
+  <keys prop="Description" type="monster" key="ui_no_occupy" value="Território Desocupado" />
+  <keys prop="Description" type="monster" key="ui_score" value="Ponto" />
+  <keys prop="Description" type="monster" key="shop_tab_Newrecipe" value="Nova Receita" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge" value="Anexar Alma" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_title" value="Converter Energia" />
+  <keys prop="Description" type="monster" key="shop_tab_newitem" value="Novo Item" />
+  <keys prop="Description" type="monster" key="ui_guild_joinlist_whisper" value="Sussurrar" />
+  <keys prop="Description" type="monster" key="ui_guildranking_point" value="&lt;UI_G&gt;hora(s) antes&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="ui_guild_auto_join_apply" value="Aceitar Registro Automático" />
+  <keys prop="Description" type="monster" key="ui_tooltip_need_tamingitem" value="Condição 1" />
+  <keys prop="Description" type="monster" key="ui_tooltip_state_taminghp" value="Condição 2" />
+  <keys prop="Description" type="monster" key="ui_tooltip_state_taminghp_desc" value="Abaixo de Doma Possível " />
+  <keys prop="Description" type="monster" key="ui_tooltip_cant_taming" value="Não é possível domar" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_pack_btn" value="Investida" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_weapon_btn" value="Equipar Arma" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_auto_title" value="Auto Equipar Arma" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_pack_desc" value="Com isso, o pacote comprimido será melhorado. Deseja continuar?" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_autolevel_0" value="Estágio de Alma 0" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_autolevel_1" value="Estágio de Alma 1" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_autolevel_2" value="Estágio de Alma 2" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_autolevel_3" value="Estágio de Alma 3" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_autolevel_4" value="Estágio de Alma 4" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_autolevel_5" value="Estágio de Alma 5" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_reinforce_warning_desc" value="Você selecionou uma Pedra-Lacre de Familiar +6. Deseja continuar?" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_weapon_desc" value="Item Atualmente Equipado" />
+  <keys prop="Description" type="monster" key="ui_tooltip_hp_state" value="Vida" />
+  <keys prop="Description" type="monster" key="ui_fellow_soul_charge_helper_btn" value="Ajuda" />
+  <keys prop="Description" type="monster" key="ui_quickslot_soulcharge_edittitle" value="Bomba Lacrada de Familiar" />
+  <keys prop="Description" type="monster" key="ui_achievements_secretroom" value="Tower of the Unknown" />
+  <keys prop="Description" type="monster" key="ui_death_title" value="Wait for automatic exit" />
+  <keys prop="Description" type="monster" key="ui_death_msg" value="The surviving party members are automatically revived when cleared, and the normal respawn button is clicked to move to the dungeon entrance." />
+  <keys prop="Description" type="monster" key="ui_dungeon_out_msg" value="Exit" />
+  <keys prop="Description" type="monster" key="ui_partytower_requestexit_msg" value="&lt;font color=&quot;#ff3636&quot;&gt;Warning!&lt;/font&gt;&lt;br&gt;If you leave, you will not receive your reward." />
+  <keys prop="Description" type="monster" key="ui_tooltip_soulcharge_weapon" value="When the button is clicked while the gauge is charged, the &lt;br&gt;worn &lt;UI_G&gt;main weapon&lt;/UI_G&gt; is charged with a seal round." />
+  <keys prop="Description" type="monster" key="ui_tooltip_soulcharge_upgrade" value="button, gold or Ellun is consumed to increase the maximum capacity of the charge pack." />
+  <keys prop="Description" type="monster" key="ui_death_msg_solo" value="The surviving party members are automatically revived when cleared, and the normal respawn button is clicked to move to the dungeon entrance." />
+  <keys prop="Description" type="monster" key="ui_ousidestorage_reward_sub_dungeonstagereward" value="Recompensa de limpeza da torre desconhecida" />
+  <keys prop="Description" type="monster" key="ui_party_dungeon_reward_party" value="Reward for party of 3 people" />
+  <keys prop="Description" type="monster" key="ui_party_dungeon_reward_party_explain" value="The three-person party reward has been delivered to Ellora's inventory!" />
+  <keys prop="Description" type="monster" key="ui_party_dungeon_reward_solo" value="Reward for a party of 1 or 2 people" />
+  <keys prop="Description" type="monster" key="ui_party_dungeon_reward_solo_explain" value="The party reward for 1 / 2 has been delivered to Ellora's inventory!" />
+  <keys prop="Description" type="monster" key="ui_difficulty" value="Nível de Dificuldade #" />
+  <keys prop="Description" type="monster" key="ui_attendancecheck_dicesystem" value="Lista" />
+  <keys prop="Description" type="monster" key="ui_dicesystem_normall_reward_title" value="Recompensa de conclusão" />
+  <keys prop="Description" type="monster" key="ui_dicesystem_special_reward_title" value="Recompensa Especial" />
+  <keys prop="Description" type="monster" key="ui_btn_dicesystem_normal" value="Roll Dice" />
+  <keys prop="Description" type="monster" key="ui_btn_dicesystem_free" value="Free Roll" />
+  <keys prop="Description" type="monster" key="ui_msg_dicesystem_disable" value="Você pode ganhar dados bônus completando missões diárias." />
+  <keys prop="Description" type="monster" key="ui_msg_dicesystem_move_front" value="Casas a frente" />
+  <keys prop="Description" type="monster" key="ui_msg_dicesystem_move_back" value="Espaço" />
+  <keys prop="Description" type="monster" key="ui_msg_dicesystem_move_jump" value="Pule" />
+  <keys prop="Description" type="monster" key="ui_msg_dicesystem_random" value="Random reward" />
+  <keys prop="Description" type="monster" key="ui_msg_dicesystem_plus_dice" value="Dados bônus" />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_normal_finish" value="Quanto mais partidas você jogar, mais recompensas de conclusão pode ganhar. Verifique o número atual de partidas concluídas na borda." />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_special_finish" value="Você pode receber uma recompensa de bônus quando receber todas as recompensas de conclusão do jogo." />
+  <keys prop="Description" type="monster" key="ui_text_dicesystem_count_1" value="1 time" />
+  <keys prop="Description" type="monster" key="ui_text_dicesystem_count_2" value="2 times" />
+  <keys prop="Description" type="monster" key="ui_text_dicesystem_count_3" value="3 times" />
+  <keys prop="Description" type="monster" key="ui_text_dicesystem_count_4" value="4 times" />
+  <keys prop="Description" type="monster" key="ui_text_dicesystem_count_5" value="5 times" />
+  <keys prop="Description" type="monster" key="ui_text_dicesystem_count_6" value="6 times" />
+  <keys prop="Description" type="monster" key="ui_text_dicesystem_count_7" value="7 times" />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_type_start" value="Esta é a posição inicial do jogo de dados." />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_type_jump" value="Move mais uma vez tanto quanto o valor exibido na chegada." />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_type_back" value="Volta 4 espaços." />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_type_random" value="Obtido selecionando uma recompensa aleatória." />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_type_bouns" value="Obtenha 1 dado." />
+  <keys prop="Description" type="monster" key="ui_tooltip_dicesystem_event_period" value="event period&#xD;&#xA;&lt;MAP_Y&gt;From January 30, 2019 to February 13, 2019&lt;/MAP_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_title_auto_open" value="Uso de vários itens" />
+  <keys prop="Description" type="monster" key="ui_dragonhideout_result_title" value="Resultado de Dragon God's Hideout" />
+  <keys prop="Description" type="monster" key="ui_infinitetower_out_msg" value="Todos os membros do partido saem do calaboço e o calaboço é destruído. Você gostaria de sair da calaboça?" />
+  <keys prop="Description" type="monster" key="shop_tab_month_1" value="Janeiro" />
+  <keys prop="Description" type="monster" key="shop_tab_month_2" value="Fevereiro" />
+  <keys prop="Description" type="monster" key="shop_tab_month_3" value="Março" />
+  <keys prop="Description" type="monster" key="shop_tab_month_4" value="Abril" />
+  <keys prop="Description" type="monster" key="shop_tab_month_5" value="Maio" />
+  <keys prop="Description" type="monster" key="shop_tab_month_6" value="Junho" />
+  <keys prop="Description" type="monster" key="shop_tab_month_7" value="Julho" />
+  <keys prop="Description" type="monster" key="shop_tab_month_8" value="Agosto" />
+  <keys prop="Description" type="monster" key="shop_tab_month_9" value="Setembro" />
+  <keys prop="Description" type="monster" key="shop_tab_month_10" value="Outubro" />
+  <keys prop="Description" type="monster" key="shop_tab_month_11" value="Novembro" />
+  <keys prop="Description" type="monster" key="shop_tab_month_12" value="Dezembro" />
+  <keys prop="Description" type="monster" key="shop_tab_ribini_exchange1" value="Exchange Silver coins" />
+  <keys prop="Description" type="monster" key="shop_tab_ribini_exchange2" value="Rabini fairy tale exchange" />
+  <keys prop="Description" type="monster" key="shop_tab_acheron_exchange" value="Stygea Coins" />
+  <keys prop="Description" type="monster" key="shop_tab_exjaran_exchange1" value="Exchange Exarahn Coins" />
+  <keys prop="Description" type="monster" key="shop_tab_exjaran_exchange2" value="Exchange Exarahn Coins" />
+  <keys prop="Description" type="monster" key="shop_tab_special" value="Special items" />
+  <keys prop="Description" type="monster" key="shop_tab_ruby_recipe" value="Ellun Recipe" />
+  <keys prop="Description" type="monster" key="shop_tab_exchange_70" value="Reach level 70" />
+  <keys prop="Description" type="monster" key="use_premium_bag" value="indefinitely" />
+  <keys prop="Description" type="monster" key="FeBuff020" value="ICA-WPG" />
+  <keys prop="Description" type="monster" key="FeBuff020desc" value="Crafting Jackpot Chance 5% (2 hours)" />
+  <keys prop="Description" type="monster" key="shop_tab_quality" value="Quality improvement recipe" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_rank" value="Leaderboards" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_record" value="record" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_exit" value="exit" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_select_fellow" value="Fellow selection" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_join_tooltip" value="Entrada para Companheiro de Corrida" />
+  <keys prop="Description" type="monster" key="ui_fellowracing" value="Companheiros de corrida" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_join" value="Registre uma partida" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_result_notice" value="segundos." />
+  <keys prop="Description" type="monster" key="shop_tab_evfrcoin" value="FR Coin" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_casting" value="Aguardando convocação" />
+  <keys prop="Description" type="monster" key="ui_fellowracing_notallowed_function" value="Não pode ser executado nesta região." />
+  <keys prop="Description" type="monster" key="ui_tooltip_effectgroup_03" value="Obter uma opção aleatoriamente&#xD;&#xA;+500-750 para Defesa de Dano Crítico&#xD;&#xA;Aumento de Dano Crítico Físico +500-750&#xD;&#xA;HP máximo 15% ~ 20%&#xD;&#xA;Toda defesa 10%~15%&#xD;&#xA;Poder de ataque físico 11%~15%" />
+  <keys prop="Description" type="monster" key="ui_tooltip_effectgroup_04" value="Obter uma opção aleatoriamente&#xD;&#xA;+500-750 para Defesa de Dano Crítico&#xD;&#xA;Aumento de Dano Crítico Mágico +500-750&#xD;&#xA;HP máximo 15% ~ 20%&#xD;&#xA;Toda defesa 10%~15%&#xD;&#xA;Poder de ataque mágico 11%~15%" />
+  <keys prop="Description" type="monster" key="ui_sealedfellow_expand_view_title" value="Ver Informações sobre a Pedra de Selo" />
+  <keys prop="Description" type="monster" key="ui_sealedfellow_expand_view_tooltip" value="Ocultar/Visualizar Opções de Pedra de Selo" />
+  <keys prop="Description" type="monster" key="ui_setoption_expand_view_title" value="Ver Opções de Conjunto" />
+  <keys prop="Description" type="monster" key="ui_setoption_expand_view_tooltip" value="Ocultar/Visualizar Opções de Conjunto" />
+  <keys prop="Description" type="monster" key="ui_comparison_expand_view_title" value="Ver Comparação de Equipamentos" />
+  <keys prop="Description" type="monster" key="ui_comparison_expand_view_tooltip" value="Ocultar/Visualizar a Janela de Comparação de Equipamentos" />
+  <keys prop="Description" type="monster" key="ui_expand_view_on" value="Ver Informações" />
+  <keys prop="Description" type="monster" key="ui_expand_view_off" value="Ocultar Informações" />
+  <keys prop="Description" type="monster" key="shop_tab_icarusgem" value="Jóia de Icarus" />
+  <keys prop="Description" type="monster" key="shop_tab_ruby" value="Mercadoria de Ellun" />
+  <keys prop="Description" type="monster" key="ui_compose_grade_text" value="grupo" />
+  <keys prop="Description" type="monster" key="ui_notice_homepage_grade" value="Por favor, consulte a página inicial para as probabilidades dentro do grupo" />
+  <keys prop="Description" type="monster" key="shop_preview_text_zoom" value="Pode visualizar o aspecto familiar através do clique esquerdo." />
+  <keys prop="Description" type="monster" key="shop_preview_text_rotate" value="Dragar o rato para ver o aspecto do familiar&lt;br/&gt;de vários ângulos." />
+  <keys prop="Description" type="monster" key="ui_critical_produce" value="Probabilidade do jackpot:" />
+  <keys prop="Description" type="monster" key="ui_destory_rate_fail" value="Probabilidade de destruição em caso de falha" />
+  <keys prop="Description" type="monster" key="ui_destory_rate_fail_base" value="Probabilidade de jackpot padrão:" />
+  <keys prop="Description" type="monster" key="ui_destory_rate_fail_add" value="probabilidade de jackpot adicional:" />
+  <keys prop="Description" type="monster" key="ui_destory_rate_fail_dec" value="A opção de aumentar a chance de jackpot aplica-se apenas à chance de jackpot padrão." />
+  <keys prop="Description" type="monster" key="shop_tab_ribini_exchange3" value="Rabbini Coin" />
+  <keys prop="Description" type="monster" key="ui_brstone_tooltip" value="Esta pedra de aprimoramento aplica 20% do efeito de buff do aumento da taxa de sucesso do aprimoramento." />
+  <keys prop="Description" type="monster" key="ui_title_auto_open_package" value="Abra o pacote automaticamente" />
+  <keys prop="Description" type="monster" key="ui_tooltip_item_buffcount_info" value="&lt;UI_Y&gt;Número total de tampas de items actualmente em vigor&lt;UI_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_tooltip_player_buffcount_info" value="&lt;UI_Y&gt;Número total de aptidões actualmente em vigor&lt;UI_Y&gt;" />
+  <keys prop="Description" type="monster" key="ui_tooltip_set_buffopacitylevel" value="Pode ajustar a transparência do ícone de tampão (se 100%, o ícone de tampão não será emitido)" />
+  <keys prop="Description" type="monster" key="dotdamagerecurtion" value="Reduzir danos contínuos" />
+  <keys prop="Description" type="monster" key="dotdamagerecurtionrate" value="Taxa de redução de dano contínua" />
+  <keys prop="Description" type="monster" key="tooltip_character_dotdamagerecurtion" value="Reduz o dano ao longo do tempo em um valor." />
+  <keys prop="Description" type="monster" key="tooltip_character_dotdamagerecurtionrate" value="Reduz o dano ao longo do tempo em uma porcentagem." />
+  <keys prop="Description" type="monster" key="ui_tooltip_eggs" value="Dev" />
+  <keys prop="Description" type="monster" key="ui_qualityup_requestinfo" value="Por favor, defina equipamentos míticos para melhorar a qualidade&lt;br&gt;Os materiais que você precisará estão abaixo.&lt;br&gt;Normal -&gt; alta necessidade Essência de Melhoria da Qualidade: Alta &lt;br&gt;Alta-&gt; necessidade muito alta Essência de Melhoria da Qualidade: Muito Alta &lt;br&gt;Apenas equipamentos míticos temperados com nível 11 ou superior" />
+  <keys prop="Description" type="monster" key="ui_tooltip_qualityup_main_equipment" value="equipamentos de melhoria de qualidade" />
+  <keys prop="Description" type="monster" key="ui_tooltip_qualityup_mtl" value="Essência da Melhoria da Qualidade" />
+  <keys prop="Description" type="monster" key="comm_advan_item" value="Processo" />
+  <keys prop="Description" type="monster" key="FeBuff021" value="Legal, legal e quente" />
+  <keys prop="Description" type="monster" key="FeBuff021desc" value="Força+777, Inteligência+777 (2 horas)" />
+  <keys prop="Description" type="monster" key="FeBuff022" value="Não estou satisfeito com apenas um " />
+  <keys prop="Description" type="monster" key="FeBuff022desc" value="Aumente a taxa de sucesso de criação, grande sucesso e aprimoramento em 12% (2 horas)" />
+  <keys prop="Description" type="monster" key="cponattackplus" value="Magic Additional Rise" />
+  <keys prop="Description" type="monster" key="auction_apostle" value="Apostle" />
+  <keys prop="Description" type="monster" key="apostle" value="Apostle" />
+</files>

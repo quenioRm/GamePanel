@@ -1,2 +1,381 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="Caption_0000" value="É você? Esta é a experiência." />
+  <keys prop="Description" type="monster" key="Caption_0001" value="(Cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_SP_0001" value="Por que está insistindo na teimosia?" />
+  <keys prop="Description" type="monster" key="Caption_SP_0002" value="Se você não se submeter, vou ter que te matar." />
+  <keys prop="Description" type="monster" key="Caption_SP_0003" value="Os Feiticeiros da Virtude não podem te salvar agora." />
+  <keys prop="Description" type="monster" key="Caption_SP_0004" value="Os Dragões Guardiões cairão e os Hakanas vão com eles." />
+  <keys prop="Description" type="monster" key="Caption_SP_0005" value="Temos notícias de invasores na região, mas os perdemos." />
+  <keys prop="Description" type="monster" key="Caption_SP_0006" value="O quê? Seus imbecis inúteis." />
+  <keys prop="Description" type="monster" key="Caption_SP_0007" value="Por favor, tenha misericórdia..." />
+  <keys prop="Description" type="monster" key="Caption_SP_0008" value="Não sei quem ousou se intrometer, mas essa pessoa vai pagar." />
+  <keys prop="Description" type="monster" key="Caption_SP_0009" value="Os Feiticeiros da Virtude me enviaram." />
+  <keys prop="Description" type="monster" key="Caption_SP_0010" value="Os Feiticeiros da Virtude me mandaram vir." />
+  <keys prop="Description" type="monster" key="Caption_SP_0011" value="Salvem os sobreviventes. Temos que tirá-los daqui!" />
+  <keys prop="Description" type="monster" key="Caption_SP_0012" value="" />
+  <keys prop="Description" type="monster" key="Caption_SP_0013" value="Isso foi mais rápido do que eu esperava." />
+  <keys prop="Description" type="monster" key="Caption_SP_0014" value="Os prisioneiros fugiram! Atrás deles!" />
+  <keys prop="Description" type="monster" key="Caption_SP_0015" value="A porta não vai aguentar! Depressa!" />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0005_01" value="Há uma antiga passagem subterrânea por baixo da Floresta da Luz Trêmula." />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0005_02" value="Se conseguirmos passar pelas ruínas, chegaremos a Hakanas. " />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0005_03" value="Volte para falar com o rei e contar a ele o que aconteceu com a Princesa Lania." />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0005_04" value="Por favor, depressa." />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0012_01" value="Golens da Pedra Incandescente guardam a passagem. " />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0012_02" value="Vai morrer queimado em segundos se entrar desprevenido." />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0012_03" value="Prepare-se." />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0018_01" value="As ruínas daqui estão tomadas por espíritos. " />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0018_02" value="Os vivos não conseguem vê-los nem interagir com eles de nenhuma forma." />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0018_03" value="Mas tem um jeito. " />
+  <keys prop="Description" type="monster" key="Caption_Sf_0_1_0018_04" value="Com uma poção de visão real, seu corpo ficará no limite entre os mortos e os vivos." />
+  <keys prop="Description" type="monster" key="Caption_sp_lever_01" value="Abra essa porta. Precisamos continuar avançando." />
+  <keys prop="Description" type="monster" key="Caption_sp_stone_01" value="Depressa! Temos que quebrar aquela rocha!" />
+  <keys prop="Description" type="monster" key="Caption_SP_end_0001" value="Você se feriu?" />
+  <keys prop="Description" type="monster" key="Caption_SP_end_0002" value="Onde está a Princesa? " />
+  <keys prop="Description" type="monster" key="Caption_SP_end_0003" value="Sinto muito, fracasse. Rondo a levou. " />
+  <keys prop="Description" type="monster" key="Caption_SP_end_0004" value="O que devemos fazer?" />
+  <keys prop="Description" type="monster" key="Caption_SP_end_0005" value="Precisamos contar ao rei agora mesmo. " />
+  <keys prop="Description" type="monster" key="Caption_SP_end_0006" value="Vamos!" />
+  <keys prop="Description" type="monster" key="Caption_SF_start_0001" value="Seremos levados à Floresta de Brakarr?" />
+  <keys prop="Description" type="monster" key="Caption_SF_start_0002" value="Sim, senhor. Não é uma rota oficial, mas pouparemos tempo. " />
+  <keys prop="Description" type="monster" key="Caption_SF_start_0003" value="Se tivermos sorte..." />
+  <keys prop="Description" type="monster" key="Caption_SF_start_0004" value="Ataque inimigo!" />
+  <keys prop="Description" type="monster" key="Caption_SF_start_0005" value="Vamos cair! Segure-se!" />
+  <keys prop="Description" type="monster" key="Caption_SP_start_0001" value="Sou Corvo, líder da Ordem Ônix. Vim para salvá-los." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0010_01" value="Não sei onde aqueles braghins conseguiram as armas... " />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0010_02" value="Mas eles nos deixaram sem saída ao ar livre. " />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0010_03" value="Nunca venceremos essa luta enquanto o céu estiver caindo sobre nossas cabeças. " />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0010_04" value="Preciso que alguém vá até eles e os derrote. Entendido? " />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0011_01" value="Os Braghin não seriam nada sem seu golem." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0011_02" value="Mas seria difícil combater o golem em seu covil. Está perigoso demais..." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0011_03" value="Até agora. Creio que você possa derrotá-lo. Acho que você tem o poder." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0029_01" value="Parece que os braghins encontraram um tipo de cristal mágico." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0029_02" value="Esse tipo de tecnologia deve ser de uma arma antiga." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0029_03" value="Vamos cuidar para que eles não descubram como usá-la." />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0014_01" value="Quem faria algo assim?" />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0014_02" value="Não foi por acaso. Alguém planejou isso." />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0014_03" value="Este lugar está tomado por uma energia sombria e cruel..." />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0014_04" value="Ajude-nos a descobrir o que está por trás disso tudo." />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0047_01" value="Faz só alguns dias desde que encontramos o primeiro corpo." />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0047_02" value="Agora isto aqui é um ninho de cobras. " />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0047_03" value="Perdemos muitas pessoas boas." />
+  <keys prop="Description" type="monster" key="Caption_hk_0_1_0047_04" value="Temos que descobrir o que está por trás disso. " />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0001_03_01" value="Olha! Ele voltou." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0001_03_02" value="Dessa vez, temos que acertar." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0001_03_03" value="Mandei você ficar parado! " />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0001_03_04" value="Por que isso não está funcionando?!" />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0001_03_05" value="Eu mandei você se aproximar por trás..." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0001_03_06" value="Lá fora faz muito calor, mas te observar está fazendo meu sangue ferver." />
+  <keys prop="Description" type="monster" key="Caption_sf_0_1_0001_03_07" value="Você deveria tentar domar um familiar. Escolha um de seu nível." />
+  <keys prop="Description" type="monster" key="Caption_f00_start_01_01" value="Acorde. Te levarei para fora daqui." />
+  <keys prop="Description" type="monster" key="Caption_f00_start_01_02" value="Venha por aqui! Vá encontrar a princesa." />
+  <keys prop="Description" type="monster" key="Caption_f00_lever_01_01" value="Abra essa porta. Precisamos continuar avançando." />
+  <keys prop="Description" type="monster" key="Caption_f00_stone_01_01" value="Depressa! Temos que quebrar aquela rocha!" />
+  <keys prop="Description" type="monster" key="Caption_f00_rex_01_01" value="Humanos fracos. Sua liberdade foi negada." />
+  <keys prop="Description" type="monster" key="Caption_f00_door_01_01" value="Os prisioneiros fugiram! Atrás deles!" />
+  <keys prop="Description" type="monster" key="Caption_f00_door_01_02" value="Ataquem-nos!" />
+  <keys prop="Description" type="monster" key="Caption_f00_door_01_03" value="Depressa!" />
+  <keys prop="Description" type="monster" key="Caption_f01_start_01" value="Seremos levados à Floresta de Brakarr?" />
+  <keys prop="Description" type="monster" key="Caption_f01_start_02" value="Sim, senhor. Não é uma rota oficial, mas deve nos fazer poupar tempo." />
+  <keys prop="Description" type="monster" key="Caption_f01_start_03" value="Se tivermos sorte..." />
+  <keys prop="Description" type="monster" key="Caption_f01_start_04" value="Tsch!" />
+  <keys prop="Description" type="monster" key="Caption_f01_start_05" value="Ataque inimigo!" />
+  <keys prop="Description" type="monster" key="Caption_f01_start_06" value="Ataque inimigo!" />
+  <keys prop="Description" type="monster" key="Caption_f01_start_07" value="Vamos cair! Segure-se!" />
+  <keys prop="Description" type="monster" key="Caption_f01_start_08" value="Segure firme!" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_01" value="Que raiva! Não consegui salvar a princesa... (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_02" value="Como ousam se rebelar. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_03" value="Salant vai pegar a princesa. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_04" value="Princesa!! (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_05" value="Coloque os vivos na prisão! (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_06" value="Puxa... A princesa não está aqui. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_07" value="A princesa foi sequestrada pelo exército de Salant. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A1" value="O que aconteceu com a princesa? (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A2" value="Puxa... A princesa não está aqui. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A3" value="A princesa foi para algum lugar com a pergunta sobre seu poder. (Cortar cena em desenvolvimento) " />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A4" value="Nosso papel era proteger a princesa. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A5" value="A princesa nasceu com um poder de deusa. (Cortar cena em desenvolvimento) " />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A6" value="Naquela época, os subalternos que tentaram trazer Zelnaris, o Deus da Ruína, de volta à vida começaram a... Atacar! (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A7" value="Atacar! (Cortar cena em desenvolvimento) " />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A8" value="Emboscada! Proteja a princesa! " />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A9" value="Fizemos o melhor que pudemos para lutar. (Cortar cena em desenvolvimento) " />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A10" value="Mas não vou o suficiente. (Cortar cena em desenvolvimento) " />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A11" value="Que raiva! Não consegui salvar a princesa! (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A12" value="Como ousam se rebelar. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A13" value="Salant vai pegar a princesa. (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A14" value="Princesa!! (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A15" value="Coloque os vivos na prisão! (Cortar cena em desenvolvimento)" />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A16" value="Foi o que restou de nossa princesa. (Cortar cena em desenvolvimento) " />
+  <keys prop="Description" type="monster" key="Caption_f00_princess_A17" value="Devemos entregar estas notícias o mais rápido possível. Para a capital!" />
+  <keys prop="Description" type="monster" key="Caption_f02_g_boss_in" value="Rááá!" />
+  <keys prop="Description" type="monster" key="Caption_f02_g_boss_die" value="Hurrk!" />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_01" value="Vou te ensinar a domar um familiar. Sovell! " />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_02" value="O quê? O que está acontecendo? " />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_03" value="Mostre a ele seu poder! " />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_04" value="É fácil. " />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_05" value="Primeiro, escolha um alvo. Depois, use a habilidade para domar." />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_06" value="Depois, pule! " />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_07" value="Depois de montado, é importante se manter equilibrado. " />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_08" value="Hahaha! Sucesso! " />
+  <keys prop="Description" type="monster" key="Caption_c01_fellow_09" value="Não se esqueça de pular." />
+  <keys prop="Description" type="monster" key="Caption_f01_crow_01" value="Ótimo, não me atrasei. Manda ver!" />
+  <keys prop="Description" type="monster" key="Caption_f01_destroy_01" value="Está na hora de rompermos essa barreira." />
+  <keys prop="Description" type="monster" key="Caption_f01_destroy_02" value="Quando eu ativar essa relíquia, aquele martelo deve destruir o selo." />
+  <keys prop="Description" type="monster" key="Caption_f01_destroy_03" value="Vá. Leve a notícia ao rei." />
+  <keys prop="Description" type="monster" key="Caption_f01_destroy_04" value="Irei assim que os feridos estiverem a salvo." />
+  <keys prop="Description" type="monster" key="Caption_f01_ghost_01" value="Você veio para roubar meus tesouros, não é?" />
+  <keys prop="Description" type="monster" key="Caption_f01_ghost_02" value="Você não vai conseguir!" />
+  <keys prop="Description" type="monster" key="Caption_f01_ghost_03" value="Você nunca sairá destas ruínas com vida!" />
+  <keys prop="Description" type="monster" key="Caption_f01_ghost_04" value="Espere!" />
+  <keys prop="Description" type="monster" key="Caption_f01_ghost_05" value="Vamos enfrentá-lo juntos." />
+  <keys prop="Description" type="monster" key="Caption_f01_ghost_die" value="Meus tesouros! Fique longe dos meus tesouros!" />
+  <keys prop="Description" type="monster" key="Caption_d01_boss_change" value="Que surpresa. Talvez você mereça ver meu verdadeiro poder." />
+  <keys prop="Description" type="monster" key="Caption_d01_in_01_1" value="Minha filha… Você não deve mais permanecer entre os vivos..." />
+  <keys prop="Description" type="monster" key="Caption_d01_in_01_2" value="Vamos começar." />
+  <keys prop="Description" type="monster" key="Caption_c01_move_01_1" value="Corvo manda lembranças. " />
+  <keys prop="Description" type="monster" key="Caption_c01_move_01_2" value="Suba. Levarei você à capital. " />
+  <keys prop="Description" type="monster" key="Caption_c01_move_01_3" value=" Venha. O rei quer atualizações sobre a princesa." />
+  <keys prop="Description" type="monster" key="Caption_c01_move_01_4" value="Pronto." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_1" value="Onde está a Princesa?" />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_2" value="Sinto muito. Fracassei. Rondo a levou." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_3" value="Estávamos levando a princesa a um profeta..." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_4" value="Ela deveria analisar as relíquias de Ellora, destravar seus poderes..." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_5" value="A chuva deveria ter escondido nossos rastros..." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_5_1" value="Mas a Guarda Gélida sabia exatamente onde estávamos." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_5_2" value="Malditos imundos!" />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_5_3" value="Ei!" />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_5_4" value="Morra!" />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_6" value="Esse... Esse é o poder ao qual você se vendeu?" />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_7" value="R-Rondo! Fique longe da princesa!" />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_8" value="Mantenha-se sentado, Tortus." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_9" value="Não me esquecerei de sua coragem." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_10" value="Vamos, princesa... Temos assuntos a resolver." />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_11" value="Não permitirei que você a leve!" />
+  <keys prop="Description" type="monster" key="caption_f01_Tortus_12" value="Droga. Temos que contar ao rei." />
+  <keys prop="Description" type="monster" key="caption_f01_Seal_1" value="Está na hora de rompermos essa barreira." />
+  <keys prop="Description" type="monster" key="caption_f01_Seal_2" value="Quando eu ativar essa relíquia, aquele martelo deve destruir o selo." />
+  <keys prop="Description" type="monster" key="caption_f01_Seal_5" value="Vá. Leve a notícia ao rei." />
+  <keys prop="Description" type="monster" key="caption_f01_Seal_6" value="Irei assim que os feridos estiverem a salvo." />
+  <keys prop="Description" type="monster" key="caption_D01_boss_1" value="Como ousa interromper nosso ritual?" />
+  <keys prop="Description" type="monster" key="caption_D01_boss_2" value="Miserável insolente!" />
+  <keys prop="Description" type="monster" key="caption_D01_boss_3" value="Vai morrer engasgado em seu próprio sangue!" />
+  <keys prop="Description" type="monster" key="caption_D01_boss_4" value="Hya!" />
+  <keys prop="Description" type="monster" key="caption_d03_eye_01_1" value="Nosso senhor exige um sacrifício!  " />
+  <keys prop="Description" type="monster" key="caption_d03_eye_02_1" value="Minha nossa! Corruptores entraram em seu terreno sagrado. Acabe com eles!" />
+  <keys prop="Description" type="monster" key="caption_d03_priest_rescue_1" value="Atrás de você! Os merumis estão vindo!" />
+  <keys prop="Description" type="monster" key="caption_d03_priest_fail_1" value="Seu sangue pagão sustentará o poderoso Radan!" />
+  <keys prop="Description" type="monster" key="caption_d04__balbo_advent_1" value="Farei com que você pague com sangue por cada um dos homens que matou!" />
+  <keys prop="Description" type="monster" key="caption_d04__balbo_advent_2" value="Então, deixarei você." />
+  <keys prop="Description" type="monster" key="caption_d04__balbo_advent_3" value="Não voltaremos a nos ver." />
+  <keys prop="Description" type="monster" key="caption_d04_rondo_mirror_1" value="Aisha... isso é..." />
+  <keys prop="Description" type="monster" key="caption_d04__rondo_end_1" value="Eu me entrego. Acabe comigo." />
+  <keys prop="Description" type="monster" key="caption_d04__rondo_end_2" value="Aisha? Mas é impossível..." />
+  <keys prop="Description" type="monster" key="caption_d04__rondo_end_3" value="Meu amor. Ponha fim nessa briga." />
+  <keys prop="Description" type="monster" key="caption_d04__rondo_end_4" value="Não sei como, Aisha. O dia em que perdi você... foi o dia em que perdi meu coração." />
+  <keys prop="Description" type="monster" key="caption_d04__rondo_end_5" value="Rondo, acabou. Nunca mais temos que nos separar." />
+  <keys prop="Description" type="monster" key="caption_d04__rondo_end_6" value="Aisha..." />
+  <keys prop="Description" type="monster" key="caption_f03_princess_01_1" value="Eu sabia que Rondo voltaria para a Torre Gélida." />
+  <keys prop="Description" type="monster" key="caption_f03_princess_01_2" value="Ele mantém a princesa sob proteção pesada." />
+  <keys prop="Description" type="monster" key="caption_f03_princess_01_3" value="(Resmunga.)" />
+  <keys prop="Description" type="monster" key="caption_f03_princess_01_4" value="Dessa vez, eles não se afastarão de nós." />
+  <keys prop="Description" type="monster" key="caption_f03_watertray_01_1" value="E o que temos aqui? Você não é um dos filhos de Parna." />
+  <keys prop="Description" type="monster" key="caption_f03_watertray_01_2" value="Slisa me contou sobre você. Você a ajudou." />
+  <keys prop="Description" type="monster" key="caption_f03_watertray_01_3" value="Com os piratas despachados, Antarion permitiu que alguns forasteiros acessem nossas águas." />
+  <keys prop="Description" type="monster" key="caption_f03_watertray_01_4" value="Os outros demorarão a confiar, mas eu acredito que você pode nos salvar." />
+  <keys prop="Description" type="monster" key="caption_f03_watertray_01_5" value="Eu esperarei sua chegada nas águas dos merumi. " />
+  <keys prop="Description" type="monster" key="caption_f03_parna_01_1" value="Agente do destino. Ouça minhas palavras e receba minha visão." />
+  <keys prop="Description" type="monster" key="caption_f03_parna_01_2" value="Minha filha permanece imóvel ao lado do Descendente da Ruína, e meu alcance dentro desse reino é enfraquecido enquanto meu espelho é separado." />
+  <keys prop="Description" type="monster" key="caption_f03_parna_01_3" value="Restaure meu espelho e ponha fim a esse inverno nada natural." />
+  <keys prop="Description" type="monster" key="caption_f03_lover_01_1" value="Certo dia, eu o encontrei na água, à beira da morte." />
+  <keys prop="Description" type="monster" key="caption_f03_lover_01_2" value="Nunca tinha encontrado outro ser humano. A princípio, senti medo." />
+  <keys prop="Description" type="monster" key="caption_f03_lover_01_3" value="Mas ele me mostrou que eu não tinha nada a temer. Foi corajoso. Delicado. Gentil... " />
+  <keys prop="Description" type="monster" key="caption_f03_lover_01_4" value="Por favor, salve-o." />
+  <keys prop="Description" type="monster" key="caption_f03_princess_tear_1" value="Rondon foi derrotado? Ah, que bom que eles cuidaram da princesa." />
+  <keys prop="Description" type="monster" key="caption_f03_princess_tear_2" value="Vamos. Salant está esperando." />
+  <keys prop="Description" type="monster" key="caption_f03_princess_tear_3" value="Por favor, me salve. " />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_01" value="Por que não pede ajuda a seu pai?" />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_02" value="A semente do Zelnaris, o Deus da Ruína, deve ser retirada o mais rápido possível. " />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_03" value="Pai!" />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_04" value="Não perca a força! Você é o filho de Salant." />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_05" value="Sim..." />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_06" value="Não se ressinta de nós. A única culpa é ter um marido e um pai pobres." />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_07" value="Querido filho... Por favor, perdoe seu pai inútil." />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_08" value="Nunca." />
+  <keys prop="Description" type="monster" key="Caption_d02_sarant_tears_09" value="Levo essa mágoa até o fim do mundo." />
+  <keys prop="Description" type="monster" key="caption_c01_lena_change_1" value="Renata... O que está fazendo? Devolva a esfera. O rei vai perdoar você." />
+  <keys prop="Description" type="monster" key="caption_c01_lena_change_2" value="Vocês, humanos, são tão ingênuos..." />
+  <keys prop="Description" type="monster" key="caption_c01_lena_change_3" value="E completamente inúteis." />
+  <keys prop="Description" type="monster" key="caption_c01_lena_change_4" value="A esfera é a fonte de meu poder. E agora que voltou às minhas mãos, não preciso de você." />
+  <keys prop="Description" type="monster" key="caption_c01_lena_change_5" value="A alma de vocês alimentará as fogueiras de meu senhor... Para sempre." />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_1" value="General Russell. O senhor foi designado para proteger Hakanas, mas vejo que está conspirando com a Irmandade de Khabim. " />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_2" value="Você achou mesmo que a Sociedade Mágica da Virtude não descobriria sua traição?" />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_3" value="Ronfraine é um covarde." />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_4" value="É um velho inútil escondendo-se atrás de seu exército." />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_5" value="Hakanas não vai sobreviver com ele na liderança." />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_6" value="A paz deve ser conquistada com sangue. " />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_7" value="Começaremos a nova dinastia bem aqui." />
+  <keys prop="Description" type="monster" key="caption_c01_general_fight_8" value="Minha lâmina nos livrará da incompetência dele! " />
+  <keys prop="Description" type="monster" key="caption_f02_ashuram_01_1" value="É muita ousadia seres vivos virem aqui..." />
+  <keys prop="Description" type="monster" key="caption_f02_ashuram_01_2" value="Morra aqui e torne-se meu seguidor fiel!" />
+  <keys prop="Description" type="monster" key="caption_f02_circle_01_1" value="Você soube o que os Khabimistas estão fazendo com aquela esfera mágica?" />
+  <keys prop="Description" type="monster" key="caption_f02_circle_01_2" value="Eles amontoam muitos cadáveres." />
+  <keys prop="Description" type="monster" key="caption_f02_circle_01_3" value="Assassinatos ritualísticos, todos eles. " />
+  <keys prop="Description" type="monster" key="caption_f02_circle_01_4" value="Aqueles monstros que blasfemam estão transformando os aldeãos em criaturas mortas-vivas. " />
+  <keys prop="Description" type="monster" key="caption_f02_circle_01_5" value="Eles eram boas pessoas! Não merecem passar a eternidade sofrendo!" />
+  <keys prop="Description" type="monster" key="caption_f02_devy_02_1" value="Ah, não! Os malvados estão aqui para nos ferir!" />
+  <keys prop="Description" type="monster" key="caption_f02_devy_02_2" value="Não! Fiquem longe!" />
+  <keys prop="Description" type="monster" key="caption_f02_devy_02_3" value="Aqui é minha casa! Garme! Acabe com eles!" />
+  <keys prop="Description" type="monster" key="caption_f02_devy_02_4" value="Não!" />
+  <keys prop="Description" type="monster" key="caption_f04_Lastfight_01" value="Há muito travamos essa batalha sem fim." />
+  <keys prop="Description" type="monster" key="caption_f04_Lastfight_02" value="Nós morremos e nos sacrificamos no cumprimento do dever. Mas agora encerramos essa guerra de uma vez por todas!" />
+  <keys prop="Description" type="monster" key="caption_f04_Lastfight_03" value="Hoje, levamos Tritael para a luz. Cavaleiros de Pégaso, para o céu! " />
+  <keys prop="Description" type="monster" key="caption_f03_mirror_05" value="Terminei este espelho. Aqui está." />
+  <keys prop="Description" type="monster" key="caption_f09_princess_01_1" value="Acompanhei Rondo sobre o Mar de Hakanas." />
+  <keys prop="Description" type="monster" key="caption_f09_princess_01_2" value="Pensei que estivesse em vantagem em relação a ele.   " />
+  <keys prop="Description" type="monster" key="caption_f09_princess_01_3" value="Mas ele me levou de cara para um titã." />
+  <keys prop="Description" type="monster" key="caption_f09_princess_01_4" value="Ele espera no Bastião. " />
+  <keys prop="Description" type="monster" key="f09_rondo_01_1" value="Que desperdício..." />
+  <keys prop="Description" type="monster" key="f09_rondo_01_2" value="A era de Hakanas acabou." />
+  <keys prop="Description" type="monster" key="f09_rondo_01_3" value="O Zelnaris, o Deus da Ruína, vai despertar, e o reino vai cair." />
+  <keys prop="Description" type="monster" key="f09_rondo_01_4" value="Você é um homem difícil de encontrar. " />
+  <keys prop="Description" type="monster" key="f09_rondo_01_5" value="Entregue a princesa." />
+  <keys prop="Description" type="monster" key="f09_rondo_01_6" value="Cuidado. A energia vital dela está atrelada à minha." />
+  <keys prop="Description" type="monster" key="f09_rondo_01_7" value="Se me matar, ela também morre." />
+  <keys prop="Description" type="monster" key="f09_rondo_01_8" value="Não acabou, Rondo." />
+  <keys prop="Description" type="monster" key="f09_rondo_01_9" value="Isso não é nada bom..." />
+  <keys prop="Description" type="monster" key="f09_princess_02_1" value="A luz de Ellora. Quanta beleza... Quanto poder..." />
+  <keys prop="Description" type="monster" key="f09_princess_02_2" value="Você de novo?" />
+  <keys prop="Description" type="monster" key="f09_princess_02_3" value="Chegou muito tarde. Já peguei tudo de que preciso. " />
+  <keys prop="Description" type="monster" key="f09_princess_02_4" value="A era da Ruína está próxima. " />
+  <keys prop="Description" type="monster" key="c01_king_02_1" value="Ascenda, jovem guerreiro." />
+  <keys prop="Description" type="monster" key="c01_king_02_2" value="Você nos mostrou que um herói é capaz de ascender até mesmo do mais humilde dos princípios." />
+  <keys prop="Description" type="monster" key="c01_king_02_3" value="Líderes de Hakanas, unam-se a mim para louvar esse protetor de nosso grande reino." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_01" value="Lembre-se, apenas os escolhidos podem domar familiares." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_02" value="Bem, acho que preciso mostrar a você como domar um familiar." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_03" value="Primeira dica, escolha um alvo e o espie, se puder. É mais fácil assim." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_04" value="Mantenha-se abaixado e movimente-se depressa. Depois de saltar, terá apenas alguns segundos para formar o elo." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_05" value="Ele vai contra-atacar, por isso você precisa atacar com mais força!" />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_06" value="E pronto! Quando estiver sob seu feitiço, não mais escapará." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_06_1" value="Vamos ver se você consegue domar um... Lembre-se, veja do que o animal precisa, e então, reaja." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_07" value=" Quem me dera poder dizer a mesma coisa sobre meus namorados." />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_08" value="Certo. Vamos ver se você consegue domar um. " />
+  <keys prop="Description" type="monster" key="caption_c01_fellow01_09" value="Lembre-se, veja do que o animal precisa, e então, reaja." />
+  <keys prop="Description" type="monster" key="caption_f05_chime01" value="Venha ver." />
+  <keys prop="Description" type="monster" key="caption_f05_chime02" value="O destino de Hakanas e a princesa perdida... " />
+  <keys prop="Description" type="monster" key="caption_f05_chime03" value="O que a Legião Caída de fato busca..." />
+  <keys prop="Description" type="monster" key="caption_f05_chime04" value="Deusa..." />
+  <keys prop="Description" type="monster" key="caption_f05_chime05" value="Revele a verdade!" />
+  <keys prop="Description" type="monster" key="caption_f05_chime06" value="Uma mulher sagrada... Escuridão total..." />
+  <keys prop="Description" type="monster" key="caption_f05_chime07" value="Uma escuridão que engoliria nosso reino." />
+  <keys prop="Description" type="monster" key="caption_f05_chime08" value="Você viu? Este é o futuro de Hakanas." />
+  <keys prop="Description" type="monster" key="caption_f05_chime09" value="Devemos fazer todo o possível para impedir esse futuro." />
+  <keys prop="Description" type="monster" key="caption_f05_chime10" value="De acordo com a profecia, você é a única pessoa que pode impedir esse destino cruel." />
+  <keys prop="Description" type="monster" key="caption_f05_chime11" value="Os preparativos estão finalizados." />
+  <keys prop="Description" type="monster" key="caption_f05_chime12" value="A Fortaleza das Mágoas fica logo adiante." />
+  <keys prop="Description" type="monster" key="caption_f05_chime13" value="Mas parece que já esperavam por nós." />
+  <keys prop="Description" type="monster" key="caption_f05_chime14" value="Desative a barreira. Vamos cuidar deles." />
+  <keys prop="Description" type="monster" key="caption_f05_chime15" value="Desative a barreira mágica para abrir caminho!" />
+  <keys prop="Description" type="monster" key="caption_f05_chime16" value="Guerreiro da profecia... Eles estão me prendendo no Templo de Haracrow." />
+  <keys prop="Description" type="monster" key="caption_f05_chime17" value="Os crokhoons de lá foram corrompidos. Vocês devem andar depressa!" />
+  <keys prop="Description" type="monster" key="caption_f05_cutis01" value="Eu estava investigando uma recente onda de ataques de gárgulas..." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis02" value="Eu não esperava a Legião Caída ali." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis03" value="A Princesa Lania estava com eles, presa com correntes mágicas." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis04" value="Eu me escondi atrás de algumas rochas para que eles não me vissem." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis05" value="Eles não olharam para baixo nem uma única vez." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis06" value="Eu fui seguindo..." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis07" value="Vi quando entraram em uma fortaleza gigantesca." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis08" value="Não consegui ir além." />
+  <keys prop="Description" type="monster" key="caption_f05_cutis09" value="A Fortaleza das Mágoas é invencível! Não há como…" />
+  <keys prop="Description" type="monster" key="caption_f05_cutis10" value="Não há como entrarmos nela." />
+  <keys prop="Description" type="monster" key="caption_f05_princess_lania01" value="Pare..." />
+  <keys prop="Description" type="monster" key="caption_f05_princess_lania02" value="Ahh!" />
+  <keys prop="Description" type="monster" key="caption_f05_princess_lania03" value="Servo fiel... Ascenda." />
+  <keys prop="Description" type="monster" key="caption_f05_princess_lania04" value="Controle-se. Temos outros assuntos a cuidar." />
+  <keys prop="Description" type="monster" key="caption_f05_princess_lania05" value="Leve-me ao local de descanso de Zelnaris, o Deus da Ruína." />
+  <keys prop="Description" type="monster" key="caption_f05_sarant01" value="Já me cansei de sua interferência." />
+  <keys prop="Description" type="monster" key="caption_f05_jason01" value="Mas... parabéns!" />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_1" value="A Pedra Demoníaca...hum...tudo começa com ela." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_2" value="Durante a Guerra da Luz, Ellora prendeu a alma do Zelnaris, o Deus da Ruína, dentro da Pedra Demoníaca." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_3" value="Os elfos ficaram incumbidos de proteger a pedra dos seguidores dele." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_4" value="Não demorou muito para que as forças do mal se unissem contra nosso santuário." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_5" value="Eram nossos irmãos e irmãs, batizados em Ruína." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_6" value="Não estávamos preparados para o poder e para a ira dos elfos do caos." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_7" value="Foi apenas graças à nossa grande árvore que conseguimos impedir a invasão inicial." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_8" value="Mas agora, o manancial de nossa árvore secou." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_9" value="Não sei até quando vai durar..." />
+  <keys prop="Description" type="monster" key="caption_f07_demonic_10" value="O destino do mundo e a Princesa Lania agora dependem de você." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_1" value="Você, que seria nosso campeão..." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_2" value="Somos os escolhidos de Ellora, e este é noso santuário." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_3" value="Três pedras sagradas agem como a chave do poder da Pedra Demoníaca." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_4" value="De alguma forma, o inimigo sabia exatamente onde encontrá-las." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_5" value="Você recuperará as pedras e desmascará o traidor que as roubou." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_6" value="Encontraremos o traidor e cuidaremos para que a justiça seja feita." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_7" value="Um dos nossos será seu guia." />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_8" value="Será uma honra servir com você." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_01_1" value="N-não!" />
+  <keys prop="Description" type="monster" key="caption_f07_udas_01_2" value="É uma cilada!" />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_1" value="Você é muito previsível." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_2" value="Meu amigo..." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_3" value="A que ponto chegou..." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_4" value="Escolhi o lado vencedor." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_5" value="A pedra sagrada..." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_6" value="Agora... estou vendo... o Rei da Ruína!" />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_7" value="Traidor!" />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_8" value="Vou mostrar a você o verdadeiro poder..." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_9" value="Agora, me dê o que busco, ou pegarei de seu cadáver." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_03_1" value="Vamos embora deste lugar hostil." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_10" value="A que ponto chegou..." />
+  <keys prop="Description" type="monster" key="caption_f07_udas_02_11" value="O Deus da Ruína!" />
+  <keys prop="Description" type="monster" key="caption_d08_escape_1" value="Isso não acabou!" />
+  <keys prop="Description" type="monster" key="caption_d08_change_1" value="Veja, o verdadeiro poder do caos!" />
+  <keys prop="Description" type="monster" key="caption_f07_twelve_9" value="Juro, pelo esplendor de Ellora." />
+  <keys prop="Description" type="monster" key="caption_c02_elder_a_1" value="Você me deixou esperando." />
+  <keys prop="Description" type="monster" key="caption_c02_elder_a_2" value="Depois de todo esse tempo, a Pedra Demoníaca é minha!" />
+  <keys prop="Description" type="monster" key="caption_c02_elder_a_3" value="Tal poder..." />
+  <keys prop="Description" type="monster" key="caption_c02_elder_a_4" value="E agora como sua recompensa!" />
+  <keys prop="Description" type="monster" key="caption_c02_elder_a_5" value="Seu tolo." />
+  <keys prop="Description" type="monster" key="caption_c02_elder_a_6" value="Agora, morra!" />
+  <keys prop="Description" type="monster" key="caption_c02_elder_b_1" value="Não acabou." />
+  <keys prop="Description" type="monster" key="caption_c02_elder_b_2" value="Você não sobreviverá ao nosso próximo encontro." />
+  <keys prop="Description" type="monster" key="caption_c02_elder_b_3" value="Vamos nos encontrar de novo." />
+  <keys prop="Description" type="monster" key="caption_c02_elder_b_4" value="Deixe o profeta em segurança." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_1" value="Rondo Terramunce..." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_2" value="Uma alma trágica, uma vítima do destino." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_3" value="Antes de o Duque pegá-lo, ele me encontrou." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_4" value="Depois de ser derrotado por você…" />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_5" value="...a maldição dele foi retirada, e ele voltou a ser quem era." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_6" value="Com a mente livre do toque de Salant, ele agora queria se vingar." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_7" value="Ele enfrentou Salant e a princesa em uma tentativa de acabar com a peregrinação sombria." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_8" value="Mas Salant não é um inimigo a quem Rondo consiga derrotar sozinho." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_9" value="Para ter sucesso, ele vai precisar de sua ajuda." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_10" value="Vocês devem se unir, ou Salant vencerá." />
+  <keys prop="Description" type="monster" key="caption_c02_elorprin_11" value="Precisamos pegar aquela pedra do Duque Ancião, e então localizar Salant." />
+  <keys prop="Description" type="monster" key="caption_c02_demonic_1" value="Neutralizamos o poder da Pedra Demoníaca com o sangue sagrado de Ellora." />
+  <keys prop="Description" type="monster" key="caption_c02_demonic_2" value="Leve-a agora ao Santuário de Ellora." />
+  <keys prop="Description" type="monster" key="caption_c02_tower_1" value="Localizamos o profeta em uma torre próxima." />
+  <keys prop="Description" type="monster" key="caption_c02_tower_2" value="Meu familiar sabe o caminho, ela levará você até lá." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_1" value="Travessia de Hakain, joia de Hakanas." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_2" value="O caminho pelo Portão dos Nobres leva à Praça da Vitória." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_3" value="É o centro social da cidade, onde você encontrará o banco." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_4" value="A Praça Artesã é nosso centro de artesanato." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_5" value="O lugar perfeito para fazer negócios." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_6" value="A Academia de Familiares é um bom lugar para brincar com feras." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_7" value="Você encontrará apenas os artigos mais finos no Bairro do Mercado." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_8" value="E se pretende fazer uma guilda, visite o Salão da Guilda." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_9" value="A Plataforma de Titã é o centro de transporte para a classe alta. Duvido que você precise ir lá." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_10" value="Bem, se for só isso..." />
+  <keys prop="Description" type="monster" key="caption_c01_hknotice_11" value="Você está por sua conta." />
+  <keys prop="Description" type="monster" key="caption_c02_demonic_A_1" value="O poder do Zelnaris, o Deus da Ruína, está ficando mais forte." />
+  <keys prop="Description" type="monster" key="caption_c02_demonic_A_2" value="Se isso continuar, pode ser que não consigamos controlá-lo. Precisamos destrui-lo." />
+  <keys prop="Description" type="monster" key="caption_c02_demonic_A_3" value="O tempo está acabando. Vá para Magmafora, depressa." />
+  <keys prop="Description" type="monster" key="caption_c02_demonic_A_4" value="Quando chegar lá, destrua-a com lava de Magmafora." />
+  <keys prop="Description" type="monster" key="caption_f08_kurodiun_1" value="Nossa... Nunca pensei que nos encontraríamos de novo sob essas circunstâncias." />
+  <keys prop="Description" type="monster" key="caption_f08_kurodiun_2" value="Você veio aqui a trabalho ou a lazer?" />
+  <keys prop="Description" type="monster" key="caption_f08_kurodiun_3" value="Seus olhos dizem que foi a trabalho, mas eu acho que deveríamos nos divertir..." />
+  <keys prop="Description" type="monster" key="caption_f08_kurodiun_4" value="Vou te contar um segredinho quente..." />
+  <keys prop="Description" type="monster" key="caption_f08_kurodiun_5" value="Após você ter matado Salazar, pude finalmente começar a fazer Salant me amar." />
+  <keys prop="Description" type="monster" key="caption_f08_kurodiun_6" value="Como você me deu a maior oportunidade..." />
+  <keys prop="Description" type="monster" key="caption_f08_kurodiun_7" value="Por que não vamos até o fim?" />
+  <keys prop="Description" type="monster" key="captiont_t01_magician_1" value="Por favor, proteja Hakanas." />
+  <keys prop="Description" type="monster" key="captiont_t01_magician_2" value="Precisamos de sua ajuda." />
+</files>

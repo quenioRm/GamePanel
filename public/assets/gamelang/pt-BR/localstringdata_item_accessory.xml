@@ -1,420 +1,443 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="AC0_0_1000" value="Maria's Charm" />
-  <keys type="item" key="AC0_1_1000" value="Swift Cooldown Necklace (99%)" />
-  <keys type="item" key="AC0_0_9999" value="Ring for Testing_Critical Hit (100)" />
-  <keys type="item" key="AC0_0_9989" value="Ring for Testing_Critical Hit (30)" />
-  <keys type="item" key="AC0_0_9988" value="Ring for Testing_Critical Hit (70)" />
-  <keys type="item" key="AC0_0_10001" value="Royal Family Ring" />
-  <keys type="item" key="AC0_0_10002" value="Poe's Ring" />
-  <keys type="item" key="AC0_0_21001" value="Fairy Ring" />
-  <keys type="item" key="AC0_0_21011" value="Woodland Crystalmight Ring" />
-  <keys type="item" key="AC0_0_21012" value="Woodland Crystalmind Ring" />
-  <keys type="item" key="AC0_0_21013" value="Woodland Crystalheart Ring" />
-  <keys type="item" key="AC0_0_21501" value="Marauder Ring" />
-  <keys type="item" key="AC0_0_21511" value="Detachment Ring of Strength" />
-  <keys type="item" key="AC0_0_21512" value="Detachment Ring of Wisdom" />
-  <keys type="item" key="AC0_0_21513" value="Detachment Ring of Dexterity" />
-  <keys type="item" key="AC0_0_31501" value="Emberstone Ring" />
-  <keys type="item" key="AC0_0_22001" value="Vampire Ring" />
-  <keys type="item" key="AC0_0_22011" value="Militia Ring of Strength" />
-  <keys type="item" key="AC0_0_22012" value="Militia Ring of Wisdom" />
-  <keys type="item" key="AC0_0_22013" value="Militia Ring of Dexterity" />
-  <keys type="item" key="AC0_0_32001" value="Cursed Ring" />
-  <keys type="item" key="AC0_0_22501" value="Firmament Ring" />
-  <keys type="item" key="AC0_0_22521" value="Corrupted Ring" />
-  <keys type="item" key="AC0_0_32501" value="Frozen Ring" />
-  <keys type="item" key="AC0_0_23001" value="Snowfield Ring" />
-  <keys type="item" key="AC0_0_33001" value="Attaius Ring" />
-  <keys type="item" key="AC0_0_23501" value="Frost Guard Ring" />
-  <keys type="item" key="AC0_0_33501" value="Ankelion Ring" />
-  <keys type="item" key="AC0_0_24001" value="Supreme Commander Ring" />
-  <keys type="item" key="AC0_1_21001" value="Ancient Braghin Necklace" />
-  <keys type="item" key="AC0_1_22001" value="Vampire Necklace" />
-  <keys type="item" key="AC0_1_22011" value="Militia Necklace of Strength" />
-  <keys type="item" key="AC0_1_22012" value="Militia Necklace of Wisdom" />
-  <keys type="item" key="AC0_1_22013" value="Militia Necklace of Dexterity" />
-  <keys type="item" key="AC0_1_32001" value="Cursed Necklace" />
-  <keys type="item" key="AC0_1_22501" value="Attaius Necklace" />
-  <keys type="item" key="AC0_1_22521" value="Emberstone Necklace" />
-  <keys type="item" key="AC0_1_32501" value="Frozen Necklace" />
-  <keys type="item" key="AC0_1_23001" value="Corrupted Necklace" />
-  <keys type="item" key="AC0_1_33001" value="Ankelion Necklace" />
-  <keys type="item" key="AC0_1_23501" value="Supreme Commander Necklace" />
-  <keys type="item" key="AC0_1_33501" value="Fairy Necklace" />
-  <keys type="item" key="AC0_1_24001" value="Marauder Necklace" />
-  <keys type="item" key="AC0_0_1001" value="Ruby Ring" />
-  <keys type="item" key="AC0_0_1141" value="Knight Errant Ring" />
-  <keys type="item" key="AC0_0_1142" value="Hakanas Hero Ring" />
-  <keys type="item" key="AC0_0_2141" value="Blackblood Ring of Strength" />
-  <keys type="item" key="AC0_0_2142" value="Blackblood Ring of Dexterity" />
-  <keys type="item" key="AC0_0_2143" value="Blackblood Ring of Intelligence" />
-  <keys type="item" key="AC0_1_2141" value="Frosted Sapphire Necklace of Constitution" />
-  <keys type="item" key="AC0_1_2142" value="Frosted Sapphire Necklace of Wisdom" />
-  <keys type="item" key="AC0_1_2143" value="Frosted Sapphire Necklace of Strength" />
-  <keys type="item" key="AC0_1_2144" value="Frosted Sapphire Necklace of Dexterity" />
-  <keys type="item" key="AC0_1_2145" value="Frosted Sapphire Necklace of Intelligence" />
-  <keys type="item" key="AC0_1_2261" value="Water Pendant" />
-  <keys type="item" key="AC0_1_2262" value="Tempered Water Pendant" />
-  <keys type="item" key="AC0_0_2261" value="Promise Ring" />
-  <keys type="item" key="AC0_0_2262" value="Hero Mark" />
-  <keys type="item" key="AC0_0_82151" value="Executioner Ring of Might" />
-  <keys type="item" key="AC0_0_82152" value="Executioner Ring of Magic" />
-  <keys type="item" key="AC0_1_82151" value="Executioner Necklace of Might" />
-  <keys type="item" key="AC0_1_82152" value="Executioner Necklace of Magic" />
-  <keys type="item" key="AC0_0_82251" value="Fabled Physical Ring" />
-  <keys type="item" key="AC0_0_82252" value="Fabled Magic Ring" />
-  <keys type="item" key="AC0_1_82251" value="Fabled Physical Necklace" />
-  <keys type="item" key="AC0_1_82252" value="Fabled Magic Necklace" />
-  <keys type="item" key="AC0_0_83251" value="Veteran's Physical Ring" />
-  <keys type="item" key="AC0_0_83252" value="Veteran's Magic Ring" />
-  <keys type="item" key="AC0_1_83251" value="Veteran's Physical Necklace" />
-  <keys type="item" key="AC0_1_83252" value="Veteran's Magic Necklace" />
-  <keys type="item" key="AC0_0_81101" value="Silver Physical Ring" />
-  <keys type="item" key="AC0_0_81102" value="Silver Magic Ring" />
-  <keys type="item" key="AC0_1_81101" value="Silver Physical Necklace" />
-  <keys type="item" key="AC0_1_81102" value="Silver Magic Necklace" />
-  <keys type="item" key="AC0_0_81201" value="Gold Physical Ring" />
-  <keys type="item" key="AC0_0_81202" value="Gold Magic Ring" />
-  <keys type="item" key="AC0_1_81201" value="Gold Physical Necklace" />
-  <keys type="item" key="AC0_1_81202" value="Gold Magic Necklace" />
-  <keys type="item" key="AC0_0_82201" value="Tempered Gold Physical Ring" />
-  <keys type="item" key="AC0_0_82202" value="Tempered Gold Magic Ring" />
-  <keys type="item" key="AC0_1_82201" value="Tempered Gold Physical Necklace" />
-  <keys type="item" key="AC0_1_82202" value="Tempered Gold Magic Necklace" />
-  <keys type="item" key="AC0_0_81301" value="Amethyst Physical Ring" />
-  <keys type="item" key="AC0_0_81302" value="Amethyst Magic Ring" />
-  <keys type="item" key="AC0_1_81301" value="Amethyst Physical Necklace" />
-  <keys type="item" key="AC0_1_81302" value="Amethyst Magic Necklace" />
-  <keys type="item" key="AC0_0_82301" value="Tempered Amethyst Physical Ring" />
-  <keys type="item" key="AC0_0_82302" value="Tempered Amethyst Magic Ring" />
-  <keys type="item" key="AC0_1_82301" value="Tempered Amethyst Physical Necklace" />
-  <keys type="item" key="AC0_1_82302" value="Tempered Amethyst Magic Necklace" />
-  <keys type="item" key="AC0_0_83301" value="Shining Amethyst Physical Ring" />
-  <keys type="item" key="AC0_0_83302" value="Shining Amethyst Magic Ring" />
-  <keys type="item" key="AC0_1_83301" value="Shining Amethyst Physical Necklace" />
-  <keys type="item" key="AC0_1_83302" value="Shining Amethyst Magic Necklace" />
-  <keys type="item" key="AC0_2_21501" value="Knight Errant Ring" />
-  <keys type="item" key="AC0_2_220011" value="Kingdom Officer's Ring" />
-  <keys type="item" key="AC0_2_225012" value="Modest Crokhoon Ring" />
-  <keys type="item" key="AC0_2_325013" value="Frost Matren Sapphire Ring" />
-  <keys type="item" key="AC0_2_230014" value="Complex Crokhoon Ring" />
-  <keys type="item" key="AC0_2_22001" value="Kingdom Officer's Necklace" />
-  <keys type="item" key="AC0_2_22501" value="Modest Crokhoon Necklace" />
-  <keys type="item" key="AC0_2_32501" value="Frost Matren Sapphire Necklace" />
-  <keys type="item" key="AC0_2_23001" value="Complex Crokhoon Necklace" />
-  <keys type="item" key="AC0_2_821511" value="Executioner Ring of Might" />
-  <keys type="item" key="AC0_2_821522" value="Executioner Ring of Magic" />
-  <keys type="item" key="AC0_2_82151" value="Executioner Necklace of Might" />
-  <keys type="item" key="AC0_2_82152" value="Executioner Necklace of Magic" />
-  <keys type="item" key="AC0_2_822513" value="Fabled Physical Ring" />
-  <keys type="item" key="AC0_2_822522" value="Fabled Magic Ring" />
-  <keys type="item" key="AC0_2_82251" value="Fabled Physical Necklace" />
-  <keys type="item" key="AC0_2_82252" value="Fabled Magic Necklace" />
-  <keys type="item" key="AC0_2_832511" value="Veteran's Physical Ring" />
-  <keys type="item" key="AC0_2_832522" value="Veteran's Magic Ring" />
-  <keys type="item" key="AC0_2_83251" value="Veteran's Physical Necklace" />
-  <keys type="item" key="AC0_2_83252" value="Veteran's Magic Necklace" />
-  <keys type="item" key="AC0_0_2263" value="PvP Ring I" />
-  <keys type="item" key="AC0_0_2264" value="PvP Ring II" />
-  <keys type="item" key="AC0_0_2265" value="PvP Ring III" />
-  <keys type="item" key="AC0_0_2266" value="PvP Ring IV" />
-  <keys type="item" key="AC0_0_2267" value="PvP Ring V" />
-  <keys type="item" key="AC0_0_2271" value="Tamus Ring" />
-  <keys type="item" key="AC0_1_2271" value="Tamus Necklace" />
-  <keys type="item" key="AC0_0_2272" value="Capital Guard Ring" />
-  <keys type="item" key="AC0_0_2281" value="Capital Guard Ring" />
-  <keys type="item" key="AC0_0_2282" value="Capital Guard Ring" />
-  <keys type="item" key="AC0_0_2283" value="Capital Guard Ring" />
-  <keys type="item" key="AC0_0_2284" value="Capital Guard Ring" />
-  <keys type="item" key="AC0_0_2273" value="Knight Commander Skull Ring" />
-  <keys type="item" key="AC0_0_2274" value="Gustav's Ring" />
-  <keys type="item" key="AC0_0_2275" value="LeBrand's Ring" />
-  <keys type="item" key="AC0_0_2276" value="Kelloneh's Ring" />
-  <keys type="item" key="AC0_0_2277" value="Dragon Emblem" />
-  <keys type="item" key="AC0_1_2272" value="Ashuram's Energy" />
-  <keys type="item" key="AC0_1_2273" value="Matoukontin's Necklace" />
-  <keys type="item" key="AC0_0_2278" value="Zeppello's Revival Ring" />
-  <keys type="item" key="pvpAC0_1_2528" value="Modest Hunter Necklace" />
-  <keys type="item" key="pvpAC0_0_2528" value="Modest Hunter Ring" />
-  <keys type="item" key="pvpAC0_1_3033" value="Austere Hunter Necklace" />
-  <keys type="item" key="pvpAC0_0_3033" value="Austere Hunter Ring" />
-  <keys type="item" key="pvpAC0_1_3538" value="Complex Hunter Necklace" />
-  <keys type="item" key="pvpAC0_0_3538" value="Complex Hunter Ring" />
-  <keys type="item" key="pvpAC0_1_4043" value="Ornate Hunter Necklace" />
-  <keys type="item" key="pvpAC0_0_4043" value="Ornate Hunter Ring" />
-  <keys type="item" key="AC0_0_2279" value="Daveen's Grudge" />
-  <keys type="item" key="AC0_0_2280" value="Daveen's Rage" />
-  <keys type="item" key="AC0_1_2274" value="Bismuth's Booze Barrel" />
-  <keys type="item" key="AC0_1_2275" value="Bismuth's Wine Glass" />
-  <keys type="item" key="AC0_0_2290" value="Bismuth's Ring" />
-  <keys type="item" key="AC0_0_30000" value="Garrison Ring of Strength" />
-  <keys type="item" key="AC0_0_30001" value="Garrison Ring of Wisdom" />
-  <keys type="item" key="AC0_0_30002" value="Garrison Ring of Dexterity" />
-  <keys type="item" key="AC0_0_30003" value="Windstriker Ring of Strength" />
-  <keys type="item" key="AC0_0_30004" value="Windstriker Ring of Wisdom" />
-  <keys type="item" key="AC0_0_30005" value="Windstriker Ring of Dexterity" />
-  <keys type="item" key="AC0_0_30006" value="Crokhoon Ring of Strength" />
-  <keys type="item" key="AC0_0_30007" value="Crokhoon Ring of Wisdom" />
-  <keys type="item" key="AC0_0_30008" value="Crokhoon Ring of Dexterity" />
-  <keys type="item" key="AC0_0_30009" value="Pegasus Knight Ring of Strength" />
-  <keys type="item" key="AC0_0_30010" value="Pegasus Knight Ring of Wisdom" />
-  <keys type="item" key="AC0_0_30011" value="Pegasus Knight Ring of Dexterity" />
-  <keys type="item" key="AC0_0_30012" value="Merumi Ring" />
-  <keys type="item" key="AC0_0_30013" value="Fallen Legion Ring" />
-  <keys type="item" key="AC0_1_30001" value="Detachment Necklace of Strength" />
-  <keys type="item" key="AC0_1_30002" value="Detachment Necklace of Wisdom" />
-  <keys type="item" key="AC0_1_30003" value="Detachment Necklace of Dexterity" />
-  <keys type="item" key="AC0_1_30004" value="Garrison Necklace of Strength" />
-  <keys type="item" key="AC0_1_30005" value="Garrison Necklace of Wisdom" />
-  <keys type="item" key="AC0_1_30006" value="Garrison Necklace of Dexterity" />
-  <keys type="item" key="AC0_1_30007" value="Windstriker Necklace of Strength" />
-  <keys type="item" key="AC0_1_30008" value="Windstriker Necklace of Wisdom" />
-  <keys type="item" key="AC0_1_30009" value="Windstriker Necklace of Dexterity" />
-  <keys type="item" key="AC0_1_30010" value="Crokhoon Necklace of Strength" />
-  <keys type="item" key="AC0_1_30011" value="Crokhoon Necklace of Wisdom" />
-  <keys type="item" key="AC0_1_30012" value="Crokhoon Necklace of Dexterity" />
-  <keys type="item" key="AC0_1_30013" value="Pegasus Knight Necklace of Strength" />
-  <keys type="item" key="AC0_1_30014" value="Pegasus Knight Necklace of Wisdom" />
-  <keys type="item" key="AC0_1_30015" value="Pegasus Knight Necklace of Dexterity" />
-  <keys type="item" key="AC0_1_30016" value="Firmament Necklace" />
-  <keys type="item" key="AC0_1_30017" value="Snowfield Necklace" />
-  <keys type="item" key="AC0_1_30018" value="Merumi Necklace" />
-  <keys type="item" key="AC0_1_30019" value="Frost Guard Necklace" />
-  <keys type="item" key="AC0_1_30020" value="Fallen Legion Necklace" />
-  <keys type="item" key="AC0_0_30014" value="Karasha Ring I" />
-  <keys type="item" key="AC0_0_30014_1" value="Karasha Ring II" />
-  <keys type="item" key="AC0_1_30021" value="Karasha Necklace" />
-  <keys type="item" key="AC0_0_30015" value="Jumawu's Ring" />
-  <keys type="item" key="AC0_1_30022" value="Jumawu's Necklace" />
-  <keys type="item" key="AC0_1_30023" value="Jeranin's Blackblood Skull Necklace" />
-  <keys type="item" key="AC0_1_30024" value="Usula's Necklace" />
-  <keys type="item" key="AC0_0_30016" value="Usula's Ring" />
-  <keys type="item" key="AC0_0_30017" value="Balboad's Ring" />
-  <keys type="item" key="AC0_0_30018" value="De Lamarche's Ring" />
-  <keys type="item" key="AC0_0_30019" value="Aiba's Ring" />
-  <keys type="item" key="AC0_0_30020" value="Baba's Ring" />
-  <keys type="item" key="AC0_0_30021" value="Shaba's Ring" />
-  <keys type="item" key="pvpAC1_1_3148" value="Jack the Hunter's Crimson Necklace" />
-  <keys type="item" key="pvpAC1_0_3148" value="Jack the Hunter's Cursed Ring" />
-  <keys type="item" key="pvpAC1_1_3350" value="Clachey's Crimson Necklace" />
-  <keys type="item" key="pvpAC1_0_3350" value="Clachey's Cursed Ring" />
-  <keys type="item" key="pvpAC1_1_3552" value="Nightmare's Crimson Necklace" />
-  <keys type="item" key="pvpAC1_0_3552" value="Nightmare's Cursed Ring" />
-  <keys type="item" key="pvpAC1_1_3855" value="Pyludd's Crimson Necklace" />
-  <keys type="item" key="pvpAC1_0_3855" value="Pyludd's Cursed Ring" />
-  <keys type="item" key="pvpAC1_1_4259" value="Vylet's Crimson Necklace" />
-  <keys type="item" key="pvpAC1_0_4259" value="Vylet's Cursed Ring" />
-  <keys type="item" key="pvpAC1_1_4562" value="Megantes's Crimson Necklace" />
-  <keys type="item" key="pvpAC1_0_4562" value="Megantes's Cursed Ring" />
-  <keys type="item" key="pvpAC1_2_3148" value="Jack the Hunter's Ring of Darkness" />
-  <keys type="item" key="pvpAC1_2_3350" value="Clachey's Ring of Darkness" />
-  <keys type="item" key="pvpAC1_2_3552" value="Nightmare's Ring of Darkness" />
-  <keys type="item" key="pvpAC1_2_3855" value="Pyludd's Ring of Darkness" />
-  <keys type="item" key="pvpAC1_2_4259" value="Anel da Escuridão de Vylet" />
-  <keys type="item" key="pvpAC1_2_4562" value="Anel da Escuridão de Megantes" />
-  <keys type="item" key="AC0_0_30022" value="Lavalight Challenger Ring" />
-  <keys type="item" key="AC0_0_30023" value="Lavalight Conqueror Ring" />
-  <keys type="item" key="AC0_1_30025" value="Lavalight Master Necklace" />
-  <keys type="item" key="AC0_0_30024" value="Carleon Challenger Ring" />
-  <keys type="item" key="AC0_0_30025" value="Carleon Conqueror Ring" />
-  <keys type="item" key="AC0_1_30026" value="Carleon Master Necklace" />
-  <keys type="item" key="AC0_0_30026" value="Matren Challenger Ring" />
-  <keys type="item" key="AC0_0_30027" value="Matren Conqueror Ring" />
-  <keys type="item" key="AC0_1_30027" value="Matren Master Necklace" />
-  <keys type="item" key="AC0_0_30028" value="Braghin Dash (Speed 50)" />
-  <keys type="item" key="AC0_0_30029" value="Braghin Dash (Speed 100)" />
-  <keys type="item" key="AC0_0_30030" value="Braghin Dash (Speed 200)" />
-  <keys type="item" key="AC0_0_30031" value="Braghin Rage (Attack)" />
-  <keys type="item" key="AC0_0_30032" value="Braghin Power (Speed/Attack)" />
-  <keys type="item" key="AC0_0_2098" value="Hakanas Knight Ring" />
-  <keys type="item" key="AC0_1_2098" value="Hakanas Knight Necklace" />
-  <keys type="item" key="AC0_0_2099" value="Hakanas Sage Ring" />
-  <keys type="item" key="AC0_1_2099" value="Hakanas Sage Necklace" />
-  <keys type="item" key="AC0_1_30028" value="Ruinous Necklace" />
-  <keys type="item" key="AC0_0_30033" value="Ruinous Black Ring" />
-  <keys type="item" key="AC0_0_30034" value="Ruinous Blue Ring" />
-  <keys type="item" key="AC0_0_83502" value="Exquisite Shining Amethyst Ring" />
-  <keys type="item" key="AC0_1_83501" value="Exquisite Shining Amethyst Necklace" />
-  <keys type="item" key="AC0_0_84002" value="Polished Sapphire Ring" />
-  <keys type="item" key="AC0_1_84001" value="Polished Sapphire Necklace" />
-  <keys type="item" key="AC0_1_90028" value="Parna Warrior Necklace" />
-  <keys type="item" key="AC0_0_90033" value="Parna Warrior Black Ring" />
-  <keys type="item" key="AC0_0_90034" value="Parna Warrior Blue Ring" />
-  <keys type="item" key="AC0_0_33801" value="Attaius Ring" />
-  <keys type="item" key="AC0_0_33802" value="Tranua Ring" />
-  <keys type="item" key="AC0_1_33801" value="Titan Necklace" />
-  <keys type="item" key="BX_AC0_0_23501" value="Antique Crescent Merchant Ring" />
-  <keys type="item" key="BX_AC0_1_30019" value="Antique Crescent Merchant Necklace" />
-  <keys type="item" key="BX_AC0_0_33501" value="Crescent Merchant Ring" />
-  <keys type="item" key="BX_AC0_1_33001" value="Crescent Merchant Necklace" />
-  <keys type="item" key="BX_AC0_0_30013" value="Tempered Crescent Merchant Ring" />
-  <keys type="item" key="BX_AC0_1_30020" value="Tempered Crescent Merchant Necklace" />
-  <keys type="item" key="BX_AC0_0_24001" value="Shining Crescent Merchant Ring" />
-  <keys type="item" key="BX_AC0_1_23501" value="Shining Crescent Merchant Necklace" />
-  <keys type="item" key="AC0_0_90101" value="Friendship Ring I" />
-  <keys type="item" key="AC0_0_90102" value="Friendship Ring II" />
-  <keys type="item" key="AC0_1_24001_qu" value="Hakanas Hero Necklace" />
-  <keys type="item" key="EV_AC0_0_33801" value="Princess Guard's Ring" />
-  <keys type="item" key="AC0_0_1000_EV" value="PCbunny Rabbit Ring I" />
-  <keys type="item" key="AC0_1_1000_EV" value="PCbunny Rabbit Necklace I" />
-  <keys type="item" key="AC0_0_1001_EV" value="PCbunny Rabbit Ring II" />
-  <keys type="item" key="AC0_1_1001_EV" value="PCbunny Rabbit Necklace II" />
-  <keys type="item" key="AC0_0_1002_EV" value="PCbunny Rabbit Ring III" />
-  <keys type="item" key="AC0_1_1002_EV" value="PCbunny Rabbit Necklace III" />
-  <keys type="item" key="AC0_0_1003_EV" value="PCbunny Rabbit Ring IV" />
-  <keys type="item" key="AC0_1_1003_EV" value="PCbunny Rabbit Necklace IV" />
-  <keys type="item" key="AC0_0_1004_EV" value="PCbunny Rabbit Ring V" />
-  <keys type="item" key="AC0_1_1004_EV" value="PCbunny Rabbit Necklace V" />
-  <keys type="item" key="AC0_0_83512" value="Exquisite Shining Amethyst Ring" />
-  <keys type="item" key="AC0_1_83511" value="Exquisite Shining Amethyst Necklace" />
-  <keys type="item" key="AC0_0_1143" value="Hakanas Protection Ring" />
-  <keys type="item" key="AC0_0_30032_TE_01" value="Braghin Power (Weapon Critical/Magic Critical)" />
-  <keys type="item" key="AC0_0_30032_TE_02" value="Braghin Power (Cast Speed)" />
-  <keys type="item" key="AC0_1_22501_qu" value="Knight Errant Necklace" />
-  <keys type="item" key="AC0_1_90128" value="Rift Defender Necklace" />
-  <keys type="item" key="AC0_0_90133" value="Rift Defender Black Ring" />
-  <keys type="item" key="AC0_0_90134" value="Rift Defender Blue Ring" />
-  <keys type="item" key="BX_AC1_1_90000" value="Sentinel Wisp Necklace" />
-  <keys type="item" key="BX_AC0_1_90040" value="Sentinel Wisp Ring" />
-  <keys type="item" key="BX_AC0_1_90041" value="Rift Grit Ring" />
-  <keys type="item" key="AC0_1_23502" value="Glorious Leader Necklace" />
-  <keys type="item" key="AC0_0_24002" value="Glorious Leader Ring I" />
-  <keys type="item" key="AC0_0_24003" value="Glorious Leader Ring II" />
-  <keys type="item" key="AC0_1_45001" value="Alseik Guard Necklace of Strength" />
-  <keys type="item" key="AC0_1_45002" value="Alseik Guard Necklace of Wisdom" />
-  <keys type="item" key="AC0_0_45001" value="Alseik Guard Ring of Strength" />
-  <keys type="item" key="AC0_0_45002" value="Alseik Guard Ring of Wisdom" />
-  <keys type="item" key="AC0_1_45003" value="Mohaban Mercenary Necklace" />
-  <keys type="item" key="AC0_0_45003" value="Mohaban Mercenary Ring" />
-  <keys type="item" key="AC0_1_45004" value="Khabimist Necklace" />
-  <keys type="item" key="AC0_0_45004" value="Khabimist Ring" />
-  <keys type="item" key="AC0_1_50001" value="Hermit's Necklace of Strength" />
-  <keys type="item" key="AC0_1_50002" value="Hermit's Necklace of Wisdom" />
-  <keys type="item" key="AC0_0_50001" value="Hermit's Ring of Strength" />
-  <keys type="item" key="AC0_0_50002" value="Hermit's Ring of Wisdom" />
-  <keys type="item" key="AC0_1_50003" value="Desert Braghin Necklace" />
-  <keys type="item" key="AC0_0_50003" value="Desert Braghin Ring" />
-  <keys type="item" key="AC0_1_50004" value="Tyrant's Necklace" />
-  <keys type="item" key="AC0_0_50004" value="Tyrant's Ring" />
-  <keys type="item" key="pvpAC0_1_4564" value="Modest Slayer Necklace" />
-  <keys type="item" key="pvpAC0_0_4564" value="Modest Slayer Ring I" />
-  <keys type="item" key="pvpAC0_2_4564" value="Modest Slayer Ring II" />
-  <keys type="item" key="pvpAC0_1_5069" value="Austere Slayer Necklace" />
-  <keys type="item" key="pvpAC0_0_5069" value="Austere Slayer Ring I" />
-  <keys type="item" key="pvpAC0_2_5069" value="Austere Slayer Ring II" />
-  <keys type="item" key="AC0_1_45004_CR" value="Polished Emerald Necklace" />
-  <keys type="item" key="AC0_0_45004_CR" value="Polished Emerald Ring" />
-  <keys type="item" key="AC0_1_50004_CR" value="Exquisite Polished Emerald Necklace" />
-  <keys type="item" key="AC0_0_50004_CR" value="Exquisite Polished Emerald Ring" />
-  <keys type="item" key="AC0_1_45005" value="Alchemist Necklace" />
-  <keys type="item" key="AC0_0_50011" value="Alchemist Ring of Strength" />
-  <keys type="item" key="AC0_0_50012" value="Alchemist Ring of Wisdom" />
-  <keys type="item" key="AC0_1_45006" value="Merchant Necklace" />
-  <keys type="item" key="AC0_0_50013" value="Merchant Ring of Strength" />
-  <keys type="item" key="AC0_0_50014" value="Merchant Ring of Wisdom" />
-  <keys type="item" key="AC0_1_45007" value="Tamer Necklace" />
-  <keys type="item" key="AC0_0_50015" value="Tamer Ring of Strength" />
-  <keys type="item" key="AC0_0_50016" value="Tamer Ring of Wisdom" />
-  <keys type="item" key="AC0_1_45008" value="Blacksmith Necklace" />
-  <keys type="item" key="AC0_0_50017" value="Blacksmith Ring of Strength" />
-  <keys type="item" key="AC0_0_50018" value="Blacksmith Ring of Wisdom" />
-  <keys type="item" key="AC0_1_45300" value="Lazart's Necklace" />
-  <keys type="item" key="AC0_0_45300" value="Lazart's Ring I" />
-  <keys type="item" key="AC0_0_45301" value="Lazart's Ring II" />
-  <keys type="item" key="AC0_1_45310" value="Kashim's Necklace" />
-  <keys type="item" key="AC0_0_45310" value="Kashim's Ring I" />
-  <keys type="item" key="AC0_0_45311" value="Kashim's Ring II" />
-  <keys type="item" key="AC0_1_45320" value="Zenon's Necklace" />
-  <keys type="item" key="AC0_0_45320" value="Zenon's Ring I" />
-  <keys type="item" key="AC0_0_45321" value="Zenon's Ring II" />
-  <keys type="item" key="AC0_1_45330" value="Mupadin's Necklace" />
-  <keys type="item" key="AC0_0_45330" value="Mupadin's Ring I" />
-  <keys type="item" key="AC0_0_45331" value="Mupadin's Ring II" />
-  <keys type="item" key="AC0_1_45400" value="Ancient Necklace" />
-  <keys type="item" key="AC0_0_45400" value="Ancient Ring I" />
-  <keys type="item" key="AC0_0_45401" value="Ancient Ring II" />
-  <keys type="item" key="AC0_0_45500" value="Fractura Antidote Ring" />
-  <keys type="item" key="AC0_0_1000_EV2" value="PCbunny Rabbit Ring I" />
-  <keys type="item" key="AC0_1_1000_EV2" value="PCbunny Rabbit Necklace I" />
-  <keys type="item" key="AC0_0_1001_EV2" value="PCbunny Rabbit Ring II" />
-  <keys type="item" key="AC0_1_1001_EV2" value="PCbunny Rabbit Necklace II" />
-  <keys type="item" key="AC0_0_1002_EV2" value="PCbunny Rabbit Ring III" />
-  <keys type="item" key="AC0_1_1002_EV2" value="PCbunny Rabbit Necklace III" />
-  <keys type="item" key="AC0_0_1003_EV2" value="PCbunny Rabbit Ring IV" />
-  <keys type="item" key="AC0_1_1003_EV2" value="PCbunny Rabbit Necklace IV" />
-  <keys type="item" key="AC0_0_1004_EV2" value="PCbunny Rabbit Ring V" />
-  <keys type="item" key="AC0_1_1004_EV2" value="PCbunny Rabbit Necklace V" />
-  <keys type="item" key="AC0_1_45600" value="Desert Warrior Necklace" />
-  <keys type="item" key="AC0_0_45600" value="Desert Warrior Ring I" />
-  <keys type="item" key="AC0_0_45601" value="Desert Warrior Ring II" />
-  <keys type="item" key="AC0_1_XMAS" value="Ellandfel Necklace" />
-  <keys type="item" key="AC0_0_XMAS1" value="Ellandfel Ring I" />
-  <keys type="item" key="AC0_0_XMAS2" value="Ellandfel Ring II" />
-  <keys type="item" key="AC0_504_30014" value="Exalted Ring I" />
-  <keys type="item" key="AC0_504_30014_1" value="Exalted Ring II" />
-  <keys type="item" key="AC0_504_30021" value="Exalted Necklace" />
-  <keys type="item" key="AC0_ev1_1_0_30014" value="(PC Cafe) Karasha's Ring I (6 Hours)" />
-  <keys type="item" key="AC0_ev1_1_0_30014_1" value="(PC Cafe) Karasha's Ring II (6 Hours)" />
-  <keys type="item" key="AC0_ev1_1_1_30021" value="(PC Cafe) Karasha's Necklace (6 Hours)" />
-  <keys type="item" key="AC0_ev1_2_0_30014" value="(PC Cafe) Karasha's Ring I (1 Day)" />
-  <keys type="item" key="AC0_ev1_2_0_30014_1" value="(PC Cafe) Karasha's Ring II (1 Day)" />
-  <keys type="item" key="AC0_ev1_2_1_30021" value="(PC Cafe) Karasha's Necklace (1 Day)" />
-  <keys type="item" key="AC0_0_1005_EV2" value="PCbunny's Rabbit Ring (3 Hours)" />
-  <keys type="item" key="AC0_1_1005_EV2" value="PCbunny's Rabbit Necklace (3 Hours)" />
-  <keys type="item" key="AC0_1_00004" value="Elgaden Officer's Necklace" />
-  <keys type="item" key="AC0_0_00005" value="Elgaden Officer's Ring" />
-  <keys type="item" key="AC0_1_00007" value="Ravager Necklace" />
-  <keys type="item" key="AC0_0_00008" value="Ravager Ring" />
-  <keys type="item" key="AC0_1_00010" value="Chaotic Necklace " />
-  <keys type="item" key="AC0_0_00011" value="Chaotic Ring" />
-  <keys type="item" key="AC0_1_00013" value="Polished Diamond Necklace" />
-  <keys type="item" key="AC0_0_00014" value="Polished Diamond Ring" />
-  <keys type="item" key="AC0_ev1_3_0_30014" value="(Quest) Karasha Ring I (14 Day)" />
-  <keys type="item" key="AC0_ev1_3_0_30014_1" value="(Quest) Karasha Ring II (14 Day)" />
-  <keys type="item" key="AC0_ev1_3_1_30021" value="(Quest) Karasha Necklace (14 Day)" />
-  <keys type="item" key="AC0_1_50505" value="Pridon Roa's Necklace" />
-  <keys type="item" key="AC0_0_50506" value="Lenanzar's Left-Hand Ring" />
-  <keys type="item" key="AC0_0_50507" value="Lenanzar's Right-Hand Ring" />
-  <keys type="item" key="AC0_jp_40000" value="Jeranin's Necklace" />
-  <keys type="item" key="AC0_jp_40001" value="Jeranin's Ring I " />
-  <keys type="item" key="AC0_jp_40002" value="Jeranin's Ring II" />
-  <keys type="item" key="AC0_ev1_4_0_30014" value="(Event) Karasha Ring I (30 Day)" />
-  <keys type="item" key="AC0_ev1_4_0_30014_1" value="(Event) Karasha Ring II (30 Day)" />
-  <keys type="item" key="AC0_ev1_4_1_30021" value="(Event) Karasha Necklace (30 Day)" />
-  <keys type="item" key="AC0_0_1144" value="Absolute Ring (7 Days)" />
-  <keys type="item" key="AC0_ev2_3_0_30014" value="Karasha Ring I (14 Day)" />
-  <keys type="item" key="AC0_ev2_3_0_30014_1" value="Karasha Ring II (14 Day)" />
-  <keys type="item" key="AC0_ev2_3_1_30021" value="Karasha Necklace (14 Day)" />
-  <keys type="item" key="AC0_1_50510" value="Chaos Elf Necklace" />
-  <keys type="item" key="AC0_0_50511" value="Chaos Elf Ring I " />
-  <keys type="item" key="AC0_0_50512" value="Chaos Elf Ring II" />
-  <keys type="item" key="AC0_1_60510" value="Level Option Test Necklace" />
-  <keys type="item" key="AC0_0_60511" value="Level Option Test Ring I " />
-  <keys type="item" key="AC0_0_60512" value="Level Option Test Ring II" />
-  <keys type="item" key="AC0_1_00015" value="Yorminsul's Exalted Necklace" />
-  <keys type="item" key="AC0_1_00016" value="Yorminsul's Exalted Ring I" />
-  <keys type="item" key="AC0_0_00017" value="Yorminsul's Exalted Ring II" />
-  <keys type="item" key="AC0_1_SUMMER" value="Ice Cream Necklace" />
-  <keys type="item" key="AC0_0_SUMMER1" value="Ice Cream Ring I " />
-  <keys type="item" key="AC0_0_SUMMER2" value="Ice Cream Ring II" />
-  <keys type="item" key="AC0_0_2285" value="Capital Guard Ring" />
-  <keys type="item" key="AC0_ca1_4_0_30014" value="(Rental) Karasha's Ring I (7 Days)" />
-  <keys type="item" key="AC0_ca1_4_0_30014_1" value="(Rental) Karasha's Ring II (7 Days)" />
-  <keys type="item" key="AC0_ca1_4_1_30021" value="(Rental) Karasha's Necklace (7 days)" />
-  <keys type="item" key="AC0_ev2_4_0_30014" value="Karasha's Hope Ring I (30 Days)" />
-  <keys type="item" key="AC0_ev2_4_0_30014_1" value="Karasha's Hope Ring II (30 Days)" />
-  <keys type="item" key="AC0_ev2_4_1_30021" value="Karasha's Hope Necklace (30 Days)" />
-  <keys type="item" key="AC0_1_33802" value="Awakened Titan Necklace" />
-  <keys type="item" key="AC0_0_33803" value="Awakened Attaius Ring I" />
-  <keys type="item" key="AC0_0_33804" value="Awakened Attaius Ring II" />
-  <keys type="item" key="pvpAC0_1_5569" value="Complex Slayer Necklace" />
-  <keys type="item" key="pvpAC0_0_5569" value="Complex Slayer Ring I" />
-  <keys type="item" key="pvpAC0_2_5569" value="Complex Slayer Ring II" />
-  <keys type="item" key="AC0_pk1_4_1_00000" value="Bloodstone Necklace" />
-  <keys type="item" key="AC0_pk1_4_1_00001" value="Crimson Necklace" />
-  <keys type="item" key="AC0_pk1_4_1_00002" value="Glowing Necklace" />
-  <keys type="item" key="AC0_ca2_4_0_30014" value="(Rental) Karasha's Ring I (1 day)" />
-  <keys type="item" key="AC0_ca2_4_0_30014_1" value="(Rental) Karasha's Ring II (1 Day)" />
-  <keys type="item" key="AC0_ca2_4_1_30021" value="(Rental) Karasha's Necklace (1 day)" />
+  <keys prop="Name" type="item" key="AC0_0_1000" value="Maria's Charm" />
+  <keys prop="Name" type="item" key="AC0_1_1000" value="Swift Cooldown Necklace (99%)" />
+  <keys prop="Name" type="item" key="AC0_0_9999" value="Ring for Testing_Critical Hit (100)" />
+  <keys prop="Name" type="item" key="AC0_0_9989" value="Ring for Testing_Critical Hit (30)" />
+  <keys prop="Name" type="item" key="AC0_0_9988" value="Ring for Testing_Critical Hit (70)" />
+  <keys prop="Name" type="item" key="AC0_0_10001" value="Royal Family Ring" />
+  <keys prop="Name" type="item" key="AC0_0_10002" value="Poe's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_21001" value="Fairy Ring" />
+  <keys prop="Name" type="item" key="AC0_0_21011" value="Woodland Crystalmight Ring" />
+  <keys prop="Name" type="item" key="AC0_0_21012" value="Woodland Crystalmind Ring" />
+  <keys prop="Name" type="item" key="AC0_0_21013" value="Woodland Crystalheart Ring" />
+  <keys prop="Name" type="item" key="AC0_0_21501" value="Marauder Ring" />
+  <keys prop="Name" type="item" key="AC0_0_21511" value="Detachment Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_21512" value="Detachment Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_21513" value="Detachment Ring of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_0_31501" value="Emberstone Ring" />
+  <keys prop="Name" type="item" key="AC0_0_22001" value="Vampire Ring" />
+  <keys prop="Name" type="item" key="AC0_0_22011" value="Militia Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_22012" value="Militia Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_22013" value="Militia Ring of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_0_32001" value="Cursed Ring" />
+  <keys prop="Name" type="item" key="AC0_0_22501" value="Firmament Ring" />
+  <keys prop="Name" type="item" key="AC0_0_22521" value="Corrupted Ring" />
+  <keys prop="Name" type="item" key="AC0_0_32501" value="Frozen Ring" />
+  <keys prop="Name" type="item" key="AC0_0_23001" value="Snowfield Ring" />
+  <keys prop="Name" type="item" key="AC0_0_33001" value="Attaius Ring" />
+  <keys prop="Name" type="item" key="AC0_0_23501" value="Frost Guard Ring" />
+  <keys prop="Name" type="item" key="AC0_0_33501" value="Ankelion Ring" />
+  <keys prop="Name" type="item" key="AC0_0_24001" value="Supreme Commander Ring" />
+  <keys prop="Name" type="item" key="AC0_1_21001" value="Ancient Braghin Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_22001" value="Vampire Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_22011" value="Militia Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_22012" value="Militia Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_22013" value="Militia Necklace of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_1_32001" value="Cursed Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_22501" value="Attaius Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_22521" value="Emberstone Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_32501" value="Frozen Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_23001" value="Corrupted Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_33001" value="Ankelion Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_23501" value="Supreme Commander Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_33501" value="Fairy Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_24001" value="Marauder Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_1001" value="Ruby Ring" />
+  <keys prop="Name" type="item" key="AC0_0_1141" value="Knight Errant Ring" />
+  <keys prop="Name" type="item" key="AC0_0_1142" value="Hakanas Hero Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2141" value="Blackblood Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_2142" value="Blackblood Ring of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_0_2143" value="Blackblood Ring of Intelligence" />
+  <keys prop="Name" type="item" key="AC0_1_2141" value="Frosted Sapphire Necklace of Constitution" />
+  <keys prop="Name" type="item" key="AC0_1_2142" value="Frosted Sapphire Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_2143" value="Frosted Sapphire Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_2144" value="Frosted Sapphire Necklace of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_1_2145" value="Frosted Sapphire Necklace of Intelligence" />
+  <keys prop="Name" type="item" key="AC0_1_2261" value="Water Pendant" />
+  <keys prop="Name" type="item" key="AC0_1_2262" value="Tempered Water Pendant" />
+  <keys prop="Name" type="item" key="AC0_0_2261" value="Promise Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2262" value="Hero Mark" />
+  <keys prop="Name" type="item" key="AC0_0_82151" value="Executioner Ring of Might" />
+  <keys prop="Name" type="item" key="AC0_0_82152" value="Executioner Ring of Magic" />
+  <keys prop="Name" type="item" key="AC0_1_82151" value="Executioner Necklace of Might" />
+  <keys prop="Name" type="item" key="AC0_1_82152" value="Executioner Necklace of Magic" />
+  <keys prop="Name" type="item" key="AC0_0_82251" value="Fabled Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_82252" value="Fabled Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_82251" value="Fabled Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_82252" value="Fabled Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_83251" value="Veteran's Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_83252" value="Veteran's Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_83251" value="Veteran's Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_83252" value="Veteran's Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_81101" value="Silver Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_81102" value="Silver Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_81101" value="Silver Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_81102" value="Silver Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_81201" value="Gold Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_81202" value="Gold Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_81201" value="Gold Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_81202" value="Gold Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_82201" value="Tempered Gold Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_82202" value="Tempered Gold Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_82201" value="Tempered Gold Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_82202" value="Tempered Gold Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_81301" value="Amethyst Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_81302" value="Amethyst Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_81301" value="Amethyst Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_81302" value="Amethyst Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_82301" value="Tempered Amethyst Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_82302" value="Tempered Amethyst Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_82301" value="Tempered Amethyst Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_82302" value="Tempered Amethyst Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_83301" value="Shining Amethyst Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_0_83302" value="Shining Amethyst Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_83301" value="Shining Amethyst Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_83302" value="Shining Amethyst Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_21501" value="Knight Errant Ring" />
+  <keys prop="Name" type="item" key="AC0_2_220011" value="Kingdom Officer's Ring" />
+  <keys prop="Name" type="item" key="AC0_2_225012" value="Modest Crokhoon Ring" />
+  <keys prop="Name" type="item" key="AC0_2_325013" value="Frost Matren Sapphire Ring" />
+  <keys prop="Name" type="item" key="AC0_2_230014" value="Complex Crokhoon Ring" />
+  <keys prop="Name" type="item" key="AC0_2_22001" value="Kingdom Officer's Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_22501" value="Modest Crokhoon Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_32501" value="Frost Matren Sapphire Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_23001" value="Complex Crokhoon Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_821511" value="Executioner Ring of Might" />
+  <keys prop="Name" type="item" key="AC0_2_821522" value="Executioner Ring of Magic" />
+  <keys prop="Name" type="item" key="AC0_2_82151" value="Executioner Necklace of Might" />
+  <keys prop="Name" type="item" key="AC0_2_82152" value="Executioner Necklace of Magic" />
+  <keys prop="Name" type="item" key="AC0_2_822513" value="Fabled Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_2_822522" value="Fabled Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_2_82251" value="Fabled Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_82252" value="Fabled Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_832511" value="Veteran's Physical Ring" />
+  <keys prop="Name" type="item" key="AC0_2_832522" value="Veteran's Magic Ring" />
+  <keys prop="Name" type="item" key="AC0_2_83251" value="Veteran's Physical Necklace" />
+  <keys prop="Name" type="item" key="AC0_2_83252" value="Veteran's Magic Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_2263" value="PvP Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_2264" value="PvP Ring II" />
+  <keys prop="Name" type="item" key="AC0_0_2265" value="PvP Ring III" />
+  <keys prop="Name" type="item" key="AC0_0_2266" value="PvP Ring IV" />
+  <keys prop="Name" type="item" key="AC0_0_2267" value="PvP Ring V" />
+  <keys prop="Name" type="item" key="AC0_0_2271" value="Tamus Ring" />
+  <keys prop="Name" type="item" key="AC0_1_2271" value="Tamus Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_2272" value="Capital Guard Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2281" value="Capital Guard Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2282" value="Capital Guard Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2283" value="Capital Guard Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2284" value="Capital Guard Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2273" value="Knight Commander Skull Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2274" value="Gustav's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2275" value="LeBrand's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2276" value="Kelloneh's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2277" value="Dragon Emblem" />
+  <keys prop="Name" type="item" key="AC0_1_2272" value="Ashuram's Energy" />
+  <keys prop="Name" type="item" key="AC0_1_2273" value="Matoukontin's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_2278" value="Zeppello's Revival Ring" />
+  <keys prop="Name" type="item" key="pvpAC0_1_2528" value="Modest Hunter Necklace" />
+  <keys prop="Name" type="item" key="pvpAC0_0_2528" value="Modest Hunter Ring" />
+  <keys prop="Name" type="item" key="pvpAC0_1_3033" value="Austere Hunter Necklace" />
+  <keys prop="Name" type="item" key="pvpAC0_0_3033" value="Austere Hunter Ring" />
+  <keys prop="Name" type="item" key="pvpAC0_1_3538" value="Complex Hunter Necklace" />
+  <keys prop="Name" type="item" key="pvpAC0_0_3538" value="Complex Hunter Ring" />
+  <keys prop="Name" type="item" key="pvpAC0_1_4043" value="Ornate Hunter Necklace" />
+  <keys prop="Name" type="item" key="pvpAC0_0_4043" value="Ornate Hunter Ring" />
+  <keys prop="Name" type="item" key="AC0_0_2279" value="Daveen's Grudge" />
+  <keys prop="Name" type="item" key="AC0_0_2280" value="Daveen's Rage" />
+  <keys prop="Name" type="item" key="AC0_1_2274" value="Bismuth's Booze Barrel" />
+  <keys prop="Name" type="item" key="AC0_1_2275" value="Bismuth's Wine Glass" />
+  <keys prop="Name" type="item" key="AC0_0_2290" value="Bismuth's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30000" value="Garrison Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_30001" value="Garrison Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_30002" value="Garrison Ring of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_0_30003" value="Windstriker Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_30004" value="Windstriker Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_30005" value="Windstriker Ring of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_0_30006" value="Crokhoon Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_30007" value="Crokhoon Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_30008" value="Crokhoon Ring of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_0_30009" value="Pegasus Knight Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_30010" value="Pegasus Knight Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_30011" value="Pegasus Knight Ring of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_0_30012" value="Merumi Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30013" value="Fallen Legion Ring" />
+  <keys prop="Name" type="item" key="AC0_1_30001" value="Detachment Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_30002" value="Detachment Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_30003" value="Detachment Necklace of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_1_30004" value="Garrison Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_30005" value="Garrison Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_30006" value="Garrison Necklace of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_1_30007" value="Windstriker Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_30008" value="Windstriker Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_30009" value="Windstriker Necklace of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_1_30010" value="Crokhoon Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_30011" value="Crokhoon Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_30012" value="Crokhoon Necklace of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_1_30013" value="Pegasus Knight Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_30014" value="Pegasus Knight Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_30015" value="Pegasus Knight Necklace of Dexterity" />
+  <keys prop="Name" type="item" key="AC0_1_30016" value="Firmament Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_30017" value="Snowfield Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_30018" value="Merumi Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_30019" value="Frost Guard Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_30020" value="Fallen Legion Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_30014" value="Karasha Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_30014_1" value="Karasha Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_30021" value="Karasha Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_30015" value="Jumawu's Ring" />
+  <keys prop="Name" type="item" key="AC0_1_30022" value="Jumawu's Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_30023" value="Jeranin's Blackblood Skull Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_30024" value="Usula's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_30016" value="Usula's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30017" value="Balboad's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30018" value="De Lamarche's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30019" value="Aiba's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30020" value="Baba's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30021" value="Shaba's Ring" />
+  <keys prop="Name" type="item" key="pvpAC1_1_3148" value="Jack the Hunter's Crimson Necklace" />
+  <keys prop="Name" type="item" key="pvpAC1_0_3148" value="Jack the Hunter's Cursed Ring" />
+  <keys prop="Name" type="item" key="pvpAC1_1_3350" value="Clachey's Crimson Necklace" />
+  <keys prop="Name" type="item" key="pvpAC1_0_3350" value="Clachey's Cursed Ring" />
+  <keys prop="Name" type="item" key="pvpAC1_1_3552" value="Nightmare's Crimson Necklace" />
+  <keys prop="Name" type="item" key="pvpAC1_0_3552" value="Nightmare's Cursed Ring" />
+  <keys prop="Name" type="item" key="pvpAC1_1_3855" value="Pyludd's Crimson Necklace" />
+  <keys prop="Name" type="item" key="pvpAC1_0_3855" value="Pyludd's Cursed Ring" />
+  <keys prop="Name" type="item" key="pvpAC1_1_4259" value="Vylet's Crimson Necklace" />
+  <keys prop="Name" type="item" key="pvpAC1_0_4259" value="Vylet's Cursed Ring" />
+  <keys prop="Name" type="item" key="pvpAC1_1_4562" value="Megantes's Crimson Necklace" />
+  <keys prop="Name" type="item" key="pvpAC1_0_4562" value="Megantes's Cursed Ring" />
+  <keys prop="Name" type="item" key="pvpAC1_2_3148" value="Jack the Hunter's Ring of Darkness" />
+  <keys prop="Name" type="item" key="pvpAC1_2_3350" value="Clachey's Ring of Darkness" />
+  <keys prop="Name" type="item" key="pvpAC1_2_3552" value="Nightmare's Ring of Darkness" />
+  <keys prop="Name" type="item" key="pvpAC1_2_3855" value="Pyludd's Ring of Darkness" />
+  <keys prop="Name" type="item" key="pvpAC1_2_4259" value="Anel da Escuridão de Vylet" />
+  <keys prop="Name" type="item" key="pvpAC1_2_4562" value="Anel da Escuridão de Megantes" />
+  <keys prop="Name" type="item" key="AC0_0_30022" value="Lavalight Challenger Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30023" value="Lavalight Conqueror Ring" />
+  <keys prop="Name" type="item" key="AC0_1_30025" value="Lavalight Master Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_30024" value="Carleon Challenger Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30025" value="Carleon Conqueror Ring" />
+  <keys prop="Name" type="item" key="AC0_1_30026" value="Carleon Master Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_30026" value="Matren Challenger Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30027" value="Matren Conqueror Ring" />
+  <keys prop="Name" type="item" key="AC0_1_30027" value="Matren Master Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_30028" value="Braghin Dash (Speed 50)" />
+  <keys prop="Name" type="item" key="AC0_0_30029" value="Braghin Dash (Speed 100)" />
+  <keys prop="Name" type="item" key="AC0_0_30030" value="Braghin Dash (Speed 200)" />
+  <keys prop="Name" type="item" key="AC0_0_30031" value="Braghin Rage (Attack)" />
+  <keys prop="Name" type="item" key="AC0_0_30032" value="Braghin Power (Speed/Attack)" />
+  <keys prop="Name" type="item" key="AC0_0_2098" value="Hakanas Knight Ring" />
+  <keys prop="Name" type="item" key="AC0_1_2098" value="Hakanas Knight Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_2099" value="Hakanas Sage Ring" />
+  <keys prop="Name" type="item" key="AC0_1_2099" value="Hakanas Sage Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_30028" value="Ruinous Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_30033" value="Ruinous Black Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30034" value="Ruinous Blue Ring" />
+  <keys prop="Name" type="item" key="AC0_0_83502" value="Exquisite Shining Amethyst Ring" />
+  <keys prop="Name" type="item" key="AC0_1_83501" value="Exquisite Shining Amethyst Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_84002" value="Polished Sapphire Ring" />
+  <keys prop="Name" type="item" key="AC0_1_84001" value="Polished Sapphire Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_90028" value="Parna Warrior Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_90033" value="Parna Warrior Black Ring" />
+  <keys prop="Name" type="item" key="AC0_0_90034" value="Parna Warrior Blue Ring" />
+  <keys prop="Name" type="item" key="AC0_0_33801" value="Attaius Ring" />
+  <keys prop="Name" type="item" key="AC0_0_33802" value="Tranua Ring" />
+  <keys prop="Name" type="item" key="AC0_1_33801" value="Titan Necklace" />
+  <keys prop="Name" type="item" key="BX_AC0_0_23501" value="Antique Crescent Merchant Ring" />
+  <keys prop="Name" type="item" key="BX_AC0_1_30019" value="Antique Crescent Merchant Necklace" />
+  <keys prop="Name" type="item" key="BX_AC0_0_33501" value="Crescent Merchant Ring" />
+  <keys prop="Name" type="item" key="BX_AC0_1_33001" value="Crescent Merchant Necklace" />
+  <keys prop="Name" type="item" key="BX_AC0_0_30013" value="Tempered Crescent Merchant Ring" />
+  <keys prop="Name" type="item" key="BX_AC0_1_30020" value="Tempered Crescent Merchant Necklace" />
+  <keys prop="Name" type="item" key="BX_AC0_0_24001" value="Shining Crescent Merchant Ring" />
+  <keys prop="Name" type="item" key="BX_AC0_1_23501" value="Shining Crescent Merchant Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_90101" value="Friendship Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_90102" value="Friendship Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_24001_qu" value="Hakanas Hero Necklace" />
+  <keys prop="Name" type="item" key="EV_AC0_0_33801" value="Princess Guard's Ring" />
+  <keys prop="Name" type="item" key="AC0_0_1000_EV" value="PCbunny Rabbit Ring I" />
+  <keys prop="Description" type="item" key="AC0_0_1000_EV" value="&lt;R_Y&gt;This item disappears 1 hour after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1000_EV" value="PCbunny Rabbit Necklace I" />
+  <keys prop="Description" type="item" key="AC0_1_1000_EV" value="&lt;R_Y&gt;This item disappears 1 hour after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1001_EV" value="PCbunny Rabbit Ring II" />
+  <keys prop="Description" type="item" key="AC0_0_1001_EV" value="&lt;R_Y&gt;This item disappears 3 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1001_EV" value="PCbunny Rabbit Necklace II" />
+  <keys prop="Description" type="item" key="AC0_1_1001_EV" value="&lt;R_Y&gt;This item disappears 3 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1002_EV" value="PCbunny Rabbit Ring III" />
+  <keys prop="Description" type="item" key="AC0_0_1002_EV" value="&lt;R_Y&gt;This item disappears 5 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1002_EV" value="PCbunny Rabbit Necklace III" />
+  <keys prop="Description" type="item" key="AC0_1_1002_EV" value="&lt;R_Y&gt;This item disappears 5 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1003_EV" value="PCbunny Rabbit Ring IV" />
+  <keys prop="Description" type="item" key="AC0_0_1003_EV" value="&lt;R_Y&gt;This item disappears 7 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1003_EV" value="PCbunny Rabbit Necklace IV" />
+  <keys prop="Description" type="item" key="AC0_1_1003_EV" value="&lt;R_Y&gt;This item disappears 7 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1004_EV" value="PCbunny Rabbit Ring V" />
+  <keys prop="Description" type="item" key="AC0_0_1004_EV" value="&lt;R_Y&gt;This item disappears 10 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1004_EV" value="PCbunny Rabbit Necklace V" />
+  <keys prop="Description" type="item" key="AC0_1_1004_EV" value="&lt;R_Y&gt;This item disappears 10 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_83512" value="Exquisite Shining Amethyst Ring" />
+  <keys prop="Name" type="item" key="AC0_1_83511" value="Exquisite Shining Amethyst Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_1143" value="Hakanas Protection Ring" />
+  <keys prop="Name" type="item" key="AC0_0_30032_TE_01" value="Braghin Power (Weapon Critical/Magic Critical)" />
+  <keys prop="Name" type="item" key="AC0_0_30032_TE_02" value="Braghin Power (Cast Speed)" />
+  <keys prop="Name" type="item" key="AC0_1_22501_qu" value="Knight Errant Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_90128" value="Rift Defender Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_90133" value="Rift Defender Black Ring" />
+  <keys prop="Name" type="item" key="AC0_0_90134" value="Rift Defender Blue Ring" />
+  <keys prop="Name" type="item" key="BX_AC1_1_90000" value="Sentinel Wisp Necklace" />
+  <keys prop="Name" type="item" key="BX_AC0_1_90040" value="Sentinel Wisp Ring" />
+  <keys prop="Name" type="item" key="BX_AC0_1_90041" value="Rift Grit Ring" />
+  <keys prop="Name" type="item" key="AC0_1_23502" value="Glorious Leader Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_24002" value="Glorious Leader Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_24003" value="Glorious Leader Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_45001" value="Alseik Guard Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_45002" value="Alseik Guard Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_45001" value="Alseik Guard Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_45002" value="Alseik Guard Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_45003" value="Mohaban Mercenary Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45003" value="Mohaban Mercenary Ring" />
+  <keys prop="Name" type="item" key="AC0_1_45004" value="Khabimist Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45004" value="Khabimist Ring" />
+  <keys prop="Name" type="item" key="AC0_1_50001" value="Hermit's Necklace of Strength" />
+  <keys prop="Name" type="item" key="AC0_1_50002" value="Hermit's Necklace of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_0_50001" value="Hermit's Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_50002" value="Hermit's Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_50003" value="Desert Braghin Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50003" value="Desert Braghin Ring" />
+  <keys prop="Name" type="item" key="AC0_1_50004" value="Tyrant's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50004" value="Tyrant's Ring" />
+  <keys prop="Name" type="item" key="pvpAC0_1_4564" value="Modest Slayer Necklace" />
+  <keys prop="Name" type="item" key="pvpAC0_0_4564" value="Modest Slayer Ring I" />
+  <keys prop="Name" type="item" key="pvpAC0_2_4564" value="Modest Slayer Ring II" />
+  <keys prop="Name" type="item" key="pvpAC0_1_5069" value="Austere Slayer Necklace" />
+  <keys prop="Name" type="item" key="pvpAC0_0_5069" value="Austere Slayer Ring I" />
+  <keys prop="Name" type="item" key="pvpAC0_2_5069" value="Austere Slayer Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_45004_CR" value="Polished Emerald Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45004_CR" value="Polished Emerald Ring" />
+  <keys prop="Name" type="item" key="AC0_1_50004_CR" value="Exquisite Polished Emerald Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50004_CR" value="Exquisite Polished Emerald Ring" />
+  <keys prop="Name" type="item" key="AC0_1_45005" value="Alchemist Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50011" value="Alchemist Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_50012" value="Alchemist Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_45006" value="Merchant Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50013" value="Merchant Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_50014" value="Merchant Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_45007" value="Tamer Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50015" value="Tamer Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_50016" value="Tamer Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_45008" value="Blacksmith Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50017" value="Blacksmith Ring of Strength" />
+  <keys prop="Name" type="item" key="AC0_0_50018" value="Blacksmith Ring of Wisdom" />
+  <keys prop="Name" type="item" key="AC0_1_45300" value="Lazart's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45300" value="Lazart's Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_45301" value="Lazart's Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_45310" value="Kashim's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45310" value="Kashim's Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_45311" value="Kashim's Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_45320" value="Zenon's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45320" value="Zenon's Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_45321" value="Zenon's Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_45330" value="Mupadin's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45330" value="Mupadin's Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_45331" value="Mupadin's Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_45400" value="Ancient Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45400" value="Ancient Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_45401" value="Ancient Ring II" />
+  <keys prop="Name" type="item" key="AC0_0_45500" value="Fractura Antidote Ring" />
+  <keys prop="Name" type="item" key="AC0_0_1000_EV2" value="PCbunny Rabbit Ring I" />
+  <keys prop="Description" type="item" key="AC0_0_1000_EV2" value="&lt;R_Y&gt;This item disappears 1 hour after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1000_EV2" value="PCbunny Rabbit Necklace I" />
+  <keys prop="Description" type="item" key="AC0_1_1000_EV2" value="&lt;R_Y&gt;This item disappears 1 hour after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1001_EV2" value="PCbunny Rabbit Ring II" />
+  <keys prop="Description" type="item" key="AC0_0_1001_EV2" value="&lt;R_Y&gt;This item disappears 3 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1001_EV2" value="PCbunny Rabbit Necklace II" />
+  <keys prop="Description" type="item" key="AC0_1_1001_EV2" value="&lt;R_Y&gt;This item disappears 3 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1002_EV2" value="PCbunny Rabbit Ring III" />
+  <keys prop="Description" type="item" key="AC0_0_1002_EV2" value="&lt;R_Y&gt;This item disappears 5 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1002_EV2" value="PCbunny Rabbit Necklace III" />
+  <keys prop="Description" type="item" key="AC0_1_1002_EV2" value="&lt;R_Y&gt;This item disappears 5 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1003_EV2" value="PCbunny Rabbit Ring IV" />
+  <keys prop="Description" type="item" key="AC0_0_1003_EV2" value="&lt;R_Y&gt;This item disappears 7 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1003_EV2" value="PCbunny Rabbit Necklace IV" />
+  <keys prop="Description" type="item" key="AC0_1_1003_EV2" value="&lt;R_Y&gt;This item disappears 7 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_0_1004_EV2" value="PCbunny Rabbit Ring V" />
+  <keys prop="Description" type="item" key="AC0_0_1004_EV2" value="&lt;R_Y&gt;This item disappears 10 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1004_EV2" value="PCbunny Rabbit Necklace V" />
+  <keys prop="Description" type="item" key="AC0_1_1004_EV2" value="&lt;R_Y&gt;This item disappears 10 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_45600" value="Desert Warrior Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_45600" value="Desert Warrior Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_45601" value="Desert Warrior Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_XMAS" value="Ellandfel Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_XMAS1" value="Ellandfel Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_XMAS2" value="Ellandfel Ring II" />
+  <keys prop="Name" type="item" key="AC0_504_30014" value="Exalted Ring I" />
+  <keys prop="Name" type="item" key="AC0_504_30014_1" value="Exalted Ring II" />
+  <keys prop="Name" type="item" key="AC0_504_30021" value="Exalted Necklace" />
+  <keys prop="Name" type="item" key="AC0_ev1_1_0_30014" value="(PC Cafe) Karasha's Ring I (6 Hours)" />
+  <keys prop="Name" type="item" key="AC0_ev1_1_0_30014_1" value="(PC Cafe) Karasha's Ring II (6 Hours)" />
+  <keys prop="Name" type="item" key="AC0_ev1_1_1_30021" value="(PC Cafe) Karasha's Necklace (6 Hours)" />
+  <keys prop="Name" type="item" key="AC0_ev1_2_0_30014" value="(PC Cafe) Karasha's Ring I (1 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev1_2_0_30014_1" value="(PC Cafe) Karasha's Ring II (1 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev1_2_1_30021" value="(PC Cafe) Karasha's Necklace (1 Day)" />
+  <keys prop="Name" type="item" key="AC0_0_1005_EV2" value="PCbunny's Rabbit Ring (3 Hours)" />
+  <keys prop="Description" type="item" key="AC0_0_1005_EV2" value="&lt;R_Y&gt;This item disappears 3 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_1005_EV2" value="PCbunny's Rabbit Necklace (3 Hours)" />
+  <keys prop="Description" type="item" key="AC0_1_1005_EV2" value="&lt;R_Y&gt;This item disappears 3 hours after adding it in your inventory.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="AC0_1_00004" value="Elgaden Officer's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_00005" value="Elgaden Officer's Ring" />
+  <keys prop="Name" type="item" key="AC0_1_00007" value="Ravager Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_00008" value="Ravager Ring" />
+  <keys prop="Name" type="item" key="AC0_1_00010" value="Chaotic Necklace " />
+  <keys prop="Name" type="item" key="AC0_0_00011" value="Chaotic Ring" />
+  <keys prop="Name" type="item" key="AC0_1_00013" value="Polished Diamond Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_00014" value="Polished Diamond Ring" />
+  <keys prop="Name" type="item" key="AC0_ev1_3_0_30014" value="(Quest) Karasha Ring I (14 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev1_3_0_30014_1" value="(Quest) Karasha Ring II (14 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev1_3_1_30021" value="(Quest) Karasha Necklace (14 Day)" />
+  <keys prop="Name" type="item" key="AC0_1_50505" value="Pridon Roa's Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50506" value="Lenanzar's Left-Hand Ring" />
+  <keys prop="Name" type="item" key="AC0_0_50507" value="Lenanzar's Right-Hand Ring" />
+  <keys prop="Name" type="item" key="AC0_jp_40000" value="Jeranin's Necklace" />
+  <keys prop="Name" type="item" key="AC0_jp_40001" value="Jeranin's Ring I " />
+  <keys prop="Name" type="item" key="AC0_jp_40002" value="Jeranin's Ring II" />
+  <keys prop="Name" type="item" key="AC0_ev1_4_0_30014" value="(Event) Karasha Ring I (30 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev1_4_0_30014_1" value="(Event) Karasha Ring II (30 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev1_4_1_30021" value="(Event) Karasha Necklace (30 Day)" />
+  <keys prop="Name" type="item" key="AC0_0_1144" value="Absolute Ring (7 Days)" />
+  <keys prop="Name" type="item" key="AC0_ev2_3_0_30014" value="Karasha Ring I (14 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev2_3_0_30014_1" value="Karasha Ring II (14 Day)" />
+  <keys prop="Name" type="item" key="AC0_ev2_3_1_30021" value="Karasha Necklace (14 Day)" />
+  <keys prop="Name" type="item" key="AC0_1_50510" value="Chaos Elf Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_50511" value="Chaos Elf Ring I " />
+  <keys prop="Name" type="item" key="AC0_0_50512" value="Chaos Elf Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_60510" value="Level Option Test Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_60511" value="Level Option Test Ring I " />
+  <keys prop="Name" type="item" key="AC0_0_60512" value="Level Option Test Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_00015" value="Yorminsul's Exalted Necklace" />
+  <keys prop="Name" type="item" key="AC0_1_00016" value="Yorminsul's Exalted Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_00017" value="Yorminsul's Exalted Ring II" />
+  <keys prop="Name" type="item" key="AC0_1_SUMMER" value="Ice Cream Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_SUMMER1" value="Ice Cream Ring I " />
+  <keys prop="Name" type="item" key="AC0_0_SUMMER2" value="Ice Cream Ring II" />
+  <keys prop="Name" type="item" key="AC0_0_2285" value="Capital Guard Ring" />
+  <keys prop="Name" type="item" key="AC0_ca1_4_0_30014" value="(Rental) Karasha's Ring I (7 Days)" />
+  <keys prop="Name" type="item" key="AC0_ca1_4_0_30014_1" value="(Rental) Karasha's Ring II (7 Days)" />
+  <keys prop="Name" type="item" key="AC0_ca1_4_1_30021" value="(Rental) Karasha's Necklace (7 days)" />
+  <keys prop="Name" type="item" key="AC0_ev2_4_0_30014" value="Karasha's Hope Ring I (30 Days)" />
+  <keys prop="Name" type="item" key="AC0_ev2_4_0_30014_1" value="Karasha's Hope Ring II (30 Days)" />
+  <keys prop="Name" type="item" key="AC0_ev2_4_1_30021" value="Karasha's Hope Necklace (30 Days)" />
+  <keys prop="Name" type="item" key="AC0_1_33802" value="Awakened Titan Necklace" />
+  <keys prop="Name" type="item" key="AC0_0_33803" value="Awakened Attaius Ring I" />
+  <keys prop="Name" type="item" key="AC0_0_33804" value="Awakened Attaius Ring II" />
+  <keys prop="Name" type="item" key="pvpAC0_1_5569" value="Complex Slayer Necklace" />
+  <keys prop="Name" type="item" key="pvpAC0_0_5569" value="Complex Slayer Ring I" />
+  <keys prop="Name" type="item" key="pvpAC0_2_5569" value="Complex Slayer Ring II" />
+  <keys prop="Name" type="item" key="AC0_pk1_4_1_00000" value="Bloodstone Necklace" />
+  <keys prop="Name" type="item" key="AC0_pk1_4_1_00001" value="Crimson Necklace" />
+  <keys prop="Name" type="item" key="AC0_pk1_4_1_00002" value="Glowing Necklace" />
+  <keys prop="Description" type="item" key="AC0_0_1145" value="Icarian Ring (7 Day)" />
+  <keys prop="Name" type="item" key="AC0_ca2_4_0_30014" value="(Rental) Karasha's Ring I (1 day)" />
+  <keys prop="Name" type="item" key="AC0_ca2_4_0_30014_1" value="(Rental) Karasha's Ring II (1 Day)" />
+  <keys prop="Name" type="item" key="AC0_ca2_4_1_30021" value="(Rental) Karasha's Necklace (1 day)" />
 </files>

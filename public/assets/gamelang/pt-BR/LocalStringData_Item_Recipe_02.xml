@@ -1,26 +1,203 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="RC_6_0_00192" value="Masked Tavor Binding Method" />
-  <keys type="item" key="RC_6_0_00193" value="White Hamster Binding Method" />
-  <keys type="item" key="RC_6_0_00194" value="Striped Hamster Binding Method" />
-  <keys type="item" key="RC_6_0_70000_1" value="Bloodless Sword Recipe" />
-  <keys type="item" key="RC_6_0_70000_2" value="Bloodless Dagger Recipe" />
-  <keys type="item" key="RC_6_0_70000_3" value="Bloodless Staff Recipe" />
-  <keys type="item" key="RC_6_0_70000_4" value="Bloodless Greatsword Recipe" />
-  <keys type="item" key="RC_6_0_70000_5" value="Bloodless Scepter Recipe" />
-  <keys type="item" key="RC_6_0_70000_6" value="Bloodless Shortbow Recipe" />
-  <keys type="item" key="RC_6_0_70000_7" value="Bloodless Crossbow Recipe" />
-  <keys type="item" key="RC_6_0_70000_8" value="Bloodless Lance Recipe" />
-  <keys type="item" key="RC_6_0_70000_9" value="Bloodless Magic Wand Recipe" />
-  <keys type="item" key="RC_6_0_70000_10" value="Bloodless Shield Recipe" />
-  <keys type="item" key="RC_6_0_70000_11" value="Bloodless Crest Recipe" />
-  <keys type="item" key="RC_6_0_70000_12" value="Bloodless Gauntlett Recipe" />
-  <keys type="item" key="RC_6_0_70000_13" value="Bloodless Teddy Bear Recipe" />
-  <keys type="item" key="RC_6_0_00195" value="Cold-Blooded Leviathan Mark Recipe" />
-  <keys type="item" key="RC_6_0_00196" value="Fleeting Eclipse Binding Method" />
-  <keys type="item" key="rc_fel_god_claw" value="Ancient Dragon God Claw Recipe" />
-  <keys type="item" key="rc_fel_god_sad" value="Ancient Dragon God Saddle Recipe" />
-  <keys type="item" key="rc_fel_god_soul" value="Ancient Dragon God Soulstone Recipe" />
-  <keys type="item" key="rc_6_ar_ref" value="Mythical Armor Refining Stone Recipe" />
-  <keys type="item" key="rc_6_ar_hon" value="Mythical Armor Honing Stone Recipe" />
+  <keys prop="Name" type="monster" key="RC_6_0_00192" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_00192" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_00193" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_00193" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_00194" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_00194" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_1" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_2" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_3" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_4" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_5" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_6" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_7" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_8" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_9" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_10" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_11" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_12" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_70000_13" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_1" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_2" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_3" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_4" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_5" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_6" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_7" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_8" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_9" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_10" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_11" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_12" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_70000_13" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_00195" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_00195" value="" />
+  <keys prop="Name" type="monster" key="RC_6_0_00196" value="" />
+  <keys prop="Description" type="monster" key="RC_6_0_00196" value="" />
+  <keys prop="Name" type="monster" key="rc_fel_god_claw" value="" />
+  <keys prop="Description" type="monster" key="rc_fel_god_claw" value="" />
+  <keys prop="Name" type="monster" key="rc_fel_god_sad" value="" />
+  <keys prop="Description" type="monster" key="rc_fel_god_sad" value="" />
+  <keys prop="Name" type="monster" key="rc_fel_god_soul" value="" />
+  <keys prop="Description" type="monster" key="rc_fel_god_soul" value="" />
+  <keys prop="Name" type="monster" key="rc_6_ar_ref" value="" />
+  <keys prop="Description" type="monster" key="rc_6_ar_ref" value="" />
+  <keys prop="Name" type="monster" key="rc_6_ar_hon" value="" />
+  <keys prop="Description" type="monster" key="rc_6_ar_hon" value="" />
+  <keys prop="Description" type="monster" key="ev_bx_firework_0" value="" />
+  <keys prop="Description" type="monster" key="ev_bx_firework_0_description" value="" />
+  <keys prop="Description" type="monster" key="ev_bx_firework_1" value="" />
+  <keys prop="Description" type="monster" key="ev_bx_firework_1_description" value="" />
+  <keys prop="Description" type="monster" key="ev_bx_firework_2" value="" />
+  <keys prop="Description" type="monster" key="ev_bx_firework_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_EV_FIREWORK0" value="" />
+  <keys prop="Description" type="monster" key="RC_EV_FIREWORK0_description" value="" />
+  <keys prop="Description" type="monster" key="RC_EV_FIREWORK1" value="" />
+  <keys prop="Description" type="monster" key="RC_EV_FIREWORK1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_EV_FIREWORK2" value="" />
+  <keys prop="Description" type="monster" key="RC_EV_FIREWORK2_description" value="" />
+  <keys prop="Description" type="monster" key="rc_6_runegolem" value="" />
+  <keys prop="Description" type="monster" key="rc_6_runegolem_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar0_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar1_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar3_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar4_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar5_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar2_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar10_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar8_5_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_2_4_7001" value="" />
+  <keys prop="Description" type="monster" key="RC_2_4_7001_description" value="" />
+  <keys prop="Description" type="monster" key="RC_2_4_7007" value="" />
+  <keys prop="Description" type="monster" key="RC_2_4_7007_description" value="" />
+  <keys prop="Description" type="monster" key="RC_7_divine_1" value="" />
+  <keys prop="Description" type="monster" key="RC_7_divine_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_6_AR_REF_1" value="" />
+  <keys prop="Description" type="monster" key="RC_6_AR_REF_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_6_AR_HON_1" value="" />
+  <keys prop="Description" type="monster" key="RC_6_AR_HON_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_GD_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_GD_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_GD_2" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_GD_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WR_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WR_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WR_2" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WR_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_TF_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_TF_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_TF_2" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_TF_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WZ_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WZ_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WZ_2" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_WZ_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_PR_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_PR_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_PR_2" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_PR_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_AC_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_AC_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_AC_2" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_AC_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_DO_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_DO_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_DO_2" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_DO_2_description" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_MG_1" value="" />
+  <keys prop="Description" type="monster" key="RC_PVP_DIV_MG_1_description" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_01" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_01_description" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_02" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_02_description" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_03" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_03_description" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_04" value="" />
+  <keys prop="Description" type="monster" key="RC_6_neko_04_description" value="" />
+  <keys prop="Description" type="monster" key="RC_6_grimreaper" value="" />
+  <keys prop="Description" type="monster" key="RC_6_grimreaper_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_1_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_1_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_2_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_2_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_3_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_3_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_4_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_4_6900_1_description" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_5_6900_1" value="" />
+  <keys prop="Description" type="monster" key="rc_ar11_5_6900_1_description" value="" />
 </files>

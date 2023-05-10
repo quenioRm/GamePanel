@@ -1,2 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="preset_parts_face" value="" />
+  <keys prop="Description" type="monster" key="preset_parts_hair" value="" />
+  <keys prop="Description" type="monster" key="preset_face" value="" />
+  <keys prop="Description" type="monster" key="preset_hair" value="" />
+  <keys prop="Description" type="monster" key="preset_body" value="" />
+</files>

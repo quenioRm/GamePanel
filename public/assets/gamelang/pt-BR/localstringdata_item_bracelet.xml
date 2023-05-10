@@ -1,17 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="BRACELET000" value="Bracelet for testing 1" />
-  <keys type="item" key="BRACELET001" value="Bracelet for testing 2" />
-  <keys type="item" key="BRACELET002" value="Bracelet for testing 3" />
-  <keys type="item" key="IT_BR_CM_0000" value="Bracelet 1" />
-  <keys type="item" key="IT_BR_CM_0001" value="Bracelet 2" />
-  <keys type="item" key="IT_BR_CM_0002" value="Bracelet 3" />
-  <keys type="item" key="CA_BR_CM_0000" value="Rain Moon Door Light" />
-  <keys type="item" key="EV_BR_CM_0000" value="Balanced Snowflake Bracelet" />
-  <keys type="item" key="CA_BR_CM_0001" value="Corosimo's Treasure" />
-  <keys type="item" key="CA_BR_CM_0002" value="Perfect Ice Bracelet" />
-  <keys type="item" key="CA_BR_CM_0003" value="Best Ice Bracelet" />
-  <keys type="item" key="CA_BR_CM_0004" value="Perfect Ice Bracelet" />
-  <keys type="item" key="CA_BR_CM_0005" value="Hakane's Bravery" />
-  <keys type="item" key="CA_BR_CM_0006" value="Baela's Wisdom" />
+  <keys prop="Name" type="item" key="BRACELET000" value="" />
+  <keys prop="Name" type="item" key="BRACELET001" value="" />
+  <keys prop="Name" type="item" key="BRACELET002" value="" />
+  <keys prop="Name" type="item" key="IT_BR_CM_0000" value="" />
+  <keys prop="Name" type="item" key="IT_BR_CM_0001" value="" />
+  <keys prop="Name" type="item" key="IT_BR_CM_0002" value="" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0000" value="" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0000" value="" />
+  <keys prop="Name" type="item" key="EV_BR_CM_0000" value="" />
+  <keys prop="Description" type="item" key="EV_BR_CM_0000" value="" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0001" value="" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0001" value="" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0002" value="" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0002" value="" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0003" value="" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0003" value="" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0004" value="" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0004" value="" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0005" value="" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0005" value="" />
+  <keys prop="Name" type="item" key="CA_BR_CM_0006" value="" />
+  <keys prop="Description" type="item" key="CA_BR_CM_0006" value="" />
 </files>

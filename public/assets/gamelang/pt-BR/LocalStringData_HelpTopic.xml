@@ -1,2 +1,967 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="help_title_guide" value="O Básico" />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow" value="Autoaperfeiçoamento" />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_tip" value="Autoaperfeiçoamento" />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_0" value="&lt;font color=&quot;#e5c015&quot;&gt;1. Suba de Nível&lt;/font&gt;&#xD;&#xA;- Aumenta o ataque, taxa de crítico e vida.&#xD;&#xA;- Aprimora precisão, evasão e defesa contra inimigos.&#xD;&#xA;- Permite usar novas habilidades e equipamentos melhores." />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_1" value="&lt;font color=&quot;#e5c015&quot;&gt;Dica: Ser derrotado em batalhas causa Feridas Horrendas, diminuindo sua velocidade de movimento. Fale com um Socorrista para curar suas feridas.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_2" value="&lt;font color=&quot;#e5c015&quot;&gt;2. Tempere Seus Itens&lt;/font&gt;&#xD;&#xA;- Clique com o botão direito em uma Pedra de Têmpera e então clique no item.&#xD;&#xA;- Pedras com nível maior possuem uma chance maior de sucesso.&#xD;&#xA;- Consiga pedras destruindo itens com os Extratores.&#xD;&#xA;- Compre Extratores nas lojas específicas." />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_3" value="&lt;font color=&quot;#e5c015&quot;&gt;3. Crie Poções&lt;/font&gt;&#xD;&#xA;- Poções criadas são mais fortes que as compradas nas lojas.&#xD;&#xA;- Crie poções treinando Alquimia." />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_4" value="&lt;font color=&quot;#e5c015&quot;&gt;4. Crie Grupos&lt;/font&gt;&#xD;&#xA;- Crie um grupo para lutar contra monstros mais fortes e masmorras.&#xD;&#xA;- Convide pessoas via &lt;font color=&quot;#e5c015&quot;&gt;/ConviteDeGrupo nomedeusuario&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_5" value="&lt;font color=&quot;#e5c015&quot;&gt;5. Use Pedra-Lacre de Familiares&lt;/font&gt;&#xD;&#xA;- Alt + botão direito do mouse em uma Pedra-Lacre Familiar para usar em um item a ser equipado.&#xD;&#xA;- Isso só é possível em itens com espaços para Pedra-Lacre." />
+  <keys prop="Description" type="monster" key="help_infolink_knowhow_6" value="&lt;font color=&quot;#e5c015&quot;&gt;6. Use Talentos&lt;/font&gt;&#xD;&#xA;- Você pode usar talentos a partir do nível 20.&#xD;&#xA;- Equipar talentos consome Poder de Talento.&#xD;&#xA;- Consiga Poder de Talento através da Pedra-Lacre de Familiar." />
+  <keys prop="Description" type="monster" key="help_title_mainui" value="Interface de Usuário" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui" value="Menu Principal" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_tip" value="Menu Principal" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Informações do Jogador:&lt;/font&gt; Seu nível, barra de vida e barra de recurso de habilidade" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt; Janela de Bate-papo:&lt;/font&gt; Jogador, combate e mensagens do sistema" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_2" value="&lt;font color=&quot;#e5c015&quot;&gt;Dica:&lt;/font&gt; Você pode customizar sua janela de bate-papo como quiser!" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Atalhos:&lt;/font&gt; Arraste habilidades e itens aqui para acesso rápido" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_4" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Minimapa:&lt;/font&gt; Seu canal, quests próximas, lojas, etc." />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_5" value="5. &lt;font color=&quot;#e5c015&quot;&gt;Ajuda de Missão:&lt;/font&gt; Mostra informações das missões ativas" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_6" value="6. &lt;font color=&quot;#e5c015&quot;&gt;Menus:&lt;/font&gt; Habilidades, Inventário, Personagem e outros menus" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_7" value="8. &lt;font color=&quot;#e5c015&quot;&gt;Espaço da Lan House&lt;/font&gt;: mostra o familiar da Lan House, recompensas de login, ícone de roleta" />
+  <keys prop="Description" type="monster" key="help_infolink_mainui_8" value="9.&lt;font color=&quot;#e5c015&quot;&gt;Menu do Jogo&lt;/font&gt;: mostra as informações do personagem, bolsa, habilidades, etc." />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu" value="Menus do Jogo" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_tip" value="Menus do Jogo" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_0" value="Clique com o botão esquerdo num ícone do menu para abri-lo." />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Armazém de Ellora:&lt;/font&gt; Onde são entregues itens em dinheiro, recompensas de eventos, etc" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Informações Básicas:&lt;/font&gt; Informações do personagem, inventário, habilidades e mapa" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Conquista&lt;/font&gt;: Informações de Conquistas" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_4" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Sistema&lt;/font&gt;: Familiares, Informações do Personagem, Opções do Jogo, Sistema e Menu de Conteúdo do jogo" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_5" value="5. &lt;font color=&quot;#e5c015&quot;&gt;Social:&lt;/font&gt;Informações do grupo, PvP, informação da guilda, amigos, ações" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_6" value="6. &lt;font color=&quot;#e5c015&quot;&gt;Sistema:&lt;/font&gt; Menus de Configurações" />
+  <keys prop="Description" type="monster" key="help_infolink_gamemenu_7" value="7. &lt;font color=&quot;#e5c015&quot;&gt;Sistema&lt;/font&gt;: Menu para funções relacionadas ao sistemas de mini jogos" />
+  <keys prop="Description" type="monster" key="help_infolink_charui" value="Informações do Personagem" />
+  <keys prop="Description" type="monster" key="help_infolink_charui_tip" value="Informações do Personagem" />
+  <keys prop="Description" type="monster" key="help_infolink_charui_0" value="Você pode equipar-se e verificar seus atributos aqui." />
+  <keys prop="Description" type="monster" key="help_infolink_charui_1" value="Pressione &lt;font color=&quot;#e5c015&quot;&gt;[P]&lt;/font&gt; para abrir essa janela ou clique no menu Personagem." />
+  <keys prop="Description" type="monster" key="help_infolink_bagui" value="Inventário" />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_tip" value="Inventário" />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_0" value="Pressione&lt;font color=&quot;#e5c015&quot;&gt;[I]&lt;/font&gt; para abrir seu inventário ou clique no menu Inventário." />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Espaços da Bolsa:&lt;/font&gt; Arraste e solte bolsas aqui para aumentar seu espaço de inventário." />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Botão Organizar:&lt;/font&gt; Organiza os itens por tipo." />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Dinheiro:&lt;/font&gt; Seu ouro, prata e cobre." />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_4" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Dividir Itens:&lt;/font&gt; Shift + botão direito do mouse para dividir uma pilha de itens." />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_5" value="5. &lt;font color=&quot;#e5c015&quot;&gt;Bolsa Premium&lt;/font&gt;: uma bolsa premium para carregar mais itens." />
+  <keys prop="Description" type="monster" key="help_infolink_bagui_6" value="6. &lt;font color=&quot;#e5c015&quot;&gt;Dividir Pilha de Itens&lt;/font&gt;&#xD;&#xA; - Em pilhas de itens com 2 itens ou mais, use &lt;font color=&quot;#e5c015&quot;&gt;shift + botão direito do mouse&lt;/font&gt; para dividir a quantidade." />
+  <keys prop="Description" type="monster" key="help_infolink_raderui" value="Minimapa" />
+  <keys prop="Description" type="monster" key="help_infolink_raderui_tip" value="Minimapa" />
+  <keys prop="Description" type="monster" key="help_infolink_raderui_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt; Funções dos Familiares:&lt;/font&gt; Montar, invocar, voar&#xD;&#xA; - Disponível: Montar = Laranja, Invocar = Verde, Voar = Azul&#xD;&#xA; - Não disponível: Cinza" />
+  <keys prop="Description" type="monster" key="help_infolink_raderui_1" value="2. Verifique seu correio e saldo." />
+  <keys prop="Description" type="monster" key="help_infolink_raderui_2" value="3. Informações do Canal. Clique para mudar de canal." />
+  <keys prop="Description" type="monster" key="help_infolink_raderui_3" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Configurações:&lt;/font&gt; Zoom, transparência, exibição dos ícones" />
+  <keys prop="Description" type="monster" key="help_infolink_raderui_4" value="5. Arraste o minimapa para viajar." />
+  <keys prop="Description" type="monster" key="help_infolink_raderui_5" value="6. Sua região atual." />
+  <keys prop="Description" type="monster" key="help_infolink_mapui" value="Mapa do Mundo" />
+  <keys prop="Description" type="monster" key="help_infolink_mapui_tip" value="Mapa do Mundo" />
+  <keys prop="Description" type="monster" key="help_infolink_mapui_0" value="Pressione&lt;font color=&quot;#e5c015&quot;&gt;[M]&lt;/font&gt; para abrir seu mapa ou clique no menu Mapa." />
+  <keys prop="Description" type="monster" key="help_infolink_mapui_1" value="1. Sua região atual." />
+  <keys prop="Description" type="monster" key="help_infolink_mapui_2" value="2. Menu em lista de outras regiões." />
+  <keys prop="Description" type="monster" key="help_infolink_mapui_3" value="3. Clique para ver o Mapa do Mundo." />
+  <keys prop="Description" type="monster" key="help_infolink_quickui" value="Atalhos" />
+  <keys prop="Description" type="monster" key="help_infolink_quickui_tip" value="Atalhos" />
+  <keys prop="Description" type="monster" key="help_infolink_quickui_0" value="Os Atalhos alternam automaticamente quando você monta." />
+  <keys prop="Description" type="monster" key="help_infolink_quickui_1" value="Arraste uma habilidade para o ícone acinzentado para alternar entre as barras de atalho montado e não montado." />
+  <keys prop="Description" type="monster" key="help_infolink_quickui_2" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Atalhos de Classe:&lt;/font&gt; Seus atalhos de itens/habilidades de classe." />
+  <keys prop="Description" type="monster" key="help_infolink_quickui_3" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Atalhos de Montaria:&lt;/font&gt; Seus atalhos de itens/habilidades de montaria." />
+  <keys prop="Description" type="monster" key="help_infolink_communityui" value="Janela de Bate-Papo" />
+  <keys prop="Description" type="monster" key="help_infolink_communityui_tip" value="Janela de Bate-Papo" />
+  <keys prop="Description" type="monster" key="help_infolink_communityui_0" value="1. Altera as configurações do chat." />
+  <keys prop="Description" type="monster" key="help_infolink_communityui_1" value="2. Arraste diferentes abas para movê-las para novas janelas." />
+  <keys prop="Description" type="monster" key="help_infolink_communityui_2" value="3. Selecione para quem você está mandando mensagens." />
+  <keys prop="Description" type="monster" key="help_title_operate" value="Controles Básicos" />
+  <keys prop="Description" type="monster" key="help_infolink_move" value="Movimento" />
+  <keys prop="Description" type="monster" key="help_infolink_move_tip" value="Movimento" />
+  <keys prop="Description" type="monster" key="help_infolink_move_0" value="&lt;font color=&quot;#e5c015&quot;&gt;W:&lt;/font&gt; Mover para a frente" />
+  <keys prop="Description" type="monster" key="help_infolink_move_1" value="&lt;font color=&quot;#e5c015&quot;&gt;S:&lt;/font&gt; Mover para trás" />
+  <keys prop="Description" type="monster" key="help_infolink_move_2" value="&lt;font color=&quot;#e5c015&quot;&gt;A:&lt;/font&gt; Mover para a esquerda" />
+  <keys prop="Description" type="monster" key="help_infolink_move_3" value="&lt;font color=&quot;#e5c015&quot;&gt;D:&lt;/font&gt; Mover para a direita" />
+  <keys prop="Description" type="monster" key="help_infolink_combat" value="Combate Básico" />
+  <keys prop="Description" type="monster" key="help_infolink_combat_tip" value="Combate Básico" />
+  <keys prop="Description" type="monster" key="help_infolink_combat_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Selecionando Alvos&lt;/font&gt;&#xD;&#xA;- Um alvo próximo será automaticamente selecionado.&#xD;&#xA;- Você também pode clicar em alvos para selecioná-los.&#xD;&#xA;- Pressione &lt;font color=&quot;#e5c015&quot;&gt;Tab&lt;/font&gt; para alternar entre inimigos próximos." />
+  <keys prop="Description" type="monster" key="help_infolink_combat_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Atacando&lt;/font&gt;&#xD;&#xA;- Duplo clique ou clique com o botão direito do mouse para atacar.&#xD;&#xA;- Ou use o atalho de autoataque para atacar." />
+  <keys prop="Description" type="monster" key="help_infolink_combat_2" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Esquivando Ataques de Alcance&lt;/font&gt;&#xD;&#xA;- Alguns inimigos podem atacar com ataques de alcance.&#xD;&#xA;- Saia do caminho ou desvie de seus projéteis!" />
+  <keys prop="Description" type="monster" key="help_infolink_camera" value="Câmera" />
+  <keys prop="Description" type="monster" key="help_infolink_camera_tip" value="Controles de Câmera" />
+  <keys prop="Description" type="monster" key="help_infolink_camera_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Teclado&lt;/font&gt;&#xD;&#xA;- Page Up: Gira a câmera para a esquerda&#xD;&#xA;- Page Down: Gira a câmera para a direita" />
+  <keys prop="Description" type="monster" key="help_infolink_camera_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Mouse&lt;/font&gt;&#xD;&#xA;- Clique e arraste o botão direito do mouse para girar a câmera" />
+  <keys prop="Description" type="monster" key="help_infolink_shortcut" value="Teclas Associadas" />
+  <keys prop="Description" type="monster" key="help_infolink_shortcut_tip" value="Alterando Teclas Associadas" />
+  <keys prop="Description" type="monster" key="help_infolink_shortcut_0" value="Pressione ESC para acessar o menu principal, depois selecione &lt;font color=&quot;#e5c015&quot;&gt;Configurações&lt;/font&gt;, então &lt;font color=&quot;#e5c015&quot;&gt;Teclas&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_shortcut_1" value="Clique na caixa de uma tecla que você quer alterar, então pressione a tecla que você quer usar." />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand" value="Atalhos de Bate-papo" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_tip" value="Atalhos de Bate-papo" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_0" value="&lt;font color=&quot;#e5c015&quot;&gt;/s:&lt;/font&gt; Para todos os jogadores nas proximidades" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_1" value="&lt;font color=&quot;#e5c015&quot;&gt;/c:&lt;/font&gt; Para todos os jogadores na região" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_2" value="&lt;font color=&quot;#e5c015&quot;&gt;/w nomedeusuario:&lt;/font&gt; Para sussurrar outro jogador" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_3" value="&lt;font color=&quot;#e5c015&quot;&gt;/b:&lt;/font&gt; Para a raide" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_4" value="&lt;font color=&quot;#e5c015&quot;&gt;/q:&lt;/font&gt; Para os oficiais da raide" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_5" value="&lt;font color=&quot;#e5c015&quot;&gt;/p:&lt;/font&gt; Para o grupo" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_6" value="&lt;font color=&quot;#e5c015&quot;&gt;/g:&lt;/font&gt; Para a guilda" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_7" value="&lt;font color=&quot;#e5c015&quot;&gt;/u:&lt;/font&gt; Para a aliança" />
+  <keys prop="Description" type="monster" key="help_infolink_chatcommand_8" value="&lt;font color=&quot;#e5c015&quot;&gt;/m:&lt;/font&gt; Para a milícia" />
+  <keys prop="Description" type="monster" key="help_infolink_actionkey" value="Tecla de Ação" />
+  <keys prop="Description" type="monster" key="help_infolink_actionkey_tip" value="Usando a Tecla de Ação" />
+  <keys prop="Description" type="monster" key="help_infolink_actionkey_0" value="Use a tecla de ação &lt;font color=&quot;#e5c015&quot;&gt;[F]&lt;/font&gt; para saquear, falar com os NPCs e ativar objetos." />
+  <keys prop="Description" type="monster" key="help_infolink_quickmenu" value="Menus Rápidos" />
+  <keys prop="Description" type="monster" key="help_infolink_quickmenu_tip" value="Menus Rápidos" />
+  <keys prop="Description" type="monster" key="help_infolink_quickmenu_0" value="Clique com o botão direito em suas informações de status para abrir o &lt;font color=&quot;#e5c015&quot;&gt;Menu de Masmorra e Grupo&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_quickmenu_1" value="Clique com o botão direito para abrir o &lt;font color=&quot;#e5c015&quot;&gt;Menu Social&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_crossbowmode" value="Modo Besta" />
+  <keys prop="Description" type="monster" key="help_infolink_crossbowmode_tip" value="Modo Besta" />
+  <keys prop="Description" type="monster" key="help_infolink_crossbowmode_0" value="Selecione &lt;font color=&quot;#e5c015&quot;&gt;Fixar Mouse&lt;/font&gt; nas opções do jogo para fixar sua mira na direção que você está olhando enquanto montado." />
+  <keys prop="Description" type="monster" key="help_title_skill" value="Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_skillui" value="Janela de Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_skillui_tip" value="Janela de Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_skillui_0" value="Pressione &lt;font color=&quot;#e5c015&quot;&gt;[K]&lt;/font&gt; para abrir sua janela de habilidades ou clique no menu Habilidades." />
+  <keys prop="Description" type="monster" key="help_infolink_skillui_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Habilidades de Classe:&lt;/font&gt; Habilidades específicas para sua classe." />
+  <keys prop="Description" type="monster" key="help_infolink_skillui_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Habilidades de Montaria:&lt;/font&gt; As habilidades de besta e lança que você pode usar quando montado." />
+  <keys prop="Description" type="monster" key="help_infolink_skilllearn" value="Adquirindo Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_skilllearn_tip" value="Adquirindo Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_skilllearn_0" value="Você &lt;font color=&quot;#e5c015&quot;&gt;automaticamente adquirirá novas habilidades&lt;/font&gt; quando subir de nível." />
+  <keys prop="Description" type="monster" key="help_infolink_skilllearn_1" value="Clique no botão Novas Habilidades para ver suas novas habilidades." />
+  <keys prop="Description" type="monster" key="help_infolink_skilllevel" value="Classificação de Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_skilllevel_tip" value="Classificação de Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_skilllevel_0" value="Suas habilidades aumentarão automaticamente em classificação quando você subir de nível." />
+  <keys prop="Description" type="monster" key="help_infolink_reaction" value="Ataque Desestabilizador" />
+  <keys prop="Description" type="monster" key="help_infolink_reaction_tip" value="Ataque Desestabilizador" />
+  <keys prop="Description" type="monster" key="help_infolink_reaction_0" value="Monstros elite e mais fortes possuem uma habilidade magnífica, garantindo a eles imunidade a efeitos de status." />
+  <keys prop="Description" type="monster" key="help_infolink_reaction_1" value="Reduzindo a estabilidade do inimigo para 0, você pode torná-los vulneráveis aos efeitos de status." />
+  <keys prop="Description" type="monster" key="help_infolink_reaction_2" value="Certas habilidades vão reduzir a estabilidade do inimigo quando conseguirem um acerto crítico." />
+  <keys prop="Description" type="monster" key="help_infolink_reaction_3" value="Quando você consume todos os estágios de reação de resistência do inimigo, o inimigo estará suscetível aos efeitos de status." />
+  <keys prop="Description" type="monster" key="help_infolink_charge" value="Carregando Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_charge_tip" value="Carregando Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_charge_0" value="Mantenha pressionada uma habilidade carregável para carregá-la." />
+  <keys prop="Description" type="monster" key="help_infolink_charge_1" value="Quanto mais a habilidade foi carregada, mais forte ela será." />
+  <keys prop="Description" type="monster" key="help_infolink_skillcombo" value="Combo de Habilidade" />
+  <keys prop="Description" type="monster" key="help_infolink_skillcombo_tip" value="Combo de Habilidade" />
+  <keys prop="Description" type="monster" key="help_infolink_skillcombo_0" value="Algumas habilidades podem ser usadas duas ou mais vezes seguidas. Isso é chamado Combo de Habilidade." />
+  <keys prop="Description" type="monster" key="help_infolink_skillcombo_1" value="Quando maior o combo, mais eficaz a habilidade se torna." />
+  <keys prop="Description" type="monster" key="help_infolink_recom" value="Habilidades Combinadas" />
+  <keys prop="Description" type="monster" key="help_infolink_recom_tip" value="Vincular Habilidades" />
+  <keys prop="Description" type="monster" key="help_infolink_recom_0" value="O jogo recomenda automaticamente habilidades que combinam com a que você está usando. Isso pode gerar um efeito adicional." />
+  <keys prop="Description" type="monster" key="help_infolink_skilllink" value="Habilidades Sequenciais" />
+  <keys prop="Description" type="monster" key="help_infolink_skilllink_tip" value="Habilidades Sequenciais" />
+  <keys prop="Description" type="monster" key="help_infolink_skilllink_0" value="Em algumas situações, como quando um inimigo foi derrotado, uma habilidade que você pode usar aparecerá próxima ao seu personagem." />
+  <keys prop="Description" type="monster" key="help_infolink_talent" value="Talentos" />
+  <keys prop="Description" type="monster" key="help_infolink_talent_tip" value="Talentos" />
+  <keys prop="Description" type="monster" key="help_infolink_talent_0" value="1. Acesse os talentos via &lt;font color=&quot;#e5c015&quot;&gt;Aba de talento&lt;/font&gt; na janela de Informações do Personagem." />
+  <keys prop="Description" type="monster" key="help_infolink_talent_1" value="2. Você poderá ver todos os &lt;font color=&quot;#e5c015&quot;&gt;Talentos&lt;/font&gt; que possui." />
+  <keys prop="Description" type="monster" key="help_infolink_talent_2" value="  Arraste um Familiar Lacrado para a Esfera de Talento para obter Poder de Talento. O familiar será consumido." />
+  <keys prop="Description" type="monster" key="help_infolink_talent_3" value="3. Cada classe tem 3 escolas de talentos." />
+  <keys prop="Description" type="monster" key="help_infolink_talent_4" value="4. Um espaço de talento desbloqueia a cada 5 níveis." />
+  <keys prop="Description" type="monster" key="help_title_item" value="Itens" />
+  <keys prop="Description" type="monster" key="help_infolink_set" value="Itens de Conjunto" />
+  <keys prop="Description" type="monster" key="help_infolink_set_tip" value="Itens de Conjunto" />
+  <keys prop="Description" type="monster" key="help_infolink_set_0" value="Você receberá efeito de bônus baseado em quantas peças de um conjunto você equipar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption" value="Impulso de Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_tip" value="Impulso de Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_0" value="Arraste um Familiar Lacrado a um equipamento para ganhar um efeito adicional." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_1" value="O número máximo de espaços que podem ser equipados depende do nível do equipamento." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_2" value="  - &lt;font color=&quot;#e5c015&quot;&gt;Raridade normal&lt;/font&gt;: máximo 1" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_3" value="  - &lt;font color=&quot;#e5c015&quot;&gt;Raridade Elite&lt;/font&gt;: máximo 2" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_4" value="  - &lt;font color=&quot;#e5c015&quot;&gt;Raridade Heroica&lt;/font&gt;: máximo 2" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_5" value="  - &lt;font color=&quot;#e5c015&quot;&gt;Raridade Lendária&lt;/font&gt;: máximo 3" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoption_6" value="  - &lt;font color=&quot;#e5c015&quot;&gt;Raridade Mítica&lt;/font&gt;: máximo 4" />
+  <keys prop="Description" type="monster" key="help_infolink_extraction" value="Extraindo" />
+  <keys prop="Description" type="monster" key="help_infolink_extraction_tip" value="Extraindo" />
+  <keys prop="Description" type="monster" key="help_infolink_extraction_0" value="1. Extratores podem ser comprados de um Lojista." />
+  <keys prop="Description" type="monster" key="help_infolink_extraction_1" value="2. Clique com botão direito no extrator. Os itens que podem ser extraídos serão ressaltados." />
+  <keys prop="Description" type="monster" key="help_infolink_extraction_2" value="3. Extraia um item para obter uma &lt;font color=&quot;#e5c015&quot;&gt;Pedra de Têmpera&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_extraction_3" value="  Itens de qualidade superior produzem Pedras de Têmpera melhores." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce" value="Temperar" />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_tip" value="Temperar" />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_0" value="1. Clique com botão direito em uma Pedra de Têmpera para ver os itens que podem ser temperados." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_1" value="2. Tempere itens para aumentar seus atributos." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_2" value="  &lt;font color=&quot;#e5c015&quot;&gt;Armas:&lt;/font&gt; aumenta o ataque" />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_3" value="  &lt;font color=&quot;#e5c015&quot;&gt; Armaduras, Escudos, Brasões:&lt;/font&gt; aumenta a defesa" />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_4" value="3. Bônus de atributo aumentam a cada &lt;font color=&quot;#e5c015&quot;&gt;5 níveis&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_5" value="4. Itens podem ser temperados, no máximo, até 20 vezes. O nível de temperamento de um item afeta os resultados do temperamento." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_6" value="  &lt;font color=&quot;#e5c015&quot;&gt;+1 a +5:&lt;/font&gt;Espaços de temperamento não são consumidos se falharem." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_7" value="  &lt;font color=&quot;#e5c015&quot;&gt;+6 a +10:&lt;/font&gt;Espaços de temperamento podem ser consumidos se falharem." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_8" value="  &lt;font color=&quot;#e5c015&quot;&gt;+11 a +15:&lt;/font&gt;Espaços de temperamento podem ser consumidos. Atributos dos itens podem ser reiniciados." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_9" value="  &lt;font color=&quot;#e5c015&quot;&gt;+16 a +20:&lt;/font&gt;Espaços de temperamento podem ser consumidos. Atributos dos itens podem ser reiniciados." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_10" value="6. Joias" />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_11" value="  - &lt;font color=&quot;#e5c015&quot;&gt;Nível 1~5&lt;/font&gt;: Pedra de Aprimoramento Elite para Joias" />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_12" value="7. Armas e Armaduras podem ser melhoradas no máximo até +25." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_13" value="  - &lt;font color=&quot;#e5c015&quot;&gt;+ 1 ~ 5&lt;/font&gt;: não perde nível ao falhar." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_14" value="  - &lt;font color=&quot;#e5c015&quot;&gt;+ 6 ~ 13&lt;/font&gt;: pode perder nível ao falhar." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_15" value="  - &lt;font color=&quot;#e5c015&quot;&gt;+ 14 ~ 15&lt;/font&gt;: pode perder nível ou ser redefinido ao falhar." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_16" value="  - &lt;font color=&quot;#e5c015&quot;&gt;+ 16 ~ 20&lt;/font&gt;: pode perder nível, redefinir ou ser destruído quando falhar." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_17" value="  - &lt;font color=&quot;#e5c015&quot;&gt;+ 21 ~ 25&lt;/font&gt;: pode perder nível ao falhar." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_18" value="8. Joias podem ser aprimoradas até + 5." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_19" value="  - &lt;font color=&quot;#e5c015&quot;&gt;+ 1 ~ 5&lt;/font&gt;: pode perder nível ao falhar." />
+  <keys prop="Description" type="monster" key="help_infolink_reinforce_20" value="9. A Pedra de Aprimoramento pode ser obtida no &lt;font color=&quot;#e5c015&quot;&gt;saque de monstros, pescaria, aventuras de familiares, Loja de Ellora&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_randombox" value="Caixas Aleatórias" />
+  <keys prop="Description" type="monster" key="help_infolink_randombox_tip" value="Caixas Aleatórias" />
+  <keys prop="Description" type="monster" key="help_infolink_randombox_0" value="Abra uma Caixa Aleatória para obter um item aleatório." />
+  <keys prop="Description" type="monster" key="help_infolink_attributionclear" value="Desvinculando Itens" />
+  <keys prop="Description" type="monster" key="help_infolink_attributionclear_tip" value="Desvinculando Itens" />
+  <keys prop="Description" type="monster" key="help_infolink_attributionclear_0" value="1. Você pode comprar pergaminhos de desvinculação na Loja Lebrini de Moedas de Prata na Loja Ellun." />
+  <keys prop="Description" type="monster" key="help_infolink_attributionclear_1" value="2. O nível do pergaminho de desvinculação deve ser equivalente ao nível do item que você quer desvincular." />
+  <keys prop="Description" type="monster" key="help_infolink_attributionclear_2" value="3. O número de vezes que você pode desvincular um item é limitado." />
+  <keys prop="Description" type="monster" key="help_infolink_itembreak" value="Desmantelar" />
+  <keys prop="Description" type="monster" key="help_infolink_itembreak_tip" value="Desmantelar" />
+  <keys prop="Description" type="monster" key="help_infolink_itembreak_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt; Onde Obter Ferramentas de Desmantelamento&lt;/font&gt;&#xD;&#xA;- Elite, Heroico: Lojistas em geral&#xD;&#xA;- Heroico, Lendário: Loja Ellun" />
+  <keys prop="Description" type="monster" key="help_infolink_itembreak_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt; Condições para Desmantelamento&lt;/font&gt;&#xD;&#xA;- O nível da ferramenta e do item devem ser equivalentes.&#xD;&#xA;- Itens equipados não podem ser desmantelados.&#xD;&#xA;- Você precisa de ao menos 3 espaços em seu inventário." />
+  <keys prop="Description" type="monster" key="help_infolink_itembreak_2" value="3. Itens desmantelados tornam-se &lt;font color=&quot;#e5c015&quot;&gt;moedas&lt;/font&gt;.&#xD;&#xA;- Itens PvE: Moedas Lebrini de Prata e Ouro&#xD;&#xA;- Itens PvP: Moedas de Exarahn, Moedas de Ouro" />
+  <keys prop="Description" type="monster" key="help_title_quest" value="Missões" />
+  <keys prop="Description" type="monster" key="help_infolink_questui" value="Registro de Missão" />
+  <keys prop="Description" type="monster" key="help_infolink_questui_tip" value="Registro de Missão" />
+  <keys prop="Description" type="monster" key="help_infolink_questui_0" value="Pressione &lt;font color=&quot;#e5c015&quot;&gt;[J]&lt;/font&gt; para abrir seu registro de missões ou clique no menu Missões." />
+  <keys prop="Description" type="monster" key="help_infolink_questui_1" value="1. Veja as missões por tipo." />
+  <keys prop="Description" type="monster" key="help_infolink_questui_2" value="2. Clique no título da missão para detalhes." />
+  <keys prop="Description" type="monster" key="help_infolink_questui_3" value="3. Penalidades nas recompensas de missões são aplicadas quando seu nível é significativamente maior que o nível da missão. Sua experiência e recompensas em dinheiro são reduzidas em até 90%." />
+  <keys prop="Description" type="monster" key="help_infolink_questtype" value="Tipos de Missão" />
+  <keys prop="Description" type="monster" key="help_infolink_questtype_tip" value="Tipos de Missão" />
+  <keys prop="Description" type="monster" key="help_infolink_questtype_0" value="Ícones da esquerda para a direita: iniciar missão, em progresso, completar." />
+  <keys prop="Description" type="monster" key="help_infolink_questtype_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Missões Principais:&lt;/font&gt; O enredo principal." />
+  <keys prop="Description" type="monster" key="help_infolink_questtype_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Missões Secundárias:&lt;/font&gt; Histórias secundárias que acompanham o enredo principal." />
+  <keys prop="Description" type="monster" key="help_infolink_questtype_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Missões Diárias:&lt;/font&gt; Missões repetíveis que podem ser feitas várias vezes." />
+  <keys prop="Description" type="monster" key="help_infolink_questhelper" value="Ajuda de Missão" />
+  <keys prop="Description" type="monster" key="help_infolink_questhelper_tip" value="Ajuda de Missão" />
+  <keys prop="Description" type="monster" key="help_infolink_questhelper_0" value="1. Clique no marcador de missão para ver a &lt;font color=&quot;#e5c015&quot;&gt;localização&lt;/font&gt;da missão." />
+  <keys prop="Description" type="monster" key="help_infolink_questhelper_1" value="1. Clique no título da quest para ver os &lt;font color=&quot;#e5c015&quot;&gt;detalhes da quest&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_questhelper_2" value="3. Desmarque a caixa para removê-la da Ajuda de Missão. " />
+  <keys prop="Description" type="monster" key="help_title_contents" value="Atividades" />
+  <keys prop="Description" type="monster" key="help_infolink_dungeonlevel" value="Dificuldade das Masmorras" />
+  <keys prop="Description" type="monster" key="help_infolink_dungeonlevel_tip" value="Dificuldade das Masmorras" />
+  <keys prop="Description" type="monster" key="help_infolink_dungeonlevel_0" value="Você pode selecionar a dificuldade da masmorra quando entra." />
+  <keys prop="Description" type="monster" key="help_infolink_dungeonlevel_1" value="A dificuldade prévia deve ser completada para desbloquear a próxima." />
+  <keys prop="Description" type="monster" key="help_infolink_uniteparty" value="Raides de 10 jogadores" />
+  <keys prop="Description" type="monster" key="help_infolink_uniteparty_tip" value="Raides de 10 jogadores" />
+  <keys prop="Description" type="monster" key="help_infolink_uniteparty_0" value="O líder do grupo pode formar uma raide a partir do menu de grupo." />
+  <keys prop="Description" type="monster" key="help_infolink_uniteparty_1" value="Até 10 jogadores podem participar em uma raide." />
+  <keys prop="Description" type="monster" key="help_infolink_pvp" value="Duelos" />
+  <keys prop="Description" type="monster" key="help_infolink_pvp_tip" value="Duelos" />
+  <keys prop="Description" type="monster" key="help_infolink_pvp_0" value="Para desafiar alguém para um duelo. clique com o botão direito nela e selecione a opção Duelo ou digite &quot;/duelo (nomedeusuario)&quot;." />
+  <keys prop="Description" type="monster" key="help_infolink_pvp_1" value="1. Faça com que a vida do seu oponente chegue a 0 para vencer." />
+  <keys prop="Description" type="monster" key="help_infolink_pvp_2" value="2. Você vai perder automaticamente se clicar em Desistir ou deixar a área do duelo." />
+  <keys prop="Description" type="monster" key="help_infolink_guild" value="Guilda" />
+  <keys prop="Description" type="monster" key="help_infolink_guild_tip" value="Guildas" />
+  <keys prop="Description" type="monster" key="help_infolink_guild_0" value="Fale com o Mestre da Guilda no salão da guilda na Travessia de Hakain para criar uma guilda." />
+  <keys prop="Description" type="monster" key="help_infolink_guild_1" value="A medida que o nível da guilda aumenta, as habilidades da guilda serão ativadas automaticamente." />
+  <keys prop="Description" type="monster" key="help_infolink_guildalliance" value="Aliança" />
+  <keys prop="Description" type="monster" key="help_infolink_guildalliance_tip" value="Aliança" />
+  <keys prop="Description" type="monster" key="help_infolink_guildalliance_0" value="1. Até três guildas com classificação 3 ou superior podem se unir para formar uma aliança." />
+  <keys prop="Description" type="monster" key="help_infolink_guildalliance_1" value="2. Fale com o Mestre da Guilda no salão da guilda na Travessia de Hakain para formar uma aliança." />
+  <keys prop="Description" type="monster" key="help_infolink_guildalliance_2" value="3. O nome da aliança e o emblema será baseado na guilda líder da aliança." />
+  <keys prop="Description" type="monster" key="help_infolink_militia" value="Milícia de Exarahn" />
+  <keys prop="Description" type="monster" key="help_infolink_militia_tip" value="Milícia de Exarahn" />
+  <keys prop="Description" type="monster" key="help_infolink_militia_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt; Quem Pode Participar?&lt;/font&gt;&#xD;&#xA;- Qualquer um em uma guilda com classificação 3 ou inferior." />
+  <keys prop="Description" type="monster" key="help_infolink_militia_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Como Participar?&lt;/font&gt;&#xD;&#xA;- Fale com Gleon no Portal do Conquistador nas Terras Devastadas de Exarahn." />
+  <keys prop="Description" type="monster" key="help_infolink_militia_2" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Vantagens&lt;/font&gt;&#xD;&#xA;- Obter o bônus de milícia por apenas 1 prata.&#xD;&#xA;- Todos os outros militares nas Terras Devastadas serão aliados.&#xD;&#xA;- Ter acesso ao bate-papo da milícia." />
+  <keys prop="Description" type="monster" key="help_infolink_militia_3" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Saindo da Milícia&lt;/font&gt;&#xD;&#xA;- Pague 5 ouros para sair.&#xD;&#xA;- Você será automaticamente removido quando sua guilda atingir a Classificação 4." />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk" value="Guerra de Alianças" />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk_tip" value="Guerra de Alianças" />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk_0" value="1. Um líder de aliança pode pagar 10 gold para declarar guerra a outra aliança." />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk_1" value="2. Você pode declarar guerra a apenas uma única aliança por vez." />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk_2" value="3. O servidor inteiro poderá ver quando uma aliança aceita ou recusa a guerra." />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk_3" value="4. A primeira aliança a conseguir 500 mortes vence a guerra." />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk_4" value="5. O resultado da guerra será compartilhado com o servidor inteiro." />
+  <keys prop="Description" type="monster" key="help_infolink_alliancepk_5" value="6. Você pode verificar resultados recentes de guerras pelos NPCs Conselheiros de Guerra de Alianças na maioria das grandes cidades." />
+  <keys prop="Description" type="monster" key="help_title_system" value="Sistema" />
+  <keys prop="Description" type="monster" key="help_infolink_partyinvite" value="Grupos" />
+  <keys prop="Description" type="monster" key="help_infolink_partyinvite_tip" value="Grupos" />
+  <keys prop="Description" type="monster" key="help_infolink_partyinvite_0" value="Para convidar alguém para seu grupo, clique com o botão direito nela ou digite&quot;/convitedegrupo (nomedeusuario)&quot;." />
+  <keys prop="Description" type="monster" key="help_infolink_partyinvite_1" value="1. O líder do grupo define como o saque é distribuído." />
+  <keys prop="Description" type="monster" key="help_infolink_partyinvite_2" value="2. Veja a informação sobre os membros do grupo abaixo da sua informação de status." />
+  <keys prop="Description" type="monster" key="help_infolink_partyinvite_3" value="3. Quanto mais pessoas estiverem em seu grupo, maior a EXP e a taxa de drop." />
+  <keys prop="Description" type="monster" key="help_infolink_tradeui" value="Troca" />
+  <keys prop="Description" type="monster" key="help_infolink_tradeui_tip" value="Troca" />
+  <keys prop="Description" type="monster" key="help_infolink_tradeui_0" value="Clique com botão direito em outro jogador, então escolha &quot;Trocar&quot; para solicitar uma troca." />
+  <keys prop="Description" type="monster" key="help_infolink_tradeui_1" value="1. Adicione os itens e o dinheiro que você quer trocar." />
+  <keys prop="Description" type="monster" key="help_infolink_tradeui_2" value="2. Confirme os itens e o dinheiro que você receberá em troca." />
+  <keys prop="Description" type="monster" key="help_infolink_channelui" value="Canais" />
+  <keys prop="Description" type="monster" key="help_infolink_channelui_tip" value="Mudando de Canais" />
+  <keys prop="Description" type="monster" key="help_infolink_channelui_0" value="Se houver muitos jogadores no seu canal, você pode mudar para um canal menos lotado." />
+  <keys prop="Description" type="monster" key="help_infolink_portal" value="Santuários de Trânsito" />
+  <keys prop="Description" type="monster" key="help_infolink_portal_tip" value="Santuários de Trânsito" />
+  <keys prop="Description" type="monster" key="help_infolink_portal_0" value="1. &lt;font color=&quot;#fFBB00&quot;&gt;Santuário de Mundos&lt;/font&gt;&#xD;&#xA;- Localizados na primeira área de missão de cada região.&#xD;&#xA;- Permitem viajar entre as regiões e dentro delas.&#xD;&#xA;- Podem ser definidos como um local de retorno para a sua Pedra de Retorno." />
+  <keys prop="Description" type="monster" key="help_infolink_portal_1" value="2. &lt;font color=&quot;#fFBB00&quot;&gt;Santuários de Trânsito&lt;/font&gt;&#xD;&#xA;- Localizados em todas as áreas importantes.&#xD;&#xA;- Permitem viajar apenas entre as regiões.&#xD;&#xA;- Podem ser definidos como um local de retorno para a sua Pedra de Retorno." />
+  <keys prop="Description" type="monster" key="help_infolink_mail" value="Correio" />
+  <keys prop="Description" type="monster" key="help_infolink_mail_tip" value="Correio" />
+  <keys prop="Description" type="monster" key="help_infolink_mail_0" value="Envia e recebe cartas clicando nas caixas de correio nas cidades." />
+  <keys prop="Description" type="monster" key="help_infolink_auction" value="Mercado" />
+  <keys prop="Description" type="monster" key="help_infolink_auction_tip" value="Mercado" />
+  <keys prop="Description" type="monster" key="help_infolink_auction_0" value="Fale com um Corretor do Mercado no centro principal de cada região para acessar o mercado." />
+  <keys prop="Description" type="monster" key="help_infolink_auction_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Comprar:&lt;/font&gt; Compre itens sendo vendidos por outros jogadores." />
+  <keys prop="Description" type="monster" key="help_infolink_auction_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Vender:&lt;/font&gt; Venda itens para outros jogadores." />
+  <keys prop="Description" type="monster" key="help_infolink_auction_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Saldo:&lt;/font&gt; Colete o dinheiro dos itens que foram vendidos. " />
+  <keys prop="Description" type="monster" key="help_infolink_pcstorage" value="Armazém" />
+  <keys prop="Description" type="monster" key="help_infolink_pcstorage_tip" value="Armazém" />
+  <keys prop="Description" type="monster" key="help_infolink_pcstorage_0" value="Fale com o Mestre de Armazenamento nos acampamentos e cidades para acessar seu inventário." />
+  <keys prop="Description" type="monster" key="help_infolink_pcstorage_1" value="Desbloqueie armazenamento extra com Elluns." />
+  <keys prop="Description" type="monster" key="help_infolink_collection" value="Coletando" />
+  <keys prop="Description" type="monster" key="help_infolink_collection_tip" value="Coletando" />
+  <keys prop="Description" type="monster" key="help_infolink_collection_0" value="1. Ervas e minérios podem ser coletados em todas as regiões." />
+  <keys prop="Description" type="monster" key="help_infolink_collection_1" value="2. Abra o menu Criação para ver o que você pode criar com seus itens coletados." />
+  <keys prop="Description" type="monster" key="help_infolink_collection_2" value="3. À medida que sua proficiência de coleta aumentar, você será capaz de coletar mais materiais." />
+  <keys prop="Description" type="monster" key="help_infolink_partyboard" value="Quadro do Grupo" />
+  <keys prop="Description" type="monster" key="help_infolink_partyboard_tip" value="Quadro do Grupo" />
+  <keys prop="Description" type="monster" key="help_infolink_partyboard_0" value="Pressione &lt;font color=&quot;#e5c015&quot;&gt;[T]&lt;/font&gt; para acessar o Quadro do Grupo." />
+  <keys prop="Description" type="monster" key="help_infolink_partyboard_1" value="1. Você pode procurar por grupos via nível, tipo e nome." />
+  <keys prop="Description" type="monster" key="help_infolink_partyboard_2" value="2. Clique em um aviso para se juntar ao grupo." />
+  <keys prop="Description" type="monster" key="help_infolink_partyboard_3" value="3. Poste um aviso para procurar por membros." />
+  <keys prop="Description" type="monster" key="help_infolink_partyauction" value="Leilão em Grupo" />
+  <keys prop="Description" type="monster" key="help_infolink_partyauction_tip" value="Leilão em Grupo" />
+  <keys prop="Description" type="monster" key="help_infolink_partyauction_0" value="Quando a distribuição do saque é definida como Leilão e um item acima da raridade designada aparece, os membros do grupo podem fazer ofertas entre si." />
+  <keys prop="Description" type="monster" key="help_infolink_partyauction_1" value="Quando alguém ganha um item, o valor que eles pagam é igualmente distribuído aos outros membros do grupo." />
+  <keys prop="Description" type="monster" key="help_infolink_vitality" value="Vitalidade" />
+  <keys prop="Description" type="monster" key="help_infolink_vitality_tip" value="Vitalidade" />
+  <keys prop="Description" type="monster" key="help_infolink_vitality_0" value="1. O que é &lt;font color=&quot;#e5c015&quot;&gt;vitalidade&lt;/font&gt;?&#xD;&#xA;- É uma restrição ao tempo que você pode jogar o tempo normalmente.&#xD;&#xA;- Quando toda a vitalidade for consumida, você não será capaz de acessar determinados conteúdos." />
+  <keys prop="Description" type="monster" key="help_infolink_vitality_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Medidor de Vitalidade&lt;/font&gt;&#xD;&#xA;- Diário: 12 horas&#xD;&#xA;- Semanal: 35 horas:&#xD;&#xA;- Bônus Semanal de Lan House: 15 Horas" />
+  <keys prop="Description" type="monster" key="help_infolink_vitality_2" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Consumo no Medidor de Vitalidade&lt;/font&gt;&#xD;&#xA;- A vitalidade é consumida com base em quanto tempo você jogou.&#xD;&#xA;- A vitalidade não é consumida em &lt;font color=&quot;#e5c015&quot;&gt;cidades&lt;/font&gt; e na&lt;font color=&quot;#e5c015&quot;&gt; entrada de masmorras instanciadas&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_vitality_3" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Vitalidade Baixa&lt;/font&gt;&#xD;&#xA;- Você receberá uma penalidade quando sua vitalidade acabar:&#xD;&#xA;*Sem EXP de personagem/familiar&#xD;&#xA;* Sem pontos da guilda&#xD;&#xA;* Sem itens de saque&#xD;&#xA;* Sem grupo&#xD;&#xA;* Sem materiais coletados&#xD;&#xA;* Incapacidade de aceitar missões completas" />
+  <keys prop="Description" type="monster" key="help_infolink_vitality_4" value="5. &lt;font color=&quot;#e5c015&quot;&gt;Reinícios da Vitalidade&lt;/font&gt;&#xD;&#xA;- Diários: 04: 00 todos os dias&#xD;&#xA;- Semanal: 04: 00 a cada quarta-feira&#xD;&#xA;- Bônus Semanal de Lan House: 04: 00 toda quarta-feira" />
+  <keys prop="Description" type="monster" key="help_infolink_vitality_5" value="6. &lt;font color=&quot;#e5c015&quot;&gt;Caixas de Vitalidade&lt;/font&gt;&#xD;&#xA;- Obtenha um bônus de vitalidade todo dia no login inicial.&#xD;&#xA;- Obtenha uma caixa de vitalidade quando o bônus de vitalidade terminar.&#xD;&#xA;- Você pode ter até 3 caixas de vitalidade em seu inventário." />
+  <keys prop="Description" type="monster" key="help_infolink_uiediting" value="Personalizando a Interface" />
+  <keys prop="Description" type="monster" key="help_infolink_uiediting_tip" value="Personalizando a Interface" />
+  <keys prop="Description" type="monster" key="help_infolink_uiediting_0" value="1. Vá até o Menu Principal &gt; Sistema &gt; Personalizar IU para editar sua Interface de Usuário." />
+  <keys prop="Description" type="monster" key="help_infolink_uiediting_1" value="2. Arraste as janelas para o local onde você quer que elas fiquem." />
+  <keys prop="Description" type="monster" key="help_infolink_uiediting_2" value="3. Opções de Personalização:&#xD;&#xA;- &lt;font color=&quot;#e5c015&quot;&gt;Reiniciar:&lt;/font&gt; Reinicia para o padrão&#xD;&#xA;- &lt;font color=&quot;#e5c015&quot;&gt;Aplicar:&lt;/font&gt; Aprova a IU editada&#xD;&#xA;- &lt;font color=&quot;#e5c015&quot;&gt;Cancelar:&lt;/font&gt; Cancela as alterações" />
+  <keys prop="Description" type="monster" key="help_title_production" value="Criação" />
+  <keys prop="Description" type="monster" key="help_infolink_productionhow" value="Introdução" />
+  <keys prop="Description" type="monster" key="help_infolink_productionhow_tip" value="Introdução" />
+  <keys prop="Description" type="monster" key="help_infolink_productionhow_0" value="&lt;font color=&quot;#e5c015&quot;&gt;Como Criar Itens&lt;/font&gt;&#xD;&#xA;- Pressione &lt;font color=&quot;#e5c015&quot;&gt;[F]&lt;/font&gt; próximo à Estação de Criação apropriada.&#xD;&#xA;- Certifique-se que você tem todos os materiais para criar o item.&#xD;&#xA;- Pressione o botão Criar para criar o item." />
+  <keys prop="Description" type="monster" key="help_infolink_productionhow_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Categorias de Criação&lt;/font&gt;&#xD;&#xA;- Existem 6 categorias de criação: Criação de Armas, Criação de Armaduras, Criação de Joias, Seleiro, Alquimia e Culinária." />
+  <keys prop="Description" type="monster" key="help_infolink_productionhow_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Lista de Receitas&lt;/font&gt;&#xD;&#xA;- A lista das receitas que você aprendeu.&#xD;&#xA;- Clique na caixa de seleção na parte inferior para ver apenas as receitas que você possui materiais para criá-las." />
+  <keys prop="Description" type="monster" key="help_infolink_productionhow_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Materiais Necessários&lt;/font&gt;&#xD;&#xA;- Mostra os materiais que você precisa para criar o item." />
+  <keys prop="Description" type="monster" key="help_infolink_productionhow_4" value="4. &lt;font color=&quot;#e5c015&quot;&gt;criação&lt;/font&gt;&#xD;&#xA;- Digite um número, então pressione Criar.&#xD;&#xA;- O botão Criar Todos cria quantos itens forem possíveis com os materiais que você têm.&#xD;&#xA;- Use o dobro dos materiais listados para aumentar sua chance de sucesso." />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem" value="Itens Criáveis" />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_tip" value="Itens Criáveis" />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_0" value="Aqui está uma lista dos tipos de itens que podem ser criados." />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Criação de Armas&lt;/font&gt;&#xD;&#xA;- Materiais de Criação de Armas&#xD;&#xA;- Armas de Classe&#xD;&#xA;- Armas Montadas (Bestas, Lanças)" />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Criação de Armaduras&lt;/font&gt;&#xD;&#xA;- Materiais para criação de armas&#xD;&#xA;- Classe das armas&#xD;&#xA;- Equipamentos de Mão Secundária" />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Criação de Joias&lt;/font&gt;&#xD;&#xA;- Materiais de criação de joias&#xD;&#xA;- Aneis&#xD;&#xA;- Colares&#xD;&#xA;- Gemas" />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_4" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Criação de Selaria&lt;/font&gt;&#xD;&#xA;- Materiais de criação de selaria&#xD;&#xA;- Equipamento de familiares&#xD;&#xA;- Marcas para domar" />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_5" value="5. &lt;font color=&quot;#e5c015&quot;&gt;Alquimia&lt;/font&gt;&#xD;&#xA;- Elixires de vida&#xD;&#xA;- Elixires de mana&#xD;&#xA;- Elixires de estamina&#xD;&#xA;- Elixires de atributos&#xD;&#xA;- Bandagens&#xD;&#xA;- Outros consumíveis" />
+  <keys prop="Description" type="monster" key="help_infolink_productionitem_6" value="6. &lt;font color=&quot;#e5c015&quot;&gt;Culinária&lt;/font&gt;&#xD;&#xA;- Comidas para recuperação de vida&#xD;&#xA;- Comidas para recuperação de mana" />
+  <keys prop="Description" type="monster" key="help_infolink_productiongrade" value="Níveis de Criação" />
+  <keys prop="Description" type="monster" key="help_infolink_productiongrade_tip" value="Níveis de Criação" />
+  <keys prop="Description" type="monster" key="help_infolink_productiongrade_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Subindo o Nível de Criação&lt;/font&gt;&#xD;&#xA;- Fale com um criador para aumentar seu nível.&#xD;&#xA;- Você pode encontrar criadores na maioria das grandes cidades." />
+  <keys prop="Description" type="monster" key="help_infolink_productiongrade_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Pré-requisitos&lt;/font&gt;&#xD;&#xA;- É preciso criar ao menos 2 itens master no nível atual.&#xD;&#xA;- A proficiência de Criação aumenta ao criar itens." />
+  <keys prop="Description" type="monster" key="help_infolink_productionperfect" value="Criação Triunfante" />
+  <keys prop="Description" type="monster" key="help_infolink_productionperfect_tip" value="Criação Triunfante" />
+  <keys prop="Description" type="monster" key="help_infolink_productionperfect_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt;O que é Criação Triunfante?&lt;/font&gt;&#xD;&#xA;- Você obterá itens de qualidade extra ou superior ocasionalmente enquanto cria.&#xD;&#xA;- Possui uma chance de acontecer sempre que você criar." />
+  <keys prop="Description" type="monster" key="help_infolink_productionperfect_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Aumentando a Chance de Criação Triunfante&lt;/font&gt;&#xD;&#xA;- Quanto mais alta sua proficiência, maior sua chance.&#xD;&#xA;- Use o dobro dos materiais necessários para aumentar sua chance." />
+  <keys prop="Description" type="monster" key="help_infolink_productionweapon" value="Criação de Armas" />
+  <keys prop="Description" type="monster" key="help_infolink_productionweapon_tip" value="Criação de Armas" />
+  <keys prop="Description" type="monster" key="help_infolink_productionweapon_0" value="Você precisa estar próximo de uma &lt;font color=&quot;#e5c015&quot;&gt;Bigorna para Armas&lt;/font&gt; para criar armas." />
+  <keys prop="Description" type="monster" key="help_infolink_productionweapon_1" value="&lt;font color=&quot;#e5c015&quot;&gt;Sucesso Triunfante Concede:&lt;/font&gt;&#xD;&#xA;- Equipamentos: melhor qualidade&#xD;&#xA;- Materiais: maior quantidade" />
+  <keys prop="Description" type="monster" key="help_infolink_productionarmor" value="Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="help_infolink_productionarmor_tip" value="Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="help_infolink_productionarmor_0" value="Você precisa estar próximo de uma &lt;font color=&quot;#e5c015&quot;&gt;Bigorna para Armaduras&lt;/font&gt; para criar armaduras." />
+  <keys prop="Description" type="monster" key="help_infolink_productionarmor_1" value="&lt;font color=&quot;#e5c015&quot;&gt;Sucesso Triunfante Concede:&lt;/font&gt;&#xD;&#xA;- Equipamentos: melhor qualidade&#xD;&#xA;- Materiais: maior quantidade" />
+  <keys prop="Description" type="monster" key="help_infolink_productionfellow" value="Criação do Selaria" />
+  <keys prop="Description" type="monster" key="help_infolink_productionfellow_tip" value="Criação de Selaria" />
+  <keys prop="Description" type="monster" key="help_infolink_productionfellow_0" value="Você precisa estar próximo de uma &lt;font color=&quot;#e5c015&quot;&gt;Mesa de Criação de Selaria&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_productionfellow_1" value="&lt;font color=&quot;#e5c015&quot;&gt;Sucesso Triunfante Concede:&lt;/font&gt;&#xD;&#xA;- Equipamento de Familiar: n/a&#xD;&#xA;- Marcas de Familiar: maior quantidade&#xD;&#xA;- Materiais: maior quantidade" />
+  <keys prop="Description" type="monster" key="help_infolink_productionfood" value="Cozinhar" />
+  <keys prop="Description" type="monster" key="help_infolink_productionfood_tip" value="Cozinhar" />
+  <keys prop="Description" type="monster" key="help_infolink_productionfood_0" value="Você precisa estar próximo de uma &lt;font color=&quot;#e5c015&quot;&gt;Estação de Cozimento&lt;/font&gt; para cozinhar." />
+  <keys prop="Description" type="monster" key="help_infolink_productionfood_1" value="&lt;font color=&quot;#e5c015&quot;&gt;Comidas acima de um certo nível concedem efeitos especiais.&lt;/font&gt;&#xD;&#xA;- Atributos de bônus" />
+  <keys prop="Description" type="monster" key="help_infolink_productionfood_2" value="&lt;font color=&quot;#e5c015&quot;&gt;Sucesso Triunfante Concede:&lt;/font&gt;&#xD;&#xA;- Comida: maior quantidade" />
+  <keys prop="Description" type="monster" key="help_infolink_productionpotion" value="Alquimia" />
+  <keys prop="Description" type="monster" key="help_infolink_productionpotion_tip" value="Alquimia" />
+  <keys prop="Description" type="monster" key="help_infolink_productionpotion_0" value="Você precisa estar próximo de um &lt;font color=&quot;#e5c015&quot;&gt;Laboratório de Alquimia&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_productionpotion_1" value="Os elixires criados via Alquimia são mais potentes que as poções regulares." />
+  <keys prop="Description" type="monster" key="help_infolink_productionpotion_2" value="&lt;font color=&quot;#e5c015&quot;&gt;Sucesso Triunfante Concede:&lt;/font&gt;&#xD;&#xA;- Consumíveis: maior quantidade&#xD;&#xA;- Materiais: maior quantidade" />
+  <keys prop="Description" type="monster" key="help_infolink_productionaccessory" value="Criação de Joias" />
+  <keys prop="Description" type="monster" key="help_infolink_productionaccessory_tip" value="Criação de Joias" />
+  <keys prop="Description" type="monster" key="help_infolink_productionaccessory_0" value="Você precisa estar próximo de uma &lt;font color=&quot;#e5c015&quot;&gt;Bancada de Ourives&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_productionaccessory_1" value="&lt;font color=&quot;#e5c015&quot;&gt;Sucesso Triunfante Concede:&lt;/font&gt;&#xD;&#xA;- Equipamentos: melhor qualidade&#xD;&#xA;- Gemas: maior quantidade&#xD;&#xA;- Materiais: maior quantidade" />
+  <keys prop="Description" type="monster" key="help_title_fellow" value="Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui" value="Informação do Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_tip" value="Informação do Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_0" value="Pressione &lt;font color=&quot;#e5c015&quot;&gt;[Y]&lt;/font&gt; ou use o menu Familiar para abrir a janela Familiar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Detalhes do Familiar:&lt;/font&gt; Atributos, itens, habilidades." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Armazém de Familiar:&lt;/font&gt; Seus familiares atualmente coletados." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Minimizar:&lt;/font&gt; Muda para a barra de atalho de familiar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_4" value="4. &lt;font color=&quot;#e5c018&quot;&gt;Alterar Nome:&lt;/font&gt; Altera o nome dos seus familiares. Isso custa Elluns." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_5" value="5. &lt;font color=&quot;#e5c019&quot;&gt;Invocar:&lt;/font&gt;Invoca ou desmonta do familiar selecionado. Você também pode pressionar&lt;font color=&quot;#e5c015&quot;&gt;[U]&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_6" value="6. &lt;font color=&quot;#e5c020&quot;&gt;Libertar Familiar:&lt;/font&gt;Liberta o familiar selecionado. Você pagará uma taxa." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_7" value="7. &lt;font color=&quot;#e5c020&quot;&gt;Libertar Familiar:&lt;/font&gt;Liberta o familiar selecionado. Você pagará uma taxa." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_8" value="8. &lt;font color=&quot;#e5c020&quot;&gt;Configurações de auto-saque&lt;/font&gt;: Configure a raridade do item a ser adquirido e configure para rolar o dado automaticamente durante o auto-saque." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_9" value="9. &lt;font color=&quot;#e5c020&quot;&gt;Evolução de Familiares&lt;/font&gt;: abre a Janela de Evolução de Familiares." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowui_10" value="10. &lt;font color=&quot;#e5c020&quot;&gt;Unificação de Familiares&lt;/font&gt;: abre a Janela de Unificação de Familiares." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbook" value="Bestiário" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbook_tip" value="Bestiário" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbook_0" value="Pressione &lt;font color=&quot;#e5c015&quot;&gt;[B]&lt;/font&gt; ou use o menu Familiar para abrir seu Bestiário." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbook_1" value="Familiares obtidos são automaticamente adicionados ao seu Bestiário. Familiares de Pedra-lacre não contarão." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbook_2" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Coleção Regional&lt;/font&gt;&#xD;&#xA;- Colete familiares por região para obter títulos e recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbook_3" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Coleção Especial&lt;/font&gt;&#xD;&#xA;- Colecione combinações especiais de familiares para obter títulos e recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsummon" value="Invocando Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsummon_tip" value="Invocando Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsummon_0" value="1. Duplo clique, clique com o botão direito ou pressione&lt;font color=&quot;#e5c015&quot;&gt;[U]&lt;/font&gt; para invocar o familiar selecionado em seu armazém." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsummon_1" value="2. Pressione o ícone de &lt;font color=&quot;#e5c015&quot;&gt;minimizar&lt;/font&gt; no topo direito para alterar do armazém para atalhos." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowboard" value="Domando" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowboard_tip" value="Domar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowboard_0" value="Mire em um monstro domável e, em seguida, use a habilidade Domar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowboard_1" value="Esgueire-se até o monstro por trás, então &lt;font color=&quot;#e5c015&quot;&gt;pule&lt;/font&gt; em suas costas." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowboard_2" value="1. Pressione a tecla correta quando ela se iluminar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowboard_3" value="2. Você pode ver seu progresso no medidor." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowboard_4" value="3. Se o mostro possui um nível maior que o seu, há uma chance maior dele escapar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowwithme" value="Pets" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowwithme_tip" value="Pets" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowwithme_0" value="1. Você pode obter &lt;font color=&quot;#e5c015&quot;&gt;pergaminhos de pet&lt;/font&gt; enquanto caça. Esses mudam os familiares para pets." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowwithme_1" value="2. Pets atacam inimigos quando você comanda." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowitem" value="Itens de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowitem_tip" value="Itens de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowitem_0" value="Itens aumentam os atributos de um familiar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowitem_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Tipos:&lt;/font&gt; selas, garras, pedra da alma" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowitem_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Atributos:&lt;/font&gt;Estamina aumenta por padrão; itens melhores podem conceder outros atributos" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowseal" value="Selando" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowseal_tip" value="Selando" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowseal_0" value="1. Use uma Pedra-Lacre das lojas ou saques para selar um familiar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowseal_1" value="2. Familiares Lacrados podem ser usados de duas formas." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowseal_2" value="  - Arraste para o equipamento para bônus de atributos." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowseal_3" value="  - Converta para o Poder de Talento para equipar talentos." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose" value="Subindo de Nível" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose_tip" value="Subindo de Nível" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Como Familiares Ganham EXP&lt;/font&gt;&#xD;&#xA;- Sendo invocados&#xD;&#xA;- Vencendo batalhas junto com você" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt; Benefícios de Subida de Nível&lt;/font&gt;&#xD;&#xA;- Atributos gerais aumentados&#xD;&#xA;- Novas habilidades&#xD;&#xA;- Aumento de nível de habilidades&#xD;&#xA;- Restaura a vida e a estamina ao subir de nível" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowtrust" value="Acolhimento de Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowtrust_tip" value="Acolhimento de Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowtrust_0" value="Fale com o &lt;font color=&quot;#e5c015&quot;&gt;Treinador de Feras&lt;/font&gt; na Fazenda de Familiares para acolher familiares." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowtrust_1" value="1. Você pode subir o nível de familiares desmontados com acolhimento..&#xD;&#xA;2. Você não pode invocar um familiar acolhido até resgatá-lo de volta.&#xD;&#xA;3. Será cobrada uma taxa de acolhimento quando você resgatar seu familiar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowtrust_2" value="Espaços de Familiar podem ser comprados com ouro e Elluns." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowtrust_3" value="Talismãs de Crescimento podem ser comprados com Elluns." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowtrust_4" value="Talismãs de crescimento fazem o acolhimento ser mais rápido quando usado." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombat" value="Combate Montado" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombat_tip" value="Combate Montado" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombat_0" value="Monte em um familiar antes de começar um combate terrestre montado." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombat_1" value="1. &lt;font color=&quot;#e5c015&quot;&gt;Armas Montadas:&lt;/font&gt; Besta ou Lança." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombat_2" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Habilidades Sequenciais:&lt;/font&gt; Enquanto montado, você pode criar combos de habilidades sequenciais." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombat_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Troca de Familiar:&lt;/font&gt; Quando um familiar estiver com a estamina baixa, troque por outro em seu armazém." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsky" value="Combate Aéreo Montado" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsky_tip" value="Combate Aéreo Montado" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsky_0" value="&lt;font color=&quot;#e5c015&quot;&gt;1. Verifique o medidor de altitude para ver a altitude máxima de voo.&lt;/font&gt;&#xD;&#xA;- Quando você for muito alto, seu familiar será automaticamente dispensado." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsky_1" value="&lt;font color=&quot;#e5c015&quot;&gt;2. Você pode voar e batalhar com familiares voadores.&lt;/font&gt;&#xD;&#xA;- Espaço: Subir.&#xD;&#xA;- Shift + [X]: Descer verticalmente.&#xD;&#xA;- Barra de Espaço + Barra de Espaço: Plane rapidamente.&#xD;&#xA;- [U]: Pressione para montar um familiar enquanto estiver caindo." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowextraction" value="Extração de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowextraction_tip" value="Extração de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowextraction_0" value="1. Use o extrator, então clique em um item equipado com uma Pedra-Lacre." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowextraction_1" value="2. Clique na Pedra-Lacre de familiar para extraí-la." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowextraction_2" value="*Familiares extraídos entram para o armazém de familiares como &lt;font color=&quot;#e5c015&quot;&gt;pets nível 1 com todos os atributos de crescimento reiniciados&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowextraction_3" value="*Nota: Familiares extraídos serão colocados no Armazém de Familiares como &lt;font color=&quot;#e5c015&quot;&gt;pets nível 1 com todos os atributos de crescimento reiniciados&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoptionchange" value="Mudança de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoptionchange_tip" value="Mudança de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoptionchange_0" value="1. Você pode alterar o atributo de uma Pedra-Lacre com uma Ficha-Lacre de Familiar.&lt;br&gt;-Atributos fixos não serão alterados." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoptionchange_1" value="2.&lt;font color=&quot;#e5c015&quot;&gt;Pré-requisitos&lt;/font&gt;&lt;br&gt;- O nível da Pedra-Lacre deve ser o mesmo da Ficha-Lacre.&lt;br&gt;- Não pode ser usado em Pedras-Lacre vinculadas a equipamentos." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoptionchange_2" value="3. Você pode ver quais atributos foram alterados.&#xD;&#xA;- Verde: atributo &lt;font color=&quot;#e5c015&quot;&gt;aumentado&lt;/font&gt;&#xD;&#xA;- Vermelho: atributo &lt;font color=&quot;#e5c015&quot;&gt;diminuído&lt;/font&gt;&#xD;&#xA;- Branco: sem alterações" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowoptionchange_3" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Alterações de atributos de lacre&lt;/font&gt;podem ser verificadas.&#xD;&#xA;  - Atributos mostrados em verde: &lt;font color=&quot;#e5c015&quot;&gt;maiores&lt;/font&gt; do que o original&#xD;&#xA;  - Atributos mostrados em vermelho: &lt;font color=&quot;#e5c015&quot;&gt;menores&lt;/font&gt; do que o original&#xD;&#xA;  - Atributos mostrados em branco: sem alteração em relação ao original" />
+  <keys prop="Description" type="monster" key="help_infolink_actioncostume" value="Trajes de Ação" />
+  <keys prop="Description" type="monster" key="help_infolink_actioncostume_tip" value="Trajes de Ação" />
+  <keys prop="Description" type="monster" key="help_infolink_actioncostume_0" value="Você pode usar ações especiais após equipar um traje de ação." />
+  <keys prop="Description" type="monster" key="help_infolink_talenttrans" value="Trocando de Talentos" />
+  <keys prop="Description" type="monster" key="help_infolink_talenttrans_tip" value="Trocando de Talentos" />
+  <keys prop="Description" type="monster" key="help_infolink_talenttrans_0" value="1. Você pode alterar entre os talentos construídos. Clique com o botão esquerdo em um modelo para trocá-lo." />
+  <keys prop="Description" type="monster" key="help_infolink_talenttrans_1" value="2. Trocar talentos custa Elluns." />
+  <keys prop="Description" type="monster" key="help_infolink_talenttrans_2" value="3. Cada conjunto de modelo será salvo por talento." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowmax" value="Prêmios - Nível" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowmax_tip" value="Prêmios - Nível" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowmax_0" value="1. Você obterá recompensas de conquista por aumentar o nível de certos familiares ao máximo." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowmax_1" value="2. Familiares com bordas douradas podem ter os níveis aumentados repetidamente, garantindo a você mais recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowmax_2" value="3. Recompensas não resgatadas acumulam até 999 vezes." />
+  <keys prop="Description" type="monster" key="help_infolink_reforge" value="Refinação" />
+  <keys prop="Description" type="monster" key="help_infolink_reforge_tip" value="Refinação" />
+  <keys prop="Description" type="monster" key="help_infolink_reforge_0" value="1. Através da refinação, você pode alterar aleatoriamente os atributos de um item. Refinação custa ouro e pedras de refinamento." />
+  <keys prop="Description" type="monster" key="help_infolink_reforge_1" value="2. Pedras de refinamento devem ser equivalentes ao tipo e a raridade do item que você está refinando." />
+  <keys prop="Description" type="monster" key="help_infolink_reforge_2" value="3. Você pode usar Elluns para trancar os atributos que você gosta, e então refinar outros." />
+  <keys prop="Description" type="monster" key="help_infolink_reforge_3" value="4. Use &lt;font color=&quot;#e5c015&quot;&gt;reverter função&lt;/font&gt;para restaurar os valores de atributos que o equipamento possuía antes de ser refinado." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowreinforce" value="Temperando o Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowreinforce_tip" value="Temperando o Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowreinforce_0" value="1. Quando seu familiar aumenta o nível máximo, você pode temperá-lo para aumentar seus atributos." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowreinforce_1" value="2. Em relação aos materiais, você precisará de um Potencializador de Familiar e um Familiar Lacrado." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowreinforce_2" value="3. Seu sucesso depende do nível e raridade do Familiar Lacrado." />
+  <keys prop="Description" type="monster" key="help_infolink_overrising" value="Transcendendo" />
+  <keys prop="Description" type="monster" key="help_infolink_overrising_tip" value="Transcendendo" />
+  <keys prop="Description" type="monster" key="help_infolink_overrising_0" value="1. Transcender um item aumenta seus atributos. Você precisará de uma Pedra Transcendente que seja equivalente aos níveis e raridade dos itens alvo." />
+  <keys prop="Description" type="monster" key="help_infolink_overrising_1" value="2. Transcendência de itens ocorrerão automaticamente quando você possui os materiais necessários em seu inventário. Você também pode clicar com botão direito nos materiais para transcender manualmente." />
+  <keys prop="Description" type="monster" key="help_infolink_overrising_2" value="3. A Pedra Transcendente pode ser obtida no &lt;font color=&quot;#e5c015&quot;&gt;saque de monstros e criação&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="tutorial_move_title" value="Movendo-se" />
+  <keys prop="Description" type="monster" key="tutorial_move_desc" value="Movimente-se usando as teclas &lt;font color=&quot;#e5c015&quot;&gt; W A S D&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="tutorial_camera_title" value="Olhando ao Redor" />
+  <keys prop="Description" type="monster" key="tutorial_camera_desc" value="Modo Padrão: Clique com botão direito e arraste o&lt;br&gt;mouse ou pressione as teclas Q e E.&lt;br&gt;Modo de ação: Mova o mouse ou pressione Q/E." />
+  <keys prop="Description" type="monster" key="tutorial_zoom_title" value="Aumentando e Reduzindo Zoom" />
+  <keys prop="Description" type="monster" key="tutorial_zoom_desc" value="Aumente ou reduza o zoom com o &lt;font color=&quot;#e5c015&quot;&gt;botão de scroll do mouse&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="tutorial_interaction1_title" value="Interagindo com Objetos" />
+  <keys prop="Description" type="monster" key="tutorial_interaction1_desc" value="Pegue uma arma do suporte pressionando a tecla &lt;font color=&quot;#e5c015&quot;&gt;F&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="tutorial_attack_title" value="Ataque" />
+  <keys prop="Description" type="monster" key="tutorial_attack_desc" value="Após selecionar seu alvo...&lt;br&gt;Modo Padrão: Pressione 1 ou clique duplo com o mouse.&lt;br&gt;Modo de Ação: clique com o botão esquerdo do mouse ou pressione 1." />
+  <keys prop="Description" type="monster" key="tutorial_skill_title" value="Usando Habilidades" />
+  <keys prop="Description" type="monster" key="tutorial_skill_desc" value="Após selecionar seu alvo...&lt;br&gt;Modo Padrão: Pressione 2 ou 3&lt;br&gt;Modo Ação: Botão direito do mouse ou pressione 2/3." />
+  <keys prop="Description" type="monster" key="tutorial_pickup_title" value="Saques" />
+  <keys prop="Description" type="monster" key="tutorial_pickup_desc" value="Pressione a tecla &lt;font color=&quot;#e5c015&quot;&gt;F&lt;/font&gt; para pegar itens." />
+  <keys prop="Description" type="monster" key="tutorial_fly_title" value="Voando" />
+  <keys prop="Description" type="monster" key="tutorial_fly_desc" value="Enquanto montado, pressione a &lt;font color=&quot;#e5c015&quot;&gt;barra de espaço&lt;/font&gt; para voar." />
+  <keys prop="Description" type="monster" key="tutoial_glide_title" value="Planando" />
+  <keys prop="Description" type="monster" key="tutorial_glide_desc" value="Para planar enquanto voa, pressione e segure &lt;font color=&quot;#e5c015&quot;&gt;W&lt;/font&gt;, então clique duas vezes e segure a &lt;font color=&quot;#e5c015&quot;&gt;barra de espaço&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="ui_tutorial_title" value="Tutorial" />
+  <keys prop="Description" type="monster" key="tutorial_interaction2_title" value="Interagindo com Objetos" />
+  <keys prop="Description" type="monster" key="tutorial_interaction2_desc" value="Para interagir com um objeto, pressione a tecla &lt;font color=&quot;#e5c015&quot;&gt;F&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="tutorial_pattern_title" value="Mudando de Alvo" />
+  <keys prop="Description" type="monster" key="tutorial_pattern_desc" value="Para mudar seu alvo, pressione a tecla Tab." />
+  <keys prop="Description" type="monster" key="tutoial_reaction1_title" value="Ataque Desestabilizador" />
+  <keys prop="Description" type="monster" key="tutorial_reaction1_desc" value="Reduzindo a estabilidade do inimigo para 0, você pode torná-los vulneráveis aos efeitos de status.&#xD;&#xA;&#xD;&#xA;Certas habilidades vão reduzir a estabilidade do inimigo quando conseguirem um acerto crítico. Quando o inimigo estiver sem estamina, ele se tornará temporariamente&lt;font color=&quot;#e5c015&quot;&gt;desestabilizado&lt;/font&gt; e você poderá acertá-lo com efeitos de status debilitantes." />
+  <keys prop="Description" type="monster" key="tutoial_reaction2_title" value="Ataque Desestabilizador" />
+  <keys prop="Description" type="monster" key="tutorial_reaction2_desc" value="" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_camera_title" value="Olhando ao Redor" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_camera_desc" value="  Movimente sua câmera &lt;font color=e5c015&quot;&gt;clicando com o botão direito e arrastando&lt;/font&gt; com o mouse ou usando as teclas &lt;font color=&quot;#e5c015&quot;&gt;page up e page down&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_move_title" value="Movendo-se" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_move_desc" value="  Movimente-se usando as teclas &lt;font color=&quot;#e5c015&quot;&gt; W A S D.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_interaction1_title" value="Interagindo com Objetos" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_interaction1_desc" value="  Aproxime-se do suporte de arma e pressione a tecla &lt;font color=&quot;#e5c015&quot;&gt;F&lt;/font&gt; para pegar uma arma." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_attack_title" value="Ataque" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_attack_desc" value="  Selecione um inimigo e pressione a tecla &lt;font color=&quot;#e5c015&quot;&gt;1&lt;/font&gt; ou &lt;font color=&quot;#e5c015&quot;&gt;clique duas vezes&lt;/font&gt; em seu alvo para atacar." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_pattern_title" value="Inimigo Chefe" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_pattern_desc" value="Esse inimigo tem um padrão especial. Destrua &lt;font color=&quot;#e5c015&quot;&gt;Barris de Baucher&lt;/font&gt; para impedir que &lt;font color=&quot;#e5c015&quot;&gt;Baucher&lt;/font&gt; se regenere." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_skill_title" value="Usando Habilidades" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_skill_desc" value="  Selecione um alvo e pressione a tecla &lt;font color=&quot;#e5c015&quot;&gt;2&lt;/font&gt; ou &lt;font color=&quot;#e5c015&quot;&gt;3&lt;/font&gt; para usar uma habilidade." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_fly_title" value="Voo" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_fly_desc" value="  Enquanto montado, pressione a &lt;font color=&quot;#e5c015&quot;&gt;barra de espaço&lt;/font&gt; para voar." />
+  <keys prop="Description" type="monster" key="idoll_tutoial_glide_title" value="Planando" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_glide_desc" value="  Para planar enquanto voa, pressione e segure &lt;font color=&quot;#e5c015&quot;&gt;W&lt;/font&gt;, então clique duas vezes e segure a &lt;font color=&quot;#e5c015&quot;&gt;barra de espaço&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="idoll_tutorial_zoom_title" value="Aumentando e Reduzindo Zoom" />
+  <keys prop="Description" type="monster" key="idoll_tutorial_zoom_desc" value="  Aumente ou reduza o zoom com o &lt;font color=&quot;#e5c015&quot;&gt;botão de scroll do mouse&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_premiumbag" value="Inventário Premium" />
+  <keys prop="Description" type="monster" key="help_infolink_premiumbag_tip" value="Inventário Premium" />
+  <keys prop="Description" type="monster" key="help_infolink_premiumbag_0" value="1. Espaço adicional para guardar itens." />
+  <keys prop="Description" type="monster" key="help_infolink_premiumbag_1" value="2. Clique no botão &lt;font color=&quot;#e5c015&quot;&gt;Premium&lt;/font&gt; no topo da janela de seu inventário para abri-lo." />
+  <keys prop="Description" type="monster" key="help_infolink_premiumbag_2" value="3. Os espaços ficarão trancados assim que a duração do inventário premium terminar. Itens nestes espaços trancados não poderão ser movidos ou usados." />
+  <keys prop="Description" type="monster" key="help_infolink_premiumbag_3" value="4. Espaço de Inventário: Adiciona espaço extra quando o inventário premium é equipado. Uma vez equipado, você não poderá desequipar o inventário premium." />
+  <keys prop="Description" type="monster" key="help_infolink_premiumbag_4" value="5. Botão Organizar: Organiza automaticamente os itens armazenados pelo tipo do item." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbag" value="Inventário de Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbag_tip" value="Inventário de Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbag_0" value="1. Espaço adicional para guardar itens." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbag_1" value="2. Clique no botão &lt;font color=&quot;#e5c015&quot;&gt;Inventário&lt;/font&gt; no topo da janela de seu familiar para abri-lo." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbag_2" value="3. Os itens dentro do inventário de seu familiar não podem ser usados diretamente." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbag_3" value="4. Os espaços ficarão trancados assim que a duração do inventário terminar. Itens nestes espaços trancados não poderão ser movidos ou usados. " />
+  <keys prop="Description" type="monster" key="help_infolink_fellowbag_4" value="5. Espaço de Inventário: Adiciona espaço extra quando o inventário familiar é equipado. Uma vez equipado, você não poderá desequipar o inventário premium." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventurepoint" value="Ponto de Aventura" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventurepoint_tip" value="Ponto de Aventura" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventurepoint_0" value="1. Os Pontos de Aventura atuais do familiar serão consumidos quando o familiar entrar em Aventuras." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventurepoint_1" value="2. Às 04:00 de cada manhã, 30% do máximo de Pontos de Aventura de cada familiar são restaurados. Você também pode usar Poções de Aventura para restaurá-los imediatamente." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowautolooting" value="Auto-saque" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowautolooting_tip" value="Auto-saque" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowautolooting_0" value="1. Você pode saquear automaticamente itens caídos com seus pets." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowautolooting_1" value="2. Para saquear automaticamente, você precisa de um &lt;font color=&quot;#e5c015&quot;&gt;Emblema de Auto-Saque&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowautolooting_2" value="3. Equipe um &lt;font color=&quot;#e5c015&quot;&gt;Emblema de Auto-Saque&lt;/font&gt; e então defina seu pet para o &lt;font color=&quot;#e5c015&quot;&gt;Modo Auto-Saque&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowautolooting_3" value="4. Você também pode definir o grau dos itens que seu pet irá saquear automaticamente, bem como as opções de Rolar Dados automaticamente." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowautolooting_4" value="5. Itens auto saqueados pelo seu pet irá para o inventário de seu familiar se você tiver. Caso contrário, eles irão para seu inventário normal." />
+  <keys prop="Description" type="monster" key="help_title_fellowfarm" value="Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarminfo" value="Visitando a Fazenda" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarminfo_tip" value="Visitando a Fazenda" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarminfo_0" value="1. Fale com o &lt;font color=&quot;#e5c015&quot;&gt;Treinador de Feras&lt;/font&gt; em qualquer cidade grande ou acampamento para entrar na Fazenda de Familiares." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarminfo_1" value="2. É isso! Aproveite sua estadia na fazenda." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarmupgrade" value="Melhorando a Fazenda" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarmupgrade_tip" value="Melhorando a Fazenda" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarmupgrade_0" value="1. Fale com &lt;font color=&quot;#e5c015&quot;&gt;Daisy&lt;/font&gt; na Fazenda de Familiares para melhorar sua fazenda." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowfarmupgrade_1" value="2. Você pode melhorar seu &lt;font color=&quot;#e5c015&quot;&gt;Estábulo&lt;/font&gt;, &lt;font color=&quot;#e5c015&quot;&gt;Estação de Criação&lt;/font&gt; e &lt;font color=&quot;#e5c015&quot;&gt;Curral&lt;/font&gt; para receber os benefícios de melhoria por um curto espaço de tempo." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombination" value="Recompensa de Rebanho de Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombination_tip" value="Recompensa de Rebanho de Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombination_0" value="1. Fale com &lt;font color=&quot;#e5c015&quot;&gt;Daryl&lt;/font&gt; na Fazenda de Familiares para configurar seu rebanho." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombination_1" value="2. Atribua Familiares a espaços para formar um rebanho e obter bônus especiais." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombination_2" value="3. Assim que você obter um bônus, a combinação daquele rebanho não poderá ser usada novamente por um breve período." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcombination_3" value="4. Familiares colocados em espaços também são colocados no Curral. " />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure" value="Aventuras de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_tip" value="Aventuras de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_0" value="1. Use o &lt;font color=&quot;#e5c015&quot;&gt;Quadro de Aventura de Familiares&lt;/font&gt; na Fazenda de Familiares para iniciar suas aventuras." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_1" value="2. Selecione uma região para encaminhar seu familiar. Quando sua aventura terminar, o familiar retornará com uma recompensa." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_2" value="3. O custo da aventura depende da região e do grau do seu familiar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_3" value="4. Maiores &lt;font color=&quot;#e5c015&quot;&gt;Dificuldades de Aventuras&lt;/font&gt; significam aventuras mais longas e mais Pontos de Aventura utilizados, mas também maiores chances de recompensas melhores." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_4" value="5. Escolher um &lt;font color=&quot;#e5c015&quot;&gt;Grau de Familiar&lt;/font&gt; maior significa mais recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_5" value="6. Se o &lt;font color=&quot;#e5c015&quot;&gt;Habitat do Familiar&lt;/font&gt; e a &lt;font color=&quot;#e5c015&quot;&gt;Região da Aventura&lt;/font&gt; são equivalentes, o tempo de aventura será reduzido e você pode receber bônus de recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_6" value="7. Até &lt;font color=&quot;#e5c015&quot;&gt;3 familiares&lt;/font&gt; podem ser enviados para aventuras de uma vez. Quanto mais familiares em aventuras, maior o custo de encaminhar mais." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowadventure_7" value="8. &lt;font color=&quot;#e5c015&quot;&gt;Talismãs de Aventura&lt;/font&gt; podem ser usados para reduzir o tempo da aventura." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose2" value="Unificação de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose2_tip" value="Unificação de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose2_0" value="1. Você pode unificar 2 ou mais familiares que alcançaram o &lt;font color=&quot;#e5c015&quot;&gt;nível máximo&lt;/font&gt; para obter um novo familiar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose2_1" value="2. Unificação custa ouro." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowcompose2_2" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Níveis de familiares, raridades e níveis de temperamento&lt;/font&gt; maiores aumentam suas chances de obter familiares melhores." />
+  <keys prop="Description" type="monster" key="help_title_community" value="Comunidade" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve" value="Evolução dos Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve_tip" value="Evolução dos Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve_0" value="1. Familiares ou pets com &lt;font color=&quot;#e5c015&quot;&gt;Nível máximo&lt;/font&gt; podem ser evoluídos &lt;font color=&quot;#e5c015&quot;&gt;para um grau mais alto&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve_1" value="2. A evolução só pode acontecer com um familiar ou pet, e não pode ser feita se eles estiverem lacrados." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve_2" value="3. O grau e tipo de um familiar irá mudar o número de materiais necessários para a evolução." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve_3" value="4. Será necessário ouro para evolução." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve_4" value="5. Quando a evolução falhar, &lt;font color=&quot;#e5c015&quot;&gt;1 familiar ou mais&lt;/font&gt; serão perdidos. Você pode usar Elluns para que apenas 1 familiar seja perdido." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowevolve_5" value="6. Quando maior o número de familiares, maior as chances da evolução ser bem sucedida." />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture" value="Captura de Pet" />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture_tip" value="Capturar Pet" />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture_0" value="Quando um monstro pode ser capturado, você pode usar um cartão de captura para capturá-lo." />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture_1" value="Após atender as condições de captura (Vida, Possuir a esfera) uma vez que o monstro esteja por perto, use as cartas de captura para começar a capturá-lo." />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture_2" value=" 1. Durante mini jogos, você deve digitar uma determinada tecla dentro do tempo limite." />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture_3" value=" 2. Você pode ver o progresso da captura com o indicador de sucesso e falha." />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture_4" value=" 3. Quanto maior a diferença entre o nível do pet e o do personagem (o do pet sendo maior), menor a probabilidade de captura." />
+  <keys prop="Description" type="monster" key="help_infolink_petcapture_5" value="A opção de taxa de sucesso absoluto de captura aplicada à placa de captura é independente de impulsionadores ou outros buffs e é adicionado independentemente para a probabilidade de captura." />
+  <keys prop="Description" type="monster" key="help_infolink_refining" value="Aperfeiçoamento de Item" />
+  <keys prop="Description" type="monster" key="help_infolink_refining_tip" value="Aperfeiçoamento de Item" />
+  <keys prop="Description" type="monster" key="help_infolink_refining_0" value="1. Você pode falar com um NPC de refinamento para alterar o valor de atributo dos itens para randômico." />
+  <keys prop="Description" type="monster" key="help_infolink_refining_1" value=" - Seu ouro e a pedra de aperfeiçoamento serão consumidos ao aperfeiçoar." />
+  <keys prop="Description" type="monster" key="help_infolink_refining_2" value=" - Você não pode alterar o tipo de atributo, apenas o valor." />
+  <keys prop="Description" type="monster" key="help_infolink_refining_3" value="2. Você pode usar Elluns para &lt;font color=&quot;#e5c015&quot;&gt;trancar o valor dos atributos&lt;/font&gt; que você gosta." />
+  <keys prop="Description" type="monster" key="help_infolink_refining_4" value="3. Use &lt;font color=&quot;#e5c015&quot;&gt;reverter função&lt;/font&gt;para restaurar os valores de atributos que o equipamento possuía antes de ser aperfeiçoado." />
+  <keys prop="Description" type="monster" key="help_infolink_refining_5" value="4. Você pode comprar Pedras de Aprimoramento na Loja de Ellora durante um certo período de tempo." />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken" value="Despertar de Armas" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_tip" value="Despertar de Armas" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_0" value="1. Através do &lt;font color=&quot;#e5c015&quot;&gt;NPC Mestre do Despertar de Armas da Praça Artesã na Travessia de Hakain&lt;/font&gt; você pode despertar sua arma." />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_1" value="2. Para o despertar das armas você precisa dos seguintes materiais." />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_2" value=" 1) &lt;font color=&quot;#e5c015&quot;&gt;Armas de Karasha, de Natal, de Ellora, de Sorvete, Alsacianas, de Teleo e de Temmajin +25 ou superior&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_3" value=" 2) &lt;font color=&quot;#e5c015&quot;&gt;Familiares Anciãos com Nível Máximo&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_4" value=" 3) &lt;font color=&quot;#e5c015&quot;&gt;Fragmento de Marca (cai de monstros)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_5" value="  - de Karasha, de Natal, de Ellora, de Sorvete: &lt;font color=&quot;#e5c015&quot;&gt;Fragmento Ancestral&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_6" value="  - Alsas : &lt;font color=&quot;#e5c015&quot;&gt;Fragmento de Memória Esquecido&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_7" value="  - Teleo : &lt;font color=&quot;#e5c015&quot;&gt;Fragmento do Esquecimento&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_8" value="  - Temmajin : &lt;font color=&quot;#e5c015&quot;&gt;Fragmento Esquecido&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_9" value="  4) &lt;font color=&quot;#e5c015&quot;&gt;Pó Ancestral (NPC Aru)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_10" value="3. Quando uma arma é desperta, um efeito especial ocorre dependendo do tipo de pedra-lacre utilizado, o poder de ataque da arma é aprimorado ou você recebe uma habilidade desperta." />
+  <keys prop="Description" type="monster" key="help_infolink_weaponawaken_11" value="4. Você pode impedir a destruição e corrigir armas, opções especiais e efeitos com Elluns." />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce" value="Melhoria Reversa" />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce_tip" value="Melhoria Reversa" />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce_0" value="1. Melhoria Reversa irá diminuir o nível de melhoria em 1, e aumentar a opção de melhoria no item." />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce_1" value="2. Durante a Melhoria Reversa, uma &lt;font color=&quot;#e5c015&quot;&gt;Pedra de Melhoria Reversa&lt;/font&gt; é necessária e só pode ser aplicada em&lt;font color=&quot;#e5c015&quot;&gt;itens de raridade Lendária&lt;/font&gt;&lt;font color=&quot;#e5c015&quot;&gt;+20 ou mais&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce_2" value="3. Clique com o botão direito no item Pedra de Melhoria Reversa para iniciar a melhoria." />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce_3" value="4. Durante o sucesso da Melhoria Reversa, o valor da &lt;Melhoria Reversa&gt; vai subir e a Tentativa de Reversão será reduzida para 1. Se a Melhoria Reversa falhar, a Tentativa de Reversão não vai diminuir." />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce_4" value="5. Após realizar a Melhoria Reversa 5 vezes, é possível usar o &lt;font color=&quot;#e5c015&quot;&gt;Bilhete de Tentativa de Reversão&lt;/font&gt; para aumentar o número de tentativas de Melhoria Reversa subtraindo o número de falhas." />
+  <keys prop="Description" type="monster" key="help_infolink_reversereinforce_5" value="6. A Pedra de Melhoria Reversa pode ser obtida no &lt;font color=&quot;#e5c015&quot;&gt;saque de monstros e na Loja de Ellora&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver" value="Multi Canal" />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver_tip" value="Multi Canal" />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver_0" value="1. Todos os personagens de todos os servidores podem se reunir no Multi Canal (Santuário de Trânsito). Masmorras instanciadas e PVP também podem ser acessados juntos aqui." />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver_1" value="2. &lt;font color=&quot;#e5c015&quot;&gt;Cross Server Stygaea&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver_2" value=" -Conheça personagens de outro servidor em Stygaea e desfrute de um ainda mais emocionante duelo PVP." />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver_3" value="3. &lt;font color=&quot;#e5c015&quot;&gt;Masmorra Cross Server&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver_4" value=" -Você pode fazer a masmorra com outros personagens de outro servidor." />
+  <keys prop="Description" type="monster" key="help_infolink_integratedserver_5" value=" - &lt;font color=&quot;#e5c015&quot;&gt;O Portal do Santuário de Trânsito&lt;/font&gt;em frente a cada entrada de masmorra, pode ser usado para se transportar à sala de espera do Cross Server daquela masmorra." />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet" value="Bracelete e Gema" />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_tip" value="Bracelete e Gema" />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_0" value="1. Você pode usar um bracelete e uma gema para fortalecer seu personagem." />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_1" value=" - A &lt;font color=&quot;#e5c015&quot;&gt;Gema&lt;/font&gt; pode aumentar o Ataque, Defesa, Dano Crítico, etc." />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_2" value="2. Jogadores pode usar um &lt;font color=&quot;#e5c015&quot;&gt;Bracelete&lt;/font&gt; como um equipamento." />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_3" value=" - Um bracelete é um tipo de item consumível que não pode ser reutilizado após ser instalado, ao invés disso, um espaço é fornecido para colocar a gema na janela de equipamento imediatamente." />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_4" value="3. Dependendo do tipo de bracelete, o número de espaços que podem ser usados varia." />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_5" value="4. Você pode anexar uma gema arrastando e soltando ela dentro do espaço ativo do bracelete." />
+  <keys prop="Description" type="monster" key="help_infolink_bracelet_6" value="5. Gemas anexadas podem ser extraídas usando ouro." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield" value="Campo de Batalha" />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_tip" value="Campo de Batalha (Caminho do Criador)" />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_0" value="1. Um conteúdo onde personagens de nível 60 formam times para lutar &lt;font color=&quot;#e5c015&quot;&gt;3 vs. 3&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_1" value="2. O objetivo principal do campo de batalha é destruir a &lt;font color=&quot;#e5c015&quot;&gt;Pedra da Alma do seu inimigo&lt;/font&gt;, e você pode derrotar o monstro que aparece dentro do campo de batalha para receber um bônus." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_2" value="3. Existem dois tipos de campos de batalha." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_3" value="4. &lt;font color=&quot;#e5c015&quot;&gt;Partida Amistosa&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_4" value=" - Não há recompensas, e você só pode convidar para a partida manualmente." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_5" value="5. &lt;font color=&quot;#e5c015&quot;&gt;Partida de Classificação&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_6" value="- Uma partida onde os PC (Pontos de Classificação) são usados para o placar." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_7" value=" - Pode ser usado das &lt;font color=&quot;#e5c015&quot;&gt;11:00 ~14:00, 19:00 ~ 22:00&lt;/font&gt;, em um total de 5 vezes." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_8" value=" - Após completar a Partida de Classificação, você pode obter a &lt;font color=&quot;#e5c015&quot;&gt;Moeda do Campo de Batalha&lt;/font&gt;, dependendo se você ganhar ou perder. Você pode trocar a Moeda do Campo de Batalha por vários itens no NPC de troca." />
+  <keys prop="Description" type="monster" key="help_infolink_battlefield_9" value="- A classificação é calculada com base nos PC." />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble" value="Batalha de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble_tip" value="Batalha de Pedra de Mana" />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble_0" value="1. A Batalha da Pedra de Mana é uma batalha entre guildas e alianças em áreas PvP tais quais Exarahn e Stygaea." />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble_1" value="2. Para participar da Batalha de Pedra de Mana, você deve ser parte de uma &lt;font color=&quot;#e5c015&quot;&gt;guilda, aliança ou milícia&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble_2" value="3. Horário de Início" />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble_3" value=" - Batalha da Pedra de Mana em Exarahn: começa toda terça-feira de 21:00 até 23:30" />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble_4" value=" - Batalha da Pedra de Mana de Stygaea: começa toda quinta-feira de 21:00 até 23:30" />
+  <keys prop="Description" type="monster" key="help_infolink_stonescramble_5" value="4. Você deve trazer &lt;font color=&quot;#e5c015&quot;&gt;Pedra de Mana Vantara&lt;/font&gt;que aparece aleatoriamente no mapa para &lt;font color=&quot;#e5c015&quot;&gt;Aramath&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowlaboratory" value="Covil de Ienos" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowlaboratory_tip" value="Covil de Ienos" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowlaboratory_0" value="1. Quando seu personagem alcança &lt;font color=&quot;#e5c015&quot;&gt;Nível 49&lt;/font&gt;, você pode entrar no Covil de Ienos, onde você pode domar vários familiares." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowlaboratory_1" value="2. O Covil de Ienos está localizado na &lt;font color=&quot;#e5c015&quot;&gt;Fortaleza das Mágoas&lt;/font&gt; na área do Deserto da Imortalidade." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowlaboratory_2" value="3. Para entrar no Covil de Ienos, você precisa usar o &lt;font color=&quot;#e5c015&quot;&gt;Passe do Covil de Ienos&lt;/font&gt; obtido ao completar a missão do &lt;font color=&quot;#e5c015&quot;&gt;NPC Sovell&lt;/font&gt; na Academia de Familiares na Travessia de Hakain." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowlaboratory_3" value="4. Para domar cada familiar no Covil de Ienos, você tem que usar sua respectiva marca." />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill" value="Tocas Obscuras" />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill_tip" value="Tocas Obscuras" />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill_0" value="1. Quando um personagem alcança o &lt;font color=&quot;#e5c015&quot;&gt;Nível 50,&lt;/font&gt;, ele pode entrar nas Tocas Obscuras." />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill_1" value="2. As Tocas Obscuras estão localizadas no &lt;font color=&quot;#e5c015&quot;&gt;Desfiladeiro Ventolar&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill_2" value="3. Para entrar nas Tocas Obscuras, você precisa do item &lt;font color=&quot;#e5c015&quot;&gt;Poção Suspeita&lt;/font&gt; obtida após completar as missões oferecidas pelo &lt;font color=&quot;#e5c015&quot;&gt;NPC Chase&lt;/font&gt; na Travessia de Hakain." />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill_3" value="4. Dentro das Tocas, você não pode invocar familiares ou pets e nem usar as habilidades do seu personagem. Você pode usar apenas a &lt;font color=&quot;#e5c015&quot;&gt;Bomba de Cenoura e a Bomba de Abóbora&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill_4" value="5. Você pode conseguir várias recompensas do &lt;font color=&quot;#e5c015&quot;&gt;Baú do Tesouro&lt;/font&gt; nas Tocas Obscuras." />
+  <keys prop="Description" type="monster" key="help_infolink_rabinihill_5" value="6. Há um &lt;font color=&quot;#e5c015&quot;&gt;tempo limite&lt;/font&gt; que você poderá ficar nas Tocas Obscuras. Quando este tempo acabar, você será automaticamente teletransportado para a entrada das Tocas." />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine" value="Mina Braghin" />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_tip" value="Mina Braghin" />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_0" value="1. Quando um personagem alcança o &lt;font color=&quot;#e5c015&quot;&gt;Nível 55&lt;/font&gt;, ele pode entrar na Mina Braghin." />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_1" value="2. A Mina Braghin está localizada no &lt;font color=&quot;#e5c015&quot;&gt;Desfiladeiro Ventolar&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_2" value="3. O único pré-requisito para entrar na mina é o nível exigido." />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_3" value="4. Após entrar, um &lt;font color=&quot;#e5c015&quot;&gt;cronômetro&lt;/font&gt; será iniciado." />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_4" value="5 Você não pode invocar familiares ou pets na Mina Braghin." />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_5" value="6. Na Mina Braghin, você será capaz de ver a raio de detecção que os monstros possuem. Se você derrotar um monstro, receberá uma &lt;font color=&quot;#e5c015&quot;&gt;penalidade&lt;/font&gt;. e sua velocidade de movimento será penalizada." />
+  <keys prop="Description" type="monster" key="help_infolink_bragimine_6" value="7. Aproveite para minerar &lt;font color=&quot;#e5c015&quot;&gt;Minério de Elium&lt;/font&gt; para ganhar várias recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower" value="Pináculo de Ellora" />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower_tip" value="Pináculo de Ellora" />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower_0" value="1. Quando um personagem alcança o &lt;font color=&quot;#e5c015&quot;&gt;Nível 55&lt;/font&gt;, ele pode entrar no Pináculo de Ellora." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower_1" value="2. O Pináculo de Ellora está localizado no &lt;font color=&quot;#e5c015&quot;&gt;Deserto da Imortalidade&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower_2" value="3. Ao entrar, um &lt;font color=&quot;#e5c015&quot;&gt;Tempo de Ataque&lt;/font&gt; será iniciado. Você precisa completar cada andar da masmorra, que tem dificuldades diferentes." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower_3" value="4. Quando você completar a missão de cada andar, você poderá domar um familiar/pet especial." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower_4" value="5. Após derrotar o último chefe no último andar, a masmorra será completada." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower2" value="Campos de Treinamento de Hastan" />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower2_tip" value="Campos de Treinamento de Hastan" />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower2_0" value="1. Você pode entrar assim que &lt;font color=&quot;#e5c015&quot;&gt;completar o 35° do Pináculo de Ellora&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower2_1" value="2. Os Campos de Treinamento de Hastan estão localizados na área &lt;font color=&quot;#e5c015&quot;&gt;norte da Aldeia de Hastan, nas Planícies de Akrat&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower2_2" value="3. Após entrar na sala, um &lt;font color=&quot;#e5c015&quot;&gt;cronômetro&lt;/font&gt; vai iniciar, e você precisa derrotar todos os monstros do local." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower2_3" value="4. Em alguns andares, você pode domar um familiar especial." />
+  <keys prop="Description" type="monster" key="help_infolink_challengetower2_4" value="5. Após derrotar o último chefe no último andar, a masmorra será completada." />
+  <keys prop="Description" type="monster" key="help_infolink_thiefribini" value="Ladrão Espectro Lebrini" />
+  <keys prop="Description" type="monster" key="help_infolink_thiefribini_tip" value="Ladrão Espectro Lebrini" />
+  <keys prop="Description" type="monster" key="help_infolink_thiefribini_0" value="1. Ladrão Espectro Lebrini pode ser encontrado na &lt;font color=&quot;#e5c015&quot;&gt;Masmorra Instanciada de Dificuldade Lendária&lt;/font&gt; e &lt;font color=&quot;#e5c015&quot;&gt; aparece aleatoriamente quando você derrota o monstro chefe&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_thiefribini_1" value="2. Após Ladrão Espectro Lebrini aparecer, ele desaparecerá em 3 minutos; mas se você derrotá-lo ganhará recompensas especiais." />
+  <keys prop="Description" type="monster" key="help_infolink_thiefribini_2" value="3. São diferentes Lebrinis por nível e cada Lebrini dá uma recompensa diferente." />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon" value="Labirinto Subterrâneo do Hadakhan" />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_tip" value="Labirinto Subterrâneo do Hadakhan" />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_0" value="1. Quando um personagem alcança o &lt;font color=&quot;#e5c015&quot;&gt;Nível 60&lt;/font&gt;, ele pode entrar no Labirinto Subterrâneo de Hadakhan." />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_1" value="2. O Labirinto Subterrâneo de Hadakhan está localizado na &lt;font color=&quot;#e5c015&quot;&gt;Biblioteca da Travessia de Hakain&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_2" value="3. Uma masmorra diária na qual você precisa proteger a &lt;font color=&quot;#e5c015&quot;&gt;Pedra Guardiã&lt;/font&gt; de monstros perigosos. Diferentes recompensas são oferecidas em dias diferentes." />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_3" value="4. O Labirinto Subterrâneo de Hadakhan consiste em uma forma de cruz e e tem um total de &lt;font color=&quot;#e5c015&quot;&gt;5 rodadas&lt;/font&gt;. " />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_4" value="5. Cada rodada tem um &lt;font color=&quot;#e5c015&quot;&gt;intervalo de 1 minuto&lt;/font&gt; e NPCs Especiais são invocados aleatoriamente." />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_5" value="6. A última rodada é a do chefe &lt;font color=&quot;#e5c015&quot;&gt;Gredis da Terra Morta&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_dailydungeon_6" value="7. Se você completar o Labirinto Subterrâneo de Hadakhan no &lt;font color=&quot;#e5c015&quot;&gt;Sábado&lt;/font&gt;, receberá mais recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission" value="Conteúdo Diário de Turimnan" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_tip" value="Conteúdo Diário de Turimnan" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_0" value="1. Na Raide do Vale de Turimnam, &lt;font color=&quot;#e5c015&quot;&gt;um chefe especial randômico aparece uma vez por dia&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_1" value=" - Área de Aparecimento: Região de Turimnan" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_2" value=" - Dias do Aparecimento: De segunda-feira à sexta-feira" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_3" value=" - Horário do Aparecimento: Às 12:00 e às 20:00 (duas vezes)" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_4" value=" - Notificação do Aparecimento: notifica através de mensagem ao Mundo de Turimnan 5 minutos antes do aparecimento" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_5" value=" - Obtenção da missão: Quadro de Missões de Turimnan" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_6" value=" - Recompensa da Missão: Marca de um familiar específico aparecendo na missão de escolta do NPC" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_7" value="2. A missão de escolta do NPC especial só pode ser feita no Vale de Turimnam. Escolte o &lt;font color=&quot;#e5c015&quot;&gt;NPC Yummy Lebrini e derrote todos os inimigos&lt;/font&gt; para acessar a loja especial." />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_8" value=" - Área de aparecimento: Ilha Flutuante de Turimnan" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_9" value=" - Dia do aparecimento: Sábado" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_10" value=" - Horário do aparecimento: 20:00" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_11" value=" - Notificação do Aparecimento: notifica através de mensagem ao Mundo de Turimnan 5 minutos antes do aparecimento" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_12" value=" - Condição para Completar: sobrevivência do NPC Yummi Lebrini" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_13" value=" - Entregador da missão: NPC Yummi Lebrini" />
+  <keys prop="Description" type="monster" key="help_infolink_dailymission_14" value=" - Recompensa do evento: Marca Especial de Conjuração do Yummi Lebrini, Loja Especial aberta por 1 hora" />
+  <keys prop="Description" type="monster" key="help_infolink_fishing" value="Pescaria" />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_tip" value="Pescaria" />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_0" value="1. Pescaria é um mini jogo usando uma vara de pescar e uma isca para obter recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_1" value="2. Você precisa de &lt;font color=&quot;#e5c015&quot;&gt;Vara de Pescar&lt;/font&gt;, &lt;font color=&quot;#e5c015&quot;&gt;Isca&lt;/font&gt;e &lt;font color=&quot;#e5c015&quot;&gt;Carretel&lt;/font&gt; para pescar." />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_2" value="3. Todos os itens podem ser comprados da &lt;font color=&quot;#e5c015&quot;&gt;NPC Comerciante de Pesqueiros Lesti&lt;/font&gt; perto dos pontos de pesca." />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_3" value="4. Para pescar, você precisa ir até uma área designada para tal." />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_4" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Pesqueiro da Costa da Divindade das Terras Altas de Hakanas&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_5" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Pequena ilha perto da Ilha de Recife de Coral Arco-Íris no Mar de Hakanas&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_6" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Litoral do Deserto da Imortalidade&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_7" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Área do Pesqueiro de Elgaden no Santuário de Ellora&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_8" value="5. Existem 2 maneiras de pescar." />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_9" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Pesca Automática:&lt;/font&gt; a pesca é feita de modo automático até que todos os carretéis e iscam sejam consumidos. Cada item fornece uma chance de sucesso diferente." />
+  <keys prop="Description" type="monster" key="help_infolink_fishing_10" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Pesca Manual:&lt;/font&gt; O mini jogo da pescaria é jogado manualmente." />
+  <keys prop="Description" type="monster" key="help_infolink_achievement" value="Conquista" />
+  <keys prop="Description" type="monster" key="help_infolink_achievement_tip" value="Conquista" />
+  <keys prop="Description" type="monster" key="help_infolink_achievement_0" value="1. Você pode obter Conquistas ao atingir certas condições enquanto joga." />
+  <keys prop="Description" type="monster" key="help_infolink_achievement_1" value="2. As conquistas são divididas em Combate, Normal, Masmorra, Familiares, Itens, Missões e Conquistas Periódicas." />
+  <keys prop="Description" type="monster" key="help_infolink_achievement_2" value="3. Recompensas de Obtenção de Conquistas podem ser coletadas ao clicar no ícone de Recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_friend" value="Amizade" />
+  <keys prop="Description" type="monster" key="help_infolink_friend_tip" value="Amizade" />
+  <keys prop="Description" type="monster" key="help_infolink_friend_0" value="1. Você pode adicionar ou remover amigos na janela da Lista de Amigos (atalho padrão: O)." />
+  <keys prop="Description" type="monster" key="help_infolink_friend_1" value="2. Você pode clicar com o botão direito do mouse em cima do personagem diretamente ou adicioná-lo com o botão Adicionar Amigo." />
+  <keys prop="Description" type="monster" key="help_infolink_friend_2" value="3. Você pode deletar um Amigo clicando com o botão direito do mouse em um amigo da lista de amigos." />
+  <keys prop="Description" type="monster" key="help_title_mentoring" value="Mentoria" />
+  <keys prop="Description" type="monster" key="help_title_mentoring_tip" value="Mentoria" />
+  <keys prop="Description" type="monster" key="help_infolink_mentoringinfo" value="Mentoria" />
+  <keys prop="Description" type="monster" key="help_infolink_mentoringinfo_tip" value="Mentoria" />
+  <keys prop="Description" type="monster" key="help_infolink_mentoringinfo_0" value="1. Estabelecendo a Mentoria&#xD;&#xA; - Janela de Lista de Amigos (atalho: O) Você pode se candidatar para mentoria na janela de Gerenciamento de Mentoria usando o botão de Gerenciamento de Mentoria na aba de Mentoria.&#xD;&#xA; - Clique no botão Requisitar Mentoria para entrar o nome do personagem diretamente ou use o botão Destaques na aba Referências.&#xD;&#xA; - Você pode se candidatar ao clicar em outro personagem e então clicar em Pedido de Convite de Mentoria." />
+  <keys prop="Description" type="monster" key="help_infolink_mentoringinfo_1" value="2. O que é um Mentor?&#xD;&#xA; - Um personagem &lt;font color=&quot;#e5c015&quot;&gt;Nível 60&lt;/font&gt; pode se tornar um mentor e aceitar personagens de nível mais baixo como aprendizes.&#xD;&#xA; - Um mentor pode ter até &lt;font color=&quot;#e5c015&quot;&gt;3&lt;/font&gt; aprendizes no máximo." />
+  <keys prop="Description" type="monster" key="help_infolink_mentoringinfo_2" value="3. O que é um Aprendiz?&#xD;&#xA; - Um Aprendiz é um jogador que recebe a ajuda de um mentor. Personagens com &lt;font color=&quot;#e5c015&quot;&gt;Nível 1 ou acima e Nível 60 ou abaixo&lt;/font&gt;podem ser um aprendiz.&#xD;&#xA; - Mesmo se você estiver acima do Nível 60, você pode continuar a ser um aprendiz, se você não liberar sua relação de tutoria através da graduação / encerramento por seu mentor.&#xD;&#xA; - Um aprendiz pode ter apenas um mentor de cada vez." />
+  <keys prop="Description" type="monster" key="help_infolink_graduation" value="Graduação do Aprendiz" />
+  <keys prop="Description" type="monster" key="help_infolink_graduation_tip" value="Graduação do Aprendiz" />
+  <keys prop="Description" type="monster" key="help_infolink_graduation_0" value="1. Quando um aprendiz alcança &lt;font color=&quot;#e5c015&quot;&gt;Nível 60&lt;/font&gt; ele pode se tornar um mentor para outro aprendiz." />
+  <keys prop="Description" type="monster" key="help_infolink_graduation_1" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Aprendiz:&lt;/font&gt;Os aprendizes podem solicitar uma Gradução de Aprendiz clicando no botão &lt;font color=&quot;#e5c015&quot;&gt;Solicitação de Graduação&lt;/font&gt; na parte inferior da janela de mentoria." />
+  <keys prop="Description" type="monster" key="help_infolink_graduation_2" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Mentores:&lt;/font&gt;Mentores podem efetuar a gradução imediatamente clicando em &lt;font color=&quot;#e5c015&quot;&gt;Aprendiz na janela de mentoria e clicando em Graduação Aprovada&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_benefit" value="Bônus de Mentoria" />
+  <keys prop="Description" type="monster" key="help_infolink_benefit_tip" value="Bônus de Mentoria" />
+  <keys prop="Description" type="monster" key="help_infolink_benefit_0" value="1. Bônus&#xD;&#xA;- Quando o mentor e o aprendiz &lt;font color=&quot;#e5c015&quot;&gt;fazem login juntos&lt;/font&gt;, ambos recebem um bônus.&#xD;&#xA;- Quando mais &lt;font color=&quot;#e5c015&quot;&gt;aprendizes logarem&lt;/font&gt;, maior o bônus que o mentor pode receber." />
+  <keys prop="Description" type="monster" key="help_infolink_benefit_1" value="2. Recurso de invocação&#xD;&#xA;- Personagens em uma relação de mentoria podem invocar um ao outro &lt;font color=&quot;#e5c015&quot;&gt;sem gastar Ellun&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_benefit_2" value="3. Recompensa de Subida de Nível&#xD;&#xA;- Quando um aprendiz que tem uma relação de mentoria alcança um certo nível, um item é dado tanto ao mentor quanto ao aprendiz.&#xD;&#xA;- Mentores recebem moedas de confiança, que pode ser trocada por itens nas lojas de Mentoria, enquanto os Aprendizes recebem itens para ajudar o personagem.&#xD;&#xA;- Recompensas de subida de nível são dados imediatamente aos Aprendizes através do Armazém de Ellora, após o personagem se reconectar com o mentor." />
+  <keys prop="Description" type="monster" key="help_infolink_ranking" value="Sistema de Classificação" />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_tip" value="Sistema de Classificação" />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_0" value="1. Você pode verificar suas classificações usando a tecla ESC do teclado e clicando em configurações no canto inferior direito da tela." />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_1" value="2. Classificação do Pináculo de Ellora" />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_2" value=" - As maiores pontuações semanais / mensais e do &lt;font color=&quot;#e5c015&quot;&gt;Pináculo de Ellora + Campos de Treinamento de Hastan&lt;/font&gt; serão calculadas." />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_3" value="3. Classificação de Duelos 1x1" />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_4" value=" A pontuação mais alta da classificação semanal (esta semana/semana passada) do duelo é registrada." />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_5" value="4. Classificação do Campo de Batalha" />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_6" value="- O ranking do Campo de Batalha é registrado semanalmente." />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_7" value="5. Classificação de Guildas" />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_8" value="- De acordo com os pontos de honra de cada guilda, a guilda com a maior pontuação na Classificação mensal será registrada." />
+  <keys prop="Description" type="monster" key="help_infolink_ranking_9" value="- Os pontos de Honra podem ser obtidos com caças, subir a guilda de nível e pontos de base sendo correspondentes ao nível dos membros da guilda." />
+  <keys prop="Description" type="monster" key="help_infolink_itemseal" value="Gravando" />
+  <keys prop="Description" type="monster" key="help_infolink_itemseal_tip" value="Gravando" />
+  <keys prop="Description" type="monster" key="help_infolink_itemseal_0" value="1. Use itens exclusivos para gravar o seu personagem para que itens e familiares não possam ser trocados, destruídos ou vendidos em lojas." />
+  <keys prop="Description" type="monster" key="help_infolink_itemseal_1" value="2. A ferramenta para gravar pode ser comprada do NPC Comerciante." />
+  <keys prop="Description" type="monster" key="help_infolink_itemseal_2" value="3. Clique com o botão direito do mouse na ferramenta para gravar e então clique no item ou familiar que queira gravar." />
+  <keys prop="Description" type="monster" key="help_infolink_multipleproduction" value="Multicriação" />
+  <keys prop="Description" type="monster" key="help_infolink_multipleproduction_tip" value="Multicriação" />
+  <keys prop="Description" type="monster" key="help_infolink_multipleproduction_0" value="1. Equipamentos de &lt;font color=&quot;#e5c015&quot;&gt;Alsas e Teleo&lt;/font&gt; podem ser fabricados selecionando um tipo de material negóciável / não negociável." />
+  <keys prop="Description" type="monster" key="help_infolink_multipleproduction_1" value="2. Após selecionar o item que você quer fabricar, você pode usar o botão Multicriação para substituir o material." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction" value="Criação com Herança" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_tip" value="Criação com Herança" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_0" value="1. Alguns equipamentos podem ser criados com herança de nível de melhoria do equipamento, nível de transcendência, nível de melhoria reversa, valor de atributo aleatório e número de espaços para lacre equipados." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_1" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Ellora &gt; Alsaciano&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_2" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Ellora &gt;Zelnaris, o Deus da Ruína&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_3" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Alsaciano &gt; Temmajin&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_4" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Alsaciano &gt;Zelnaris, o Deus da Ruína&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_5" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Teleo &gt; Temmajin&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_6" value="2. Criação com Herança requer uma &lt;font color=&quot;#e5c015&quot;&gt;receita de herança&lt;/font&gt; separada." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_7" value="3. Requer um maior número de ingredientes que o número de ingredientes necessários para uma receita regular." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_8" value="4. As chances de sucesso são menores do que na criação normal." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_9" value="5. As condições da Criação com Herança para equipamentos são como se segue." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_10" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Equipamento Karasha lendário (Equipamento lendário nível 40) ou de raridade maior&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_11" value=" - &lt;font color=&quot;#e5c015&quot;&gt;+25 ou mais&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_12" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Transcendência 5 ou maior&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_13" value="6. Após a Criação com Herança, os itens herdados serão como se segue." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_14" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Nível de Transcendência&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_15" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Nível de Melhoria Reversa&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_16" value=" - &lt;font color=&quot;#e5c015&quot;&gt;2x Efeito Aleatório (Alto)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_17" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Nível de melhoria aplicada ao item de 40% ~ 70%&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_18" value="7. Obter itens de raridade mítica só é possível através da Criação com Herança." />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_19" value="8. Criação com Herança de Equipamento de Raridade Mítica, não herda o nível de melhoria, os itens herdados são:" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_20" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Nível de Transcendência&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_21" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Nível de Melhoria Reversa&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_22" value=" - &lt;font color=&quot;#e5c015&quot;&gt;2x Efeito Aleatório (Alto)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_successionproduction_23" value=" - A raridade Mítica possui 4 espaços fixos para equipar Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="help_title_pccafe" value="Serviço de Lan House" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit" value="Bônus de Login de Lan House" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_tip" value="Bônus de Login de Lan House" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_0" value="1. Você pode aproveitar-se de vários benefícios acessando Icarus de uma Lan House." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_1" value=" - Ao acessar de uma Lan House, você obterá 1&lt;font color=&quot;#e5c015&quot;&gt; moeda de Cenoura do PCoelhinho&lt;/font&gt; a cada 10 minutos." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_2" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Bônus de Lan House&lt;/font&gt;está ativado." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_3" value=" - Você pode receber itens através de roleta cinco vezes ao dia." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_4" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Familiar e Pet de Lan House&lt;/font&gt; podem ser usados." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_5" value=" - Todo dia &lt;font color=&quot;#e5c015&quot;&gt;Impulsionador de Lan House e consumíveis&lt;/font&gt; são obtidos." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_6" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Título de Lan House&lt;/font&gt; é obtido." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafebenefit_7" value=" - Você pode comprar itens da &lt;font color=&quot;#e5c015&quot;&gt;Loja de Lan House&lt;/font&gt; usando moedas de Cenoura do PCoelhinho." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefellowlaboratory" value="Covil de Ienos de Lan House" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefellowlaboratory_tip" value="Covil de Ienos de Lan House" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefellowlaboratory_0" value="1. &lt;font color=&quot;#e5c015&quot;&gt;GWarnet Lair of Ienos Pass&lt;/font&gt;can be purchased with &lt;font color=&quot;#e5c015&quot;&gt;PCBunny Carrot Coin&lt;/font&gt;that can only be obtained at GWarnet." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefellowlaboratory_1" value="2. Quando um personagem alcança o &lt;font color=&quot;#e5c015&quot;&gt;Nível 49&lt;/font&gt;, ele pode entrar no Covil de Ienos de Lan House." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefellowlaboratory_2" value="3. GWarnet Lair of Ienos is located at &lt;font color=&quot;#e5c015&quot;&gt;Hakain's Crossing Battle Mount Academy&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefellowlaboratory_3" value="4. You can meet various fellows in GWarnet Lair of Ienos." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefellowlaboratory_4" value="5. To tame fellow in GWarnet Lair of Ienos, each respective mark is necessary." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefishing" value="GWarnet Fishing Spot" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefishing_tip" value="GWarnet Fishing Spot" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefishing_0" value="1. Through &lt;font color=&quot;#e5c015&quot;&gt;Fizz NPC on Titan Platform&lt;/font&gt;you can enter PCBunny's Treasure Island." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefishing_1" value="2. To enter, you need &lt;font color=&quot;#e5c015&quot;&gt;Ferryman's Hourglass&lt;/font&gt;that is sold by PCBunny Shop." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafefishing_2" value="3. PCBunny's Treasure Island is more likely to acquire better items than normal Fishing Spot." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafedailymission" value="GWarnet Daily Quest" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafedailymission_tip" value="GWarnet Daily Quest" />
+  <keys prop="Description" type="monster" key="help_infolink_pccafedailymission_0" value="1. You can take GWarnet Daily Quest everyday from &lt;font color=&quot;#e5c015&quot;&gt;Hakain's Crossing PCBunny NPC&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_pccafedailymission_1" value="2. When you finish 4 GWarnet quests, &lt;font color=&quot;#e5c015&quot;&gt;PCBunny Carrot Coin&lt;/font&gt;can be obtained." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken" value="Despertar do Personagem" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_tip" value="Despertar do Personagem" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_0" value="1. Quando seu personagem alcança o &lt;font color=&quot;#e5c015&quot;&gt;Nível 60&lt;/font&gt;, você pode &lt;font color=&quot;#e5c015&quot;&gt;despertar&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_1" value="2. Durante a missão principal, fale com o &lt;font color=&quot;#e5c015&quot;&gt;NPC Chimer, na Torre de Vigia Abandonada, na Planície de Akrat&lt;/font&gt; para abrir a missão de Despertar." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_2" value="3. Através do &lt;font color=&quot;#e5c015&quot;&gt;NPC Velzeroth, no Templo de Ellora na Travessia de Hakain&lt;/font&gt;, você recebe a segunda missão." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_3" value="4. Para completar a segunda missão, um &lt;font color=&quot;#e5c015&quot;&gt;Fragmento de Marca Desperta Lendário&lt;/font&gt; é necessário e você pode obtê-lo das formas a seguir." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_4" value=" - Após completar a Caverna Misteriosa, Torre Gélida e A Brecha na dificuldade Lendária, você obterá o Fragmento de Marca Desperta Lendário" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_5" value=" - Nas áreas de Exarahn e Stygaea, após derrotar Jack, o Caçador e Henok, o Fragmento de Marca Desperta Lendário pode ser obtido" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_6" value="5. Quando você completar a segunda missão, você pode equipar o &lt;font color=&quot;#e5c015&quot;&gt;Talento Despertar&lt;/font&gt; na janela de talentos." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_7" value="6. Quando equipar o Talento Despertar, a &lt;font color=&quot;#e5c015&quot;&gt;Habilidade Despertar&lt;/font&gt; será adquirida pelo personagem." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken_8" value="7. O &lt;font color=&quot;#e5c015&quot;&gt;Livro de Habilidade de Despertar&lt;/font&gt; será presenteado como uma recompensa da missão e, quando usado, você obterá habilidades únicas de bônus." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice" value="Escolha a Classe" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_tip" value="Escolha a Classe" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_0" value="&lt;font color=&quot;#e5c015&quot;&gt;1. Berserker&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_1" value="- O Berserker tem uma habilidade balanceada para lidar com um alvo único ou alvos múltiplos, usando um &lt;font color=&quot;#e5c015&quot;&gt;dano explosivo&lt;/font&gt; para derrotar um único alvo. &lt;font color=&quot;#e5c015&quot;&gt;Você também pode derrotar múltiplos alvos simultaneamente&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_2" value="&lt;font color=&quot;#e5c015&quot;&gt;2. Guardião&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_3" value="- O Guardião é capaz de jogar solo com habilidades de ataque de alvo único e a habilidade de restringir os movimentos do oponente. Ele pode aumentar a ameaça usando &lt;font color=&quot;#e5c015&quot;&gt;habilidades de defesa, força física e conexão&lt;/font&gt; para proteger os aliados em um grupo." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_4" value="&lt;font color=&quot;#e5c015&quot;&gt;3. Assassino&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_5" value="- Os Assassinos possuem um &lt;font color=&quot;#e5c015&quot;&gt;poder de ataque evasivo e explosivo, além de um controle de múltiplos alvos&lt;/font&gt; que podem neutralizar um alvo único e evitar o ataque inimigo. A eficiência das habilidades é maior do que em outras classes." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_6" value="- Porém, a maioria das habilidades são para alvos únicos, então eles são menos eficientes em grandes batalhas do que qualquer outra classe." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_7" value="&lt;font color=&quot;#e5c015&quot;&gt;4. Feiticeiro&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_8" value="- Os Feiticeiros são uma classe que utilizam mana, e usam seus atributos de &lt;font color=&quot;#e5c015&quot;&gt;chamas e gelo&lt;/font&gt; para melhorar suas habilidades. Ele pode causar bastante dano aos alvos com ataques à distância." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_9" value="- Além disso, usando os atributos de &lt;font color=&quot;#e5c015&quot;&gt;Luz e Escuridão&lt;/font&gt; ele dá um efeito de bônus benéfico ao grupo e um efeito de penalidade aos inimigos." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_10" value="&lt;font color=&quot;#e5c015&quot;&gt;5. Sacerdote&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_11" value="- Os Sacerdotes usam &lt;font color=&quot;#e5c015&quot;&gt;técnicas de penalidade e controle de múltiplos alvos&lt;/font&gt; para enfraquecer o oponente por mais tempo, enquanto usam o papel de curandeiro para &lt;font color=&quot;#e5c015&quot;&gt;recuperar a vida&lt;/font&gt;. Eles são fundamentais em grupos, devido aos seus bônus, mas é uma classe difícil para os jogadores solo devido às habilidades de ataque relativamente baixas comparadas às outras classes." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_12" value="&lt;font color=&quot;#e5c015&quot;&gt;6. Travessas&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_13" value="- Com o poder da luz, você pode usar uma área de conjuração para atacar e aumentar o poder de &lt;font color=&quot;#e5c015&quot;&gt;amigos próximos&lt;/font&gt;. É uma classe que requer julgamento para maximizar a força dos aliados no lugar certo." />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_14" value="&lt;font color=&quot;#e5c015&quot;&gt;7. Bruxa&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classchoice_15" value="&lt;font color=&quot;#e5c015&quot;&gt;Golpeia o inimigo com magia&lt;/font&gt; ou um golpe que se transforma em magia para criar um &lt;font color=&quot;#e5c015&quot;&gt;dano forte&lt;/font&gt;. É uma classe que precisa controlar constantemente a magia para permitir uma batalha constante." />
+  <keys prop="Description" type="monster" key="help_title_pvpcontents" value="Conteúdo PVP" />
+  <keys prop="Description" type="monster" key="tutorial_glide2_desc" value="Para planar enquanto voa, pressione e segure &lt;font color=&quot;#e5c015&quot;&gt;W&lt;/font&gt;, então clique duas vezes e segure a &lt;font color=&quot;#e5c015&quot;&gt;barra de espaço&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="tutorial_glide2_title" value="Planando" />
+  <keys prop="Description" type="monster" key="help_infolink_controlmode" value="Modo de Controle" />
+  <keys prop="Description" type="monster" key="help_infolink_controlmode_tip" value="Modo de Controle" />
+  <keys prop="Description" type="monster" key="help_infolink_controlmode_0" value="1. Você pode escolher como quer jogar o jogo." />
+  <keys prop="Description" type="monster" key="help_infolink_controlmode_1" value="2. Existem &lt;font color=&quot;#e5c015&quot;&gt;2 tipos&lt;/font&gt; de modo de controle." />
+  <keys prop="Description" type="monster" key="help_infolink_controlmode_2" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Modo Padrão&lt;/font&gt;: Você pode usar seu mouse para mirar e usar suas habilidades." />
+  <keys prop="Description" type="monster" key="help_infolink_controlmode_3" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Modo de Ação&lt;/font&gt;: O alvo pode ser especificado através do ponteiro de mira localizado no centro da tela, e a habilidade é usada através de cliques com os botões direito / esquerdo do mouse. (É mais fácil interagir com o alvo colocando o ponteiro no local desejado e tentando interagir.)" />
+  <keys prop="Description" type="monster" key="help_infolink_controlmode_4" value="3. O modo de controle pode selecionado quando você cria um personagem e também na janela de Configurações do jogo." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2" value="Evolução do Despertar do Personagem" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2_tip" value="Evolução do Despertar do Personagem" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2_0" value="1. Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2_1" value=" - Quando o seu personagem alcançar o &lt;font color=&quot;#e5c015&quot;&gt;nível 70&lt;/font&gt;, a missão &lt;font color=&quot;#e5c015&quot;&gt;Chamada do Herói&lt;/font&gt; poderá ser realizada para a Evolução do Despertar." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2_2" value=" - Quando você concluir a Evolução do Despertar, a aparência do seu personagem vai alterar e você vai poder usar o poderoso &lt;font color=&quot;#e5c015&quot;&gt;combo de habilidade&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2_3" value="2. Ativando a Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2_4" value=" - Quando a missão &lt;font color=&quot;#e5c015&quot;&gt;Chamada do Herói&lt;/font&gt;for concluída, a Evolução do Despertar será ativada e a habilidade &lt;font color=&quot;#e5c015&quot;&gt;[Transformation]Evolução do Despertar&lt;/font&gt; poderá ser usada para transformação." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken2_5" value="  (Após receber a missão do &lt;font color=&quot;#e5c015&quot;&gt;NPC Sion&lt;/font&gt; na Floresta de Brakarr, complete-a falando com a &lt;font color=&quot;#e5c015&quot;&gt;NPC Belhira&lt;/font&gt; na Floresta de Brakarr)" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3" value="Uso e crescimento da Habilidade Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_tip" value="Uso e crescimento da Habilidade Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_0" value="1. Medidor de Transformação" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_1" value=" - Esta é uma fonte para usar a habilidade &lt;font color=&quot;#e5c015&quot;&gt;[Transformation]Evolução do Despertar&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_2" value=" - Usando o &lt;font color=&quot;#e5c015&quot;&gt;Medidor da Evolução do Despertar&lt;/font&gt; durante o ataque a inimigos após a ativação recuperará uma certa quantidade do Medidor de Transformação." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_3" value=" - Quando o medidor de transformação estiver cheio, a habilidade &lt;font color=&quot;#e5c015&quot;&gt;[Transformation]Evolução do Despertar&lt;/font&gt; poderá ser usada para transformar. (O medidor será reiniciado após a transformação.)" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_4" value=" - A Transformação &lt;font color=&quot;#e5c015&quot;&gt;dura 30 segundos&lt;/font&gt; e &lt;font color=&quot;#e5c015&quot;&gt;será cancelada quando o personagem morrer.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_5" value="2. Combo de Habilidade" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_6" value=" - Durante a transformação, você pode clicar com botão direito no ícone do combo de habilidade ou use o combo de habilidade usando uma tecla de atalho (tecla de atalho padrão: V)." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_7" value=" - O restante do tempo de visualização pode ser confirmado pelo Medidor, no ícone de habilidades." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_8" value="3. Crescimento da Habilidade Evolução do Despertar" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_9" value=" - A habilidade Evolução do Despertar pode ser desenvolvida usando o Livro de Habilidade (usado automaticamente quando obtido) após completar a missão &lt;font color=&quot;#e5c015&quot;&gt;Poder Esquecido de Belhira&lt;/font&gt; da NPC Belhira." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_10" value="- Para completar a missão tutorial de Belhira, você precisará de uma quantidade de &lt;font color=&quot;#e5c015&quot;&gt;Fragmentos de Ametista&lt;/font&gt; e o &lt;font color=&quot;#e5c015&quot;&gt;Diário de Belhira&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_11" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Onde conseguir o Fragmento de Ametista do Livro Secreto&lt;/font&gt;: Masmorra de dificuldade Lendária (Caverna da Luz de Lava, Porto Escarlate, etc.), missões da área PvP (Caminho da Força 1, 2), Recompensa de Classificação de Campo de Batalha, batalhas com Oruun, Ranote e Van Deken" />
+  <keys prop="Description" type="monster" key="help_infolink_classawaken3_12" value=" - &lt;font color=&quot;#e5c015&quot;&gt;Onde conseguir o Diário de Belhira&lt;/font&gt;: Coleta (Exarium, Kherim, Cogumelo Poron, Cobre, Prata), Conquistas Diárias, Verificação de Presença" />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction" value="Criação de Herança de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction_tip" value="Criação de Herança de Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction_0" value="1. Ao verificar a opção de &lt;font color=&quot;#e5c015&quot;&gt;Criação de Herança de Pedra-Lacre&lt;/font&gt; da Criação com Herança, você pode fazer uma Pedra-Lacre no equipamento de material." />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction_1" value="2. A Criação de Herança de Pedra-Lacre não afeta a probabilidade de criação." />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction_2" value="3. O &lt;font color=&quot;#e5c015&quot;&gt;Cristal da Alma&lt;/font&gt; &lt;font color=&quot;#e5c015&quot;&gt;não está incluído no alvo de herança.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction_3" value="4. Se você herdar um equipamento equipado com &lt;font color=&quot;#e5c015&quot;&gt;Pedra-Lacre (Não Negociável)&lt;/font&gt;, ele será &lt;font color=&quot;#e5c015&quot;&gt;automaticamente vinculado&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction_4" value="5. Há uma &lt;font color=&quot;#e5c015&quot;&gt;Taxa de Ellun&lt;/font&gt; separada para Criação de Herança de Pedra-Lacre." />
+  <keys prop="Description" type="monster" key="help_infolink_sealedfellowsuccessionproduction_5" value="6. Se a criação falhar, 10% da taxa será subtraída." />
+  <keys prop="Description" type="monster" key="help_infolink_guildad" value="Quadro de Promoção de Guildas" />
+  <keys prop="Description" type="monster" key="help_infolink_guildad_tip" value="Quadro de Promoção de Guildas" />
+  <keys prop="Description" type="monster" key="help_infolink_guildad_0" value="1. Você pode conferir o Quadro de Avisos de Promoção de Guildas através do botão do sistema no canto inferior direito ou com a tecla ESC do teclado." />
+  <keys prop="Description" type="monster" key="help_infolink_guildad_1" value="2. Você pode recrutar membros para sua guilda, registrando suas mensagens de publicidade de guilda." />
+  <keys prop="Description" type="monster" key="help_infolink_guildad_2" value="3. Clique no boletim de Recrutamento de Membros de Guilda para solicitar a adesão na guilda que você quer." />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle" value="Cerco" />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_tip" value="Cerco" />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_0" value="1. O cerco é um conteúdo de Guerra de Guildas no canal de PvP das Terras Altas de Hakanas." />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_1" value="2. O cerco pode ser administrado através da janela de Gerenciamento de Guilda somente pelo &lt;font color=&quot;#e5c015&quot;&gt;Mestre da Guilda&lt;/font&gt;, e todos os &lt;font color=&quot;#e5c015&quot;&gt;cavaleiros&lt;/font&gt; entrarão em combate." />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_2" value=" - Prazo de inscrição no cerco : &lt;font color=&quot;#e5c015&quot;&gt; até 1 hora antes do cerco começar, depois de seu fim as inscrições abrem novamente&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_3" value=" - Horário do Cerco : &lt;font color=&quot;#e5c015&quot;&gt;toda quarta-feira e sábado das 21:00 to 21:30&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_4" value=" - Participação de guildas no cerco : O cerco pode ter o &lt;font color=&quot;#e5c015&quot;&gt;máximo de 30 guildas&lt;/font&gt;que se registraram &lt;font color=&quot;#e5c015&quot;&gt;na ordem&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_5" value="3. O objetivo do cerco é pegar o máximo de Pedras de Mana dos 3 tipos disponíveis." />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_6" value="4. Condições de ocupação" />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_7" value=" - Ocupação Final: No final do cerco, a guilda que ocupa a base é a que possui &lt;font color=&quot;#e5c015&quot;&gt;2 das 3 Pedras de Mana&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_8" value="- Ocupação de longo prazo: Se no final não houver uma guilda ocupante, a guilda que tiver ocupado a base por &lt;font color=&quot;#e5c015&quot;&gt;mais tempo&lt;/font&gt;é quem vence." />
+  <keys prop="Description" type="monster" key="help_infolink_SpotBattle_9" value="5. Todos os jogadores, exceto os participantes, estarão em modo de observação durante o cerco no canal de PvP." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant" value="Sistema de Lacragem de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_tip" value="Sistema de Lacragem de Familiares" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_0" value="1. Sistema de Lacragem de Familiares?" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_1" value="-Quando o personagem atinge &lt;font color=&quot;#e5c015&quot;&gt;Nível 40&lt;/font&gt;, o sistema será desbloqueado." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_2" value="- &lt;font color=&quot;#e5c015&quot;&gt;Familiar e Pedra-Lacre&lt;/font&gt;são consumidos, e o efeito da habilidade&lt;font color=&quot;#e5c015&quot;&gt;é aumentado&lt;/font&gt;. &lt;font color=&quot;#67FF00&quot;&gt;(até 20% de aumento de eficácia)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_3" value="-Sistema de Lacragem de Familiares pode ser experimentado com o &lt;font color=&quot;#67FF00&quot;&gt;[Crow]&lt;/font&gt;na Travessia de Hakain uma vez que o personagem &lt;font color=&quot;#e5c015&quot;&gt;tenha alcançado nível 40&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_4" value="2. Como Recarregar o Lacre do Familiar" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_5" value="-Você pode ativar a Interface do Usuário da Lacragem de Familiares clicando o botão esquerdo do mouse sobre a interface do usuário ao lado de Atalho." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_6" value="-Depois de ativar a Interface do Usuário de Lacragem de Familiar, você pode selecionar &lt;font color=&quot;#e5c015&quot;&gt;Familiares e Pedra-Lacre ao clicar com o botão esquerdo&lt;/font&gt; na lista." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_7" value="-Depois que você escolher, clique em &lt;font color=&quot;#e5c015&quot;&gt;Botão de Recarga&lt;/font&gt;para Recarregar. &lt;font color=&quot;#e5c015&quot;&gt;(ouro será usado para Recarregar.)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_8" value="3. Como Colocar Pedra-Lacre em Armas" />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_9" value="- Após recarregar o familiar lacrado, clique no &lt;font color=&quot;#e5c015&quot;&gt;Botão de Configurar Arma&lt;/font&gt; para Recarregar." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_10" value="-Existem armas recarregáveis e não recarregáveis para Lacre de Familiares, e você pode recarregar a &lt;font color=&quot;#e5c015&quot;&gt;armas de nível 40 de raridade Lendária ou maior&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_fellowsoulenchant_11" value="-Depois que a arma tenha sido recarregada &lt;font color=&quot;#e5c015&quot;&gt;o efeito será adicionado à mão do personagem&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty" value="Torre Anônima" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_tip" value="Torre Anônima" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_0" value="1. Informação de Entrada" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_1" value="- Torre Anônima está localizada na Planície de Sorma na &lt;font color=&quot;#e5c015&quot;&gt;Costa de Parna&lt;/font&gt;." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_2" value="- De 1 a 3 personagens &lt;font color=&quot;#e5c015&quot;&gt;Nível 60&lt;/font&gt; ou mais podem entrar na masmorra." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_3" value="- Você pode &lt;font color=&quot;#e5c015&quot;&gt; entrar duas vezes ao dia&lt;/font&gt;, e você pode usar &lt;font color=&quot;#e5c015&quot;&gt; 200 Ellun&lt;/font&gt; para reinicializar." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_4" value="2. Procedimentos" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_5" value="- A Torre Anônima possui andares subterrâneos de 1 a 20." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_6" value="-Quando você &lt;font color=&quot;#e5c015&quot;&gt;derrotar todos os monstros&lt;/font&gt; de um andar, você pode descer para o próximo andar." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_7" value="- Quando você não conseguir derrotar os monstros dentro do tempo limite, o Executor irá aparecer.&lt;font color=&quot;#e5c015&quot;&gt;(executores não podem ser derrotados.)&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_8" value="- A cada 5 andares um chefão aparecerá, &lt;font color=&quot;#e5c015&quot;&gt; derrote o chefão para receber recompensa.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_9" value="- &lt;font color=&quot;#e5c015&quot;&gt;Quando finalizada, personagens mortos irão retornar à vida.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_10" value="- Ao completar com &lt;font color=&quot;#e5c015&quot;&gt;um grupo de 3 jogadores&lt;/font&gt;, você obter mais recompensas." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_11" value="3. Observação" />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_12" value="- Você será automaticamente expulso de seu grupo se sair do jogo ou abandonar a masmorra." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_13" value="- Você &lt;font color=&quot;#e5c015&quot;&gt;só pode usar poções especiais&lt;/font&gt; vendidas dentro da torre e você não pode usar itens de ressuscitação, retorno ou recuperação." />
+  <keys prop="Description" type="monster" key="help_infolink_infiniteparty_14" value="- O tempo de recarga da Ressurreição irá aumentar." />
+</files>

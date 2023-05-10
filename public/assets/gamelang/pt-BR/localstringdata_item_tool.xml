@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="TL0_001_0_0000" value="Mining Pickaxe" />
-  <keys type="item" key="TL1_001_0_0000" value="Tanning Hand Knife" />
-  <keys type="item" key="TL2_001_0_0000" value="Gathering Scythe" />
-  <keys type="item" key="TL3_001_0_0000" value="Crude Fishing Rod" />
-  <keys type="item" key="TL4_001_0_0000" value="Basic Hammer" />
-  <keys type="item" key="TL5_001_0_0000" value="Basic Experimental Tools" />
-  <keys type="item" key="TL6_001_0_0000" value="Basic Cookware" />
-  <keys type="item" key="TL7_001_0_0001" value="Clearing Plow" />
-  <keys type="item" key="TL8_001_0_0001" value="Clearing Shovel" />
-  <keys type="item" key="TL9_001_0_0002" value="Construction Hammer" />
-  <keys type="item" key="TL10_001_0_0002" value="Farmland initial tool" />
+  <keys prop="Name" type="item" key="TL0_001_0_0000" value="" />
+  <keys prop="Description" type="item" key="TL0_001_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="TL1_001_0_0000" value="" />
+  <keys prop="Description" type="item" key="TL1_001_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="TL2_001_0_0000" value="" />
+  <keys prop="Description" type="item" key="TL2_001_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="TL3_001_0_0000" value="" />
+  <keys prop="Description" type="item" key="TL3_001_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="TL4_001_0_0000" value="" />
+  <keys prop="Description" type="item" key="TL4_001_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="TL5_001_0_0000" value="" />
+  <keys prop="Description" type="item" key="TL5_001_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="TL6_001_0_0000" value="" />
+  <keys prop="Description" type="item" key="TL6_001_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="TL7_001_0_0001" value="" />
+  <keys prop="Name" type="item" key="TL8_001_0_0001" value="" />
+  <keys prop="Name" type="item" key="TL9_001_0_0002" value="" />
+  <keys prop="Name" type="item" key="TL10_001_0_0002" value="" />
 </files>

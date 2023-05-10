@@ -1,456 +1,908 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="N_f07_0_0001_0001" value="Einz Garni" />
-  <keys type="npc" key="N_D08_Portal_1" value="Santuário da Vitória" />
-  <keys type="npc" key="N_F07_Darwin_01" value="Capitão Dallwyn" />
-  <keys type="npc" key="N_F07_Whale_01" value="Titã do Céu de Hakanas" />
-  <keys type="npc" key="N_F07_Gillot_01" value="Gilotte" />
-  <keys type="npc" key="N_F07_Fragen_01" value="Pragen" />
-  <keys type="npc" key="N_F07_Kilroi_01" value="Kilroy" />
-  <keys type="npc" key="N_F07_Hiss_01" value="Heather" />
-  <keys type="npc" key="N_F07_Balralen_01" value="Valiren" />
-  <keys type="npc" key="N_F07_Sada_01" value="Sada" />
-  <keys type="npc" key="N_F07_Scrra_01" value="Skira" />
-  <keys type="npc" key="N_F07_Minan_01" value="Meenan" />
-  <keys type="npc" key="N_F07_Portal_100" value="Santuário de Regiões" />
-  <keys type="npc" key="N_F07_Portal_001" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F07_Portal_002" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F07_Portal_003" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F07_Portal_004" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F07_Portal_005" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F07_Balra_01" value="Baala" />
-  <keys type="npc" key="N_F07_Crea_01" value="Crea" />
-  <keys type="npc" key="N_F07_Malo_01" value="Malo" />
-  <keys type="npc" key="N_F07_Sanna_01" value="Sana" />
-  <keys type="npc" key="N_F07_Kaily_01" value="Khailvar" />
-  <keys type="npc" key="N_F07_Rahare_01" value="Rahar" />
-  <keys type="npc" key="N_F07_Illuin_01" value="Illuin" />
-  <keys type="npc" key="N_F07_Narrin_01" value="Narain" />
-  <keys type="npc" key="N_F07_Kotri_01" value="Cotry" />
-  <keys type="npc" key="N_F07_Vollra_01" value="Bolla" />
-  <keys type="npc" key="N_F07_Ullik_01" value="Woolic" />
-  <keys type="npc" key="N_F07_Fosa_01" value="Posa" />
-  <keys type="npc" key="N_F07_Eness_01" value="Ennis" />
-  <keys type="npc" key="N_F07_Glan_01" value="Glenn" />
-  <keys type="npc" key="N_F07_Bonif_01" value="Bonif" />
-  <keys type="npc" key="N_F07_SunFill_01" value="Ensolarado" />
-  <keys type="npc" key="N_F07_Evian_01" value="Evian" />
-  <keys type="npc" key="N_F07_Feyqueen_01" value="Fey-Irmã" />
-  <keys type="npc" key="N_F07_Vallina_01" value="Balina" />
-  <keys type="npc" key="N_F07_Feycle_01" value="Fezzil" />
-  <keys type="npc" key="N_F07_Saerrn_01" value="Sarona" />
-  <keys type="npc" key="N_F07_Dera_01" value="Dera" />
-  <keys type="npc" key="N_F07_Rockbail_01" value="Rockbail" />
-  <keys type="npc" key="N_F07_Qarrin_01" value="Quarin" />
-  <keys type="npc" key="N_F07_Risco_01" value="Risco" />
-  <keys type="npc" key="N_F07_Coolrash_01" value="Kulashi" />
-  <keys type="npc" key="N_F07_Toolick_01" value="Tulik" />
-  <keys type="npc" key="N_F07_Liie_01" value="Leeh" />
-  <keys type="npc" key="N_F07_Board_100" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Board_001" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Board_002" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Board_003" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Board_004" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Board_005" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Board_006" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Board_007" value="Quadro de Missões" />
-  <keys type="npc" key="N_F07_Keron_01" value="Kerron" />
-  <keys type="npc" key="N_F07_Gremi_01" value="Rammi" />
-  <keys type="npc" key="N_F07_Abakan_01" value="Abakhan" />
-  <keys type="npc" key="N_F07_Minusin_01" value="Minushin" />
-  <keys type="npc" key="N_F07_Valleya_01" value="Veliya" />
-  <keys type="npc" key="N_F07_Betten_01" value="Batten" />
-  <keys type="npc" key="N_F07_Smith_01" value="Bigorna para Armas" />
-  <keys type="npc" key="N_F07_Smith_02" value="Bigorna para Armaduras" />
-  <keys type="npc" key="N_F07_Cook_01" value="Estação de Cozimento" />
-  <keys type="npc" key="N_F07_Alchemy_01" value="Laboratório de Alquimia" />
-  <keys type="npc" key="N_F07_Accessory_01" value="Bancada de Ourives" />
-  <keys type="npc" key="N_F07_Fellow_01" value="Mesa de Criação de Selaria" />
-  <keys type="npc" key="N_F07_RabMer01_01" value="Matilda Lebrini" />
-  <keys type="npc" key="N_F07_RabMer01_02" value="Lenore Lebrini" />
-  <keys type="npc" key="N_F07_RabMer01_03" value="Muriel Lebrini" />
-  <keys type="npc" key="N_F07_Sell_01" value="Louer" />
-  <keys type="npc" key="N_F07_Sell_02" value="Furrow" />
-  <keys type="npc" key="N_F07_Sell_03" value="Purick" />
-  <keys type="npc" key="N_F07_HuMFar_101" value="Salburg" />
-  <keys type="npc" key="N_F07_HuMFar_102" value="Dunburg" />
-  <keys type="npc" key="N_F07_HuMFar_103" value="Zenberg" />
-  <keys type="npc" key="N_F07_HuMFar_104" value="Nilberg" />
-  <keys type="npc" key="N_F07_HuMFar_105" value="Haberg" />
-  <keys type="npc" key="N_F07_HuMFar_106" value="Kaberg" />
-  <keys type="npc" key="N_F07_Collect_01" value="Periot" />
-  <keys type="npc" key="N_F07_CFellow_01" value="Panure" />
-  <keys type="npc" key="N_F07_Collect_02" value="Katshu" />
-  <keys type="npc" key="N_F07_CFellow_02" value="Braffy" />
-  <keys type="npc" key="N_F07_chef_01" value="Troberry" />
-  <keys type="npc" key="N_F07_RabiBani_01" value="Van Owen Lebrini" />
-  <keys type="npc" key="N_F07_Penelope_01" value="Penelope" />
-  <keys type="npc" key="N_F07_LElfDemus_01" value="Demociel" />
-  <keys type="npc" key="N_F07_LElfBmage_01" value="Elfo da Luz - Alto Mago" />
-  <keys type="npc" key="N_F07_LElfMage_01" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F07_LElfRocsan_01" value="Pridon Roa" />
-  <keys type="npc" key="N_F07_LElfPriest_01" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_LElfTrepsy_01" value="Elfo da Luz - Mago das Árvores" />
-  <keys type="npc" key="N_F07_LElfRenan_01" value="Lenanzar" />
-  <keys type="npc" key="N_F07_LElfAttack_01" value="Elfo da Luz - Soldado" />
-  <keys type="npc" key="N_F07_LElfScout_01" value="Elfo da Luz - Patrulheiro" />
-  <keys type="npc" key="N_F07_LElfExecut_01" value="Elfo da Luz - Executor" />
-  <keys type="npc" key="N_F07_LElfGuard_01" value="Elfo da Luz - Guardião" />
-  <keys type="npc" key="N_F07_LElfShadow_01" value="Elfo da Luz - Guerreiro Sombrio" />
-  <keys type="npc" key="N_F07_LElfAurea_01" value="Centuriã Aurea" />
-  <keys type="npc" key="N_F07_LElfRecon_01" value="Elfo da Luz - Atirador de Elite" />
-  <keys type="npc" key="N_F07_LElfSnipe_01" value="Elfo da Luz - Soldado" />
-  <keys type="npc" key="N_F07_LElfHunter_01" value="Elfo da Luz - Caçador" />
-  <keys type="npc" key="N_F07_Ador_01" value="Ador" />
-  <keys type="npc" key="N_F07_Neebl_01" value="Pretor Rodheim" />
-  <keys type="npc" key="N_F07_LElfDguard_01" value="Elfo da Luz - Guarda Sombrio" />
-  <keys type="npc" key="N_F07_LElfDassi_01" value="Elfo da Luz - Assassino Sombrio" />
-  <keys type="npc" key="N_F07_LElfMcian_01" value="Elfo da Luz - Ilusionista" />
-  <keys type="npc" key="N_F07_LElfSahunt_01" value="Elfo da Luz - Caçador Sombrio" />
-  <keys type="npc" key="N_F07_Magno_01" value="Magno" />
-  <keys type="npc" key="N_F07_HDroFig_01" value="Guerreiro dos Cavaleiros do Dragão" />
-  <keys type="npc" key="N_F07_HDroPat_01" value="Patrulheiro dos Cavaleiros do Dragão" />
-  <keys type="npc" key="N_F07_HDroMar_01" value="Saqueador dos Cavaleiros do Dragão" />
-  <keys type="npc" key="N_F07_Hdro_Sha_01" value="Atirador dos Cavaleiros do Dragão" />
-  <keys type="npc" key="N_F07_Bernor_01" value="Bernori" />
-  <keys type="npc" key="N_F07_Lian_01" value="Rannis" />
-  <keys type="npc" key="N_F07_Lian_02" value="Rannis" />
-  <keys type="npc" key="N_F07_Bellon_01" value="Belon" />
-  <keys type="npc" key="N_F07_Narpa_01" value="Narfa" />
-  <keys type="npc" key="N_F07_Edios_01" value="Idios" />
-  <keys type="npc" key="N_F07_Libere_01" value="Liberre" />
-  <keys type="npc" key="N_F07_Reteo_01" value="Retio" />
-  <keys type="npc" key="N_F07_Conwell_01" value="Corvel" />
-  <keys type="npc" key="N_F07_Conwell_02" value="Corvel" />
-  <keys type="npc" key="N_F07_Brian_01" value="Brian" />
-  <keys type="npc" key="N_F07_Ronin_01" value="Roan" />
-  <keys type="npc" key="N_F07_Meuis_01" value="Maius" />
-  <keys type="npc" key="N_F07_Stella_01" value="Stellarix" />
-  <keys type="npc" key="N_F07_Hemus_01" value="Capitão Hemus" />
-  <keys type="npc" key="N_F07_Trent_01" value="Limbreth" />
-  <keys type="npc" key="N_F07_Ador_02" value="Ador" />
-  <keys type="npc" key="N_F07_Hodos_01" value="Hodos" />
-  <keys type="npc" key="N_F07_LElfMage_02" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F07_LElfAttack_02" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LElfGuard_02" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F07_LElfRecon_02" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LElfSahunt_02" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_Conwell_03" value="Corvel" />
-  <keys type="npc" key="N_F07_Udas_01" value="Iouda" />
-  <keys type="npc" key="N_F07_WorldTree_01" value="Daleroth" />
-  <keys type="npc" key="N_F07_Creoss_01" value="Crios" />
-  <keys type="npc" key="N_F07_Branndiou_01" value="Brandior" />
-  <keys type="npc" key="N_F07_Slanner_01" value="Slenir" />
-  <keys type="npc" key="N_F07_Fuchen_01" value="Chanis" />
-  <keys type="npc" key="N_F07_Rhino_01" value="Ryno" />
-  <keys type="npc" key="N_F07_Daina_01" value="Deina" />
-  <keys type="npc" key="N_F07_Bailra_01" value="Vyla" />
-  <keys type="npc" key="N_F07_LElfBmage_03" value="Elfo da Luz - Mago do Sol" />
-  <keys type="npc" key="N_F07_LElfMage_03" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F07_LElfPriest_03" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_LElfTrepsy_03" value="Elfo da Luz - Mago da Natureza" />
-  <keys type="npc" key="N_F07_LElfAttack_03" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LElfExecut_03" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LElfGuard_03" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F07_LElfShadow_03" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F07_LElfRecon_03" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LElfSnipe_03" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LElfDguard_03" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F07_Disoss_01" value="Desourd" />
-  <keys type="npc" key="N_F07_Brand_01" value="Berand" />
-  <keys type="npc" key="N_F07_WorldTree_02" value="Daleroth" />
-  <keys type="npc" key="N_F07_Erana_01" value="Erna" />
-  <keys type="npc" key="N_F07_Dine_01" value="Dineh" />
-  <keys type="npc" key="N_F07_Gomora_01" value="Gomora" />
-  <keys type="npc" key="N_F07_Ferretos_01" value="Peritos" />
-  <keys type="npc" key="N_F07_Deruma_01" value="Delma" />
-  <keys type="npc" key="N_F07_Aros_01" value="Aros" />
-  <keys type="npc" key="N_F07_Tgress_01" value="Tigris" />
-  <keys type="npc" key="N_F07_Turene_01" value="Turina" />
-  <keys type="npc" key="N_F07_Aleton_01" value="Eldon" />
-  <keys type="npc" key="N_F07_Cracesis_01" value="Krasis" />
-  <keys type="npc" key="N_F07_Udas_02" value="Iouda" />
-  <keys type="npc" key="N_F07_Hemon_01" value="Hermon" />
-  <keys type="npc" key="N_F07_Vella_01" value="Bella" />
-  <keys type="npc" key="N_F07_LElfBmage_04" value="Mago Elfo de Elite" />
-  <keys type="npc" key="N_F07_LElfPriest_04" value="Sacerdote Elfo de Elite" />
-  <keys type="npc" key="N_F07_LElfExecut_04" value="Guerreiro de Elite Élfico" />
-  <keys type="npc" key="N_F07_LElfShadow_04" value="Cavaleiro de Elite Élfico" />
-  <keys type="npc" key="N_F07_LElfSnipe_04" value="Arqueiro de Elite Élfico" />
-  <keys type="npc" key="N_F07_Antress_01" value="Endras" />
-  <keys type="npc" key="N_F07_Moison_01" value="Moseon" />
-  <keys type="npc" key="N_F07_Subenhilt_01" value="Senhil" />
-  <keys type="npc" key="N_F07_Venares_01" value="Benaress" />
-  <keys type="npc" key="N_F07_Tartagon_01" value="Tartagon" />
-  <keys type="npc" key="N_F07_Fedan_01" value="Fedan" />
-  <keys type="npc" key="N_F07_Renero_01" value="Renero" />
-  <keys type="npc" key="N_F07_Arcross_01" value="Achros" />
-  <keys type="npc" key="N_F07_Ophelrain_01" value="Opelean" />
-  <keys type="npc" key="N_F07_Carteria_01" value="Karteris" />
-  <keys type="npc" key="N_F07_Metrion_01" value="Metrion" />
-  <keys type="npc" key="N_F07_Volliason_01" value="Bolian" />
-  <keys type="npc" key="N_F17_Portal_100" value="Santuário de Regiões" />
-  <keys type="npc" key="N_F17_Portal_001" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F17_Portal_002" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F17_Baha_01" value="Baahi" />
-  <keys type="npc" key="N_F17_Risslo_01" value="Rislo" />
-  <keys type="npc" key="N_F17_Vallriran_01" value="Baliran" />
-  <keys type="npc" key="N_F17_Ruo_01" value="Luo" />
-  <keys type="npc" key="N_F17_Glisha_01" value="Glasha" />
-  <keys type="npc" key="N_F17_Fallia_01" value="Palia" />
-  <keys type="npc" key="N_F17_Srraia_01" value="Threa" />
-  <keys type="npc" key="N_F17_Clare_01" value="Coração-Limpo" />
-  <keys type="npc" key="N_F17_Crumrin_01" value="Crumlin" />
-  <keys type="npc" key="N_F17_Deriin_01" value="Derin" />
-  <keys type="npc" key="N_F17_Reel_01" value="Riel" />
-  <keys type="npc" key="N_F17_Carimoor_01" value="Kharimor" />
-  <keys type="npc" key="N_F17_Board_100" value="Quadro de Missões" />
-  <keys type="npc" key="N_F17_Board_001" value="Quadro de Missões" />
-  <keys type="npc" key="N_F17_Board_002" value="Quadro de Missões" />
-  <keys type="npc" key="N_F17_Board_003" value="Quadro de Missões" />
-  <keys type="npc" key="N_F17_Board_004" value="Quadro de Missões" />
-  <keys type="npc" key="N_F17_Rasmorgon_01" value="Lasmar" />
-  <keys type="npc" key="N_F17_Villivon_01" value="Billy" />
-  <keys type="npc" key="N_F17_Raken_01" value="Raken" />
-  <keys type="npc" key="N_F17_Katon_01" value="Khaton" />
-  <keys type="npc" key="N_F17_Sessia_01" value="Cercia" />
-  <keys type="npc" key="N_F17_Sthtsia_01" value="Shor" />
-  <keys type="npc" key="N_F17_Smith_01" value="Bigorna para Armas" />
-  <keys type="npc" key="N_F17_Smith_02" value="Bigorna para Armaduras" />
-  <keys type="npc" key="N_F17_Cook_01" value="Estação de Cozimento" />
-  <keys type="npc" key="N_F17_Alchemy_01" value="Laboratório de Alquimia" />
-  <keys type="npc" key="N_F17_Accessory_01" value="Bancada de Ourives" />
-  <keys type="npc" key="N_F17_Fellow_01" value="Mesa de Criação de Selaria" />
-  <keys type="npc" key="N_F17_RabMer01_01" value="Maisy Lebrini" />
-  <keys type="npc" key="N_F17_Sell_01" value="Demein" />
-  <keys type="npc" key="N_F17_HuMFar_101" value="Munia" />
-  <keys type="npc" key="N_F17_HuMFar_102" value="Moonia" />
-  <keys type="npc" key="N_F17_RabiBani_01" value="Van Owen Lebrini" />
-  <keys type="npc" key="N_F17_Penelope_01" value="Penelope" />
-  <keys type="npc" key="N_F17_Collect_02" value="Levi" />
-  <keys type="npc" key="N_F17_CFellow_02" value="Cragborg" />
-  <keys type="npc" key="N_F17_chef_01" value="Permint" />
-  <keys type="npc" key="N_F17_LightAttack_02" value="Mensageiro" />
-  <keys type="npc" key="N_F17__Udas_02" value="Iouda" />
-  <keys type="npc" key="N_F17_Wentus_01" value="Wentus" />
-  <keys type="npc" key="N_F17_Meredy_01" value="Merdi" />
-  <keys type="npc" key="N_F17_Karald_01" value="Karald" />
-  <keys type="npc" key="N_F17_isendor_01" value="Isendor" />
-  <keys type="npc" key="N_F17_Aden_01" value="Arden" />
-  <keys type="npc" key="N_F17_Chella_01" value="Chella" />
-  <keys type="npc" key="N_F17_Asha_01" value="Arsha" />
-  <keys type="npc" key="N_F17_Ailene_01" value="Ellenee" />
-  <keys type="npc" key="N_F17_LightBmage_01" value="Elfo da Luz - Mago do Sol" />
-  <keys type="npc" key="N_F17_LightMage_01" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F17_LightPriest_01" value="Elfo da Luz - Sacerdote" />
-  <keys type="npc" key="N_F17_LightAttack_01" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F17_LightGuard_01" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F17_LightSnipe_01" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F17_LightHunter_01" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F17_LightSahunt_01" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_conwell_cut_01" value="Corvel" />
-  <keys type="npc" key="N_F07_udas_cut_02" value="Iouda" />
-  <keys type="npc" key="N_F07_chasudas_03" value="Iouda" />
-  <keys type="npc" key="N_F07_CelfExecut_04" value="Elfo do Caos - Carrasco" />
-  <keys type="npc" key="N_F07_CelfAttack_05" value="Elfo do Caos - Bandoleiro" />
-  <keys type="npc" key="N_F07_CelfShadow_06" value="Elfo do Caos - Guerreiro Sombrio" />
-  <keys type="npc" key="N_F07_CelfGuard_07" value="Elfo do Caos - Defensor" />
-  <keys type="npc" key="N_F07_CelfNeebl_08" value="Chefe dos Elfos do Caos" />
-  <keys type="npc" key="N_F07_CelfBmage_09" value="Elfo do Caos - Alto Mago" />
-  <keys type="npc" key="N_F07_CelfMage_10" value="Elfo do Caos - Mago" />
-  <keys type="npc" key="N_F07_CelfRecon_11" value="Elfo do Caos - Patrulheiro" />
-  <keys type="npc" key="N_F07_CelfSnipe_12" value="Elfo do Caos - Atirador" />
-  <keys type="npc" key="N_F07_CelfHunter_13" value="Elfo do Caos - Caçador" />
-  <keys type="npc" key="N_F07_CelfPriest_14" value="Elfo do Caos - Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_ElfMAdor_15" value="Capitão Slenir" />
-  <keys type="npc" key="N_F07_LightExecut_16" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LightAttack_17" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LightShadow_18" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LightGuard_19" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F07_LightScout_20" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LightSnipe_21" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LightRecon_22" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LightHunter_23" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LightPriest_24" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_LightBmage_25" value="Elfo da Luz - Alto Mago" />
-  <keys type="npc" key="N_F07_LightMage_26" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F07_cracesis_cut02" value="Krasis" />
-  <keys type="npc" key="N_F07_Apost_cut_02" value="Arconte" />
-  <keys type="npc" key="N_F07_LElfBmage_05" value="Elfo da Luz - Mago do Sol" />
-  <keys type="npc" key="N_F07_LElfPriest_05" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_LElfGuard_05" value="Elfo da Luz - Patrulheiro" />
-  <keys type="npc" key="N_F07_LElfShadow_05" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F07_LElfRecon_05" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LElfPegasus_05" value="Elfo da Luz - Pégaso" />
-  <keys type="npc" key="N_F07_LightAttack_06" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LightAttack_07" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LightHunter_06" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LightHunter_07" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LElfBmage_06" value="Elfo da Luz - Adepto" />
-  <keys type="npc" key="N_F07_LElfMage_07" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F07_LElfPriest_06" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_LElfExecut_06" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LElfExecut_07" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F07_LElfGuard_07" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F07_LElfSnipe_06" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F07_LElfSnipe_07" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F17_LElfBmage_05" value="Elfo da Luz - Adepto" />
-  <keys type="npc" key="N_F17_LElfPriest_05" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F17_LElfGuard_05" value="Elfo da Luz - Patrulheiro" />
-  <keys type="npc" key="N_F17_LElfShadow_05" value="Elfo da Luz - Cavaleiro" />
-  <keys type="npc" key="N_F17_LElfRecon_05" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F17_LElfPegasus_05" value="Elfo da Luz - Pégaso" />
-  <keys type="npc" key="N_F17_LightAttack_06" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F17_LightAttack_07" value="Elfo da Luz - Guerreiro" />
-  <keys type="npc" key="N_F17_LightHunter_06" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F17_LightHunter_07" value="Elfo da Luz - Arqueiro" />
-  <keys type="npc" key="N_F17_LElfBmage_06" value="Elfo da Luz - Adepto" />
-  <keys type="npc" key="N_F17_LElfMage_07" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F17_LElfPriest_06" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F17_LElfPriest_07" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_Lightnell_01" value="Litenell" />
-  <keys type="npc" key="N_F07_Civilian_01" value="Residente de Elgaden" />
-  <keys type="npc" key="N_F07_Civilian_02" value="Residente de Elgaden" />
-  <keys type="npc" key="N_F07_Civilian_03" value="Residente de Elgaden" />
-  <keys type="npc" key="N_F07_Civilian_04" value="Residente de Elgaden" />
-  <keys type="npc" key="N_F07_Civilian_05" value="Residente de Elgaden" />
-  <keys type="npc" key="N_F17_Civilian_01" value="Aldeã" />
-  <keys type="npc" key="N_F17_Civilian_02" value="Aldeã" />
-  <keys type="npc" key="N_F17_Civilian_03" value="Aldeã" />
-  <keys type="npc" key="N_F17_Civilian_04" value="Aldeã" />
-  <keys type="npc" key="N_F17_Civilian_05" value="Aldeã" />
-  <keys type="npc" key="N_F07_LElfMageTr_03" value="Troman" />
-  <keys type="npc" key="N_F07_maxen_01" value="Maxon" />
-  <keys type="npc" key="N_F17_gaberion_01" value="Gaberion" />
-  <keys type="npc" key="N_F17_erha_01" value="Erha" />
-  <keys type="npc" key="N_F17_creamson_01" value="Rubro" />
-  <keys type="npc" key="N_F17_cuanomar_01" value="Quanomar" />
-  <keys type="npc" key="N_F17_Collect_01" value="Glover" />
-  <keys type="npc" key="N_F17_Collect_03" value="Rahkshi" />
-  <keys type="npc" key="N_F07_Collect_03" value="Jukel" />
-  <keys type="npc" key="N_F07_CFellow_03" value="Toolye" />
-  <keys type="npc" key="N_F07_Collect_04" value="Milton" />
-  <keys type="npc" key="N_F07_chef_02" value="Greta" />
-  <keys type="npc" key="N_F07_chef_03" value="Pêssego" />
-  <keys type="npc" key="N_F07_chef_04" value="Romadia" />
-  <keys type="npc" key="N_F07_chef_05" value="Romadia" />
-  <keys type="npc" key="N_f07_bone_01" value="Esqueleto" />
-  <keys type="npc" key="N_F07_Skilim_01" value="Skarim" />
-  <keys type="npc" key="N_F07_Basatoom_01" value="Bhasatum" />
-  <keys type="npc" key="N_F17_Soruza_01" value="Sorza" />
-  <keys type="npc" key="N_F17_Kuii_01" value="Kuui" />
-  <keys type="npc" key="N_F17_Collect_04" value="Rumian" />
-  <keys type="npc" key="N_F17_CFellow_04" value="Miru" />
-  <keys type="npc" key="N_F07_HuMFar_107" value="Joberg" />
-  <keys type="npc" key="N_F07_CFellow_04" value="Raben" />
-  <keys type="npc" key="N_F07_CFellow_05" value="Pentasil" />
-  <keys type="npc" key="N_F07_Collect_05" value="Periot" />
-  <keys type="npc" key="N_F07_CFellow_06" value="Panure" />
-  <keys type="npc" key="N_F07_CFellow_07" value="Raben" />
-  <keys type="npc" key="N_F07_Collect_06" value="Katshu" />
-  <keys type="npc" key="N_F07_CFellow_08" value="Braffy" />
-  <keys type="npc" key="N_F17_Collect_05" value="Paice" />
-  <keys type="npc" key="N_F17_CFellow_05" value="Cron" />
-  <keys type="npc" key="N_F17_Collect_06" value="Paice" />
-  <keys type="npc" key="N_F17_CFellow_06" value="Cron" />
-  <keys type="npc" key="N_F17_Collect_07" value="Dian" />
-  <keys type="npc" key="n_d99_portal_001" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_002" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_003" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_004" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_005" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_006" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_007" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_008" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_009" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_010" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_011" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_012" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_013" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_014" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_015" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_016" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_017" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_018" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_019" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_020" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_021" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_022" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_023" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_024" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_025" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_026" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_027" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_028" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_029" value="Portão da Brecha" />
-  <keys type="npc" key="N_F17_Portal_003" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F17_Frons_01" value="Pronce" />
-  <keys type="npc" key="N_F07_Brand_02" value="Berand" />
-  <keys type="npc" key="N_F07_carnan_01" value="Karnan" />
-  <keys type="npc" key="N_F07_elbar_01" value="Elbarr" />
-  <keys type="npc" key="N_F17_Duron_01" value="Duron" />
-  <keys type="npc" key="N_F07_Cracesis_02" value="Krasis" />
-  <keys type="npc" key="N_F17_LightMage_02" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_F17_LightMage_03" value="Elfo da Luz - Mago" />
-  <keys type="npc" key="N_D99_Portal_Q" value="Santuário da Vitória" />
-  <keys type="npc" key="N_F07_Celf_01" value="Jagrafel" />
-  <keys type="npc" key="N_F07_watchelf_01" value="Tebranir" />
-  <keys type="npc" key="N_F07_Collect_07" value="Milton" />
-  <keys type="npc" key="N_F17_witch_01" value="Sermi" />
-  <keys type="npc" key="N_F07_LElfBmage_07" value="Elfo da Luz - Adepto" />
-  <keys type="npc" key="N_F07_LElfPriest_07" value="Sacerdote da Floresta" />
-  <keys type="npc" key="N_F07_Dona_01" value="Donna" />
-  <keys type="npc" key="N_F07_Renis_01" value="Lennis" />
-  <keys type="npc" key="N_F07_Portal_006" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F07_Portal_007" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F07_Rodin_01" value="Rodin" />
-  <keys type="npc" key="N_F07_Kamiten_01" value="Kamiten" />
-  <keys type="npc" key="N_F17_LightAttack_03" value="Mensageiro" />
-  <keys type="npc" key="N_F05_Gillot_01" value="Gilotte" />
-  <keys type="npc" key="N_F17_toran_01" value="Torran" />
-  <keys type="npc" key="N_F17_eldsdow_01" value="Guarda de Eldorr" />
-  <keys type="npc" key="N_F17_eldattck_01" value="Guarda de Eldorr" />
-  <keys type="npc" key="N_c01_Darwin_01" value="Capitão Karmehd" />
-  <keys type="npc" key="N_F07_children_01" value="Criança Élfica" />
-  <keys type="npc" key="N_F17_children_01" value="Criança Élfica" />
-  <keys type="npc" key="N_F07_Civilian_06" value="Refugiado de Elgaden" />
-  <keys type="npc" key="N_F07_Civilian_07" value="Refugiado de Elgaden" />
-  <keys type="npc" key="N_F07_Civilian_08" value="Residente de Elino" />
-  <keys type="npc" key="N_F07_Civilian_09" value="Residente de Elino" />
-  <keys type="npc" key="N_F07_Civilian_10" value="Residente de Elino" />
-  <keys type="npc" key="N_D08_Potal_01" value="Raymond" />
-  <keys type="npc" key="N_D99_elora_01" value="Pedido de John MacBain:&lt;br&gt;&lt;br&gt;Você já escutou sobre as Batalhas de Pedra de Mana aqui em Stygaea? Fiquei sabendo que são bem selvagens. Eu amo uma boa luta, mas receio que eu mesmo não possa participar. Os MacBain não funcionam sozinhos! Quer dizer... eles funcionam, mas... Você entendeu." />
-  <keys type="npc" key="N_D23_Brownie" value="Buford Lebrini" />
-  <keys type="npc" key="N_D23_Carotini" value="Clarence Lebrini" />
-  <keys type="npc" key="N_D23_Gordon" value="Pierre Lebrini" />
-  <keys type="npc" key="N_D23_Poini" value="Podrick Lebrini" />
-  <keys type="npc" key="N_D23_Proni" value="Perry Lebrini" />
-  <keys type="npc" key="N_D23_Baesini" value="Bennet Lebrini" />
-  <keys type="npc" key="N_D23_Pinani" value="Jasper Lebrini" />
-  <keys type="npc" key="N_D23_Parni" value="Uriah Lebrini" />
-  <keys type="npc" key="N_D23_Tuttle" value="Tartaruga" />
-  <keys type="npc" key="N_F17_Mohamed" value="Meriwether Lebrini" />
-  <keys type="npc" key="N_D23_Mohamed" value="Meriwether Lebrini" />
-  <keys type="npc" key="N_SpwanMailbox" value="Boyd Lebrini" />
-  <keys type="npc" key="N_SpawnStorage" value="Graham Lebrini" />
-  <keys type="npc" key="N_SpwanAuction" value="Merona Lebrini" />
-  <keys type="npc" key="N_D23_Wanted" value="Quadro de Avisos Lebrini" />
-  <keys type="npc" key="N_D23_Mortar" value="Quadro de Avisos Lebrini" />
-  <keys type="npc" key="N_CM_TraceRabi" value="Chase" />
-  <keys type="npc" key="N_F17_RabiDdo_01" value="Tobias Lebrini" />
-  <keys type="npc" key="N_D23_Portal_Q" value="Santuário da Vitória" />
-  <keys type="npc" key="n_d99_portal_030" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_031" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_032" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_033" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_034" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_035" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_036" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_037" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_038" value="Portão da Brecha" />
-  <keys type="npc" key="n_d99_portal_039" value="Portão da Brecha" />
-  <keys type="npc" key="N_F17_Inugi_01" value="Yanugi" />
-  <keys type="npc" key="N_F07_HuMMer_01" value="Camarada Millot" />
-  <keys type="npc" key="n_f07_quest_001" value="Deceptive Jekyllis" />
-  <keys type="npc" key="n_d08_board_01" value="Forgotten Shrine Board" />
+  <keys prop="Name" type="monster" key="N_f07_0_0001_0001" value="Einz Garni" />
+  <keys prop="Description" type="monster" key="N_f07_0_0001_0001Detail" value="Taverneiro" />
+  <keys prop="Name" type="monster" key="N_D08_Portal_1" value="Santuário da Vitória" />
+  <keys prop="Description" type="monster" key="N_D08_Portal_1Detail" value="Saída da Masmorra" />
+  <keys prop="Name" type="monster" key="N_F07_Darwin_01" value="Capitão Dallwyn" />
+  <keys prop="Description" type="monster" key="N_F07_Darwin_01Detail" value="Capitão Real do Titã do Céu" />
+  <keys prop="Name" type="monster" key="N_F07_Whale_01" value="Titã do Céu de Hakanas" />
+  <keys prop="Description" type="monster" key="N_F07_Whale_01Detail" value="Titã do Céu" />
+  <keys prop="Name" type="monster" key="N_F07_Gillot_01" value="Gilotte" />
+  <keys prop="Description" type="monster" key="N_F07_Gillot_01Detail" value="Imediato" />
+  <keys prop="Name" type="monster" key="N_F07_Fragen_01" value="Pragen" />
+  <keys prop="Description" type="monster" key="N_F07_Fragen_01Detail" value="Tripulação Real do Titã do Céu" />
+  <keys prop="Name" type="monster" key="N_F07_Kilroi_01" value="Kilroy" />
+  <keys prop="Description" type="monster" key="N_F07_Kilroi_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Hiss_01" value="Heather" />
+  <keys prop="Description" type="monster" key="N_F07_Hiss_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Balralen_01" value="Valiren" />
+  <keys prop="Description" type="monster" key="N_F07_Balralen_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Sada_01" value="Sada" />
+  <keys prop="Description" type="monster" key="N_F07_Sada_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Scrra_01" value="Skira" />
+  <keys prop="Description" type="monster" key="N_F07_Scrra_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Minan_01" value="Meenan" />
+  <keys prop="Description" type="monster" key="N_F07_Minan_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_100" value="Santuário de Regiões" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_100Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_001" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_002" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_003" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_004" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_005" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Balra_01" value="Baala" />
+  <keys prop="Description" type="monster" key="N_F07_Balra_01Detail" value="Quitandeiro" />
+  <keys prop="Name" type="monster" key="N_F07_Crea_01" value="Crea" />
+  <keys prop="Description" type="monster" key="N_F07_Crea_01Detail" value="Farmacêutico" />
+  <keys prop="Name" type="monster" key="N_F07_Malo_01" value="Malo" />
+  <keys prop="Description" type="monster" key="N_F07_Malo_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F07_Sanna_01" value="Sana" />
+  <keys prop="Description" type="monster" key="N_F07_Sanna_01Detail" value="Quitandeiro" />
+  <keys prop="Name" type="monster" key="N_F07_Kaily_01" value="Khailvar" />
+  <keys prop="Description" type="monster" key="N_F07_Kaily_01Detail" value="Farmacêutico" />
+  <keys prop="Name" type="monster" key="N_F07_Rahare_01" value="Rahar" />
+  <keys prop="Description" type="monster" key="N_F07_Rahare_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F07_Illuin_01" value="Illuin" />
+  <keys prop="Description" type="monster" key="N_F07_Illuin_01Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F07_Narrin_01" value="Narain" />
+  <keys prop="Description" type="monster" key="N_F07_Narrin_01Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F07_Kotri_01" value="Cotry" />
+  <keys prop="Description" type="monster" key="N_F07_Kotri_01Detail" value="Quitandeiro" />
+  <keys prop="Name" type="monster" key="N_F07_Vollra_01" value="Bolla" />
+  <keys prop="Description" type="monster" key="N_F07_Vollra_01Detail" value="Farmacêutico" />
+  <keys prop="Name" type="monster" key="N_F07_Ullik_01" value="Woolic" />
+  <keys prop="Description" type="monster" key="N_F07_Ullik_01Detail" value="Comerciante Geral" />
+  <keys prop="Name" type="monster" key="N_F07_Fosa_01" value="Posa" />
+  <keys prop="Description" type="monster" key="N_F07_Fosa_01Detail" value="Quitandeiro" />
+  <keys prop="Name" type="monster" key="N_F07_Eness_01" value="Ennis" />
+  <keys prop="Description" type="monster" key="N_F07_Eness_01Detail" value="Farmacêutico" />
+  <keys prop="Name" type="monster" key="N_F07_Glan_01" value="Glenn" />
+  <keys prop="Description" type="monster" key="N_F07_Glan_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F07_Bonif_01" value="Bonif" />
+  <keys prop="Description" type="monster" key="N_F07_Bonif_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F07_SunFill_01" value="Ensolarado" />
+  <keys prop="Description" type="monster" key="N_F07_SunFill_01Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F07_Evian_01" value="Evian" />
+  <keys prop="Description" type="monster" key="N_F07_Evian_01Detail" value="Comerciante de Armadura" />
+  <keys prop="Name" type="monster" key="N_F07_Feyqueen_01" value="Fey-Irmã" />
+  <keys prop="Description" type="monster" key="N_F07_Feyqueen_01Detail" value="Quitandeiro" />
+  <keys prop="Name" type="monster" key="N_F07_Vallina_01" value="Balina" />
+  <keys prop="Description" type="monster" key="N_F07_Vallina_01Detail" value="Farmacêutico" />
+  <keys prop="Name" type="monster" key="N_F07_Feycle_01" value="Fezzil" />
+  <keys prop="Description" type="monster" key="N_F07_Feycle_01Detail" value="Comerciante Geral" />
+  <keys prop="Name" type="monster" key="N_F07_Saerrn_01" value="Sarona" />
+  <keys prop="Description" type="monster" key="N_F07_Saerrn_01Detail" value="Quitandeiro" />
+  <keys prop="Name" type="monster" key="N_F07_Dera_01" value="Dera" />
+  <keys prop="Description" type="monster" key="N_F07_Dera_01Detail" value="Farmacêutico" />
+  <keys prop="Name" type="monster" key="N_F07_Rockbail_01" value="Rockbail" />
+  <keys prop="Description" type="monster" key="N_F07_Rockbail_01Detail" value="Comerciante Geral" />
+  <keys prop="Name" type="monster" key="N_F07_Qarrin_01" value="Quarin" />
+  <keys prop="Description" type="monster" key="N_F07_Qarrin_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F07_Risco_01" value="Risco" />
+  <keys prop="Description" type="monster" key="N_F07_Risco_01Detail" value="Treinador de Familiares" />
+  <keys prop="Name" type="monster" key="N_F07_Coolrash_01" value="Kulashi" />
+  <keys prop="Description" type="monster" key="N_F07_Coolrash_01Detail" value="Familiar de Risco" />
+  <keys prop="Name" type="monster" key="N_F07_Toolick_01" value="Tulik" />
+  <keys prop="Description" type="monster" key="N_F07_Toolick_01Detail" value="Treinador de Familiares" />
+  <keys prop="Name" type="monster" key="N_F07_Liie_01" value="Leeh" />
+  <keys prop="Description" type="monster" key="N_F07_Liie_01Detail" value="Familiar de Tulik" />
+  <keys prop="Name" type="monster" key="N_F07_Board_100" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_100Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Board_001" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Board_002" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Board_003" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Board_004" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Board_005" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Board_006" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Board_007" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F07_Board_007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Keron_01" value="Kerron" />
+  <keys prop="Description" type="monster" key="N_F07_Keron_01Detail" value="Comerciante de Criação de Armas" />
+  <keys prop="Name" type="monster" key="N_F07_Gremi_01" value="Rammi" />
+  <keys prop="Description" type="monster" key="N_F07_Gremi_01Detail" value="Comerciante de Criação de Armaduras" />
+  <keys prop="Name" type="monster" key="N_F07_Abakan_01" value="Abakhan" />
+  <keys prop="Description" type="monster" key="N_F07_Abakan_01Detail" value="Comerciante Culinário" />
+  <keys prop="Name" type="monster" key="N_F07_Minusin_01" value="Minushin" />
+  <keys prop="Description" type="monster" key="N_F07_Minusin_01Detail" value="Comerciante de Alquimia" />
+  <keys prop="Name" type="monster" key="N_F07_Valleya_01" value="Veliya" />
+  <keys prop="Description" type="monster" key="N_F07_Valleya_01Detail" value="Comerciante de Criação de Joias" />
+  <keys prop="Name" type="monster" key="N_F07_Betten_01" value="Batten" />
+  <keys prop="Description" type="monster" key="N_F07_Betten_01Detail" value="Comerciante de Criação de Selaria" />
+  <keys prop="Name" type="monster" key="N_F07_Smith_01" value="Bigorna para Armas" />
+  <keys prop="Description" type="monster" key="N_F07_Smith_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Smith_02" value="Bigorna para Armaduras" />
+  <keys prop="Description" type="monster" key="N_F07_Smith_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Cook_01" value="Estação de Cozimento" />
+  <keys prop="Description" type="monster" key="N_F07_Cook_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Alchemy_01" value="Laboratório de Alquimia" />
+  <keys prop="Description" type="monster" key="N_F07_Alchemy_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Accessory_01" value="Bancada de Ourives" />
+  <keys prop="Description" type="monster" key="N_F07_Accessory_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Fellow_01" value="Mesa de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="N_F07_Fellow_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_RabMer01_01" value="Matilda Lebrini" />
+  <keys prop="Description" type="monster" key="N_F07_RabMer01_01Detail" value="Comerciante de Ellun" />
+  <keys prop="Name" type="monster" key="N_F07_RabMer01_02" value="Lenore Lebrini" />
+  <keys prop="Description" type="monster" key="N_F07_RabMer01_02Detail" value="Comerciante de Ellun" />
+  <keys prop="Name" type="monster" key="N_F07_RabMer01_03" value="Muriel Lebrini" />
+  <keys prop="Description" type="monster" key="N_F07_RabMer01_03Detail" value="Comerciante de Ellun" />
+  <keys prop="Name" type="monster" key="N_F07_Sell_01" value="Louer" />
+  <keys prop="Description" type="monster" key="N_F07_Sell_01Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F07_Sell_02" value="Furrow" />
+  <keys prop="Description" type="monster" key="N_F07_Sell_02Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F07_Sell_03" value="Purick" />
+  <keys prop="Description" type="monster" key="N_F07_Sell_03Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F07_HuMFar_101" value="Salburg" />
+  <keys prop="Description" type="monster" key="N_F07_HuMFar_101Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F07_HuMFar_102" value="Dunburg" />
+  <keys prop="Description" type="monster" key="N_F07_HuMFar_102Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F07_HuMFar_103" value="Zenberg" />
+  <keys prop="Description" type="monster" key="N_F07_HuMFar_103Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F07_HuMFar_104" value="Nilberg" />
+  <keys prop="Description" type="monster" key="N_F07_HuMFar_104Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F07_HuMFar_105" value="Haberg" />
+  <keys prop="Description" type="monster" key="N_F07_HuMFar_105Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F07_HuMFar_106" value="Kaberg" />
+  <keys prop="Description" type="monster" key="N_F07_HuMFar_106Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F07_Collect_01" value="Periot" />
+  <keys prop="Description" type="monster" key="N_F07_Collect_01Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_01" value="Panure" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_01Detail" value="Familiar de Periot" />
+  <keys prop="Name" type="monster" key="N_F07_Collect_02" value="Katshu" />
+  <keys prop="Description" type="monster" key="N_F07_Collect_02Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_02" value="Braffy" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_02Detail" value="Familiar de Katshu" />
+  <keys prop="Name" type="monster" key="N_F07_chef_01" value="Troberry" />
+  <keys prop="Description" type="monster" key="N_F07_chef_01Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_F07_RabiBani_01" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="N_F07_RabiBani_01Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F07_Penelope_01" value="Penelope" />
+  <keys prop="Description" type="monster" key="N_F07_Penelope_01Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F07_LElfDemus_01" value="Demociel" />
+  <keys prop="Description" type="monster" key="N_F07_LElfDemus_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfBmage_01" value="Elfo da Luz - Alto Mago" />
+  <keys prop="Description" type="monster" key="N_F07_LElfBmage_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfMage_01" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F07_LElfMage_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfRocsan_01" value="Pridon Roa" />
+  <keys prop="Description" type="monster" key="N_F07_LElfRocsan_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfPriest_01" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F07_LElfPriest_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfTrepsy_01" value="Elfo da Luz - Mago das Árvores" />
+  <keys prop="Description" type="monster" key="N_F07_LElfTrepsy_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfRenan_01" value="Lenanzar" />
+  <keys prop="Description" type="monster" key="N_F07_LElfRenan_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfAttack_01" value="Elfo da Luz - Soldado" />
+  <keys prop="Description" type="monster" key="N_F07_LElfAttack_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfScout_01" value="Elfo da Luz - Patrulheiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfScout_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfExecut_01" value="Elfo da Luz - Executor" />
+  <keys prop="Description" type="monster" key="N_F07_LElfExecut_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfGuard_01" value="Elfo da Luz - Guardião" />
+  <keys prop="Description" type="monster" key="N_F07_LElfGuard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfShadow_01" value="Elfo da Luz - Guerreiro Sombrio" />
+  <keys prop="Description" type="monster" key="N_F07_LElfShadow_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfAurea_01" value="Centuriã Aurea" />
+  <keys prop="Description" type="monster" key="N_F07_LElfAurea_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfRecon_01" value="Elfo da Luz - Atirador de Elite" />
+  <keys prop="Description" type="monster" key="N_F07_LElfRecon_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfSnipe_01" value="Elfo da Luz - Soldado" />
+  <keys prop="Description" type="monster" key="N_F07_LElfSnipe_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfHunter_01" value="Elfo da Luz - Caçador" />
+  <keys prop="Description" type="monster" key="N_F07_LElfHunter_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Ador_01" value="Ador" />
+  <keys prop="Description" type="monster" key="N_F07_Ador_01Detail" value="Elfo da Luz - Guardião" />
+  <keys prop="Name" type="monster" key="N_F07_Neebl_01" value="Pretor Rodheim" />
+  <keys prop="Description" type="monster" key="N_F07_Neebl_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfDguard_01" value="Elfo da Luz - Guarda Sombrio" />
+  <keys prop="Description" type="monster" key="N_F07_LElfDguard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfDassi_01" value="Elfo da Luz - Assassino Sombrio" />
+  <keys prop="Description" type="monster" key="N_F07_LElfDassi_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfMcian_01" value="Elfo da Luz - Ilusionista" />
+  <keys prop="Description" type="monster" key="N_F07_LElfMcian_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfSahunt_01" value="Elfo da Luz - Caçador Sombrio" />
+  <keys prop="Description" type="monster" key="N_F07_LElfSahunt_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Magno_01" value="Magno" />
+  <keys prop="Description" type="monster" key="N_F07_Magno_01Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_F07_HDroFig_01" value="Guerreiro dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="N_F07_HDroFig_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_HDroPat_01" value="Patrulheiro dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="N_F07_HDroPat_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_HDroMar_01" value="Saqueador dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="N_F07_HDroMar_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Hdro_Sha_01" value="Atirador dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="N_F07_Hdro_Sha_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Bernor_01" value="Bernori" />
+  <keys prop="Description" type="monster" key="N_F07_Bernor_01Detail" value="Guarda Elfo" />
+  <keys prop="Name" type="monster" key="N_F07_Lian_01" value="Rannis" />
+  <keys prop="Description" type="monster" key="N_F07_Lian_01Detail" value="Guarda Elfo" />
+  <keys prop="Name" type="monster" key="N_F07_Lian_02" value="Rannis" />
+  <keys prop="Description" type="monster" key="N_F07_Lian_02Detail" value="Guarda Elfo" />
+  <keys prop="Name" type="monster" key="N_F07_Bellon_01" value="Belon" />
+  <keys prop="Description" type="monster" key="N_F07_Bellon_01Detail" value="Caçador de Crocodilos" />
+  <keys prop="Name" type="monster" key="N_F07_Narpa_01" value="Narfa" />
+  <keys prop="Description" type="monster" key="N_F07_Narpa_01Detail" value="Aprendiz de Caçador de Crocodilos" />
+  <keys prop="Name" type="monster" key="N_F07_Edios_01" value="Idios" />
+  <keys prop="Description" type="monster" key="N_F07_Edios_01Detail" value="Caçador de Crocodilos" />
+  <keys prop="Name" type="monster" key="N_F07_Libere_01" value="Liberre" />
+  <keys prop="Description" type="monster" key="N_F07_Libere_01Detail" value="Elfo da Luz - Patrulheiro" />
+  <keys prop="Name" type="monster" key="N_F07_Reteo_01" value="Retio" />
+  <keys prop="Description" type="monster" key="N_F07_Reteo_01Detail" value="Elfo da Luz - Soldado" />
+  <keys prop="Name" type="monster" key="N_F07_Conwell_01" value="Corvel" />
+  <keys prop="Description" type="monster" key="N_F07_Conwell_01Detail" value="Ancião do Santuário de Ellora" />
+  <keys prop="Name" type="monster" key="N_F07_Conwell_02" value="Corvel" />
+  <keys prop="Description" type="monster" key="N_F07_Conwell_02Detail" value="Ancião do Santuário de Ellora" />
+  <keys prop="Name" type="monster" key="N_F07_Brian_01" value="Brian" />
+  <keys prop="Description" type="monster" key="N_F07_Brian_01Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_F07_Ronin_01" value="Roan" />
+  <keys prop="Description" type="monster" key="N_F07_Ronin_01Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_F07_Meuis_01" value="Maius" />
+  <keys prop="Description" type="monster" key="N_F07_Meuis_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Stella_01" value="Stellarix" />
+  <keys prop="Description" type="monster" key="N_F07_Stella_01Detail" value="Patrulheiro Élfico" />
+  <keys prop="Name" type="monster" key="N_F07_Hemus_01" value="Capitão Hemus" />
+  <keys prop="Description" type="monster" key="N_F07_Hemus_01Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_F07_Trent_01" value="Limbreth" />
+  <keys prop="Description" type="monster" key="N_F07_Trent_01Detail" value="Guardião da Floresta" />
+  <keys prop="Name" type="monster" key="N_F07_Ador_02" value="Ador" />
+  <keys prop="Description" type="monster" key="N_F07_Ador_02Detail" value="Capitão da Guarnição de Elgaden" />
+  <keys prop="Name" type="monster" key="N_F07_Hodos_01" value="Hodos" />
+  <keys prop="Description" type="monster" key="N_F07_Hodos_01Detail" value="Guarnição de Elgaden" />
+  <keys prop="Name" type="monster" key="N_F07_LElfMage_02" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F07_LElfMage_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfAttack_02" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfAttack_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfGuard_02" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfGuard_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfRecon_02" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfRecon_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfSahunt_02" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfSahunt_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Conwell_03" value="Corvel" />
+  <keys prop="Description" type="monster" key="N_F07_Conwell_03Detail" value="Ancião do Santuário de Ellora" />
+  <keys prop="Name" type="monster" key="N_F07_Udas_01" value="Iouda" />
+  <keys prop="Description" type="monster" key="N_F07_Udas_01Detail" value="Santuário de Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_WorldTree_01" value="Daleroth" />
+  <keys prop="Description" type="monster" key="N_F07_WorldTree_01Detail" value="Santuário da Árvore Anciã" />
+  <keys prop="Name" type="monster" key="N_F07_Creoss_01" value="Crios" />
+  <keys prop="Description" type="monster" key="N_F07_Creoss_01Detail" value="Guarnição de Elgaden" />
+  <keys prop="Name" type="monster" key="N_F07_Branndiou_01" value="Brandior" />
+  <keys prop="Description" type="monster" key="N_F07_Branndiou_01Detail" value="Ancião do Santuário de Ellora" />
+  <keys prop="Name" type="monster" key="N_F07_Slanner_01" value="Slenir" />
+  <keys prop="Description" type="monster" key="N_F07_Slanner_01Detail" value="Capitão da Guarda de Luz da Fenda" />
+  <keys prop="Name" type="monster" key="N_F07_Fuchen_01" value="Chanis" />
+  <keys prop="Description" type="monster" key="N_F07_Fuchen_01Detail" value="Guarda de Luz da Fenda" />
+  <keys prop="Name" type="monster" key="N_F07_Rhino_01" value="Ryno" />
+  <keys prop="Description" type="monster" key="N_F07_Rhino_01Detail" value="Guarda de Luz da Fenda" />
+  <keys prop="Name" type="monster" key="N_F07_Daina_01" value="Deina" />
+  <keys prop="Description" type="monster" key="N_F07_Daina_01Detail" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Name" type="monster" key="N_F07_Bailra_01" value="Vyla" />
+  <keys prop="Description" type="monster" key="N_F07_Bailra_01Detail" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Name" type="monster" key="N_F07_LElfBmage_03" value="Elfo da Luz - Mago do Sol" />
+  <keys prop="Description" type="monster" key="N_F07_LElfBmage_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfMage_03" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F07_LElfMage_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfPriest_03" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F07_LElfPriest_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfTrepsy_03" value="Elfo da Luz - Mago da Natureza" />
+  <keys prop="Description" type="monster" key="N_F07_LElfTrepsy_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfAttack_03" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfAttack_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfExecut_03" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfExecut_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfGuard_03" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfGuard_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfShadow_03" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfShadow_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfRecon_03" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfRecon_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfSnipe_03" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfSnipe_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfDguard_03" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfDguard_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Disoss_01" value="Desourd" />
+  <keys prop="Description" type="monster" key="N_F07_Disoss_01Detail" value="Arqueólogo" />
+  <keys prop="Name" type="monster" key="N_F07_Brand_01" value="Berand" />
+  <keys prop="Description" type="monster" key="N_F07_Brand_01Detail" value="Arqueólogo" />
+  <keys prop="Name" type="monster" key="N_F07_WorldTree_02" value="Daleroth" />
+  <keys prop="Description" type="monster" key="N_F07_WorldTree_02Detail" value="Guardião da Muda" />
+  <keys prop="Name" type="monster" key="N_F07_Erana_01" value="Erna" />
+  <keys prop="Description" type="monster" key="N_F07_Erana_01Detail" value="Ancião" />
+  <keys prop="Name" type="monster" key="N_F07_Dine_01" value="Dineh" />
+  <keys prop="Description" type="monster" key="N_F07_Dine_01Detail" value="Xamã Élfico" />
+  <keys prop="Name" type="monster" key="N_F07_Gomora_01" value="Gomora" />
+  <keys prop="Description" type="monster" key="N_F07_Gomora_01Detail" value="Coveiro" />
+  <keys prop="Name" type="monster" key="N_F07_Ferretos_01" value="Peritos" />
+  <keys prop="Description" type="monster" key="N_F07_Ferretos_01Detail" value="Arcipreste" />
+  <keys prop="Name" type="monster" key="N_F07_Deruma_01" value="Delma" />
+  <keys prop="Description" type="monster" key="N_F07_Deruma_01Detail" value="Guarda do Arcipreste" />
+  <keys prop="Name" type="monster" key="N_F07_Aros_01" value="Aros" />
+  <keys prop="Description" type="monster" key="N_F07_Aros_01Detail" value="Acólito" />
+  <keys prop="Name" type="monster" key="N_F07_Tgress_01" value="Tigris" />
+  <keys prop="Description" type="monster" key="N_F07_Tgress_01Detail" value="Acólito" />
+  <keys prop="Name" type="monster" key="N_F07_Turene_01" value="Turina" />
+  <keys prop="Description" type="monster" key="N_F07_Turene_01Detail" value="Acólito" />
+  <keys prop="Name" type="monster" key="N_F07_Aleton_01" value="Eldon" />
+  <keys prop="Description" type="monster" key="N_F07_Aleton_01Detail" value="Protetor do Santuário" />
+  <keys prop="Name" type="monster" key="N_F07_Cracesis_01" value="Krasis" />
+  <keys prop="Description" type="monster" key="N_F07_Cracesis_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Udas_02" value="Iouda" />
+  <keys prop="Description" type="monster" key="N_F07_Udas_02Detail" value="Santuário de Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Hemon_01" value="Hermon" />
+  <keys prop="Description" type="monster" key="N_F07_Hemon_01Detail" value="Guarda de Luz da Fenda" />
+  <keys prop="Name" type="monster" key="N_F07_Vella_01" value="Bella" />
+  <keys prop="Description" type="monster" key="N_F07_Vella_01Detail" value="Protetor do Santuário" />
+  <keys prop="Name" type="monster" key="N_F07_LElfBmage_04" value="Mago Elfo de Elite" />
+  <keys prop="Description" type="monster" key="N_F07_LElfBmage_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfPriest_04" value="Sacerdote Elfo de Elite" />
+  <keys prop="Description" type="monster" key="N_F07_LElfPriest_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfExecut_04" value="Guerreiro de Elite Élfico" />
+  <keys prop="Description" type="monster" key="N_F07_LElfExecut_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfShadow_04" value="Cavaleiro de Elite Élfico" />
+  <keys prop="Description" type="monster" key="N_F07_LElfShadow_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfSnipe_04" value="Arqueiro de Elite Élfico" />
+  <keys prop="Description" type="monster" key="N_F07_LElfSnipe_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Antress_01" value="Endras" />
+  <keys prop="Description" type="monster" key="N_F07_Antress_01Detail" value="Elite Élfica" />
+  <keys prop="Name" type="monster" key="N_F07_Moison_01" value="Moseon" />
+  <keys prop="Description" type="monster" key="N_F07_Moison_01Detail" value="Aprendiz de Mago" />
+  <keys prop="Name" type="monster" key="N_F07_Subenhilt_01" value="Senhil" />
+  <keys prop="Description" type="monster" key="N_F07_Subenhilt_01Detail" value="Protetor do Santuário" />
+  <keys prop="Name" type="monster" key="N_F07_Venares_01" value="Benaress" />
+  <keys prop="Description" type="monster" key="N_F07_Venares_01Detail" value="Protetor do Santuário" />
+  <keys prop="Name" type="monster" key="N_F07_Tartagon_01" value="Tartagon" />
+  <keys prop="Description" type="monster" key="N_F07_Tartagon_01Detail" value="Protetor do Santuário" />
+  <keys prop="Name" type="monster" key="N_F07_Fedan_01" value="Fedan" />
+  <keys prop="Description" type="monster" key="N_F07_Fedan_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Renero_01" value="Renero" />
+  <keys prop="Description" type="monster" key="N_F07_Renero_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Arcross_01" value="Achros" />
+  <keys prop="Description" type="monster" key="N_F07_Arcross_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Ophelrain_01" value="Opelean" />
+  <keys prop="Description" type="monster" key="N_F07_Ophelrain_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Carteria_01" value="Karteris" />
+  <keys prop="Description" type="monster" key="N_F07_Carteria_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Metrion_01" value="Metrion" />
+  <keys prop="Description" type="monster" key="N_F07_Metrion_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Volliason_01" value="Bolian" />
+  <keys prop="Description" type="monster" key="N_F07_Volliason_01Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F17_Portal_100" value="Santuário de Regiões" />
+  <keys prop="Description" type="monster" key="N_F17_Portal_100Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Portal_001" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F17_Portal_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Portal_002" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F17_Portal_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Baha_01" value="Baahi" />
+  <keys prop="Description" type="monster" key="N_F17_Baha_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F17_Risslo_01" value="Rislo" />
+  <keys prop="Description" type="monster" key="N_F17_Risslo_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F17_Vallriran_01" value="Baliran" />
+  <keys prop="Description" type="monster" key="N_F17_Vallriran_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F17_Ruo_01" value="Luo" />
+  <keys prop="Description" type="monster" key="N_F17_Ruo_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F17_Glisha_01" value="Glasha" />
+  <keys prop="Description" type="monster" key="N_F17_Glisha_01Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F17_Fallia_01" value="Palia" />
+  <keys prop="Description" type="monster" key="N_F17_Fallia_01Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F17_Srraia_01" value="Threa" />
+  <keys prop="Description" type="monster" key="N_F17_Srraia_01Detail" value="Quitandeiro" />
+  <keys prop="Name" type="monster" key="N_F17_Clare_01" value="Coração-Limpo" />
+  <keys prop="Description" type="monster" key="N_F17_Clare_01Detail" value="Farmacêutico" />
+  <keys prop="Name" type="monster" key="N_F17_Crumrin_01" value="Crumlin" />
+  <keys prop="Description" type="monster" key="N_F17_Crumrin_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F17_Deriin_01" value="Derin" />
+  <keys prop="Description" type="monster" key="N_F17_Deriin_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F17_Reel_01" value="Riel" />
+  <keys prop="Description" type="monster" key="N_F17_Reel_01Detail" value="Treinador de Familiares" />
+  <keys prop="Name" type="monster" key="N_F17_Carimoor_01" value="Kharimor" />
+  <keys prop="Description" type="monster" key="N_F17_Carimoor_01Detail" value="Familiar de Riel" />
+  <keys prop="Name" type="monster" key="N_F17_Board_100" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F17_Board_100Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Board_001" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F17_Board_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Board_002" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F17_Board_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Board_003" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F17_Board_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Board_004" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F17_Board_004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Rasmorgon_01" value="Lasmar" />
+  <keys prop="Description" type="monster" key="N_F17_Rasmorgon_01Detail" value="Comerciante de Criação de Armas" />
+  <keys prop="Name" type="monster" key="N_F17_Villivon_01" value="Billy" />
+  <keys prop="Description" type="monster" key="N_F17_Villivon_01Detail" value="Comerciante de Criação de Armaduras" />
+  <keys prop="Name" type="monster" key="N_F17_Raken_01" value="Raken" />
+  <keys prop="Description" type="monster" key="N_F17_Raken_01Detail" value="Comerciante Culinário" />
+  <keys prop="Name" type="monster" key="N_F17_Katon_01" value="Khaton" />
+  <keys prop="Description" type="monster" key="N_F17_Katon_01Detail" value="Comerciante de Alquimia" />
+  <keys prop="Name" type="monster" key="N_F17_Sessia_01" value="Cercia" />
+  <keys prop="Description" type="monster" key="N_F17_Sessia_01Detail" value="Comerciante de Criação de Joias" />
+  <keys prop="Name" type="monster" key="N_F17_Sthtsia_01" value="Shor" />
+  <keys prop="Description" type="monster" key="N_F17_Sthtsia_01Detail" value="Comerciante de Criação de Selaria" />
+  <keys prop="Name" type="monster" key="N_F17_Smith_01" value="Bigorna para Armas" />
+  <keys prop="Description" type="monster" key="N_F17_Smith_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Smith_02" value="Bigorna para Armaduras" />
+  <keys prop="Description" type="monster" key="N_F17_Smith_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Cook_01" value="Estação de Cozimento" />
+  <keys prop="Description" type="monster" key="N_F17_Cook_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Alchemy_01" value="Laboratório de Alquimia" />
+  <keys prop="Description" type="monster" key="N_F17_Alchemy_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Accessory_01" value="Bancada de Ourives" />
+  <keys prop="Description" type="monster" key="N_F17_Accessory_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Fellow_01" value="Mesa de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="N_F17_Fellow_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_RabMer01_01" value="Maisy Lebrini" />
+  <keys prop="Description" type="monster" key="N_F17_RabMer01_01Detail" value="Comerciante de Ellun" />
+  <keys prop="Name" type="monster" key="N_F17_Sell_01" value="Demein" />
+  <keys prop="Description" type="monster" key="N_F17_Sell_01Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F17_HuMFar_101" value="Munia" />
+  <keys prop="Description" type="monster" key="N_F17_HuMFar_101Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F17_HuMFar_102" value="Moonia" />
+  <keys prop="Description" type="monster" key="N_F17_HuMFar_102Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F17_RabiBani_01" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="N_F17_RabiBani_01Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F17_Penelope_01" value="Penelope" />
+  <keys prop="Description" type="monster" key="N_F17_Penelope_01Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F17_Collect_02" value="Levi" />
+  <keys prop="Description" type="monster" key="N_F17_Collect_02Detail" value="Cadete dos Colecionadores" />
+  <keys prop="Name" type="monster" key="N_F17_CFellow_02" value="Cragborg" />
+  <keys prop="Description" type="monster" key="N_F17_CFellow_02Detail" value="Familiar do Colecionador" />
+  <keys prop="Name" type="monster" key="N_F17_chef_01" value="Permint" />
+  <keys prop="Description" type="monster" key="N_F17_chef_01Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_F17_LightAttack_02" value="Mensageiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightAttack_02Detail" value="Guarda Elfo" />
+  <keys prop="Name" type="monster" key="N_F17__Udas_02" value="Iouda" />
+  <keys prop="Description" type="monster" key="N_F17__Udas_02Detail" value="Santuário de Arconte" />
+  <keys prop="Name" type="monster" key="N_F17_Wentus_01" value="Wentus" />
+  <keys prop="Description" type="monster" key="N_F17_Wentus_01Detail" value="Ancião do Santuário de Ellora" />
+  <keys prop="Name" type="monster" key="N_F17_Meredy_01" value="Merdi" />
+  <keys prop="Description" type="monster" key="N_F17_Meredy_01Detail" value="Curandeiro" />
+  <keys prop="Name" type="monster" key="N_F17_Karald_01" value="Karald" />
+  <keys prop="Description" type="monster" key="N_F17_Karald_01Detail" value="Capitão da Guarda de Eldorr" />
+  <keys prop="Name" type="monster" key="N_F17_isendor_01" value="Isendor" />
+  <keys prop="Description" type="monster" key="N_F17_isendor_01Detail" value="Guarda de Eldorr" />
+  <keys prop="Name" type="monster" key="N_F17_Aden_01" value="Arden" />
+  <keys prop="Description" type="monster" key="N_F17_Aden_01Detail" value="Aldeã" />
+  <keys prop="Name" type="monster" key="N_F17_Chella_01" value="Chella" />
+  <keys prop="Description" type="monster" key="N_F17_Chella_01Detail" value="Aldeã" />
+  <keys prop="Name" type="monster" key="N_F17_Asha_01" value="Arsha" />
+  <keys prop="Description" type="monster" key="N_F17_Asha_01Detail" value="Aldeã" />
+  <keys prop="Name" type="monster" key="N_F17_Ailene_01" value="Ellenee" />
+  <keys prop="Description" type="monster" key="N_F17_Ailene_01Detail" value="Aldeã" />
+  <keys prop="Name" type="monster" key="N_F17_LightBmage_01" value="Elfo da Luz - Mago do Sol" />
+  <keys prop="Description" type="monster" key="N_F17_LightBmage_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightMage_01" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F17_LightMage_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightPriest_01" value="Elfo da Luz - Sacerdote" />
+  <keys prop="Description" type="monster" key="N_F17_LightPriest_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightAttack_01" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightAttack_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightGuard_01" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightGuard_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightSnipe_01" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightSnipe_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightHunter_01" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightHunter_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightSahunt_01" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightSahunt_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_conwell_cut_01" value="Corvel" />
+  <keys prop="Description" type="monster" key="N_F07_conwell_cut_01Detail" value="Ancião do Santuário de Ellora" />
+  <keys prop="Name" type="monster" key="N_F07_udas_cut_02" value="Iouda" />
+  <keys prop="Description" type="monster" key="N_F07_udas_cut_02Detail" value="Santuário de Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_chasudas_03" value="Iouda" />
+  <keys prop="Description" type="monster" key="N_F07_chasudas_03Detail" value="Elfo do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfExecut_04" value="Elfo do Caos - Carrasco" />
+  <keys prop="Description" type="monster" key="N_F07_CelfExecut_04Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfAttack_05" value="Elfo do Caos - Bandoleiro" />
+  <keys prop="Description" type="monster" key="N_F07_CelfAttack_05Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfShadow_06" value="Elfo do Caos - Guerreiro Sombrio" />
+  <keys prop="Description" type="monster" key="N_F07_CelfShadow_06Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfGuard_07" value="Elfo do Caos - Defensor" />
+  <keys prop="Description" type="monster" key="N_F07_CelfGuard_07Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfNeebl_08" value="Chefe dos Elfos do Caos" />
+  <keys prop="Description" type="monster" key="N_F07_CelfNeebl_08Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfBmage_09" value="Elfo do Caos - Alto Mago" />
+  <keys prop="Description" type="monster" key="N_F07_CelfBmage_09Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfMage_10" value="Elfo do Caos - Mago" />
+  <keys prop="Description" type="monster" key="N_F07_CelfMage_10Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfRecon_11" value="Elfo do Caos - Patrulheiro" />
+  <keys prop="Description" type="monster" key="N_F07_CelfRecon_11Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfSnipe_12" value="Elfo do Caos - Atirador" />
+  <keys prop="Description" type="monster" key="N_F07_CelfSnipe_12Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfHunter_13" value="Elfo do Caos - Caçador" />
+  <keys prop="Description" type="monster" key="N_F07_CelfHunter_13Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_CelfPriest_14" value="Elfo do Caos - Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F07_CelfPriest_14Detail" value="Legião dos Elfos do Caos" />
+  <keys prop="Name" type="monster" key="N_F07_ElfMAdor_15" value="Capitão Slenir" />
+  <keys prop="Description" type="monster" key="N_F07_ElfMAdor_15Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightExecut_16" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightExecut_16Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightAttack_17" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightAttack_17Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightShadow_18" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightShadow_18Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightGuard_19" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightGuard_19Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightScout_20" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightScout_20Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightSnipe_21" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightSnipe_21Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightRecon_22" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightRecon_22Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightHunter_23" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightHunter_23Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightPriest_24" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F07_LightPriest_24Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightBmage_25" value="Elfo da Luz - Alto Mago" />
+  <keys prop="Description" type="monster" key="N_F07_LightBmage_25Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightMage_26" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F07_LightMage_26Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_cracesis_cut02" value="Krasis" />
+  <keys prop="Description" type="monster" key="N_F07_cracesis_cut02Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F07_Apost_cut_02" value="Arconte" />
+  <keys prop="Description" type="monster" key="N_F07_Apost_cut_02Detail" value="Conselho de Ellora" />
+  <keys prop="Name" type="monster" key="N_F07_LElfBmage_05" value="Elfo da Luz - Mago do Sol" />
+  <keys prop="Description" type="monster" key="N_F07_LElfBmage_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfPriest_05" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F07_LElfPriest_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfGuard_05" value="Elfo da Luz - Patrulheiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfGuard_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfShadow_05" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfShadow_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfRecon_05" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfRecon_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfPegasus_05" value="Elfo da Luz - Pégaso" />
+  <keys prop="Description" type="monster" key="N_F07_LElfPegasus_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightAttack_06" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightAttack_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightAttack_07" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightAttack_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightHunter_06" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightHunter_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LightHunter_07" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LightHunter_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfBmage_06" value="Elfo da Luz - Adepto" />
+  <keys prop="Description" type="monster" key="N_F07_LElfBmage_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfMage_07" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F07_LElfMage_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfPriest_06" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F07_LElfPriest_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfExecut_06" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfExecut_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfExecut_07" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfExecut_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfGuard_07" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfGuard_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfSnipe_06" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfSnipe_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfSnipe_07" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F07_LElfSnipe_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfBmage_05" value="Elfo da Luz - Adepto" />
+  <keys prop="Description" type="monster" key="N_F17_LElfBmage_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfPriest_05" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F17_LElfPriest_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfGuard_05" value="Elfo da Luz - Patrulheiro" />
+  <keys prop="Description" type="monster" key="N_F17_LElfGuard_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfShadow_05" value="Elfo da Luz - Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F17_LElfShadow_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfRecon_05" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F17_LElfRecon_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfPegasus_05" value="Elfo da Luz - Pégaso" />
+  <keys prop="Description" type="monster" key="N_F17_LElfPegasus_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightAttack_06" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightAttack_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightAttack_07" value="Elfo da Luz - Guerreiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightAttack_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightHunter_06" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightHunter_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightHunter_07" value="Elfo da Luz - Arqueiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightHunter_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfBmage_06" value="Elfo da Luz - Adepto" />
+  <keys prop="Description" type="monster" key="N_F17_LElfBmage_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfMage_07" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F17_LElfMage_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfPriest_06" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F17_LElfPriest_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LElfPriest_07" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F17_LElfPriest_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Lightnell_01" value="Litenell" />
+  <keys prop="Description" type="monster" key="N_F07_Lightnell_01Detail" value="Guarda de Luz da Fenda" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_01" value="Residente de Elgaden" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_02" value="Residente de Elgaden" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_03" value="Residente de Elgaden" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_04" value="Residente de Elgaden" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_05" value="Residente de Elgaden" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Civilian_01" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F17_Civilian_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Civilian_02" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F17_Civilian_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Civilian_03" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F17_Civilian_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Civilian_04" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F17_Civilian_04Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Civilian_05" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F17_Civilian_05Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfMageTr_03" value="Troman" />
+  <keys prop="Description" type="monster" key="N_F07_LElfMageTr_03Detail" value="Elfo da Luz - Mago" />
+  <keys prop="Name" type="monster" key="N_F07_maxen_01" value="Maxon" />
+  <keys prop="Description" type="monster" key="N_F07_maxen_01Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_F17_gaberion_01" value="Gaberion" />
+  <keys prop="Description" type="monster" key="N_F17_gaberion_01Detail" value="Elfo da Luz - Mago" />
+  <keys prop="Name" type="monster" key="N_F17_erha_01" value="Erha" />
+  <keys prop="Description" type="monster" key="N_F17_erha_01Detail" value="Elfo da Luz - Sacerdote" />
+  <keys prop="Name" type="monster" key="N_F17_creamson_01" value="Rubro" />
+  <keys prop="Description" type="monster" key="N_F17_creamson_01Detail" value="Guardião da Natureza" />
+  <keys prop="Name" type="monster" key="N_F17_cuanomar_01" value="Quanomar" />
+  <keys prop="Description" type="monster" key="N_F17_cuanomar_01Detail" value="Caçador de Familiares" />
+  <keys prop="Name" type="monster" key="N_F17_Collect_01" value="Glover" />
+  <keys prop="Description" type="monster" key="N_F17_Collect_01Detail" value="Cadete dos Colecionadores" />
+  <keys prop="Name" type="monster" key="N_F17_Collect_03" value="Rahkshi" />
+  <keys prop="Description" type="monster" key="N_F17_Collect_03Detail" value="Cadete dos Colecionadores" />
+  <keys prop="Name" type="monster" key="N_F07_Collect_03" value="Jukel" />
+  <keys prop="Description" type="monster" key="N_F07_Collect_03Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_03" value="Toolye" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_03Detail" value="Familiar de Jukel" />
+  <keys prop="Name" type="monster" key="N_F07_Collect_04" value="Milton" />
+  <keys prop="Description" type="monster" key="N_F07_Collect_04Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_F07_chef_02" value="Greta" />
+  <keys prop="Description" type="monster" key="N_F07_chef_02Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_F07_chef_03" value="Pêssego" />
+  <keys prop="Description" type="monster" key="N_F07_chef_03Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_F07_chef_04" value="Romadia" />
+  <keys prop="Description" type="monster" key="N_F07_chef_04Detail" value="Chef Errante" />
+  <keys prop="Name" type="monster" key="N_F07_chef_05" value="Romadia" />
+  <keys prop="Description" type="monster" key="N_F07_chef_05Detail" value="Sociedade da Saciedade" />
+  <keys prop="Name" type="monster" key="N_f07_bone_01" value="Esqueleto" />
+  <keys prop="Name" type="monster" key="N_F07_Skilim_01" value="Skarim" />
+  <keys prop="Description" type="monster" key="N_F07_Skilim_01Detail" value="Treinador de Familiares" />
+  <keys prop="Name" type="monster" key="N_F07_Basatoom_01" value="Bhasatum" />
+  <keys prop="Description" type="monster" key="N_F07_Basatoom_01Detail" value="Familiar de Skarim" />
+  <keys prop="Name" type="monster" key="N_F17_Soruza_01" value="Sorza" />
+  <keys prop="Description" type="monster" key="N_F17_Soruza_01Detail" value="Treinador de Familiares" />
+  <keys prop="Name" type="monster" key="N_F17_Kuii_01" value="Kuui" />
+  <keys prop="Description" type="monster" key="N_F17_Kuii_01Detail" value="Familiar de Sorza" />
+  <keys prop="Name" type="monster" key="N_F17_Collect_04" value="Rumian" />
+  <keys prop="Description" type="monster" key="N_F17_Collect_04Detail" value="Supervisor dos Colecionadores" />
+  <keys prop="Name" type="monster" key="N_F17_CFellow_04" value="Miru" />
+  <keys prop="Description" type="monster" key="N_F17_CFellow_04Detail" value="Familiar de Rumian" />
+  <keys prop="Name" type="monster" key="N_F07_HuMFar_107" value="Joberg" />
+  <keys prop="Description" type="monster" key="N_F07_HuMFar_107Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_04" value="Raben" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_04Detail" value="Pet de Periot" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_05" value="Pentasil" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_05Detail" value="Pet de Million" />
+  <keys prop="Name" type="monster" key="N_F07_Collect_05" value="Periot" />
+  <keys prop="Description" type="monster" key="N_F07_Collect_05Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_06" value="Panure" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_06Detail" value="Familiar de Periot" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_07" value="Raben" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_07Detail" value="Pet de Periot" />
+  <keys prop="Name" type="monster" key="N_F07_Collect_06" value="Katshu" />
+  <keys prop="Description" type="monster" key="N_F07_Collect_06Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_F07_CFellow_08" value="Braffy" />
+  <keys prop="Description" type="monster" key="N_F07_CFellow_08Detail" value="Familiar de Katshu" />
+  <keys prop="Name" type="monster" key="N_F17_Collect_05" value="Paice" />
+  <keys prop="Description" type="monster" key="N_F17_Collect_05Detail" value="Colecionador Sênior" />
+  <keys prop="Name" type="monster" key="N_F17_CFellow_05" value="Cron" />
+  <keys prop="Description" type="monster" key="N_F17_CFellow_05Detail" value="Familiar de Paice" />
+  <keys prop="Name" type="monster" key="N_F17_Collect_06" value="Paice" />
+  <keys prop="Description" type="monster" key="N_F17_Collect_06Detail" value="Colecionador Sênior" />
+  <keys prop="Name" type="monster" key="N_F17_CFellow_06" value="Cron" />
+  <keys prop="Description" type="monster" key="N_F17_CFellow_06Detail" value="Familiar de Paice" />
+  <keys prop="Name" type="monster" key="N_F17_Collect_07" value="Dian" />
+  <keys prop="Description" type="monster" key="N_F17_Collect_07Detail" value="Cadete dos Colecionadores" />
+  <keys prop="Name" type="monster" key="n_d99_portal_001" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_001Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_002" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_002Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_003" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_003Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_004" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_004Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_005" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_005Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_006" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_006Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_007" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_007Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_008" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_008Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_009" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_009Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_010" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_010Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_011" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_011Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_012" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_012Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_013" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_013Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_014" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_014Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_015" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_015Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_016" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_016Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_017" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_017Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_018" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_018Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_019" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_019Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_020" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_020Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_021" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_021Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_022" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_022Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_023" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_023Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_024" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_024Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_025" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_025Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_026" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_026Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_027" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_027Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_028" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_028Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_029" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_029Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Portal_003" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F17_Portal_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Frons_01" value="Pronce" />
+  <keys prop="Description" type="monster" key="N_F17_Frons_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Brand_02" value="Berand" />
+  <keys prop="Description" type="monster" key="N_F07_Brand_02Detail" value="Arqueólogo" />
+  <keys prop="Name" type="monster" key="N_F07_carnan_01" value="Karnan" />
+  <keys prop="Description" type="monster" key="N_F07_carnan_01Detail" value="Guarda de Luz da Fenda" />
+  <keys prop="Name" type="monster" key="N_F07_elbar_01" value="Elbarr" />
+  <keys prop="Description" type="monster" key="N_F07_elbar_01Detail" value="Guarda de Luz da Fenda" />
+  <keys prop="Name" type="monster" key="N_F17_Duron_01" value="Duron" />
+  <keys prop="Description" type="monster" key="N_F17_Duron_01Detail" value="Mago em Trânsito" />
+  <keys prop="Name" type="monster" key="N_F07_Cracesis_02" value="Krasis" />
+  <keys prop="Description" type="monster" key="N_F07_Cracesis_02Detail" value="Arconte" />
+  <keys prop="Name" type="monster" key="N_F17_LightMage_02" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F17_LightMage_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_LightMage_03" value="Elfo da Luz - Mago" />
+  <keys prop="Description" type="monster" key="N_F17_LightMage_03Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D99_Portal_Q" value="Santuário da Vitória" />
+  <keys prop="Description" type="monster" key="N_D99_Portal_QDetail" value="Saída da Masmorra" />
+  <keys prop="Name" type="monster" key="N_F07_Celf_01" value="Jagrafel" />
+  <keys prop="Description" type="monster" key="N_F07_Celf_01Detail" value="Elfo do Caos Reformado" />
+  <keys prop="Name" type="monster" key="N_F07_watchelf_01" value="Tebranir" />
+  <keys prop="Description" type="monster" key="N_F07_watchelf_01Detail" value="Protetor do Santuário" />
+  <keys prop="Name" type="monster" key="N_F07_Collect_07" value="Milton" />
+  <keys prop="Description" type="monster" key="N_F07_Collect_07Detail" value="Colecionador" />
+  <keys prop="Name" type="monster" key="N_F17_witch_01" value="Sermi" />
+  <keys prop="Description" type="monster" key="N_F17_witch_01Detail" value="Transfigurista" />
+  <keys prop="Name" type="monster" key="N_F07_LElfBmage_07" value="Elfo da Luz - Adepto" />
+  <keys prop="Description" type="monster" key="N_F07_LElfBmage_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_LElfPriest_07" value="Sacerdote da Floresta" />
+  <keys prop="Description" type="monster" key="N_F07_LElfPriest_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Dona_01" value="Donna" />
+  <keys prop="Description" type="monster" key="N_F07_Dona_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Renis_01" value="Lennis" />
+  <keys prop="Description" type="monster" key="N_F07_Renis_01Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_006" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Portal_007" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F07_Portal_007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Rodin_01" value="Rodin" />
+  <keys prop="Description" type="monster" key="N_F07_Rodin_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F07_Kamiten_01" value="Kamiten" />
+  <keys prop="Description" type="monster" key="N_F07_Kamiten_01Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F17_LightAttack_03" value="Mensageiro" />
+  <keys prop="Description" type="monster" key="N_F17_LightAttack_03Detail" value="Guarda Elfo" />
+  <keys prop="Name" type="monster" key="N_F05_Gillot_01" value="Gilotte" />
+  <keys prop="Description" type="monster" key="N_F05_Gillot_01Detail" value="Imediato" />
+  <keys prop="Name" type="monster" key="N_F17_toran_01" value="Torran" />
+  <keys prop="Description" type="monster" key="N_F17_toran_01Detail" value="Guarda de Eldorr" />
+  <keys prop="Name" type="monster" key="N_F17_eldsdow_01" value="Guarda de Eldorr" />
+  <keys prop="Description" type="monster" key="N_F17_eldsdow_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_eldattck_01" value="Guarda de Eldorr" />
+  <keys prop="Description" type="monster" key="N_F17_eldattck_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_c01_Darwin_01" value="Capitão Karmehd" />
+  <keys prop="Description" type="monster" key="N_c01_Darwin_01Detail" value="Balsa do Santuário de Ellora" />
+  <keys prop="Name" type="monster" key="N_F07_children_01" value="Criança Élfica" />
+  <keys prop="Description" type="monster" key="N_F07_children_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_children_01" value="Criança Élfica" />
+  <keys prop="Description" type="monster" key="N_F17_children_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_06" value="Refugiado de Elgaden" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_06Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_07" value="Refugiado de Elgaden" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_07Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_08" value="Residente de Elino" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_08Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_09" value="Residente de Elino" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_09Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F07_Civilian_10" value="Residente de Elino" />
+  <keys prop="Description" type="monster" key="N_F07_Civilian_10Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D08_Potal_01" value="Raymond" />
+  <keys prop="Description" type="monster" key="N_D08_Potal_01Detail" value="Mago em Trânsito" />
+  <keys prop="Name" type="monster" key="N_D99_elora_01" value="Pedido de John MacBain:&lt;br&gt;&lt;br&gt;Você já escutou sobre as Batalhas de Pedra de Mana aqui em Stygaea? Fiquei sabendo que são bem selvagens. Eu amo uma boa luta, mas receio que eu mesmo não possa participar. Os MacBain não funcionam sozinhos! Quer dizer... eles funcionam, mas... Você entendeu." />
+  <keys prop="Description" type="monster" key="N_D99_elora_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Brownie" value="Buford Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_BrownieDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Carotini" value="Clarence Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_CarotiniDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Gordon" value="Pierre Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_GordonDetail" value="Chef Mestre" />
+  <keys prop="Name" type="monster" key="N_D23_Poini" value="Podrick Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_PoiniDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Proni" value="Perry Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_ProniDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Baesini" value="Bennet Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_BaesiniDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Pinani" value="Jasper Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_PinaniDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Parni" value="Uriah Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_ParniDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Tuttle" value="Tartaruga" />
+  <keys prop="Description" type="monster" key="N_D23_TuttleDetail" value="Caçador de Fígado" />
+  <keys prop="Name" type="monster" key="N_F17_Mohamed" value="Meriwether Lebrini" />
+  <keys prop="Description" type="monster" key="N_F17_MohamedDetail" value="Contrabandista Humano" />
+  <keys prop="Name" type="monster" key="N_D23_Mohamed" value="Meriwether Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_MohamedDetail" value="Contrabandista Humano" />
+  <keys prop="Name" type="monster" key="N_SpwanMailbox" value="Boyd Lebrini" />
+  <keys prop="Description" type="monster" key="N_SpwanMailboxDetail" value="Carteiro" />
+  <keys prop="Name" type="monster" key="N_SpawnStorage" value="Graham Lebrini" />
+  <keys prop="Description" type="monster" key="N_SpawnStorageDetail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_SpwanAuction" value="Merona Lebrini" />
+  <keys prop="Description" type="monster" key="N_SpwanAuctionDetail" value="Mestre Corretora" />
+  <keys prop="Name" type="monster" key="N_D23_Wanted" value="Quadro de Avisos Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_WantedDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D23_Mortar" value="Quadro de Avisos Lebrini" />
+  <keys prop="Description" type="monster" key="N_D23_MortarDetail" value="" />
+  <keys prop="Name" type="monster" key="N_CM_TraceRabi" value="Chase" />
+  <keys prop="Description" type="monster" key="N_CM_TraceRabiDetail" value="Rabbini Rastreador" />
+  <keys prop="Name" type="monster" key="N_F17_RabiDdo_01" value="Tobias Lebrini" />
+  <keys prop="Description" type="monster" key="N_F17_RabiDdo_01Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_D23_Portal_Q" value="Santuário da Vitória" />
+  <keys prop="Description" type="monster" key="N_D23_Portal_QDetail" value="Saída da Masmorra" />
+  <keys prop="Name" type="monster" key="n_d99_portal_030" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_030Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_031" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_031Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_032" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_032Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_033" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_033Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_034" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_034Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_035" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_035Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_036" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_036Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_037" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_037Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_038" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_038Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d99_portal_039" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="n_d99_portal_039Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F17_Inugi_01" value="Yanugi" />
+  <keys prop="Description" type="monster" key="N_F17_Inugi_01Detail" value="Mineiro Braghin" />
+  <keys prop="Name" type="monster" key="N_F07_HuMMer_01" value="Camarada Millot" />
+  <keys prop="Description" type="monster" key="N_F07_HuMMer_01Detail" value="Titã do Céu de Hakanas" />
+  <keys prop="Name" type="monster" key="n_f07_quest_001" value="Deceptive Jekyllis" />
+  <keys prop="Description" type="monster" key="n_f07_quest_001Detail" value="Shadow Keepers" />
+  <keys prop="Name" type="monster" key="n_d08_board_01" value="Forgotten Shrine Board" />
+  <keys prop="Description" type="monster" key="n_d08_board_01Detail" value="Tabela de recompensas da masmorra" />
 </files>

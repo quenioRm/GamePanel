@@ -1,2 +1,202 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="Dialog_4000000_Title" value="Poe" />
+  <keys prop="Description" type="monster" key="Dialog_4000000_Text0" value="Ainda não encontrou suas patas marinhas, hein? Bem, deixe o Capitão Poe mostrar o caminho!" />
+  <keys prop="Description" type="monster" key="Dialog_4000010_Title" value="Moukan" />
+  <keys prop="Description" type="monster" key="Dialog_4000010_Text0" value="Com certeza seria bacana se desse para fazer negócio no nosso ritmo. Mas não é assim que o mundo funciona, né?" />
+  <keys prop="Description" type="monster" key="Dialog_4000020_Title" value="Sargaso" />
+  <keys prop="Description" type="monster" key="Dialog_4000020_Text0" value="Não quero vender por vender! Essas belezinhas foram colhidas à mão." />
+  <keys prop="Description" type="monster" key="Dialog_4000030_Title" value="Jody" />
+  <keys prop="Description" type="monster" key="Dialog_4000030_Text0" value="Os heróis de verdade sempre partem para salvar os fracos! Nunca fazem vista grossa à injustiça!" />
+  <keys prop="Description" type="monster" key="Dialog_4000040_Title" value="Andrei" />
+  <keys prop="Description" type="monster" key="Dialog_4000040_Text0" value="Treinei o dia todo ontem e hoje... Mas ainda não alcancei Jody. Ele não é humano!" />
+  <keys prop="Description" type="monster" key="Dialog_4000050_Title" value="Rogen" />
+  <keys prop="Description" type="monster" key="Dialog_4000050_Text0" value="E aquele Errol, hein? Seu carisma e aquele olhar charmoso... Ou melhor, totalmente profissionalmente..." />
+  <keys prop="Description" type="monster" key="Dialog_4000060_Title" value="Jelnar" />
+  <keys prop="Description" type="monster" key="Dialog_4000060_Text0" value="Boas-vindas. Todos que buscam a graça de Ellora a encontrarão aqui. Quem tiver moeda para dar a encontrará mais rápido." />
+  <keys prop="Description" type="monster" key="Dialog_4000070_Title" value="Errol" />
+  <keys prop="Description" type="monster" key="Dialog_4000070_Text0" value="É preciso pulso firme para trazer os Cavaleiros de Pégaso aqui. A Fenda leva os homens ao limite. Enquanto eu for o comandante, o equilíbrio não será desfeito pela Legião Caída!" />
+  <keys prop="Description" type="monster" key="Dialog_4000080_Title" value="Mercuri" />
+  <keys prop="Description" type="monster" key="Dialog_4000080_Text0" value="Ma-a-a o quê? Você é veloz? Quer brigar? Hein? Vem, vem, vem, vem!" />
+  <keys prop="Description" type="monster" key="Dialog_4000090_Title" value="Madame Olivier" />
+  <keys prop="Description" type="monster" key="Dialog_4000090_Text0" value="Não estou muito confortável aqui, mas eu TINHA que provar os deliciosos ovos da Fenda de Tritael. Certamente você entende isso." />
+  <keys prop="Description" type="monster" key="Dialog_4000100_Title" value="Trichia" />
+  <keys prop="Description" type="monster" key="Dialog_4000100_Text0" value="Este é o único lugar no reino onde podemos encontrar os restos de Exarahn e da Guerra da Luz. É incrível quanto podemos aprender com a ruína e o caos, não é?" />
+  <keys prop="Description" type="monster" key="Dialog_4000110_Title" value="Rufala" />
+  <keys prop="Description" type="monster" key="Dialog_4000110_Text0" value="Salve! Sou o comandante-assistente do Capitão Errol. Tem algo a reportar?" />
+  <keys prop="Description" type="monster" key="Dialog_4000120_Title" value="Haltham" />
+  <keys prop="Description" type="monster" key="Dialog_4000120_Text0" value="Por dois anos, observo a Fenda de Tritael se afundar cada vez mais no caos. É suficiente fazer um homem questionar sua fé... Mas com certeza ainda existe esperança." />
+  <keys prop="Description" type="monster" key="Dialog_4000120_answer_7_text" value="Dentro da Brecha" />
+  <keys prop="Description" type="monster" key="Dialog_4000130_Title" value="Lisender" />
+  <keys prop="Description" type="monster" key="Dialog_4000130_Text0" value="Não ligo para pégasos nem para unicórnios. Quero ir para casa." />
+  <keys prop="Description" type="monster" key="Dialog_4000140_Title" value="Norris" />
+  <keys prop="Description" type="monster" key="Dialog_4000140_Text0" value="Todo mundo conta umas histórias malucas a meu respeito. A que eu ouvi ontem dizia que eu soltei um raio enorme por terem me encarado. Ah, quem me dera!" />
+  <keys prop="Description" type="monster" key="Dialog_4000140_answer_0_text" value="Prova de Cavalaria" />
+  <keys prop="Description" type="monster" key="Dialog_4000150_Title" value="Rogal" />
+  <keys prop="Description" type="monster" key="Dialog_4000150_Text0" value="Você é um herói digno, mas ainda não conquistou minha admiração. Ainda tem um longo caminho para superar o Capitão Errol..." />
+  <keys prop="Description" type="monster" key="Dialog_4000150_answer_0_text" value="Prova de Cavalaria" />
+  <keys prop="Description" type="monster" key="Dialog_4000160_Title" value="Rebecca" />
+  <keys prop="Description" type="monster" key="Dialog_4000160_Text0" value="Você está procurando algo que te dê uma vantagem em relação à Legião Caída? Então está no lugar certo!" />
+  <keys prop="Description" type="monster" key="Dialog_4000160_Answer_0_Text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_4000170_Title" value="Morres" />
+  <keys prop="Description" type="monster" key="Dialog_4000170_Text0" value="Ofertas por tempo limitado! Veja nossos itens especiais! Não encare o caos do vazio sem eles!" />
+  <keys prop="Description" type="monster" key="Dialog_4000170_Answer_0_Text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_4000180_Title" value="Oscar" />
+  <keys prop="Description" type="monster" key="Dialog_4000180_Text0" value="O objetivo dos Cavaleiros de Pégaso é tirar a Legião Caído da Fenda de Tritael. É por esse motivo que eu me levanto todo dia." />
+  <keys prop="Description" type="monster" key="Dialog_4000190_Title" value="Sylen" />
+  <keys prop="Description" type="monster" key="Dialog_4000190_Text0" value="Meu sangue ferve por vingança! Meus ancestrais lutaram até o fim por Tritael, e eu não vou perder essa batalha para a Legião." />
+  <keys prop="Description" type="monster" key="Dialog_4000200_Title" value="Hattie" />
+  <keys prop="Description" type="monster" key="Dialog_4000200_Text0" value="Este lugar é um caos sem fim. Bem diferente da minha casa no campo. Eu só queria montar em um pégaso!" />
+  <keys prop="Description" type="monster" key="Dialog_4000210_Title" value="Robinson" />
+  <keys prop="Description" type="monster" key="Dialog_4000210_Text0" value="Dizem que os anjos foram criados como armas, pelos Criadores, mas não há registro desses feitos. Talvez eles fossem mais do que isso. Foi o que eu vim descobrir." />
+  <keys prop="Description" type="monster" key="Dialog_4000220_Title" value="Silas" />
+  <keys prop="Description" type="monster" key="Dialog_4000220_Text0" value="Puxa... Como um homem como o Capitão Errol pode ser tão... tão... belo? Eu vim aqui só para ver o que todos na Travessia de Hakain estavam falando, e minha nossa..." />
+  <keys prop="Description" type="monster" key="Dialog_4000230_Title" value="Perric" />
+  <keys prop="Description" type="monster" key="Dialog_4000230_Text0" value="Acho que tenho muita sorte por lutar ao lado de cavaleiros tão experientes!" />
+  <keys prop="Description" type="monster" key="Dialog_4000240_Title" value="Issac" />
+  <keys prop="Description" type="monster" key="Dialog_4000240_Text0" value="..." />
+  <keys prop="Description" type="monster" key="Dialog_4000250_Title" value="Euvar" />
+  <keys prop="Description" type="monster" key="Dialog_4000250_Text0" value="Os elfos se esforçaram para proteger a luz por muitos anos. Mas onde há luz, há trevas. Acredito que ambas devam ser protegidas para o bem de todos." />
+  <keys prop="Description" type="monster" key="Dialog_4000250_Answer_3_Text" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="Dialog_4000250_Answer_4_Text" value="Segredo da Aliança" />
+  <keys prop="Description" type="monster" key="Dialog_4000260_Title" value="Sylen" />
+  <keys prop="Description" type="monster" key="Dialog_4000260_Text0" value="Lutei contra a Legião Caída por muitos anos. Segurei as lágrimas enquanto feria meus camaradas caídos. O que eu estava tentando proteger?" />
+  <keys prop="Description" type="monster" key="Dialog_4000260_Answer_3_Text" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="Dialog_4000270_Title" value="Hanor" />
+  <keys prop="Description" type="monster" key="Dialog_4000270_Text0" value="Aquela foi uma baita batalha! Ainda não sei bem como passei por ela..." />
+  <keys prop="Description" type="monster" key="Dialog_4000270_Answer_3_Text" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="Dialog_4000280_Title" value="Lena" />
+  <keys prop="Description" type="monster" key="Dialog_4000280_Text0" value="Como você passou pela fenda? Não importa, a Aliança precisa muito de sua ajuda." />
+  <keys prop="Description" type="monster" key="Dialog_4000290_Title" value="Jastor" />
+  <keys prop="Description" type="monster" key="Dialog_4000290_Text0" value="Eu já fui importante nos Cavaleiros do Pégaso, no passado. Envelhecer é terrível. Por isso me ofereci para lidar com suprimentos." />
+  <keys prop="Description" type="monster" key="Dialog_4000290_Answer_1_Text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_4000300_Title" value="Arkay" />
+  <keys prop="Description" type="monster" key="Dialog_4000300_Text0" value="Boas-vindas. Para tudo o que você quiser, tenho uma boa oferta." />
+  <keys prop="Description" type="monster" key="Dialog_4000300_Answer_0_Text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_4000310_Title" value="Mullec" />
+  <keys prop="Description" type="monster" key="Dialog_4000310_Text0" value="Posso estar velho, mas minha mente ainda é bem afiada no que diz respeito à música. Eu me ofereci como voluntário assim que fizeram a chamada. Essa molecada vai ter que suar para me acompanhar!" />
+  <keys prop="Description" type="monster" key="Dialog_4000320_Title" value="Quanomar" />
+  <keys prop="Description" type="monster" key="Dialog_4000320_Text0" value="Olá! Eu ADORO os familiares, principalmente os enormes. Eles são muito caro... Ou melhor, valiosos." />
+  <keys prop="Description" type="monster" key="Dialog_4000330_Title" value="Velakur" />
+  <keys prop="Description" type="monster" key="Dialog_4000330_Text0" value="Eu quero um mundo no qual possamos viver em harmonia com familiares, não apenas usá-los como transporte. Eles não são criaturas incríveis?" />
+  <keys prop="Description" type="monster" key="Dialog_4000340_Title" value="Leminer" />
+  <keys prop="Description" type="monster" key="Dialog_4000340_Text0" value="Ei, você! Tenha cuidado com seu familiar nesta área. É arriscado para alguns." />
+  <keys prop="Description" type="monster" key="Dialog_4000350_Title" value="Naz" />
+  <keys prop="Description" type="monster" key="Dialog_4000350_Text0" value="Você está sentindo o hálito frio da morte? A espada que fura o coração é a foice do ceifeiro." />
+  <keys prop="Description" type="monster" key="Dialog_4000360_Title" value="Jumawu" />
+  <keys prop="Description" type="monster" key="Dialog_4000360_Text0" value="Você era o protetor da princesa. A deusa e o demônio saíram daqui, mas eu estou vigiando no lugar deles há muitos anos." />
+  <keys prop="Description" type="monster" key="Dialog_4000370_Title" value="Geneddy" />
+  <keys prop="Description" type="monster" key="Dialog_4000370_Text0" value="Entre! Você se parece muito com o guerreiro. Vamos ver se não conseguiremos encontrar a arma perfeita para você... " />
+  <keys prop="Description" type="monster" key="Dialog_4000380_Title" value="Estelle" />
+  <keys prop="Description" type="monster" key="Dialog_4000380_Text0" value="Quer alguma coisa? Olhe, mas não toque. Peças tão boas quanto essas não são para qualquer um." />
+  <keys prop="Description" type="monster" key="Dialog_4000390_Title" value="Zelluchs" />
+  <keys prop="Description" type="monster" key="Dialog_4000390_Text0" value="Ahh, o mundo é uma colcha de retalhos de aventuras esperando para serem contadas! Meu nome é Zelluchs, e sou o rei justo da aventura! Com certeza já ouviu falar de mim." />
+  <keys prop="Description" type="monster" key="Dialog_4000390_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;Já estive em todos os lugares! Na Travessia de Hakain, na Costa do Parna, no Santuário de Ellora, em Akrat, no Deserto da Imortalidade e outros. Tenho certeza de que você adoraria ouvir minhas histórias emocionantes, certo?" />
+  <keys prop="Description" type="monster" key="Dialog_4000390_Text0_attach_1" value="&lt;br&gt;&lt;br&gt;Mas, por enquanto, vamos falar de assuntos mais urgentes. Vamos falar… do grande dragão Velzeroth." />
+  <keys prop="Description" type="monster" key="Dialog_4000400_Title" value="Rico" />
+  <keys prop="Description" type="monster" key="Dialog_4000400_Text0" value="Já conheceu nosso rei de aventuras? Ele é uma figura muito feliz... animada... agradável. Hum, ele não tem nenhuma outra qualidade?" />
+  <keys prop="Description" type="monster" key="Dialog_4000410_Title" value="Hunart" />
+  <keys prop="Description" type="monster" key="Dialog_4000410_Text0" value="O capitão é inspirador! Espero ser o rei das aventuras, um dia. Quando eu mesmo derrotá-lo..." />
+  <keys prop="Description" type="monster" key="Dialog_4000420_Title" value="Tinta" />
+  <keys prop="Description" type="monster" key="Dialog_4000420_Text0" value="Isso aí, sou o Tinta, o maior cozinheiro do mundo! Você veio ao lugar certo se procura comida deliciosa!" />
+  <keys prop="Description" type="monster" key="Dialog_4000430_Title" value="Achul" />
+  <keys prop="Description" type="monster" key="Dialog_4000430_Text0" value="Quem é você? Revele-se." />
+  <keys prop="Description" type="monster" key="Dialog_4000430_Text1" value="Recebemos a notícias de que a princesa foi levada ao Deserto da Imortalidade. Pode ser nossa chance de salvá-la! Por enquanto, suas ordens são para continuar protegendo a Fenda de Tritael enquanto eles confirmam a liderança." />
+  <keys prop="Description" type="monster" key="Dialog_4000440_Title" value="Conrad" />
+  <keys prop="Description" type="monster" key="Dialog_4000440_Text0" value="Tenho tudo!" />
+  <keys prop="Description" type="monster" key="Dialog_4000440_Answer_0_Text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_4000450_Title" value="Jared" />
+  <keys prop="Description" type="monster" key="Dialog_4000450_Text0" value="Ofereço a melhor armadura. Não que você tenha muitas escolhas em relação a essa pedra." />
+  <keys prop="Description" type="monster" key="Dialog_4000450_Answer_0_Text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_4000460_Title" value="Elena" />
+  <keys prop="Description" type="monster" key="Dialog_4000460_Text0" value="Tive que mexer uns pauzinhos para conseguir produtos de boa qualidade aqui. Dá uma olhada." />
+  <keys prop="Description" type="monster" key="Dialog_4000460_Answer_0_Text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_4000470_Title" value="Jamas" />
+  <keys prop="Description" type="monster" key="Dialog_4000470_Text0" value="Vamos fechar negócio!" />
+  <keys prop="Description" type="monster" key="Dialog_4000470_Answer_0_Text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_4000480_Title" value="Martins" />
+  <keys prop="Description" type="monster" key="Dialog_4000480_Text0" value="Não subestime meus produtos! Trabalhei muito neles!" />
+  <keys prop="Description" type="monster" key="Dialog_4000480_Answer_0_Text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_3050813_Title" value="Tillet" />
+  <keys prop="Description" type="monster" key="Dialog_3050813_Text0" value="Levarei você à capital quando quiser. Este lugar me dá arrepios." />
+  <keys prop="Description" type="monster" key="dialog_3050813_answer_1_text" value="Estamos prontos para partir. " />
+  <keys prop="Description" type="monster" key="dialog_3050813_answer_2_text" value="Ir para Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Dialog_4000490_Title" value="Kha" />
+  <keys prop="Description" type="monster" key="Dialog_4000490_Text0" value="O capitão me deixou aqui embaixo... Quero acreditar que ele tem um plano, mas não tenho mais certeza..." />
+  <keys prop="Description" type="monster" key="Dialog_4000111_Title" value="Nartia" />
+  <keys prop="Description" type="monster" key="Dialog_4000111_Text0" value="Prazer em conhecê-lo. Sou Nartia, chefe de pesquisa. Cheguei para decifrar os escritos do período Exarahn." />
+  <keys prop="Description" type="monster" key="Dialog_4000112_Title" value="Grimm Dourado" />
+  <keys prop="Description" type="monster" key="Dialog_4000112_Text0" value="Os wyrm cinzentos daqui são uma fonte rica em proteína. E são mais saborosos do que parecem ser." />
+  <keys prop="Description" type="monster" key="Dialog_4000113_Title" value="Madame Olivier" />
+  <keys prop="Description" type="monster" key="Dialog_4000113_Text0" value="Por que se surpreendeu? Viu um fantasma? &lt;br&gt;&lt;br&gt;Acho que você se esqueceu de que sou um mágico. Posso me teletransportar para qualquer lugar. Ho ho ho!" />
+  <keys prop="Description" type="monster" key="Dialog_4000114_Title" value="Lembrança da Terra" />
+  <keys prop="Description" type="monster" key="Dialog_4000114_Text0" value="Os dragões que ficaram ao lado de Zelnaris, o Deus da Ruína, lutaram com toda a força, mas quando Ellora e Zelnaris se chocaram, eles foram encobertos para sempre pela destruição. Contanto que o Fluxo Etéreo permaneça intacto, os dragões ficarão presos." />
+  <keys prop="Description" type="monster" key="Dialog_4000115_Title" value="Lembrança dos Céus" />
+  <keys prop="Description" type="monster" key="Dialog_4000115_Text0" value="O poder de Zelnaris, o Deus da Ruína, cobre esses céus sombrios. Não ouse adentrar seu domínio, pois seu poder toma tudo. O homem e a fera, igualmente, são como peões para ele." />
+  <keys prop="Description" type="monster" key="Dialog_4000116_Title" value="Memória de Ellora" />
+  <keys prop="Description" type="monster" key="Dialog_4000116_Text0" value="Tritael já foi o local onde ficava o maior templo de Ellora, mas foi totalmente destruído. O último presente dela à terra foi a preservação de seu poder. Se quiser ter sucesso, deve aceitar esse poder." />
+  <keys prop="Description" type="monster" key="Dialog_4000117_Title" value="Lembrança dos Mares" />
+  <keys prop="Description" type="monster" key="Dialog_4000117_Text0" value="A Fenda de Tritael é mantida onde está por dois poderes muito instáveis que dependem um do outro para se equilibrar. O que já foi terra agora é mar, conhecido como Mar Freya. Essas águas estão cheias de corpos dos derrotados na Guerra da Luz, e, por isso, são tão tóxicos, que causam morte a um simples toque. " />
+  <keys prop="Description" type="monster" key="Dialog_4000118_Title" value="Memória Selada" />
+  <keys prop="Description" type="monster" key="Dialog_4000118_Text0" value="As palavras nele são totalmente desconhecidas.&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_4000119_Title" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="Dialog_4000119_Text0" value="Minha família me contava histórias a respeito da queda de Tritael. Os parentes que lutaram na Guerra da Luz ainda podem estar presos aqui pelo caos sem fim..." />
+  <keys prop="Description" type="monster" key="Dialog_4000123_Title" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="Dialog_4000123_Text0" value="Tritael era uma cidade muito linda. Minha antepassada era instrutora na academia deles, e suas histórias foram contadas a mim. Terrível pensar na facilidade com que tudo foi destruído." />
+  <keys prop="Description" type="monster" key="Dialog_4000123_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;O mínimo que podemos fazer é garantir a paz nesta terra problemática. Tritael pode ter sumido, mas a Aliança da Luz não precisa ter desaparecido em vão." />
+  <keys prop="Description" type="monster" key="Dialog_4000121_Title" value="Segredo da Aliança" />
+  <keys prop="Description" type="monster" key="Dialog_4000121_Text0" value="A verdade? A verdade é que a Aliança da Luz era essencialmente corrupta, sem ordem nem moral a sua liderança. Estou aqui há muito tempo, e sei que a luz e a treva são uma coisa só. " />
+  <keys prop="Description" type="monster" key="Dialog_4000122_Title" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="Dialog_4000122_Text0" value="Muitos foram corrompidos pelo conflito entre Zelnaris, o Deus da Ruína, e Ellora. Mesmo agora, eu também posso..." />
+  <keys prop="Description" type="monster" key="Dialog_4000490_Answer_3_Text" value="Jumawu" />
+  <keys prop="Description" type="monster" key="Dialog_4000500_Title" value="Jumawu" />
+  <keys prop="Description" type="monster" key="Dialog_4000500_Text0" value="Você viu? O grandalhão? Estou falando sobre Jumawu! Ele engole qualquer ser vivo que encontra na Fenda de Tritael. Talvez precisemos de cem homens apenas para derrotá-lo!" />
+  <keys prop="Description" type="monster" key="Dialog_3040804_Title" value="Bellaline Protetora do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_3040804_Text0" value="Os Santuários de Trânsito são essenciais para a locomoção pela Fenda de Tritael. Nós, protetores do santuário, ficamos muito satisfeitos quando ajudamos cavaleiros e guerreiros corajosos." />
+  <keys prop="Description" type="monster" key="Dialog_3040804_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3040805_Title" value="Azura Protetora do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_3040805_Text0" value="Os Protetores do Santuário de Regiões têm poder para mandar você além do que nós conseguimos. A magia deles é incrivelmente poderosa, então apenas um se encarrega de cada grande área. O desta região está no Acampamento do Pico Alto." />
+  <keys prop="Description" type="monster" key="Dialog_3040805_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_2020400_Title" value="Quadro de Avisos do Poleiro do Redemoinho" />
+  <keys prop="Description" type="monster" key="Dialog_2020400_Text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020401_Title" value="Quadro de Avisos do Mar da Avareza" />
+  <keys prop="Description" type="monster" key="Dialog_2020401_Text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020402_Title" value="Quadro de Avisos Poleiro de Ellora" />
+  <keys prop="Description" type="monster" key="Dialog_2020402_Text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_2020403_Title" value="Jayden &lt;Cavaleiro de Pégaso&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_2020403_Text0" value="Capitão Errol me mandou para ficar de olho em Refúgio Negro. Retardatários da Legião Caído e da Guarda Gélida surpreenderam nossas forças em emboscadas e apenas Rihan sobreviveu. Uma tragédia... Mas o Capitão Errol vai vingá-los pela honra dos Cavaleiros de Pégaso!" />
+  <keys prop="Description" type="monster" key="Dialog_2020404_Title" value="Rihan &lt;Cavaleiro de Pégaso&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_2020404_Text0" value="Perdi meus companheiros para os retardatários da Legião Caída e da Guarda Gélida... Não permitirei que nenhum deixe o Refúgio Negro com vida!" />
+  <keys prop="Description" type="monster" key="Dialog_3600013_Title" value="Van Owen Lebrini (A Brecha)" />
+  <keys prop="Description" type="monster" key="Dialog_3600013_Text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="Dialog_3600013_Answer_0_Text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_1430005_Title" value="Lloyd &lt;Cavaleiro de Pégaso&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1430005_Text0" value="Meu dever é vigiar Izhora e suas criações. Temo por minha vida aqui, mas encaro minhas tarefas como Cavaleiro de Pégaso com seriedade." />
+  <keys prop="Description" type="monster" key="Dialog_1430006_Title" value="Markov &lt;Cavaleiro de Pégaso&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1430006_Text0" value="Dizem que a Legião Caída é forte, mas não são páreo para os Cavaleiros de Pégaso. Vivos ou mortos, eu mesmo acabarei com eles!" />
+  <keys prop="Description" type="monster" key="Dialog_1430007_Title" value="Paolo &lt;Alquimista&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1430007_Text0" value="Alquimia não significa fazer algo do nada. É recombinar os diversos elementos que formam este mundo para fazer aquilo de que você mais precisa. Só um deus pode criar algo do nada, certo?" />
+  <keys prop="Description" type="monster" key="Dialog_2020345_Title" value="Quadro de Avisos do Refúgio Negro" />
+  <keys prop="Description" type="monster" key="Dialog_2020345_Text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_1430008_Title" value="Cynth Mayer &lt;Fenda de Tritael&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1430008_Text0" value="A Fenda de Tritael não é um território grande da Ordem Ônix, mas não podemos ignorá-lo. Nosso dever é separar a informação reunida de todas as partes do mundo e retirar quaisquer fatores que ameacem o futuro do Reino." />
+  <keys prop="Description" type="monster" key="Dialog_1430009_Title" value="Behain &lt;Fenda de Tritael&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1430009_Text0" value="Estou aqui, em espera, obedecendo à ordem especial do capitão. Sei que você fez muito pelos Cavaleiros de Pégaso, mas não posso contar qual é a ordem." />
+  <keys prop="Description" type="monster" key="Dialog_9015594_Title" value="Dentro da Brecha" />
+  <keys prop="Description" type="monster" key="Dialog_9015594_Text0" value="Há três maneiras de chegar à Brecha, 1000 metros acima das águas da Fenda de Tritael.&lt;br&gt;&lt;br&gt;Você poderia tentar domar um familiar heroico que possa atingir grande altitude. Letonsia do Vazio é uma boa escolha, por ser originada da Fenda e grande o suficiente para comportar vários cavaleiros.&lt;br&gt;&lt;br&gt;Também há Passes de Translocação que podem ser obtidos nas missões.&lt;br&gt;&lt;br&gt;Por fim, há o Santuário de Trânsito perto da Brecha, 750 metros acima, que pode levá-lo lá. Deixarei que você escolha o melhor método." />
+  <keys prop="Description" type="monster" key="Dialog_4000511_Title" value="Rokin" />
+  <keys prop="Description" type="monster" key="Dialog_4000511_Text0" value="É preciso ter uma arma confiável por perto o tempo todo. Tenho muitas, então vá com calma e escolha a certa para você." />
+  <keys prop="Description" type="monster" key="Dialog_4000511_Answer_0_Text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_2020346_Title" value="Quadro de Avisos de Portal Destroçado" />
+  <keys prop="Description" type="monster" key="Dialog_2020346_Text0" value="Atos de vandalismo neste quadro serão considerados traição contra o Rei Ronfraine III e serão punidos com o máximo rigor da lei de Hakanas." />
+  <keys prop="Description" type="monster" key="Dialog_4000512_Title" value="Lilian" />
+  <keys prop="Description" type="monster" key="Dialog_4000512_Text0" value="Consegue ouvir os berros das almas que vagam pela ilha? Elas, também, eram boas pessoas antes de serem corrompidas por Zelnaris, o Deus da Ruína." />
+  <keys prop="Description" type="monster" key="Dialog_4000513_Title" value="Spike" />
+  <keys prop="Description" type="monster" key="Dialog_4000513_Text0" value="Sou um membro de elite dos Cavaleiros de Pégaso! Se pelo menos eu não tivesse perdido minha espada... Teria matado aqueles cristais da alma nojentos com apenas um golpe!" />
+  <keys prop="Description" type="monster" key="Dialog_3600014_Title" value="Royce Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_3600014_Text0" value="É um prazer conhecê-lo! Nós, Comerciantes da Lua Crescente, somos enviados a todas as regiões para entregar o que os viajantes possam precisar. Minha especialidade é trocar Moedas Lebrini de Cobre por Moedas de Prata. Então, pode me trazer qualquer moeda de cobre!" />
+  <keys prop="Description" type="monster" key="Dialog_3600014_Answer_0_Text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_3600015_Title" value="Phillipe Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_3600015_Text0" value="É um prazer conhecê-lo! Meu nome é Phillipe Lebrini, e, minha nossa!, tenho uma oferta para você! Tenho itens não encontrados em outras Lojas Lebrini. Traga-me moedas e eu as trocarei por itens de extração de vínculos e selos! Lembrem-se, eu preciso de Moedas Lebrini de Prata se você quiser fechar negócios comigo!" />
+  <keys prop="Description" type="monster" key="Dialog_3600015_Answer_0_Text" value="Mercearia" />
+</files>

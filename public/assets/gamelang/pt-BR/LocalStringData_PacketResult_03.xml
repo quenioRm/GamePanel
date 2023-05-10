@@ -1,2 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="eNetFailure_Dungeon_NotMaster" value="" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_PartyMember_LevelCondition" value="" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_PartyMember_NotConnect" value="" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_PartyMember_NeedDungeonReset" value="" />
+  <keys prop="Description" type="monster" key="eNetFailure_Move_PartyMember_None" value="" />
+</files>

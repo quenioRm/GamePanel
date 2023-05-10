@@ -1,968 +1,1442 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="" key="IN_CM_0_0001" value="Recall Stone" />
-  <keys type="" key="IN_CM_0_0002" value="Respawn Point" />
-  <keys type="" key="IN_CM_0_0003" value="Transportation Shrine" />
-  <keys type="" key="IN_CM_0_0004" value="Dungeon Treasure Chest" />
-  <keys type="" key="IN_CM_0_0005" value="Soul Curtains" />
-  <keys type="" key="IN_CM_0_0006" value="Soul Crystal" />
-  <keys type="" key="IN_CM_0_0007" value="Soul Crystal" />
-  <keys type="" key="IN_CM_0_0008" value="Ice Soul Crystal" />
-  <keys type="" key="IN_CM_0_0009" value="Mailbox" />
-  <keys type="" key="IN_CM_0_0010" value="Egg Merchant's Cane" />
-  <keys type="" key="IN_FR_0_0001" value="Akrashin's Hammer" />
-  <keys type="" key="IN_FR_1_0002" value="Key Box" />
-  <keys type="" key="IN_SF_1_0001" value="Broken Crate" />
-  <keys type="" key="IN_SF_1_0002" value="Braghin Ballista" />
-  <keys type="" key="IN_SF_1_0003" value="Powder Keg" />
-  <keys type="" key="IN_SF_1_0004" value="Braghin Treasure Chest" />
-  <keys type="" key="IN_SF_1_0005" value="Glowing Stone" />
-  <keys type="" key="IN_SF_1_0006" value="Ruby-embedded Statue" />
-  <keys type="" key="IN_SF_1_0007" value="Chill Crystal" />
-  <keys type="" key="IN_SF_1_0008" value="Prayer Altar" />
-  <keys type="" key="IN_SF_1_0009" value="Monster Summoning Location" />
-  <keys type="" key="IN_SP_1_0001" value="Cell Door" />
-  <keys type="" key="IN_SP_1_0002" value="Guards' Weapon Box" />
-  <keys type="" key="IN_SP_1_0003" value="Iron Gate" />
-  <keys type="" key="IN_SP_1_0004" value="Cell Door" />
-  <keys type="" key="IN_SP_1_0005" value="Lock" />
-  <keys type="" key="IN_SP_1_0006" value="Iron Gate" />
-  <keys type="" key="IN_SP_1_0007" value="Iron Gate" />
-  <keys type="" key="IN_SP_1_0008" value="Sky Titan" />
-  <keys type="" key="IN_SP_1_0009" value="Guards' Weapon Box" />
-  <keys type="" key="IN_SP_1_0010" value="Guards' Weapon Box" />
-  <keys type="" key="IN_SP_1_0011" value="Guards' Weapon Box" />
-  <keys type="" key="IN_SP_1_0012" value="Guards' Weapon Box" />
-  <keys type="" key="IN_TEST_1_0001" value="For Testing" />
-  <keys type="" key="IN_SP_1_0013" value="Braghin Treasure" />
-  <keys type="" key="IN_SP_1_0014" value="Weapon Stand" />
-  <keys type="" key="IN_SP_1_0015" value="Iron Gate" />
-  <keys type="" key="IN_SP_1_0016" value="Gate Lever" />
-  <keys type="" key="IN_SP_1_0017" value="Gate Lever" />
-  <keys type="" key="IN_SP_1_0018" value="Chief Prison Guard Enhancement Stone" />
-  <keys type="" key="IN_SF_1_0010" value="Ancient Chest" />
-  <keys type="" key="IN_SF_1_0011" value="Cage Door" />
-  <keys type="" key="IN_SP_1_0019" value="Weapon Stand" />
-  <keys type="" key="IN_SP_1_0020" value="Weapon Stand" />
-  <keys type="" key="IN_HK_0_0001" value="Rotting Meat" />
-  <keys type="" key="IN_HK_0_0002" value="Book of Ruin" />
-  <keys type="" key="IN_HK_0_0003" value="Dim Streetlight" />
-  <keys type="" key="IN_HK_0_0004" value="Cursed Sapling" />
-  <keys type="" key="IN_HK_0_0005" value="Dried Meat" />
-  <keys type="" key="IN_HK_0_0006" value="Lamp-bearing Statue" />
-  <keys type="" key="IN_HK_0_0007" value="Streetlight" />
-  <keys type="" key="IN_HK_0_0008" value="Wooden Wagon" />
-  <keys type="" key="IN_CM_0_0011" value="Book" />
-  <keys type="" key="IN_CM_0_0012" value="Carrot" />
-  <keys type="" key="IN_CM_0_0013" value="Sack" />
-  <keys type="" key="IN_CM_0_0014" value="Powder Keg" />
-  <keys type="" key="IN_CM_0_0015" value="Metal Chest" />
-  <keys type="" key="IN_CM_0_0016" value="First-Aid Kit" />
-  <keys type="" key="IN_CM_0_0017" value="Milestone" />
-  <keys type="" key="IN_CM_0_0018" value="Small Sack" />
-  <keys type="" key="IN_CM_0_0019" value="Sturdy Wooden Box" />
-  <keys type="" key="IN_FR_0_0003" value="Sinthan's Smashed Wall" />
-  <keys type="" key="IN_FR_0_0004" value="Frozen Box" />
-  <keys type="" key="IN_FR_0_0005" value="Landslide Rocks" />
-  <keys type="" key="IN_HK_0_0009" value="Large Food Sack" />
-  <keys type="" key="IN_HK_0_0010" value="Large Chest" />
-  <keys type="" key="IN_HK_0_0011" value="Old Wooden Chest" />
-  <keys type="" key="IN_HK_0_0012" value="Old Wooden Chest" />
-  <keys type="" key="IN_HK_0_0013" value="Old Wooden Chest" />
-  <keys type="" key="IN_HK_0_0014" value="Shabby Chest" />
-  <keys type="" key="IN_HK_0_0015" value="Glowing Tree" />
-  <keys type="" key="IN_HK_0_0016" value="Produce Bucket" />
-  <keys type="" key="IN_HK_0_0017" value="Food Sack" />
-  <keys type="" key="IN_HK_0_0018" value="Seed Sack" />
-  <keys type="" key="IN_HK_0_0019" value="Produce Bucket" />
-  <keys type="" key="IN_HK_0_0020" value="Jack's Journal" />
-  <keys type="" key="IN_HK_0_0021" value="Large Food Sack" />
-  <keys type="" key="IN_SP_1_0021" value="Beast Cage Door" />
-  <keys type="" key="IN_SP_1_0022" value="Beast Cage Door" />
-  <keys type="" key="IN_SP_1_0023" value="Iron Gate" />
-  <keys type="" key="IN_HK_0_0022" value="Morineh Sapling" />
-  <keys type="" key="IN_FR_0_0006" value="Sinthan's Roof" />
-  <keys type="" key="IN_CM_0_0020" value="Road Sign Pole" />
-  <keys type="" key="IN_SP_1_0024" value="Iron Gate" />
-  <keys type="" key="IN_MA_02_0007_0000" value="Gray Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0007_5000" value="Charged Gray Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0007_0002" value="Violent Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0007_5002" value="Charged Violent Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0007_0003" value="Ruins Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0007_5003" value="Charged Ruins Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0309_0000" value="Male Pritsha Soul Stone" />
-  <keys type="" key="IN_MA_02_0309_5000" value="Charged Male Pritsha Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0000" value="Wounded Wolf (Lv. 14) Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_5000" value="Charged Wounded Wolf (Lv. 14) Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0001" value="Shadow of Darkness Wolf (Lv. 16) Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_5001" value="Charged Shadow of Darkness Wolf (Lv. 16) Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0004" value="Dread Shadow Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_5004" value="Charged Dread Shadow Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0005" value="Harsh Shadow Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_5005" value="Charged Harsh Shadow Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_0000" value="Panther Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_5000" value="Charged Panther Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_0001" value="Chakai Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_5001" value="Charged Chakai Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0007" value="Sansupus Wild Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_5007" value="Charged Sansupus Wild Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_0002" value="Rough Fur Leopard Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_5002" value="Charged Rough Fur Leopard Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0008" value="Wounded Wolf Soul Stone (Lv. 17)" />
-  <keys type="" key="IN_MA_03_0309_5008" value="Charged Wounded Wolf Soul Stone (Lv. 17)" />
-  <keys type="" key="IN_MA_03_0309_0009" value="Shadow of Darkness Wolf (Lv. 17) Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_5009" value="Charged Shadow of Darkness Wolf (Lv. 17) Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0010" value="Tamed Wolf_Slave Soul Stone (Lv. 16)" />
-  <keys type="" key="IN_MA_03_0309_5010" value="Charged Tamed Wolf_Slave Soul Stone (Lv. 16)" />
-  <keys type="" key="IN_MA_03_0309_0011" value="Shadow of Darkness Wolf_Slave Soul Stone (Lv. 17)" />
-  <keys type="" key="IN_MA_03_0309_5011" value="Charged Shadow of Darkness Wolf_Slave Soul Stone (Lv. 17)" />
-  <keys type="" key="IN_MA_03_0245_0003" value="Ferocious Panther Soul Stone (Lv. 25)" />
-  <keys type="" key="IN_MA_03_0245_5003" value="Charged Ferocious Panther Soul Stone (Lv. 25)" />
-  <keys type="" key="IN_MA_03_0245_0004" value="Ferocious Panther Soul Stone (Lv. 26)" />
-  <keys type="" key="IN_MA_03_0245_5004" value="Charged Ferocious Panther Soul Stone (Lv. 26)" />
-  <keys type="" key="IN_MA_03_0083_0000" value="Starved Bear Soul Stone (Lv. 15)" />
-  <keys type="" key="IN_MA_03_0083_5000" value="Charged Starved Bear Soul Stone (Lv. 15)" />
-  <keys type="" key="IN_MA_03_0083_0001" value="Trutan Soul Stone" />
-  <keys type="" key="IN_MA_03_0083_5001" value="Charged Trutan Soul Stone" />
-  <keys type="" key="IN_MA_03_0083_0002" value="Fierce Brown Bear Soul Stone" />
-  <keys type="" key="IN_MA_03_0083_5002" value="Charged Fierce Brown Bear Soul Stone" />
-  <keys type="" key="IN_MA_03_0083_0003" value="Brown Bear Soul Stone (Lv. 14)" />
-  <keys type="" key="IN_MA_03_0083_5003" value="Charged Brown Bear Soul Stone (Lv. 14)" />
-  <keys type="" key="IN_MA_03_0083_0004" value="Starved Bear Soul Stone (Lv. 16)" />
-  <keys type="" key="IN_MA_03_0083_5004" value="Charged Starved Bear Soul Stone (Lv. 16)" />
-  <keys type="" key="IN_MA_03_0083_0005" value="Brown Bear Soul Stone (Lv. 15)" />
-  <keys type="" key="IN_MA_03_0083_5005" value="Charged Brown Bear Soul Stone (Lv. 15)" />
-  <keys type="" key="IN_MA_03_0083_0006" value="Violent Brown Bear Soul Stone (Lv. 26)" />
-  <keys type="" key="IN_MA_03_0083_5006" value="Charged Violent Brown Bear Soul Stone (Lv. 26)" />
-  <keys type="" key="IN_MA_03_0083_0007" value="Violent Brown Bear Soul Stone (Lv. 27)" />
-  <keys type="" key="IN_MA_03_0083_5007" value="Charged Violent Brown Bear Soul Stone (Lv. 27)" />
-  <keys type="" key="IN_SF_1_0012" value="Quest Box" />
-  <keys type="" key="IN_ACB_0_0000" value="Altar of Seals" />
-  <keys type="" key="IN_FR_0_0007" value="Red Magic Stone" />
-  <keys type="" key="IN_FR_0_0008" value="Blue Magic Stone" />
-  <keys type="" key="IN_FR_0_0009" value="Yellow Magic Stone" />
-  <keys type="" key="IN_FR_0_0010" value="Greenstone" />
-  <keys type="" key="IN_ACB_0_0001" value="Black Coffin" />
-  <keys type="" key="IN_ACB_0_0002" value="Underground Labyrinth_Steel Bar Door" />
-  <keys type="" key="IN_ACB_0_0003" value="Funerary Jar" />
-  <keys type="" key="IN_ACB_0_0004" value="Funerary Jar" />
-  <keys type="" key="IN_ACB_0_0005" value="Necromantic Magic Circle A" />
-  <keys type="" key="IN_ACB_0_0006" value="Necromantic Magic Circle B" />
-  <keys type="" key="IN_HK_0_0023" value="Beehive" />
-  <keys type="" key="IN_HK_0_0024" value="Grave" />
-  <keys type="" key="CO_MI_0000" value="Copper Vein" />
-  <keys type="" key="CO_MI_0001" value="Tin Vein" />
-  <keys type="" key="CO_MI_0002" value="Iron Vein" />
-  <keys type="" key="CO_MI_0003" value="Silver Vein" />
-  <keys type="" key="CO_MI_0004" value="Titanium Vein" />
-  <keys type="" key="CO_MI_0005" value="White Gold Vein" />
-  <keys type="" key="CO_MI_0006" value="Mithril Vein" />
-  <keys type="" key="CO_MI_0007" value="Adamantite Vein" />
-  <keys type="" key="CO_HE_0000" value="Wormwood" />
-  <keys type="" key="CO_HE_0001" value="Young Lizard's Tail" />
-  <keys type="" key="CO_HE_0002" value="Lizard's Tail" />
-  <keys type="" key="CO_HE_0003" value="Cornus Fruit" />
-  <keys type="" key="CO_HE_0004" value="Barrenwort" />
-  <keys type="" key="CO_HE_0005" value="White Atractylodes" />
-  <keys type="" key="CO_HE_0006" value="Asparagus Root" />
-  <keys type="" key="CO_HE_0007" value="Moorwort" />
-  <keys type="" key="IN_MA_02_0309_0002" value="Gray Wolf Leader Soul Stone" />
-  <keys type="" key="IN_MA_02_0309_5002" value="Charged Gray Wolf Leader Soul Stone" />
-  <keys type="" key="IN_MA_02_0010_0000" value="Mane Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_02_0010_5000" value="Charged Mane Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_02_0010_0001" value="Mane Wild Boar Soul Stone (Small Size)" />
-  <keys type="" key="IN_MA_02_0010_5001" value="Charged Mane Wild Boar Soul Stone (Small)" />
-  <keys type="" key="IN_MA_02_0011_0000" value="Rough Mane Wild Boar Soul Stone (+Mane Wild Boar)" />
-  <keys type="" key="IN_MA_02_0011_5000" value="Charged Rough Mane Wild Boar Soul Stone (+Mane Wild Boar)" />
-  <keys type="" key="IN_MA_02_0011_0001" value="Rough Mane Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_02_0011_5001" value="Charged Rough Mane Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_02_0011_0002" value="Razorback Soul Stone (Slave)" />
-  <keys type="" key="IN_MA_02_0011_5002" value="Charged Razorback Soul Stone (Slave)" />
-  <keys type="" key="IN_MA_02_0030_0000" value="Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_02_0030_5000" value="Charged Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_03_0606_0000" value="Big Hooves Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_03_0606_5000" value="Charged Big Hooves Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_0000" value="Black Cow Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_5000" value="Charged Black Cow Soul Stone" />
-  <keys type="" key="IN_MA_03_0606_0001" value="Big Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_03_0606_5001" value="Charged Big Wild Boar Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_0001" value="Wild Buffalo Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_5001" value="Charged Wild Buffalo Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_0006" value="Tamed Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0309_5006" value="Charged Tamed Wolf Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_0002" value="Sharp Horn Black Cow Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_5002" value="Charged Sharp Horn Black Cow Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_0003" value="Enraged Dairy Cow Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_5003" value="Charged Enraged Diary Cow Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_0004" value="Fierce Black Cow Soul Stone (Lv. 24)" />
-  <keys type="" key="IN_MA_03_0672_5004" value="Charged Fierce Black Cow Soul Stone (Lv. 24)" />
-  <keys type="" key="IN_MA_03_0672_0005" value="Fierce Black Cow Soul Stone (Lv. 25)" />
-  <keys type="" key="IN_MA_03_0672_5005" value="Fierce Black Cow Soul Stone (Lv. 25)" />
-  <keys type="" key="IN_MA_03_0309_0002" value="Fenris" />
-  <keys type="" key="IN_MA_03_0309_5002" value="Fenris" />
-  <keys type="" key="IN_MA_04_0309_0000" value="Cunning Blue Wolf Soul Stone" />
-  <keys type="" key="IN_MA_04_0309_5000" value="Charged Cunning Blue Wolf Soul Stone" />
-  <keys type="" key="IN_MA_04_0309_0001" value="Violent Blue Wolf Soul Stone" />
-  <keys type="" key="IN_MA_04_0309_5001" value="Charged Violent Blue Wolf Soul Stone" />
-  <keys type="" key="IN_MA_04_0309_0002" value="Lashaka Soul Stone" />
-  <keys type="" key="IN_MA_04_0309_5002" value="Charged Lashaka Soul Stone" />
-  <keys type="" key="IN_MA_51_0083_0000" value="Fierce White Bear Soul Stone" />
-  <keys type="" key="IN_MA_51_0083_5000" value="Charged Fierce White Bear Soul Stone" />
-  <keys type="" key="IN_MA_02_0676_0000" value="Ghost Spider Soul Stone" />
-  <keys type="" key="IN_MA_02_0676_5000" value="Charged Ghost Spider Soul Stone" />
-  <keys type="" key="IN_MA_02_0676_0001" value="Taslan Soul Stone" />
-  <keys type="" key="IN_MA_02_0676_5001" value="Charged Taslan Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_0000" value="Gray Spider Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_5000" value="Charged Gray Spider Soul Stone" />
-  <keys type="" key="IN_MA_03_0611_0000" value="Frost Spider Soul Stone" />
-  <keys type="" key="IN_MA_03_0611_5000" value="Charged Frost Spider Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_0001" value="Dead Spider Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_5001" value="Charged Dead Spider Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_0002" value="Violent Tarantula Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_5002" value="Charged Violent Tarantula Soul Stone" />
-  <keys type="" key="IN_MA_51_0611_0000" value="Frost Spider Soul Stone" />
-  <keys type="" key="IN_MA_51_0611_5000" value="Charged Frost Spider Soul Stone" />
-  <keys type="" key="IN_MA_03_0611_0001" value="Frost Spider Soul Stone (Lv. 27)" />
-  <keys type="" key="IN_MA_03_0611_5001" value="Charged Frost Spider Soul Stone (Lv. 27)" />
-  <keys type="" key="IN_MA_02_0606_0001" value="Bragi Supervisor's Wild Boar Soul Stone (Slave)" />
-  <keys type="" key="IN_MA_02_0606_5001" value="Charged Bragi Supervisor's Wild Boar Soul Stone (Slave)" />
-  <keys type="" key="IN_MA_02_0606_0002" value="Pochi - Bragi Chieftain's Wild Boar Soul Stone (Slave)" />
-  <keys type="" key="IN_MA_02_0606_5002" value="Charged Pochi - Bragi Chieftain's Wild Boar Soul Stone (Slave)" />
-  <keys type="" key="IN_MA_03_0672_0006" value="Tamed Bison Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_5006" value="Charged Tamed Bison Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_0000" value="Reindeer Soul Stone (Lv. 13)" />
-  <keys type="" key="IN_MA_03_0671_5000" value="Charged Reindeer Soul Stone (Lv. 13)" />
-  <keys type="" key="IN_MA_03_0671_0001" value="Crystal Antler Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_5001" value="Charged Crystal Antler Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_0002" value="Ambermane Caribou Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_5002" value="Charged Ambermane Caribou Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_0003" value="Crystal Antler (Sticking Up) Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_5003" value="Charged Crystal Antler (Sticking Up) Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_0004" value="Reindeer Soul Stone (Lv. 15)" />
-  <keys type="" key="IN_MA_03_0671_5004" value="Charged Reindeer Soul Stone (Lv. 15)" />
-  <keys type="" key="IN_MA_03_0671_0005" value="Ambermane Caribou_Master Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_5005" value="Charged Ambermane Caribou_Master Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_0006" value="Reindeer_Slave Soul Stone (Lv. 13)" />
-  <keys type="" key="IN_MA_03_0671_5006" value="Charged Reindeer_Slave Soul Stone (Lv. 13)" />
-  <keys type="" key="IN_MA_03_0671_0007" value="Crystal Antler Reindeer Soul Stone (Lv. 18)" />
-  <keys type="" key="IN_MA_03_0671_5007" value="Charged Crystal Antler Reindeer Soul Stone (Lv. 18)" />
-  <keys type="" key="IN_MA_03_0671_0008" value="Crystal Antler Reindeer Soul Stone (Lv. 19)" />
-  <keys type="" key="IN_MA_03_0671_5008" value="Charged Crystal Antler Reindeer Soul Stone (Lv. 19)" />
-  <keys type="" key="IN_MA_03_0671_0009" value="Big Crystal Antler Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_5009" value="Charged Big Crystal Antler Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0692_0000" value="Morineh Turtle Soul Stone" />
-  <keys type="" key="IN_MA_03_0692_5000" value="Charged Morineh Turtle Soul Stone" />
-  <keys type="" key="IN_MA_03_0769_0000" value="Black Wind (Ashuram's Horse) Soul Stone" />
-  <keys type="" key="IN_MA_03_0769_5000" value="Charged Black Wind (Ashuram's Horse) Soul Stone" />
-  <keys type="" key="IN_MA_03_0769_0001" value="Pony (Cavalry's Horse) Soul Stone" />
-  <keys type="" key="IN_MA_03_0769_5001" value="Charged Pony (Cavalry's Horse) Soul Stone" />
-  <keys type="" key="IN_MA_02_0606_0103" value="Domesticated Boar Soul Stone" />
-  <keys type="" key="IN_MA_02_0606_5103" value="Charged Domesticated Boar Soul Stone" />
-  <keys type="" key="IN_MA_02_0309_0100" value="Black Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0309_5100" value="Charged Black Wolf Soul Stone" />
-  <keys type="" key="IN_MA_02_0676_0002" value="Ruins Tarantula Soul Stone" />
-  <keys type="" key="IN_MA_02_0676_5002" value="Charged Ruins Tarantula Soul Stone" />
-  <keys type="" key="IN_MA_50_0245_0000" value="Hell Hound Soul Stone" />
-  <keys type="" key="IN_MA_50_0245_5000" value="Charged Hell Hound Soul Stone" />
-  <keys type="" key="IN_MA_03_0692_0002" value="Lava Turtle Soul Stone" />
-  <keys type="" key="IN_MA_03_0692_5002" value="Charged Lava Turtle Soul Stone" />
-  <keys type="" key="IN_FR_0_0011" value="Frost Orb" />
-  <keys type="" key="IN_FR_0_0012" value="Ice Wall" />
-  <keys type="" key="IN_HK_0_0025" value="Bumblebee Nest" />
-  <keys type="" key="IN_HK_0_0026" value="Gunther's Corpse" />
-  <keys type="" key="IN_HK_0_0027" value="Steel Bars" />
-  <keys type="" key="IN_HK_0_0028" value="Small Chest" />
-  <keys type="" key="IN_KLM_0_0001" value="Manor Door" />
-  <keys type="" key="IN_CR_90_0000" value="Crop For Testing" />
-  <keys type="" key="IN_CR_90_0001" value="Tree For Testing" />
-  <keys type="" key="IN_ST_0_0001" value="Town Center" />
-  <keys type="" key="IN_ST_0_0002" value="Parna's Egg" />
-  <keys type="" key="IN_ST_0_0003" value="Crokhoon Crane" />
-  <keys type="" key="IN_ST_0_0004" value="Three-shot Ballista" />
-  <keys type="" key="IN_ST_0_0005" value="Arrowhead Spear" />
-  <keys type="" key="IN_ST_0_0006" value="Merumi Prisoner" />
-  <keys type="" key="IN_ST_0_0007" value="Frostbitten Crokhoon" />
-  <keys type="" key="IN_ST_0_0008" value="Mermaid Music Sheet I" />
-  <keys type="" key="IN_ST_0_0009" value="Mermaid Music Sheet II" />
-  <keys type="" key="IN_ST_0_0010" value="Mermaid Music Sheet III" />
-  <keys type="" key="IN_ST_0_0011" value="Ice Nest" />
-  <keys type="" key="IN_ST_0_0012" value="Ice Tree" />
-  <keys type="" key="IN_ST_0_0013" value="Disguised Explosive Box" />
-  <keys type="" key="IN_ST_0_0014" value="Pirate Captain's Treasure Chest" />
-  <keys type="" key="IN_ST_0_0015" value="Explosive Bundle" />
-  <keys type="" key="IN_RDC_0_0001" value="Magic Stone of Magic" />
-  <keys type="" key="IN_RDC_0_0002" value="Magic Stone of Attack" />
-  <keys type="" key="IN_RDC_0_0003" value="Magic Stone of Life" />
-  <keys type="" key="IN_RDC_0_0004" value="Magic Stone of Defense" />
-  <keys type="" key="IN_RDC_0_0005" value="Berserker Summoning Device" />
-  <keys type="" key="IN_RDC_0_0006" value="Attribute Stone of Attack" />
-  <keys type="" key="IN_RDC_0_0007" value="Attribute Stone pf Defense" />
-  <keys type="" key="IN_RDC_0_0008" value="Attribute Stone of Magic" />
-  <keys type="" key="IN_RDC_0_0009" value="Attribute Stone of Life" />
-  <keys type="" key="IN_RDC_0_0010" value="Live Door" />
-  <keys type="" key="IN_RDC_0_0011" value="Audience Chamber Door" />
-  <keys type="" key="IN_RDC_0_0012" value="Frozen Steel Bar Door" />
-  <keys type="" key="IN_RDC_0_0013" value="Wall Switch" />
-  <keys type="" key="IN_FR_0_0013" value="Disguised Rock" />
-  <keys type="" key="IN_VLC_0_0001" value="Floodgate" />
-  <keys type="" key="IN_SF_1_0013" value="Burning Woodpile" />
-  <keys type="" key="IN_SF_1_0014" value="Burning Woodpile" />
-  <keys type="" key="IN_SF_1_0015" value="Burning Crates" />
-  <keys type="" key="IN_ST_0_0016" value="Locked Box" />
-  <keys type="" key="IN_ST_0_0017" value="Suspicious Box" />
-  <keys type="" key="IN_ST_0_0018" value="Treasure Chest" />
-  <keys type="" key="IN_ST_0_0019" value="Toolbox" />
-  <keys type="" key="IN_ST_0_0020" value="Artisan Tool Kit" />
-  <keys type="" key="IN_ST_0_0021" value="Rusted Steel Bar" />
-  <keys type="" key="IN_ST_0_0022" value="Rondo's Box" />
-  <keys type="" key="IN_ST_0_0023" value="Water Glass with Relic" />
-  <keys type="" key="IN_ST_0_0024" value="Herb" />
-  <keys type="" key="IN_ST_0_0025" value="Lumber" />
-  <keys type="" key="IN_ST_0_0026" value="Civil Militia's Steel Bar" />
-  <keys type="" key="IN_ST_0_0027" value="Luggage" />
-  <keys type="" key="IN_ST_0_0028" value="Full Bag" />
-  <keys type="" key="IN_ST_0_0029" value="Ore Wagon" />
-  <keys type="" key="IN_SF_1_0016" value="Injured Woodcutter" />
-  <keys type="" key="IN_SF_1_0017" value="Injured Woodcutter" />
-  <keys type="" key="IN_ST_0_0030" value="Necromantic Pentacle" />
-  <keys type="" key="IN_ST_0_0031" value="Rondo's Ice Castle Main Gate" />
-  <keys type="" key="IN_ST_0_0032" value="Merumi Shrine Gate" />
-  <keys type="" key="IN_ST_0_0033" value="Food Warehouse Explosive Bundle" />
-  <keys type="" key="IN_ST_0_0034" value="Weapon Storage Explosive Bundle" />
-  <keys type="" key="IN_ST_0_0035" value="Pirate Ship Explosion" />
-  <keys type="" key="IN_ST_0_0036" value="Food Storage Explosion" />
-  <keys type="" key="IN_ST_0_0037" value="Weapon Storage Explosion" />
-  <keys type="" key="IN_ST_0_0038" value="Bulletin Board" />
-  <keys type="" key="IN_ST_0_0039" value="Broken Crane" />
-  <keys type="" key="IN_SF_1_5000" value="Burning Goods" />
-  <keys type="" key="IN_HK_0_0029" value="Phoenix Egg" />
-  <keys type="" key="IN_HK_0_0030" value="Tempest Dragon Egg" />
-  <keys type="" key="IN_CM_2_0001" value="Poron Mushroom" />
-  <keys type="" key="IN_CM_2_0002" value="Sage Grass" />
-  <keys type="" key="IN_CM_2_0003" value="Cherpa Snow Flower" />
-  <keys type="" key="IN_CM_2_0004" value="Koor Root" />
-  <keys type="" key="IN_CM_2_0005" value="Taramun Herb" />
-  <keys type="" key="IN_CM_2_0006" value="Rashine Flower" />
-  <keys type="" key="IN_CM_2_0011" value="Plain Herb for Testing" />
-  <keys type="" key="IN_CM_2_0012" value="Modest Herb for Testing" />
-  <keys type="" key="IN_CM_2_0013" value="Austere Herb for Testing" />
-  <keys type="" key="IN_CM_2_0014" value="Complex Herb for Testing" />
-  <keys type="" key="IN_CM_2_0015" value="Expert Grade Herb for Testing" />
-  <keys type="" key="IN_CM_2_0016" value="Master Grade Herb for Testing" />
-  <keys type="" key="IN_SF_0_0018" value="Rotting Meat" />
-  <keys type="" key="IN_CM_0_0021" value="Fairy-infused Meat" />
-  <keys type="" key="IN_CM_0_0022" value="Finest Royal Jelly" />
-  <keys type="" key="IN_CM_0_0023" value="Succulent Reindeer Meat" />
-  <keys type="" key="IN_CM_0_0024" value="Crystal Grass" />
-  <keys type="" key="IN_CM_0_0025" value="Sparking Crystal Grass" />
-  <keys type="" key="IN_CM_0_0026" value="Glowing Crystal Crass" />
-  <keys type="" key="IN_CM_0_0027" value="Dew Leaf" />
-  <keys type="" key="IN_CM_0_0028" value="Clean Dew Leaf" />
-  <keys type="" key="IN_CM_0_0029" value="Pure Dew Leaf" />
-  <keys type="" key="IN_SF_1_0019" value="Burning Fire" />
-  <keys type="" key="IN_SF_1_0020" value="Burning Fire" />
-  <keys type="" key="IN_MA_03_1720_0000" value="Experimental Unicorn Soul Stone" />
-  <keys type="" key="IN_MA_03_1720_5000" value="Charged Experimental Unicorn Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_0000" value="Black Wings Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_5000" value="Charged Black Wings Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_0001" value="Flame Breath Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_5001" value="Charged Flame Breath Soul Stone" />
-  <keys type="" key="IN_MA_03_1715_0000" value="Asteras Level Black Dragon Charge Team Soul Stone" />
-  <keys type="" key="IN_MA_03_1715_5000" value="Charged Asteras Level Black Dragon Charge Team Soul Stone" />
-  <keys type="" key="IN_MA_02_0606_0000" value="Angry Razorback Soul Stone" />
-  <keys type="" key="IN_MA_02_0606_5000" value="Charged Angry Razorback Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_0002" value="Green Shock Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_5002" value="Charged Green Shock Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_0003" value="Azure Shadewing Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_5003" value="Charged Azure Shadewing Soul Stone" />
-  <keys type="" key="IN_MA_04_0245_0000" value="Snow Tiger Soul Stone" />
-  <keys type="" key="IN_MA_04_0245_5000" value="Charged Snow Tiger Soul Stone" />
-  <keys type="" key="IN_MA_04_0245_0001" value="Krooger Soul Stone" />
-  <keys type="" key="IN_MA_04_0245_5001" value="Charged Krooger Soul Stone" />
-  <keys type="" key="IN_MA_04_0245_0002" value="Tamed Snow Tiger Soul Stone" />
-  <keys type="" key="IN_MA_04_0245_5002" value="Charged Tamed Snow Tiger Soul Stone" />
-  <keys type="" key="IN_MA_04_0083_0000" value="Ferocious Grizzly Soul Stone" />
-  <keys type="" key="IN_MA_04_0083_5000" value="Charged Ferocious Grizzly Soul Stone" />
-  <keys type="" key="IN_MA_04_0083_0001" value="Giant Uru Soul Stone" />
-  <keys type="" key="IN_MA_04_0083_5001" value="Charged Giant Uru Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_0005" value="Tarantula Soul Stone" />
-  <keys type="" key="IN_MA_03_0676_5005" value="Charged Tarantula Soul Stone" />
-  <keys type="" key="IN_MA_02_0245_0000" value="Shadow Panther Soul Stone" />
-  <keys type="" key="IN_MA_02_0245_5000" value="Charged Shadow Panther Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_0010" value="Angular Antler Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0671_5010" value="Charged Angular Antler Reindeer Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_0007" value="Bison Soul Stone" />
-  <keys type="" key="IN_MA_03_0672_5007" value="Charged Bison Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_0006" value="Black Wings Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_5006" value="Charged Black Wings Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_0007" value="Green Shock Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_5007" value="Charged Green Shock Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_0008" value="Green Shock Soul Stone" />
-  <keys type="" key="IN_MA_03_0704_5008" value="Charged Green Shock Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_0005" value="Ignis Hound Soul Stone" />
-  <keys type="" key="IN_MA_03_0245_5005" value="Charged Ignis Hound Soul Stone" />
-  <keys type="" key="IN_MA_03_1715_0001" value="Dark Magic Dragon Fantakrewell Soul Stone" />
-  <keys type="" key="IN_MA_03_1715_5001" value="Charged Dark Magic Dragon Fantakrewell Soul Stone" />
-  <keys type="" key="IN_CM_0_0030" value="Affinity Stone: Fire I" />
-  <keys type="" key="IN_CM_0_0031" value="Affinity Stone: Ice I" />
-  <keys type="" key="IN_CM_0_0032" value="Affinity Stone: Light I" />
-  <keys type="" key="IN_CM_0_0033" value="Affinity Stone: Dark I" />
-  <keys type="" key="IN_VLC_0_0002" value="Treasure Chest" />
-  <keys type="" key="IN_HK_0_0031" value="Sun Stone" />
-  <keys type="" key="IN_HK_0_0032" value="Fire Stone" />
-  <keys type="" key="IN_VLC_0_0003" value="Steel Bar" />
-  <keys type="" key="IN_VLC_0_0004" value="Wooden Prison" />
-  <keys type="" key="in_f01_1_0021" value="Worn Weapon Box" />
-  <keys type="" key="IN_HK_0_0033" value="Warding Stone" />
-  <keys type="" key="IN_FR_0_0014" value="Magic Stone" />
-  <keys type="" key="IN_CM_0_0034" value="Affinity Magic Stone: Fire II" />
-  <keys type="" key="IN_CM_0_0035" value="Affinity Magic Stone: Chill II" />
-  <keys type="" key="IN_CM_0_0036" value="Affinity Magic Stone: Light II" />
-  <keys type="" key="IN_CM_0_0037" value="Affinity Magic Stone: Dark II" />
-  <keys type="" key="IN_CM_0_0038" value="Affinity Magic Stone: Fire III" />
-  <keys type="" key="IN_CM_0_0039" value="Affinity Magic Stone: Chill III" />
-  <keys type="" key="IN_CM_0_0040" value="Affinity Magic Stone: Light III" />
-  <keys type="" key="IN_CM_0_0041" value="Affinity Magic Stone: Dark III" />
-  <keys type="" key="IN_CM_0_0042" value="Affinity Magic Stone: Fire IV" />
-  <keys type="" key="IN_CM_0_0043" value="Affinity Magic Stone: Chill IV" />
-  <keys type="" key="IN_CM_0_0044" value="Affinity Magic Stone: Light IV" />
-  <keys type="" key="IN_CM_0_0045" value="Affinity Magic Stone: Dark IV" />
-  <keys type="" key="IN_CM_0_0046" value="Affinity Magic Stone: Fire V" />
-  <keys type="" key="IN_CM_0_0047" value="Affinity Magic Stone: Chill V" />
-  <keys type="" key="IN_CM_0_0048" value="Affinity Magic Stone: Light V" />
-  <keys type="" key="IN_CM_0_0049" value="Affinity Magic Stone: Dark V" />
-  <keys type="" key="IN_CM_0_0050" value="Complex Affinity Magic Stone: Fire I" />
-  <keys type="" key="IN_CM_0_0051" value="Complex Affinity Magic Stone: Chill I" />
-  <keys type="" key="IN_CM_0_0052" value="Complex Affinity Magic Stone: Light I" />
-  <keys type="" key="IN_CM_0_0053" value="Complex Affinity Magic Stone: Dark I" />
-  <keys type="" key="IN_CM_0_0054" value="Complex Affinity Magic Stone: Fire II" />
-  <keys type="" key="IN_CM_0_0055" value="Complex Affinity Magic Stone: Chill II" />
-  <keys type="" key="IN_CM_0_0056" value="Complex Affinity Magic Stone: Light II" />
-  <keys type="" key="IN_CM_0_0057" value="Complex Affinity Magic Stone: Dark II" />
-  <keys type="" key="IN_CM_0_0058" value="Complex Affinity Magic Stone: Fire III" />
-  <keys type="" key="IN_CM_0_0059" value="Complex Affinity Magic Stone: Chill III" />
-  <keys type="" key="IN_CM_0_0060" value="Complex Affinity Magic Stone: Light III" />
-  <keys type="" key="IN_CM_0_0061" value="Complex Affinity Magic Stone: Dark III" />
-  <keys type="" key="IN_CM_0_0062" value="Complex Affinity Magic Stone: Fire IV" />
-  <keys type="" key="IN_CM_0_0063" value="Complex Affinity Magic Stone: Chill IV" />
-  <keys type="" key="IN_CM_0_0064" value="Complex Affinity Magic Stone: Light IV" />
-  <keys type="" key="IN_CM_0_0065" value="Complex Affinity Magic Stone: Dark IV" />
-  <keys type="" key="IN_CM_0_0066" value="Complex Affinity Magic Stone: Fire V" />
-  <keys type="" key="IN_CM_0_0067" value="Complex Affinity Magic Stone: Chill V" />
-  <keys type="" key="IN_CM_0_0068" value="Complex Affinity Magic Stone: Light V" />
-  <keys type="" key="IN_CM_0_0069" value="Complex Affinity Magic Stone: Dark V" />
-  <keys type="" key="IN_RDC_0_0014" value="Magic Supply Device" />
-  <keys type="" key="IN_KLM_0_0002" value="Banquet Hall" />
-  <keys type="" key="IN_VLC_0_0005" value="Water Gate Switch" />
-  <keys type="" key="IN_FR_0_0015" value="Fire Bowl" />
-  <keys type="" key="IN_HK_0_0034" value="Dried Meat" />
-  <keys type="" key="IN_VLC_0_0006" value="Steel Bar" />
-  <keys type="" key="IN_VLC_0_0007" value="Steel Bar" />
-  <keys type="" key="IN_VLC_0_0008" value="Water Blocking Gate" />
-  <keys type="" key="IN_VLC_0_0009" value="Water Blocking Gate" />
-  <keys type="" key="IN_RDC_0_0015" value="Princess's Personal Belongings Box" />
-  <keys type="" key="IN_ST_0_0040" value="Injured Mercenary" />
-  <keys type="" key="IN_VLC_0_0010" value="Wooden Prison" />
-  <keys type="" key="IN_ST_0_0041" value="Seaweed" />
-  <keys type="" key="IN_VLC_0_0011" value="Weapon Stand" />
-  <keys type="" key="IN_KLM_0_0003" value="Manor Library" />
-  <keys type="" key="in_cm_5_0001" value="Victory Shrine" />
-  <keys type="" key="IN_F02_5_0001" value="Treasure Chest" />
-  <keys type="" key="IN_F02_5_0002" value="Soul Sphere" />
-  <keys type="" key="IN_F02_5_0003" value="Deathstone" />
-  <keys type="" key="IN_F02_5_0004" value="Flat Stone" />
-  <keys type="" key="IN_d02_0_0016" value="Thorny Ice Wall" />
-  <keys type="" key="IN_HK_0_0035" value="Barricade" />
-  <keys type="" key="IN_HK_0_0036" value="Watchtower" />
-  <keys type="" key="IN_HK_0_0037" value="Corrupted Warding Stone" />
-  <keys type="" key="IN_HK_0_0038" value="Ruinous Meat" />
-  <keys type="" key="IN_HK_0_0039" value="Wagon" />
-  <keys type="" key="IN_SP_1_0025" value="Iron Gate" />
-  <keys type="" key="IN_SP_1_0026" value="Iron Gate" />
-  <keys type="" key="IN_F02_G_0_0001" value="Wooden Prison" />
-  <keys type="" key="IN_F02_G_0_0002" value="Wooden Prison" />
-  <keys type="" key="IN_F02_G_0_0003" value="Frozen Lion Gate" />
-  <keys type="" key="IN_F02_G_0_0004" value="Bismuth's Booze Barrel" />
-  <keys type="" key="IN_SP_1_0027" value="Thick Iron Gate (Familiar Room)" />
-  <keys type="" key="IN_F02_G_0_0005" value="Dummy Arrow" />
-  <keys type="" key="IN_F02_G_0_0006" value="Dummy Arrow" />
-  <keys type="" key="IN_SF_1_0099" value="Test Looting Box" />
-  <keys type="" key="IN_SF_0_0001" value="Khabim Barrier" />
-  <keys type="" key="IN_SF_0_0002" value="Ancient Gateway" />
-  <keys type="" key="IN_cm_Prin_000" value="Princess's Wagon" />
-  <keys type="" key="IN_F04_0_0001" value="Torch of Faith" />
-  <keys type="" key="IN_F04_0_0002" value="Destroyed Light Spring" />
-  <keys type="" key="IN_F04_0_0003" value="Zelnaris Amplifier" />
-  <keys type="" key="IN_F04_0_0004" value="Jumawu Egg" />
-  <keys type="" key="IN_F04_0_0005" value="Unknown Sword" />
-  <keys type="" key="IN_SF_0_0004" value="Raged Wild Boar" />
-  <keys type="" key="IN_F04_0_0006" value="Ellora's Energy" />
-  <keys type="" key="IN_F04_0_0007" value="Ellora's Energy" />
-  <keys type="" key="IN_F04_0_0008" value="Flotier Egg" />
-  <keys type="" key="IN_F04_0_0009" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0010" value="Fallen Angel Statue" />
-  <keys type="" key="IN_F04_0_0011" value="Euvitz Box" />
-  <keys type="" key="IN_F04_0_0012" value="Flotier Egg" />
-  <keys type="" key="IN_F04_0_0013" value="Flotier Egg" />
-  <keys type="" key="IN_F04_0_0014" value="Flotier Egg" />
-  <keys type="" key="IN_F04_0_0015" value="Flotier Egg" />
-  <keys type="" key="IN_F04_0_0016" value="Flotier Egg" />
-  <keys type="" key="IN_F04_0_0017" value="Flotier Egg" />
-  <keys type="" key="IN_F04_0_0018" value="Flotier Egg" />
-  <keys type="" key="in_cm_0_0070" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0071" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0072" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0073" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0074" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0075" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0076" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0077" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0078" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0079" value="Native Grasses" />
-  <keys type="" key="in_cm_0_0080" value="Native Grasses" />
-  <keys type="" key="IN_F04_0_0019" value="Shining Floating Ore" />
-  <keys type="" key="IN_F04_0_0020" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0021" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0022" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0023" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0024" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0025" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0026" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0027" value="Exarahnian Relic" />
-  <keys type="" key="IN_SF_0_0007" value="Ancient Hammer" />
-  <keys type="" key="IN_F04_0_0028" value="Divine Altar" />
-  <keys type="" key="IN_F03_0_0001" value="Fish Net" />
-  <keys type="" key="IN_F03_0_0002" value="Water Mirror Shard" />
-  <keys type="" key="IN_F03_0_0003" value="Rising Water Mirror Shard" />
-  <keys type="" key="IN_F03_0_0004" value="Singing Water Mirror Shard" />
-  <keys type="" key="IN_F03_0_0005" value="Healing Water Mirror Shard" />
-  <keys type="" key="IN_F03_0_0006" value="Sleeping Water Mirror Shard" />
-  <keys type="" key="IN_F03_0_0007" value="Speaking Chalice" />
-  <keys type="" key="IN_F03_0_0008" value="Crane" />
-  <keys type="" key="IN_F03_0_0009" value="Ship that's in Crafting" />
-  <keys type="" key="IN_F03_0_0010" value="Completed Ship" />
-  <keys type="" key="IN_F03_0_0011" value="Three-shot Ballista" />
-  <keys type="" key="IN_F03_0_0012" value="Wagon" />
-  <keys type="" key="IN_F03_0_0013" value="Windmill" />
-  <keys type="" key="IN_F03_0_0014" value="Giant Conch" />
-  <keys type="" key="IN_F03_0_0015" value="Marlin" />
-  <keys type="" key="IN_F03_0_0016" value="Watchtower" />
-  <keys type="" key="IN_F03_0_0017" value="Firewood" />
-  <keys type="" key="IN_F03_0_0018" value="Cannon" />
-  <keys type="" key="IN_F03_0_0019" value="Cannonball" />
-  <keys type="" key="IN_F03_0_0020" value="Sacred Water Mask" />
-  <keys type="" key="IN_F03_0_0021" value="Sacred Water Mask" />
-  <keys type="" key="IN_F03_0_0022" value="Crokhoon Statue" />
-  <keys type="" key="IN_F03_0_0023" value="Tainted Herb" />
-  <keys type="" key="IN_F03_0_0024" value="Southern Sun Tower Focus" />
-  <keys type="" key="IN_F03_0_0025" value="Aqua Oreum Stone" />
-  <keys type="" key="IN_F03_0_0026" value="Tool Stand" />
-  <keys type="" key="IN_F03_0_0027" value="Crokhoon Torch" />
-  <keys type="" key="IN_F03_0_0028" value="Snow Flower Tree" />
-  <keys type="" key="IN_F03_0_0029" value="Glowing Tree" />
-  <keys type="" key="IN_F03_0_0030" value="Frozen Sentry" />
-  <keys type="" key="IN_F03_0_0031" value="Frozen Bowman" />
-  <keys type="" key="IN_F03_0_0032" value="Water Blocking Gate" />
-  <keys type="" key="IN_HK_0_0040" value="Grudging Tombstone" />
-  <keys type="" key="IN_F03_0_0033" value="Starving Skirmisher" />
-  <keys type="" key="IN_F03_0_0034" value="Broken Stockade" />
-  <keys type="" key="IN_C01_0_0001" value="Lost Tome" />
-  <keys type="" key="IN_C01_0_0002" value="Ancient Tome" />
-  <keys type="" key="IN_C01_0_0003" value="Hidden Tome" />
-  <keys type="" key="IN_C01_0_0004" value="Forbidden Tome" />
-  <keys type="" key="IN_C01_0_0005" value="Warding Crystal" />
-  <keys type="" key="IN_C01_0_0006" value="Khabim Altar" />
-  <keys type="" key="IN_C01_0_0007" value="Guardian Dragon Summoning Orb" />
-  <keys type="" key="IN_C01_0_0008" value="Soul Sphere" />
-  <keys type="" key="IN_C01_0_0009" value="Red Guardian Circle" />
-  <keys type="" key="IN_C01_0_0010" value="Blue Guardian Circle" />
-  <keys type="" key="IN_C01_0_0011" value="Yellow Guardian Circle" />
-  <keys type="" key="IN_C01_0_0012" value="Green Guardian Circle" />
-  <keys type="" key="IN_C01_0_0013" value="Tritael Document" />
-  <keys type="" key="IN_RDC_0_0016" value="Berserker Summoning Device" />
-  <keys type="" key="IN_RDC_0_0017" value="Berserker Summoning Device" />
-  <keys type="" key="IN_HK_0_0041" value="Glowing Moss" />
-  <keys type="" key="IN_HK_0_0042" value="Blood Magic Seal" />
-  <keys type="" key="IN_HK_0_0043" value="Tool Box" />
-  <keys type="" key="IN_HK_0_0044" value="Sweetgum Leaf" />
-  <keys type="" key="IN_F03_0_0035" value="Town Center" />
-  <keys type="" key="IN_F03_0_0036" value="White Silver" />
-  <keys type="" key="IN_F03_0_0037" value="Crokhoon Crane" />
-  <keys type="" key="IN_F03_0_0038" value="Three-shot Ballista" />
-  <keys type="" key="IN_F03_0_0039" value="Arrowhead Spear" />
-  <keys type="" key="IN_F03_0_0040" value="Merumi Prisoner" />
-  <keys type="" key="IN_F03_0_0041" value="Frostbitten Crokhoon" />
-  <keys type="" key="IN_F03_0_0042" value="Mermaid Music Sheet I" />
-  <keys type="" key="IN_F03_0_0043" value="Mermaid Music Sheet II" />
-  <keys type="" key="IN_F03_0_0044" value="Mermaid Music Sheet III" />
-  <keys type="" key="IN_F03_0_0045" value="Ice Nest" />
-  <keys type="" key="IN_F03_0_0046" value="Ice Tree" />
-  <keys type="" key="IN_F03_0_0047" value="Disguised Explosive Box" />
-  <keys type="" key="IN_F03_0_0048" value="Pirate Captain's Treasure Chest" />
-  <keys type="" key="IN_F03_0_0049" value="Explosive Bundle" />
-  <keys type="" key="IN_F03_0_0050" value="Eastern Sun Tower Focus" />
-  <keys type="" key="IN_F03_0_0051" value="Western Sun Tower Focus" />
-  <keys type="" key="IN_F03_0_0052" value="Wooden Prison" />
-  <keys type="" key="IN_F03_0_0053" value="Secret Circlet Box" />
-  <keys type="" key="IN_F03_0_0054" value="Secret Staff Box" />
-  <keys type="" key="IN_F03_0_0055" value="Secret Robe Chest" />
-  <keys type="" key="IN_HK_0_0045" value="Forlorn Headstone" />
-  <keys type="" key="IN_HK_0_0046" value="Khabim Obelisk" />
-  <keys type="" key="IN_HK_0_0047" value="DeGrasse's Corpse" />
-  <keys type="" key="IN_HK_0_0048" value="Conspicuous Chest" />
-  <keys type="" key="IN_HK_0_0049" value="Khabimist Ritual Circle" />
-  <keys type="" key="IN_HK_0_0050" value="Document Chest" />
-  <keys type="" key="IN_HK_0_0051" value="Fish Trap" />
-  <keys type="" key="IN_HK_0_0052" value="Pumpkin" />
-  <keys type="" key="IN_HK_0_0053" value="Strange Tombstone" />
-  <keys type="" key="IN_HK_0_0054" value="Blood Magic Seal" />
-  <keys type="" key="IN_HK_0_0055" value="Broken Lamp" />
-  <keys type="" key="IN_HK_0_0056" value="Tool Box" />
-  <keys type="" key="IN_HK_0_0057" value="Stolen Goods" />
-  <keys type="" key="IN_HK_0_0058" value="Ruin Stone" />
-  <keys type="" key="IN_HK_0_0059" value="Draconic Sealing Circle" />
-  <keys type="" key="IN_HK_0_0060" value="Ward Fragment" />
-  <keys type="" key="IN_HK_0_0065" value="Plague Corpse" />
-  <keys type="" key="IN_f02_magic_orb_01" value="Soul Sphere" />
-  <keys type="" key="IN_CM_0_0200" value="Exarium" />
-  <keys type="" key="IN_KLM_0_0004" value="Manor Left Interior Gate" />
-  <keys type="" key="IN_KLM_0_0005" value="Manor Right Interior Gate" />
-  <keys type="" key="IN_HK_0_0061" value="Kellsroot" />
-  <keys type="" key="IN_D00_0_0001" value="Spark" />
-  <keys type="" key="IN_HK_0_0062" value="Garlic" />
-  <keys type="" key="IN_HK_0_0063" value="Jedury's Treasure" />
-  <keys type="" key="IN_KLM_0_0006" value="Manor Door" />
-  <keys type="" key="IN_F02_0_0052" value="Wooden Prison" />
-  <keys type="" key="IN_F03_0_0065" value="Tree" />
-  <keys type="" key="IN_C01_1_0001" value="Steel Bars" />
-  <keys type="" key="IN_C01_1_0002" value="Iron Gate" />
-  <keys type="" key="IN_P01_0_0001" value="Wooden Prison" />
-  <keys type="" key="IN_P01_0_0002" value="Corpse Skeleton" />
-  <keys type="" key="IN_P01_0_0003" value="Guardian Stone" />
-  <keys type="" key="IN_P01_0_0004" value="Contaminated Exarium" />
-  <keys type="" key="IN_F09_0_0001" value="Skan Bomb" />
-  <keys type="" key="IN_F09_0_0002" value="Skan Raider Cannon" />
-  <keys type="" key="IN_F09_0_0003" value="Opalium" />
-  <keys type="" key="IN_F09_0_0004" value="Mazu'rahn's Lockbox" />
-  <keys type="" key="IN_F09_0_0005" value="Mazu'rahn's Crate" />
-  <keys type="" key="IN_F09_0_0006" value="Mazu'rahn's Satchel" />
-  <keys type="" key="IN_F09_0_0007" value="Stunted Carrot" />
-  <keys type="" key="IN_F09_0_0008" value="Stunted Watermelon" />
-  <keys type="" key="IN_F09_0_0009" value="Tainted Vegetable" />
-  <keys type="" key="IN_F09_0_0010" value="Skan Munitions" />
-  <keys type="" key="IN_F09_0_0011" value="Lania's Crystal Ball" />
-  <keys type="" key="IN_F09_0_0012" value="Ballista" />
-  <keys type="" key="IN_F09_0_0013" value="Ellora's Essence" />
-  <keys type="" key="IN_P01_0_0005" value="Relic Box" />
-  <keys type="" key="IN_D3_0_0027" value="Frost Sprout" />
-  <keys type="" key="IN_F03_0_0066" value="Snow Covered Wooden Box" />
-  <keys type="" key="IN_F03_0_0067" value="Snow Covered Container" />
-  <keys type="" key="IN_F03_0_0068" value="Frozen Steel Bar Door" />
-  <keys type="" key="IN_F09_0_0014" value="Panicking Hostage" />
-  <keys type="" key="IN_F09_0_0015" value="Injured Hostage" />
-  <keys type="" key="IN_F09_0_0016" value="Damaged Crate" />
-  <keys type="" key="IN_f03_Funit_001" value="Ambient Pyrolizer" />
-  <keys type="" key="IN_f03_IceObject_001" value="Ice Totem Core" />
-  <keys type="" key="IN_f03_Malachite_001" value="Crokhoon Crane" />
-  <keys type="" key="IN_P01_0_0006" value="Fatigued Mercenary" />
-  <keys type="" key="IN_F03_0_0069" value="Frozen Steel Bar Door" />
-  <keys type="" key="IN_P01_0_0007" value="Pile of Soil" />
-  <keys type="" key="IN_P01_0_0008" value="Spiderweb" />
-  <keys type="" key="IN_P01_0_0009" value="Strange-Smelling Box" />
-  <keys type="" key="IN_P01_0_0010" value="Liquor-Smelling Box" />
-  <keys type="" key="IN_P01_0_0011" value="Grave" />
-  <keys type="" key="IN_P01_0_0012" value="Bloody Reading Desk" />
-  <keys type="" key="IN_P01_0_0013" value="Worn Book" />
-  <keys type="" key="IN_P01_0_0014" value="Smelly Book" />
-  <keys type="" key="IN_P01_0_0015" value="Picture Book" />
-  <keys type="" key="IN_P01_0_0016" value="Corpse Grass" />
-  <keys type="" key="IN_P01_0_0017" value="Old Grain Sack" />
-  <keys type="" key="IN_P01_0_0018" value="Mysterious Egg" />
-  <keys type="" key="IN_P01_0_0019" value="Leftover Meat" />
-  <keys type="" key="IN_F09_0_0019" value="Tower of Goddess Ellora" />
-  <keys type="" key="IN_F02_0_0034" value="Scalleda Egg" />
-  <keys type="" key="IN_PK_02_silver_001" value="White Silver Ore" />
-  <keys type="" key="IN_PK_02_silver_002" value="White Silver Vein" />
-  <keys type="" key="IN_PK_02_dish_001" value="Frost Plate" />
-  <keys type="" key="IN_PK_02_pot_001" value="Pot" />
-  <keys type="" key="IN_PK_02_Box_001" value="Parts Box" />
-  <keys type="" key="IN_f01_0_0054" value="Maleficent Seal" />
-  <keys type="" key="IN_f01_Skull_001" value="Mangled Corpse" />
-  <keys type="" key="IN_f01_Barrel_001" value="Braghin Grub" />
-  <keys type="" key="IN_f01_BraGlass_01" value="Brakarr Herb" />
-  <keys type="" key="IN_F03_barrel_001" value="Grog Barrel" />
-  <keys type="" key="IN_F03_Grain_002" value="Stolen Belongings" />
-  <keys type="" key="IN_F03_magic_001" value="Ruinous Altar" />
-  <keys type="" key="IN_F03_Grass_002" value="Baby's Breath" />
-  <keys type="" key="IN_F02_Magic_001" value="Greenstone" />
-  <keys type="" key="IN_F02_Grass_001" value="Fire Flower" />
-  <keys type="" key="IN_F02_Burn_001" value="Scorched Remains" />
-  <keys type="" key="IN_F02_tomb_001" value="Graveyard" />
-  <keys type="" key="IN_F02_poo_001" value="Firebeak Dung" />
-  <keys type="" key="IN_C01_nest_001" value="Red Dragon Nest" />
-  <keys type="" key="IN_C01_box_001" value="Lighthouse Keeper's Crate" />
-  <keys type="" key="IN_F04_0_0029" value="Fallen Debris" />
-  <keys type="" key="IN_F04_0_0030" value="Torch of Justice" />
-  <keys type="" key="IN_F04_0_0031" value="Torch of Truth" />
-  <keys type="" key="IN_F04_0_0032" value="Torch of Faith" />
-  <keys type="" key="IN_F04_0_0033" value="Hidden Treasure" />
-  <keys type="" key="IN_F04_0_0034" value="Pegasus Knight Report" />
-  <keys type="" key="IN_F04_0_0035" value="Dead Pegasus Knights" />
-  <keys type="" key="IN_F04_0_0036" value="Frozen Bowman" />
-  <keys type="" key="IN_F04_0_0037" value="Isolated Supply Unit Member" />
-  <keys type="" key="IN_F04_0_0038" value="Shieldbreaker Sigil" />
-  <keys type="" key="IN_F04_0_0039" value="Angel of Truth Statue" />
-  <keys type="" key="IN_F04_0_0040" value="Angel of Justice Statue" />
-  <keys type="" key="IN_F04_0_0041" value="Angel of Courage Statue" />
-  <keys type="" key="IN_F04_0_0042" value="Ancient Coffin" />
-  <keys type="" key="IN_F04_0_0043" value="Tritael Sheet Music" />
-  <keys type="" key="IN_F04_0_0044" value="Ancient Document" />
-  <keys type="" key="IN_f04_lever_001" value="Dimensional Lodestar" />
-  <keys type="" key="IN_F04_Oflyium_001" value="Trium" />
-  <keys type="" key="IN_f04_at_Stone_001" value="Teleo's Boon" />
-  <keys type="" key="IN_f04_mt_Stone_001" value="Parna's Boon" />
-  <keys type="" key="IN_f04_Dt_Stone_001" value="Nerhes's Boon" />
-  <keys type="" key="IN_P01_wagon_001" value="Supply Wagon" />
-  <keys type="" key="IN_P01_meal_001" value="Supply Food Burlap Bag" />
-  <keys type="" key="IN_P01_body_001" value="Ferrell's Dead Body" />
-  <keys type="" key="IN_P01_body_002" value="Spree's Dead Body" />
-  <keys type="" key="IN_P01_tree_001" value="Glowing Tree Seedling" />
-  <keys type="" key="IN_KLM_0_0007" value="Manor Door" />
-  <keys type="" key="IN_KLM_0_0008" value="Banquet Hall" />
-  <keys type="" key="IN_KLM_0_0009" value="Manor Library" />
-  <keys type="" key="IN_F99_JailControl" value="Prison Gate Device" />
-  <keys type="" key="IN_F15_Switch_01" value="Devildom Torch" />
-  <keys type="" key="IN_C01_magic_1" value="Spacetime Distortion Device" />
-  <keys type="" key="IN_f04_CM_001" value="Turalium" />
-  <keys type="" key="IN_f04_CM_002" value="Turalium" />
-  <keys type="" key="IN_f04_CM_003" value="Sapphire" />
-  <keys type="" key="IN_f04_CM_004" value="Sapphire" />
-  <keys type="" key="IN_f04_CM_005" value="Koor Root" />
-  <keys type="" key="IN_f01_magic_orb_001" value="Chaos Magic Former" />
-  <keys type="" key="IN_F02_Holy_Egg_002" value="Soul Sphere" />
-  <keys type="" key="IN_d22_Magnetic_01" value="Magnetic Field Between the Gap" />
-  <keys type="" key="IN_d22_StoneWall_01" value="Sturdy Blue Stone Defense Wall" />
-  <keys type="" key="IN_d22_StoneBott_01" value="Sturdy Blue Stepping Stone" />
-  <keys type="" key="IN_d22_WarpPortal_01" value="Teleportation Portal" />
-  <keys type="" key="IN_d22_StoneBott_02" value="Sturdy Giant Blue Stepping Stone" />
-  <keys type="" key="IN_d22_GoldBox_01" value="Izuhora's Treasure Chest" />
-  <keys type="" key="IN_F04_SoulPlants" value="Soul Herb" />
-  <keys type="" key="IN_F04_Cursedstone" value="Cursed Stone" />
-  <keys type="" key="in_klm_0_0010" value="Gustav's Cooking Lab" />
-  <keys type="" key="in_klm_0_0012" value="Rantoh's Center Gate" />
-  <keys type="" key="in_klm_0_0011" value="LeBrand's Library" />
-  <keys type="" key="in_klm_0_0013" value="Carleon's Office" />
-  <keys type="" key="IN_p01_darkore" value="Giant Exarium" />
-  <keys type="" key="IN_f05_1_0001" value="Altar of Fire" />
-  <keys type="" key="IN_f05_1_0002" value="Mysterious Footprints" />
-  <keys type="" key="IN_f05_1_0003" value="Challenger's Flightpath Statue" />
-  <keys type="" key="IN_f05_1_0004" value="Air Route Statue Head" />
-  <keys type="" key="IN_f05_1_0005" value="Broken Trap" />
-  <keys type="" key="IN_f05_1_0006" value="Gold Ore Wagon" />
-  <keys type="" key="IN_f05_1_0007" value="Mercenary Tent" />
-  <keys type="" key="IN_f05_1_0008" value="Oreum Ore" />
-  <keys type="" key="IN_f05_1_0009" value="Communication Horn" />
-  <keys type="" key="IN_f05_1_0010" value="Fallen Legion Magic Circle" />
-  <keys type="" key="IN_f05_1_0011" value="Small Cauldron" />
-  <keys type="" key="IN_f05_1_0012" value="Naia's Cooking Tool" />
-  <keys type="" key="IN_f05_1_0013" value="Treasure Chest Buried In Sand" />
-  <keys type="" key="IN_f05_1_0014" value="Deadly Poison Jar" />
-  <keys type="" key="IN_f05_1_0015" value="Soul Embers" />
-  <keys type="" key="IN_f05_1_0016" value="Old Flame Dish" />
-  <keys type="" key="IN_f05_1_0017" value="Claudel's Posthumous Work" />
-  <keys type="" key="IN_f05_1_0018" value="Stone Needed For Sculpting" />
-  <keys type="" key="IN_f05_1_0019" value="Lost Treasure I" />
-  <keys type="" key="IN_f05_1_0020" value="Lost Treasure II" />
-  <keys type="" key="IN_f05_1_0021" value="Lost Treasure III" />
-  <keys type="" key="IN_f05_1_0022" value="Ancient Familiar Bone" />
-  <keys type="" key="IN_f05_1_0023" value="Yusei's Skull" />
-  <keys type="" key="IN_f05_1_0024" value="Sheep's Dead Body" />
-  <keys type="" key="IN_f05_1_0025" value="Deer's Dead Body" />
-  <keys type="" key="IN_f05_1_0026" value="Firewood" />
-  <keys type="" key="IN_f05_1_0027" value="Column of Fire" />
-  <keys type="" key="IN_f05_1_0028" value="Column of Water" />
-  <keys type="" key="IN_f05_1_0029" value="Column of Winds" />
-  <keys type="" key="IN_f05_1_0030" value="Column of Earth" />
-  <keys type="" key="IN_f05_1_0031" value="Lania's Orb" />
-  <keys type="" key="IN_f05_1_0032" value="Chimer's Staff" />
-  <keys type="" key="IN_f05_1_0033" value="Fallen Legion Barrier" />
-  <keys type="" key="IN_f05_1_0034" value="Trap" />
-  <keys type="" key="IN_f05_1_0035" value="Weak Outer Wall" />
-  <keys type="" key="IN_f05_1_0036" value="Wagon Used For Construction" />
-  <keys type="" key="IN_f05_1_0037" value="Mercenary Tent" />
-  <keys type="" key="IN_f05_1_0038" value="Mining Equipment" />
-  <keys type="" key="IN_f05_1_0039" value="Beast Cage" />
-  <keys type="" key="IN_f05_1_0040" value="Nature Destruction Equipment" />
-  <keys type="" key="IN_f05_1_0041" value="Oreum Ore Wagon" />
-  <keys type="" key="IN_f05_1_0042" value="Griffon Egg" />
-  <keys type="" key="IN_f05_1_0043" value="Watchtower" />
-  <keys type="" key="IN_f05_1_0044" value="Machinery" />
-  <keys type="" key="IN_f05_1_0045" value="Anti-aircraft Facilities" />
-  <keys type="" key="IN_f05_1_0046" value="Cliff" />
-  <keys type="" key="IN_f05_1_0047" value="Bald Eagle Nest" />
-  <keys type="" key="IN_f05_1_0048" value="Pile of Flour" />
-  <keys type="" key="IN_f05_1_0049" value="Bat Nest" />
-  <keys type="" key="IN_f05_1_0050" value="Well" />
-  <keys type="" key="IN_f05_1_0051" value="Rail" />
-  <keys type="" key="IN_f05_1_0052" value="Crokhoon Supplies" />
-  <keys type="" key="IN_f05_1_0053" value="Gargoyle Nest" />
-  <keys type="" key="IN_D03_Door_L" value="Giant Stone Gate" />
-  <keys type="" key="IN_D13_Door_S" value="Stone Gate" />
-  <keys type="" key="IN_D13_Open" value="Stone Gate Switchgear" />
-  <keys type="" key="IN_D13_Treasure" value="Offering Box" />
-  <keys type="" key="IN_D13_Fence" value="Fence" />
-  <keys type="" key="IN_D13_Tower" value="Barrier Stone" />
-  <keys type="" key="IN_D13_Tablet" value="Skatrasha's Slate" />
-  <keys type="" key="IN_f05_1_0054" value="Onyx Order Messenger Raven" />
-  <keys type="" key="IN_f05_1_0055" value="Maharmu's Box" />
-  <keys type="" key="IN_f05_sickman_1" value="Dehydrated Resident" />
-  <keys type="" key="IN_f05_sickman_2" value="Dehydrated Resident" />
-  <keys type="" key="IN_f05_oresky" value="Oreum Shard" />
-  <keys type="" key="IN_f05_mabox" value="Material Box" />
-  <keys type="" key="IN_f05_worker" value="Resting Construction Worker" />
-  <keys type="" key="IN_f05_weapon" value="Mercenary Weapon Storage" />
-  <keys type="" key="IN_f05_tool" value="Mercenary Equipment Stand" />
-  <keys type="" key="IN_f05_deadbody" value="Investigation Team Member's Rotten Body" />
-  <keys type="" key="IN_f05_crane_1" value="Transport Route Mini Crane" />
-  <keys type="" key="IN_f05_wagon_1" value="Stack of Luggage" />
-  <keys type="" key="IN_f05_dressbox" value="Abandoned Clothing Box" />
-  <keys type="" key="IN_f05_toybox" value="Abandoned Toy Box" />
-  <keys type="" key="IN_f05_exbox" value="Abandoned General Goods Box" />
-  <keys type="" key="IN_f05_elemental" value="Spirit Summoning Rock" />
-  <keys type="" key="IN_D13_Door_A" value="Way of Pilgrims" />
-  <keys type="" key="IN_D13_Door_B" value="Way of Students" />
-  <keys type="" key="IN_f05_diary" value="Abandoned Diary" />
-  <keys type="" key="IN_p01_ExariumBox" value="Exarahn Treasure Chest" />
-  <keys type="" key="IN_D13_Tablet_1" value="Skatrasha's Slate" />
-  <keys type="" key="IN_D13_Tablet_2" value="Skatrasha's Slate" />
-  <keys type="" key="IN_D13_Tablet_3" value="Skatrasha's Slate" />
-  <keys type="" key="IN_D13_Tablet_4" value="Skatrasha's Slate" />
-  <keys type="" key="IN_F05_namelessPlant" value="Nameless Plant" />
-  <keys type="" key="IN_D06_DoorCon_1" value="Mysterious Lever" />
-  <keys type="" key="IN_D06_DoorCon_2" value="Mysterious Lever" />
-  <keys type="" key="IN_D06_UpperDoor_1" value="Iron Gate" />
-  <keys type="" key="IN_D06_UnderLever_1" value="Power Hub Opening Device" />
-  <keys type="" key="IN_D06_UnderLever_2" value="Control Room Opening Device" />
-  <keys type="" key="IN_D06_UnderLever_3" value="Summon Room Opening Device" />
-  <keys type="" key="IN_D06_Underdoor_1" value="Iron Gate" />
-  <keys type="" key="IN_D06_Underdoor_2" value="Iron Gate" />
-  <keys type="" key="IN_D06_Underdoor_3" value="Iron Gate" />
-  <keys type="" key="IN_D06_EvilForce_1" value="Wall of Evil" />
-  <keys type="" key="IN_D06_EvilForce_2" value="Wall of Evil" />
-  <keys type="" key="IN_D06_Recharger_1" value="Magic Power Converting Device" />
-  <keys type="" key="IN_f05_1_0056" value="Desert Beehive" />
-  <keys type="" key="IN_f05_1_0057" value="Bragi Corpse" />
-  <keys type="" key="IN_f05_1_0058" value="Epidemic Spell Control Device" />
-  <keys type="" key="IN_f05_1_0059" value="Epidemic Spell Former" />
-  <keys type="" key="IN_f05_1_0060" value="Cut-off Human Arm" />
-  <keys type="" key="IN_f05_1_0061" value="Crockhoon's Dead Body" />
-  <keys type="" key="IN_f05_1_0062" value="Crockhoon's Beacon Fire" />
-  <keys type="" key="IN_f05_1_0063" value="Prison Camp" />
-  <keys type="" key="IN_f05_1_0064" value="Spiderweb" />
-  <keys type="" key="IN_f05_1_0065" value="Emerged Treasure Chest" />
-  <keys type="" key="IN_f05_1_0066" value="Abandoned Grave" />
-  <keys type="" key="IN_f05_1_0067" value="Shufferun's Corpse" />
-  <keys type="" key="IN_f05_1_0068" value="Dead Griffon" />
-  <keys type="" key="IN_f05_hermit_a" value="Hermit's Town Resident" />
-  <keys type="" key="IN_f05_hermit_b" value="Hermit's Town Resident" />
-  <keys type="" key="IN_f05_croweapon" value="Crokhoon Equipment Storage" />
-  <keys type="" key="IN_f05_1_0069" value="Rotten Corpse" />
-  <keys type="" key="IN_f05_closedkey_001" value="Barrier Disabling Key" />
-  <keys type="" key="IN_f05_bomb_001" value="Bomber" />
-  <keys type="" key="IN_F06_Alcohol_01" value="Shuma's Alcohol Barrier" />
-  <keys type="" key="IN_F06_Alcohol_02" value="Shuma's Alcohol Barrier" />
-  <keys type="" key="IN_f06_CryS_Yellow_01" value="Yellow Gem" />
-  <keys type="" key="IN_f06_CryS_Blue_01" value="Blue Gem" />
-  <keys type="" key="IN_f06_CryS_Green_01" value="Green Gem" />
-  <keys type="" key="IN_f06_CryS_Red_01" value="Red Gem" />
-  <keys type="" key="IN_D06_Reactor_1" value="Power Reactor" />
-  <keys type="" key="IN_f05_equip_001" value="Barrier Control Device" />
-  <keys type="" key="IN_f05_cutequip_01" value="Barrier Control Device" />
-  <keys type="" key="IN_D13_Treasure_H" value="Offering Box" />
-  <keys type="" key="IN_f05_bombbox" value="Desert Braghin Explosives Box" />
-  <keys type="" key="IN_f05_grass_01" value="Fog Grass" />
-  <keys type="" key="IN_f05_fire_01" value="Campfire" />
-  <keys type="" key="IN_f05_2_0040" value="Beast Cage" />
-  <keys type="" key="IN_P02_dbody_01" value="Dead Explorer" />
-  <keys type="" key="IN_P02_poisonjar_01" value="Epidemic Jar" />
-  <keys type="" key="IN_P02_flower_01" value="Hell Flower" />
-  <keys type="" key="IN_P02_essence_01" value="Hell Essence" />
-  <keys type="" key="IN_P02_trickbox_01" value="Trigg's Weapon Box" />
-  <keys type="" key="IN_P02_trickbox_02" value="Trigg's Weapon Box" />
-  <keys type="" key="IN_D04_Bersum_01" value="Berserker Summoning Device" />
-  <keys type="" key="IN_P02_Keroum" value="Kherim" />
-  <keys type="" key="IN_P02_SoulBead" value="Wandering Spirit" />
-  <keys type="" key="IN_d22_GoldBox_02" value="Izuhora's Weapon Box" />
-  <keys type="" key="IN_d22_GoldBox_03" value="Defense Wall Explosive Box" />
-  <keys type="" key="in_d08_1_0001" value="Demonic Stone Altar" />
-  <keys type="" key="in_d08_1_0002" value="Round Iron Gate" />
-  <keys type="" key="in_d08_1_0003" value="Nibble Rodheim's Barrier" />
-  <keys type="" key="in_d08_1_0004" value="Rectangular Iron Gate" />
-  <keys type="" key="in_d08_1_0005" value="Red Curtain" />
-  <keys type="" key="in_d08_1_0006" value="Coffin Where Chaos Sleeps" />
-  <keys type="" key="IN_f17_mush_1" value="Poisonous Mushroom" />
-  <keys type="" key="IN_f07_Flower_1" value="Marigold" />
-  <keys type="" key="IN_f07_lightstone_1" value="Light-infused Stone" />
-  <keys type="" key="IN_f07_twing_1" value="Pile of Twigs" />
-  <keys type="" key="IN_f07_broksword_1" value="Cursed Sword" />
-  <keys type="" key="IN_f07_elfbody_1" value="Elf of Light Corpse" />
-  <keys type="" key="IN_f07_chaocody_1" value="Choas Elf Corpse" />
-  <keys type="" key="IN_f07_elfbow_1" value="Elf of Light Crossbow" />
-  <keys type="" key="IN_f07_chaosbow_1" value="Choas Elf Crossbow" />
-  <keys type="" key="IN_f07_chaostent_1" value="Choas Elf Camp" />
-  <keys type="" key="IN_f07_creeper_1" value="Roots of the World Tree" />
-  <keys type="" key="IN_f07_curseslate_1" value="Cursed Slate" />
-  <keys type="" key="IN_f07_elfbox_1" value="Holy Stone Chest" />
-  <keys type="" key="IN_f07_soulflower_1" value="Soul Flower" />
-  <keys type="" key="IN_f07_chaosjail_1" value="Choas Elf Prison" />
-  <keys type="" key="IN_f17_landmine_1" value="Mine" />
-  <keys type="" key="IN_f07_udasneck_1" value="Judas Necklace" />
-  <keys type="" key="IN_f07_pottery_1" value="Cursed China" />
-  <keys type="" key="IN_f07_chaoscircle_1" value="Choas Elf Magic Circle" />
-  <keys type="" key="IN_f07_mortar_01" value="Sacred Mortar" />
-  <keys type="" key="IN_f07_crocegg_1" value="Giant Crocodile Egg" />
-  <keys type="" key="IN_f07_web_01" value="Jungle Spiderweb" />
-  <keys type="" key="IN_F07_turestone_1" value="Holy Stone of Truth" />
-  <keys type="" key="IN_F07_couragstone_1" value="Holy Stone of Courage" />
-  <keys type="" key="IN_F07_disermstone_1" value="Holy Stone of Insight" />
-  <keys type="" key="IN_F07_puriFire_1" value="Torch of Purification" />
-  <keys type="" key="IN_F07_jailperson_1" value="Captured Town Resident" />
-  <keys type="" key="IN_F07_sickperson_1" value="Poisoned Town Resident" />
-  <keys type="" key="in_d08_1_0007" value="Rectangular Iron Gate" />
-  <keys type="" key="in_d08_1_0008" value="Round Iron Gate" />
-  <keys type="" key="in_d08_1_0009" value="Coffin Where Chaos Sleeps" />
-  <keys type="" key="in_f02_magicbox_01" value="Magic Society's Treasure Chest" />
-  <keys type="" key="in_f02_magicbox_02" value="Magic Society's Treasure Chest" />
-  <keys type="" key="in_f02_magicbox_03" value="Magic Society's Treasure Chest" />
-  <keys type="" key="in_d08_1_0010" value="Coffin Where Chaos Sleeps" />
-  <keys type="" key="in_d08_1_0011" value="Coffin Where Chaos Sleeps" />
-  <keys type="" key="in_d08_1_0012" value="Coffin Where Chaos Sleeps" />
-  <keys type="" key="in_d08_1_0013" value="Coffin Where Chaos Sleeps" />
-  <keys type="" key="in_d08_1_0014" value="Round Iron Gate" />
-  <keys type="" key="in_d08_1_0015" value="Round Iron Gate" />
-  <keys type="" key="in_d08_1_0016" value="Relic Chest of the Immortals" />
-  <keys type="" key="IN_F07_sickperson_2" value="Zerpi" />
-  <keys type="" key="IN_F07_bone_1" value="Mysterious Skull" />
-  <keys type="" key="IN_F07_pack_1" value="Million's Full Bag" />
-  <keys type="" key="IN_F07_pack_2" value="Mixed Supplies" />
-  <keys type="" key="IN_F07_pack_3" value="Burnt Mixed Supplies" />
-  <keys type="" key="IN_F07_grain_1" value="Sap Grass" />
-  <keys type="" key="IN_F17_meal_1" value="Collector's Food Supply" />
-  <keys type="" key="IN_F17_mush_2" value="Poison Mushroom" />
-  <keys type="" key="IN_F07_box_1" value="Supply Box" />
-  <keys type="" key="IN_F07_sack_1" value="Food Supply" />
-  <keys type="" key="IN_F17_blue_egg_1" value="Skytear's Egg" />
-  <keys type="" key="IN_F17_poison_1" value="Poisonous Herb" />
-  <keys type="" key="IN_F07_grain_2" value="Sanctuary Leaf" />
-  <keys type="" key="IN_F07_box_001" value="Suspicious Box" />
-  <keys type="" key="IN_f07_elfbody_01" value="Elf of Light Corpse" />
-  <keys type="" key="IN_f07_elfbody_02" value="Elf of Light Corpse" />
-  <keys type="" key="IN_f07_chaocody_01" value="Choas Elf Corpse" />
-  <keys type="" key="IN_f07_chaocody_02" value="Choas Elf Corpse" />
-  <keys type="" key="IN_F07_jailperson_3" value="Captured Town Resident" />
-  <keys type="" key="IN_F07_sickperson_3" value="Poisoned Town Resident" />
-  <keys type="" key="IN_F07_demonic_02" value="Demonic Stone" />
-  <keys type="" key="IN_F07_elcatapult_01" value="" />
-  <keys type="" key="in_c01_d25entry_01" value="PC Bunny's Familiar Academy" />
-  <keys type="" key="in_d11_Box_03" value="Innovation list secret box" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0001" value="Recall Stone" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0002" value="Respawn Point" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0003" value="Transportation Shrine" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0004" value="Dungeon Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0005" value="Soul Curtains" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0006" value="Soul Crystal" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0007" value="Soul Crystal" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0008" value="Ice Soul Crystal" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0009" value="Mailbox" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0010" value="Egg Merchant's Cane" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0001" value="Akrashin's Hammer" />
+  <keys prop="Name" type="monster" key="IN_FR_1_0002" value="Key Box" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0001" value="Broken Crate" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0002" value="Braghin Ballista" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0003" value="Powder Keg" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0004" value="Braghin Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0005" value="Glowing Stone" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0006" value="Ruby-embedded Statue" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0007" value="Chill Crystal" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0008" value="Prayer Altar" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0009" value="Monster Summoning Location" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0001" value="Cell Door" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0002" value="Guards' Weapon Box" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0003" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0004" value="Cell Door" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0005" value="Lock" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0006" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0007" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0008" value="Sky Titan" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0009" value="Guards' Weapon Box" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0010" value="Guards' Weapon Box" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0011" value="Guards' Weapon Box" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0012" value="Guards' Weapon Box" />
+  <keys prop="Name" type="monster" key="IN_TEST_1_0001" value="For Testing" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0013" value="Braghin Treasure" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0014" value="Weapon Stand" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0015" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0016" value="Gate Lever" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0017" value="Gate Lever" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0018" value="Chief Prison Guard Enhancement Stone" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0010" value="Ancient Chest" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0011" value="Cage Door" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0019" value="Weapon Stand" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0020" value="Weapon Stand" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0001" value="Rotting Meat" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0002" value="Book of Ruin" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0003" value="Dim Streetlight" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0004" value="Cursed Sapling" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0005" value="Dried Meat" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0006" value="Lamp-bearing Statue" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0007" value="Streetlight" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0008" value="Wooden Wagon" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0011" value="Book" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0012" value="Carrot" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0013" value="Sack" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0014" value="Powder Keg" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0015" value="Metal Chest" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0016" value="First-Aid Kit" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0017" value="Milestone" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0018" value="Small Sack" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0019" value="Sturdy Wooden Box" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0003" value="Sinthan's Smashed Wall" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0004" value="Frozen Box" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0005" value="Landslide Rocks" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0009" value="Large Food Sack" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0010" value="Large Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0011" value="Old Wooden Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0012" value="Old Wooden Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0013" value="Old Wooden Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0014" value="Shabby Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0015" value="Glowing Tree" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0016" value="Produce Bucket" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0017" value="Food Sack" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0018" value="Seed Sack" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0019" value="Produce Bucket" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0020" value="Jack's Journal" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0021" value="Large Food Sack" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0021" value="Beast Cage Door" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0022" value="Beast Cage Door" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0023" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0022" value="Morineh Sapling" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0006" value="Sinthan's Roof" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0020" value="Road Sign Pole" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0024" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0007_0000" value="Gray Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0007_5000" value="Charged Gray Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0007_0002" value="Violent Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0007_5002" value="Charged Violent Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0007_0003" value="Ruins Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0007_5003" value="Charged Ruins Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0309_0000" value="Male Pritsha Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0309_5000" value="Charged Male Pritsha Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0000" value="Wounded Wolf (Lv. 14) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5000" value="Charged Wounded Wolf (Lv. 14) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0001" value="Shadow of Darkness Wolf (Lv. 16) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5001" value="Charged Shadow of Darkness Wolf (Lv. 16) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0004" value="Dread Shadow Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5004" value="Charged Dread Shadow Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0005" value="Harsh Shadow Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5005" value="Charged Harsh Shadow Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_0000" value="Panther Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_5000" value="Charged Panther Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_0001" value="Chakai Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_5001" value="Charged Chakai Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0007" value="Sansupus Wild Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5007" value="Charged Sansupus Wild Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_0002" value="Rough Fur Leopard Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_5002" value="Charged Rough Fur Leopard Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0008" value="Wounded Wolf Soul Stone (Lv. 17)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5008" value="Charged Wounded Wolf Soul Stone (Lv. 17)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0009" value="Shadow of Darkness Wolf (Lv. 17) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5009" value="Charged Shadow of Darkness Wolf (Lv. 17) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0010" value="Tamed Wolf_Slave Soul Stone (Lv. 16)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5010" value="Charged Tamed Wolf_Slave Soul Stone (Lv. 16)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0011" value="Shadow of Darkness Wolf_Slave Soul Stone (Lv. 17)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5011" value="Charged Shadow of Darkness Wolf_Slave Soul Stone (Lv. 17)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_0003" value="Ferocious Panther Soul Stone (Lv. 25)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_5003" value="Charged Ferocious Panther Soul Stone (Lv. 25)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_0004" value="Ferocious Panther Soul Stone (Lv. 26)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_5004" value="Charged Ferocious Panther Soul Stone (Lv. 26)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0000" value="Starved Bear Soul Stone (Lv. 15)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5000" value="Charged Starved Bear Soul Stone (Lv. 15)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0001" value="Trutan Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5001" value="Charged Trutan Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0002" value="Fierce Brown Bear Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5002" value="Charged Fierce Brown Bear Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0003" value="Brown Bear Soul Stone (Lv. 14)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5003" value="Charged Brown Bear Soul Stone (Lv. 14)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0004" value="Starved Bear Soul Stone (Lv. 16)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5004" value="Charged Starved Bear Soul Stone (Lv. 16)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0005" value="Brown Bear Soul Stone (Lv. 15)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5005" value="Charged Brown Bear Soul Stone (Lv. 15)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0006" value="Violent Brown Bear Soul Stone (Lv. 26)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5006" value="Charged Violent Brown Bear Soul Stone (Lv. 26)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_0007" value="Violent Brown Bear Soul Stone (Lv. 27)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0083_5007" value="Charged Violent Brown Bear Soul Stone (Lv. 27)" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0012" value="Quest Box" />
+  <keys prop="Name" type="monster" key="IN_ACB_0_0000" value="Altar of Seals" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0007" value="Red Magic Stone" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0008" value="Blue Magic Stone" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0009" value="Yellow Magic Stone" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0010" value="Greenstone" />
+  <keys prop="Name" type="monster" key="IN_ACB_0_0001" value="Black Coffin" />
+  <keys prop="Name" type="monster" key="IN_ACB_0_0002" value="Underground Labyrinth_Steel Bar Door" />
+  <keys prop="Name" type="monster" key="IN_ACB_0_0003" value="Funerary Jar" />
+  <keys prop="Name" type="monster" key="IN_ACB_0_0004" value="Funerary Jar" />
+  <keys prop="Name" type="monster" key="IN_ACB_0_0005" value="Necromantic Magic Circle A" />
+  <keys prop="Name" type="monster" key="IN_ACB_0_0006" value="Necromantic Magic Circle B" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0023" value="Beehive" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0024" value="Grave" />
+  <keys prop="Name" type="monster" key="CO_MI_0000" value="Copper Vein" />
+  <keys prop="Name" type="monster" key="CO_MI_0001" value="Tin Vein" />
+  <keys prop="Name" type="monster" key="CO_MI_0002" value="Iron Vein" />
+  <keys prop="Name" type="monster" key="CO_MI_0003" value="Silver Vein" />
+  <keys prop="Name" type="monster" key="CO_MI_0004" value="Titanium Vein" />
+  <keys prop="Name" type="monster" key="CO_MI_0005" value="White Gold Vein" />
+  <keys prop="Name" type="monster" key="CO_MI_0006" value="Mithril Vein" />
+  <keys prop="Name" type="monster" key="CO_MI_0007" value="Adamantite Vein" />
+  <keys prop="Name" type="monster" key="CO_HE_0000" value="Wormwood" />
+  <keys prop="Name" type="monster" key="CO_HE_0001" value="Young Lizard's Tail" />
+  <keys prop="Name" type="monster" key="CO_HE_0002" value="Lizard's Tail" />
+  <keys prop="Name" type="monster" key="CO_HE_0003" value="Cornus Fruit" />
+  <keys prop="Name" type="monster" key="CO_HE_0004" value="Barrenwort" />
+  <keys prop="Name" type="monster" key="CO_HE_0005" value="White Atractylodes" />
+  <keys prop="Name" type="monster" key="CO_HE_0006" value="Asparagus Root" />
+  <keys prop="Name" type="monster" key="CO_HE_0007" value="Moorwort" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0309_0002" value="Gray Wolf Leader Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0309_5002" value="Charged Gray Wolf Leader Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0010_0000" value="Mane Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0010_5000" value="Charged Mane Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0010_0001" value="Mane Wild Boar Soul Stone (Small Size)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0010_5001" value="Charged Mane Wild Boar Soul Stone (Small)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0011_0000" value="Rough Mane Wild Boar Soul Stone (+Mane Wild Boar)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0011_5000" value="Charged Rough Mane Wild Boar Soul Stone (+Mane Wild Boar)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0011_0001" value="Rough Mane Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0011_5001" value="Charged Rough Mane Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0011_0002" value="Razorback Soul Stone (Slave)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0011_5002" value="Charged Razorback Soul Stone (Slave)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0030_0000" value="Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0030_5000" value="Charged Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0606_0000" value="Big Hooves Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0606_5000" value="Charged Big Hooves Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0000" value="Black Cow Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5000" value="Charged Black Cow Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0606_0001" value="Big Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0606_5001" value="Charged Big Wild Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0001" value="Wild Buffalo Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5001" value="Charged Wild Buffalo Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0006" value="Tamed Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5006" value="Charged Tamed Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0002" value="Sharp Horn Black Cow Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5002" value="Charged Sharp Horn Black Cow Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0003" value="Enraged Dairy Cow Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5003" value="Charged Enraged Diary Cow Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0004" value="Fierce Black Cow Soul Stone (Lv. 24)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5004" value="Charged Fierce Black Cow Soul Stone (Lv. 24)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0005" value="Fierce Black Cow Soul Stone (Lv. 25)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5005" value="Fierce Black Cow Soul Stone (Lv. 25)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_0002" value="Fenris" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0309_5002" value="Fenris" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0309_0000" value="Cunning Blue Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0309_5000" value="Charged Cunning Blue Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0309_0001" value="Violent Blue Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0309_5001" value="Charged Violent Blue Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0309_0002" value="Lashaka Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0309_5002" value="Charged Lashaka Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_51_0083_0000" value="Fierce White Bear Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_51_0083_5000" value="Charged Fierce White Bear Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0676_0000" value="Ghost Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0676_5000" value="Charged Ghost Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0676_0001" value="Taslan Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0676_5001" value="Charged Taslan Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_0000" value="Gray Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_5000" value="Charged Gray Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0611_0000" value="Frost Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0611_5000" value="Charged Frost Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_0001" value="Dead Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_5001" value="Charged Dead Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_0002" value="Violent Tarantula Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_5002" value="Charged Violent Tarantula Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_51_0611_0000" value="Frost Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_51_0611_5000" value="Charged Frost Spider Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0611_0001" value="Frost Spider Soul Stone (Lv. 27)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0611_5001" value="Charged Frost Spider Soul Stone (Lv. 27)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_0001" value="Bragi Supervisor's Wild Boar Soul Stone (Slave)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_5001" value="Charged Bragi Supervisor's Wild Boar Soul Stone (Slave)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_0002" value="Pochi - Bragi Chieftain's Wild Boar Soul Stone (Slave)" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_5002" value="Charged Pochi - Bragi Chieftain's Wild Boar Soul Stone (Slave)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0006" value="Tamed Bison Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5006" value="Charged Tamed Bison Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0000" value="Reindeer Soul Stone (Lv. 13)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5000" value="Charged Reindeer Soul Stone (Lv. 13)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0001" value="Crystal Antler Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5001" value="Charged Crystal Antler Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0002" value="Ambermane Caribou Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5002" value="Charged Ambermane Caribou Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0003" value="Crystal Antler (Sticking Up) Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5003" value="Charged Crystal Antler (Sticking Up) Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0004" value="Reindeer Soul Stone (Lv. 15)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5004" value="Charged Reindeer Soul Stone (Lv. 15)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0005" value="Ambermane Caribou_Master Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5005" value="Charged Ambermane Caribou_Master Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0006" value="Reindeer_Slave Soul Stone (Lv. 13)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5006" value="Charged Reindeer_Slave Soul Stone (Lv. 13)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0007" value="Crystal Antler Reindeer Soul Stone (Lv. 18)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5007" value="Charged Crystal Antler Reindeer Soul Stone (Lv. 18)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0008" value="Crystal Antler Reindeer Soul Stone (Lv. 19)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5008" value="Charged Crystal Antler Reindeer Soul Stone (Lv. 19)" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0009" value="Big Crystal Antler Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5009" value="Charged Big Crystal Antler Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0692_0000" value="Morineh Turtle Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0692_5000" value="Charged Morineh Turtle Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0769_0000" value="Black Wind (Ashuram's Horse) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0769_5000" value="Charged Black Wind (Ashuram's Horse) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0769_0001" value="Pony (Cavalry's Horse) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0769_5001" value="Charged Pony (Cavalry's Horse) Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_0103" value="Domesticated Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_5103" value="Charged Domesticated Boar Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0309_0100" value="Black Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0309_5100" value="Charged Black Wolf Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0676_0002" value="Ruins Tarantula Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0676_5002" value="Charged Ruins Tarantula Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_50_0245_0000" value="Hell Hound Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_50_0245_5000" value="Charged Hell Hound Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0692_0002" value="Lava Turtle Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0692_5002" value="Charged Lava Turtle Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0011" value="Frost Orb" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0012" value="Ice Wall" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0025" value="Bumblebee Nest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0026" value="Gunther's Corpse" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0027" value="Steel Bars" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0028" value="Small Chest" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0001" value="Manor Door" />
+  <keys prop="Name" type="monster" key="IN_CR_90_0000" value="Crop For Testing" />
+  <keys prop="Name" type="monster" key="IN_CR_90_0001" value="Tree For Testing" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0001" value="Town Center" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0002" value="Parna's Egg" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0003" value="Crokhoon Crane" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0004" value="Three-shot Ballista" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0005" value="Arrowhead Spear" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0006" value="Merumi Prisoner" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0007" value="Frostbitten Crokhoon" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0008" value="Mermaid Music Sheet I" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0009" value="Mermaid Music Sheet II" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0010" value="Mermaid Music Sheet III" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0011" value="Ice Nest" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0012" value="Ice Tree" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0013" value="Disguised Explosive Box" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0014" value="Pirate Captain's Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0015" value="Explosive Bundle" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0001" value="Magic Stone of Magic" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0002" value="Magic Stone of Attack" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0003" value="Magic Stone of Life" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0004" value="Magic Stone of Defense" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0005" value="Berserker Summoning Device" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0006" value="Attribute Stone of Attack" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0007" value="Attribute Stone pf Defense" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0008" value="Attribute Stone of Magic" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0009" value="Attribute Stone of Life" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0010" value="Live Door" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0011" value="Audience Chamber Door" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0012" value="Frozen Steel Bar Door" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0013" value="Wall Switch" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0013" value="Disguised Rock" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0001" value="Floodgate" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0013" value="Burning Woodpile" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0014" value="Burning Woodpile" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0015" value="Burning Crates" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0016" value="Locked Box" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0017" value="Suspicious Box" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0018" value="Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0019" value="Toolbox" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0020" value="Artisan Tool Kit" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0021" value="Rusted Steel Bar" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0022" value="Rondo's Box" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0023" value="Water Glass with Relic" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0024" value="Herb" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0025" value="Lumber" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0026" value="Civil Militia's Steel Bar" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0027" value="Luggage" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0028" value="Full Bag" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0029" value="Ore Wagon" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0016" value="Injured Woodcutter" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0017" value="Injured Woodcutter" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0030" value="Necromantic Pentacle" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0031" value="Rondo's Ice Castle Main Gate" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0032" value="Merumi Shrine Gate" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0033" value="Food Warehouse Explosive Bundle" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0034" value="Weapon Storage Explosive Bundle" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0035" value="Pirate Ship Explosion" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0036" value="Food Storage Explosion" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0037" value="Weapon Storage Explosion" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0038" value="Bulletin Board" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0039" value="Broken Crane" />
+  <keys prop="Name" type="monster" key="IN_SF_1_5000" value="Burning Goods" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0029" value="Phoenix Egg" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0030" value="Tempest Dragon Egg" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0001" value="Poron Mushroom" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0002" value="Sage Grass" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0003" value="Cherpa Snow Flower" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0004" value="Koor Root" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0005" value="Taramun Herb" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0006" value="Rashine Flower" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0011" value="Plain Herb for Testing" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0012" value="Modest Herb for Testing" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0013" value="Austere Herb for Testing" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0014" value="Complex Herb for Testing" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0015" value="Expert Grade Herb for Testing" />
+  <keys prop="Name" type="monster" key="IN_CM_2_0016" value="Master Grade Herb for Testing" />
+  <keys prop="Name" type="monster" key="IN_SF_0_0018" value="Rotting Meat" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0021" value="Fairy-infused Meat" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0022" value="Finest Royal Jelly" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0023" value="Succulent Reindeer Meat" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0024" value="Crystal Grass" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0025" value="Sparking Crystal Grass" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0026" value="Glowing Crystal Crass" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0027" value="Dew Leaf" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0028" value="Clean Dew Leaf" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0029" value="Pure Dew Leaf" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0019" value="Burning Fire" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0020" value="Burning Fire" />
+  <keys prop="Name" type="monster" key="IN_MA_03_1720_0000" value="Experimental Unicorn Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_1720_5000" value="Charged Experimental Unicorn Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_0000" value="Black Wings Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_5000" value="Charged Black Wings Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_0001" value="Flame Breath Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_5001" value="Charged Flame Breath Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_1715_0000" value="Asteras Level Black Dragon Charge Team Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_1715_5000" value="Charged Asteras Level Black Dragon Charge Team Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_0000" value="Angry Razorback Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0606_5000" value="Charged Angry Razorback Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_0002" value="Green Shock Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_5002" value="Charged Green Shock Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_0003" value="Azure Shadewing Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_5003" value="Charged Azure Shadewing Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0245_0000" value="Snow Tiger Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0245_5000" value="Charged Snow Tiger Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0245_0001" value="Krooger Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0245_5001" value="Charged Krooger Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0245_0002" value="Tamed Snow Tiger Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0245_5002" value="Charged Tamed Snow Tiger Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0083_0000" value="Ferocious Grizzly Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0083_5000" value="Charged Ferocious Grizzly Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0083_0001" value="Giant Uru Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_04_0083_5001" value="Charged Giant Uru Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_0005" value="Tarantula Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0676_5005" value="Charged Tarantula Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0245_0000" value="Shadow Panther Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_02_0245_5000" value="Charged Shadow Panther Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_0010" value="Angular Antler Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0671_5010" value="Charged Angular Antler Reindeer Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_0007" value="Bison Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0672_5007" value="Charged Bison Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_0006" value="Black Wings Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_5006" value="Charged Black Wings Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_0007" value="Green Shock Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_5007" value="Charged Green Shock Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_0008" value="Green Shock Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0704_5008" value="Charged Green Shock Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_0005" value="Ignis Hound Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_0245_5005" value="Charged Ignis Hound Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_1715_0001" value="Dark Magic Dragon Fantakrewell Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_MA_03_1715_5001" value="Charged Dark Magic Dragon Fantakrewell Soul Stone" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0030" value="Affinity Stone: Fire I" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0031" value="Affinity Stone: Ice I" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0032" value="Affinity Stone: Light I" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0033" value="Affinity Stone: Dark I" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0002" value="Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0031" value="Sun Stone" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0032" value="Fire Stone" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0003" value="Steel Bar" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0004" value="Wooden Prison" />
+  <keys prop="Name" type="monster" key="in_f01_1_0021" value="Worn Weapon Box" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0033" value="Warding Stone" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0014" value="Magic Stone" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0034" value="Affinity Magic Stone: Fire II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0035" value="Affinity Magic Stone: Chill II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0036" value="Affinity Magic Stone: Light II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0037" value="Affinity Magic Stone: Dark II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0038" value="Affinity Magic Stone: Fire III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0039" value="Affinity Magic Stone: Chill III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0040" value="Affinity Magic Stone: Light III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0041" value="Affinity Magic Stone: Dark III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0042" value="Affinity Magic Stone: Fire IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0043" value="Affinity Magic Stone: Chill IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0044" value="Affinity Magic Stone: Light IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0045" value="Affinity Magic Stone: Dark IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0046" value="Affinity Magic Stone: Fire V" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0047" value="Affinity Magic Stone: Chill V" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0048" value="Affinity Magic Stone: Light V" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0049" value="Affinity Magic Stone: Dark V" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0050" value="Complex Affinity Magic Stone: Fire I" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0051" value="Complex Affinity Magic Stone: Chill I" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0052" value="Complex Affinity Magic Stone: Light I" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0053" value="Complex Affinity Magic Stone: Dark I" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0054" value="Complex Affinity Magic Stone: Fire II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0055" value="Complex Affinity Magic Stone: Chill II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0056" value="Complex Affinity Magic Stone: Light II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0057" value="Complex Affinity Magic Stone: Dark II" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0058" value="Complex Affinity Magic Stone: Fire III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0059" value="Complex Affinity Magic Stone: Chill III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0060" value="Complex Affinity Magic Stone: Light III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0061" value="Complex Affinity Magic Stone: Dark III" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0062" value="Complex Affinity Magic Stone: Fire IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0063" value="Complex Affinity Magic Stone: Chill IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0064" value="Complex Affinity Magic Stone: Light IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0065" value="Complex Affinity Magic Stone: Dark IV" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0066" value="Complex Affinity Magic Stone: Fire V" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0067" value="Complex Affinity Magic Stone: Chill V" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0068" value="Complex Affinity Magic Stone: Light V" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0069" value="Complex Affinity Magic Stone: Dark V" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0014" value="Magic Supply Device" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0002" value="Banquet Hall" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0005" value="Water Gate Switch" />
+  <keys prop="Name" type="monster" key="IN_FR_0_0015" value="Fire Bowl" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0034" value="Dried Meat" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0006" value="Steel Bar" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0007" value="Steel Bar" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0008" value="Water Blocking Gate" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0009" value="Water Blocking Gate" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0015" value="Princess's Personal Belongings Box" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0040" value="Injured Mercenary" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0010" value="Wooden Prison" />
+  <keys prop="Name" type="monster" key="IN_ST_0_0041" value="Seaweed" />
+  <keys prop="Name" type="monster" key="IN_VLC_0_0011" value="Weapon Stand" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0003" value="Manor Library" />
+  <keys prop="Name" type="monster" key="in_cm_5_0001" value="Victory Shrine" />
+  <keys prop="Name" type="monster" key="IN_F02_5_0001" value="Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_F02_5_0002" value="Soul Sphere" />
+  <keys prop="Name" type="monster" key="IN_F02_5_0003" value="Deathstone" />
+  <keys prop="Name" type="monster" key="IN_F02_5_0004" value="Flat Stone" />
+  <keys prop="Name" type="monster" key="IN_d02_0_0016" value="Thorny Ice Wall" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0035" value="Barricade" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0036" value="Watchtower" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0037" value="Corrupted Warding Stone" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0038" value="Ruinous Meat" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0039" value="Wagon" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0025" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0026" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_F02_G_0_0001" value="Wooden Prison" />
+  <keys prop="Name" type="monster" key="IN_F02_G_0_0002" value="Wooden Prison" />
+  <keys prop="Name" type="monster" key="IN_F02_G_0_0003" value="Frozen Lion Gate" />
+  <keys prop="Name" type="monster" key="IN_F02_G_0_0004" value="Bismuth's Booze Barrel" />
+  <keys prop="Name" type="monster" key="IN_SP_1_0027" value="Thick Iron Gate (Familiar Room)" />
+  <keys prop="Name" type="monster" key="IN_F02_G_0_0005" value="Dummy Arrow" />
+  <keys prop="Name" type="monster" key="IN_F02_G_0_0006" value="Dummy Arrow" />
+  <keys prop="Name" type="monster" key="IN_SF_1_0099" value="Test Looting Box" />
+  <keys prop="Name" type="monster" key="IN_SF_0_0001" value="Khabim Barrier" />
+  <keys prop="Name" type="monster" key="IN_SF_0_0002" value="Ancient Gateway" />
+  <keys prop="Name" type="monster" key="IN_cm_Prin_000" value="Princess's Wagon" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0001" value="Torch of Faith" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0002" value="Destroyed Light Spring" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0003" value="Zelnaris Amplifier" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0004" value="Jumawu Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0005" value="Unknown Sword" />
+  <keys prop="Name" type="monster" key="IN_SF_0_0004" value="Raged Wild Boar" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0006" value="Ellora's Energy" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0007" value="Ellora's Energy" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0008" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0009" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0010" value="Fallen Angel Statue" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0011" value="Euvitz Box" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0012" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0013" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0014" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0015" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0016" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0017" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0018" value="Flotier Egg" />
+  <keys prop="Name" type="monster" key="in_cm_0_0070" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0071" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0072" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0073" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0074" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0075" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0076" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0077" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0078" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0079" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="in_cm_0_0080" value="Native Grasses" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0019" value="Shining Floating Ore" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0020" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0021" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0022" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0023" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0024" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0025" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0026" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0027" value="Exarahnian Relic" />
+  <keys prop="Name" type="monster" key="IN_SF_0_0007" value="Ancient Hammer" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0028" value="Divine Altar" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0001" value="Fish Net" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0002" value="Water Mirror Shard" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0003" value="Rising Water Mirror Shard" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0004" value="Singing Water Mirror Shard" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0005" value="Healing Water Mirror Shard" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0006" value="Sleeping Water Mirror Shard" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0007" value="Speaking Chalice" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0008" value="Crane" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0009" value="Ship that's in Crafting" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0010" value="Completed Ship" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0011" value="Three-shot Ballista" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0012" value="Wagon" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0013" value="Windmill" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0014" value="Giant Conch" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0015" value="Marlin" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0016" value="Watchtower" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0017" value="Firewood" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0018" value="Cannon" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0019" value="Cannonball" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0020" value="Sacred Water Mask" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0021" value="Sacred Water Mask" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0022" value="Crokhoon Statue" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0023" value="Tainted Herb" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0024" value="Southern Sun Tower Focus" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0025" value="Aqua Oreum Stone" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0026" value="Tool Stand" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0027" value="Crokhoon Torch" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0028" value="Snow Flower Tree" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0029" value="Glowing Tree" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0030" value="Frozen Sentry" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0031" value="Frozen Bowman" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0032" value="Water Blocking Gate" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0040" value="Grudging Tombstone" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0033" value="Starving Skirmisher" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0034" value="Broken Stockade" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0001" value="Lost Tome" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0002" value="Ancient Tome" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0003" value="Hidden Tome" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0004" value="Forbidden Tome" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0005" value="Warding Crystal" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0006" value="Khabim Altar" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0007" value="Guardian Dragon Summoning Orb" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0008" value="Soul Sphere" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0009" value="Red Guardian Circle" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0010" value="Blue Guardian Circle" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0011" value="Yellow Guardian Circle" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0012" value="Green Guardian Circle" />
+  <keys prop="Name" type="monster" key="IN_C01_0_0013" value="Tritael Document" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0016" value="Berserker Summoning Device" />
+  <keys prop="Name" type="monster" key="IN_RDC_0_0017" value="Berserker Summoning Device" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0041" value="Glowing Moss" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0042" value="Blood Magic Seal" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0043" value="Tool Box" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0044" value="Sweetgum Leaf" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0035" value="Town Center" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0036" value="White Silver" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0037" value="Crokhoon Crane" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0038" value="Three-shot Ballista" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0039" value="Arrowhead Spear" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0040" value="Merumi Prisoner" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0041" value="Frostbitten Crokhoon" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0042" value="Mermaid Music Sheet I" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0043" value="Mermaid Music Sheet II" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0044" value="Mermaid Music Sheet III" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0045" value="Ice Nest" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0046" value="Ice Tree" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0047" value="Disguised Explosive Box" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0048" value="Pirate Captain's Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0049" value="Explosive Bundle" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0050" value="Eastern Sun Tower Focus" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0051" value="Western Sun Tower Focus" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0052" value="Wooden Prison" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0053" value="Secret Circlet Box" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0054" value="Secret Staff Box" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0055" value="Secret Robe Chest" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0056" value="Cannon" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0001" value="Drawbridge" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0002" value="Drawbridge" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0003" value="Drawbridge" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0004" value="Drawbridge Switchgear" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0005" value="Drawbridge Switchgear" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0006" value="Drawbridge Switchgear" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0007" value="McTimon Furnace" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0008" value="Furnace Lever" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0009" value="Sealed Door" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0010" value="Sealed Door" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0011" value="Door" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0012" value="Wooden Fence" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0013" value="Emergency Bell" />
+  <keys prop="Description" type="monster" key="IN_D11_0_0014" value="Loaded Cannon" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0001" value="Waterway Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0002" value="Waterway Switchgear" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0003" value="Waterway Switchgear" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0004" value="Lake Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0005" value="Tiny Imiurum Flower" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0006" value="Red Leaf Spore Tree" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0007" value="Namonat Fossil" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0008" value="Fanshell Mushroom" />
+  <keys prop="Description" type="monster" key="IN_d02_roof_001" value="Sinthan's Smashed Ceiling" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0009" value="Sacrificial Altar" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0010" value="Waterway Switchgear" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0011" value="Waterway Switchgear" />
+  <keys prop="Description" type="monster" key="IN_f01_CM_mound_001" value="Pile of Soil" />
+  <keys prop="Description" type="monster" key="IN_f01_web_001" value="Spiderweb" />
+  <keys prop="Description" type="monster" key="IN_f01_CM_mound_002" value="Pile of Soil" />
+  <keys prop="Description" type="monster" key="IN_RDC_0_0020" value="Wall Switch" />
+  <keys prop="Description" type="monster" key="IN_RDC_0_0021" value="Berserker Summoning Device" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0057" value="Water Mirror" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0012" value="Circle Waterway Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0013" value="Diamond Waterway Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0014" value="Star Waterway Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0015" value="Square Waterway Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0016" value="Moon Waterway Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0017" value="Triangle Waterway Door" />
+  <keys prop="Description" type="monster" key="IN_D03_0_0018" value="Transit Shrine" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0058" value="Mirror Stand" />
+  <keys prop="Description" type="monster" key="IN_RDC_0_0022" value="Ice Goddess" />
+  <keys prop="Description" type="monster" key="IN_d02_0_0017" value="Thorny Ice Wall" />
+  <keys prop="Description" type="monster" key="IN_CM_1_0001" value="Copper" />
+  <keys prop="Description" type="monster" key="IN_CM_1_0002" value="Iron" />
+  <keys prop="Description" type="monster" key="IN_CM_1_0003" value="Mithril" />
+  <keys prop="Description" type="monster" key="IN_CM_1_0004" value="Turalium" />
+  <keys prop="Description" type="monster" key="IN_CM_1_0005" value="Adamantite" />
+  <keys prop="Description" type="monster" key="IN_CM_1_0006" value="Dragonite" />
+  <keys prop="Description" type="monster" key="IN_CM_1_1001" value="Silver" />
+  <keys prop="Description" type="monster" key="IN_CM_1_1002" value="Gold" />
+  <keys prop="Description" type="monster" key="IN_CM_1_1003" value="Amethyst" />
+  <keys prop="Description" type="monster" key="IN_CM_1_1004" value="Sapphire" />
+  <keys prop="Description" type="monster" key="IN_CM_1_1005" value="Emerald" />
+  <keys prop="Description" type="monster" key="IN_CM_1_1006" value="Diamond" />
+  <keys prop="Description" type="monster" key="IN_CM_2_0001" value="Poron Mushroom" />
+  <keys prop="Description" type="monster" key="IN_CM_2_0002" value="Sage Grass" />
+  <keys prop="Description" type="monster" key="IN_CM_2_0003" value="Cherpa Snow Flower" />
+  <keys prop="Description" type="monster" key="IN_CM_2_0004" value="Koor Root" />
+  <keys prop="Description" type="monster" key="IN_CM_2_0005" value="Taramun Herb" />
+  <keys prop="Description" type="monster" key="IN_CM_2_0006" value="Rashine Flower" />
+  <keys prop="Description" type="monster" key="IN_D02_Uru_0001" value="Uru Statue" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0059" value="Barricade" />
+  <keys prop="Description" type="monster" key="IN_cm_0_0100" value="Gacha Box" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0060" value="Mirror Stand" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0061" value="Mirror Stand" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0062" value="Mirror Stand" />
+  <keys prop="Description" type="monster" key="IN_f04_Seal_Jar_001" value="Ancient Exarahn Pot" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0001" value="Bald Eagle Egg" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0002" value="Well" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0003" value="Stolen Wheat Sack" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0004" value="Building Material" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0005" value="Mercenary Camp" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0006" value="Dead Guard" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0007" value="Cart" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0008" value="Mercenary Unit's Crane" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0009" value="Mercenary Unit's Cart" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0010" value="Rail" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0011" value="Beast Cage" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0012" value="Challenger's Flight Stone" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0013" value="Oreum Ore" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0014" value="Oreum Ore Pile" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0015" value="Inugi Steel Bars" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0016" value="Bat Nest" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0017" value="Damaged Dead Body" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0018" value="Treasures flown from winds of sand" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0019" value="Shakiba's Excretion" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0020" value="Naia's Cooking Tool" />
+  <keys prop="Description" type="monster" key="IN_f05_0_0021" value="Griffon Food" />
+  <keys prop="Description" type="monster" key="IN_SF_1_0018" value="Bloodbloom" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0063" value="Pirate Lighthouse" />
+  <keys prop="Description" type="monster" key="IN_F03_0_0064" value="Pirate Lighthouse" />
+  <keys prop="Description" type="monster" key="IN_f02_human_arm_01" value="Human Arm" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0045" value="Forlorn Headstone" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0046" value="Khabim Obelisk" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0047" value="DeGrasse's Corpse" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0048" value="Conspicuous Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0049" value="Khabimist Ritual Circle" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0050" value="Document Chest" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0051" value="Fish Trap" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0052" value="Pumpkin" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0053" value="Strange Tombstone" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0054" value="Blood Magic Seal" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0055" value="Broken Lamp" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0056" value="Tool Box" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0057" value="Stolen Goods" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0058" value="Ruin Stone" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0059" value="Draconic Sealing Circle" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0060" value="Ward Fragment" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0065" value="Plague Corpse" />
+  <keys prop="Name" type="monster" key="IN_f02_magic_orb_01" value="Soul Sphere" />
+  <keys prop="Description" type="monster" key="IN_d04_0_0021" value="Frost Guard Leader's Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_CM_0_0200" value="Exarium" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0004" value="Manor Left Interior Gate" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0005" value="Manor Right Interior Gate" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0061" value="Kellsroot" />
+  <keys prop="Name" type="monster" key="IN_D00_0_0001" value="Spark" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0062" value="Garlic" />
+  <keys prop="Name" type="monster" key="IN_HK_0_0063" value="Jedury's Treasure" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0006" value="Manor Door" />
+  <keys prop="Name" type="monster" key="IN_F02_0_0052" value="Wooden Prison" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0065" value="Tree" />
+  <keys prop="Name" type="monster" key="IN_C01_1_0001" value="Steel Bars" />
+  <keys prop="Name" type="monster" key="IN_C01_1_0002" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0001" value="Wooden Prison" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0002" value="Corpse Skeleton" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0003" value="Guardian Stone" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0004" value="Contaminated Exarium" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0001" value="Skan Bomb" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0002" value="Skan Raider Cannon" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0003" value="Opalium" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0004" value="Mazu'rahn's Lockbox" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0005" value="Mazu'rahn's Crate" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0006" value="Mazu'rahn's Satchel" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0007" value="Stunted Carrot" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0008" value="Stunted Watermelon" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0009" value="Tainted Vegetable" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0010" value="Skan Munitions" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0011" value="Lania's Crystal Ball" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0012" value="Ballista" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0013" value="Ellora's Essence" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0005" value="Relic Box" />
+  <keys prop="Name" type="monster" key="IN_D3_0_0027" value="Frost Sprout" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0066" value="Snow Covered Wooden Box" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0067" value="Snow Covered Container" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0068" value="Frozen Steel Bar Door" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0014" value="Panicking Hostage" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0015" value="Injured Hostage" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0016" value="Damaged Crate" />
+  <keys prop="Name" type="monster" key="IN_f03_Funit_001" value="Ambient Pyrolizer" />
+  <keys prop="Name" type="monster" key="IN_f03_IceObject_001" value="Ice Totem Core" />
+  <keys prop="Name" type="monster" key="IN_f03_Malachite_001" value="Crokhoon Crane" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0006" value="Fatigued Mercenary" />
+  <keys prop="Name" type="monster" key="IN_F03_0_0069" value="Frozen Steel Bar Door" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0007" value="Pile of Soil" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0008" value="Spiderweb" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0009" value="Strange-Smelling Box" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0010" value="Liquor-Smelling Box" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0011" value="Grave" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0012" value="Bloody Reading Desk" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0013" value="Worn Book" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0014" value="Smelly Book" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0015" value="Picture Book" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0016" value="Corpse Grass" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0017" value="Old Grain Sack" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0018" value="Mysterious Egg" />
+  <keys prop="Name" type="monster" key="IN_P01_0_0019" value="Leftover Meat" />
+  <keys prop="Name" type="monster" key="IN_F09_0_0019" value="Tower of Goddess Ellora" />
+  <keys prop="Name" type="monster" key="IN_F02_0_0034" value="Scalleda Egg" />
+  <keys prop="Name" type="monster" key="IN_PK_02_silver_001" value="White Silver Ore" />
+  <keys prop="Name" type="monster" key="IN_PK_02_silver_002" value="White Silver Vein" />
+  <keys prop="Name" type="monster" key="IN_PK_02_dish_001" value="Frost Plate" />
+  <keys prop="Name" type="monster" key="IN_PK_02_pot_001" value="Pot" />
+  <keys prop="Name" type="monster" key="IN_PK_02_Box_001" value="Parts Box" />
+  <keys prop="Name" type="monster" key="IN_f01_0_0054" value="Maleficent Seal" />
+  <keys prop="Name" type="monster" key="IN_f01_Skull_001" value="Mangled Corpse" />
+  <keys prop="Name" type="monster" key="IN_f01_Barrel_001" value="Braghin Grub" />
+  <keys prop="Name" type="monster" key="IN_f01_BraGlass_01" value="Brakarr Herb" />
+  <keys prop="Description" type="monster" key="IN_f03_Grain_001" value="Grain Sack" />
+  <keys prop="Description" type="monster" key="IN_f09_FireObject_01" value="Damaged Supplies" />
+  <keys prop="Name" type="monster" key="IN_F03_barrel_001" value="Grog Barrel" />
+  <keys prop="Name" type="monster" key="IN_F03_Grain_002" value="Stolen Belongings" />
+  <keys prop="Name" type="monster" key="IN_F03_magic_001" value="Ruinous Altar" />
+  <keys prop="Name" type="monster" key="IN_F03_Grass_002" value="Baby's Breath" />
+  <keys prop="Name" type="monster" key="IN_F02_Magic_001" value="Greenstone" />
+  <keys prop="Name" type="monster" key="IN_F02_Grass_001" value="Fire Flower" />
+  <keys prop="Name" type="monster" key="IN_F02_Burn_001" value="Scorched Remains" />
+  <keys prop="Name" type="monster" key="IN_F02_tomb_001" value="Graveyard" />
+  <keys prop="Name" type="monster" key="IN_F02_poo_001" value="Firebeak Dung" />
+  <keys prop="Name" type="monster" key="IN_C01_nest_001" value="Red Dragon Nest" />
+  <keys prop="Name" type="monster" key="IN_C01_box_001" value="Lighthouse Keeper's Crate" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0029" value="Fallen Debris" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0030" value="Torch of Justice" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0031" value="Torch of Truth" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0032" value="Torch of Faith" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0033" value="Hidden Treasure" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0034" value="Pegasus Knight Report" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0035" value="Dead Pegasus Knights" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0036" value="Frozen Bowman" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0037" value="Isolated Supply Unit Member" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0038" value="Shieldbreaker Sigil" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0039" value="Angel of Truth Statue" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0040" value="Angel of Justice Statue" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0041" value="Angel of Courage Statue" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0042" value="Ancient Coffin" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0043" value="Tritael Sheet Music" />
+  <keys prop="Name" type="monster" key="IN_F04_0_0044" value="Ancient Document" />
+  <keys prop="Name" type="monster" key="IN_f04_lever_001" value="Dimensional Lodestar" />
+  <keys prop="Name" type="monster" key="IN_F04_Oflyium_001" value="Trium" />
+  <keys prop="Name" type="monster" key="IN_f04_at_Stone_001" value="Teleo's Boon" />
+  <keys prop="Name" type="monster" key="IN_f04_mt_Stone_001" value="Parna's Boon" />
+  <keys prop="Name" type="monster" key="IN_f04_Dt_Stone_001" value="Nerhes's Boon" />
+  <keys prop="Name" type="monster" key="IN_P01_wagon_001" value="Supply Wagon" />
+  <keys prop="Name" type="monster" key="IN_P01_meal_001" value="Supply Food Burlap Bag" />
+  <keys prop="Name" type="monster" key="IN_P01_body_001" value="Ferrell's Dead Body" />
+  <keys prop="Name" type="monster" key="IN_P01_body_002" value="Spree's Dead Body" />
+  <keys prop="Name" type="monster" key="IN_P01_tree_001" value="Glowing Tree Seedling" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0007" value="Manor Door" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0008" value="Banquet Hall" />
+  <keys prop="Name" type="monster" key="IN_KLM_0_0009" value="Manor Library" />
+  <keys prop="Name" type="monster" key="IN_F99_JailControl" value="Prison Gate Device" />
+  <keys prop="Description" type="monster" key="IN_d04_0_0022" value="Aisha's Box" />
+  <keys prop="Name" type="monster" key="IN_F15_Switch_01" value="Devildom Torch" />
+  <keys prop="Name" type="monster" key="IN_C01_magic_1" value="Spacetime Distortion Device" />
+  <keys prop="Name" type="monster" key="IN_f04_CM_001" value="Turalium" />
+  <keys prop="Name" type="monster" key="IN_f04_CM_002" value="Turalium" />
+  <keys prop="Name" type="monster" key="IN_f04_CM_003" value="Sapphire" />
+  <keys prop="Name" type="monster" key="IN_f04_CM_004" value="Sapphire" />
+  <keys prop="Name" type="monster" key="IN_f04_CM_005" value="Koor Root" />
+  <keys prop="Name" type="monster" key="IN_f01_magic_orb_001" value="Chaos Magic Former" />
+  <keys prop="Name" type="monster" key="IN_F02_Holy_Egg_002" value="Soul Sphere" />
+  <keys prop="Name" type="monster" key="IN_d22_Magnetic_01" value="Magnetic Field Between the Gap" />
+  <keys prop="Name" type="monster" key="IN_d22_StoneWall_01" value="Sturdy Blue Stone Defense Wall" />
+  <keys prop="Name" type="monster" key="IN_d22_StoneBott_01" value="Sturdy Blue Stepping Stone" />
+  <keys prop="Name" type="monster" key="IN_d22_WarpPortal_01" value="Teleportation Portal" />
+  <keys prop="Name" type="monster" key="IN_d22_StoneBott_02" value="Sturdy Giant Blue Stepping Stone" />
+  <keys prop="Name" type="monster" key="IN_d22_GoldBox_01" value="Izuhora's Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_F04_SoulPlants" value="Soul Herb" />
+  <keys prop="Name" type="monster" key="IN_F04_Cursedstone" value="Cursed Stone" />
+  <keys prop="Name" type="monster" key="in_klm_0_0010" value="Gustav's Cooking Lab" />
+  <keys prop="Name" type="monster" key="in_klm_0_0012" value="Rantoh's Center Gate" />
+  <keys prop="Name" type="monster" key="in_klm_0_0011" value="LeBrand's Library" />
+  <keys prop="Name" type="monster" key="in_klm_0_0013" value="Carleon's Office" />
+  <keys prop="Name" type="monster" key="IN_p01_darkore" value="Giant Exarium" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0001" value="Altar of Fire" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0002" value="Mysterious Footprints" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0003" value="Challenger's Flightpath Statue" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0004" value="Air Route Statue Head" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0005" value="Broken Trap" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0006" value="Gold Ore Wagon" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0007" value="Mercenary Tent" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0008" value="Oreum Ore" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0009" value="Communication Horn" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0010" value="Fallen Legion Magic Circle" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0011" value="Small Cauldron" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0012" value="Naia's Cooking Tool" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0013" value="Treasure Chest Buried In Sand" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0014" value="Deadly Poison Jar" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0015" value="Soul Embers" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0016" value="Old Flame Dish" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0017" value="Claudel's Posthumous Work" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0018" value="Stone Needed For Sculpting" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0019" value="Lost Treasure I" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0020" value="Lost Treasure II" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0021" value="Lost Treasure III" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0022" value="Ancient Familiar Bone" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0023" value="Yusei's Skull" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0024" value="Sheep's Dead Body" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0025" value="Deer's Dead Body" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0026" value="Firewood" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0027" value="Column of Fire" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0028" value="Column of Water" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0029" value="Column of Winds" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0030" value="Column of Earth" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0031" value="Lania's Orb" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0032" value="Chimer's Staff" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0033" value="Fallen Legion Barrier" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0034" value="Trap" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0035" value="Weak Outer Wall" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0036" value="Wagon Used For Construction" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0037" value="Mercenary Tent" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0038" value="Mining Equipment" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0039" value="Beast Cage" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0040" value="Nature Destruction Equipment" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0041" value="Oreum Ore Wagon" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0042" value="Griffon Egg" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0043" value="Watchtower" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0044" value="Machinery" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0045" value="Anti-aircraft Facilities" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0046" value="Cliff" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0047" value="Bald Eagle Nest" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0048" value="Pile of Flour" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0049" value="Bat Nest" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0050" value="Well" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0051" value="Rail" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0052" value="Crokhoon Supplies" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0053" value="Gargoyle Nest" />
+  <keys prop="Name" type="monster" key="IN_D03_Door_L" value="Giant Stone Gate" />
+  <keys prop="Name" type="monster" key="IN_D13_Door_S" value="Stone Gate" />
+  <keys prop="Name" type="monster" key="IN_D13_Open" value="Stone Gate Switchgear" />
+  <keys prop="Name" type="monster" key="IN_D13_Treasure" value="Offering Box" />
+  <keys prop="Name" type="monster" key="IN_D13_Fence" value="Fence" />
+  <keys prop="Name" type="monster" key="IN_D13_Tower" value="Barrier Stone" />
+  <keys prop="Name" type="monster" key="IN_D13_Tablet" value="Skatrasha's Slate" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0054" value="Onyx Order Messenger Raven" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0055" value="Maharmu's Box" />
+  <keys prop="Name" type="monster" key="IN_f05_sickman_1" value="Dehydrated Resident" />
+  <keys prop="Name" type="monster" key="IN_f05_sickman_2" value="Dehydrated Resident" />
+  <keys prop="Name" type="monster" key="IN_f05_oresky" value="Oreum Shard" />
+  <keys prop="Name" type="monster" key="IN_f05_mabox" value="Material Box" />
+  <keys prop="Name" type="monster" key="IN_f05_worker" value="Resting Construction Worker" />
+  <keys prop="Name" type="monster" key="IN_f05_weapon" value="Mercenary Weapon Storage" />
+  <keys prop="Name" type="monster" key="IN_f05_tool" value="Mercenary Equipment Stand" />
+  <keys prop="Name" type="monster" key="IN_f05_deadbody" value="Investigation Team Member's Rotten Body" />
+  <keys prop="Name" type="monster" key="IN_f05_crane_1" value="Transport Route Mini Crane" />
+  <keys prop="Name" type="monster" key="IN_f05_wagon_1" value="Stack of Luggage" />
+  <keys prop="Name" type="monster" key="IN_f05_dressbox" value="Abandoned Clothing Box" />
+  <keys prop="Name" type="monster" key="IN_f05_toybox" value="Abandoned Toy Box" />
+  <keys prop="Name" type="monster" key="IN_f05_exbox" value="Abandoned General Goods Box" />
+  <keys prop="Name" type="monster" key="IN_f05_elemental" value="Spirit Summoning Rock" />
+  <keys prop="Name" type="monster" key="IN_D13_Door_A" value="Way of Pilgrims" />
+  <keys prop="Name" type="monster" key="IN_D13_Door_B" value="Way of Students" />
+  <keys prop="Name" type="monster" key="IN_f05_diary" value="Abandoned Diary" />
+  <keys prop="Description" type="monster" key="IN_f05_WoodCart_1" value="Empty Wagon" />
+  <keys prop="Name" type="monster" key="IN_p01_ExariumBox" value="Exarahn Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_D13_Tablet_1" value="Skatrasha's Slate" />
+  <keys prop="Description" type="monster" key="IN_D13_Tablet_1Detail" value="Savagery" />
+  <keys prop="Name" type="monster" key="IN_D13_Tablet_2" value="Skatrasha's Slate" />
+  <keys prop="Description" type="monster" key="IN_D13_Tablet_2Detail" value="Guard" />
+  <keys prop="Name" type="monster" key="IN_D13_Tablet_3" value="Skatrasha's Slate" />
+  <keys prop="Description" type="monster" key="IN_D13_Tablet_3Detail" value="Shadow" />
+  <keys prop="Name" type="monster" key="IN_D13_Tablet_4" value="Skatrasha's Slate" />
+  <keys prop="Description" type="monster" key="IN_D13_Tablet_4Detail" value="Conviction" />
+  <keys prop="Name" type="monster" key="IN_F05lessPlant" value="Nameless Plant" />
+  <keys prop="Name" type="monster" key="IN_D06_DoorCon_1" value="Mysterious Lever" />
+  <keys prop="Name" type="monster" key="IN_D06_DoorCon_2" value="Mysterious Lever" />
+  <keys prop="Name" type="monster" key="IN_D06_UpperDoor_1" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_D06_UnderLever_1" value="Power Hub Opening Device" />
+  <keys prop="Name" type="monster" key="IN_D06_UnderLever_2" value="Control Room Opening Device" />
+  <keys prop="Name" type="monster" key="IN_D06_UnderLever_3" value="Summon Room Opening Device" />
+  <keys prop="Name" type="monster" key="IN_D06_Underdoor_1" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_D06_Underdoor_2" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_D06_Underdoor_3" value="Iron Gate" />
+  <keys prop="Name" type="monster" key="IN_D06_EvilForce_1" value="Wall of Evil" />
+  <keys prop="Name" type="monster" key="IN_D06_EvilForce_2" value="Wall of Evil" />
+  <keys prop="Name" type="monster" key="IN_D06_Recharger_1" value="Magic Power Converting Device" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0056" value="Desert Beehive" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0057" value="Bragi Corpse" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0058" value="Epidemic Spell Control Device" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0059" value="Epidemic Spell Former" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0060" value="Cut-off Human Arm" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0061" value="Crockhoon's Dead Body" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0062" value="Crockhoon's Beacon Fire" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0063" value="Prison Camp" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0064" value="Spiderweb" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0065" value="Emerged Treasure Chest" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0066" value="Abandoned Grave" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0067" value="Shufferun's Corpse" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0068" value="Dead Griffon" />
+  <keys prop="Name" type="monster" key="IN_f05_hermit_a" value="Hermit's Town Resident" />
+  <keys prop="Name" type="monster" key="IN_f05_hermit_b" value="Hermit's Town Resident" />
+  <keys prop="Name" type="monster" key="IN_f05_croweapon" value="Crokhoon Equipment Storage" />
+  <keys prop="Name" type="monster" key="IN_f05_1_0069" value="Rotten Corpse" />
+  <keys prop="Description" type="monster" key="IN_f05_1_0069Detail" value="Cannibal Spider's Victim" />
+  <keys prop="Name" type="monster" key="IN_f05_closedkey_001" value="Barrier Disabling Key" />
+  <keys prop="Name" type="monster" key="IN_f05_bomb_001" value="Bomber" />
+  <keys prop="Name" type="monster" key="IN_F06_Alcohol_01" value="Shuma's Alcohol Barrier" />
+  <keys prop="Description" type="monster" key="IN_F06_Alcohol_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_F06_Alcohol_02" value="Shuma's Alcohol Barrier" />
+  <keys prop="Description" type="monster" key="IN_F06_Alcohol_02Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_f06_CryS_Yellow_01" value="Yellow Gem" />
+  <keys prop="Description" type="monster" key="IN_f06_CryS_Yellow_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_f06_CryS_Blue_01" value="Blue Gem" />
+  <keys prop="Description" type="monster" key="IN_f06_CryS_Blue_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_f06_CryS_Green_01" value="Green Gem" />
+  <keys prop="Description" type="monster" key="IN_f06_CryS_Green_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_f06_CryS_Red_01" value="Red Gem" />
+  <keys prop="Description" type="monster" key="IN_f06_CryS_Red_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_D06_Reactor_1" value="Power Reactor" />
+  <keys prop="Description" type="monster" key="IN_D06_Reactor_1Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_f05_equip_001" value="Barrier Control Device" />
+  <keys prop="Description" type="monster" key="IN_f05_equip_001Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_f05_cutequip_01" value="Barrier Control Device" />
+  <keys prop="Description" type="monster" key="IN_f05_cutequip_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_D13_Treasure_H" value="Offering Box" />
+  <keys prop="Name" type="monster" key="IN_f05_bombbox" value="Desert Braghin Explosives Box" />
+  <keys prop="Name" type="monster" key="IN_f05_grass_01" value="Fog Grass" />
+  <keys prop="Name" type="monster" key="IN_f05_fire_01" value="Campfire" />
+  <keys prop="Name" type="monster" key="IN_f05_2_0040" value="Beast Cage" />
+  <keys prop="Description" type="monster" key="IN_f05_2_0040Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_P02_dbody_01" value="Dead Explorer" />
+  <keys prop="Description" type="monster" key="IN_P02_dbody_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_P02_poisonjar_01" value="Epidemic Jar" />
+  <keys prop="Description" type="monster" key="IN_P02_poisonjar_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_P02_flower_01" value="Hell Flower" />
+  <keys prop="Description" type="monster" key="IN_P02_flower_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_P02_essence_01" value="Hell Essence" />
+  <keys prop="Description" type="monster" key="IN_P02_essence_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_P02_trickbox_01" value="Trigg's Weapon Box" />
+  <keys prop="Description" type="monster" key="IN_P02_trickbox_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_P02_trickbox_02" value="Trigg's Weapon Box" />
+  <keys prop="Description" type="monster" key="IN_P02_trickbox_02Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_D04_Bersum_01" value="Berserker Summoning Device" />
+  <keys prop="Description" type="monster" key="IN_D04_Bersum_01Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_P02_Keroum" value="Kherim" />
+  <keys prop="Name" type="monster" key="IN_P02_SoulBead" value="Wandering Spirit" />
+  <keys prop="Name" type="monster" key="IN_d22_GoldBox_02" value="Izuhora's Weapon Box" />
+  <keys prop="Name" type="monster" key="IN_d22_GoldBox_03" value="Defense Wall Explosive Box" />
+  <keys prop="Name" type="monster" key="in_d08_1_0001" value="Demonic Stone Altar" />
+  <keys prop="Description" type="monster" key="in_d08_1_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0002" value="Round Iron Gate" />
+  <keys prop="Description" type="monster" key="in_d08_1_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0003" value="Nibble Rodheim's Barrier" />
+  <keys prop="Description" type="monster" key="in_d08_1_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0004" value="Rectangular Iron Gate" />
+  <keys prop="Description" type="monster" key="in_d08_1_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0005" value="Red Curtain" />
+  <keys prop="Description" type="monster" key="in_d08_1_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0006" value="Coffin Where Chaos Sleeps" />
+  <keys prop="Description" type="monster" key="in_d08_1_0006Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_f17_mush_1" value="Poisonous Mushroom" />
+  <keys prop="Name" type="monster" key="IN_f07_Flower_1" value="Marigold" />
+  <keys prop="Name" type="monster" key="IN_f07_lightstone_1" value="Light-infused Stone" />
+  <keys prop="Name" type="monster" key="IN_f07_twing_1" value="Pile of Twigs" />
+  <keys prop="Name" type="monster" key="IN_f07_broksword_1" value="Cursed Sword" />
+  <keys prop="Name" type="monster" key="IN_f07_elfbody_1" value="Elf of Light Corpse" />
+  <keys prop="Name" type="monster" key="IN_f07_chaocody_1" value="Choas Elf Corpse" />
+  <keys prop="Name" type="monster" key="IN_f07_elfbow_1" value="Elf of Light Crossbow" />
+  <keys prop="Name" type="monster" key="IN_f07_chaosbow_1" value="Choas Elf Crossbow" />
+  <keys prop="Name" type="monster" key="IN_f07_chaostent_1" value="Choas Elf Camp" />
+  <keys prop="Name" type="monster" key="IN_f07_creeper_1" value="Roots of the World Tree" />
+  <keys prop="Name" type="monster" key="IN_f07_curseslate_1" value="Cursed Slate" />
+  <keys prop="Name" type="monster" key="IN_f07_elfbox_1" value="Holy Stone Chest" />
+  <keys prop="Name" type="monster" key="IN_f07_soulflower_1" value="Soul Flower" />
+  <keys prop="Name" type="monster" key="IN_f07_chaosjail_1" value="Choas Elf Prison" />
+  <keys prop="Name" type="monster" key="IN_f17_landmine_1" value="Mine" />
+  <keys prop="Name" type="monster" key="IN_f07_udasneck_1" value="Judas Necklace" />
+  <keys prop="Name" type="monster" key="IN_f07_pottery_1" value="Cursed China" />
+  <keys prop="Name" type="monster" key="IN_f07_chaoscircle_1" value="Choas Elf Magic Circle" />
+  <keys prop="Name" type="monster" key="IN_f07_mortar_01" value="Sacred Mortar" />
+  <keys prop="Description" type="monster" key="IN_f07_mortar_01Detail" value="Dineh's Sorcery Equipment" />
+  <keys prop="Name" type="monster" key="IN_f07_crocegg_1" value="Giant Crocodile Egg" />
+  <keys prop="Name" type="monster" key="IN_f07_web_01" value="Jungle Spiderweb" />
+  <keys prop="Name" type="monster" key="IN_F07_turestone_1" value="Holy Stone of Truth" />
+  <keys prop="Name" type="monster" key="IN_F07_couragstone_1" value="Holy Stone of Courage" />
+  <keys prop="Name" type="monster" key="IN_F07_disermstone_1" value="Holy Stone of Insight" />
+  <keys prop="Name" type="monster" key="IN_F07_puriFire_1" value="Torch of Purification" />
+  <keys prop="Name" type="monster" key="IN_F07_jailperson_1" value="Captured Town Resident" />
+  <keys prop="Name" type="monster" key="IN_F07_sickperson_1" value="Poisoned Town Resident" />
+  <keys prop="Name" type="monster" key="in_d08_1_0007" value="Rectangular Iron Gate" />
+  <keys prop="Description" type="monster" key="in_d08_1_0007Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0008" value="Round Iron Gate" />
+  <keys prop="Description" type="monster" key="in_d08_1_0008Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0009" value="Coffin Where Chaos Sleeps" />
+  <keys prop="Description" type="monster" key="in_d08_1_0009Detail" value="" />
+  <keys prop="Name" type="monster" key="in_f02_magicbox_01" value="Magic Society's Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_f02_magicbox_01Detail" value="" />
+  <keys prop="Name" type="monster" key="in_f02_magicbox_02" value="Magic Society's Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_f02_magicbox_02Detail" value="" />
+  <keys prop="Name" type="monster" key="in_f02_magicbox_03" value="Magic Society's Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_f02_magicbox_03Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0010" value="Coffin Where Chaos Sleeps" />
+  <keys prop="Description" type="monster" key="in_d08_1_0010Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0011" value="Coffin Where Chaos Sleeps" />
+  <keys prop="Description" type="monster" key="in_d08_1_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0012" value="Coffin Where Chaos Sleeps" />
+  <keys prop="Description" type="monster" key="in_d08_1_0012Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0013" value="Coffin Where Chaos Sleeps" />
+  <keys prop="Description" type="monster" key="in_d08_1_0013Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0014" value="Round Iron Gate" />
+  <keys prop="Description" type="monster" key="in_d08_1_0014Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0015" value="Round Iron Gate" />
+  <keys prop="Description" type="monster" key="in_d08_1_0015Detail" value="" />
+  <keys prop="Name" type="monster" key="in_d08_1_0016" value="Relic Chest of the Immortals" />
+  <keys prop="Description" type="monster" key="in_d08_1_0016Detail" value="IN_F07_sickperson_2_Name" />
+  <keys prop="Name" type="monster" key="IN_F07_sickperson_2" value="Zerpi" />
+  <keys prop="Description" type="monster" key="IN_F07_sickperson_2Detail" value="Injured Dragon Knight" />
+  <keys prop="Name" type="monster" key="IN_F07_bone_1" value="Mysterious Skull" />
+  <keys prop="Name" type="monster" key="IN_F07_pack_1" value="Million's Full Bag" />
+  <keys prop="Name" type="monster" key="IN_F07_pack_2" value="Mixed Supplies" />
+  <keys prop="Name" type="monster" key="IN_F07_pack_3" value="Burnt Mixed Supplies" />
+  <keys prop="Name" type="monster" key="IN_F07_grain_1" value="Sap Grass" />
+  <keys prop="Name" type="monster" key="IN_F17_meal_1" value="Collector's Food Supply" />
+  <keys prop="Name" type="monster" key="IN_F17_mush_2" value="Poison Mushroom" />
+  <keys prop="Name" type="monster" key="IN_F07_box_1" value="Supply Box" />
+  <keys prop="Name" type="monster" key="IN_F07_sack_1" value="Food Supply" />
+  <keys prop="Name" type="monster" key="IN_F17_blue_egg_1" value="Skytear's Egg" />
+  <keys prop="Name" type="monster" key="IN_F17_poison_1" value="Poisonous Herb" />
+  <keys prop="Name" type="monster" key="IN_F07_grain_2" value="Sanctuary Leaf" />
+  <keys prop="Name" type="monster" key="IN_F07_box_001" value="Suspicious Box" />
+  <keys prop="Name" type="monster" key="IN_f07_elfbody_01" value="Elf of Light Corpse" />
+  <keys prop="Name" type="monster" key="IN_f07_elfbody_02" value="Elf of Light Corpse" />
+  <keys prop="Name" type="monster" key="IN_f07_chaocody_01" value="Choas Elf Corpse" />
+  <keys prop="Name" type="monster" key="IN_f07_chaocody_02" value="Choas Elf Corpse" />
+  <keys prop="Name" type="monster" key="IN_F07_jailperson_3" value="Captured Town Resident" />
+  <keys prop="Name" type="monster" key="IN_F07_sickperson_3" value="Poisoned Town Resident" />
+  <keys prop="Name" type="monster" key="IN_F07_demonic_02" value="Demonic Stone" />
+  <keys prop="Name" type="monster" key="IN_F07_elcatapult_01" value="" />
+  <keys prop="Name" type="monster" key="in_c01_d25entry_01" value="PC Bunny's Familiar Academy" />
+  <keys prop="Description" type="monster" key="in_d23_questbox" value="Suspicious Box" />
+  <keys prop="Description" type="monster" key="in_d23_rabifoot" value="Footprints" />
+  <keys prop="Description" type="monster" key="in_d23_carrot" value="Lost Carrot" />
+  <keys prop="Description" type="monster" key="in_d23_mushroom" value="Rabbini Mushroom" />
+  <keys prop="Description" type="monster" key="in_d23_coinbox_a" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d23_coinbox_b" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d23_itembox_a" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d23_itembox_b" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d23_felbox_a" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d23_felbox_b" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d23_goodbox_a" value="Rabbini Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_d23_goodbox_b" value="Rabbini Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_d23_clover" value="Four-Leaf Clover" />
+  <keys prop="Description" type="monster" key="in_d23_wanted" value="Road Sign" />
+  <keys prop="Description" type="monster" key="in_d23_mortar" value="Road Sign" />
+  <keys prop="Description" type="monster" key="in_d23_stone" value="Rabbini Stone" />
+  <keys prop="Description" type="monster" key="IN_HK_rabinibox_1" value="Mysterious Box" />
+  <keys prop="Description" type="monster" key="IN_HK_rabinipumpkin" value="Suspicious Pumpkin" />
+  <keys prop="Description" type="monster" key="in_d23_bombbox" value="Rabbini Explosive Box" />
+  <keys prop="Description" type="monster" key="in_d99_itembox_a" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d99_itembox_b" value="Rabbini Stolen Box" />
+  <keys prop="Description" type="monster" key="in_d99_goodbox_a" value="Rabbini Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_d99_goodbox_b" value="Rabbini Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_1" value="Stone of Identify" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_1Detail" value="Heart of A Child" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_2" value="Stone of Identify" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_2Detail" value="Sad" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_3" value="Stone of Identify" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_3Detail" value="Timid" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_4" value="Stone of Identify" />
+  <keys prop="Description" type="monster" key="in_d99_emostone_4Detail" value="Abrasive" />
+  <keys prop="Description" type="monster" key="in_d99_bombbox" value="Diversionary Bomb Box" />
+  <keys prop="Description" type="monster" key="in_p02_firebox_1" value="Flaming Box" />
+  <keys prop="Description" type="monster" key="in_p02_flower_1" value="Demoring Flower" />
+  <keys prop="Description" type="monster" key="in_c01_rabimotar_1" value="Wish Mortar" />
+  <keys prop="Description" type="monster" key="in_p02_baanthara" value="Vantara Manastone" />
+  <keys prop="Description" type="monster" key="IN_f02_Fishsign_01" value="Fishing Sign" />
+  <keys prop="Description" type="monster" key="IN_f02_Fishsign_02" value="Fishing Sign 2" />
+  <keys prop="Description" type="monster" key="IN_f02_Fishbuoy_01" value="Fishing Buoy" />
+  <keys prop="Description" type="monster" key="IN_d26_elieum_01" value="Ellium Ore" />
+  <keys prop="Description" type="monster" key="IN_d26_elieum_02" value="Ellium Ore" />
+  <keys prop="Description" type="monster" key="in_c02_karande" value="Karande Relic" />
+  <keys prop="Description" type="monster" key="in_c02_firebox_1" value="Flaming Truck" />
+  <keys prop="Description" type="monster" key="in_c02_truckbox_2" value="Truck Box" />
+  <keys prop="Description" type="monster" key="in_c02_ove_artifect" value="Magic Extractor" />
+  <keys prop="Description" type="monster" key="in_c02_ore_box" value="Ore Wagon" />
+  <keys prop="Description" type="monster" key="in_c02_circle" value="Mysterious Magic Circle" />
+  <keys prop="Description" type="monster" key="in_c02_guardtower" value="Bandits Watchtower" />
+  <keys prop="Description" type="monster" key="in_c02_elorablood" value="Ellora's Reliquary" />
+  <keys prop="Description" type="monster" key="in_c02_mohaba_body" value="Mohaban Mercenary Corp" />
+  <keys prop="Description" type="monster" key="in_c02_grape_basket" value="Grape Basket" />
+  <keys prop="Description" type="monster" key="in_d12_equipment" value="Biontransform Apparatus" />
+  <keys prop="Description" type="monster" key="in_parna_altar" value="Water Relic Altar" />
+  <keys prop="Description" type="monster" key="in_c02_box_3" value="First-Aid Kit" />
+  <keys prop="Description" type="monster" key="in_c02_trap_1" value="Broken Trap" />
+  <keys prop="Description" type="monster" key="in_c02_prisoner_1" value="Arrested Worker" />
+  <keys prop="Description" type="monster" key="in_c02_fense_1" value="Pirates Stockades" />
+  <keys prop="Description" type="monster" key="in_c02_jail_1" value="Jail" />
+  <keys prop="Description" type="monster" key="in_c02_crane_2" value="Crane" />
+  <keys prop="Description" type="monster" key="in_c02_brokenlamp_1" value="Broken Lamp" />
+  <keys prop="Description" type="monster" key="in_c02_crow_1" value="Onyx Order Messenger Raven" />
+  <keys prop="Description" type="monster" key="in_c02_tent_1" value="Pirates Tent" />
+  <keys prop="Description" type="monster" key="in_c02_brokenbox_1" value="Broken Crate" />
+  <keys prop="Description" type="monster" key="IN_c02_sot_1" value="Mercenary Pot" />
+  <keys prop="Description" type="monster" key="in_c02_flour_1" value="Stolen Wheat Sack" />
+  <keys prop="Description" type="monster" key="in_p01_baanthara" value="Vantara Manastone" />
+  <keys prop="Description" type="monster" key="in_i01_portal_03" value="Lavalight Cave Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_04" value="Carleon Manor" />
+  <keys prop="Description" type="monster" key="in_i01_portal_05" value="Ruins of Matren Gate" />
+  <keys prop="Description" type="monster" key="in_i01_portal_06" value="Cavern of the Veil Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_07" value="Frost Keep" />
+  <keys prop="Description" type="monster" key="in_i01_portal_08" value="Breach Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_09" value="Ancient Temple Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_10" value="Fallen Legion Fortress Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_11" value="Forgotten Shrine Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_12" value="Fectura Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_13" value="Attaius Barrier Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_14" value="The Gusting Isles Entrance" />
+  <keys prop="Description" type="monster" key="in_d12_0_001" value="Incubator Factory Entrance" />
+  <keys prop="Description" type="monster" key="in_d12_0_004" value="Elder's Treasure Box" />
+  <keys prop="Description" type="monster" key="in_d12_0_005" value="Library Key Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_006" value="Library Key Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_007" value="Library Key Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_008" value="Wail Key Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_009" value="Wail Key Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_010" value="Wail Key Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_011" value="Library Internal Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_012" value="Library Internal Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_013" value="Library Internal Door" />
+  <keys prop="Description" type="monster" key="in_d12_0_014" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_0_015" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_1_001" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_1_002" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_1_003" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_2_001" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_2_002" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_2_003" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d12_3_001" value="Incubator Factory Gate" />
+  <keys prop="Description" type="monster" key="in_d11_1_001" value="Revolutionaries Stockades" />
+  <keys prop="Description" type="monster" key="in_d11_1_002" value="Revolutionaries Stockades" />
+  <keys prop="Description" type="monster" key="in_d11_2_001" value="McTimon Furnace" />
+  <keys prop="Description" type="monster" key="in_d11_2_002" value="McTimon Furnace" />
+  <keys prop="Description" type="monster" key="in_d11_1_003" value="Revolutionaries Barrier" />
+  <keys prop="Description" type="monster" key="in_d11_3_001" value="Laboratory Restricted Door" />
+  <keys prop="Description" type="monster" key="in_d11_3_002" value="Laboratory Restricted Door" />
+  <keys prop="Description" type="monster" key="in_d11_4_001" value="Top Altar Gate" />
+  <keys prop="Description" type="monster" key="in_d11_4_002" value="Top Altar Gate" />
+  <keys prop="Description" type="monster" key="in_d11_5_001" value="Revolutionaries Bell" />
+  <keys prop="Description" type="monster" key="in_d11_1_004" value="Revolutionaries Stockades" />
+  <keys prop="Description" type="monster" key="in_d11_6_001" value="Karade Cannon" />
+  <keys prop="Description" type="monster" key="in_d11_7_001" value="High Explosive Ignition Cartridge" />
+  <keys prop="Description" type="monster" key="in_d11_5_002" value="Revolutionaries Bell" />
+  <keys prop="Description" type="monster" key="in_d11_2_003" value="McTimon Iron Gate" />
+  <keys prop="Description" type="monster" key="IN_D13_lg_01" value="Altar Stockades" />
+  <keys prop="Description" type="monster" key="IN_D13_lg_02" value="Portico" />
+  <keys prop="Description" type="monster" key="IN_D13_lg_03" value="Way of Pilgrims Gateway" />
+  <keys prop="Description" type="monster" key="IN_D13_lg_04" value="Altar of Pilgrims Gateway" />
+  <keys prop="Description" type="monster" key="IN_D13_lg_05" value="Ritual Antechamber Gateway" />
+  <keys prop="Description" type="monster" key="IN_D13_lg_06" value="Way of Ascetics Gateway" />
+  <keys prop="Description" type="monster" key="IN_D13_lg_07" value="Audience Chamber Gateway" />
+  <keys prop="Description" type="monster" key="in_d11_Box_01" value="Revolutionaries Box" />
+  <keys prop="Description" type="monster" key="in_d11_Box_02" value="Revolutionaries Box" />
+  <keys prop="Description" type="monster" key="in_d11_7_002" value="High Explosive Ignition Cartridge" />
+  <keys prop="Description" type="monster" key="in_i01_portal_15" value="Red Revolutionaries Base Entrance" />
+  <keys prop="Description" type="monster" key="in_i01_portal_16" value="Elder's Floating Fort Entrance" />
+  <keys prop="Description" type="monster" key="in_d12_device_1" value="Nuclear Reactor Control" />
+  <keys prop="Description" type="monster" key="in_d12_device_2" value="Biotransform Nuclear Reactor" />
+  <keys prop="Description" type="monster" key="in_d12_device_3" value="Biotransform Nuclear Reactor" />
+  <keys prop="Description" type="monster" key="IN_f01_birdtree_01" value="Branches" />
+  <keys prop="Description" type="monster" key="IN_f01_bird_01" value="Pyro" />
+  <keys prop="Description" type="monster" key="in_f96_carrot_1" value="Withered Carrot" />
+  <keys prop="Description" type="monster" key="in_f96_cabbage_1" value="Withered Cabbage" />
+  <keys prop="Description" type="monster" key="in_f96_garbage_1" value="Rubbish" />
+  <keys prop="Description" type="monster" key="in_t01_0_01" value="Weapon Rack" />
+  <keys prop="Description" type="monster" key="in_t01_0_02" value="Weapon Rack" />
+  <keys prop="Description" type="monster" key="in_t01_0_03" value="Copper Practice" />
+  <keys prop="Description" type="monster" key="in_e01_0_01" value="Merville's Treasure Box" />
+  <keys prop="Description" type="monster" key="in_e01_0_02" value="Merville's Treasure Box" />
+  <keys prop="Description" type="monster" key="in_e01_0_03" value="Fire Bowl" />
+  <keys prop="Description" type="monster" key="in_e01_0_11" value="Manor Main Entrance" />
+  <keys prop="Description" type="monster" key="in_e01_0_12" value="Dark Banquet Hall Front Gate" />
+  <keys prop="Description" type="monster" key="in_e01_0_13" value="Dark Private Residence Front Gate" />
+  <keys prop="Description" type="monster" key="IN_F96_Shed_Def" value="Farm Shed(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Shed_Skin1" value="Austere Familiar Shed" />
+  <keys prop="Description" type="monster" key="IN_F96_Range_Def" value="Farm Wide Fence(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Fence_Def" value="Farm Pen(Default) -Pasture" />
+  <keys prop="Description" type="monster" key="IN_F96_Garden_Def" value="Farm To-collect Garden(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Ore_Def" value="Farm To-collect Ore(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Factory_Def" value="Farm Workshop(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Farm_Def" value="Farm Floating Island(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Tree_Def" value="Farm Background Tree(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Grass_Def" value="Farm Background Grass(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_LandMa_Def" value="Farm Landmark(Default)" />
+  <keys prop="Description" type="monster" key="in_rdc_0_0025" value="Frozen Grating Door" />
+  <keys prop="Description" type="monster" key="IN_F96_Pond_Def" value="Farm Pond(Default)" />
+  <keys prop="Description" type="monster" key="IN_F96_Range_skin1" value="Austere Farm Fence" />
+  <keys prop="Description" type="monster" key="IN_F96_Fence_skin1" value="Austere Familiar Barn" />
+  <keys prop="Description" type="monster" key="in_d23_0_01" value="Rabbini Suspicious Box" />
+  <keys prop="Description" type="monster" key="in_d26_0_01" value="Braghi Mine Copper" />
+  <keys prop="Description" type="monster" key="in_d23_0_02" value="Clear Object" />
+  <keys prop="Description" type="monster" key="in_d26_0_02" value="Clear Object" />
+  <keys prop="Description" type="monster" key="IN_F96_Shed_Skin2" value="Premium Familiar Shed" />
+  <keys prop="Description" type="monster" key="IN_F96_Range_Skin2" value="Premium Farm Fence" />
+  <keys prop="Description" type="monster" key="IN_F96_Fence_Skin2" value="Premium Familiar Barn" />
+  <keys prop="Description" type="monster" key="IN_F96_Fac_Skin1" value="Austere Workshop" />
+  <keys prop="Description" type="monster" key="IN_F96_Fac_Skin2" value="Premium Workshop" />
+  <keys prop="Description" type="monster" key="IN_F96_LandM_Skin1" value="Farm Austere Landmark" />
+  <keys prop="Description" type="monster" key="IN_F96_LandM_Skin2" value="Farm Complex Landmark" />
+  <keys prop="Description" type="monster" key="IN_d98_red_wall" value="The corridor of Lord Shrine Ruby Camp Tent" />
+  <keys prop="Description" type="monster" key="IN_d98_blue_wall" value="The corridor of Lord Shrine Sapphire Camp Tent" />
+  <keys prop="Description" type="monster" key="IN_d98_purple_wall" value="The corridor of Lord Shrine Buff Monster Tent" />
+  <keys prop="Description" type="monster" key="IN_d98_purple_wall2" value="The corridor of Lord Shrine Buff Monster Tent" />
+  <keys prop="Description" type="monster" key="IN_CM_F08_0001" value="Aklan Star Flower" />
+  <keys prop="Description" type="monster" key="IN_CM_F08_0002" value="Crystal" />
+  <keys prop="Description" type="monster" key="IN_CM_F08_0003" value="Fauronium" />
+  <keys prop="Description" type="monster" key="IN_F08_Insectegg_01" value="Ilric Egg" />
+  <keys prop="Description" type="monster" key="IN_F08_Plant_01" value="Cannibal Plants" />
+  <keys prop="Description" type="monster" key="IN_F08_Bioinsect_01" value="Insect Legion Biomodification" />
+  <keys prop="Description" type="monster" key="IN_F08_Altar_01" value="Altar of Consciousness" />
+  <keys prop="Description" type="monster" key="IN_F08_Tower_01" value="Victory Tower" />
+  <keys prop="Description" type="monster" key="IN_F08_Insecthole_01" value="Exid Pit" />
+  <keys prop="Description" type="monster" key="IN_F08_Swarmflag_01" value="Insect Legion Flag" />
+  <keys prop="Description" type="monster" key="IN_F08_Swarmfence_01" value="Insect Legion Fence" />
+  <keys prop="Description" type="monster" key="IN_F08_Insectjail_01" value="Insect LegionPrison" />
+  <keys prop="Description" type="monster" key="in_d07_fence_01" value="Stalactite Pillar Fence" />
+  <keys prop="Description" type="monster" key="in_d07_fence_02" value="Stalactite Pillar Door" />
+  <keys prop="Description" type="monster" key="in_d07_fence_03" value="Cave Iron Door" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_01" value="Mutant Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_02" value="Mutant Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d07_fence_04" value="Cave Iron Door" />
+  <keys prop="Description" type="monster" key="in_d07_fence_05" value="Stalactite Pillar Door" />
+  <keys prop="Description" type="monster" key="in_d07_insectegg_01" value="Sandworm Eggs" />
+  <keys prop="Description" type="monster" key="in_f08_demonic_01" value="Demonic Stone" />
+  <keys prop="Description" type="monster" key="in_d07_fence_07" value="Culture Room Entrance" />
+  <keys prop="Description" type="monster" key="in_f08_quest_001" value="Itildir Supply Box" />
+  <keys prop="Description" type="monster" key="in_f08_quest_002" value="Shining We" />
+  <keys prop="Description" type="monster" key="in_f08_quest_003" value="Insect LegionPrison" />
+  <keys prop="Description" type="monster" key="in_f08_quest_004" value="The Book of Records" />
+  <keys prop="Description" type="monster" key="in_f08_quest_005" value="Magic Stone" />
+  <keys prop="Description" type="monster" key="in_f08_quest_006" value="Magic Stone" />
+  <keys prop="Description" type="monster" key="in_f08_quest_007" value="The plundered Doctor" />
+  <keys prop="Description" type="monster" key="in_f08_quest_008" value="Stolen Itildir Supply" />
+  <keys prop="Description" type="monster" key="in_f08_quest_009" value="Excited We" />
+  <keys prop="Description" type="monster" key="in_f08_quest_010" value="Pool of Dew" />
+  <keys prop="Description" type="monster" key="in_f08_quest_011" value="Trail of Ravigne" />
+  <keys prop="Description" type="monster" key="in_f08_quest_012" value="Rabbini's Carrot" />
+  <keys prop="Description" type="monster" key="in_f08_quest_013" value="Rabbini Trail" />
+  <keys prop="Description" type="monster" key="in_f08_quest_014" value="Rabbini Trail" />
+  <keys prop="Description" type="monster" key="in_f08_quest_015" value="Traces of Soldiers" />
+  <keys prop="Description" type="monster" key="in_f08_quest_016" value="Cannibal Plants" />
+  <keys prop="Description" type="monster" key="in_f08_quest_017" value="Insect LegionPrison" />
+  <keys prop="Description" type="monster" key="in_f08_quest_018" value="Worm pit" />
+  <keys prop="Description" type="monster" key="in_i01_portal_17" value="Entrance Tomb of the Wyrm" />
+  <keys prop="Description" type="monster" key="in_f08_quest_019" value="The truth of the first rumor" />
+  <keys prop="Description" type="monster" key="in_f08_quest_020" value="The truth of the second rumor" />
+  <keys prop="Description" type="monster" key="in_f08_quest_021" value="The truth of the third rumor" />
+  <keys prop="Description" type="monster" key="in_f08_quest_022" value="Listen to the rumors" />
+  <keys prop="Description" type="monster" key="in_f08_quest_023" value="Listen to the place of prophecy" />
+  <keys prop="Description" type="monster" key="in_i01_portal_18" value="Tomb of the Wyrm" />
+  <keys prop="Description" type="monster" key="IN_F08_Insectegg_02" value="Ilric Egg" />
+  <keys prop="Description" type="monster" key="in_D96_Storn_Mon" value="Gem of the Moon" />
+  <keys prop="Description" type="monster" key="in_D96_Storn_Tue" value="Gem of Fire" />
+  <keys prop="Description" type="monster" key="in_D96_Storn_Wed" value="Gem of Water" />
+  <keys prop="Description" type="monster" key="in_D96_Storn_Thu" value="Gem of the Wood" />
+  <keys prop="Description" type="monster" key="in_D96_Storn_Fri" value="Gem of Gold" />
+  <keys prop="Description" type="monster" key="in_D96_Storn_Sat" value="Gem of the Sun" />
+  <keys prop="Description" type="monster" key="in_D96_Storn_Sun" value="Gem of the Earth" />
+  <keys prop="Description" type="monster" key="IN_D96_Rest_End" value="End Break" />
+  <keys prop="Description" type="monster" key="in_t01_0_04" value="Weapon Holder" />
+  <keys prop="Description" type="monster" key="in_i01_portal_19" value="Hadakan Underground Entrance" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_L01" value="Suspicious Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_L02" value="Suspicious Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_L03" value="Suspicious Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_L04" value="Suspicious Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_L05" value="Suspicious Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d07_incubator_L06" value="Suspicious Culture Tube" />
+  <keys prop="Description" type="monster" key="in_d23_bini_box_01" value="Vinisar's Treasure Chest" />
+  <keys prop="Description" type="monster" key="in_d95_wakeup_01" value="Chapley Singer" />
+  <keys prop="Description" type="monster" key="in_d95_dropbox_01" value="Strange Treasure Chest" />
+  <keys prop="Description" type="monster" key="IN_D07_L_01" value="Unknown Lever" />
+  <keys prop="Description" type="monster" key="IN_d06_evilforce_3" value="Khapir Barrier" />
+  <keys prop="Description" type="monster" key="IN_SF_1_0012" value="Ancient Book" />
+  <keys prop="Description" type="monster" key="IN_SF_1_0014" value="Velzeroth Knights Giant Crossbow" />
+  <keys prop="Description" type="monster" key="in_p02_pvpquest_01" value="Traces of Blood" />
+  <keys prop="Description" type="monster" key="in_f02_spotflag_01" value="Guarded Stronghold" />
+  <keys prop="Description" type="monster" key="in_c01_puppyquest_01" value="Huge Puppy Poop" />
+  <keys prop="Description" type="monster" key="in_c01_puppyquest_02" value="Puppy Bowl" />
+  <keys prop="Description" type="monster" key="in_c01_puppyquest_03" value="Puppy Toys" />
+  <keys prop="Description" type="monster" key="in_f02_portal_01" value="Kellwoods Mine Portal" />
+  <keys prop="Description" type="monster" key="in_f02_portal_02" value="Foothills Mine Portal" />
+  <keys prop="Description" type="monster" key="in_f02_portal_03" value="Zadaran Mine Portal" />
+  <keys prop="Description" type="monster" key="in_m01_mineral_01" value="Shining Felicite Vein" />
+  <keys prop="Description" type="monster" key="in_m01_mineral_02" value="High-Purity Felicite Vein" />
+  <keys prop="Description" type="monster" key="in_m01_mineral_03" value="Felicite Vein" />
+  <keys prop="Description" type="monster" key="in_m02_mineral_01" value="Shining Adamantium Vein" />
+  <keys prop="Description" type="monster" key="in_m02_mineral_02" value="High-Purity Adamantium Vein" />
+  <keys prop="Description" type="monster" key="in_m02_mineral_03" value="Adamantium Vein" />
+  <keys prop="Description" type="monster" key="in_m03_mineral_01" value="Shining Emerald Vein" />
+  <keys prop="Description" type="monster" key="in_m03_mineral_02" value="High-Purity Emerald Vein" />
+  <keys prop="Description" type="monster" key="in_m03_mineral_03" value="Emerald Vein" />
+  <keys prop="Description" type="monster" key="in_m01_mineral_04" value="Shining Felicite Vein" />
+  <keys prop="Description" type="monster" key="in_m01_mineral_05" value="High-Purity Felicite Vein" />
+  <keys prop="Description" type="monster" key="in_m01_mineral_06" value="Felicite Vein" />
+  <keys prop="Description" type="monster" key="in_m02_mineral_04" value="Shining Adamantium Vein" />
+  <keys prop="Description" type="monster" key="in_m02_mineral_05" value="High-Purity Adamantium Vein" />
+  <keys prop="Description" type="monster" key="in_m02_mineral_06" value="Adamantium Vein" />
+  <keys prop="Description" type="monster" key="in_m03_mineral_04" value="Shining Emerald Vein" />
+  <keys prop="Description" type="monster" key="in_m03_mineral_05" value="High-Purity Emerald Vein" />
+  <keys prop="Description" type="monster" key="in_m03_mineral_06" value="Emerald Vein" />
+  <keys prop="Description" type="monster" key="in_e02_snowbank_01" value="Pile" />
+  <keys prop="Description" type="monster" key="in_c01_xmaspuppy_01" value="Winter" />
+  <keys prop="Description" type="monster" key="in_c01_xmasbox_01" value="Christmas box" />
+  <keys prop="Description" type="monster" key="in_c01_xmassled_01" value="Christmas sled" />
+  <keys prop="Description" type="monster" key="in_d94_boss_001" value="Delicious meat" />
+  <keys prop="Description" type="monster" key="in_d94_boss_002" value="Delicious meat" />
+  <keys prop="Description" type="monster" key="in_d94_boss_003" value="Chewy meat" />
+  <keys prop="Description" type="monster" key="in_d94_boss_004" value="Chewy meat" />
+  <keys prop="Description" type="monster" key="in_c01_olympic_01" value="Sports" />
+  <keys prop="Description" type="monster" key="in_c01_olympic_02" value="Sports" />
+  <keys prop="Description" type="monster" key="in_f03_olympic_snow" value="Pile" />
+  <keys prop="Description" type="monster" key="in_c01_egg_01" value="Treasure" />
+  <keys prop="Description" type="monster" key="in_c01_egg_02" value="Treasure" />
+  <keys prop="Description" type="monster" key="in_e02_dropbox_01" value="Matthew's Gift Box" />
+  <keys prop="Name" type="monster" key="in_d11_Box_03" value="Innovation list secret box" />
+  <keys prop="Description" type="monster" key="in_d11_portal_01" value="Cracking" />
+  <keys prop="Description" type="monster" key="in_f02_summer00_01" value="Yarmi's Gift" />
+  <keys prop="Description" type="monster" key="in_d88_pt_01" value="A firm locked door" />
+  <keys prop="Description" type="monster" key="in_d88_timerbomb" value="Crushed device" />
+  <keys prop="Description" type="monster" key="in_d88_Box_01" value="Energy of condensed horsepower" />
+  <keys prop="Description" type="monster" key="in_e02_winter_01" value="Winter debris" />
+  <keys prop="Description" type="monster" key="in_d92_grape_basket" value="Grape basket" />
+  <keys prop="Description" type="monster" key="in_c01_evpumpkin" value="Pumpkin" />
+  <keys prop="Description" type="monster" key="In_f08_evpack" value="Lost bot" />
+  <keys prop="Description" type="monster" key="in_c01_evbox_01" value="Gift box with gift boxes" />
+  <keys prop="Description" type="monster" key="in_ev_tresurebox_01" value="Ravinibi's box" />
+  <keys prop="Description" type="monster" key="in_ev11_flower" value="Blood flowers" />
+  <keys prop="Description" type="monster" key="in_ev11_thorn" value="Kalibaa's nest" />
+  <keys prop="Description" type="monster" key="in_ev12_box" value="Spirit" />
+  <keys prop="Description" type="monster" key="in_ev2201_ice01" value="Ice that does not melt" />
+  <keys prop="Description" type="monster" key="in_ev2201_ice02" value="Large green ice" />
+  <keys prop="Description" type="monster" key="in_ev2201_wood01" value="Magic wooden firewood" />
+  <keys prop="Description" type="monster" key="in_ev2201_wood02" value="A large magical wooden firewood" />
+  <keys prop="Description" type="monster" key="in_ev2201_stone01" value="Spirit" />
+  <keys prop="Description" type="monster" key="in_ev2201_stone02" value="Zone" />
+  <keys prop="Description" type="monster" key="in_ev2202_box01" value="Martry and Monio Box" />
+  <keys prop="Description" type="monster" key="in_ev2204_dogpoop_01" value="Traces of dog feet" />
+  <keys prop="Description" type="monster" key="in_ev2204_box_01" value="Hidden gift box" />
+  <keys prop="Description" type="monster" key="in_ev2207_star_01" value="Starter" />
+  <keys prop="Description" type="monster" key="in_ev2207_star_02" value="Brilliant" />
+  <keys prop="Description" type="monster" key="in_ev2208_ice_01" value="Strawberry ice cream" />
+  <keys prop="Description" type="monster" key="in_ev2208_ice_02" value="Green tea ice cream" />
+  <keys prop="Description" type="monster" key="in_ev2208_ice_03" value="Chocolate ice cream" />
+  <keys prop="Description" type="monster" key="in_ev2209_io_01" value="Herbs with the full moon" />
+  <keys prop="Description" type="monster" key="in_ev2209_io_02" value="Moon mushroom" />
+  <keys prop="Description" type="monster" key="in_ev2209_io_03" value="Millennium" />
+  <keys prop="Description" type="monster" key="in_ev2209_io_04" value="Festival" />
+  <keys prop="Description" type="monster" key="in_ev2209_io_05" value="Halo favo de mel" />
+  <keys prop="Description" type="monster" key="in_ev2209_io_06" value="Banco de Cozinha Engraçado" />
+  <keys prop="Description" type="monster" key="in_ev2210_io_01" value="A porta para o submundo" />
+  <keys prop="Description" type="monster" key="in_ev2210_io_02" value="Abóbora de Halloween" />
+  <keys prop="Description" type="monster" key="IN_F96_Shed_Skin3" value="Congratulações dos melhores companheiros" />
+  <keys prop="Description" type="monster" key="IN_F96_Fence_Skin3" value="Nossos companheiros de primeira classe" />
+  <keys prop="Description" type="monster" key="IN_F96_Fac_Skin3" value="A oficina da mais alta qualidade" />
+  <keys prop="Description" type="monster" key="IN_F96_Range_Skin3" value="A melhor cerca" />
+  <keys prop="Description" type="monster" key="in_ev2301_io_01" value="Sweet beehive" />
+  <keys prop="Description" type="monster" key="in_ev2301_io_02" value="Fresh Rice" />
+  <keys prop="Description" type="monster" key="in_ev2302_io_01" value="Flower of Kumadori Cave" />
+  <keys prop="Description" type="monster" key="in_i01_portal_20" value="Integration-only dragon god's hideout" />
+  <keys prop="Description" type="monster" key="in_d89_Box_01" value="Concentrated Magical Energy" />
+  <keys prop="Description" type="monster" key="IN_F10_1_0001" value="Mint" />
+  <keys prop="Description" type="monster" key="IN_F10_1_0002" value="Keg" />
+  <keys prop="Description" type="monster" key="IN_F10_1_0003" value="Lavini shop sign" />
+  <keys prop="Description" type="monster" key="in_ev2304_io_01" value="Ballot Box" />
+  <keys prop="Description" type="monster" key="in_ev2304_io_02" value="Dream box" />
 </files>

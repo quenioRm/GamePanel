@@ -6,16 +6,23 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\User;
 use App\Models\CashShopBuyHistory;
+use App\Models\Alerts;
 
 class IcarusOnlineController extends Controller
 {
     public function IcarusAuthCheck(Request $request)
     {
+        $alert = Alerts::CheckIfExistsMaintenance();
+
         $account = User::FindAccountByUUID($request['keyVal1']);
+
         if($account == null)
             return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
 
         if($account->isBlockEmailDomain == 1)
+            return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
+
+        if($account->permission == 0 && $alert == false)
             return response()->xml(null, $status = 200, $headers = [], $xmlRoot = 'root', $encoding = null);
 
         $data = array(

@@ -1,23 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="DY_0_0_0000" value="Gold General Hair Dye" />
-  <keys type="item" key="DY_0_0_0001" value="High quality gold dye." />
-  <keys type="item" key="DY_0_0_0002" value="Light yellow general random dye" />
-  <keys type="item" key="DY_0_0_0003" value="Light blue general random dye" />
-  <keys type="item" key="DY_0_0_0004" value="Light red general random dye" />
-  <keys type="item" key="DY_0_0_0005" value="Light yellow high-grade random dye" />
-  <keys type="item" key="DY_0_0_0006" value="Light blue advanced random dye" />
-  <keys type="item" key="DY_0_0_0007" value="Light red high-grade random dye" />
-  <keys type="item" key="DY_1_0_0000" value="hair random dye" />
-  <keys type="item" key="DY_1_0_0001" value="bridge random hair dye" />
-  <keys type="item" key="DY_1_0_0002" value="red hair dye" />
-  <keys type="item" key="DY_1_0_0003" value="blue hair dye" />
-  <keys type="item" key="DY_1_0_0004" value="yellow hair dye" />
-  <keys type="item" key="DY_1_0_0005" value="white hair dye" />
-  <keys type="item" key="DY_1_0_0006" value="black hair dye" />
-  <keys type="item" key="DY_1_0_0007" value="red bridge dye" />
-  <keys type="item" key="DY_1_0_0008" value="blue bridge dye" />
-  <keys type="item" key="DY_1_0_0009" value="yellow bridge dye" />
-  <keys type="item" key="DY_1_0_0010" value="white bridge dye" />
-  <keys type="item" key="DY_1_0_0011" value="black bridge dye" />
+  <keys prop="Name" type="item" key="DY_0_0_0000" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="DY_0_0_0001" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0001_description" value="" />
+  <keys prop="Name" type="item" key="DY_0_0_0002" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0002_description" value="" />
+  <keys prop="Name" type="item" key="DY_0_0_0003" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0003_description" value="" />
+  <keys prop="Name" type="item" key="DY_0_0_0004" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0004_description" value="" />
+  <keys prop="Name" type="item" key="DY_0_0_0005" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0005_description" value="" />
+  <keys prop="Name" type="item" key="DY_0_0_0006" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0006_description" value="" />
+  <keys prop="Name" type="item" key="DY_0_0_0007" value="" />
+  <keys prop="Description" type="item" key="DY_0_0_0007_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0000" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0000_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0001" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0001_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0002" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0002_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0003" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0003_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0004" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0004_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0005" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0005_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0006" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0006_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0007" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0007_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0008" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0008_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0009" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0009_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0010" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0010_description" value="" />
+  <keys prop="Name" type="item" key="DY_1_0_0011" value="" />
+  <keys prop="Description" type="item" key="DY_1_0_0011_description" value="" />
 </files>

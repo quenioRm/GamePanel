@@ -1,769 +1,1228 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="skill" key="moramp2" value="Dutiful Sacrifice" />
-  <keys type="skill" key="mofigo1" value="Earth Strike" />
-  <keys type="skill" key="mofigo2" value="Earth Smash" />
-  <keys type="skill" key="mosantinl05" value="Frozen Pillar" />
-  <keys type="skill" key="mogarmu03" value="Pulverize" />
-  <keys type="skill" key="mobragseld00" value="All-out Strike" />
-  <keys type="skill" key="morzt1" value="Justice Slash" />
-  <keys type="skill" key="morzt2" value="Inferno Sphere" />
-  <keys type="skill" key="morzt3" value="Fire Incarnate" />
-  <keys type="skill" key="morzt4" value="Meteor of Judgment" />
-  <keys type="skill" key="morzt5" value="Meteor of Judgment" />
-  <keys type="skill" key="momupa1" value="Rising Truth" />
-  <keys type="skill" key="momupa2" value="Earth Blow" />
-  <keys type="skill" key="momupa3" value="Power Stomp" />
-  <keys type="skill" key="momupa4" value="Last Resistance" />
-  <keys type="skill" key="momupa5" value="Last Resistance" />
-  <keys type="skill" key="momupa6" value="Last Resistance" />
-  <keys type="skill" key="mohama1" value="Shoulder Charge" />
-  <keys type="skill" key="mohama2" value="Rearing Kick" />
-  <keys type="skill" key="mohama3" value="Head Blow" />
-  <keys type="skill" key="mohama4" value="Last Resistance" />
-  <keys type="skill" key="mohama5" value="Last Resistance" />
-  <keys type="skill" key="mohama6" value="Last Resistance" />
-  <keys type="skill" key="mokas1" value="Vacuum Cut" />
-  <keys type="skill" key="mokas2" value="Sandstorm Cut" />
-  <keys type="skill" key="mokas3" value="Desert Rage" />
-  <keys type="skill" key="mokas4" value="Violent Sandstorm" />
-  <keys type="skill" key="mokas5" value="Raging Sandstorm" />
-  <keys type="skill" key="mokass1" value="Violent Sandstorm" />
-  <keys type="skill" key="mokass2" value="Violent Sandstorm" />
-  <keys type="skill" key="mokasv1" value="Vacuum Cut" />
-  <keys type="skill" key="mojas1" value="Flame Sphere" />
-  <keys type="skill" key="mojas2" value="Dancing Fire Pillar" />
-  <keys type="skill" key="mojas3" value="Avalanche" />
-  <keys type="skill" key="mojas4" value="Absolute Zero" />
-  <keys type="skill" key="mojas5" value="Encroaching Darkness" />
-  <keys type="skill" key="mojas6" value="Scourging Light" />
-  <keys type="skill" key="mojas7" value="Radiant Flash" />
-  <keys type="skill" key="mojas8" value="Deep Darkness" />
-  <keys type="skill" key="mojasa1" value="Dancing Fire Pillar" />
-  <keys type="skill" key="mojasa2" value="Scourging Light" />
-  <keys type="skill" key="mojasa3" value="Deep Darkness" />
-  <keys type="skill" key="mojasa4" value="Dancing Fire Pillar" />
-  <keys type="skill" key="mosin1" value="Death's Mark" />
-  <keys type="skill" key="mosin2" value="Dancing Dagger" />
-  <keys type="skill" key="mosin3" value="Smokescreen" />
-  <keys type="skill" key="mosin4" value="Illusion" />
-  <keys type="skill" key="mosin5" value="Dragon Rising" />
-  <keys type="skill" key="mosin6" value="Thunderbolt" />
-  <keys type="skill" key="mosin7" value="Concentration" />
-  <keys type="skill" key="mosin8" value="Maddening Sprint" />
-  <keys type="skill" key="mosin9" value="Maddening Sprint" />
-  <keys type="skill" key="mosin10" value="Maddening Sprint" />
-  <keys type="skill" key="mosin11" value="Maddening Sprint" />
-  <keys type="skill" key="mosin12" value="Maddening Sprint" />
-  <keys type="skill" key="mosins1" value="Smokescreen" />
-  <keys type="skill" key="moruinbow1" value="Sand Arrow" />
-  <keys type="skill" key="momohabosal01" value="Piercing Javelin" />
-  <keys type="skill" key="mokrokbowmangs00" value="Crokhoon Arrow" />
-  <keys type="skill" key="mokrokpriesgs01" value="Symbol of Courage" />
-  <keys type="skill" key="mokrokpriesgs00" value="Heal" />
-  <keys type="skill" key="mosinf1" value="Maddening Sprint" />
-  <keys type="skill" key="mosinf2" value="Dancing Dagger" />
-  <keys type="skill" key="mosinf3" value="Smokescreen" />
-  <keys type="skill" key="mosinf4" value="waterspout" />
-  <keys type="skill" key="morg1" value="Rough Counterattack" />
-  <keys type="skill" key="morg2" value="Lion's Roar" />
-  <keys type="skill" key="morg3" value="Earthquake" />
-  <keys type="skill" key="morg4" value="Earthquake" />
-  <keys type="skill" key="morg5" value="Death Squad" />
-  <keys type="skill" key="morg6" value="Defensive Posture" />
-  <keys type="skill" key="morg7" value="Defensive Posture" />
-  <keys type="skill" key="morg8" value="Defensive Posture" />
-  <keys type="skill" key="morg9" value="Defensive Posture" />
-  <keys type="skill" key="morg10" value="Fire Pillar" />
-  <keys type="skill" key="mobm1" value="Hammer Toss" />
-  <keys type="skill" key="mobm2" value="Poison Toss" />
-  <keys type="skill" key="mobm3" value="Bomb Toss" />
-  <keys type="skill" key="mobtw1" value="Sandstorm" />
-  <keys type="skill" key="mobtf1" value="Fire Pillar" />
-  <keys type="skill" key="mobtic1" value="Ice Arrow" />
-  <keys type="skill" key="mobti1" value="Iron Pillar" />
-  <keys type="skill" key="mobma1" value="Activate Trap" />
-  <keys type="skill" key="mobma2" value="Activate Trap" />
-  <keys type="skill" key="mobma3" value="Activate Trap" />
-  <keys type="skill" key="mobma4" value="Activate Trap" />
-  <keys type="skill" key="moshm1" value="Axe Spin" />
-  <keys type="skill" key="moshm2" value="Bottoms Up" />
-  <keys type="skill" key="moshm3" value="Throw Cask" />
-  <keys type="skill" key="moshm4" value="Call Reinforcements" />
-  <keys type="skill" key="moyrs1" value="Dominant Virtue" />
-  <keys type="skill" key="moyrs2" value="Thrust" />
-  <keys type="skill" key="moyrs3" value="Cold Blood" />
-  <keys type="skill" key="moyrs4" value="Cold Blood" />
-  <keys type="skill" key="moyrs5" value="Cold Blood" />
-  <keys type="skill" key="moyrs6" value="Cold Blood" />
-  <keys type="skill" key="moyrs7" value="Raid Summons" />
-  <keys type="skill" key="moyrs8" value="Rough Counterattack" />
-  <keys type="skill" key="momnc1" value="Rodesh's Greater Healing" />
-  <keys type="skill" key="momnc11" value="Greater Healing" />
-  <keys type="skill" key="momnc2" value="Holy Symbol" />
-  <keys type="skill" key="momnc3" value="Punishing Radiance" />
-  <keys type="skill" key="momnc4" value="Inviolate Symbol" />
-  <keys type="skill" key="momnc5" value="Resurrection" />
-  <keys type="skill" key="momnc6" value="Meteor of Judgment" />
-  <keys type="skill" key="momnc7" value="Tundra" />
-  <keys type="skill" key="momnc8" value="Biting Tundra" />
-  <keys type="skill" key="momnco1" value="Tundra" />
-  <keys type="skill" key="momta1" value="Tundra" />
-  <keys type="skill" key="momip1" value="Ice Pillar" />
-  <keys type="skill" key="momjm1" value="Meteor of Judgment" />
-  <keys type="skill" key="momupar1" value="Rough Counterattack" />
-  <keys type="skill" key="mohamar1" value="Rough Counterattack" />
-  <keys type="skill" key="mokrokgladi00" value="Dominant Virtue" />
-  <keys type="skill" key="mokrokgladigs00" value="Dominant Virtue" />
-  <keys type="skill" key="momorgaso00" value="Slave Contract" />
-  <keys type="skill" key="modarkremove00" value="Dark Release" />
-  <keys type="skill" key="modarkarrows00" value="Liberated Darkness" />
-  <keys type="skill" key="modarkshadow01" value="Shadow of Death" />
-  <keys type="skill" key="moindarkmo00" value="Roar in the Dark" />
-  <keys type="skill" key="momc1" value="Hellfire" />
-  <keys type="skill" key="momc2" value="Storm" />
-  <keys type="skill" key="momc3" value="Amputation" />
-  <keys type="skill" key="momc4" value="Leap" />
-  <keys type="skill" key="momc5" value="Burning Eyes" />
-  <keys type="skill" key="momc6" value="Chains of Silence" />
-  <keys type="skill" key="momc7" value="Black Magic Transformation" />
-  <keys type="skill" key="momc8" value="Magic Explosion" />
-  <keys type="skill" key="momadness00" value="Maddening Shout" />
-  <keys type="skill" key="mocompact00" value="Condense" />
-  <keys type="skill" key="mopollutiona01" value="Tainted Earth" />
-  <keys type="skill" key="mobloodyb01" value="Bloody" />
-  <keys type="skill" key="mostd1" value="Bil'rahn's Trap" />
-  <keys type="skill" key="mostd2" value="Bil'rahn's Trap" />
-  <keys type="skill" key="momcf1" value="Leap" />
-  <keys type="skill" key="momcf2" value="Amputation" />
-  <keys type="skill" key="momcf3" value="Amputation" />
-  <keys type="skill" key="momcf4" value="Burning Eyes" />
-  <keys type="skill" key="momcf5" value="Burning Eyes" />
-  <keys type="skill" key="mobragiseld02" value="Hip Slash" />
-  <keys type="skill" key="mobulls02" value="Revolutionary Mark" />
-  <keys type="skill" key="mobulls03" value="Betrayal Mark" />
-  <keys type="skill" key="mocactus00" value="Cactus Needle" />
-  <keys type="skill" key="mocactus01" value="Cactus Water" />
-  <keys type="skill" key="mobragismisor00" value="Blunt Weapon Slaughter" />
-  <keys type="skill" key="mowormhelllink04" value="Sand Hell" />
-  <keys type="skill" key="mowormhelllink05" value="Sand Hell" />
-  <keys type="skill" key="momohahealer03" value="Sandstorm" />
-  <keys type="skill" key="momohahealer05" value="Sandstorm" />
-  <keys type="skill" key="momohasp00" value="Throw Spear" />
-  <keys type="skill" key="momohabosal00" value="Throw Spear" />
-  <keys type="skill" key="momahal00" value="Fury" />
-  <keys type="skill" key="mosnakep00" value="Poisoned" />
-  <keys type="skill" key="mosnakep01" value="Poisoned" />
-  <keys type="skill" key="monivar1" value="Call of the Dead" />
-  <keys type="skill" key="mopasit01" value="Revival Ritual" />
-  <keys type="skill" key="mobragiseld03" value="Sultan's Rage" />
-  <keys type="skill" key="morashastone00" value="Pain" />
-  <keys type="skill" key="arpoison03" value="Envenenado" />
-  <keys type="skill" key="modiebis00" value="Gravity Crush" />
-  <keys type="skill" key="modiebis01" value="Perception Change" />
-  <keys type="skill" key="modiebis001" value="Perception Change" />
-  <keys type="skill" key="modiebis02" value="Storm" />
-  <keys type="skill" key="modiebis03" value="Dizzy" />
-  <keys type="skill" key="modiebis003" value="Dizzy" />
-  <keys type="skill" key="modiebis04" value="Typhoon" />
-  <keys type="skill" key="modiebis05" value="Earthquake" />
-  <keys type="skill" key="modiejera00" value="Death Curse" />
-  <keys type="skill" key="modiejera000" value="Curse Release" />
-  <keys type="skill" key="modiejera03" value="Axe Butcher" />
-  <keys type="skill" key="modiejera04" value="Resist" />
-  <keys type="skill" key="modiejera05" value="Hell's Gate" />
-  <keys type="skill" key="modiejera06" value="Energy After Death" />
-  <keys type="skill" key="modiejera07" value="Call of the Dead" />
-  <keys type="skill" key="mose1" value="Destroyed Arm" />
-  <keys type="skill" key="mose01" value="Restore Arm" />
-  <keys type="skill" key="mose2" value="Destroyed Hand" />
-  <keys type="skill" key="mose02" value="Restore Hands" />
-  <keys type="skill" key="mose3" value="Destroy Manastone" />
-  <keys type="skill" key="mose03" value="Restore Manastone" />
-  <keys type="skill" key="moss1" value="Sand Cut" />
-  <keys type="skill" key="moss11" value="Sand Cut" />
-  <keys type="skill" key="moss2" value="Sand Mace" />
-  <keys type="skill" key="moss22" value="Sand Mace" />
-  <keys type="skill" key="moss3" value="Sandstorm" />
-  <keys type="skill" key="moss44" value="Sandstorm" />
-  <keys type="skill" key="moss5" value="Sand Hell" />
-  <keys type="skill" key="moss55" value="Sand Hell" />
-  <keys type="skill" key="moss555" value="Sand Hell" />
-  <keys type="skill" key="moss6" value="Sandstorm Flutter" />
-  <keys type="skill" key="moss66" value="Sandstorm" />
-  <keys type="skill" key="moss7" value="Drop Fragment" />
-  <keys type="skill" key="moskalion04" value="Shell Hardening" />
-  <keys type="skill" key="moskal05" value="Call of Abyss" />
-  <keys type="skill" key="moskal06" value="Spinning Slash" />
-  <keys type="skill" key="moskal066" value="Spinning Slash" />
-  <keys type="skill" key="moag1" value="Abyssal Heritage" />
-  <keys type="skill" key="moag2" value="Abyssal Heritage" />
-  <keys type="skill" key="moag3" value="Abyssal Heritage" />
-  <keys type="skill" key="moalk1" value="Spinning Weapon" />
-  <keys type="skill" key="moalk11" value="Spinning Weapon" />
-  <keys type="skill" key="modiegar00" value="Menacing Roar" />
-  <keys type="skill" key="modiegar01" value="Raging Tremor" />
-  <keys type="skill" key="modiegar02" value="Mournful Cry" />
-  <keys type="skill" key="moishzora001" value="Vile Net" />
-  <keys type="skill" key="moishzora004" value="Chain of Hatred" />
-  <keys type="skill" key="moishzora005" value="Distortion" />
-  <keys type="skill" key="moishzora007" value="Immortal Resistance" />
-  <keys type="skill" key="moishzora008" value="Immortal Spell" />
-  <keys type="skill" key="mohr4" value="Frost Blade Wind" />
-  <keys type="skill" key="moimpsu01" value="Recover Energy" />
-  <keys type="skill" key="moramashoo08" value="Dark Protection" />
-  <keys type="skill" key="moramashoo09" value="Dark Summons" />
-  <keys type="skill" key="moramashoo001" value="Dark Arrow" />
-  <keys type="skill" key="moramashoo07" value="Dark Temptation" />
-  <keys type="skill" key="mocregole01" value="Rift Echo" />
-  <keys type="skill" key="mocregole02" value="Rift Might" />
-  <keys type="skill" key="moankelionl06" value="Sleet Barrage" />
-  <keys type="skill" key="morayarea001" value="Rift Might" />
-  <keys type="skill" key="morayarea002" value="Rift Might" />
-  <keys type="skill" key="mobomb01" value="Barrier Bomb" />
-  <keys type="skill" key="mobomb02" value="Izhora's Bomb" />
-  <keys type="skill" key="moishzora006" value="Boiling Hatred" />
-  <keys type="skill" key="mopinion03" value="Oblivion Wave" />
-  <keys type="skill" key="mopinion02" value="Finion's Roar" />
-  <keys type="skill" key="mojamirot01" value="Tail Slap" />
-  <keys type="skill" key="mojamirot00" value="Terrifying Roar" />
-  <keys type="skill" key="mokalipos02" value="Back Kick" />
-  <keys type="skill" key="mokalipos03" value="Calypos's Power" />
-  <keys type="skill" key="itco_throwbomb" value="Elven Bomb" />
-  <keys type="skill" key="mojeje0" value="Little Devil" />
-  <keys type="skill" key="mosandw4" value="Sand Hell" />
-  <keys type="skill" key="mobgboom0" value="Protein Addiction" />
-  <keys type="skill" key="moradan001" value="Ring's Temptation" />
-  <keys type="skill" key="moyatajr0" value="Storm Spheres" />
-  <keys type="skill" key="moghoul0" value="Curse of the Living" />
-  <keys type="skill" key="monight0" value="Overtime Report" />
-  <keys type="skill" key="mogabug0" value="Bug" />
-  <keys type="skill" key="mobism1" value="Two Years Later" />
-  <keys type="skill" key="mojeras1" value="Ritual" />
-  <keys type="skill" key="mocoont1" value="Avalanche" />
-  <keys type="skill" key="moldra0" value="Fast Pace" />
-  <keys type="skill" key="momom0" value="Parental Enemy" />
-  <keys type="skill" key="moraim0" value="Nature's Restraint" />
-  <keys type="skill" key="moelsa0" value="Ice Arrow" />
-  <keys type="skill" key="moyatalight0" value="Electrical Discharge" />
-  <keys type="skill" key="modiear0" value="Cry of the Dead" />
-  <keys type="skill" key="monecro0" value="Art of Doppelganger" />
-  <keys type="skill" key="mocomrt1" value="Mysterious Energy" />
-  <keys type="skill" key="mortb1" value="Carrot Bomb" />
-  <keys type="skill" key="mortb2" value="Carrot Dynamite" />
-  <keys type="skill" key="mortb3" value="Pumpkin Bomb" />
-  <keys type="skill" key="morenit1" value="Raging Grudge" />
-  <keys type="skill" key="momonk0" value="Hydro Pump" />
-  <keys type="skill" key="momonk1" value="Sea Storm" />
-  <keys type="skill" key="moicego1" value="Ice Fragment" />
-  <keys type="skill" key="moicbom1" value="Freeze Tag" />
-  <keys type="skill" key="moronw1" value="Cold Wave" />
-  <keys type="skill" key="moronw2" value="Cold Wave" />
-  <keys type="skill" key="mohema1" value="Poisoned" />
-  <keys type="skill" key="mocoont2" value="Frozen Echo" />
-  <keys type="skill" key="mocoont3" value="Uppercut" />
-  <keys type="skill" key="mocoont4" value="Frozen Earth" />
-  <keys type="skill" key="mocoont5" value="Icy Rage" />
-  <keys type="skill" key="mopegasus01" value="Harvest Moon Horror" />
-  <keys type="skill" key="mopegasus02" value="Master of the Night" />
-  <keys type="skill" key="moforg1" value="Rough Counterattack" />
-  <keys type="skill" key="moforg3" value="Earthquake" />
-  <keys type="skill" key="moforonw1" value="Cold Wave" />
-  <keys type="skill" key="mofoheavyrondo02" value="Frozen Path" />
-  <keys type="skill" key="mofoheavyrondo03" value="Frozen Path" />
-  <keys type="skill" key="mofoheavyrondo04" value="Freezing Wind" />
-  <keys type="skill" key="mofoheavyrondo05" value="Freezing Wind" />
-  <keys type="skill" key="moyatabom1" value="Electrical Discharge" />
-  <keys type="skill" key="moytbom1" value="Electrical Discharge" />
-  <keys type="skill" key="moort7" value="Void Pillar" />
-  <keys type="skill" key="moort2" value="Madness Gaze" />
-  <keys type="skill" key="moort22" value="Madness Gaze" />
-  <keys type="skill" key="moort222" value="Madness Gaze" />
-  <keys type="skill" key="moort2222" value="Madness Gaze" />
-  <keys type="skill" key="moortbom" value="Doubt" />
-  <keys type="skill" key="moort9" value="Sever" />
-  <keys type="skill" key="moort99" value="Sever" />
-  <keys type="skill" key="moort999" value="Sever" />
-  <keys type="skill" key="moort4" value="Helplessness" />
-  <keys type="skill" key="moort5" value="Oruun's Rage" />
-  <keys type="skill" key="moort1" value="Despairing" />
-  <keys type="skill" key="moort11" value="Despairing" />
-  <keys type="skill" key="moort111" value="Despairing" />
-  <keys type="skill" key="moort3" value="Lunacy" />
-  <keys type="skill" key="moort6" value="Void Shield" />
-  <keys type="skill" key="moort0" value="Glaze of Destruction" />
-  <keys type="skill" key="moband5" value="Moonshade" />
-  <keys type="skill" key="moband08" value="Wild Shot" />
-  <keys type="skill" key="moband3" value="Moonshade" />
-  <keys type="skill" key="moband009" value="Blistering Gale" />
-  <keys type="skill" key="moband8" value="Call of the Dead" />
-  <keys type="skill" key="moban00" value="Death Wail" />
-  <keys type="skill" key="moban01" value="Death Wail" />
-  <keys type="skill" key="moband1" value="Lunar Eclipse" />
-  <keys type="skill" key="moband001" value="Lunar Eclipse" />
-  <keys type="skill" key="moband07" value="Raze" />
-  <keys type="skill" key="moband4" value="Solar Eclipse" />
-  <keys type="skill" key="moband002" value="Solar Eclipse" />
-  <keys type="skill" key="mofires0" value="Fire Storm" />
-  <keys type="skill" key="moband6" value="Sunspot" />
-  <keys type="skill" key="moband2" value="Solar Flare" />
-  <keys type="skill" key="moakeshot01" value="Solid Shot" />
-  <keys type="skill" key="moakesmite01" value="Blam" />
-  <keys type="skill" key="moakemagi02" value="Thunderstroke" />
-  <keys type="skill" key="moakeheal01" value="Forbidden Practice" />
-  <keys type="skill" key="moakewither01" value="Incantation of Weakness" />
-  <keys type="skill" key="moakebom0" value="Fuse Igniter" />
-  <keys type="skill" key="moakebom1" value="Suicide Bomb" />
-  <keys type="skill" key="moort30" value="Absorb Life" />
-  <keys type="skill" key="moort31" value="Dream" />
-  <keys type="skill" key="moort40" value="Dream" />
-  <keys type="skill" key="moort41" value="Dream" />
-  <keys type="skill" key="moakekaron03" value="Seething Dragon's Roar" />
-  <keys type="skill" key="morabcar1" value="Plant Carrot" />
-  <keys type="skill" key="morabcar2" value="Plant Pumpkin" />
-  <keys type="skill" key="morabth1" value="Carrot Bomb" />
-  <keys type="skill" key="morabth2" value="Pumpkin Bomb" />
-  <keys type="skill" key="morabth3" value="Taunt" />
-  <keys type="skill" key="modjsora11" value="Spiccato" />
-  <keys type="skill" key="modjsora22" value="Power Chord" />
-  <keys type="skill" key="modjsora33" value="Forte" />
-  <keys type="skill" key="modjsora44" value="Ostinato" />
-  <keys type="skill" key="moband20" value="Cursed Affliction" />
-  <keys type="skill" key="modray1" value="Energy Beam" />
-  <keys type="skill" key="modray2" value="Energy Beam" />
-  <keys type="skill" key="modray3" value="Energy Beam" />
-  <keys type="skill" key="mochilda1" value="Massive Slam" />
-  <keys type="skill" key="mochilda2" value="Palling Around" />
-  <keys type="skill" key="mochilda3" value="Skipping Rope" />
-  <keys type="skill" key="moband10" value="Dead Man's Ire" />
-  <keys type="skill" key="mochilda4" value="Best Buddies" />
-  <keys type="skill" key="moniblee1" value="Brother" />
-  <keys type="skill" key="modjshock1" value="Electric Shock" />
-  <keys type="skill" key="moghoat1" value="Out of Body" />
-  <keys type="skill" key="moghoat2" value="Dutiful Sacrifice" />
-  <keys type="skill" key="moakeknight01" value="Death Cry" />
-  <keys type="skill" key="moakeignit01" value="Ignite" />
-  <keys type="skill" key="moakemagi01" value="Devil's Eye" />
-  <keys type="skill" key="moakemagi03" value="Obvious Weakness" />
-  <keys type="skill" key="moakemundo01" value="Knife Throw" />
-  <keys type="skill" key="moakevamp02" value="Drain Blood" />
-  <keys type="skill" key="moakevamp01" value="Bloodlust" />
-  <keys type="skill" key="moaketenta02" value="Storm Cut" />
-  <keys type="skill" key="moaketenta01" value="Whipping" />
-  <keys type="skill" key="moakekaron02" value="Fractured Stability" />
-  <keys type="skill" key="moakekaron01" value="[BUG] Razor Winds" />
-  <keys type="skill" key="movega1" value="Poisoned Barb" />
-  <keys type="skill" key="movega2" value="Algae Burst" />
-  <keys type="skill" key="moghostm1" value="Suicide Bomb" />
-  <keys type="skill" key="moghostm2" value="Chosen One" />
-  <keys type="skill" key="moband99" value="Cursed Bolt" />
-  <keys type="skill" key="modray4" value="Energy Beam" />
-  <keys type="skill" key="modray01" value="Energy Beam" />
-  <keys type="skill" key="modray99" value="Time Distortion" />
-  <keys type="skill" key="morayray0" value="Energy Beam" />
-  <keys type="skill" key="morayray1" value="Energy Beam" />
-  <keys type="skill" key="mosicra02" value="Gravity Shift" />
-  <keys type="skill" key="mosicra03" value="Death Whisper" />
-  <keys type="skill" key="mosicra04" value="Sheer Terror" />
-  <keys type="skill" key="mosicra05" value="Ruinous Gust" />
-  <keys type="skill" key="mosicten1" value="Soul Slash" />
-  <keys type="skill" key="mocomarcmure01" value="Mutation" />
-  <keys type="skill" key="mocomarctrent01" value="Protective Shell" />
-  <keys type="skill" key="mocomghos01" value="Deathly Demeanor" />
-  <keys type="skill" key="mophon2" value="Swift Strike" />
-  <keys type="skill" key="moherut9" value="Fire Ballista" />
-  <keys type="skill" key="moherut2" value="Fire Ballista" />
-  <keys type="skill" key="moherut8" value="Scatter Dagger" />
-  <keys type="skill" key="moherut4" value="Death Sentence" />
-  <keys type="skill" key="moherut1" value="Scatter Dagger" />
-  <keys type="skill" key="moherut3" value="Sanctuary" />
-  <keys type="skill" key="moherut10" value="Sanctuary" />
-  <keys type="skill" key="mophon3" value="Loyalty" />
-  <keys type="skill" key="moherut5" value="Cold Wrath" />
-  <keys type="skill" key="moherut6" value="Deep Wound" />
-  <keys type="skill" key="moherut7" value="Sanctuary" />
-  <keys type="skill" key="mophon1" value="Solidarity" />
-  <keys type="skill" key="moranot01" value="Noxious" />
-  <keys type="skill" key="moranot02" value="Rotting Corpse Odor" />
-  <keys type="skill" key="moevraid00" value="Necromancy" />
-  <keys type="skill" key="mobismo01" value="Fractured Earth" />
-  <keys type="skill" key="mobismo02" value="Fractured Earth" />
-  <keys type="skill" key="moband77" value="Raze" />
-  <keys type="skill" key="mocarad001" value="More drinks!" />
-  <keys type="skill" key="mocaradpoint" value="Cask Service" />
-  <keys type="skill" key="mocaradbomb" value="Powder Keg Explosion" />
-  <keys type="skill" key="mocpeer001" value="Pierce" />
-  <keys type="skill" key="momohab001" value="Sever Artery" />
-  <keys type="skill" key="mocommohab" value="Strength Conditioning" />
-  <keys type="skill" key="mocomcarad01" value="Sailor" />
-  <keys type="skill" key="mocomcpeer01" value="Vile" />
-  <keys type="skill" key="morazatm0" value="Implosion" />
-  <keys type="skill" key="mohst1" value="Improvised" />
-  <keys type="skill" key="mohst2" value="Flask" />
-  <keys type="skill" key="mohst3" value="God of Ruin's Instinct" />
-  <keys type="skill" key="mohst4" value="Artisan's Touch" />
-  <keys type="skill" key="mohst5" value="Iron Pillar" />
-  <keys type="skill" key="mohst6" value="Fire Pillar" />
-  <keys type="skill" key="mohst7" value="Ice Arrow" />
-  <keys type="skill" key="mohst01" value="Summon Manastone" />
-  <keys type="skill" key="mohst02" value="Summon Manastone" />
-  <keys type="skill" key="mohst03" value="Summon Manastone" />
-  <keys type="skill" key="mohsts1" value="Blue Manastone's Energy" />
-  <keys type="skill" key="mohsts2" value="Red Manastone's Energy" />
-  <keys type="skill" key="mohsts3" value="Green Manastone's Energy" />
-  <keys type="skill" key="motrap11" value="Revolutionaries Trap" />
-  <keys type="skill" key="mobomb11" value="Defensive Burst" />
-  <keys type="skill" key="moskeye0" value="Fiery Eyes" />
-  <keys type="skill" key="moromb1" value="Direct Fire" />
-  <keys type="skill" key="moshell1" value="Bombardment" />
-  <keys type="skill" key="moshell01" value="Bombardment" />
-  <keys type="skill" key="momac1" value="Blistering Gale" />
-  <keys type="skill" key="momac2" value="Fireball" />
-  <keys type="skill" key="momgh1" value="Heavy Strike" />
-  <keys type="skill" key="momgh2" value="Bite" />
-  <keys type="skill" key="motrc1" value="Body Slam" />
-  <keys type="skill" key="motrc2" value="Lift" />
-  <keys type="skill" key="motrc3" value="Rage" />
-  <keys type="skill" key="momacta01" value="Blooming Hellfire" />
-  <keys type="skill" key="momacta01a" value="Blooming Hellfire" />
-  <keys type="skill" key="momacta02a" value="Erupting Flame" />
-  <keys type="skill" key="momacta02b" value="Erupting Flame" />
-  <keys type="skill" key="momacta02c" value="Erupting Flame" />
-  <keys type="skill" key="momacta02d" value="Erupting Flame" />
-  <keys type="skill" key="momacta03a" value="Golden Armor" />
-  <keys type="skill" key="momacta03b" value="Overheat" />
-  <keys type="skill" key="momacta04" value="Surging Heat" />
-  <keys type="skill" key="momacta04a" value="Surging Heat" />
-  <keys type="skill" key="momacta04b" value="Surging Heat" />
-  <keys type="skill" key="momacta05a" value="Place Reducing Agent" />
-  <keys type="skill" key="momacta05b" value="Overdose" />
-  <keys type="skill" key="momacta05c" value="Inferno" />
-  <keys type="skill" key="momamul11" value="Summon Cursed Spirit" />
-  <keys type="skill" key="momamul0" value="Unwilling Sacrifice" />
-  <keys type="skill" key="moshakiss1" value="Source" />
-  <keys type="skill" key="moshakiss2" value="Buried" />
-  <keys type="skill" key="moshakiss3" value="Banked Fire" />
-  <keys type="skill" key="moshakiss4" value="Rushing Wind" />
-  <keys type="skill" key="moshakiss5" value="[BUG] Razor Winds" />
-  <keys type="skill" key="mozir11" value="Self Inflicted" />
-  <keys type="skill" key="modiebuff0" value="False Revolutionary's Blood" />
-  <keys type="skill" key="mosinsia02b" value="Stratagem" />
-  <keys type="skill" key="mosinsia01" value="Smokescreen" />
-  <keys type="skill" key="mod13skill2" value="Lightning Strike" />
-  <keys type="skill" key="mod13skill1" value="Lightning Strike" />
-  <keys type="skill" key="mosinsia02a" value="Neural Shock" />
-  <keys type="skill" key="mosinsia02" value="Stratagem" />
-  <keys type="skill" key="monibar01" value="Black Arts" />
-  <keys type="skill" key="mod13skill11" value="Lightning Strike" />
-  <keys type="skill" key="mod13skill21" value="Lightning Strike" />
-  <keys type="skill" key="monibar02" value="Night Terror" />
-  <keys type="skill" key="monibar03" value="Frightful Blast" />
-  <keys type="skill" key="monasulosa1" value="Demon Wolf Strike" />
-  <keys type="skill" key="monasulosa2" value="Demon Wolf Strike" />
-  <keys type="skill" key="monasulosb1" value="Sword Dance" />
-  <keys type="skill" key="monasulosc1" value="Resonant Destruction" />
-  <keys type="skill" key="monasulosc2" value="Resonant Destruction" />
-  <keys type="skill" key="monasulosc3" value="Resonance" />
-  <keys type="skill" key="monasulosc4" value="Resonant Destruction" />
-  <keys type="skill" key="monasulosc5" value="Atonement" />
-  <keys type="skill" key="monasulosc6" value="Atonement" />
-  <keys type="skill" key="monasulosd1" value="Radiant Strike" />
-  <keys type="skill" key="monasulosf1" value="General's Calling" />
-  <keys type="skill" key="monasulosf2" value="General's Calling" />
-  <keys type="skill" key="moantulagena1" value="Destabilization" />
-  <keys type="skill" key="moantulagenb1" value="Battering Ram" />
-  <keys type="skill" key="moantulagenb2" value="Formation" />
-  <keys type="skill" key="moantulagenc1" value="Agonizing Transition" />
-  <keys type="skill" key="moantulagend1" value="Distortion" />
-  <keys type="skill" key="moantulagend2" value="Sealed Zone" />
-  <keys type="skill" key="moantulagene1" value="Contented Rumble" />
-  <keys type="skill" key="mohumelda1" value="Light Strike" />
-  <keys type="skill" key="mohumeldb1" value="Death Blade" />
-  <keys type="skill" key="mohumeldc1" value="Covetous" />
-  <keys type="skill" key="mohumeldd1" value="King's Judgement" />
-  <keys type="skill" key="mohumeldd2" value="Sword's Judgment" />
-  <keys type="skill" key="mohumelde1" value="Pure Silence" />
-  <keys type="skill" key="modemelda1" value="Bloody Wound" />
-  <keys type="skill" key="modemeldb1" value="Rupture" />
-  <keys type="skill" key="modemeldc1" value="Death Grip" />
-  <keys type="skill" key="modemeldc2" value="Death Aura" />
-  <keys type="skill" key="modemeldd1" value="Fiery Burst" />
-  <keys type="skill" key="modemelde1" value="Seed of Ruin" />
-  <keys type="skill" key="modemelde2" value="Seed of Ruin" />
-  <keys type="skill" key="moditugarena1" value="Destructive Bolt" />
-  <keys type="skill" key="moditugarenb1" value="Death Aura" />
-  <keys type="skill" key="moditugarenc1" value="Dark Maelstrom" />
-  <keys type="skill" key="moditugarend1" value="Charged Strike" />
-  <keys type="skill" key="moditugarene1" value="Deadly Mist" />
-  <keys type="skill" key="mopvpfellow1" value="Undead Essence" />
-  <keys type="skill" key="mopvpfellow2" value="Undead Essence" />
-  <keys type="skill" key="motutobis01" value="Gulp!" />
-  <keys type="skill" key="motutobis02" value="Knuckle Burn" />
-  <keys type="skill" key="motutobis03" value="Ground Smash" />
-  <keys type="skill" key="motutobis04" value="Unstoppable" />
-  <keys type="skill" key="motutobis05" value="Dry Haze" />
-  <keys type="skill" key="mocomfunny01" value="Grim Reaper" />
-  <keys type="skill" key="mocomfunny02" value="Wraith Form" />
-  <keys type="skill" key="mofunnyaxe01" value="Annihilate" />
-  <keys type="skill" key="mofunnytrap01" value="Snare" />
-  <keys type="skill" key="mofunnyhorror01" value="Wraith Form" />
-  <keys type="skill" key="mofunnycall01" value="Rise from the Grave" />
-  <keys type="skill" key="mofunnybomb01" value="Self-destruct" />
-  <keys type="skill" key="mofunnybomb02" value="Self-destruct" />
-  <keys type="skill" key="funhouse" value="Bleak Aura" />
-  <keys type="skill" key="mofunnyfear01" value="Night Terror" />
-  <keys type="skill" key="mocomfunny03" value="Already Dead" />
-  <keys type="skill" key="mofunnyhuge01" value="Giant Strike" />
-  <keys type="skill" key="moreaper01" value="Soul Strike" />
-  <keys type="skill" key="mokalip01" value="Destructive Wave" />
-  <keys type="skill" key="modemo01" value="Dark Wave" />
-  <keys type="skill" key="mohami01" value="Freezing Wave" />
-  <keys type="skill" key="morode01" value="Fury Shockwave" />
-  <keys type="skill" key="movega01" value="Poison Wave" />
-  <keys type="skill" key="moelfera1" value="Summon: Eye of the Storm" />
-  <keys type="skill" key="moelfera2" value="Brewing Maelstrom" />
-  <keys type="skill" key="moelfera3" value="Spell Storm" />
-  <keys type="skill" key="moelferb1" value="Magic Addiction" />
-  <keys type="skill" key="moelferb2" value="Unstable Magic" />
-  <keys type="skill" key="moelferb3" value="Purification" />
-  <keys type="skill" key="moelferc1" value="Power of the Altar" />
-  <keys type="skill" key="moelferc2" value="Entrapment" />
-  <keys type="skill" key="moelferc3" value="Enervation" />
-  <keys type="skill" key="moelferc4" value="Torrent of Lightning" />
-  <keys type="skill" key="moelferd1" value="Magic Lockdown" />
-  <keys type="skill" key="moelferd2" value="Magic Lockdown" />
-  <keys type="skill" key="moelferd3" value="Enervation" />
-  <keys type="skill" key="moelferd4" value="Torrent of Lightning" />
-  <keys type="skill" key="moelferd5" value="Torrent of Lightning" />
-  <keys type="skill" key="moelferd6" value="Execution" />
-  <keys type="skill" key="moelfere1" value="Overload" />
-  <keys type="skill" key="moelfere2" value="Overload" />
-  <keys type="skill" key="moelfere3" value="The Forbidden Ritual" />
-  <keys type="skill" key="moelfere4" value="Execution" />
-  <keys type="skill" key="morabormt1" value="Mysterious Energy" />
-  <keys type="skill" key="morabini01" value="Topping bomb" />
-  <keys type="skill" key="bormibomb00" value="Carrot bomb" />
-  <keys type="skill" key="morstatue01" value="Ruby horsepower" />
-  <keys type="skill" key="mobstatue01" value="Sapphire horsepower" />
-  <keys type="skill" key="mosicra07" value="Dark horsepower" />
-  <keys type="skill" key="mohelene01" value="Golem" />
-  <keys type="skill" key="moselene01" value="Chill" />
-  <keys type="skill" key="mohelene02" value="Ground" />
-  <keys type="skill" key="moelfer02" value="Horsepower" />
-  <keys type="skill" key="moelfer01" value="Horsepower" />
-  <keys type="skill" key="momagna00" value="Flame" />
-  <keys type="skill" key="momagna01" value="Earth" />
-  <keys type="skill" key="mocassp00" value="Deadly" />
-  <keys type="skill" key="mobeldons00" value="Annihilation" />
-  <keys type="skill" key="morwiz01" value="Fireball" />
-  <keys type="skill" key="morimp01" value="Flame rake" />
-  <keys type="skill" key="mobwiz01" value="Ice bolt" />
-  <keys type="skill" key="mobimp01" value="Ice rake" />
-  <keys type="skill" key="mohino03" value="Axle" />
-  <keys type="skill" key="mohino00" value="Death" />
-  <keys type="skill" key="mohino05" value="Hell gate" />
-  <keys type="skill" key="mohino04" value="execution" />
-  <keys type="skill" key="molano02" value="Gravity" />
-  <keys type="skill" key="molano03" value="Crust" />
-  <keys type="skill" key="molano04" value="earthquake" />
-  <keys type="skill" key="molano05" value="Typhoon" />
-  <keys type="skill" key="molano06" value="storm" />
-  <keys type="skill" key="mohpburn00" value="Health Loss" />
-  <keys type="skill" key="mohpburn01" value="Health Loss" />
-  <keys type="skill" key="mohpburn02" value="Health Loss" />
-  <keys type="skill" key="morimp02" value="Health Loss" />
-  <keys type="skill" key="momegan02" value="Death" />
-  <keys type="skill" key="momegan03" value="Ruthless" />
-  <keys type="skill" key="momegan04" value="Roar" />
-  <keys type="skill" key="molano003" value="Health Loss" />
-  <keys type="skill" key="molano005" value="Health Loss" />
-  <keys type="skill" key="momegan003" value="Health Loss" />
-  <keys type="skill" key="momegan002" value="Health Loss" />
-  <keys type="skill" key="momegan004" value="Health Loss" />
-  <keys type="skill" key="moselene001" value="Health Loss" />
-  <keys type="skill" key="mohino003" value="Health Loss" />
-  <keys type="skill" key="mohino0" value="Health Loss" />
-  <keys type="skill" key="mohino06" value="Health Loss" />
-  <keys type="skill" key="mohino004" value="Health Loss" />
-  <keys type="skill" key="mofunnybomb03" value="Party Time" />
-  <keys type="skill" key="mofunnysnow01" value="Snowflower throwing" />
-  <keys type="skill" key="mofunnyupper01" value="Come play with me" />
-  <keys type="skill" key="mofunnybreath01" value="Why did you come to my house" />
-  <keys type="skill" key="anwisp01" value="Overcharging" />
-  <keys type="skill" key="mohurtsand02" value="Pain" />
-  <keys type="skill" key="mohurtsand03" value="Caller" />
-  <keys type="skill" key="mohurtsand01" value="Roar" />
-  <keys type="skill" key="mohurtsand05" value="inhale" />
-  <keys type="skill" key="mohurtsand06" value="Summoning larvae" />
-  <keys type="skill" key="mohurtsand04" value="Sand grave" />
-  <keys type="skill" key="moceilik04" value="Rockfall" />
-  <keys type="skill" key="moceilik03" value="Thorn" />
-  <keys type="skill" key="mokuro01" value="pluck" />
-  <keys type="skill" key="mokuro06" value="Blink" />
-  <keys type="skill" key="mokuro05" value="Queen" />
-  <keys type="skill" key="mokuro04" value="Bloodborne" />
-  <keys type="skill" key="mokuro03" value="Blood curse" />
-  <keys type="skill" key="mokuro02" value="Vitality" />
-  <keys type="skill" key="mobugstag01" value="Stab" />
-  <keys type="skill" key="mobughor01" value="Continuous launch" />
-  <keys type="skill" key="mobugbet01" value="Shield" />
-  <keys type="skill" key="mobugmanti01" value="Stab" />
-  <keys type="skill" key="moilikthorn01" value="Spit" />
-  <keys type="skill" key="moilikbomb01" value="Self -destruction" />
-  <keys type="skill" key="moilikmucus01" value="Spit" />
-  <keys type="skill" key="moilikmuscus02" value="Spit" />
-  <keys type="skill" key="idolgarm01" value="Earthquake" />
-  <keys type="skill" key="idolroxi01" value="Heat wave" />
-  <keys type="skill" key="idolpano" value="Mirage" />
-  <keys type="skill" key="moadel01" value="Landing" />
-  <keys type="skill" key="moadel02" value="Thorn launch" />
-  <keys type="skill" key="moadel03" value="Gas discharge" />
-  <keys type="skill" key="moadel05" value="Flickering" />
-  <keys type="skill" key="moadel07" value="Grill" />
-  <keys type="skill" key="mosandw03" value="Sand hell" />
-  <keys type="skill" key="mohurtsand07" value="Spit" />
-  <keys type="skill" key="moceilik06" value="Request for reinforcement" />
-  <keys type="skill" key="morearock00" value="Rocking" />
-  <keys type="skill" key="motitanrock00" value="Rocking" />
-  <keys type="skill" key="mogolepunch00" value="Golem" />
-  <keys type="skill" key="mogianarc01" value="Spore" />
-  <keys type="skill" key="mogianarc02" value="Spore" />
-  <keys type="skill" key="moexfly01" value="Spores" />
-  <keys type="skill" key="moexmoth01" value="Gas spray" />
-  <keys type="skill" key="mobsandw002" value="Eyoro" />
-  <keys type="skill" key="mosandw01" value="Sand hell" />
-  <keys type="skill" key="mosandw02" value="Ground hole" />
-  <keys type="skill" key="moexcebomb01" value="Self -destruction" />
-  <keys type="skill" key="mobugsal01" value="Summon" />
-  <keys type="skill" key="mobugsal02" value="Flame sword" />
-  <keys type="skill" key="moceilik004" value="Rockfall" />
-  <keys type="skill" key="moantares00" value="Raging" />
-  <keys type="skill" key="moantares01" value="Wave" />
-  <keys type="skill" key="moantares000" value="Raging" />
-  <keys type="skill" key="moantares001" value="Wave" />
-  <keys type="skill" key="mohurtsand002" value="Poisonous" />
-  <keys type="skill" key="mokuro005" value="absorption" />
-  <keys type="skill" key="mohstatue01" value="Ruby horsepower" />
-  <keys type="skill" key="mohstatue02" value="Sapphire horsepower" />
-  <keys type="skill" key="moadel06" value="Flickering" />
-  <keys type="skill" key="moadel003" value="Gas discharge" />
-  <keys type="skill" key="moadel002" value="Thorn" />
-  <keys type="skill" key="moadel09" value="Thorn launch" />
-  <keys type="skill" key="moadel007" value="Breathe" />
-  <keys type="skill" key="moadel08" value="Fall down" />
-  <keys type="skill" key="moadel005" value="Flickering" />
-  <keys type="skill" key="mopoisonir01" value="Corruption" />
-  <keys type="skill" key="mopoisonir02" value="Poison" />
-  <keys type="skill" key="moimmo01" value="Dark wave" />
-  <keys type="skill" key="moimpdef1" value="Defense" />
-  <keys type="skill" key="moimpmdef1" value="Resistance" />
-  <keys type="skill" key="mogirlscream1" value="Screaming" />
-  <keys type="skill" key="mogirlsummon1" value="Request for help" />
-  <keys type="skill" key="mosatrg1" value="Land" />
-  <keys type="skill" key="mosatrg01" value="Land" />
-  <keys type="skill" key="mosatrg001" value="Land" />
-  <keys type="skill" key="mosatrg3" value="Sentence" />
-  <keys type="skill" key="mosatdie1" value="pollution" />
-  <keys type="skill" key="mosatsac1" value="Contamination" />
-  <keys type="skill" key="mosatsac2" value="pollution" />
-  <keys type="skill" key="mosatrg6" value="Shield defense" />
-  <keys type="skill" key="mocallcarm01" value="call" />
-  <keys type="skill" key="modailyalldie1" value="Shock spread" />
-  <keys type="skill" key="modailybomb01" value="Self-Destruct" />
-  <keys type="skill" key="moforg10" value="Pillar" />
-  <keys type="skill" key="mosatrgw1" value="Land" />
-  <keys type="skill" key="mosatrgw01" value="Land" />
-  <keys type="skill" key="mosatrgw001" value="Land" />
-  <keys type="skill" key="mogriff04" value="Flame release" />
-  <keys type="skill" key="mogriff01" value="ignition" />
-  <keys type="skill" key="mogriff02" value="Dark blossom" />
-  <keys type="skill" key="mogriff03" value="ignition" />
-  <keys type="skill" key="mogriff06" value="Flame release" />
-  <keys type="skill" key="mogriff001" value="Ignition" />
-  <keys type="skill" key="mogriff05" value="Summon a storm" />
-  <keys type="skill" key="mogriff005" value="Flame storm" />
-  <keys type="skill" key="mogriff0005" value="Flame storm" />
-  <keys type="skill" key="mopoisfrog01" value="Well summoning" />
-  <keys type="skill" key="mopoisfrog04" value="pluck" />
-  <keys type="skill" key="mopooh01" value="Summoning" />
-  <keys type="skill" key="mopooh02" value="Bee" />
-  <keys type="skill" key="moroadilik01" value="Auto-destruição" />
-  <keys type="skill" key="mobrag06" value="Watching" />
-  <keys type="skill" key="mobrag04" value="Duck" />
-  <keys type="skill" key="mobrag02" value="Summon Blade" />
-  <keys type="skill" key="mobrag03" value="Ass" />
-  <keys type="skill" key="mobrag01" value="Bladestorm" />
-  <keys type="skill" key="mofrozeniren02" value="Fear" />
-  <keys type="skill" key="mofrozeniren03" value="Giant hail" />
-  <keys type="skill" key="mofroziren01" value="Freezing" />
-  <keys type="skill" key="mobis02" value="charge" />
-  <keys type="skill" key="mobis03" value="sweep" />
-  <keys type="skill" key="mobis01" value="Summoning zombies" />
-  <keys type="skill" key="mobis06" value="earthquake" />
-  <keys type="skill" key="moheru03" value="Dagger" />
-  <keys type="skill" key="moheru01" value="Crust" />
-  <keys type="skill" key="mobsandw03" value="scream" />
-  <keys type="skill" key="mobsandw04" value="ecdysis" />
-  <keys type="skill" key="mobsandw05" value="Spit" />
-  <keys type="skill" key="mohurtsand08" value="Summoning larvae" />
-  <keys type="skill" key="mohurtsand09" value="Earth vibration" />
-  <keys type="skill" key="mospider02" value="Spider web" />
-  <keys type="skill" key="moceilikw03" value="Thorn" />
-  <keys type="skill" key="moceilikw04" value="Rockfall" />
-  <keys type="skill" key="mosummonilik01" value="Brother -in -law" />
-  <keys type="skill" key="mosummonilik02" value="Persistent vitality" />
-  <keys type="skill" key="mokuro07" value="jump" />
-  <keys type="skill" key="mokuro08" value="whim" />
-  <keys type="skill" key="mokuro10" value="Bio detection" />
-  <keys type="skill" key="mokuro09" value="Current bombing" />
-  <keys type="skill" key="mokuro009" value="Neurological current" />
-  <keys type="skill" key="mokuro011" value="Emission" />
-  <keys type="skill" key="mokurosummon01" value="Vivo" />
-  <keys type="skill" key="mobsandw01" value="Sand hell" />
-  <keys type="skill" key="morag01" value="Shield defense" />
-  <keys type="skill" key="mosic01" value="Death" />
-  <keys type="skill" key="mosic02" value="Inner horror" />
-  <keys type="skill" key="mofrozeniren05" value="Ice pillar" />
-  <keys type="skill" key="mojenon2" value="Land strike" />
-  <keys type="skill" key="mojenon3" value="Tread" />
-  <keys type="skill" key="mojenon1" value="Upgrade" />
-  <keys type="skill" key="moku01" value="Vitality" />
-  <keys type="skill" key="mopooh05" value="Ground explosion" />
-  <keys type="skill" key="mopooh06" value="Conversion" />
-  <keys type="skill" key="hastanpois01" value="Well" />
-  <keys type="skill" key="mopoisfrog05" value="Dock" />
-  <keys type="skill" key="mobis07" value="Self -destruction" />
-  <keys type="skill" key="moheru07" value="Death sentence" />
-  <keys type="skill" key="moheru05" value="anger" />
-  <keys type="skill" key="moheru04" value="Crossbow" />
-  <keys type="skill" key="mofrozenir01" value="Ice pillar" />
-  <keys type="skill" key="moicebre01" value="Ice" />
-  <keys type="skill" key="moheru06" value="Crust" />
-  <keys type="skill" key="mokua01" value="pluck" />
-  <keys type="skill" key="mokub01" value="pluck" />
-  <keys type="skill" key="mokua02" value="Vitality" />
-  <keys type="skill" key="mokub02" value="Vitality" />
-  <keys type="skill" key="mokua03" value="Blood curse" />
-  <keys type="skill" key="mokua04" value="Bloodborne" />
-  <keys type="skill" key="mokua07" value="jump" />
-  <keys type="skill" key="moradilik03" value="Ataque de Espinhos" />
-  <keys type="skill" key="moroadilik03" value="Spray de Bio-Fluido" />
-  <keys type="skill" key="mopooh07" value="Explosão do solo" />
-  <keys type="skill" key="moroadilik05" value="Extermínio" />
-  <keys type="skill" key="mobragitrap01" value="Laço" />
-  <keys type="skill" key="mofrozenir02" value="Restauração" />
-  <keys type="skill" key="mofrozeniren06" value="Chamada de Reforços" />
-  <keys type="skill" key="moheru10" value="Chamado da Alma Selvagem" />
-  <keys type="skill" key="feagnasice00" value="Ice Breath" />
-  <keys type="skill" key="feagnasice01" value="Ice launch" />
-  <keys type="skill" key="mocrotus19a" value="Morram! Pestes!" />
-  <keys type="skill" key="mocrotus13a" value="Sangue Frenético" />
-  <keys type="skill" key="mocrotus01a" value="Tiro Mágico" />
-  <keys type="skill" key="mocrotus02a" value="Lâmina Carmesim" />
-  <keys type="skill" key="mocrotus03a" value="Fissura" />
-  <keys type="skill" key="mocrotus04a" value="Pacto de sangue" />
-  <keys type="skill" key="mocrotus09a" value="Venha aqui!" />
-  <keys type="skill" key="mocrotus02b" value="Tiro Mágico" />
-  <keys type="skill" key="mocrotus03b" value="Fissura" />
-  <keys type="skill" key="mocrotus09C" value="Ascensão do Fantasma Sangrento" />
+  <keys prop="Name" type="monster" key="moramp2" value="Dutiful Sacrifice" />
+  <keys prop="Description" type="monster" key="moramp2_1" value="Dutiful Sacrifice" />
+  <keys prop="Name" type="monster" key="mofigo1" value="Earth Strike" />
+  <keys prop="Description" type="monster" key="mofigo1_1" value="Earth Strike" />
+  <keys prop="Name" type="monster" key="mofigo2" value="Earth Smash" />
+  <keys prop="Description" type="monster" key="mofigo2_1" value="Earth Smash" />
+  <keys prop="Name" type="monster" key="mosantinl05" value="Frozen Pillar" />
+  <keys prop="Description" type="monster" key="mosantinl05_1" value="Frozen Pillar" />
+  <keys prop="Name" type="monster" key="mogarmu03" value="Pulverize" />
+  <keys prop="Description" type="monster" key="mogarmu03_1" value="Pulverize" />
+  <keys prop="Name" type="monster" key="mobragseld00" value="All-out Strike" />
+  <keys prop="Description" type="monster" key="mobragseld00_1" value="All-out Strike" />
+  <keys prop="Name" type="monster" key="morzt1" value="Justice Slash" />
+  <keys prop="Description" type="monster" key="morzt1_1" value="Justice Slash" />
+  <keys prop="Name" type="monster" key="morzt2" value="Inferno Sphere" />
+  <keys prop="Description" type="monster" key="morzt2_1" value="Inferno Sphere" />
+  <keys prop="Name" type="monster" key="morzt3" value="Fire Incarnate" />
+  <keys prop="Description" type="monster" key="morzt3_1" value="Fire Incarnate" />
+  <keys prop="Name" type="monster" key="morzt4" value="Meteor of Judgment" />
+  <keys prop="Description" type="monster" key="morzt4_1" value="Meteor of Judgment" />
+  <keys prop="Name" type="monster" key="morzt5" value="Meteor of Judgment" />
+  <keys prop="Description" type="monster" key="morzt5_1" value="Meteor of Judgment" />
+  <keys prop="Name" type="monster" key="momupa1" value="Rising Truth" />
+  <keys prop="Description" type="monster" key="momupa1_1" value="Rising Truth" />
+  <keys prop="Name" type="monster" key="momupa2" value="Earth Blow" />
+  <keys prop="Description" type="monster" key="momupa2_1" value="Earth Blow" />
+  <keys prop="Name" type="monster" key="momupa3" value="Power Stomp" />
+  <keys prop="Description" type="monster" key="momupa3_1" value="Power Stomp" />
+  <keys prop="Name" type="monster" key="momupa4" value="Last Resistance" />
+  <keys prop="Description" type="monster" key="momupa4_1" value="Last Resistance" />
+  <keys prop="Name" type="monster" key="momupa5" value="Last Resistance" />
+  <keys prop="Description" type="monster" key="momupa5_1" value="Last Resistance" />
+  <keys prop="Name" type="monster" key="momupa6" value="Last Resistance" />
+  <keys prop="Description" type="monster" key="momupa6_1" value="Last Resistance" />
+  <keys prop="Name" type="monster" key="mohama1" value="Shoulder Charge" />
+  <keys prop="Description" type="monster" key="mohama1_1" value="Shoulder Charge" />
+  <keys prop="Name" type="monster" key="mohama2" value="Rearing Kick" />
+  <keys prop="Description" type="monster" key="mohama2_1" value="Rearing Kick" />
+  <keys prop="Name" type="monster" key="mohama3" value="Head Blow" />
+  <keys prop="Description" type="monster" key="mohama3_1" value="Head Blow" />
+  <keys prop="Name" type="monster" key="mohama4" value="Last Resistance" />
+  <keys prop="Description" type="monster" key="mohama4_1" value="Last Resistance" />
+  <keys prop="Name" type="monster" key="mohama5" value="Last Resistance" />
+  <keys prop="Description" type="monster" key="mohama5_1" value="Last Resistance" />
+  <keys prop="Name" type="monster" key="mohama6" value="Last Resistance" />
+  <keys prop="Description" type="monster" key="mohama6_1" value="Last Resistance" />
+  <keys prop="Name" type="monster" key="mokas1" value="Vacuum Cut" />
+  <keys prop="Description" type="monster" key="mokas1_1" value="Vacuum Cut" />
+  <keys prop="Name" type="monster" key="mokas2" value="Sandstorm Cut" />
+  <keys prop="Description" type="monster" key="mokas2_1" value="Sandstorm Cut" />
+  <keys prop="Name" type="monster" key="mokas3" value="Desert Rage" />
+  <keys prop="Description" type="monster" key="mokas3_1" value="Desert Rage" />
+  <keys prop="Name" type="monster" key="mokas4" value="Violent Sandstorm" />
+  <keys prop="Description" type="monster" key="mokas4_1" value="Violent Sandstorm" />
+  <keys prop="Name" type="monster" key="mokas5" value="Raging Sandstorm" />
+  <keys prop="Description" type="monster" key="mokas5_1" value="Raging Sandstorm" />
+  <keys prop="Name" type="monster" key="mokass1" value="Violent Sandstorm" />
+  <keys prop="Description" type="monster" key="mokass1_1" value="Violent Sandstorm" />
+  <keys prop="Name" type="monster" key="mokass2" value="Violent Sandstorm" />
+  <keys prop="Description" type="monster" key="mokass2_1" value="Violent Sandstorm" />
+  <keys prop="Name" type="monster" key="mokasv1" value="Vacuum Cut" />
+  <keys prop="Description" type="monster" key="mokasv1_1" value="Vacuum Cut" />
+  <keys prop="Name" type="monster" key="mojas1" value="Flame Sphere" />
+  <keys prop="Name" type="monster" key="mojas2" value="Dancing Fire Pillar" />
+  <keys prop="Name" type="monster" key="mojas3" value="Avalanche" />
+  <keys prop="Name" type="monster" key="mojas4" value="Absolute Zero" />
+  <keys prop="Name" type="monster" key="mojas5" value="Encroaching Darkness" />
+  <keys prop="Name" type="monster" key="mojas6" value="Scourging Light" />
+  <keys prop="Name" type="monster" key="mojas7" value="Radiant Flash" />
+  <keys prop="Name" type="monster" key="mojas8" value="Deep Darkness" />
+  <keys prop="Name" type="monster" key="mojasa1" value="Dancing Fire Pillar" />
+  <keys prop="Name" type="monster" key="mojasa2" value="Scourging Light" />
+  <keys prop="Name" type="monster" key="mojasa3" value="Deep Darkness" />
+  <keys prop="Name" type="monster" key="mojasa4" value="Dancing Fire Pillar" />
+  <keys prop="Name" type="monster" key="mosin1" value="Death's Mark" />
+  <keys prop="Name" type="monster" key="mosin2" value="Dancing Dagger" />
+  <keys prop="Name" type="monster" key="mosin3" value="Smokescreen" />
+  <keys prop="Name" type="monster" key="mosin4" value="Illusion" />
+  <keys prop="Name" type="monster" key="mosin5" value="Dragon Rising" />
+  <keys prop="Name" type="monster" key="mosin6" value="Thunderbolt" />
+  <keys prop="Name" type="monster" key="mosin7" value="Concentration" />
+  <keys prop="Name" type="monster" key="mosin8" value="Maddening Sprint" />
+  <keys prop="Name" type="monster" key="mosin9" value="Maddening Sprint" />
+  <keys prop="Name" type="monster" key="mosin10" value="Maddening Sprint" />
+  <keys prop="Name" type="monster" key="mosin11" value="Maddening Sprint" />
+  <keys prop="Name" type="monster" key="mosin12" value="Maddening Sprint" />
+  <keys prop="Name" type="monster" key="mosins1" value="Smokescreen" />
+  <keys prop="Name" type="monster" key="moruinbow1" value="Sand Arrow" />
+  <keys prop="Name" type="monster" key="momohabosal01" value="Piercing Javelin" />
+  <keys prop="Name" type="monster" key="mokrokbowmangs00" value="Crokhoon Arrow" />
+  <keys prop="Name" type="monster" key="mokrokpriesgs01" value="Symbol of Courage" />
+  <keys prop="Name" type="monster" key="mokrokpriesgs00" value="Heal" />
+  <keys prop="Name" type="monster" key="mosinf1" value="Maddening Sprint" />
+  <keys prop="Name" type="monster" key="mosinf2" value="Dancing Dagger" />
+  <keys prop="Name" type="monster" key="mosinf3" value="Smokescreen" />
+  <keys prop="Name" type="monster" key="mosinf4" value="waterspout" />
+  <keys prop="Name" type="monster" key="morg1" value="Rough Counterattack" />
+  <keys prop="Name" type="monster" key="morg2" value="Lion's Roar" />
+  <keys prop="Name" type="monster" key="morg3" value="Earthquake" />
+  <keys prop="Name" type="monster" key="morg4" value="Earthquake" />
+  <keys prop="Name" type="monster" key="morg5" value="Death Squad" />
+  <keys prop="Name" type="monster" key="morg6" value="Defensive Posture" />
+  <keys prop="Name" type="monster" key="morg7" value="Defensive Posture" />
+  <keys prop="Name" type="monster" key="morg8" value="Defensive Posture" />
+  <keys prop="Name" type="monster" key="morg9" value="Defensive Posture" />
+  <keys prop="Name" type="monster" key="morg10" value="Fire Pillar" />
+  <keys prop="Name" type="monster" key="mobm1" value="Hammer Toss" />
+  <keys prop="Name" type="monster" key="mobm2" value="Poison Toss" />
+  <keys prop="Name" type="monster" key="mobm3" value="Bomb Toss" />
+  <keys prop="Name" type="monster" key="mobtw1" value="Sandstorm" />
+  <keys prop="Name" type="monster" key="mobtf1" value="Fire Pillar" />
+  <keys prop="Name" type="monster" key="mobtic1" value="Ice Arrow" />
+  <keys prop="Name" type="monster" key="mobti1" value="Iron Pillar" />
+  <keys prop="Name" type="monster" key="mobma1" value="Activate Trap" />
+  <keys prop="Name" type="monster" key="mobma2" value="Activate Trap" />
+  <keys prop="Name" type="monster" key="mobma3" value="Activate Trap" />
+  <keys prop="Name" type="monster" key="mobma4" value="Activate Trap" />
+  <keys prop="Name" type="monster" key="moshm1" value="Axe Spin" />
+  <keys prop="Name" type="monster" key="moshm2" value="Bottoms Up" />
+  <keys prop="Name" type="monster" key="moshm3" value="Throw Cask" />
+  <keys prop="Name" type="monster" key="moshm4" value="Call Reinforcements" />
+  <keys prop="Name" type="monster" key="moyrs1" value="Dominant Virtue" />
+  <keys prop="Name" type="monster" key="moyrs2" value="Thrust" />
+  <keys prop="Name" type="monster" key="moyrs3" value="Cold Blood" />
+  <keys prop="Name" type="monster" key="moyrs4" value="Cold Blood" />
+  <keys prop="Name" type="monster" key="moyrs5" value="Cold Blood" />
+  <keys prop="Name" type="monster" key="moyrs6" value="Cold Blood" />
+  <keys prop="Name" type="monster" key="moyrs7" value="Raid Summons" />
+  <keys prop="Name" type="monster" key="moyrs8" value="Rough Counterattack" />
+  <keys prop="Name" type="monster" key="momnc1" value="Rodesh's Greater Healing" />
+  <keys prop="Name" type="monster" key="momnc11" value="Greater Healing" />
+  <keys prop="Name" type="monster" key="momnc2" value="Holy Symbol" />
+  <keys prop="Name" type="monster" key="momnc3" value="Punishing Radiance" />
+  <keys prop="Name" type="monster" key="momnc4" value="Inviolate Symbol" />
+  <keys prop="Name" type="monster" key="momnc5" value="Resurrection" />
+  <keys prop="Name" type="monster" key="momnc6" value="Meteor of Judgment" />
+  <keys prop="Name" type="monster" key="momnc7" value="Tundra" />
+  <keys prop="Name" type="monster" key="momnc8" value="Biting Tundra" />
+  <keys prop="Name" type="monster" key="momnco1" value="Tundra" />
+  <keys prop="Name" type="monster" key="momta1" value="Tundra" />
+  <keys prop="Name" type="monster" key="momip1" value="Ice Pillar" />
+  <keys prop="Name" type="monster" key="momjm1" value="Meteor of Judgment" />
+  <keys prop="Name" type="monster" key="momupar1" value="Rough Counterattack" />
+  <keys prop="Name" type="monster" key="mohamar1" value="Rough Counterattack" />
+  <keys prop="Name" type="monster" key="mokrokgladi00" value="Dominant Virtue" />
+  <keys prop="Name" type="monster" key="mokrokgladigs00" value="Dominant Virtue" />
+  <keys prop="Name" type="monster" key="momorgaso00" value="Slave Contract" />
+  <keys prop="Name" type="monster" key="modarkremove00" value="Dark Release" />
+  <keys prop="Description" type="monster" key="modarkremove00_1" value="Dark Release" />
+  <keys prop="Name" type="monster" key="modarkarrows00" value="Liberated Darkness" />
+  <keys prop="Description" type="monster" key="modarkarrows00_1" value="Liberated Darkness" />
+  <keys prop="Name" type="monster" key="modarkshadow01" value="Shadow of Death" />
+  <keys prop="Description" type="monster" key="modarkshadow01_1" value="Shadow of Death" />
+  <keys prop="Name" type="monster" key="moindarkmo00" value="Roar in the Dark" />
+  <keys prop="Name" type="monster" key="momc1" value="Hellfire" />
+  <keys prop="Name" type="monster" key="momc2" value="Storm" />
+  <keys prop="Name" type="monster" key="momc3" value="Amputation" />
+  <keys prop="Name" type="monster" key="momc4" value="Leap" />
+  <keys prop="Name" type="monster" key="momc5" value="Burning Eyes" />
+  <keys prop="Name" type="monster" key="momc6" value="Chains of Silence" />
+  <keys prop="Name" type="monster" key="momc7" value="Black Magic Transformation" />
+  <keys prop="Name" type="monster" key="momc8" value="Magic Explosion" />
+  <keys prop="Name" type="monster" key="momadness00" value="Maddening Shout" />
+  <keys prop="Name" type="monster" key="mocompact00" value="Condense" />
+  <keys prop="Name" type="monster" key="mopollutiona01" value="Tainted Earth" />
+  <keys prop="Description" type="monster" key="mopollutiona01_1" value="Tainted Earth" />
+  <keys prop="Name" type="monster" key="mobloodyb01" value="Bloody" />
+  <keys prop="Description" type="monster" key="mobloodyb01_1" value="Bloody" />
+  <keys prop="Name" type="monster" key="mostd1" value="Bil'rahn's Trap" />
+  <keys prop="Name" type="monster" key="mostd2" value="Bil'rahn's Trap" />
+  <keys prop="Name" type="monster" key="momcf1" value="Leap" />
+  <keys prop="Name" type="monster" key="momcf2" value="Amputation" />
+  <keys prop="Name" type="monster" key="momcf3" value="Amputation" />
+  <keys prop="Name" type="monster" key="momcf4" value="Burning Eyes" />
+  <keys prop="Name" type="monster" key="momcf5" value="Burning Eyes" />
+  <keys prop="Name" type="monster" key="mobragiseld02" value="Hip Slash" />
+  <keys prop="Name" type="monster" key="mobulls02" value="Revolutionary Mark" />
+  <keys prop="Name" type="monster" key="mobulls03" value="Betrayal Mark" />
+  <keys prop="Name" type="monster" key="mocactus00" value="Cactus Needle" />
+  <keys prop="Name" type="monster" key="mocactus01" value="Cactus Water" />
+  <keys prop="Name" type="monster" key="mobragismisor00" value="Blunt Weapon Slaughter" />
+  <keys prop="Name" type="monster" key="mowormhelllink04" value="Sand Hell" />
+  <keys prop="Name" type="monster" key="mowormhelllink05" value="Sand Hell" />
+  <keys prop="Name" type="monster" key="momohahealer03" value="Sandstorm" />
+  <keys prop="Name" type="monster" key="momohahealer05" value="Sandstorm" />
+  <keys prop="Name" type="monster" key="momohasp00" value="Throw Spear" />
+  <keys prop="Name" type="monster" key="momohabosal00" value="Throw Spear" />
+  <keys prop="Name" type="monster" key="momahal00" value="Fury" />
+  <keys prop="Name" type="monster" key="mosnakep00" value="Poisoned" />
+  <keys prop="Name" type="monster" key="mosnakep01" value="Poisoned" />
+  <keys prop="Name" type="monster" key="monivar1" value="Call of the Dead" />
+  <keys prop="Name" type="monster" key="mopasit01" value="Revival Ritual" />
+  <keys prop="Name" type="monster" key="mobragiseld03" value="Sultan's Rage" />
+  <keys prop="Name" type="monster" key="morashastone00" value="Pain" />
+  <keys prop="Name" type="monster" key="arpoison03" value="Envenenado" />
+  <keys prop="Name" type="monster" key="modiebis00" value="Gravity Crush" />
+  <keys prop="Name" type="monster" key="modiebis01" value="Perception Change" />
+  <keys prop="Name" type="monster" key="modiebis001" value="Perception Change" />
+  <keys prop="Name" type="monster" key="modiebis02" value="Storm" />
+  <keys prop="Name" type="monster" key="modiebis03" value="Dizzy" />
+  <keys prop="Name" type="monster" key="modiebis003" value="Dizzy" />
+  <keys prop="Name" type="monster" key="modiebis04" value="Typhoon" />
+  <keys prop="Name" type="monster" key="modiebis05" value="Earthquake" />
+  <keys prop="Name" type="monster" key="modiejera00" value="Death Curse" />
+  <keys prop="Name" type="monster" key="modiejera000" value="Curse Release" />
+  <keys prop="Name" type="monster" key="modiejera03" value="Axe Butcher" />
+  <keys prop="Name" type="monster" key="modiejera04" value="Resist" />
+  <keys prop="Name" type="monster" key="modiejera05" value="Hell's Gate" />
+  <keys prop="Name" type="monster" key="modiejera06" value="Energy After Death" />
+  <keys prop="Name" type="monster" key="modiejera07" value="Call of the Dead" />
+  <keys prop="Name" type="monster" key="mose1" value="Destroyed Arm" />
+  <keys prop="Name" type="monster" key="mose01" value="Restore Arm" />
+  <keys prop="Name" type="monster" key="mose2" value="Destroyed Hand" />
+  <keys prop="Name" type="monster" key="mose02" value="Restore Hands" />
+  <keys prop="Name" type="monster" key="mose3" value="Destroy Manastone" />
+  <keys prop="Name" type="monster" key="mose03" value="Restore Manastone" />
+  <keys prop="Name" type="monster" key="moss1" value="Sand Cut" />
+  <keys prop="Name" type="monster" key="moss11" value="Sand Cut" />
+  <keys prop="Name" type="monster" key="moss2" value="Sand Mace" />
+  <keys prop="Name" type="monster" key="moss22" value="Sand Mace" />
+  <keys prop="Name" type="monster" key="moss3" value="Sandstorm" />
+  <keys prop="Name" type="monster" key="moss44" value="Sandstorm" />
+  <keys prop="Name" type="monster" key="moss5" value="Sand Hell" />
+  <keys prop="Name" type="monster" key="moss55" value="Sand Hell" />
+  <keys prop="Name" type="monster" key="moss555" value="Sand Hell" />
+  <keys prop="Name" type="monster" key="moss6" value="Sandstorm Flutter" />
+  <keys prop="Name" type="monster" key="moss66" value="Sandstorm" />
+  <keys prop="Name" type="monster" key="moss7" value="Drop Fragment" />
+  <keys prop="Name" type="monster" key="moskalion04" value="Shell Hardening" />
+  <keys prop="Name" type="monster" key="moskal05" value="Call of Abyss" />
+  <keys prop="Name" type="monster" key="moskal06" value="Spinning Slash" />
+  <keys prop="Name" type="monster" key="moskal066" value="Spinning Slash" />
+  <keys prop="Name" type="monster" key="moag1" value="Abyssal Heritage" />
+  <keys prop="Name" type="monster" key="moag2" value="Abyssal Heritage" />
+  <keys prop="Name" type="monster" key="moag3" value="Abyssal Heritage" />
+  <keys prop="Name" type="monster" key="moalk1" value="Spinning Weapon" />
+  <keys prop="Name" type="monster" key="moalk11" value="Spinning Weapon" />
+  <keys prop="Name" type="monster" key="modiegar00" value="Menacing Roar" />
+  <keys prop="Name" type="monster" key="modiegar01" value="Raging Tremor" />
+  <keys prop="Name" type="monster" key="modiegar02" value="Mournful Cry" />
+  <keys prop="Name" type="monster" key="moishzora001" value="Vile Net" />
+  <keys prop="Name" type="monster" key="moishzora004" value="Chain of Hatred" />
+  <keys prop="Name" type="monster" key="moishzora005" value="Distortion" />
+  <keys prop="Name" type="monster" key="moishzora007" value="Immortal Resistance" />
+  <keys prop="Name" type="monster" key="moishzora008" value="Immortal Spell" />
+  <keys prop="Name" type="monster" key="mohr4" value="Frost Blade Wind" />
+  <keys prop="Name" type="monster" key="moimpsu01" value="Recover Energy" />
+  <keys prop="Name" type="monster" key="moramashoo08" value="Dark Protection" />
+  <keys prop="Name" type="monster" key="moramashoo09" value="Dark Summons" />
+  <keys prop="Name" type="monster" key="moramashoo001" value="Dark Arrow" />
+  <keys prop="Name" type="monster" key="moramashoo07" value="Dark Temptation" />
+  <keys prop="Name" type="monster" key="mocregole01" value="Rift Echo" />
+  <keys prop="Name" type="monster" key="mocregole02" value="Rift Might" />
+  <keys prop="Name" type="monster" key="moankelionl06" value="Sleet Barrage" />
+  <keys prop="Name" type="monster" key="morayarea001" value="Rift Might" />
+  <keys prop="Name" type="monster" key="morayarea002" value="Rift Might" />
+  <keys prop="Name" type="monster" key="mobomb01" value="Barrier Bomb" />
+  <keys prop="Name" type="monster" key="mobomb02" value="Izhora's Bomb" />
+  <keys prop="Name" type="monster" key="moishzora006" value="Boiling Hatred" />
+  <keys prop="Name" type="monster" key="mopinion03" value="Oblivion Wave" />
+  <keys prop="Name" type="monster" key="mopinion02" value="Finion's Roar" />
+  <keys prop="Name" type="monster" key="mojamirot01" value="Tail Slap" />
+  <keys prop="Name" type="monster" key="mojamirot00" value="Terrifying Roar" />
+  <keys prop="Name" type="monster" key="mokalipos02" value="Back Kick" />
+  <keys prop="Name" type="monster" key="mokalipos03" value="Calypos's Power" />
+  <keys prop="Description" type="monster" key="moray001" value="Collapsing Announcement" />
+  <keys prop="Description" type="monster" key="moray001_1" value="Collapsing Announcement" />
+  <keys prop="Description" type="monster" key="moray002" value="Large Eruption" />
+  <keys prop="Description" type="monster" key="moray002_1" value="Large Eruption" />
+  <keys prop="Description" type="monster" key="moray003" value="Dangerous Calling" />
+  <keys prop="Description" type="monster" key="moray003_1" value="Dangerous Calling" />
+  <keys prop="Description" type="monster" key="monb1" value="Light Redemption" />
+  <keys prop="Description" type="monster" key="monb2" value="Lightning Cut" />
+  <keys prop="Description" type="monster" key="monb3" value="Brilliant Wind" />
+  <keys prop="Description" type="monster" key="monb4" value="Thunderbolt Trap" />
+  <keys prop="Description" type="monster" key="monb5" value="Depth Bomb Quake" />
+  <keys prop="Description" type="monster" key="monbso1" value="Thunderbolt Trap" />
+  <keys prop="Description" type="monster" key="monbso2" value="Thunderbolt Trap" />
+  <keys prop="Description" type="monster" key="monbso3" value="Depth Bomb Quake" />
+  <keys prop="Description" type="monster" key="mobelt1" value="Fury Strike" />
+  <keys prop="Description" type="monster" key="mobelt2" value="Shockwave" />
+  <keys prop="Description" type="monster" key="mobelt3" value="Shock Cannon" />
+  <keys prop="Description" type="monster" key="mobelt4" value="Protection of Seal" />
+  <keys prop="Description" type="monster" key="mobelt5" value="Strength of Seal" />
+  <keys prop="Description" type="monster" key="mobelt5b" value="Strength of Seal" />
+  <keys prop="Description" type="monster" key="mobelt5c" value="Strength of Seal" />
+  <keys prop="Description" type="monster" key="mobeltso1" value="Crystal's Magic" />
+  <keys prop="Description" type="monster" key="mobelt7" value="Crystal's Magic" />
+  <keys prop="Description" type="monster" key="moyorm1" value="Penetration Shot" />
+  <keys prop="Description" type="monster" key="moyorm2" value="Chaotic Redemption" />
+  <keys prop="Description" type="monster" key="moyorm22" value="Chaotic Redemption" />
+  <keys prop="Description" type="monster" key="moyorm3" value="Crescent Kick" />
+  <keys prop="Description" type="monster" key="moyormi1" value="Penetration Shot" />
+  <keys prop="Description" type="monster" key="moyormi2" value="Chaotic Redemption" />
+  <keys prop="Description" type="monster" key="mogyorm1" value="Chaotic Lightning" />
+  <keys prop="Description" type="monster" key="mogyorm2" value="Chaotic Flow" />
+  <keys prop="Description" type="monster" key="mogyorm3" value="Chaotic Bind" />
+  <keys prop="Description" type="monster" key="mogyorm4" value="Chaotic Flames" />
+  <keys prop="Description" type="monster" key="mogyorm5" value="Seeds of Disorder" />
+  <keys prop="Description" type="monster" key="mogyorm6" value="Rupture" />
+  <keys prop="Description" type="monster" key="mogyormf1" value="Chaotic Flames" />
+  <keys prop="Description" type="monster" key="mogyormf2" value="Chaotic Flames" />
+  <keys prop="Description" type="monster" key="mogolheal01" value="Enhance Golem" />
+  <keys prop="Description" type="monster" key="mogolheal00" value="Summoning Ritual" />
+  <keys prop="Description" type="monster" key="mogolheal02" value="Dark Lightning" />
+  <keys prop="Description" type="monster" key="morenan01" value="Reverse Thunder" />
+  <keys prop="Description" type="monster" key="morenan03" value="Thunderstorm" />
+  <keys prop="Description" type="monster" key="morenan04" value="Memory Loss" />
+  <keys prop="Description" type="monster" key="morenan05" value="Thunder Barrier" />
+  <keys prop="Description" type="monster" key="mocelf00" value="Root Binding" />
+  <keys prop="Description" type="monster" key="mocelf01" value="Heal Golem" />
+  <keys prop="Description" type="monster" key="morocs01" value="Seduce" />
+  <keys prop="Description" type="monster" key="morocs03" value="Sacrificial Chamber" />
+  <keys prop="Description" type="monster" key="morocs04" value="Thunder Confusion" />
+  <keys prop="Description" type="monster" key="morocs05" value="Earth's Command" />
+  <keys prop="Description" type="monster" key="mocelfa00" value="Thunder Arrow" />
+  <keys prop="Description" type="monster" key="mocelfa01" value="Centurion's Rage" />
+  <keys prop="Description" type="monster" key="mocelfa02" value="Flash Bomb" />
+  <keys prop="Description" type="monster" key="mocelfsh01" value="Tenacity" />
+  <keys prop="Description" type="monster" key="mocelfg01" value="Shield Smite" />
+  <keys prop="Description" type="monster" key="mocelfex01" value="Bloody Barrage" />
+  <keys prop="Description" type="monster" key="mocelfr00" value="Heal Leopard" />
+  <keys prop="Description" type="monster" key="mocelfe00" value="Bloody Barrage" />
+  <keys prop="Description" type="monster" key="modemus00" value="Symbol of Fear" />
+  <keys prop="Description" type="monster" key="modemus01" value="Symbol of Regeneration" />
+  <keys prop="Description" type="monster" key="mopoisoni00" value="Poison Aura" />
+  <keys prop="Description" type="monster" key="itco_poisonb" value="Cataclysmic Potion" />
+  <keys prop="Description" type="monster" key="morenana01" value="Ignition" />
+  <keys prop="Description" type="monster" key="morocs004" value="Thunder Confusion" />
+  <keys prop="Description" type="monster" key="morenan02" value="Thousand Claps" />
+  <keys prop="Description" type="monster" key="mozomb01" value="Negation" />
+  <keys prop="Description" type="monster" key="mozomb00" value="Unfortunate Lament" />
+  <keys prop="Description" type="monster" key="mosploop00" value="Playtime" />
+  <keys prop="Description" type="monster" key="mosploop01" value="Hide and Seek" />
+  <keys prop="Description" type="monster" key="areaacid" value="Veneno Corrosivo" />
+  <keys prop="Description" type="monster" key="moelftower00" value="Chaotic Soul" />
+  <keys prop="Description" type="monster" key="mobarios0" value="Bluff" />
+  <keys prop="Description" type="monster" key="molookon00" value="Stand By" />
+  <keys prop="Description" type="monster" key="mobgeat0" value="Protein Supplement" />
+  <keys prop="Description" type="monster" key="moveil1" value="Abyssal Aura" />
+  <keys prop="Description" type="monster" key="moveil2" value="Abyssal Aura" />
+  <keys prop="Description" type="monster" key="modvat0" value="Plant Trees" />
+  <keys prop="Description" type="monster" key="modvheal0" value="Lonely Crying" />
+  <keys prop="Description" type="monster" key="mosandw0" value="Sand Fog" />
+  <keys prop="Description" type="monster" key="mosandw2" value="Sand Hell" />
+  <keys prop="Description" type="monster" key="mosandw5" value="Bite" />
+  <keys prop="Description" type="monster" key="mosnowm0" value="Snow Bomb" />
+  <keys prop="Description" type="monster" key="mosnowm1" value="Warm Embrace" />
+  <keys prop="Description" type="monster" key="mosheep0" value="Mouth Shutter" />
+  <keys prop="Description" type="monster" key="morenit00" value="Provoke" />
+  <keys prop="Description" type="monster" key="moboomgo1" value="Earth Cut" />
+  <keys prop="Description" type="monster" key="moumbul0" value="Avoid Responsibility" />
+  <keys prop="Name" type="monster" key="itco_throwbomb" value="Elven Bomb" />
+  <keys prop="Name" type="monster" key="mojeje0" value="Little Devil" />
+  <keys prop="Name" type="monster" key="mosandw4" value="Sand Hell" />
+  <keys prop="Name" type="monster" key="mobgboom0" value="Protein Addiction" />
+  <keys prop="Name" type="monster" key="moradan001" value="Ring's Temptation" />
+  <keys prop="Name" type="monster" key="moyatajr0" value="Storm Spheres" />
+  <keys prop="Name" type="monster" key="moghoul0" value="Curse of the Living" />
+  <keys prop="Name" type="monster" key="monight0" value="Overtime Report" />
+  <keys prop="Name" type="monster" key="mogabug0" value="Bug" />
+  <keys prop="Name" type="monster" key="mobism1" value="Two Years Later" />
+  <keys prop="Name" type="monster" key="mojeras1" value="Ritual" />
+  <keys prop="Name" type="monster" key="mocoont1" value="Avalanche" />
+  <keys prop="Name" type="monster" key="moldra0" value="Fast Pace" />
+  <keys prop="Name" type="monster" key="momom0" value="Parental Enemy" />
+  <keys prop="Name" type="monster" key="moraim0" value="Nature's Restraint" />
+  <keys prop="Name" type="monster" key="moelsa0" value="Ice Arrow" />
+  <keys prop="Name" type="monster" key="moyatalight0" value="Electrical Discharge" />
+  <keys prop="Name" type="monster" key="modiear0" value="Cry of the Dead" />
+  <keys prop="Name" type="monster" key="monecro0" value="Art of Doppelganger" />
+  <keys prop="Name" type="monster" key="mocomrt1" value="Mysterious Energy" />
+  <keys prop="Name" type="monster" key="mortb1" value="Carrot Bomb" />
+  <keys prop="Name" type="monster" key="mortb2" value="Carrot Dynamite" />
+  <keys prop="Name" type="monster" key="mortb3" value="Pumpkin Bomb" />
+  <keys prop="Name" type="monster" key="morenit1" value="Raging Grudge" />
+  <keys prop="Name" type="monster" key="momonk0" value="Hydro Pump" />
+  <keys prop="Name" type="monster" key="momonk1" value="Sea Storm" />
+  <keys prop="Name" type="monster" key="moicego1" value="Ice Fragment" />
+  <keys prop="Name" type="monster" key="moicbom1" value="Freeze Tag" />
+  <keys prop="Name" type="monster" key="moronw1" value="Cold Wave" />
+  <keys prop="Name" type="monster" key="moronw2" value="Cold Wave" />
+  <keys prop="Name" type="monster" key="mohema1" value="Poisoned" />
+  <keys prop="Name" type="monster" key="mocoont2" value="Frozen Echo" />
+  <keys prop="Name" type="monster" key="mocoont3" value="Uppercut" />
+  <keys prop="Name" type="monster" key="mocoont4" value="Frozen Earth" />
+  <keys prop="Name" type="monster" key="mocoont5" value="Icy Rage" />
+  <keys prop="Name" type="monster" key="mopegasus01" value="Harvest Moon Horror" />
+  <keys prop="Name" type="monster" key="mopegasus02" value="Master of the Night" />
+  <keys prop="Name" type="monster" key="moforg1" value="Rough Counterattack" />
+  <keys prop="Name" type="monster" key="moforg3" value="Earthquake" />
+  <keys prop="Description" type="monster" key="mofonbso3" value="Depth Bomb Quake" />
+  <keys prop="Description" type="monster" key="mofoclesier01" value="Earth Cut" />
+  <keys prop="Description" type="monster" key="mofoclesier01_1" value="Earth Cut" />
+  <keys prop="Description" type="monster" key="mofoclesier04" value="Earth Smash" />
+  <keys prop="Description" type="monster" key="mofoclesier04_1" value="Earth Smash" />
+  <keys prop="Description" type="monster" key="mofoclesier05" value="Earth Smash" />
+  <keys prop="Description" type="monster" key="mofoclesier05_1" value="Earth Smash" />
+  <keys prop="Description" type="monster" key="mofodaslot03" value="Condensed Cold" />
+  <keys prop="Description" type="monster" key="mofodaslot03_1" value="Condensed Cold" />
+  <keys prop="Name" type="monster" key="moforonw1" value="Cold Wave" />
+  <keys prop="Name" type="monster" key="mofoheavyrondo02" value="Frozen Path" />
+  <keys prop="Description" type="monster" key="mofoheavyrondo02_1" value="Frozen Path" />
+  <keys prop="Name" type="monster" key="mofoheavyrondo03" value="Frozen Path" />
+  <keys prop="Description" type="monster" key="mofoheavyrondo03_1" value="Frozen Path" />
+  <keys prop="Name" type="monster" key="mofoheavyrondo04" value="Freezing Wind" />
+  <keys prop="Description" type="monster" key="mofoheavyrondo04_1" value="Freezing Wind" />
+  <keys prop="Name" type="monster" key="mofoheavyrondo05" value="Freezing Wind" />
+  <keys prop="Description" type="monster" key="mofoheavyrondo05_1" value="Freezing Wind" />
+  <keys prop="Name" type="monster" key="moyatabom1" value="Electrical Discharge" />
+  <keys prop="Name" type="monster" key="moytbom1" value="Electrical Discharge" />
+  <keys prop="Name" type="monster" key="moort7" value="Void Pillar" />
+  <keys prop="Name" type="monster" key="moort2" value="Madness Gaze" />
+  <keys prop="Name" type="monster" key="moort22" value="Madness Gaze" />
+  <keys prop="Name" type="monster" key="moort222" value="Madness Gaze" />
+  <keys prop="Name" type="monster" key="moort2222" value="Madness Gaze" />
+  <keys prop="Name" type="monster" key="moortbom" value="Doubt" />
+  <keys prop="Name" type="monster" key="moort9" value="Sever" />
+  <keys prop="Name" type="monster" key="moort99" value="Sever" />
+  <keys prop="Name" type="monster" key="moort999" value="Sever" />
+  <keys prop="Name" type="monster" key="moort4" value="Helplessness" />
+  <keys prop="Name" type="monster" key="moort5" value="Oruun's Rage" />
+  <keys prop="Name" type="monster" key="moort1" value="Despairing" />
+  <keys prop="Name" type="monster" key="moort11" value="Despairing" />
+  <keys prop="Name" type="monster" key="moort111" value="Despairing" />
+  <keys prop="Name" type="monster" key="moort3" value="Lunacy" />
+  <keys prop="Name" type="monster" key="moort6" value="Void Shield" />
+  <keys prop="Name" type="monster" key="moort0" value="Glaze of Destruction" />
+  <keys prop="Name" type="monster" key="moband5" value="Moonshade" />
+  <keys prop="Name" type="monster" key="moband08" value="Wild Shot" />
+  <keys prop="Name" type="monster" key="moband3" value="Moonshade" />
+  <keys prop="Name" type="monster" key="moband009" value="Blistering Gale" />
+  <keys prop="Name" type="monster" key="moband8" value="Call of the Dead" />
+  <keys prop="Name" type="monster" key="moban00" value="Death Wail" />
+  <keys prop="Name" type="monster" key="moban01" value="Death Wail" />
+  <keys prop="Name" type="monster" key="moband1" value="Lunar Eclipse" />
+  <keys prop="Name" type="monster" key="moband001" value="Lunar Eclipse" />
+  <keys prop="Name" type="monster" key="moband07" value="Raze" />
+  <keys prop="Name" type="monster" key="moband4" value="Solar Eclipse" />
+  <keys prop="Name" type="monster" key="moband002" value="Solar Eclipse" />
+  <keys prop="Name" type="monster" key="mofires0" value="Fire Storm" />
+  <keys prop="Name" type="monster" key="moband6" value="Sunspot" />
+  <keys prop="Name" type="monster" key="moband2" value="Solar Flare" />
+  <keys prop="Name" type="monster" key="moakeshot01" value="Solid Shot" />
+  <keys prop="Name" type="monster" key="moakesmite01" value="Blam" />
+  <keys prop="Name" type="monster" key="moakemagi02" value="Thunderstroke" />
+  <keys prop="Name" type="monster" key="moakeheal01" value="Forbidden Practice" />
+  <keys prop="Name" type="monster" key="moakewither01" value="Incantation of Weakness" />
+  <keys prop="Name" type="monster" key="moakebom0" value="Fuse Igniter" />
+  <keys prop="Name" type="monster" key="moakebom1" value="Suicide Bomb" />
+  <keys prop="Name" type="monster" key="moort30" value="Absorb Life" />
+  <keys prop="Name" type="monster" key="moort31" value="Dream" />
+  <keys prop="Name" type="monster" key="moort40" value="Dream" />
+  <keys prop="Name" type="monster" key="moort41" value="Dream" />
+  <keys prop="Name" type="monster" key="moakekaron03" value="Seething Dragon's Roar" />
+  <keys prop="Name" type="monster" key="morabcar1" value="Plant Carrot" />
+  <keys prop="Name" type="monster" key="morabcar2" value="Plant Pumpkin" />
+  <keys prop="Name" type="monster" key="morabth1" value="Carrot Bomb" />
+  <keys prop="Name" type="monster" key="morabth2" value="Pumpkin Bomb" />
+  <keys prop="Name" type="monster" key="morabth3" value="Taunt" />
+  <keys prop="Name" type="monster" key="modjsora11" value="Spiccato" />
+  <keys prop="Name" type="monster" key="modjsora22" value="Power Chord" />
+  <keys prop="Name" type="monster" key="modjsora33" value="Forte" />
+  <keys prop="Name" type="monster" key="modjsora44" value="Ostinato" />
+  <keys prop="Name" type="monster" key="moband20" value="Cursed Affliction" />
+  <keys prop="Name" type="monster" key="modray1" value="Energy Beam" />
+  <keys prop="Name" type="monster" key="modray2" value="Energy Beam" />
+  <keys prop="Name" type="monster" key="modray3" value="Energy Beam" />
+  <keys prop="Name" type="monster" key="mochilda1" value="Massive Slam" />
+  <keys prop="Name" type="monster" key="mochilda2" value="Palling Around" />
+  <keys prop="Name" type="monster" key="mochilda3" value="Skipping Rope" />
+  <keys prop="Name" type="monster" key="moband10" value="Dead Man's Ire" />
+  <keys prop="Name" type="monster" key="mochilda4" value="Best Buddies" />
+  <keys prop="Name" type="monster" key="moniblee1" value="Brother" />
+  <keys prop="Name" type="monster" key="modjshock1" value="Electric Shock" />
+  <keys prop="Name" type="monster" key="moghoat1" value="Out of Body" />
+  <keys prop="Name" type="monster" key="moghoat2" value="Dutiful Sacrifice" />
+  <keys prop="Name" type="monster" key="moakeknight01" value="Death Cry" />
+  <keys prop="Name" type="monster" key="moakeignit01" value="Ignite" />
+  <keys prop="Name" type="monster" key="moakemagi01" value="Devil's Eye" />
+  <keys prop="Name" type="monster" key="moakemagi03" value="Obvious Weakness" />
+  <keys prop="Name" type="monster" key="moakemundo01" value="Knife Throw" />
+  <keys prop="Name" type="monster" key="moakevamp02" value="Drain Blood" />
+  <keys prop="Name" type="monster" key="moakevamp01" value="Bloodlust" />
+  <keys prop="Name" type="monster" key="moaketenta02" value="Storm Cut" />
+  <keys prop="Name" type="monster" key="moaketenta01" value="Whipping" />
+  <keys prop="Name" type="monster" key="moakekaron02" value="Fractured Stability" />
+  <keys prop="Name" type="monster" key="moakekaron01" value="[BUG] Razor Winds" />
+  <keys prop="Name" type="monster" key="movega1" value="Poisoned Barb" />
+  <keys prop="Name" type="monster" key="movega2" value="Algae Burst" />
+  <keys prop="Name" type="monster" key="moghostm1" value="Suicide Bomb" />
+  <keys prop="Name" type="monster" key="moghostm2" value="Chosen One" />
+  <keys prop="Name" type="monster" key="moband99" value="Cursed Bolt" />
+  <keys prop="Name" type="monster" key="modray4" value="Energy Beam" />
+  <keys prop="Name" type="monster" key="modray01" value="Energy Beam" />
+  <keys prop="Name" type="monster" key="modray99" value="Time Distortion" />
+  <keys prop="Name" type="monster" key="morayray0" value="Energy Beam" />
+  <keys prop="Name" type="monster" key="morayray1" value="Energy Beam" />
+  <keys prop="Name" type="monster" key="mosicra02" value="Gravity Shift" />
+  <keys prop="Name" type="monster" key="mosicra03" value="Death Whisper" />
+  <keys prop="Name" type="monster" key="mosicra04" value="Sheer Terror" />
+  <keys prop="Name" type="monster" key="mosicra05" value="Ruinous Gust" />
+  <keys prop="Name" type="monster" key="mosicten1" value="Soul Slash" />
+  <keys prop="Name" type="monster" key="mocomarcmure01" value="Mutation" />
+  <keys prop="Name" type="monster" key="mocomarctrent01" value="Protective Shell" />
+  <keys prop="Name" type="monster" key="mocomghos01" value="Deathly Demeanor" />
+  <keys prop="Name" type="monster" key="mophon2" value="Swift Strike" />
+  <keys prop="Name" type="monster" key="moherut9" value="Fire Ballista" />
+  <keys prop="Name" type="monster" key="moherut2" value="Fire Ballista" />
+  <keys prop="Name" type="monster" key="moherut8" value="Scatter Dagger" />
+  <keys prop="Name" type="monster" key="moherut4" value="Death Sentence" />
+  <keys prop="Name" type="monster" key="moherut1" value="Scatter Dagger" />
+  <keys prop="Name" type="monster" key="moherut3" value="Sanctuary" />
+  <keys prop="Name" type="monster" key="moherut10" value="Sanctuary" />
+  <keys prop="Name" type="monster" key="mophon3" value="Loyalty" />
+  <keys prop="Name" type="monster" key="moherut5" value="Cold Wrath" />
+  <keys prop="Name" type="monster" key="moherut6" value="Deep Wound" />
+  <keys prop="Name" type="monster" key="moherut7" value="Sanctuary" />
+  <keys prop="Name" type="monster" key="mophon1" value="Solidarity" />
+  <keys prop="Name" type="monster" key="moranot01" value="Noxious" />
+  <keys prop="Name" type="monster" key="moranot02" value="Rotting Corpse Odor" />
+  <keys prop="Name" type="monster" key="moevraid00" value="Necromancy" />
+  <keys prop="Name" type="monster" key="mobismo01" value="Fractured Earth" />
+  <keys prop="Name" type="monster" key="mobismo02" value="Fractured Earth" />
+  <keys prop="Name" type="monster" key="moband77" value="Raze" />
+  <keys prop="Name" type="monster" key="mocarad001" value="More drinks!" />
+  <keys prop="Name" type="monster" key="mocaradpoint" value="Cask Service" />
+  <keys prop="Name" type="monster" key="mocaradbomb" value="Powder Keg Explosion" />
+  <keys prop="Name" type="monster" key="mocpeer001" value="Pierce" />
+  <keys prop="Name" type="monster" key="momohab001" value="Sever Artery" />
+  <keys prop="Name" type="monster" key="mocommohab" value="Strength Conditioning" />
+  <keys prop="Name" type="monster" key="mocomcarad01" value="Sailor" />
+  <keys prop="Name" type="monster" key="mocomcpeer01" value="Vile" />
+  <keys prop="Name" type="monster" key="morazatm0" value="Implosion" />
+  <keys prop="Name" type="monster" key="mohst1" value="Improvised" />
+  <keys prop="Name" type="monster" key="mohst2" value="Flask" />
+  <keys prop="Name" type="monster" key="mohst3" value="God of Ruin's Instinct" />
+  <keys prop="Name" type="monster" key="mohst4" value="Artisan's Touch" />
+  <keys prop="Name" type="monster" key="mohst5" value="Iron Pillar" />
+  <keys prop="Name" type="monster" key="mohst6" value="Fire Pillar" />
+  <keys prop="Name" type="monster" key="mohst7" value="Ice Arrow" />
+  <keys prop="Name" type="monster" key="mohst01" value="Summon Manastone" />
+  <keys prop="Name" type="monster" key="mohst02" value="Summon Manastone" />
+  <keys prop="Name" type="monster" key="mohst03" value="Summon Manastone" />
+  <keys prop="Name" type="monster" key="mohsts1" value="Blue Manastone's Energy" />
+  <keys prop="Name" type="monster" key="mohsts2" value="Red Manastone's Energy" />
+  <keys prop="Name" type="monster" key="mohsts3" value="Green Manastone's Energy" />
+  <keys prop="Name" type="monster" key="motrap11" value="Revolutionaries Trap" />
+  <keys prop="Name" type="monster" key="mobomb11" value="Defensive Burst" />
+  <keys prop="Name" type="monster" key="moskeye0" value="Fiery Eyes" />
+  <keys prop="Name" type="monster" key="moromb1" value="Direct Fire" />
+  <keys prop="Name" type="monster" key="moshell1" value="Bombardment" />
+  <keys prop="Name" type="monster" key="moshell01" value="Bombardment" />
+  <keys prop="Name" type="monster" key="momac1" value="Blistering Gale" />
+  <keys prop="Name" type="monster" key="momac2" value="Fireball" />
+  <keys prop="Name" type="monster" key="momgh1" value="Heavy Strike" />
+  <keys prop="Name" type="monster" key="momgh2" value="Bite" />
+  <keys prop="Name" type="monster" key="motrc1" value="Body Slam" />
+  <keys prop="Name" type="monster" key="motrc2" value="Lift" />
+  <keys prop="Name" type="monster" key="motrc3" value="Rage" />
+  <keys prop="Name" type="monster" key="momacta01" value="Blooming Hellfire" />
+  <keys prop="Name" type="monster" key="momacta01a" value="Blooming Hellfire" />
+  <keys prop="Name" type="monster" key="momacta02a" value="Erupting Flame" />
+  <keys prop="Name" type="monster" key="momacta02b" value="Erupting Flame" />
+  <keys prop="Name" type="monster" key="momacta02c" value="Erupting Flame" />
+  <keys prop="Name" type="monster" key="momacta02d" value="Erupting Flame" />
+  <keys prop="Name" type="monster" key="momacta03a" value="Golden Armor" />
+  <keys prop="Name" type="monster" key="momacta03b" value="Overheat" />
+  <keys prop="Name" type="monster" key="momacta04" value="Surging Heat" />
+  <keys prop="Name" type="monster" key="momacta04a" value="Surging Heat" />
+  <keys prop="Name" type="monster" key="momacta04b" value="Surging Heat" />
+  <keys prop="Name" type="monster" key="momacta05a" value="Place Reducing Agent" />
+  <keys prop="Name" type="monster" key="momacta05b" value="Overdose" />
+  <keys prop="Name" type="monster" key="momacta05c" value="Inferno" />
+  <keys prop="Name" type="monster" key="momamul11" value="Summon Cursed Spirit" />
+  <keys prop="Name" type="monster" key="momamul0" value="Unwilling Sacrifice" />
+  <keys prop="Name" type="monster" key="moshakiss1" value="Source" />
+  <keys prop="Name" type="monster" key="moshakiss2" value="Buried" />
+  <keys prop="Name" type="monster" key="moshakiss3" value="Banked Fire" />
+  <keys prop="Name" type="monster" key="moshakiss4" value="Rushing Wind" />
+  <keys prop="Name" type="monster" key="moshakiss5" value="[BUG] Razor Winds" />
+  <keys prop="Name" type="monster" key="mozir11" value="Self Inflicted" />
+  <keys prop="Name" type="monster" key="modiebuff0" value="False Revolutionary's Blood" />
+  <keys prop="Name" type="monster" key="mosinsia02b" value="Stratagem" />
+  <keys prop="Name" type="monster" key="mosinsia01" value="Smokescreen" />
+  <keys prop="Name" type="monster" key="mod13skill2" value="Lightning Strike" />
+  <keys prop="Name" type="monster" key="mod13skill1" value="Lightning Strike" />
+  <keys prop="Name" type="monster" key="mosinsia02a" value="Neural Shock" />
+  <keys prop="Name" type="monster" key="mosinsia02" value="Stratagem" />
+  <keys prop="Name" type="monster" key="monibar01" value="Black Arts" />
+  <keys prop="Name" type="monster" key="mod13skill11" value="Lightning Strike" />
+  <keys prop="Name" type="monster" key="mod13skill21" value="Lightning Strike" />
+  <keys prop="Name" type="monster" key="monibar02" value="Night Terror" />
+  <keys prop="Name" type="monster" key="monibar03" value="Frightful Blast" />
+  <keys prop="Name" type="monster" key="monasulosa1" value="Demon Wolf Strike" />
+  <keys prop="Name" type="monster" key="monasulosa2" value="Demon Wolf Strike" />
+  <keys prop="Name" type="monster" key="monasulosb1" value="Sword Dance" />
+  <keys prop="Name" type="monster" key="monasulosc1" value="Resonant Destruction" />
+  <keys prop="Name" type="monster" key="monasulosc2" value="Resonant Destruction" />
+  <keys prop="Name" type="monster" key="monasulosc3" value="Resonance" />
+  <keys prop="Name" type="monster" key="monasulosc4" value="Resonant Destruction" />
+  <keys prop="Name" type="monster" key="monasulosc5" value="Atonement" />
+  <keys prop="Name" type="monster" key="monasulosc6" value="Atonement" />
+  <keys prop="Name" type="monster" key="monasulosd1" value="Radiant Strike" />
+  <keys prop="Name" type="monster" key="monasulosf1" value="General's Calling" />
+  <keys prop="Name" type="monster" key="monasulosf2" value="General's Calling" />
+  <keys prop="Name" type="monster" key="moantulagena1" value="Destabilization" />
+  <keys prop="Name" type="monster" key="moantulagenb1" value="Battering Ram" />
+  <keys prop="Name" type="monster" key="moantulagenb2" value="Formation" />
+  <keys prop="Name" type="monster" key="moantulagenc1" value="Agonizing Transition" />
+  <keys prop="Name" type="monster" key="moantulagend1" value="Distortion" />
+  <keys prop="Name" type="monster" key="moantulagend2" value="Sealed Zone" />
+  <keys prop="Name" type="monster" key="moantulagene1" value="Contented Rumble" />
+  <keys prop="Name" type="monster" key="mohumelda1" value="Light Strike" />
+  <keys prop="Name" type="monster" key="mohumeldb1" value="Death Blade" />
+  <keys prop="Name" type="monster" key="mohumeldc1" value="Covetous" />
+  <keys prop="Name" type="monster" key="mohumeldd1" value="King's Judgement" />
+  <keys prop="Name" type="monster" key="mohumeldd2" value="Sword's Judgment" />
+  <keys prop="Name" type="monster" key="mohumelde1" value="Pure Silence" />
+  <keys prop="Name" type="monster" key="modemelda1" value="Bloody Wound" />
+  <keys prop="Name" type="monster" key="modemeldb1" value="Rupture" />
+  <keys prop="Name" type="monster" key="modemeldc1" value="Death Grip" />
+  <keys prop="Name" type="monster" key="modemeldc2" value="Death Aura" />
+  <keys prop="Name" type="monster" key="modemeldd1" value="Fiery Burst" />
+  <keys prop="Name" type="monster" key="modemelde1" value="Seed of Ruin" />
+  <keys prop="Name" type="monster" key="modemelde2" value="Seed of Ruin" />
+  <keys prop="Name" type="monster" key="moditugarena1" value="Destructive Bolt" />
+  <keys prop="Name" type="monster" key="moditugarenb1" value="Death Aura" />
+  <keys prop="Name" type="monster" key="moditugarenc1" value="Dark Maelstrom" />
+  <keys prop="Name" type="monster" key="moditugarend1" value="Charged Strike" />
+  <keys prop="Name" type="monster" key="moditugarene1" value="Deadly Mist" />
+  <keys prop="Name" type="monster" key="mopvpfellow1" value="Undead Essence" />
+  <keys prop="Name" type="monster" key="mopvpfellow2" value="Undead Essence" />
+  <keys prop="Name" type="monster" key="motutobis01" value="Gulp!" />
+  <keys prop="Name" type="monster" key="motutobis02" value="Knuckle Burn" />
+  <keys prop="Name" type="monster" key="motutobis03" value="Ground Smash" />
+  <keys prop="Name" type="monster" key="motutobis04" value="Unstoppable" />
+  <keys prop="Name" type="monster" key="motutobis05" value="Dry Haze" />
+  <keys prop="Name" type="monster" key="mocomfunny01" value="Grim Reaper" />
+  <keys prop="Name" type="monster" key="mocomfunny02" value="Wraith Form" />
+  <keys prop="Name" type="monster" key="mofunnyaxe01" value="Annihilate" />
+  <keys prop="Name" type="monster" key="mofunnytrap01" value="Snare" />
+  <keys prop="Name" type="monster" key="mofunnyhorror01" value="Wraith Form" />
+  <keys prop="Name" type="monster" key="mofunnycall01" value="Rise from the Grave" />
+  <keys prop="Name" type="monster" key="mofunnybomb01" value="Self-destruct" />
+  <keys prop="Name" type="monster" key="mofunnybomb02" value="Self-destruct" />
+  <keys prop="Name" type="monster" key="funhouse" value="Bleak Aura" />
+  <keys prop="Name" type="monster" key="mofunnyfear01" value="Night Terror" />
+  <keys prop="Name" type="monster" key="mocomfunny03" value="Already Dead" />
+  <keys prop="Name" type="monster" key="mofunnyhuge01" value="Giant Strike" />
+  <keys prop="Name" type="monster" key="moreaper01" value="Soul Strike" />
+  <keys prop="Name" type="monster" key="mokalip01" value="Destructive Wave" />
+  <keys prop="Name" type="monster" key="modemo01" value="Dark Wave" />
+  <keys prop="Name" type="monster" key="mohami01" value="Freezing Wave" />
+  <keys prop="Name" type="monster" key="morode01" value="Fury Shockwave" />
+  <keys prop="Name" type="monster" key="movega01" value="Poison Wave" />
+  <keys prop="Name" type="monster" key="moelfera1" value="Summon: Eye of the Storm" />
+  <keys prop="Name" type="monster" key="moelfera2" value="Brewing Maelstrom" />
+  <keys prop="Name" type="monster" key="moelfera3" value="Spell Storm" />
+  <keys prop="Name" type="monster" key="moelferb1" value="Magic Addiction" />
+  <keys prop="Name" type="monster" key="moelferb2" value="Unstable Magic" />
+  <keys prop="Name" type="monster" key="moelferb3" value="Purification" />
+  <keys prop="Name" type="monster" key="moelferc1" value="Power of the Altar" />
+  <keys prop="Name" type="monster" key="moelferc2" value="Entrapment" />
+  <keys prop="Name" type="monster" key="moelferc3" value="Enervation" />
+  <keys prop="Name" type="monster" key="moelferc4" value="Torrent of Lightning" />
+  <keys prop="Name" type="monster" key="moelferd1" value="Magic Lockdown" />
+  <keys prop="Name" type="monster" key="moelferd2" value="Magic Lockdown" />
+  <keys prop="Name" type="monster" key="moelferd3" value="Enervation" />
+  <keys prop="Name" type="monster" key="moelferd4" value="Torrent of Lightning" />
+  <keys prop="Name" type="monster" key="moelferd5" value="Torrent of Lightning" />
+  <keys prop="Name" type="monster" key="moelferd6" value="Execution" />
+  <keys prop="Name" type="monster" key="moelfere1" value="Overload" />
+  <keys prop="Name" type="monster" key="moelfere2" value="Overload" />
+  <keys prop="Name" type="monster" key="moelfere3" value="The Forbidden Ritual" />
+  <keys prop="Name" type="monster" key="moelfere4" value="Execution" />
+  <keys prop="Name" type="monster" key="morabormt1" value="Mysterious Energy" />
+  <keys prop="Name" type="monster" key="morabini01" value="Topping bomb" />
+  <keys prop="Name" type="monster" key="bormibomb00" value="Carrot bomb" />
+  <keys prop="Name" type="monster" key="morstatue01" value="Ruby horsepower" />
+  <keys prop="Name" type="monster" key="mobstatue01" value="Sapphire horsepower" />
+  <keys prop="Name" type="monster" key="mosicra07" value="Dark horsepower" />
+  <keys prop="Name" type="monster" key="mohelene01" value="Golem" />
+  <keys prop="Name" type="monster" key="moselene01" value="Chill" />
+  <keys prop="Name" type="monster" key="mohelene02" value="Ground" />
+  <keys prop="Name" type="monster" key="moelfer02" value="Horsepower" />
+  <keys prop="Name" type="monster" key="moelfer01" value="Horsepower" />
+  <keys prop="Name" type="monster" key="momagna00" value="Flame" />
+  <keys prop="Name" type="monster" key="momagna01" value="Earth" />
+  <keys prop="Name" type="monster" key="mocassp00" value="Deadly" />
+  <keys prop="Name" type="monster" key="mobeldons00" value="Annihilation" />
+  <keys prop="Name" type="monster" key="morwiz01" value="Fireball" />
+  <keys prop="Name" type="monster" key="morimp01" value="Flame rake" />
+  <keys prop="Name" type="monster" key="mobwiz01" value="Ice bolt" />
+  <keys prop="Name" type="monster" key="mobimp01" value="Ice rake" />
+  <keys prop="Name" type="monster" key="mohino03" value="Axle" />
+  <keys prop="Name" type="monster" key="mohino00" value="Death" />
+  <keys prop="Name" type="monster" key="mohino05" value="Hell gate" />
+  <keys prop="Name" type="monster" key="mohino04" value="execution" />
+  <keys prop="Name" type="monster" key="molano02" value="Gravity" />
+  <keys prop="Name" type="monster" key="molano03" value="Crust" />
+  <keys prop="Name" type="monster" key="molano04" value="earthquake" />
+  <keys prop="Name" type="monster" key="molano05" value="Typhoon" />
+  <keys prop="Name" type="monster" key="molano06" value="storm" />
+  <keys prop="Name" type="monster" key="mohpburn00" value="Health Loss" />
+  <keys prop="Name" type="monster" key="mohpburn01" value="Health Loss" />
+  <keys prop="Name" type="monster" key="mohpburn02" value="Health Loss" />
+  <keys prop="Name" type="monster" key="morimp02" value="Health Loss" />
+  <keys prop="Name" type="monster" key="momegan02" value="Death" />
+  <keys prop="Name" type="monster" key="momegan03" value="Ruthless" />
+  <keys prop="Name" type="monster" key="momegan04" value="Roar" />
+  <keys prop="Name" type="monster" key="molano003" value="Health Loss" />
+  <keys prop="Name" type="monster" key="molano005" value="Health Loss" />
+  <keys prop="Name" type="monster" key="momegan003" value="Health Loss" />
+  <keys prop="Name" type="monster" key="momegan002" value="Health Loss" />
+  <keys prop="Name" type="monster" key="momegan004" value="Health Loss" />
+  <keys prop="Name" type="monster" key="moselene001" value="Health Loss" />
+  <keys prop="Name" type="monster" key="mohino003" value="Health Loss" />
+  <keys prop="Name" type="monster" key="mohino0" value="Health Loss" />
+  <keys prop="Name" type="monster" key="mohino06" value="Health Loss" />
+  <keys prop="Name" type="monster" key="mohino004" value="Health Loss" />
+  <keys prop="Name" type="monster" key="mofunnybomb03" value="Party Time" />
+  <keys prop="Name" type="monster" key="mofunnysnow01" value="Snowflower throwing" />
+  <keys prop="Name" type="monster" key="mofunnyupper01" value="Come play with me" />
+  <keys prop="Name" type="monster" key="mofunnybreath01" value="Why did you come to my house" />
+  <keys prop="Name" type="monster" key="anwisp01" value="Overcharging" />
+  <keys prop="Name" type="monster" key="mohurtsand02" value="Pain" />
+  <keys prop="Name" type="monster" key="mohurtsand03" value="Caller" />
+  <keys prop="Name" type="monster" key="mohurtsand01" value="Roar" />
+  <keys prop="Name" type="monster" key="mohurtsand05" value="inhale" />
+  <keys prop="Name" type="monster" key="mohurtsand06" value="Summoning larvae" />
+  <keys prop="Name" type="monster" key="mohurtsand04" value="Sand grave" />
+  <keys prop="Name" type="monster" key="moceilik04" value="Rockfall" />
+  <keys prop="Name" type="monster" key="moceilik03" value="Thorn" />
+  <keys prop="Name" type="monster" key="mokuro01" value="pluck" />
+  <keys prop="Name" type="monster" key="mokuro06" value="Blink" />
+  <keys prop="Name" type="monster" key="mokuro05" value="Queen" />
+  <keys prop="Name" type="monster" key="mokuro04" value="Bloodborne" />
+  <keys prop="Name" type="monster" key="mokuro03" value="Blood curse" />
+  <keys prop="Name" type="monster" key="mokuro02" value="Vitality" />
+  <keys prop="Name" type="monster" key="mobugstag01" value="Stab" />
+  <keys prop="Name" type="monster" key="mobughor01" value="Continuous launch" />
+  <keys prop="Name" type="monster" key="mobugbet01" value="Shield" />
+  <keys prop="Name" type="monster" key="mobugmanti01" value="Stab" />
+  <keys prop="Name" type="monster" key="moilikthorn01" value="Spit" />
+  <keys prop="Name" type="monster" key="moilikbomb01" value="Self -destruction" />
+  <keys prop="Name" type="monster" key="moilikmucus01" value="Spit" />
+  <keys prop="Name" type="monster" key="moilikmuscus02" value="Spit" />
+  <keys prop="Name" type="monster" key="idolgarm01" value="Earthquake" />
+  <keys prop="Name" type="monster" key="idolroxi01" value="Heat wave" />
+  <keys prop="Name" type="monster" key="idolpano" value="Mirage" />
+  <keys prop="Name" type="monster" key="moadel01" value="Landing" />
+  <keys prop="Name" type="monster" key="moadel02" value="Thorn launch" />
+  <keys prop="Name" type="monster" key="moadel03" value="Gas discharge" />
+  <keys prop="Name" type="monster" key="moadel05" value="Flickering" />
+  <keys prop="Name" type="monster" key="moadel07" value="Grill" />
+  <keys prop="Name" type="monster" key="mosandw03" value="Sand hell" />
+  <keys prop="Name" type="monster" key="mohurtsand07" value="Spit" />
+  <keys prop="Name" type="monster" key="moceilik06" value="Request for reinforcement" />
+  <keys prop="Name" type="monster" key="morearock00" value="Rocking" />
+  <keys prop="Name" type="monster" key="motitanrock00" value="Rocking" />
+  <keys prop="Name" type="monster" key="mogolepunch00" value="Golem" />
+  <keys prop="Name" type="monster" key="mogianarc01" value="Spore" />
+  <keys prop="Name" type="monster" key="mogianarc02" value="Spore" />
+  <keys prop="Name" type="monster" key="moexfly01" value="Spores" />
+  <keys prop="Name" type="monster" key="moexmoth01" value="Gas spray" />
+  <keys prop="Name" type="monster" key="mobsandw002" value="Eyoro" />
+  <keys prop="Name" type="monster" key="mosandw01" value="Sand hell" />
+  <keys prop="Name" type="monster" key="mosandw02" value="Ground hole" />
+  <keys prop="Name" type="monster" key="moexcebomb01" value="Self -destruction" />
+  <keys prop="Name" type="monster" key="mobugsal01" value="Summon" />
+  <keys prop="Name" type="monster" key="mobugsal02" value="Flame sword" />
+  <keys prop="Name" type="monster" key="moceilik004" value="Rockfall" />
+  <keys prop="Name" type="monster" key="moantares00" value="Raging" />
+  <keys prop="Name" type="monster" key="moantares01" value="Wave" />
+  <keys prop="Name" type="monster" key="moantares000" value="Raging" />
+  <keys prop="Name" type="monster" key="moantares001" value="Wave" />
+  <keys prop="Name" type="monster" key="mohurtsand002" value="Poisonous" />
+  <keys prop="Name" type="monster" key="mokuro005" value="absorption" />
+  <keys prop="Name" type="monster" key="mohstatue01" value="Ruby horsepower" />
+  <keys prop="Name" type="monster" key="mohstatue02" value="Sapphire horsepower" />
+  <keys prop="Name" type="monster" key="moadel06" value="Flickering" />
+  <keys prop="Name" type="monster" key="moadel003" value="Gas discharge" />
+  <keys prop="Name" type="monster" key="moadel002" value="Thorn" />
+  <keys prop="Name" type="monster" key="moadel09" value="Thorn launch" />
+  <keys prop="Name" type="monster" key="moadel007" value="Breathe" />
+  <keys prop="Name" type="monster" key="moadel08" value="Fall down" />
+  <keys prop="Name" type="monster" key="moadel005" value="Flickering" />
+  <keys prop="Name" type="monster" key="mopoisonir01" value="Corruption" />
+  <keys prop="Name" type="monster" key="mopoisonir02" value="Poison" />
+  <keys prop="Name" type="monster" key="moimmo01" value="Dark wave" />
+  <keys prop="Name" type="monster" key="moimpdef1" value="Defense" />
+  <keys prop="Name" type="monster" key="moimpmdef1" value="Resistance" />
+  <keys prop="Name" type="monster" key="mogirlscream1" value="Screaming" />
+  <keys prop="Name" type="monster" key="mogirlsummon1" value="Request for help" />
+  <keys prop="Name" type="monster" key="mosatrg1" value="Land" />
+  <keys prop="Name" type="monster" key="mosatrg01" value="Land" />
+  <keys prop="Name" type="monster" key="mosatrg001" value="Land" />
+  <keys prop="Name" type="monster" key="mosatrg3" value="Sentence" />
+  <keys prop="Name" type="monster" key="mosatdie1" value="pollution" />
+  <keys prop="Name" type="monster" key="mosatsac1" value="Contamination" />
+  <keys prop="Name" type="monster" key="mosatsac2" value="pollution" />
+  <keys prop="Name" type="monster" key="mosatrg6" value="Shield defense" />
+  <keys prop="Name" type="monster" key="mocallcarm01" value="call" />
+  <keys prop="Name" type="monster" key="modailyalldie1" value="Shock spread" />
+  <keys prop="Name" type="monster" key="modailybomb01" value="Self-Destruct" />
+  <keys prop="Name" type="monster" key="moforg10" value="Pillar" />
+  <keys prop="Name" type="monster" key="mosatrgw1" value="Land" />
+  <keys prop="Name" type="monster" key="mosatrgw01" value="Land" />
+  <keys prop="Name" type="monster" key="mosatrgw001" value="Land" />
+  <keys prop="Name" type="monster" key="mogriff04" value="Flame release" />
+  <keys prop="Name" type="monster" key="mogriff01" value="ignition" />
+  <keys prop="Name" type="monster" key="mogriff02" value="Dark blossom" />
+  <keys prop="Name" type="monster" key="mogriff03" value="ignition" />
+  <keys prop="Name" type="monster" key="mogriff06" value="Flame release" />
+  <keys prop="Name" type="monster" key="mogriff001" value="Ignition" />
+  <keys prop="Name" type="monster" key="mogriff05" value="Summon a storm" />
+  <keys prop="Name" type="monster" key="mogriff005" value="Flame storm" />
+  <keys prop="Name" type="monster" key="mogriff0005" value="Flame storm" />
+  <keys prop="Name" type="monster" key="mopoisfrog01" value="Well summoning" />
+  <keys prop="Name" type="monster" key="mopoisfrog04" value="pluck" />
+  <keys prop="Name" type="monster" key="mopooh01" value="Summoning" />
+  <keys prop="Name" type="monster" key="mopooh02" value="Bee" />
+  <keys prop="Name" type="monster" key="moroadilik01" value="Auto-destruição" />
+  <keys prop="Name" type="monster" key="mobrag06" value="Watching" />
+  <keys prop="Name" type="monster" key="mobrag04" value="Duck" />
+  <keys prop="Name" type="monster" key="mobrag02" value="Summon Blade" />
+  <keys prop="Name" type="monster" key="mobrag03" value="Ass" />
+  <keys prop="Name" type="monster" key="mobrag01" value="Bladestorm" />
+  <keys prop="Name" type="monster" key="mofrozeniren02" value="Fear" />
+  <keys prop="Name" type="monster" key="mofrozeniren03" value="Giant hail" />
+  <keys prop="Name" type="monster" key="mofroziren01" value="Freezing" />
+  <keys prop="Name" type="monster" key="mobis02" value="charge" />
+  <keys prop="Name" type="monster" key="mobis03" value="sweep" />
+  <keys prop="Name" type="monster" key="mobis01" value="Summoning zombies" />
+  <keys prop="Name" type="monster" key="mobis06" value="earthquake" />
+  <keys prop="Name" type="monster" key="moheru03" value="Dagger" />
+  <keys prop="Name" type="monster" key="moheru01" value="Crust" />
+  <keys prop="Name" type="monster" key="mobsandw03" value="scream" />
+  <keys prop="Name" type="monster" key="mobsandw04" value="ecdysis" />
+  <keys prop="Name" type="monster" key="mobsandw05" value="Spit" />
+  <keys prop="Name" type="monster" key="mohurtsand08" value="Summoning larvae" />
+  <keys prop="Name" type="monster" key="mohurtsand09" value="Earth vibration" />
+  <keys prop="Name" type="monster" key="mospider02" value="Spider web" />
+  <keys prop="Name" type="monster" key="moceilikw03" value="Thorn" />
+  <keys prop="Name" type="monster" key="moceilikw04" value="Rockfall" />
+  <keys prop="Name" type="monster" key="mosummonilik01" value="Brother -in -law" />
+  <keys prop="Name" type="monster" key="mosummonilik02" value="Persistent vitality" />
+  <keys prop="Name" type="monster" key="mokuro07" value="jump" />
+  <keys prop="Name" type="monster" key="mokuro08" value="whim" />
+  <keys prop="Name" type="monster" key="mokuro10" value="Bio detection" />
+  <keys prop="Name" type="monster" key="mokuro09" value="Current bombing" />
+  <keys prop="Name" type="monster" key="mokuro009" value="Neurological current" />
+  <keys prop="Name" type="monster" key="mokuro011" value="Emission" />
+  <keys prop="Name" type="monster" key="mokurosummon01" value="Vivo" />
+  <keys prop="Name" type="monster" key="mobsandw01" value="Sand hell" />
+  <keys prop="Name" type="monster" key="morag01" value="Shield defense" />
+  <keys prop="Name" type="monster" key="mosic01" value="Death" />
+  <keys prop="Name" type="monster" key="mosic02" value="Inner horror" />
+  <keys prop="Name" type="monster" key="mofrozeniren05" value="Ice pillar" />
+  <keys prop="Name" type="monster" key="mojenon2" value="Land strike" />
+  <keys prop="Name" type="monster" key="mojenon3" value="Tread" />
+  <keys prop="Name" type="monster" key="mojenon1" value="Upgrade" />
+  <keys prop="Name" type="monster" key="moku01" value="Vitality" />
+  <keys prop="Name" type="monster" key="mopooh05" value="Ground explosion" />
+  <keys prop="Name" type="monster" key="mopooh06" value="Conversion" />
+  <keys prop="Name" type="monster" key="hastanpois01" value="Well" />
+  <keys prop="Name" type="monster" key="mopoisfrog05" value="Dock" />
+  <keys prop="Name" type="monster" key="mobis07" value="Self -destruction" />
+  <keys prop="Name" type="monster" key="moheru07" value="Death sentence" />
+  <keys prop="Name" type="monster" key="moheru05" value="anger" />
+  <keys prop="Name" type="monster" key="moheru04" value="Crossbow" />
+  <keys prop="Name" type="monster" key="mofrozenir01" value="Ice pillar" />
+  <keys prop="Name" type="monster" key="moicebre01" value="Ice" />
+  <keys prop="Name" type="monster" key="moheru06" value="Crust" />
+  <keys prop="Name" type="monster" key="mokua01" value="pluck" />
+  <keys prop="Name" type="monster" key="mokub01" value="pluck" />
+  <keys prop="Name" type="monster" key="mokua02" value="Vitality" />
+  <keys prop="Name" type="monster" key="mokub02" value="Vitality" />
+  <keys prop="Name" type="monster" key="mokua03" value="Blood curse" />
+  <keys prop="Name" type="monster" key="mokua04" value="Bloodborne" />
+  <keys prop="Name" type="monster" key="mokua07" value="jump" />
+  <keys prop="Name" type="monster" key="moradilik03" value="Ataque de Espinhos" />
+  <keys prop="Name" type="monster" key="moroadilik03" value="Spray de Bio-Fluido" />
+  <keys prop="Name" type="monster" key="mopooh07" value="Explosão do solo" />
+  <keys prop="Name" type="monster" key="moroadilik05" value="Extermínio" />
+  <keys prop="Name" type="monster" key="mobragitrap01" value="Laço" />
+  <keys prop="Name" type="monster" key="mofrozenir02" value="Restauração" />
+  <keys prop="Name" type="monster" key="mofrozeniren06" value="Chamada de Reforços" />
+  <keys prop="Name" type="monster" key="moheru10" value="Chamado da Alma Selvagem" />
+  <keys prop="Description" type="monster" key="mopooh003" value="Vício em mel" />
+  <keys prop="Description" type="monster" key="mocpr01" value="Blitz" />
+  <keys prop="Description" type="monster" key="mocpr02" value="Cross Slash" />
+  <keys prop="Description" type="monster" key="mocpr03" value="Dominant Virtue" />
+  <keys prop="Description" type="monster" key="mocpr04" value="Whirlpool" />
+  <keys prop="Description" type="monster" key="mocpr05" value="Meteor Strike" />
+  <keys prop="Description" type="monster" key="mocpr06" value="Fractured Stability" />
+  <keys prop="Description" type="monster" key="mocpr006" value="Fractured Stability" />
+  <keys prop="Description" type="monster" key="mocpr07" value="Fleeting Dagger" />
+  <keys prop="Description" type="monster" key="mocpr08" value="Phantom Whirlpool" />
+  <keys prop="Description" type="monster" key="mocpr09" value="Thieves Crew" />
+  <keys prop="Description" type="monster" key="mocprsummon01" value="Beast" />
+  <keys prop="Description" type="monster" key="mocprbuff1" value="Safeguard" />
+  <keys prop="Description" type="monster" key="mocprbuff2" value="Volatile Rage" />
+  <keys prop="Description" type="monster" key="mocprbuff01" value="Combir's protection" />
+  <keys prop="Description" type="monster" key="mocprlion01" value="The Chase" />
+  <keys prop="Description" type="monster" key="mocprlion02" value="Blam" />
+  <keys prop="Description" type="monster" key="mocprlion002" value="Roar" />
+  <keys prop="Description" type="monster" key="mocprlion03" value="Primal" />
+  <keys prop="Description" type="monster" key="mocprlion04" value="Thieves Crew" />
+  <keys prop="Description" type="monster" key="mocprtrap01" value="Ground Trap" />
+  <keys prop="Description" type="monster" key="mocprfire01" value="Fire Storm" />
+  <keys prop="Description" type="monster" key="mocprfire001" value="Fire Storm" />
+  <keys prop="Description" type="monster" key="mocprfire02" value="Firestorm" />
+  <keys prop="Description" type="monster" key="mocprfire002" value="Firestorm" />
+  <keys prop="Description" type="monster" key="waterbomb00" value="Water balloon" />
+  <keys prop="Description" type="monster" key="mocprlion002a" value="Roar" />
+  <keys prop="Description" type="monster" key="mosscry1" value="Vigilance" />
+  <keys prop="Description" type="monster" key="motrwisp01" value="Rage" />
+  <keys prop="Description" type="monster" key="motrwisp02" value="Nature" />
+  <keys prop="Description" type="monster" key="momaja02" value="Cold breath" />
+  <keys prop="Description" type="monster" key="momaja03" value="Ass" />
+  <keys prop="Description" type="monster" key="momaja04" value="All -in -one" />
+  <keys prop="Description" type="monster" key="momato02" value="sandstorm" />
+  <keys prop="Description" type="monster" key="momato03" value="Ass" />
+  <keys prop="Description" type="monster" key="momato04" value="All -in -one" />
+  <keys prop="Description" type="monster" key="momuto02" value="Breathe" />
+  <keys prop="Description" type="monster" key="momuto03" value="Ass" />
+  <keys prop="Description" type="monster" key="momuto04" value="All -in -one" />
+  <keys prop="Description" type="monster" key="mofow03" value="Ass" />
+  <keys prop="Description" type="monster" key="mofow02" value="Driven wind" />
+  <keys prop="Description" type="monster" key="mofow04" value="All -in -one" />
+  <keys prop="Description" type="monster" key="moicthorn01" value="Frozen thorns" />
+  <keys prop="Description" type="monster" key="moicwisp01" value="Self -destruction" />
+  <keys prop="Description" type="monster" key="moictanta02" value="Summoning spirit" />
+  <keys prop="Description" type="monster" key="moiyaicar01" value="Chão congelado" />
+  <keys prop="Description" type="monster" key="moictenta01" value="Saudar" />
+  <keys prop="Description" type="monster" key="moictanta01" value="Evocar Tentáculo" />
+  <keys prop="Description" type="monster" key="moiyawarm02" value="Hidratar" />
+  <keys prop="Description" type="monster" key="moiyawarm01" value="Evocar Larvas" />
+  <keys prop="Description" type="monster" key="moiyafog01" value="Dança Solo" />
+  <keys prop="Description" type="monster" key="moiyafire01" value="Poder decadente" />
+  <keys prop="Description" type="monster" key="moiyafire02" value="Fogo do inferno" />
+  <keys prop="Description" type="monster" key="moiyajump01" value="Pisar" />
+  <keys prop="Description" type="monster" key="mofitenta02" value="Chicote" />
+  <keys prop="Description" type="monster" key="mofitanta02" value="Evocar Espírito" />
+  <keys prop="Description" type="monster" key="moiyafiar01" value="Terra arrasada" />
+  <keys prop="Description" type="monster" key="mofitenta03" value="Faísca de fogo" />
+  <keys prop="Description" type="monster" key="mofitanta04" value="Explosão da Terra" />
+  <keys prop="Description" type="monster" key="mofitanta01" value="Evocar Tentáculo" />
+  <keys prop="Description" type="monster" key="mofiwisp01" value="Suicídio" />
+  <keys prop="Description" type="monster" key="mobigray09" value="Sentença" />
+  <keys prop="Description" type="monster" key="mobigray009" value="Sentença" />
+  <keys prop="Description" type="monster" key="moray09" value="Chamada de Destruição" />
+  <keys prop="Description" type="monster" key="moray10" value="Lançamento atual" />
+  <keys prop="Description" type="monster" key="moiyahunter01" value="Seta mortal" />
+  <keys prop="Description" type="monster" key="moiyashaman02" value="Curar" />
+  <keys prop="Description" type="monster" key="moiyabrave02" value="Fúria Log" />
+  <keys prop="Description" type="monster" key="moiyabrave01" value="Moinho de vento" />
+  <keys prop="Description" type="monster" key="moiyafighter01" value="Golpe Selvagem" />
+  <keys prop="Description" type="monster" key="moiyashaman01" value="Flecha de Gelo" />
+  <keys prop="Description" type="monster" key="moiyaghos01" value="Poder decadente" />
+  <keys prop="Description" type="monster" key="moiyamucus01" value="Ataque Doente" />
+  <keys prop="Description" type="monster" key="moictanta04" value="Pilar de Água" />
+  <keys prop="Description" type="monster" key="moiyacere01" value="Encantamento ritualístico" />
+  <keys prop="Description" type="monster" key="moiyacere02" value="Execução" />
+  <keys prop="Description" type="monster" key="moiyafire03" value="Fogo do inferno" />
+  <keys prop="Description" type="monster" key="moictanta03" value="Pilar de Água" />
+  <keys prop="Description" type="monster" key="moiyafire04" value="Fogo do inferno" />
+  <keys prop="Description" type="monster" key="moiyaworhd01" value="Evocar Larvas" />
+  <keys prop="Description" type="monster" key="moictenhd01" value="Evocar Tentáculo" />
+  <keys prop="Description" type="monster" key="moiyaghos02" value="Poder decadente" />
+  <keys prop="Description" type="monster" key="moiyaweak01" value="Enervação" />
+  <keys prop="Description" type="monster" key="mofitenhd01" value="Evocar Tentáculo" />
+  <keys prop="Description" type="monster" key="moiyaghos03" value="Exaustão" />
+  <keys prop="Description" type="monster" key="momgstone01" value="Bênção Ruinosa" />
+  <keys prop="Description" type="monster" key="monerg03" value="Ground" />
+  <keys prop="Description" type="monster" key="monerg01" value="Ground" />
+  <keys prop="Description" type="monster" key="monerg02" value="Ground" />
+  <keys prop="Description" type="monster" key="monerg05" value="Frost fragments" />
+  <keys prop="Description" type="monster" key="monerg04" value="Cold weather" />
+  <keys prop="Description" type="monster" key="mocatac01" value="Rotation" />
+  <keys prop="Description" type="monster" key="mocatac02" value="Placement" />
+  <keys prop="Description" type="monster" key="mocatac03" value="Split" />
+  <keys prop="Description" type="monster" key="momusp01" value="Brilliance" />
+  <keys prop="Description" type="monster" key="momusp02" value="Lightning" />
+  <keys prop="Description" type="monster" key="momusp03" value="scourge" />
+  <keys prop="Description" type="monster" key="momusp04" value="scourge" />
+  <keys prop="Description" type="monster" key="momusp05" value="scourge" />
+  <keys prop="Description" type="monster" key="moarcan01" value="Penetration" />
+  <keys prop="Description" type="monster" key="moaracan02" value="Half -moon" />
+  <keys prop="Description" type="monster" key="moaracan03" value="Confusion" />
+  <keys prop="Description" type="monster" key="moaracan04" value="Confusion" />
+  <keys prop="Description" type="monster" key="moaracan05" value="Caller" />
+  <keys prop="Description" type="monster" key="moimmaz01" value="Dark barrage" />
+  <keys prop="Description" type="monster" key="moimmaz02" value="Summoning minions" />
+  <keys prop="Description" type="monster" key="mojemi01" value="Frost" />
+  <keys prop="Description" type="monster" key="mojemi02" value="Frost" />
+  <keys prop="Description" type="monster" key="moemma01" value="Strengthening body" />
+  <keys prop="Description" type="monster" key="mobel01" value="Golem" />
+  <keys prop="Description" type="monster" key="momed01" value="Dark wave" />
+  <keys prop="Description" type="monster" key="momed02" value="bloodiness" />
+  <keys prop="Description" type="monster" key="mokali01" value="daze" />
+  <keys prop="Description" type="monster" key="mokali02" value="Tie up" />
+  <keys prop="Description" type="monster" key="motarod01" value="Summon" />
+  <keys prop="Description" type="monster" key="motarod02" value="Flame sword" />
+  <keys prop="Description" type="monster" key="motarod03" value="River cutting" />
+  <keys prop="Description" type="monster" key="moemma02" value="Poisonous" />
+  <keys prop="Description" type="monster" key="moshag01" value="Shield" />
+  <keys prop="Description" type="monster" key="moelfer03" value="Magic Cascade" />
+  <keys prop="Description" type="monster" key="moelfer003" value="Magic Discharge" />
+  <keys prop="Description" type="monster" key="motowerrid01" value="Backstep" />
+  <keys prop="Description" type="monster" key="motowerrid02" value="The Abyss" />
+  <keys prop="Description" type="monster" key="motowerrid03" value="Light of the Holy Grail" />
+  <keys prop="Description" type="monster" key="mogoleheat01" value="Blaze" />
+  <keys prop="Description" type="monster" key="motowergil01" value="Shackling Strike" />
+  <keys prop="Description" type="monster" key="motowergil02" value="Flood" />
+  <keys prop="Description" type="monster" key="mocarrot01" value="Carrot Kablam!" />
+  <keys prop="Description" type="monster" key="mocarrot001" value="Carrot Kaboom!" />
+  <keys prop="Description" type="monster" key="motbelte01" value="Shockwave" />
+  <keys prop="Description" type="monster" key="motbelte02" value="Shock bomb" />
+  <keys prop="Description" type="monster" key="motowerarc01" value="Flurry" />
+  <keys prop="Description" type="monster" key="motowerarc02" value="Inspect" />
+  <keys prop="Description" type="monster" key="motowerarc002" value="Inspect" />
+  <keys prop="Description" type="monster" key="motowerarc03" value="Light of the Holy Grail" />
+  <keys prop="Description" type="monster" key="motowersab01" value="Sword of Victory" />
+  <keys prop="Description" type="monster" key="motowersab001" value="Sword of Victory" />
+  <keys prop="Description" type="monster" key="motowersab02" value="Energy Drain" />
+  <keys prop="Description" type="monster" key="modhorse01" value="Dash" />
+  <keys prop="Description" type="monster" key="mozombhowl01" value="Screeching Scream" />
+  <keys prop="Description" type="monster" key="moelephant01" value="Trample" />
+  <keys prop="Description" type="monster" key="morhino01" value="Stampede" />
+  <keys prop="Description" type="monster" key="motdemonus01" value="Wave of Darkness" />
+  <keys prop="Description" type="monster" key="motkalipto01" value="Rippling Wave" />
+  <keys prop="Description" type="monster" key="motzomb01" value="Rotting Smell" />
+  <keys prop="Description" type="monster" key="motzomb02" value="Lost Friends" />
+  <keys prop="Description" type="monster" key="motzomb03" value="Occasionally Strong Attack" />
+  <keys prop="Description" type="monster" key="motowersab00" value="Light of the Holy Grail" />
+  <keys prop="Description" type="monster" key="motowergil00" value="Protection of Light" />
+  <keys prop="Description" type="monster" key="motowerrid00" value="Light of the Holy Grail" />
+  <keys prop="Description" type="monster" key="motowersab03" value="Vacuum Slash" />
+  <keys prop="Description" type="monster" key="motowergil03" value="Kings Judgement" />
+  <keys prop="Description" type="monster" key="motowerrid04" value="Temple of Blood" />
+  <keys prop="Description" type="monster" key="motowerrid004" value="Temple of Blood" />
+  <keys prop="Description" type="monster" key="motowerarc04" value="Sacred Arrow" />
+  <keys prop="Description" type="monster" key="motowerarc004" value="Sacred Arrow" />
+  <keys prop="Description" type="monster" key="motjeranin00" value="The Last Word" />
+  <keys prop="Description" type="monster" key="motjeranin01" value="Execution" />
+  <keys prop="Description" type="monster" key="motarzan01" value="Rage of the Wilds" />
+  <keys prop="Description" type="monster" key="motarzan02" value="Call of the Wild" />
+  <keys prop="Description" type="monster" key="motarzan03" value="Predatory Prowl" />
+  <keys prop="Description" type="monster" key="motarzan001" value="Rage of the Wilds" />
+  <keys prop="Description" type="monster" key="motarzanlink01" value="Rage of the Wilds" />
+  <keys prop="Description" type="monster" key="motarzanlink02" value="Rage of the Wilds" />
+  <keys prop="Description" type="monster" key="motlever01" value="Starving" />
+  <keys prop="Description" type="monster" key="motlever02" value="Stuffed" />
+  <keys prop="Description" type="monster" key="motlever03" value="Indigestion" />
+  <keys prop="Description" type="monster" key="motdevy01" value="Fantasy Bubble" />
+  <keys prop="Description" type="monster" key="motdevy02" value="Marionette" />
+  <keys prop="Description" type="monster" key="motdevy03" value="Plush Explosion" />
+  <keys prop="Description" type="monster" key="motdevy003" value="Plush Explosion" />
+  <keys prop="Description" type="monster" key="motdevy04" value="Plush Explosion" />
+  <keys prop="Description" type="monster" key="motdevy12" value="Trauma" />
+  <keys prop="Description" type="monster" key="motdevy012" value="Sprinting Attack" />
+  <keys prop="Description" type="monster" key="motdevy13" value="Swirling Attack" />
+  <keys prop="Description" type="monster" key="motdevy14" value="Leap" />
+  <keys prop="Description" type="monster" key="motdevytrap01" value="Plush Trap" />
+  <keys prop="Description" type="monster" key="motdevytrap00" value="Plush Trap" />
+  <keys prop="Description" type="monster" key="motinvincible01" value="invincibility" />
+  <keys prop="Description" type="monster" key="motinvincible02" value="clear" />
+  <keys prop="Description" type="monster" key="snowbomb00" value="Throw Snowball" />
+  <keys prop="Description" type="monster" key="morabsummon01" value="Summon companion" />
+  <keys prop="Description" type="monster" key="carrotbomb" value="Russian carrot bomb" />
+  <keys prop="Name" type="monster" key="feagnasice00" value="Ice Breath" />
+  <keys prop="Name" type="monster" key="feagnasice01" value="Ice launch" />
+  <keys prop="Name" type="monster" key="mocrotus19a" value="Morram! Pestes!" />
+  <keys prop="Name" type="monster" key="mocrotus13a" value="Sangue Frenético" />
+  <keys prop="Name" type="monster" key="mocrotus01a" value="Tiro Mágico" />
+  <keys prop="Name" type="monster" key="mocrotus02a" value="Lâmina Carmesim" />
+  <keys prop="Name" type="monster" key="mocrotus03a" value="Fissura" />
+  <keys prop="Name" type="monster" key="mocrotus04a" value="Pacto de sangue" />
+  <keys prop="Name" type="monster" key="mocrotus09a" value="Venha aqui!" />
+  <keys prop="Name" type="monster" key="mocrotus02b" value="Tiro Mágico" />
+  <keys prop="Name" type="monster" key="mocrotus03b" value="Fissura" />
+  <keys prop="Name" type="monster" key="mocrotus09C" value="Ascensão do Fantasma Sangrento" />
+  <keys prop="Description" type="monster" key="mocrotustf01" value="Explosão" />
+  <keys prop="Description" type="monster" key="mocrotus09atk" value="Ascensão da Sombra" />
+  <keys prop="Description" type="monster" key="mocrotus17a" value="Sangue Frenético" />
+  <keys prop="Description" type="monster" key="mocrotus01b" value="Tiro Mágico" />
+  <keys prop="Description" type="monster" key="monidsweep01" value="Split" />
+  <keys prop="Description" type="monster" key="monidpierce01" value="Pierce" />
+  <keys prop="Description" type="monster" key="monidsmash01" value="Strike" />
+  <keys prop="Description" type="monster" key="monidmapower" value="Magic Enhancement" />
+  <keys prop="Description" type="monster" key="molastjang1" value="Rage of the Earth" />
+  <keys prop="Description" type="monster" key="molastref" value="Fatal Reverse Scale" />
+  <keys prop="Description" type="monster" key="moes01" value="Goddess Statue: Pursuit" />
+  <keys prop="Description" type="monster" key="moes02b" value="Goddess Statue: Teleport" />
+  <keys prop="Description" type="monster" key="moesctfire" value="Goddess Statue: Potent" />
+  <keys prop="Description" type="monster" key="moessm" value="Goddess Statue: Summon" />
+  <keys prop="Description" type="monster" key="monidbubblesm" value="Ritual of Flame" />
+  <keys prop="Description" type="monster" key="mofireaoesm" value="Flame Ground" />
+  <keys prop="Description" type="monster" key="mohydrafire02" value="Dragon's Breath" />
+  <keys prop="Description" type="monster" key="mohydrasummon" value="Summoning Dragon" />
+  <keys prop="Description" type="monster" key="mofireaoesm01" value="Hellflame" />
+  <keys prop="Description" type="monster" key="mofireaura" value="First Aura" />
+  <keys prop="Description" type="monster" key="modexaura" value="Second Aura" />
+  <keys prop="Description" type="monster" key="mosteelaura" value="Third Aura" />
+  <keys prop="Description" type="monster" key="modetoura" value="Fourth Aura" />
+  <keys prop="Description" type="monster" key="mofireaoesm02" value="Hellflame" />
+  <keys prop="Description" type="monster" key="mohydrabd" value="Dragon's Breath" />
+  <keys prop="Description" type="monster" key="mohydrabd1" value="Dragon's Breath" />
+  <keys prop="Description" type="monster" key="mofoldbombsm" value="Summon Shredder" />
+  <keys prop="Description" type="monster" key="mospreadarrow" value="Thunder Arrow" />
+  <keys prop="Description" type="monster" key="mofoldshot01" value="Piercing Arrow" />
+  <keys prop="Description" type="monster" key="mofoldrain01" value="Arrow Bombardment" />
+  <keys prop="Description" type="monster" key="mothrotrap" value="Lasso Trap" />
+  <keys prop="Description" type="monster" key="mothrotrap01" value="Lasso Trap" />
+  <keys prop="Description" type="monster" key="mofoldspiresm" value="Summoning Charger Tower" />
+  <keys prop="Description" type="monster" key="moassasin01" value="Assasinate" />
+  <keys prop="Description" type="monster" key="mohydrasm" value="Dragon's Breath" />
+  <keys prop="Description" type="monster" key="mofoldel01" value="Raging Lightening" />
+  <keys prop="Description" type="monster" key="moquadfear" value="Mental Breakdown" />
+  <keys prop="Description" type="monster" key="moquadsheld" value="Shield of Obstruction" />
+  <keys prop="Description" type="monster" key="moquadcatch" value="Catcher Bullet" />
+  <keys prop="Description" type="monster" key="monidstun" value="Bash" />
+  <keys prop="Description" type="monster" key="mofoldspiresm01" value="Call of Storm" />
+  <keys prop="Description" type="monster" key="moquadsmite01" value="Shield Blow" />
+  <keys prop="Description" type="monster" key="moquadsmite02" value="Shield Blow" />
+  <keys prop="Description" type="monster" key="mofoldshot02" value="Piercing Arrow" />
+  <keys prop="Description" type="monster" key="monidpierce02" value="Pierce" />
+  <keys prop="Description" type="monster" key="molastrefsr" value="Fatal Reverse Scale" />
+  <keys prop="Description" type="monster" key="moquadcatchsr" value="Cathcer Bullet" />
+  <keys prop="Description" type="monster" key="moquadfearsr" value="Mental Breakdown" />
+  <keys prop="Description" type="monster" key="moquadsweepsr" value="Split" />
+  <keys prop="Description" type="monster" key="moquadsweep" value="Split" />
+  <keys prop="Description" type="monster" key="moquadsmite01sr" value="Shield Blow" />
+  <keys prop="Description" type="monster" key="mowaterdra02" value="Storm of Blue Flame" />
+  <keys prop="Description" type="monster" key="mohallowdollghost01" value="I'll take your health!" />
+  <keys prop="Description" type="monster" key="mohallowdollghost02" value="I'll take your health!" />
+  <keys prop="Description" type="monster" key="mohallowdollghost03" value="I'll take your health!" />
+  <keys prop="Description" type="monster" key="evhallowghost01" value="I'm scared of a pumpkin bomb!" />
+  <keys prop="Description" type="monster" key="mobadcat01" value="Crying" />
+  <keys prop="Description" type="monster" key="momooncatcher01" value="Healing" />
+  <keys prop="Description" type="monster" key="mosteamwolf99" value="Time stop" />
+  <keys prop="Description" type="monster" key="mosteamwolf99link" value="Time stop" />
+  <keys prop="Description" type="monster" key="mokronosrandom" value="Soul" />
+  <keys prop="Description" type="monster" key="mojellybear99" value="Tangle body" />
+  <keys prop="Description" type="monster" key="mojellybear97" value="Strawberry" />
+  <keys prop="Description" type="monster" key="mojellybear96" value="Apology" />
+  <keys prop="Description" type="monster" key="mojellybear83" value="Defense" />
+  <keys prop="Description" type="monster" key="fejellybear94" value="Sweet body" />
+  <keys prop="Description" type="monster" key="mojellybear93" value="Jelly bear division" />
+  <keys prop="Description" type="monster" key="mojellybear88" value="Jelly Corps" />
+  <keys prop="Description" type="monster" key="mojellybear84" value="Citizens' disgust" />
+  <keys prop="Description" type="monster" key="mojellybear77" value="Melt?" />
+  <keys prop="Description" type="monster" key="mojellybear92" value="All together!" />
+  <keys prop="Description" type="monster" key="mojellybear91" value="I will disappear too?" />
+  <keys prop="Description" type="monster" key="morobotrab99" value="Debilitating Wave" />
+  <keys prop="Description" type="monster" key="morobotrab98" value="I'll be treated " />
+  <keys prop="Description" type="monster" key="movfunb971" value="with friend!" />
+  <keys prop="Description" type="monster" key="molastjangswp" value="Skull" />
+  <keys prop="Description" type="monster" key="molastjangswp2" value="Split" />
+  <keys prop="Description" type="monster" key="molastjangbkm" value="Armor recovery" />
+  <keys prop="Description" type="monster" key="molastjangdstm" value="Armor destruction" />
+  <keys prop="Description" type="monster" key="molastjang2" value="Rage" />
+  <keys prop="Description" type="monster" key="molastjangdm" value="Special scales" />
+  <keys prop="Description" type="monster" key="molamt" value="Shield" />
+  <keys prop="Description" type="monster" key="molastjangsp" value="Shadow" />
+  <keys prop="Description" type="monster" key="molastjangsp2" value="Judgment" />
+  <keys prop="Description" type="monster" key="molastjangbreath" value="Confusion" />
+  <keys prop="Description" type="monster" key="molastjanggr" value="Judge's energy" />
+  <keys prop="Description" type="monster" key="molastjangsp3" value="Calling" />
+  <keys prop="Description" type="monster" key="molastjangsp33" value="Shinwol's call" />
+  <keys prop="Description" type="monster" key="molafear" value="Soul domination" />
+  <keys prop="Description" type="monster" key="molastjangsheld" value="Block shield" />
+  <keys prop="Description" type="monster" key="molac" value="Breakthrough shield limit" />
+  <keys prop="Description" type="monster" key="molastjangref" value="Deadly" />
+  <keys prop="Description" type="monster" key="molastjangreflink" value="Deadly" />
+  <keys prop="Description" type="monster" key="molastjangct" value="capture" />
+  <keys prop="Description" type="monster" key="molastjangso" value="Capture" />
+  <keys prop="Description" type="monster" key="molastjangheal" value="Flame of recovery" />
+  <keys prop="Description" type="monster" key="molastjangheal2" value="Flame of recovery" />
+  <keys prop="Description" type="monster" key="molastjangfire2" value="Rage" />
+  <keys prop="Description" type="monster" key="mocantdie99" value="I don't want to die!" />
+  <keys prop="Description" type="monster" key="mohallowcryghost01" value="I'll scare you!" />
+  <keys prop="Description" type="monster" key="mohallowcryghost02" value="I will float you!" />
+  <keys prop="Description" type="monster" key="mohallowcryghost03" value="I'll eat your soul!" />
+  <keys prop="Description" type="monster" key="molastjanggr2" value="Judge's energy" />
+  <keys prop="Description" type="monster" key="mohallowskull99" value="Kalibaao's 66 stack" />
+  <keys prop="Description" type="monster" key="mohallowskull99fire" value="Kalibaao's 66 stack" />
+  <keys prop="Description" type="monster" key="mohallowskull99fire2" value="Kalibaao's 66 stack" />
+  <keys prop="Description" type="monster" key="mohallowskull98" value="Kalibaago Bat" />
+  <keys prop="Description" type="monster" key="mohallowskull97" value="Kalibaago Bat" />
+  <keys prop="Description" type="monster" key="mohallowskull96" value="44 curse" />
+  <keys prop="Description" type="monster" key="mohallowskull95" value="Kalibaago's pain" />
+  <keys prop="Description" type="monster" key="mohallowskull94" value="Kalibaago's punishment" />
+  <keys prop="Description" type="monster" key="mohallowskull93" value="Follow -up" />
+  <keys prop="Description" type="monster" key="mohallowskull92" value="Kalibaao's help" />
+  <keys prop="Description" type="monster" key="mohallowskull91" value="Vampire" />
+  <keys prop="Description" type="monster" key="molaps" value="Descendant" />
+  <keys prop="Description" type="monster" key="mosnowdeer01" value="Frozen heart" />
+  <keys prop="Description" type="monster" key="mosnowdeer07" value="Pollutant release" />
+  <keys prop="Description" type="monster" key="mosnowdeer08" value="Deep crying" />
+  <keys prop="Description" type="monster" key="mosnowdeer02" value="Ice -like body" />
+  <keys prop="Description" type="monster" key="mosnowdeer03" value="Ice -like" />
+  <keys prop="Description" type="monster" key="mosnowdeer04" value="Exploding ice" />
+  <keys prop="Description" type="monster" key="mosnowdeer05" value="Sloppy" />
+  <keys prop="Description" type="monster" key="mosnowdeer06" value="Snowball" />
+  <keys prop="Description" type="monster" key="mocandyspir01" value="Candy" />
+  <keys prop="Description" type="monster" key="moguad99" value="What was hiding under the wings!?" />
+  <keys prop="Description" type="monster" key="moguad98" value="What was hiding under the wings!?" />
+  <keys prop="Description" type="monster" key="moguad97" value="Figure pride" />
+  <keys prop="Description" type="monster" key="moguad97fire" value="Figure pride" />
+  <keys prop="Description" type="monster" key="moguad971" value="Figure pride" />
+  <keys prop="Description" type="monster" key="moguad972" value="Figure pride" />
+  <keys prop="Description" type="monster" key="moguad973" value="Figure pride" />
+  <keys prop="Description" type="monster" key="moguad991" value="The first 8 country to commemorate the 8th anniversary" />
+  <keys prop="Description" type="monster" key="moguad981" value="The second 8 country to commemorate the 8th anniversary" />
+  <keys prop="Description" type="monster" key="moguad96" value="It's been 30 minutes so the fan meeting is here!" />
+  <keys prop="Description" type="monster" key="moguad95" value="It's been 30 minutes so the fan meeting is here!" />
+  <keys prop="Description" type="monster" key="mobutterflydra01" value="Brisa de Cura" />
+  <keys prop="Description" type="monster" key="mobutterflydra02" value="Instinto Protetor" />
+  <keys prop="Description" type="monster" key="mobutterflydra03" value="Beleza Letárgica" />
+  <keys prop="Description" type="monster" key="mopaperdrab98" value="Me pegue se for capaz!" />
+  <keys prop="Description" type="monster" key="monftdevyint98" value="Help me MR Funny!" />
 </files>

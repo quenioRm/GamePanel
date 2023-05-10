@@ -1,45 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="EV_BO_00_0121" value="ICA Big! Athletic Talisman (7 Days)" />
-  <keys type="item" key="EV_BO_00_0122" value="1st Place Talisman (30 Days)" />
-  <keys type="item" key="EV_BO_00_0123" value="ICA Big! Athletic Talisman (14 Days)" />
-  <keys type="item" key="EV_BO_00_0124" value="1st Place Talisman (7 Days)" />
-  <keys type="item" key="EV_BO_00_0125" value="1st Place Talisman (14 Days)" />
-  <keys type="item" key="CA_BO_00_0072" value="Accumulated Wealth Talisman (14 Days)" />
-  <keys type="item" key="CA_BO_00_0073" value="Spur Growth Talisman (30 Days)" />
-  <keys type="item" key="CA_BO_00_0074" value="4th Anniversary Conragutlation Talisman (4 Days)" />
-  <keys type="item" key="CA_BO_00_0075" value="Adventurer's Talisman (30 Days)" />
-  <keys type="item" key="EV_BO_00_0126" value="GM's Experienced Advice (3 Days)" />
-  <keys type="item" key="EV_BO_00_0127" value="GM's Enhancement Tips (3 Days)" />
-  <keys type="item" key="EV_BO_00_0128" value="GM's Secret Crafting Tips (3 Days)" />
-  <keys type="item" key="EV_BO_00_0129" value="GM's Leaked Confidential Documents (3 Days)" />
-  <keys type="item" key="EV_BO_00_0130" value="Do Your Best! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0131" value="Summer Night Festival! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0132" value="Enough Of This! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0133" value="Autumn Excursion (30 Days)" />
-  <keys type="item" key="CA_BO_00_0076" value="Enjoy Your Lightly Dressed Body (14 Days)" />
-  <keys type="item" key="CA_BO_00_0077" value="A Rich Heart (7 Days)" />
-  <keys type="item" key="EV_BO_00_0134" value="Be Aware Of The Cold! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0135" value="Challenge! Burning Winter! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0136" value="Soon 2019! Let's Get The First Button! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0137" value="Happy New Year! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0138" value="2019 New Year's Celebration Talisman 1 (14 Days)" />
-  <keys type="item" key="EV_BO_00_0139" value="2019 New Year's Celebration Talisman 2 (14 Days)" />
-  <keys type="item" key="EV_BO_00_0140" value="2019 New Year's Celebration Talisman 3 (14 Days)" />
-  <keys type="item" key="EV_BO_00_0141" value="2019 New Year's Celebration Talisman 4 (14 Days)" />
-  <keys type="item" key="EV_BO_00_0142" value="2019 New Year's Celebration Talisman 5 (14 Days)" />
-  <keys type="item" key="EV_BO_00_0143" value="2019 New Year's Celebration Talisman 5 (30 Days)" />
-  <keys type="item" key="EV_BO_00_0144" value="Finally 2019! Special Talisman (14 Days)" />
-  <keys type="item" key="EV_BO_00_0145" value="Spring Excursion! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0146" value="Whirling Winds of Spring (30 Days)" />
-  <keys type="item" key="EV_BO_00_0147" value="Finally 2019! Special Booster (30 Days)" />
-  <keys type="item" key="EV_BO_00_0148" value="With Your Family! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0149" value="Month of Patriotism! (30 Days)" />
-  <keys type="item" key="EV_BO_00_0150" value="Summer Adventure Talisman (30 Days)" />
-  <keys type="item" key="ev_bo_00_0117" value="Christmas Talisman (30 days)" />
-  <keys type="item" key="ca_bo_00_0056" value="Higher Physical Overall Talisman (14 Days)" />
-  <keys type="item" key="ca_bo_00_0057" value="Higher Magical Overall Talisman (14 Days)" />
-  <keys type="item" key="ca_bo_00_0058" value="Defense Talisman (14 Days)" />
-  <keys type="item" key="ca_bo_00_0059" value="General Talisman (14 Days)" />
-  <keys type="item" key="bt_f06_0009" value="Crafting Success Charm" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0121" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0122" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0123" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0124" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0125" value="" />
+  <keys prop="Name" type="monster" key="CA_BO_00_0072" value="" />
+  <keys prop="Name" type="monster" key="CA_BO_00_0073" value="" />
+  <keys prop="Name" type="monster" key="CA_BO_00_0074" value="" />
+  <keys prop="Name" type="monster" key="CA_BO_00_0075" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0126" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0127" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0128" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0129" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0130" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0131" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0132" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0133" value="" />
+  <keys prop="Name" type="monster" key="CA_BO_00_0076" value="" />
+  <keys prop="Name" type="monster" key="CA_BO_00_0077" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0134" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0135" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0136" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0137" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0138" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0139" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0140" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0141" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0142" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0143" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0144" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0145" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0146" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0147" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0148" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0149" value="" />
+  <keys prop="Name" type="monster" key="EV_BO_00_0150" value="" />
+  <keys prop="Name" type="monster" key="ev_bo_00_0117" value="" />
+  <keys prop="Name" type="monster" key="ca_bo_00_0056" value="" />
+  <keys prop="Name" type="monster" key="ca_bo_00_0057" value="" />
+  <keys prop="Name" type="monster" key="ca_bo_00_0058" value="" />
+  <keys prop="Name" type="monster" key="ca_bo_00_0059" value="" />
+  <keys prop="Name" type="monster" key="bt_f06_0009" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_phy_0001_c" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_phy_0001_c_description" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_mag_0003_c" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_mag_0003_c_description" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_gen_0005_c" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_gen_0005_c_description" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_def_0007_c" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_def_0007_c_description" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_lim_0060_c" value="" />
+  <keys prop="Description" type="monster" key="CA_BO_lim_0060_c_description" value="" />
+  <keys prop="Description" type="monster" key="ca_pre_00_0050_c" value="" />
+  <keys prop="Description" type="monster" key="ca_pre_00_0050_c_description" value="" />
+  <keys prop="Description" type="monster" key="ca_bo_pvp_0000_c" value="" />
+  <keys prop="Description" type="monster" key="ca_bo_pvp_0000_c_description" value="" />
+  <keys prop="Description" type="monster" key="ca_bo_pvp_0001_c" value="" />
+  <keys prop="Description" type="monster" key="ca_bo_pvp_0001_c_description" value="" />
 </files>

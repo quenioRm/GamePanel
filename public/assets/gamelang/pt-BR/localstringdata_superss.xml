@@ -1,2 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="e_f05_glostrom_008" value="SandStorm" />
+  <keys prop="Description" type="monster" key="Skill_shop" value="Skill" />
+  <keys prop="Description" type="monster" key="shop_tab_exchange_70" value="Nível 70" />
+  <keys prop="Description" type="monster" key="help_title_discord" value="Discord Info" />
+  <keys prop="Description" type="monster" key="help_infolink_disc" value="[BOT] Logo Guild" />
+  <keys prop="Description" type="monster" key="help_infolink_disc_0" value="Aqui vai um pequeno tutorial de como usar o nosso bot&#xD;&#xA;de discord, para enviar logo de guild.&#xD;&#xA;&#xD;&#xA;Ele só vai ficar disponível para líderes de guild que tiverem&#xD;&#xA;&lt;font color=&quot;#e5c015&quot;&gt;Service Premium&lt;/font&gt;, ativo." />
+  <keys prop="Description" type="monster" key="help_infolink_disc_1" value="1 - Digite o comando &lt;font color=&quot;#e5c015&quot;&gt;/guidlogo&lt;/font&gt; em qualquer canal, denosso discord." />
+  <keys prop="Description" type="monster" key="help_infolink_disc_2" value="2 - Depois de acionar a opção &lt;font color=&quot;#e5c015&quot;&gt;/guidlogo&lt;/font&gt;, irá surgir um &#xD;&#xA;POP UP, igual a imagem abaixo. Com a janela aberta,&#xD;&#xA;digite seu &lt;font color=&quot;#e5c015&quot;&gt;Login e Senha&lt;/font&gt; do ICARUS 101." />
+  <keys prop="Description" type="monster" key="help_infolink_disc_3" value="3 - Após o login, o bot vai pedir para você escolher o&#xD;&#xA;personagem que é o &lt;font color=&quot;#e5c015&quot;&gt;Líder&lt;/font&gt; da guild." />
+  <keys prop="Description" type="monster" key="help_infolink_disc_4" value="4 - Escolhendo o personagem, vai surgir o &lt;font color=&quot;#e5c015&quot;&gt;POP UP&lt;/font&gt;, para&#xD;&#xA;enviar a imgem:&#xD;&#xA;&#x9;- Separe o link de sua imagem&#xD;&#xA;&#x9;- Copie o Link e Cole no campo &lt;font color=&quot;#e5c015&quot;&gt;URL ICONE&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_disc_5" value="&lt;font color=&quot;#e5c015&quot;&gt;Aguarde a mensagem de sucesso, e pronto. Em alguns &#xD;&#xA;minutos o próprio jogo ira atualizar o seu cliente e o de &#xD;&#xA;todos os outros com a nova logo marca.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="help_infolink_disc_6" value="- SÓ PODERÁ SER ENVIADO UMA LOGO A CADA 10 DIAS" />
+  <keys prop="Description" type="monster" key="disc_infolink_benefit" value="Canal Oficial" />
+  <keys prop="Description" type="monster" key="disc_infolink_benefit_0" value="Gostaríamos de convidá-lo(a) a juntar-se a nós em nosso canal do Discord para se manter atualizado(a) sobre as novidades e atualizações de nosso servidor. Nosso canal é uma plataforma onde compartilhamos informações importantes sobre nossos serviços, bem como oferecemos suporte aos nossos clientes." />
+  <keys prop="Description" type="monster" key="disc_infolink_benefit_1" value="Convite discord: &lt;font color=&quot;#e5c015&quot;&gt;https://discord.gg/VmbkEPWHW7&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="disc_infolink_benefit_2" value="Site: &lt;font color=&quot;#e5c015&quot;&gt;play.icarus101xp.com.br&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="BR_WARP_RRB_0001" value="Warp: [RRB] Red Revolutionary Base" />
+  <keys prop="Description" type="monster" key="BR_WARP_DGH_0001" value="Warp: [DGH] Dragon god Hidout" />
+  <keys prop="Description" type="monster" key="BR_WARP_TOMB_0001" value="Warp: [TOMB] Tomb of the Wyrm" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_1_text" value="Refinar" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_2_text" value="Aperfeiçoar" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_3_text" value="Remover Feridas" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_4_text" value="Buff de Drop" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_5_text" value="Buff Ataque e Defesa" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_6_text" value="Buff Geral" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_7_text" value="Buff [3]" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_8_text" value="Buff [4]" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_9_text" value="Refinar Reliquia" />
+</files>

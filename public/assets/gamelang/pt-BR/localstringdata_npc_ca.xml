@@ -1,26 +1,303 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="N_f04_0_0001_0095" value="Van Owen Lebrini" />
-  <keys type="npc" key="N_f04_0_0001_0096" value="Pégaso de Errol" />
-  <keys type="npc" key="N_f04_Board_0006" value="Quadro de Avisos do Refúgio Negro" />
-  <keys type="npc" key="N_f04_0_0001_0097" value="Cynth Mayer" />
-  <keys type="npc" key="N_f04_0_0001_0098" value="Behain Skeron" />
-  <keys type="npc" key="N_f04_0_0001_0099" value="Vekanto" />
-  <keys type="npc" key="N_f04_RabiNi1S1_001" value="Lupita Lebrini" />
-  <keys type="npc" key="N_f04_0_0001_0101" value="Rokin" />
-  <keys type="npc" key="N_d22_Potal_001" value="Portal Dimensional" />
-  <keys type="npc" key="N_d22_Potal_002" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_003" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_004" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_005" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_006" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_007" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_008" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_011" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_012" value="Portão da Brecha" />
-  <keys type="npc" key="N_d22_Potal_013" value="Portão da Brecha" />
-  <keys type="npc" key="N_f04_Board_0007" value="Quadro de Avisos de Portal Destroçado" />
-  <keys type="npc" key="N_f04_0_0001_0102" value="Royce Lebrini" />
-  <keys type="npc" key="n_d22_board_01" value="The Breach Board" />
-  <keys type="npc" key="N_d22_Potal_020" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0001" value="Poe" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0001detail" value="Capitão Gorkahn HST" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0002" value="Jody" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0002detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0003" value="Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0003detail" value="Capitão dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0004" value="Oscar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0004detail" value="Tenente dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0005" value="Mullec" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0005detail" value="Feiticeiro da Virtude" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0006" value="Quanomar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0006detail" value="Caçador de Familiares" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0007" value="Zelluchs" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0007detail" value="Rei de Aventura" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0008" value="Achul" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0008detail" value="Patrulheiro do Deserto da Imortalidade" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0018" value="Moukan" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0018detail" value="Tripulante de Gorkahn HST" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0019" value="Sargaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0019detail" value="Artesão Mestre de Armas Mágicas" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0020" value="Andy" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0020detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0021" value="Roy" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0021detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0022" value="Jelnar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0022detail" value="Sacerdote da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0023" value="Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0023detail" value="Capitão dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0024" value="Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0024detail" value="Capitão dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0025" value="Mercuri" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0025detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0026" value="Madame Olivier" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0026detail" value="Maga de Gelo" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0027" value="Trichia" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0027detail" value="Pesquisador Chefe do Instituto Real" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0028" value="Rufala" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0028detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0029" value="Haltham" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0029detail" value="Sacerdote da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0030" value="Lisender" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0030detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0031" value="Norris" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0031detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0032" value="Rogal" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0032detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0033" value="Rebecca" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0033detail" value="Comerciante de Armamentos" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0034" value="Morres" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0034detail" value="Lojista/Quitandeiro" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0035" value="Oscar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0035detail" value="Vice-Capitão dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0036" value="Oscar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0036detail" value="Vice-Capitão dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0037" value="Sylen" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0037detail" value="Capitão de Raide dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0038" value="Hattie" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0038detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0039" value="Robinson" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0039detail" value="Arqueólogo" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0040" value="Silas" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0040detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0041" value="Perric" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0041detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0042" value="Issac" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0042detail" value="Saqueador dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0043" value="Euvar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0043detail" value="Aliança de Luz Élfica" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0044" value="Sylen" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0044detail" value="Aliança de Luz de Soldados" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0045" value="Hanor" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0045detail" value="Aliança de Luz dos Crokhoon" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0046" value="Lena" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0046detail" value="Aliança de Luz Shaling" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0047" value="Jastor" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0047detail" value="Armeiro" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0048" value="Arkay" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0048detail" value="Armeiro" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0049" value="Velakur" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0049detail" value="Feiticeiro da Virtude" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0050" value="Leminer" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0050detail" value="Caçador de Familiares" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0051" value="Naz" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0051detail" value="Ceifeiro" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0052" value="Jumawu" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0052detail" value="Familiar Antigo" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0053" value="Geneddy" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0053detail" value="Comerciante de Armamentos" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0054" value="Estelle" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0054detail" value="Comerciante" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0055" value="Rico" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0055detail" value="Equipe do Rei de Aventura" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0056" value="Hunart" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0056detail" value="Equipe do Rei de Aventura" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0057" value="Tinta" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0057detail" value="Chef do Rei de Aventura" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0058" value="Tillet" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0058detail" value="Imediato Gorkahn HST" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0059" value="Anthony" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0059detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0060" value="Marcus" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0060detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0061" value="Lati" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0061detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0062" value="Mirken" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0062detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0063" value="Hector" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0063detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0064" value="Sai" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0064detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0065" value="Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0065detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_elora_002" value="Energia de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_002detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_003" value="Megálito de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_003detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_004" value="Megálito de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_004detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_005" value="Energia de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_005detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_006" value="Energia de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_006detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_007" value="Energia de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_007detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_008" value="Energia de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_008detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_009" value="Energia de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_009detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_010" value="Energia de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_010detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_zelna_001" value="Equilíbrio Energético" />
+  <keys prop="Description" type="monster" key="N_f04_zelna_001detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0066" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0066detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0067" value="Wyvern de Olivier" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0067detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0068" value="Ellora, a Radiante" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0068detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0069" value="Ellora, a Radiante" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0069detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0070" value="Cavaleiros do Sacerdote" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0070detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_elora_011" value="Energia Poderosa de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_elora_011detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0071" value="Alma do Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0071detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_huMMer02_001" value="Conrad" />
+  <keys prop="Description" type="monster" key="N_f04_huMMer02_001detail" value="Lojista/Quitandeiro" />
+  <keys prop="Description" type="monster" key="N_f04_HuMMer03_001" value="Jared" />
+  <keys prop="Description" type="monster" key="N_f04_HuMMer03_001detail" value="Armeiro" />
+  <keys prop="Description" type="monster" key="N_f04_hufmer01_001" value="Elena" />
+  <keys prop="Description" type="monster" key="N_f04_hufmer01_001detail" value="Lojista/Quitandeiro" />
+  <keys prop="Description" type="monster" key="N_f04_hufMer02_001" value="Jamas" />
+  <keys prop="Description" type="monster" key="N_f04_hufMer02_001detail" value="Lojista/Quitandeiro" />
+  <keys prop="Description" type="monster" key="N_f04_HuMMer04_001" value="Martins" />
+  <keys prop="Description" type="monster" key="N_f04_HuMMer04_001detail" value="Comerciante de Armamentos" />
+  <keys prop="Description" type="monster" key="N_f04_HuFSol02_001" value="Soldado Fantasma" />
+  <keys prop="Description" type="monster" key="N_f04_HuFSol02_001detail" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="N_f04_HuMsol02_001" value="Soldado Fantasma" />
+  <keys prop="Description" type="monster" key="N_f04_HuMsol02_001detail" value="Aliança de Luz" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0072" value="Pégaso de Jody" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0072detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0073" value="Pégaso de Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0073detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0074" value="Pégaso de Oscar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0074detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0075" value="Pégaso de Andy" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0075detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0076" value="Pégaso de Roy" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0076detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0077" value="Pégaso de Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0077detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0078" value="Pégaso de Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0078detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0079" value="Pégaso de Oscar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0079detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_HuMSol_B_002" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_HuMSol_B_002detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_HuMSol_B_003" value="Soldado de Chão" />
+  <keys prop="Description" type="monster" key="N_f04_HuMSol_B_003detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_force_ac_001" value="Amplificador de Luz" />
+  <keys prop="Description" type="monster" key="N_f04_force_ac_001detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_001" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_001detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_002" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_002detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_003" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_003detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_004" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_004detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_005" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_005detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_006" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_006detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_007" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_007detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_008" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_Ekzaran_008detail" value="Relíquia Exarahniana" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0080" value="Kha" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0080detail" value="Vice-Capitão Gorkahn HST" />
+  <keys prop="Description" type="monster" key="N_f04_fire_orb_001" value="Coração do Dragão de Fogo Ancião" />
+  <keys prop="Description" type="monster" key="N_f04_fire_orb_001detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_fire_orb_002" value="Coração do Dragão de Vento Ancião" />
+  <keys prop="Description" type="monster" key="N_f04_fire_orb_002detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_fire_orb_003" value="Coração do Dragão Sombrio Ancião" />
+  <keys prop="Description" type="monster" key="N_f04_fire_orb_003detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0081" value="Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0081detail" value="Capitão dos Cavaleiros de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0082" value="Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0082detail" value="Cavalo do Oscar" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0083" value="Nartia" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0083detail" value="Especialista em Venenos do Instituto Real" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0084" value="Grimm Dourado" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0084detail" value="Sobrevivente" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0085" value="Madame Olivier" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0085detail" value="Maga de Gelo" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0086" value="Lembrança da Terra" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0086detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0087" value="Lembrança dos Céus" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0087detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0088" value="Memória de Ellora" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0088detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0089" value="Lembrança dos Mares" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0089detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0090" value="Memória Selada" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0090detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0091" value="Altar Divino" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0091detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_potal_001" value="Pedra de Retorno" />
+  <keys prop="Description" type="monster" key="N_f04_potal_001detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_hufkep_001" value="Ellis" />
+  <keys prop="Description" type="monster" key="N_f04_hufkep_001detail" value="Socorrista" />
+  <keys prop="Description" type="monster" key="N_f04_HuMDmag_001" value="Bellaline" />
+  <keys prop="Description" type="monster" key="N_f04_HuMDmag_001detail" value="Guarda do Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_f04_potal_002" value="Pedra de Retorno" />
+  <keys prop="Description" type="monster" key="N_f04_potal_002detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_hufkep_002" value="Iria" />
+  <keys prop="Description" type="monster" key="N_f04_hufkep_002detail" value="Socorrista" />
+  <keys prop="Description" type="monster" key="N_f04_HuMDmag_002" value="Azura" />
+  <keys prop="Description" type="monster" key="N_f04_HuMDmag_002detail" value="Guarda do Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0003" value="Quadro de Avisos do Poleiro do Redemoinho" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0003detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0004" value="Quadro de Avisos do Mar da Avareza" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0004detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0005" value="Quadro de Avisos da Estátua da Deusa" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0005detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0100" value="Perila" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0100detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0092" value="Jayden" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0092detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0093" value="Pégaso de Jayden" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0093detail" value="" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0094" value="Rihan" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0094detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Name" type="monster" key="N_f04_0_0001_0095" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0095Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_f04_0_0001_0096" value="Pégaso de Errol" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0096Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f04_Board_0006" value="Quadro de Avisos do Refúgio Negro" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f04_0_0001_0097" value="Cynth Mayer" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0097Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f04_0_0001_0098" value="Behain Skeron" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0098Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f04_0_0001_0099" value="Vekanto" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0099Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_f04_RabiNi1S1_001" value="Lupita Lebrini" />
+  <keys prop="Description" type="monster" key="N_f04_RabiNi1S1_001Detail" value="Comerciantes Ambulantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_f04_0_0001_0101" value="Rokin" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0101Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_001" value="Portal Dimensional" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_002" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_003" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_004" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_005" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_006" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_007" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_008" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_008Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_011" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_011Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_012" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_012Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_013" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_013Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f04_Board_0007" value="Quadro de Avisos de Portal Destroçado" />
+  <keys prop="Description" type="monster" key="N_f04_Board_0007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f04_0_0001_0102" value="Royce Lebrini" />
+  <keys prop="Description" type="monster" key="N_f04_0_0001_0102Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="n_d22_board_01" value="The Breach Board" />
+  <keys prop="Description" type="monster" key="n_d22_board_01Detail" value="Dungeon Rewards Board" />
+  <keys prop="Name" type="monster" key="N_d22_Potal_020" value="Portão da Brecha" />
+  <keys prop="Description" type="monster" key="N_d22_Potal_020Detail" value="" />
 </files>

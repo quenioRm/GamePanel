@@ -1,2 +1,111 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="squest_sf_01" value="Ameaça Invasiva" />
+  <keys prop="Description" type="monster" key="squest_sf_02" value="Escape da Floresta Brakarr" />
+  <keys prop="Description" type="monster" key="squest_sf_03_part_01" value="Um Encontro com Corvo" />
+  <keys prop="Description" type="monster" key="squest_sf_04" value="Como Domar uma Fera" />
+  <keys prop="Description" type="monster" key="squest_sf_04_part_01" value="Prática de Domar" />
+  <keys prop="Description" type="monster" key="squest_sf_04_part_02" value="Dando Boas-vindas à Escuridão" />
+  <keys prop="Description" type="monster" key="squest_hk_01" value="Esperança para o Reino" />
+  <keys prop="Description" type="monster" key="squest_hk_03" value="Impulsos Animais" />
+  <keys prop="Description" type="monster" key="squest_hk_02" value="Sentindo o Calor" />
+  <keys prop="Description" type="monster" key="squest_hk_021" value="Ataque Khabimista" />
+  <keys prop="Description" type="monster" key="squest_hk_04" value="Caos no Norte" />
+  <keys prop="Description" type="monster" key="squest_hk_05" value="Segredos dos Vampiros" />
+  <keys prop="Description" type="monster" key="squest_hk_06" value="Semeadores da Morte" />
+  <keys prop="Description" type="monster" key="squest_hk_07" value="O Plano de Salant" />
+  <keys prop="Description" type="monster" key="squest_hk_08" value="Encare a Tempestade" />
+  <keys prop="Description" type="monster" key="squest_hk_09" value="Santuário em Perigo" />
+  <keys prop="Description" type="monster" key="squest_hkd_01" value="Passagem Oceânica" />
+  <keys prop="Description" type="monster" key="squest_hkd_02" value="Em Construção" />
+  <keys prop="Description" type="monster" key="squest_hkd_03" value="Os Saqueadores Skan" />
+  <keys prop="Description" type="monster" key="squest_hkd_04" value="Caça à Princesa" />
+  <keys prop="Description" type="monster" key="squest_hkd_05" value="Mistérios do Coral" />
+  <keys prop="Description" type="monster" key="squest_f02_g_01" value="Fora da Caldeira" />
+  <keys prop="Description" type="monster" key="squest_st_01" value="Encontrando Águas Sagradas" />
+  <keys prop="Description" type="monster" key="squest_st_01_part_01" value="Lago Fechado" />
+  <keys prop="Description" type="monster" key="squest_st_01_part_02" value="Guarnição das Provações" />
+  <keys prop="Description" type="monster" key="squest_st_02" value="Sombra do Culpado" />
+  <keys prop="Description" type="monster" key="squest_st_02_part_01" value="Sumam, Piratas" />
+  <keys prop="Description" type="monster" key="squest_st_02_part_02" value="Entendendo um Pirata" />
+  <keys prop="Description" type="monster" key="squest_st_03" value="Agonia de Parna" />
+  <keys prop="Description" type="monster" key="squest_st_03_part_01" value="Preocupações Merumi" />
+  <keys prop="Description" type="monster" key="squest_st_03_part_02" value="A Trama Merumi" />
+  <keys prop="Description" type="monster" key="squest_st_03_part_03" value="Bênçãos de Cima" />
+  <keys prop="Description" type="monster" key="squest_st_04" value="Tomando a Torre Gélida" />
+  <keys prop="Description" type="monster" key="squest_st_04_part_01" value="Maldição Congelante" />
+  <keys prop="Description" type="monster" key="squest_st_04_part_02" value="Lamento de Lania" />
+  <keys prop="Description" type="monster" key="squest_ca_04" value="Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="squest_ca_04_part_01" value="Baleia Encalhada" />
+  <keys prop="Description" type="monster" key="squest_ca_04_part_02" value="Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="squest_ca_04_part_03" value="Uma Batalha Épica" />
+  <keys prop="Description" type="monster" key="squest_pl_01" value="Costa de Parna" />
+  <keys prop="Description" type="monster" key="squest_pl_01_part_01" value="Costa de Parna" />
+  <keys prop="Description" type="monster" key="squest_pl_02" value="Limpeza Pirata" />
+  <keys prop="Description" type="monster" key="squest_pl_02_part_01" value="Limpeza Pirata" />
+  <keys prop="Description" type="monster" key="squest_pl_03" value="Uma Raça Dividida" />
+  <keys prop="Description" type="monster" key="squest_pl_03_part_01" value="Uma Raça Dividida" />
+  <keys prop="Description" type="monster" key="squest_pl_04" value="Olhe Dentro do Espelho de Água" />
+  <keys prop="Description" type="monster" key="squest_pl_04_part_01" value="Olhe Dentro do Espelho de Água" />
+  <keys prop="Description" type="monster" key="squest_pl_05" value="Território Arruinado" />
+  <keys prop="Description" type="monster" key="squest_pl_05_part_01" value="Território Arruinado" />
+  <keys prop="Description" type="monster" key="squest_ed_01" value="Descobrindo o Deserto" />
+  <keys prop="Description" type="monster" key="squest_ed_01_part_01" value="Saqueando com Mohaba" />
+  <keys prop="Description" type="monster" key="squest_ed_02" value="Mina de Ouro Perdida" />
+  <keys prop="Description" type="monster" key="squest_ed_02_part_01" value="Massacre de Mercenários" />
+  <keys prop="Description" type="monster" key="squest_ed_03" value="Braghin do Deserto" />
+  <keys prop="Description" type="monster" key="squest_ed_03_part_01" value="Contrabandista de Oreum" />
+  <keys prop="Description" type="monster" key="squest_ed_04" value="Cavaleiro de Grifo Dourado" />
+  <keys prop="Description" type="monster" key="squest_ed_04_part_01" value="Grifo Mutante" />
+  <keys prop="Description" type="monster" key="squest_ed_05" value="Rei do Deserto" />
+  <keys prop="Description" type="monster" key="squest_ed_05_part_01" value="Uma Audiência com o Rei" />
+  <keys prop="Description" type="monster" key="squest_ed_06" value="Estacadas de Crokhoon" />
+  <keys prop="Description" type="monster" key="squest_ed_06_part_01" value="Os Crokhoon Corrompidos" />
+  <keys prop="Description" type="monster" key="squest_ed_07" value="Encontrando o Profeta" />
+  <keys prop="Description" type="monster" key="squest_ed_07_part_01" value="O Segredo do Templo de Haracrow" />
+  <keys prop="Description" type="monster" key="squest_ed_08" value="Em Ação" />
+  <keys prop="Description" type="monster" key="squest_ed_08_part_01" value="Um Resgate Ousado" />
+  <keys prop="Description" type="monster" key="squest_f07_01" value="Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="squest_f07_01_part_01" value="Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="squest_f07_02" value="Os Elfos do Caos" />
+  <keys prop="Description" type="monster" key="squest_f07_02_part_01" value="Os Elfos do Caos" />
+  <keys prop="Description" type="monster" key="squest_f07_03" value="Desfiladeiro Ventolar" />
+  <keys prop="Description" type="monster" key="squest_f07_03_part_01" value="Desfiladeiro Ventolar" />
+  <keys prop="Description" type="monster" key="squest_f07_04" value="Caos e Chamas" />
+  <keys prop="Description" type="monster" key="squest_f07_04_part_01" value="Caos e Chamas" />
+  <keys prop="Description" type="monster" key="squest_f07_05" value="Sombra de Traição" />
+  <keys prop="Description" type="monster" key="squest_f07_05_part_01" value="Sombra de Traição" />
+  <keys prop="Description" type="monster" key="squest_f07_06" value="Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="squest_f07_06_part_01" value="Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="squest_c02_01" value="Para Akrat" />
+  <keys prop="Description" type="monster" key="squest_c02_01_part_01" value="Para Akrat" />
+  <keys prop="Description" type="monster" key="squest_c02_01_part_02" value="Porto Comercial em Perigo" />
+  <keys prop="Description" type="monster" key="squest_c02_01_part_03" value="O Segredo das Ruínas" />
+  <keys prop="Description" type="monster" key="squest_c02_02" value="Procurando um Profeta" />
+  <keys prop="Description" type="monster" key="squest_c02_02_part_01" value="Atravesar a Ponte de Permuta" />
+  <keys prop="Description" type="monster" key="squest_c02_02_part_02" value="Intenções Piratas" />
+  <keys prop="Description" type="monster" key="squest_c02_03" value="Mina Ocupada" />
+  <keys prop="Description" type="monster" key="squest_c02_03_part_01" value="O Verdadeiro Propósito do Roubo" />
+  <keys prop="Description" type="monster" key="squest_c02_03_part_02" value="Profeta Capturado" />
+  <keys prop="Description" type="monster" key="squest_c02_04" value="Para Aldeia de Hastan" />
+  <keys prop="Description" type="monster" key="squest_c02_04_part_01" value="Uma Cidade Encontra Tragédia" />
+  <keys prop="Description" type="monster" key="squest_c02_04_part_02" value="Vista Suspeita" />
+  <keys prop="Description" type="monster" key="squest_c02_05" value="Paradeiro do Profeta" />
+  <keys prop="Description" type="monster" key="squest_c02_05_part_01" value="Soltar o Profeta" />
+  <keys prop="Description" type="monster" key="squest_f08_01" value="Magmafora" />
+  <keys prop="Description" type="monster" key="squest_f08_01_part_01" value="Preparação para Magmafora" />
+  <keys prop="Description" type="monster" key="squest_f08_01_part_02" value="Magmafora" />
+  <keys prop="Description" type="monster" key="squest_f08_02" value="Onde Está a Pedra Demoníaca!?" />
+  <keys prop="Description" type="monster" key="squest_f08_02_part_01" value="Primeiro Rumor" />
+  <keys prop="Description" type="monster" key="squest_f08_02_part_02" value="Segundo Rumor" />
+  <keys prop="Description" type="monster" key="squest_f08_02_part_03" value="Exército de Jarad" />
+  <keys prop="Description" type="monster" key="squest_f08_03" value="Um Traidor no Reino" />
+  <keys prop="Description" type="monster" key="squest_f08_03_part_01" value="Escuridão Deixada" />
+  <keys prop="Description" type="monster" key="squest_f08_04" value="O Retorno do Zelnaris, o Deus da Ruína" />
+  <keys prop="Description" type="monster" key="squest_f08_04_part_01" value="Despertar da Princesa" />
+  <keys prop="Description" type="monster" key="squest_f08_04_part_02" value="Outra Trama" />
+  <keys prop="Description" type="monster" key="squest_sf_05" value="Yatuman, o Xamã Braghin" />
+  <keys prop="Description" type="monster" key="squest_sf_05_part_01" value="Escuridão sobre a floresta de Brakarr" />
+  <keys prop="Description" type="monster" key="squest_sf_05_part_02" value="Um selo para Yatuman" />
+  <keys prop="Description" type="monster" key="squest_sf_05_part_03" value="O caminho para o verdadeiro despertar" />
+</files>

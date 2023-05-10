@@ -1,26 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="N_f10_0_0001_0001" value="Crow" />
-  <keys type="npc" key="N_f10_0_0001_0002" value="Crow" />
-  <keys type="npc" key="N_f10_0_0001_0003" value="Supervisor" />
-  <keys type="npc" key="N_f10_0_0001_0004" value="West Guard Left" />
-  <keys type="npc" key="N_f10_0_0001_0005" value="East Guard Light" />
-  <keys type="npc" key="N_f10_0_0001_0006" value="Renewal" />
-  <keys type="npc" key="N_f10_0_0001_0007" value="Mayrin" />
-  <keys type="npc" key="N_f10_0_0001_0008" value="Information Merchant Livio" />
-  <keys type="npc" key="N_f10_0_0001_0009" value="Nicky" />
-  <keys type="npc" key="N_f10_0_0001_0010" value="Comfortable presenti" />
-  <keys type="npc" key="N_f10_0_0001_0011" value="Lidere the chatterbox" />
-  <keys type="npc" key="N_f10_0_0001_0012" value="Candy Artisan Vita" />
-  <keys type="npc" key="N_f10_0_0001_0013" value="Revero, Inventory Manager" />
-  <keys type="npc" key="N_f10_0_0001_0014" value="Lavini Wonbini&lt;Upper Crescent Moon&gt;" />
-  <keys type="npc" key="N_f10_0_0001_0015" value="Lavini Tubini&lt;Upper Crescent Moon&gt;" />
-  <keys type="npc" key="N_f10_0_0001_0016" value="Auction House Broker" />
-  <keys type="npc" key="N_f10_0_0001_0017" value="Stubborn old man" />
-  <keys type="npc" key="N_f10_0_0001_0018" value="Artisan Jedamas" />
-  <keys type="npc" key="N_f10_0_0001_0019" value="Artisan Minos" />
-  <keys type="npc" key="N_f10_0_0001_0020" value="Craftsman Local" />
-  <keys type="npc" key="N_f10_0_0001_0021" value="Otakun" />
-  <keys type="npc" key="N_f10_0_0001_0022" value="Old Ghost" />
-  <keys type="npc" key="N_f10_0_0001_0023" value="Nook the Innkeeper" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0001" value="Crow" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0002" value="Crow" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0003" value="Supervisor" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0004" value="West Guard Left" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0005" value="East Guard Light" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0006" value="Renewal" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0007" value="Mayrin" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0008" value="Information Merchant Livio" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0008Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0009" value="Nicky" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0009Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0010" value="Comfortable presenti" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0010Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0011" value="Lidere the chatterbox" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0012" value="Candy Artisan Vita" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0012Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0013" value="Revero, Inventory Manager" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0013Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0014" value="Lavini Wonbini&lt;Upper Crescent Moon&gt;" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0014Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0015" value="Lavini Tubini&lt;Upper Crescent Moon&gt;" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0015Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0016" value="Auction House Broker" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0016Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0017" value="Stubborn old man" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0017Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0018" value="Artisan Jedamas" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0018Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0019" value="Artisan Minos" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0019Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0020" value="Craftsman Local" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0020Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0021" value="Otakun" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0021Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0022" value="Old Ghost" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0022Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f10_0_0001_0023" value="Nook the Innkeeper" />
+  <keys prop="Description" type="monster" key="N_f10_0_0001_0023Detail" value="" />
 </files>

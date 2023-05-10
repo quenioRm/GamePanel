@@ -1,2 +1,175 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="loading_tip_f00_001" value="Use as teclas [W], [A], [S] e [D] para andar para a frente, esquerda, trás e direita, respectivamente." />
+  <keys prop="Description" type="monster" key="loading_tip_f00_002" value="Mova a câmera segurando o botão direito do mouse e movendo o mouse em seguida." />
+  <keys prop="Description" type="monster" key="loading_tip_f00_003" value="Pressione o ícone de Autoataque depois de selecionar um alvo para atacá-lo." />
+  <keys prop="Description" type="monster" key="loading_tip_d00_001" value="Forme um grupo com seus amigos para enfrentar masmorras difíceis." />
+  <keys prop="Description" type="monster" key="loading_tip_d00_002" value="Quando você morrer numa masmorra, você vai ressuscitar na entrada da masmorra." />
+  <keys prop="Description" type="monster" key="loading_tip_d00_003" value="Clique no Santuário da Vitória depois de completar uma masmorra para sair." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_001" value="Pressione [F] para falar com um NPC próximo." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_002" value="Pressione [F] para pegar o Loot." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_003" value="Coloque suas habilidades, poções e emotes na sua barra de atalhos para facilitar o acesso." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_004" value="Mantenha o botão do meio do mouse pressionado para mover sua câmera." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_005" value="Use Transit Shrine para se locomover mais rapidamente." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_006" value="Quando você morrer, você vai sofrer de Feridas Horrendas. Fale com um socorrista para curá-las." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_007" value="Há diversos familiares em Midellas. Dome aqueles que mais te fascinam!" />
+  <keys prop="Description" type="monster" key="loading_tip_f01_008" value="Pressione Ctrl + Tab para selecionar aliados próximos." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_009" value="A partir do nível 7, você deixará de receber a Bênção da Deusa." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_010" value="Muito tumultuado? Tente mudar para um canal diferente." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_011" value="Preso no terreno? Use sua Pedra de Retorno para escapar." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_012" value="Você pode usar Santuário de Regiões para se teletransportar para diferentes regiões do mundo." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_013" value="Quanto mais você temperar um item com sucesso, mais efeitos você terá." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_014" value="Familiares ganham EXP mesmo quando estiverem parados por aí." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_015" value="Vá em Configurações para obter uma outra barra de atalhos." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_016" value="Use talentos para melhorar suas habilidades. " />
+  <keys prop="Description" type="monster" key="loading_tip_f01_017" value="Pressione ] para ver informações de redefinição de masmorra." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_018" value="Toda tentativa de domar consome Pontos de Doma." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_019" value="Pontos de Doma são redefinidos após subir de nível." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_020" value="Use familiares selados para obter poder de talento." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_021" value="Os familiares de elite da Costa de Parna têm uma resistência natural ao frio." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_022" value="Você pode criar todo tipo de itens especiais." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_023" value="Familiares podem exigir diferentes quantidades de Pontos de Doma para serem domados." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_024" value="Orbs de comunhão são usadas para criar diversos itens para familiares." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_025" value="Use o Quadro do Grupo para recrutar membros para o grupo." />
+  <keys prop="Description" type="monster" key="loading_tip_c01_001" value="Caso sinta Lag ao falar com NPC, desative a opção Zoom de Diálogo." />
+  <keys prop="Description" type="monster" key="loading_tip_c01_002" value="Junte-se aos seus amigos para derrotar monstros de elite." />
+  <keys prop="Description" type="monster" key="loading_tip_d06_001" value="Usando afinidade compatível resultará em ataques mais eficazes." />
+  <keys prop="Description" type="monster" key="loading_tip_d06_002" value="Existem diversas habilidades de familiares diferentes. Teste-as!" />
+  <keys prop="Description" type="monster" key="loading_tip_d06_003" value="Junte-se a outros jogadores e tente masmorras instanciadas." />
+  <keys prop="Description" type="monster" key="loading_tip_d01_001" value="Afinidade elemental aumentará enquanto estiver numa zona de afinidade." />
+  <keys prop="Description" type="monster" key="loading_tip_d01_002" value="Faça uma fogueira se sua afinidade de gelo estiver muito alta." />
+  <keys prop="Description" type="monster" key="loading_tip_d01_003" value="Viaje com um familiar que tenha uma afinidade oposta à zona de afinidade." />
+  <keys prop="Description" type="monster" key="loading_tip_p01_001" value="Você não sofrerá de feridas horrendas quando for assassinado por outro jogador." />
+  <keys prop="Description" type="monster" key="loading_tip_p01_002" value="Você não pode atacar em zonas seguras." />
+  <keys prop="Description" type="monster" key="loading_tip_p01_003" value="Obtenha bônus por executar mortes-seguidas em zonas de PvP." />
+  <keys prop="Description" type="monster" key="loading_tip_p01_004" value="Use moedas de Exarahn para comprar itens de PvP." />
+  <keys prop="Description" type="monster" key="loading_tip_p01_005" value="Membros de guildas de rank 3 ou menor podem se unir à Milícia de Exarahn no Portal do Conquistador." />
+  <keys prop="Description" type="monster" key="loading_tip_p01_006" value="Guildas de rank 3 acima podem criar alianças com outras guildas." />
+  <keys prop="Description" type="monster" key="loading_tip_p01_007" value="Para minar um exarium enorme no Lago Lua de Sangue, você precisa contar com a ajuda de um mineiro de exarium." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_026" value="Digite &quot;/summon (nome de usuário)&quot; para convocar outro jogador." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_027" value="Seja educado! Nunca se sabe quando você precisará da ajuda de alguém." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_028" value="Você terá dificuldades para domar familiares que forem de um nível superior ao seu." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_029" value="Você pode editar a Interface do Usuário em Configurações." />
+  <keys prop="Description" type="monster" key="loading_tip_f00_030" value="Para usar uma Poção de Energia de Familiar, selecione um familiar com Ctrl + botão direito do mouse no seu armazenamento." />
+  <keys prop="Description" type="monster" key="loading_tip_f00_031" value="Quando o combo automático estiver ativado, você pode encadear uma sequência de habilidades mantendo pressionada a tecla da habilidade." />
+  <keys prop="Description" type="monster" key="loading_tip_f00_032" value="O combo automático é menos eficaz do que encadear habilidades manualmente." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_030" value="Ao realizar uma missão em grupo, todos os membros do grupo podem coletar os itens de missão." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_031" value="Itens no Armazém de Ellora desaparecem após 7 dias." />
+  <keys prop="Description" type="monster" key="loading_tip_f01_032" value="Você pode alternar livremente entre combinações de talentos. " />
+  <keys prop="Description" type="monster" key="loading_tip_d26_001" value="Brutalus, o comandante da mina, tem uma pequena chance de aparecer." />
+  <keys prop="Description" type="monster" key="loading_tip_d26_002" value="Os guardas de minas são bem fortes, então é melhor evitá-los." />
+  <keys prop="Description" type="monster" key="loading_tip_d26_003" value="Preste atenção no campo de visão dos Braghin para evitar o combate." />
+  <keys prop="Description" type="monster" key="loading_tip_d26_004" value="Extraia Minério de Elium para obter materiais de criação de Ellora." />
+  <keys prop="Description" type="monster" key="loading_tip_d26_005" value="Você terá sorte se sobreviver a um encontro com Brutalus, o comandante da mina." />
+  <keys prop="Description" type="monster" key="loading_tip_d26_006" value="Extraia o máximo de Minério de Elium que conseguir no tempo limite." />
+  <keys prop="Description" type="monster" key="loading_tip_d26_007" value="Seu tempo é limitado, então vá o mais rápido que puder!" />
+  <keys prop="Description" type="monster" key="loading_tip_c02_001" value="Determine o paradeiro de Chimer em Akrat." />
+  <keys prop="Description" type="monster" key="loading_tip_c02_002" value="Piratas controlam a área próxima ao Porto Comercial de Jatulan. Passar pode ser difícil." />
+  <keys prop="Description" type="monster" key="loading_tip_c02_003" value="Há rumores de que há algo valioso escondido na capela na Aldeia de Hastan." />
+  <keys prop="Description" type="monster" key="loading_tip_c02_004" value="Os Revolucionários Vermelhos são uma força de renegados que ataca Akrat a cada hora." />
+  <keys prop="Description" type="monster" key="loading_tip_c02_005" value="Atualmente, há um herético de sangue frio morando nas Ruínas de Roche." />
+  <keys prop="Description" type="monster" key="loading_tip_c02_006" value="Aidus plana sobre o Prado Plácido e as Planícies Imponentes." />
+  <keys prop="Description" type="monster" key="loading_tip_c02_007" value="Benotien Corrompido costuma ser visto assombrando os arredores da torre de vigia vazia." />
+  <keys prop="Description" type="monster" key="loading_tip_i01_001" value="Você pode formar grupos com jogadores de todos os servidores no canal Cross-Server." />
+  <keys prop="Description" type="monster" key="loading_tip_i01_002" value="Quando você troca para um canal normal, seu grupo atual é dissolvido." />
+  <keys prop="Description" type="monster" key="loading_tip_i01_003" value="No canal Cross-Server, não é possível utilizar Caixa de Correio/Troca/Mercado/Adicionar Amigo." />
+  <keys prop="Description" type="monster" key="loading_tip_i01_004" value="No canal Cross-Server, clique na aba Servidor para conversar com jogadores do seu servidor." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_001" value="Derrote Shikra Dune para ter a chance de virar o jogo." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_002" value="O Soberano do Campo de Batalha e o cristal de defesa se enfraquecem com o passar do tempo." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_003" value="As funções dos membros do grupo no Caminho do Criador são importantes." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_004" value="É melhor que o membro do grupo com o maior ataque derrote Helena." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_005" value="Sua defesa diminui conforme você se aproxima do cristal de defesa do inimigo." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_006" value="Alcance a meta adicional na ilha do Soberano do Campo de Batalha e receba uma recompensa de vitória completa." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_007" value="É melhor que o membro do grupo com a maior defesa derrote Selena." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_008" value="Use o Santuário de Trânsito nos arredores da ilha do Soberano do Campo de Batalha para viajar até a cela dos mortos e a cela do Soberano do Campo de Batalha." />
+  <keys prop="Description" type="monster" key="loading_tip_D11_001" value="Revitalização Abençoada não funciona contra intrusos revolucionários." />
+  <keys prop="Description" type="monster" key="loading_tip_D11_002" value="Os guardas chamam reforços quando descobrem um inimigo." />
+  <keys prop="Description" type="monster" key="loading_tip_D11_003" value="Os Revolucionários Vermelhos são uma organização secreta." />
+  <keys prop="Description" type="monster" key="loading_tip_D11_004" value="Vá mais fundo no Porto Escarlate para encontrar inimigos mais fortes." />
+  <keys prop="Description" type="monster" key="loading_tip_D11_005" value="Dentro do Porto Escarlate, inimigos aparecem regularmente." />
+  <keys prop="Description" type="monster" key="loading_tip_D11_006" value="Os Revolucionários Vermelhos são compostos de bandoleiros, mercenários e piratas." />
+  <keys prop="Description" type="monster" key="loading_tip_D11_007" value="Quando o sino dos Revolucionários Vermelhos soar, eles vão atacar." />
+  <keys prop="Description" type="monster" key="loading_tip_d97_001" value="Você pode obter um Passe de Entrada da Ilha do Paraíso concluindo a missão diária de Fizz." />
+  <keys prop="Description" type="monster" key="loading_tip_d97_002" value="Alguns pescadores dizem que viram Fizz em um cânion em outro continente." />
+  <keys prop="Description" type="monster" key="loading_tip_d97_003" value="Iscas de moroko de pedra só podem ser usadas na Ilha do Paraíso." />
+  <keys prop="Description" type="monster" key="loading_tip_d97_004" value="Você só pode pescar à moda antiga em Paradise Island, mas há uma chance maior de obter recompensas melhores do que na pesca regular." />
+  <keys prop="Description" type="monster" key="loading_tip_d97_005" value="A pesca na Paradise Island é limitada a 90 minutos." />
+  <keys prop="Description" type="monster" key="loading_tip_d97_006" value="Femme, que é a pessoa responsável por cuidar da pescaria, visita a Ilha do Paraíso de vez em quando." />
+  <keys prop="Description" type="monster" key="loading_tip_d97_007" value="Marlin, o comerciante da pesca, diz que já pescou um peixão no passado." />
+  <keys prop="Description" type="monster" key="loading_tip_d12_001" value="Um experimento cruel está ocorrendo dentro do Bastião do Ancião." />
+  <keys prop="Description" type="monster" key="loading_tip_d12_002" value="Lamentos intermináveis de almas torturadas ecoam no interior do Bastião do Ancião." />
+  <keys prop="Description" type="monster" key="loading_tip_d12_003" value="O Duque Ancião é o irmão mais novo de Ronfraine III." />
+  <keys prop="Description" type="monster" key="loading_tip_d12_004" value="O Duque Ancião é um homem egoísta que anseia por vingança contra Hakanas." />
+  <keys prop="Description" type="monster" key="loading_tip_d12_005" value="As dicas que Chimer deixou para trás na Aldeia de Hastan apontam para o Bastião do Ancião." />
+  <keys prop="Description" type="monster" key="loading_tip_d12_006" value="Em algum lugar do Bastião do Ancião, há uma sala secreta repleta com raros tesouros do Duque Ancião." />
+  <keys prop="Description" type="monster" key="loading_tip_t01_001" value="As Shaling possuem excepcional afinidade com uso mágico." />
+  <keys prop="Description" type="monster" key="loading_tip_t01_002" value="A raça das Shaling é composta exclusivamente de fêmeas." />
+  <keys prop="Description" type="monster" key="loading_tip_t01_003" value="As Shaling são amigas íntimas da Princesa Lania." />
+  <keys prop="Description" type="monster" key="loading_tip_t01_004" value="As Shaling possuem excepcional afinidade com uso mágico." />
+  <keys prop="Description" type="monster" key="loading_tip_t01_005" value="As Shaling Vermelhas foram corrompidas pelo Deus da Ruína. A líder delas é a Daveen." />
+  <keys prop="Description" type="monster" key="loading_tip_e01_001" value="A mansão pode estar assombrada, mas por muito tempo foi a casa dos sonhos de Mivelle." />
+  <keys prop="Description" type="monster" key="loading_tip_e01_002" value="A única arma capaz de derrotar o Ceifeiro é uma granada luminosa, que pode ser encontrada em baús do tesouro de Mivelle." />
+  <keys prop="Description" type="monster" key="loading_tip_e01_003" value="Um homem misterioso chamado Phantamos tem aparecido na Mansão Assombrada." />
+  <keys prop="Description" type="monster" key="loading_tip_e01_004" value="Muitos foram procurar o tesouro do Mivelle. Poucos voltaram." />
+  <keys prop="Description" type="monster" key="loading_tip_e01_005" value="Você precisa de uma granada luminosa para derrotar o Ceifeiro." />
+  <keys prop="Description" type="monster" key="loading_tip_e01_006" value="Qualquer semelhança entre a Mansão Assombrada e uma mansão sem nome nas terras altas é mera coincidência." />
+  <keys prop="Description" type="monster" key="loading_tip_e01_007" value="Seus ataques não têm efeito sobre os habitantes da mansão. Corra por sua vida!" />
+  <keys prop="Description" type="monster" key="loading_tip_e01_008" value="Há uma chance de encontrar a Tormenta vagando pela mansão." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_001" value="Você não pode cavalgar ou voar em uma montaria enquanto estiver na fazenda, mas pode invocar um pet." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_002" value="Você pode obter um familiar raro exclusivo no pequeno lago da fazenda de familiares." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_003" value="Você pode personalizar a distribuição da sua fazenda como preferir." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_004" value="Envie um familiar para o pasto com Daryl para receber um bônus baseado no rebanho de familiar." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_005" value="Complete as missões diárias de Egratt para ganhar Moedas de Colecionador." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_006" value="Conversar com qualquer Treinador de Familiares para entrar na Fazenda de Familiares." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_007" value="Você precisa de uma vara e isca especiais para pescar na fazenda de familiares." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_008" value="Você recebe mais benefícios conforme melhora sua fazenda." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_001" value="Há rumores de que um Exid enorme anda pelo vale." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_002" value="A Aldeia do Desfiladeiro Grandioso é protegida por cinco sigilos de proteção." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_003" value="Há uma antiga lenda que diz que a chuva na Floresta de Aklan são as lágrimas dos próprios deuses." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_004" value="Os patrulheiros de Salazar vagam pelo Vale de Turimnam." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_005" value="Dizem os rumores de que há uma enorme ilha flutuante no grande círculo no centro do Desfiladeiro Grandioso." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_006" value="Dizem que Iminus, o servo de um feiticeiro corrompido, massacrou todos em Turimnan." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_007" value="Familiares que ainda não se adaptaram ao ambiente do vale sofrem na região." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_008" value="Colecionadores de familiares dizem que Antares só pode ser visto em momentos específicos." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_009" value="A partida amistosa acontece das 14:00 às 19:00 e das 22:00 às 11:00. Não há limite de entrada." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_010" value="A partida de classificação ocorre das 11:00 às 14:00 e das 19:00 às 22:00. A entrada é limitada a 5 vezes por dia." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_011" value="A classificação reinicia às segundas-feiras, às 04: 00. As recompensas serão enviadas ao armazenamento neste momento." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_012" value="Cada classificação será reajustada ao ponto de classificação mais baixo após a redefinição." />
+  <keys prop="Description" type="monster" key="loading_tip_D98_013" value="Moedas do Campo de Batalha podem ser usadas na Loja de Troca de Moedas de Campo de Batalha. " />
+  <keys prop="Description" type="monster" key="loading_tip_D98_014" value="A Pedra-chave é o objetivo final, e não pode ser destruída no início do jogo. Só é possível destruí-la depois que o Escudo de Cristal estiver destruído." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_009" value="Monstros que irradiam luz costumam ter itens valiosos." />
+  <keys prop="Description" type="monster" key="loading_tip_f08_010" value="Você não pode montar o seu familiar na incubadora de insetos." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_001" value="Rei Hadakhan costumava ser o &quot;Rei de Ouro&quot; do Antigo Reino de Exarahn." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_002" value="Ele foi consumido pela tentação de um demônio imortal que devastou sua mente." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_003" value="Hadakhan criou um laboratório subterrâneo ao Antigo Reino de Exarahn e usou seus próprios súditos para experiências cruéis." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_004" value="Hadakhan teve uma visão, de que após 500 anos, ele seria ressuscitado como um deus." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_005" value="Ansioso por sua própria morte, ele sorriu enquanto era assassinado por seu próprio povo." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_006" value="Este Labirinto Subterrâneo leva ao Laboratório do Rei Hadakhan." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_007" value="Algo terrível pode acontecer se a gema central for destruída." />
+  <keys prop="Description" type="monster" key="loading_tip_D96_008" value="Mal sabia ele que seu desejo de poder, abriu a porta para o abismo." />
+  <keys prop="Description" type="monster" key="loading_tip_f96_009" value="O sistema de mentoria proporciona que outros jogadores obtenham ajuda, e recompensa os que ajudam. " />
+  <keys prop="Description" type="monster" key="loading_tip_f96_010" value="Obtenha níveis mais altos na Evolução de Familiares " />
+  <keys prop="Description" type="monster" key="loading_tip_f96_011" value="Você pode usar um cartão de captura para capturar familiares especiais." />
+  <keys prop="Description" type="monster" key="loading_tip_d95_001" value="Depois que o portão de pedra for fechado, ele não será aberto novamente, portanto, tenha cuidado ao se mover." />
+  <keys prop="Description" type="monster" key="loading_tip_d95_002" value="As habilidades de alvo terrestre podem ser difíceis de lançar na água." />
+  <keys prop="Description" type="monster" key="loading_tip_r01_001" value="O altar será selado assim que a batalha começar pela poderosa feitiçaria de Yatuman." />
+  <keys prop="Description" type="monster" key="loading_tip_r01_002" value="A ressurreição de Ellun não pode ser usada enquanto estiver dentro do Altar de Yatuman." />
+  <keys prop="Description" type="monster" key="loading_tip_r01_003" value="Personagens que estão abaixo do nível apropriado não podem adquirir pontos de experiência." />
+  <keys prop="Description" type="monster" key="loading_tip_e02_001" value="Jogue a bola de neve contra os Lebrini para afastá-los dos presentes. Habilidades e ataques normais não surtem efeito." />
+  <keys prop="Description" type="monster" key="loading_tip_D94_001" value="Se você sair, você não receberá a recompensa. Escolha com cuidado! " />
+  <keys prop="Description" type="monster" key="loading_tip_D94_002" value="Nesta área, o tempo de recarga da habilidade de Ressurreição aumenta e você não pode usar itens de Ressurreição / Restauração / Movimento." />
+  <keys prop="Description" type="monster" key="loading_tip_D94_003" value="Somente membros do grupo podem usar dispositivos de portal." />
+  <keys prop="Description" type="monster" key="loading_tip_D94_004" value="Não se preocupe se você morrer. A menos que você saia da sala, os membros restantes do grupo serão ressuscitados automaticamente contanto que permaneçam na sala." />
+  <keys prop="Description" type="monster" key="loading_tip_D94_005" value="A fim de expulsar os intrusos, o carrasco não identificado está vigiando esta torre." />
+  <keys prop="Description" type="monster" key="loading_tip_D94_006" value="Ao encerrar o jogo seu grupo será desmanchado automaticamente." />
+  <keys prop="Description" type="monster" key="loading_tip_d88_001" value="Se você desistir da masmorra ou sair do jogo, será automaticamente retirado do grupo" />
+  <keys prop="Description" type="monster" key="loading_tip_d88_002" value="Em caso de morte, você receberá uma penalidade de renascimento em uma posição próxima." />
+  <keys prop="Description" type="monster" key="loading_tip_d88_003" value="Sua classificação varia dependendo da velocidade e quantidade de monstros que você matou." />
+  <keys prop="Description" type="monster" key="loading_tip_d88_004" value="Diferentes monstros com várias formas estão escondidos em todo o subsolo." />
+  <keys prop="Description" type="monster" key="loading_tip_d88_005" value="Em algum lugar no subsolo, você pode sentir o poder das chamas azuis." />
+  <keys prop="Description" type="monster" key="loading_tip_d92_001" value="Procure uma grande lua cheia no céu." />
+  <keys prop="Description" type="monster" key="loading_tip_d92_002" value="Você pode receber Moedas Chuseok fazendo songpyeon todos os dias e trazendo-o para Ravini Chaltegi." />
+  <keys prop="Description" type="monster" key="loading_tip_d92_003" value="Ingredientes para Songpyeon podem ser obtidos ao derrotar Mad Ravini." />
+  <keys prop="Description" type="monster" key="loading_tip_d92_004" value="Dome o luar e os spiruns da luz das estrelas! Os tokens são vendidos por Ravini Bormi." />
+  <keys prop="Description" type="monster" key="loading_tip_d92_005" value="Diz-se que chefs e fornecedores de ingredientes estão em viagem de negócios de Hakanas." />
+</files>

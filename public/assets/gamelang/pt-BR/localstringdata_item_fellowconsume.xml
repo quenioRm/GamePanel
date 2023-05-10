@@ -1,112 +1,367 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="FM_000_0009" value="Pergaminho de Familiar Comum" />
-  <keys type="item" key="FM_000_0011" value="Pergaminho de Familiar de Elite" />
-  <keys type="item" key="FM_000_0012" value="Pergaminho de Familiar Heroico" />
-  <keys type="item" key="FM_000_0013" value="Pergaminho de Familiar Lendário" />
-  <keys type="item" key="FM_000_0010" value="Item de Conversão de Pet (Teste)" />
-  <keys type="item" key="SF1_1_000_0003" value="Pedra-Lacre Heroica de Exarahn" />
-  <keys type="item" key="IT_FE_UF_0000" value="Pedra de Deslacre Elite" />
-  <keys type="item" key="IT_FE_UF_0001" value="Pedra de Deslacre Heroica" />
-  <keys type="item" key="CA_FE_UF_0000" value="Pedra de Deslacre Elite" />
-  <keys type="item" key="CA_FE_UF_0001" value="Pedra de Deslacre Heroica" />
-  <keys type="item" key="IT_FE_EF_0000" value="Extrator de Pedra-Lacre Elite" />
-  <keys type="item" key="IT_FE_EF_0001" value="Extrator de Pedra-Lacre Elite de Stygaea" />
-  <keys type="item" key="IT_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
-  <keys type="item" key="IT_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
-  <keys type="item" key="IT_FE_EF_0004" value="Extrator de Pedra-Lacre Elite V" />
-  <keys type="item" key="IT_FE_EF_0005" value="Extrator de Pedra-Lacre Heroica" />
-  <keys type="item" key="IT_FE_EF_0006" value="Extrator de Pedra-Lacre Heroica de Stygaea" />
-  <keys type="item" key="IT_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
-  <keys type="item" key="IT_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
-  <keys type="item" key="IT_FE_EF_0009" value="Extrator de Pedra-Lacre Heroica V" />
-  <keys type="item" key="CA_FE_EF_0000" value="Extrator de Pedra-Lacre Elite Abençoado" />
-  <keys type="item" key="CA_FE_EF_0001" value="Extrator de Pedra-Lacre Elite II" />
-  <keys type="item" key="CA_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
-  <keys type="item" key="CA_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
-  <keys type="item" key="CA_FE_EF_0004" value="Extrator de Pedra-Lacre Heroica" />
-  <keys type="item" key="CA_FE_EF_0005" value="Extrator de Pedra-Lacre Heroica Abençoado" />
-  <keys type="item" key="CA_FE_EF_0006" value="Extrator de Pedra-Lacre Heroica II" />
-  <keys type="item" key="CA_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
-  <keys type="item" key="CA_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
-  <keys type="item" key="CA_FE_EF_0009" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="CA_FE_EF_0010" value="Extrator de Pedra-Lacre Lendária Abençoado" />
-  <keys type="item" key="CA_FE_FB_0098" value="Ração de Provisão (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0099" value="Ração de Provisão (3 horas)" />
-  <keys type="item" key="CA_FE_FB_0100" value="Ração de Provisão (6 horas)" />
-  <keys type="item" key="CA_FE_FB_0101" value="Ração de Provisão (12 horas)" />
-  <keys type="item" key="CA_FE_FB_0000" value="Ração Premium (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0001" value="Ração Premium (6 horas)" />
-  <keys type="item" key="CA_FE_FB_0002" value="Ração Premium (12 horas)" />
-  <keys type="item" key="CA_FE_FB_0003" value="Ração Suprema (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0004" value="Ração Suprema (6 horas)" />
-  <keys type="item" key="CA_FE_FB_0005" value="Ração Suprema (12 horas)" />
-  <keys type="item" key="IT_FE_TS_0001" value="Teste de Extração de Pedra-Lacre (Elite)" />
-  <keys type="item" key="IT_FE_TS_0002" value="Teste de Extração de Pedra-Lacre (Elite)" />
-  <keys type="item" key="IT_FE_TS_0003" value="Teste de Extração de Pedra-Lacre (Elite)" />
-  <keys type="item" key="IT_FE_TS_0004" value="Teste de Extração de Pedra-Lacre (+1)" />
-  <keys type="item" key="IT_FE_TS_0005" value="Teste de Extração de Pedra-Lacre (+2)" />
-  <keys type="item" key="IT_FE_TS_0006" value="Teste de Extração de Pedra-Lacre (+3)" />
-  <keys type="item" key="IT_FE_TS_0007" value="Teste de Extração de Pedra-Lacre (+4)" />
-  <keys type="item" key="IT_FE_TS_0008" value="Teste de Extração de Pedra-Lacre (+5)" />
-  <keys type="item" key="SF1_1_000_0004" value="Pedra-Lacre Comum Nível 60" />
-  <keys type="item" key="IT_FE_EF_0010" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="CA_FE_ES_0000" value="Ferramenta Teste de Gravar Familiar (1 min)" />
-  <keys type="item" key="CA_FE_ES_0001" value="Ferramenta Teste de Gravar Familiar (10 min)" />
-  <keys type="item" key="IT_FE_ES_0000" value="Cinzel de Familiares (1 dia)" />
-  <keys type="item" key="IT_FE_ES_0001" value="Cinzel de Familiares (7 dias)" />
-  <keys type="item" key="IT_FE_ES_0002" value="Cinzel de Familiares (15 dias)" />
-  <keys type="item" key="IT_FE_ES_0003" value="Cinzel de Familiares (30 dias)" />
-  <keys type="item" key="CA_FE_EM_0000" value="Extrator de Pedra-Lacre Heroica +5" />
-  <keys type="item" key="CA_FE_EM_0001" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="CA_FE_EM_0002" value="Extrator de Pedra-Lacre Heroica +5" />
-  <keys type="item" key="CA_FE_EM_0003" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="FM_000_0017" value="Pergaminho de Familiar Comum" />
-  <keys type="item" key="FM_000_0018" value="Pergaminho de Familiar de Elite" />
-  <keys type="item" key="FM_000_0019" value="Pergaminho de Familiar Heroico" />
-  <keys type="item" key="FM_000_0020" value="Pergaminho de Familiar Lendário" />
-  <keys type="item" key="SF1_4_001_0000" value="Pedra-Lacre Lendária" />
-  <keys type="item" key="PvP_CO_FE_0001" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="FI_FE_EM_0001" value="Extrator de Pedra-Lacre Heroica +5" />
-  <keys type="item" key="FI_FE_EM_0002" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="IT_FE_EF_0011" value="Extrator de Pedra-Lacre Lendária +5" />
-  <keys type="item" key="CA_FE_EM_0004" value="Extrator de Pedra-Lacre Heroica +7" />
-  <keys type="item" key="CA_FE_EM_0005" value="Extrator de Pedra-Lacre Lendária +7" />
-  <keys type="item" key="CA_FE_EM_0006" value="Extrator de Pedra-Lacre Heroica +7" />
-  <keys type="item" key="CA_FE_EM_0007" value="Extrator de Pedra-Lacre Lendária +7" />
-  <keys type="item" key="CA_FE_EM_0008" value="Extrator de Pedra-Lacre Heroica +6" />
-  <keys type="item" key="CA_FE_EM_0009" value="Extrator de Pedra-Lacre Lendária +6" />
-  <keys type="item" key="CA_FE_EM_0010" value="Extrator de Pedra-Lacre Heroica +6" />
-  <keys type="item" key="CA_FE_EM_0011" value="Extrator de Pedra-Lacre Lendária +6" />
-  <keys type="item" key="TS_FA_FB_0999" value="Impulsionador de Aventura de Familiar (Teste)" />
-  <keys type="item" key="PvP_CO_FE_0002" value="Extrator Lendário +5" />
-  <keys type="item" key="CA_FE_FB_0008" value="Impulsionador da Evolução (1 hora)" />
-  <keys type="item" key="CA_FE_FB_0009" value="Impulsionador da Evolução (3 horas)" />
-  <keys type="item" key="CA_FE_FB_0010" value="Impulsionador da Evolução (6 horas)" />
-  <keys type="item" key="IT_FE_EF_0012" value="Extrator de Pedra-Lacre Lendária" />
-  <keys type="item" key="SF1_4_000_0103" value="Pedra-Lacre Lendária" />
-  <keys type="item" key="EV_FE_FC_0001" value="Pergaminho de Reiniciar Coleção de Familiar" />
-  <keys type="item" key="IT_FA_FB_0001" value="Adventure Booster (10%)" />
-  <keys type="item" key="IT_FA_FB_0002" value="Adventure Booster (30%)" />
-  <keys type="item" key="IT_FA_FB_0003" value="Adventure Booster (35%)" />
-  <keys type="item" key="IT_FA_FB_0004" value="Adventure Booster (45%)" />
-  <keys type="item" key="IT_FA_FB_0005" value="Adventure Booster (50%)" />
-  <keys type="item" key="IT_FA_FB_0006" value="Adventure Booster (100%)" />
-  <keys type="item" key="IT_FE_FB_0000" value="Growth booster (2 hours)" />
-  <keys type="item" key="IT_FE_FB_0001" value="High-Speed Growth Booster (2 hours)" />
-  <keys type="item" key="IT_FE_CA_0004" value="Cartão de Captura" />
-  <keys type="item" key="IT_FE_CA_0005" value="Cartão de Captura Brilhante" />
-  <keys type="item" key="IT_FE_CA_0006" value="Cartão de Captura Predestinada" />
-  <keys type="item" key="IT_FE_CA_0007" value="Cartão de captura Para Prática" />
-  <keys type="item" key="IT_FE_CA_0008" value="Cartão de Captura Predestinada" />
-  <keys type="item" key="FM_000_0002_1" value="Heroic Pet Scroll" />
-  <keys type="item" key="IT_FE_CA_0009" value="Cartão de Captura Brilhante" />
-  <keys type="item" key="CA_FE_EM_0101" value="Mythic Extractor" />
-  <keys type="item" key="CA_FE_EM_0102" value="+5 Enhanced Mythic Extractor" />
-  <keys type="item" key="CA_FE_EM_0103" value="+6 Enhanced Mythic Extractor" />
-  <keys type="item" key="CA_FE_EM_0104" value="+7 Enhanced Mythic Extractor" />
-  <keys type="item" key="FM_000_0111" value="Mythic Fellow Order" />
-  <keys type="item" key="FM_000_0112" value="Mythic Pet Order" />
-  <keys type="item" key="SF1_7_000_0000" value="Mythic Sealing Stone" />
-  <keys type="item" key="IT_FE_CA_0101" value="Mythic Capture Card" />
+  <keys prop="Description" type="item" key="FM_000_0000" value="Pergaminho de Pet Comum" />
+  <keys prop="Description" type="item" key="FM_000_0000" value="Um pergaminho que pode transformar familiares comuns em pets, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse e, então, selecione o familiar que você deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0001" value="Pergaminho de Pet Elite" />
+  <keys prop="Description" type="item" key="FM_000_0001" value="Um pergaminho que pode transformar familiares de elite em pets, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse e, então, selecione o familiar que você deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0002" value="Pergaminho de Pet Heroico" />
+  <keys prop="Description" type="item" key="FM_000_0002" value="Um pergaminho que pode transformar familiares lendários ou inferiores em pets, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o familiar que você deseja transformar em pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0014" value="Pergaminho de Pet Lendário" />
+  <keys prop="Description" type="item" key="FM_000_0014" value="Um pergaminho que pode transformar familiares lendários em pets, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que você deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0003" value="Pergaminho de Pet Heroico" />
+  <keys prop="Description" type="item" key="FM_000_0003" value="Um pergaminho que pode transformar familiares heroicos em pets, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse e, então, selecione o familiar que você deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0004" value="Pergaminho de Pet Heroico de Exarahn" />
+  <keys prop="Description" type="item" key="FM_000_0004" value="Um pergaminho que pode transformar familiares heroicos em pets, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse e, então, selecione o familiar que você deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0005" value="Pergaminho de Pet Nível 25" />
+  <keys prop="Description" type="item" key="FM_000_0005" value="Um pergaminho que pode transformar familiares comuns de Nível 1-25.Clique com o botão direito em um familiar que você deseja transformar em um pet (Somente para aqueles com nível inferior ao personagem) &lt;It_G&gt; - Deve ser da mesma raridade que o familiar para poder ser usado&lt;/It_G&gt;&lt;It_G&gt; - Uma vez que um familiar tenha sido transformado em pet, não pode ser transformado de volta em familiar&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0006" value="Pergaminho de Pet Nível 25" />
+  <keys prop="Description" type="item" key="FM_000_0006" value="Um pergaminho que pode transformar familiares elite de Nível 1-25.Clique com o botão direito em um familiar que você deseja transformar em um pet(Somente para aqueles com nível inferior ao personagem)&lt;It_G&gt; - Deve ser da mesma raridade que o familiar para poder ser usado&lt;/It_G&gt;&lt;It_G&gt; - Uma vez que um familiar tenha sido transformado em pet, não pode ser transformado de volta em familiar&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0007" value="Pergaminho de Pet Nível 30" />
+  <keys prop="Description" type="item" key="FM_000_0007" value="Um pergaminho que pode transformar familiares comuns de Nível 1-30.Clique com o botão direito em um familiar que você deseja transformar em um pet(Somente para aqueles com nível inferior ao personagem)&lt;It_G&gt; - Deve ser da mesma raridade que o familiar para poder ser usado&lt;/It_G&gt;&lt;It_G&gt; - Uma vez que um familiar tenha sido transformado em pet, não pode ser transformado de volta em familiar&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0008" value="Pergaminho de Pet Nível 30" />
+  <keys prop="Description" type="item" key="FM_000_0008" value="Um pergaminho que pode transformar familiares elite de Nível 1-30.Clique com o botão direito em um familiar que você deseja transformar em um pet(Somente para aqueles com nível inferior ao personagem)&lt;It_G&gt; - Deve ser da mesma raridade que o familiar para poder ser usado&lt;/It_G&gt;&lt;It_G&gt; - Uma vez que um familiar tenha sido transformado em pet, não pode ser transformado de volta em familiar&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_0_000_0000" value="Pedra-Lacre Comum Nível 10" />
+  <keys prop="Description" type="item" key="SF1_0_000_0000" value="Usada para lacrar familiares comuns de Nível 1-10.&#xD;&#xA;(Nível de familiar deve ser menor que o de personagem)&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usada apenas em familiares da mesma raridade e Nível deste item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_0_000_0001" value="Pedra-Lacre Elite" />
+  <keys prop="Description" type="item" key="SF1_0_000_0001" value="Uma pedra que pode lacrar familiares elite para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0000" value="Pedra-Lacre Heroica" />
+  <keys prop="Description" type="item" key="SF1_1_000_0000" value="Uma pedra que pode lacrar familiares heroicos para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0000" value="Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="SF1_4_000_0000" value="Uma pedra que pode lacrar familiares lendários para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0001" value="Pedra-Lacre Comum Nível 40" />
+  <keys prop="Description" type="item" key="SF1_1_000_0001" value="Usada para lacrar familiares comuns de Nível 1-40.&#xD;&#xA;(Nível de familiar deve ser menor que o de personagem)&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usada apenas em familiares da mesma raridade e Nível deste item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0002" value="Pedra-Lacre Comum Nível 50" />
+  <keys prop="Description" type="item" key="SF1_1_000_0002" value="Usado para lacrar familiares comuns de Nível 1-50.&lt;It_G&gt; - Pode ser usado apenas em familiares da mesma raridade que este item.&lt;/It_G&gt;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_2_000_0000" value="Pedra-Lacre Comum Nível 20" />
+  <keys prop="Description" type="item" key="SF1_2_000_0000" value="Usada para lacrar familiares comuns de Nível 1-20.&#xD;&#xA;(Nível de familiar deve ser menor que o de personagem)&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usada apenas em familiares da mesma raridade e Nível deste item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_2_000_0001" value="Pedra-Lacre Nível 25" />
+  <keys prop="Description" type="item" key="SF1_2_000_0001" value="Usada para lacrar familiares elites de Nível 1-25.&#xD;&#xA;(Nível de familiar deve ser menor que o de personagem)&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usada apenas em familiares da mesma raridade e Nível deste item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_3_000_0000" value="Pedra-Lacre Comum Nível 30" />
+  <keys prop="Description" type="item" key="SF1_3_000_0000" value="Usada para lacrar familiares comuns de Nível 1-30.&#xD;&#xA;(Nível de familiar deve ser menor que o de personagem)&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usada apenas em familiares da mesma raridade e Nível deste item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_3_000_0001" value="Pedra-Lacre Nível 30" />
+  <keys prop="Description" type="item" key="SF1_3_000_0001" value="Usada para lacrar familiares comuns de Nível 1-30.&#xD;&#xA;(Nível de familiar deve ser menor que o de personagem)&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usada apenas em familiares da mesma raridade e Nível deste item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_9000" value="Experiência: Pergaminho de Pet Nível 20" />
+  <keys prop="Description" type="item" key="FM_000_9000" value="Usado para converter um familiar comum de Nível 1-20 em um pet.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usado apenas em familiares da mesma raridade que este item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez convertido, um pet não pode voltar a ser uma montaria.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_9000" value="Experiência: Pedra-Lacre Nível 20" />
+  <keys prop="Description" type="item" key="SF1_1_000_9000" value="Usada para lacrar familiares comuns de Nível 1-30.&#xD;&#xA;(Nível de familiar deve ser menor que o de personagem)&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Pode ser usada apenas em familiares da mesma raridade e Nível deste item.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0009" value="Pergaminho de Familiar Comum" />
+  <keys prop="Description" type="item" key="FM_000_0009" value="Um pergaminho que pode transformar pets comuns ou inferiores em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0011" value="Pergaminho de Familiar de Elite" />
+  <keys prop="Description" type="item" key="FM_000_0011" value="Um pergaminho que pode transformar pets de elite em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0012" value="Pergaminho de Familiar Heroico" />
+  <keys prop="Description" type="item" key="FM_000_0012" value="Um pergaminho que pode transformar pets heroicos em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0013" value="Pergaminho de Familiar Lendário" />
+  <keys prop="Description" type="item" key="FM_000_0013" value="Um pergaminho que pode transformar pets lendários em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0010" value="Item de Conversão de Pet (Teste)" />
+  <keys prop="Description" type="item" key="FM_000_0010" value="Este item é para testes de transformação de familiares em pets." />
+  <keys prop="Name" type="item" key="SF1_1_000_0003" value="Pedra-Lacre Heroica de Exarahn" />
+  <keys prop="Description" type="item" key="SF1_1_000_0003" value="Uma pedra que pode lacrar familiares heroicos para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_UF_0000" value="Pedra de Deslacre Elite" />
+  <keys prop="Description" type="item" key="IT_FE_UF_0000" value="Uma pedra que pode deslacrar familiares abaixo da raridade elite.&lt;O_Y&gt;Quando deslacrado, o familiar será armazenado como um pet.&lt;/O_Y&gt;&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_UF_0001" value="Pedra de Deslacre Heroica" />
+  <keys prop="Description" type="item" key="IT_FE_UF_0001" value="Uma pedra que pode deslacrar familiares abaixo da raridade heroica.&lt;O_Y&gt;Quando deslacrado, o familiar será armazenado como um pet.&lt;/O_Y&gt;&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_UF_0000" value="Pedra de Deslacre Elite" />
+  <keys prop="Description" type="item" key="CA_FE_UF_0000" value="Uma pedra que pode deslacrar familiares abaixo da raridade elite.&lt;O_Y&gt;Quando deslacrado, o familiar será armazenado como um pet.&lt;/O_Y&gt;&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_UF_0001" value="Pedra de Deslacre Heroica" />
+  <keys prop="Description" type="item" key="CA_FE_UF_0001" value="Uma pedra que pode deslacrar familiares abaixo da raridade heroica.&lt;O_Y&gt;Quando deslacrado, o familiar será armazenado como um pet.&lt;/O_Y&gt;&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0000" value="Extrator de Pedra-Lacre Elite" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0000" value="Permite que você extraia um familiar lacrado de raridade elite ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0001" value="Extrator de Pedra-Lacre Elite de Stygaea" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0001" value="Permite que você extraia um familiar lacrado de raridade elite ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0004" value="Extrator de Pedra-Lacre Elite V" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0004" value="Extrator de Pedra-Lacre Elite V" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0005" value="Extrator de Pedra-Lacre Heroica" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0005" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0006" value="Extrator de Pedra-Lacre Heroica de Stygaea" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0006" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0009" value="Extrator de Pedra-Lacre Heroica V" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0009" value="Extrator de Pedra-Lacre Heroica V" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0000" value="Extrator de Pedra-Lacre Elite Abençoado" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0000" value="Permite que você extraia um familiar lacrado de raridade elite ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0001" value="Extrator de Pedra-Lacre Elite II" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0001" value="Extrator de Pedra-Lacre Elite II" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0002" value="Extrator de Pedra-Lacre Elite III" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0003" value="Extrator de Pedra-Lacre Elite IV" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0004" value="Extrator de Pedra-Lacre Heroica" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0004" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0005" value="Extrator de Pedra-Lacre Heroica Abençoado" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0005" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item heroico ou menor. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0006" value="Extrator de Pedra-Lacre Heroica II" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0006" value="Extrator de Pedra-Lacre Heroica II" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0007" value="Extrator de Pedra-Lacre Heroica III" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0008" value="Extrator de Pedra-Lacre Heroica IV" />
+  <keys prop="Name" type="item" key="CA_FE_EF_0009" value="Extrator de Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0009" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="CA_FE_EF_0010" value="Extrator de Pedra-Lacre Lendária Abençoado" />
+  <keys prop="Description" type="item" key="CA_FE_EF_0010" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item lendário ou menor. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="CA_FE_FB_0098" value="Ração de Provisão (1 hora)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0098" value="Usado para nutrir um familiar. Dobra a taxa de EXP do seu familiar acolhido por 1 hora.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0099" value="Ração de Provisão (3 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0099" value="Usado para nutrir um familiar. Dobra a taxa de EXP do seu familiar acolhido por 3 horas.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0100" value="Ração de Provisão (6 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0100" value="Usado para nutrir um familiar. Dobra a taxa de EXP do seu familiar acolhido por 6 horas.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0101" value="Ração de Provisão (12 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0101" value="Usado para nutrir um familiar. Dobra a taxa de EXP do seu familiar acolhido por 12 horas.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0000" value="Ração Premium (1 hora)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0000" value="Usado para nutrir um familiar. Quadruplica a taxa de EXP do seu familiar acolhido por 1 hora.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0001" value="Ração Premium (6 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0001" value="Usado para nutrir um familiar. Quadruplica a taxa de EXP do seu familiar acolhido por 6 horas.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0002" value="Ração Premium (12 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0002" value="Usado para nutrir um familiar. Quadruplica a taxa de EXP do seu familiar acolhido por 12 horas.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0003" value="Ração Suprema (1 hora)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0003" value="Usado para nutrir um familiar. Multiplica a taxa de EXP do seu familiar acolhido por 6 por 1 hora.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0004" value="Ração Suprema (6 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0004" value="Usado para nutrir um familiar. Multiplica a taxa de EXP do seu familiar acolhido por 6 por 6 horas.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0005" value="Ração Suprema (12 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0005" value="Usado para nutrir um familiar. Multiplica a taxa de EXP do seu familiar acolhido por 6 por 12 horas.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Não pode ser cancelado após usado. Ao recuperar seu familiar acolhido, este item será consumido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0001" value="Teste de Extração de Pedra-Lacre (Elite)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0002" value="Teste de Extração de Pedra-Lacre (Elite)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0003" value="Teste de Extração de Pedra-Lacre (Elite)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0004" value="Teste de Extração de Pedra-Lacre (+1)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0005" value="Teste de Extração de Pedra-Lacre (+2)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0006" value="Teste de Extração de Pedra-Lacre (+3)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0007" value="Teste de Extração de Pedra-Lacre (+4)" />
+  <keys prop="Name" type="item" key="IT_FE_TS_0008" value="Teste de Extração de Pedra-Lacre (+5)" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0001" value="Isto é para testes" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0002" value="Isto é para testes" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0003" value="Isto é para testes" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0004" value="Isto é para testes" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0005" value="Isto é para testes" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0006" value="Isto é para testes" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0007" value="Isto é para testes" />
+  <keys prop="Description" type="item" key="IT_FE_TS_0008" value="Isto é para testes" />
+  <keys prop="Name" type="item" key="SF1_1_000_0004" value="Pedra-Lacre Comum Nível 60" />
+  <keys prop="Description" type="item" key="SF1_1_000_0004" value="Usado para lacrar familiares comuns de Nível 1-60.&lt;It_G&gt; - Pode ser usado apenas em familiares da mesma raridade que este item.&lt;/It_G&gt;&lt;It_G&gt; - Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&lt;It_G&gt; - Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0010" value="Extrator de Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0010" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="CA_FE_ES_0000" value="Ferramenta Teste de Gravar Familiar (1 min)" />
+  <keys prop="Description" type="item" key="CA_FE_ES_0000" value="Ferramenta Teste de Gravar Familiar (1 min)" />
+  <keys prop="Name" type="item" key="CA_FE_ES_0001" value="Ferramenta Teste de Gravar Familiar (10 min)" />
+  <keys prop="Description" type="item" key="CA_FE_ES_0001" value="Ferramenta Teste de Gravar Familiar (10 min)" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0000" value="Cinzel de Familiares (1 dia)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0000" value="Grava um familiar por 1 dia.&#xD;&#xA;&#xD;&#xA;&lt;O_Y&gt;Um familiar gravado não pode ser libertado ou lacrado.&lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0001" value="Cinzel de Familiares (7 dias)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0001" value="Grava um familiar por 7 dias.&#xD;&#xA;&#xD;&#xA;&lt;O_Y&gt;Um familiar gravado não pode ser libertado ou lacrado.&lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0002" value="Cinzel de Familiares (15 dias)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0002" value="Grava um familiar por 15 dias.&#xD;&#xA;&#xD;&#xA;&lt;O_Y&gt;Um familiar gravado não pode ser libertado ou lacrado.&lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_ES_0003" value="Cinzel de Familiares (30 dias)" />
+  <keys prop="Description" type="item" key="IT_FE_ES_0003" value="Grava um familiar por 30 dias.&#xD;&#xA;&#xD;&#xA;&lt;O_Y&gt;Um familiar gravado não pode ser libertado ou lacrado.&lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0000" value="Extrator de Pedra-Lacre Heroica +5" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0000" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +5." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0001" value="Extrator de Pedra-Lacre Lendária +5" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0001" value="Usado para extrair uma pedra da alma de familiar de raridade lendária ou inferior de um equipamento aprimorado em até +5. Uma vez extraído, o familiar será armazenado como um pet de nível 1, com 5 níveis adicionados ao seu nível máximo. O nível do seu personagem deve ser mais alto do que o nível máximo do familiar. Seu extrator de pedra da alma deve ser da mesma raridade do que o familiar a ser extraído." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0002" value="Extrator de Pedra-Lacre Heroica +5" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0002" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +5." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0003" value="Extrator de Pedra-Lacre Lendária +5" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0003" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +5." />
+  <keys prop="Description" type="item" key="FM_000_0015" value="Pergaminho de Pet Lendário" />
+  <keys prop="Description" type="item" key="FM_000_0015" value="Um pergaminho que pode transformar familiares lendários em pets, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que você deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0101" value="Pergaminho de Familiar Lendário do Bestiário" />
+  <keys prop="Description" type="item" key="FM_000_0101" value="Transforma pets de raridade lendária e inferior em familiares. O pet alvo deve ter pelo menos 1 nível a menos que você. &#xD;&#xA;O familiar transformado será automaticamente adicionado ao seu bestiário.&lt;br&gt;&lt;br&gt;&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse e, então, selecione o pet que deseja transformar em familiar.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;A montaria transformada será adicionada ao seu bestiário.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0016" value="Pergaminho de Familiar Lendário" />
+  <keys prop="Description" type="item" key="FM_000_0016" value="Um pergaminho que pode transformar pets lendários em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0102" value="Pergaminho de Familiar Lendário do Bestiário" />
+  <keys prop="Description" type="item" key="FM_000_0102" value="Transforma pets de raridade lendária e inferior em familiar. O pet alvo deve ter pelo menos 1 nível a menos que você. O familiar transformado será automaticamente adicionado ao seu bestiário.&lt;br&gt;&lt;br&gt;Clique com o botão direito do mouse e, então, selecione o pet que deseja transformar em familiar. O familiar transformado será adicionada ao seu bestiário." />
+  <keys prop="Description" type="item" key="FM_000_0103" value="Pergaminho de Familiar Heroico do Bestiário" />
+  <keys prop="Description" type="item" key="FM_000_0103" value="Transforma pets de raridade heroica e inferior em familiar. O pet alvo deve ter pelo menos 1 nível a menos que você. O familiar transformado será automaticamente adicionado ao seu bestiário.&lt;br&gt;&lt;br&gt;Clique com o botão direito do mouse e, então, selecione o pet que deseja transformar em familiar. O familiar transformado será adicionado ao seu bestiário." />
+  <keys prop="Description" type="item" key="CA_FE_FB_0006" value="Impulsionador da Evolução do Criado (1 hora)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0007" value="Impulsionador da Evolução do Criado (3 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0006_description" value="Item utilizado para nutrir um familiar. Pode ser usado em familiar acolhido e o efeito aumentado 4 vezes é aplicado por 1 hora.&lt;R_Y&gt;Não é possível cancelar o item que foi aplicado. Quando o familiar acolhido é recuperado, o item desaparecerá.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0007_description" value="Impulsionador de EXP x4 de Familiar para Testes" />
+  <keys prop="Description" type="item" key="SF1_1_000_1001" value="Pedra-Lacre Heroica" />
+  <keys prop="Description" type="item" key="SF1_4_000_4001" value="Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="IT_FE_EF_1000" value="Extrator de Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="SF1_1_000_1001_description" value="Uma pedra que pode lacrar familiares heroicos para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_4001_description" value="Uma pedra que pode lacrar familiares lendários para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_EF_1000_description" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. Uma vez extraído, o familiar será armazenado como um pet de nível 1. Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item." />
+  <keys prop="Name" type="item" key="FM_000_0017" value="Pergaminho de Familiar Comum" />
+  <keys prop="Description" type="item" key="FM_000_0017" value="Um pergaminho que pode transformar pets comuns ou inferiores em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0018" value="Pergaminho de Familiar de Elite" />
+  <keys prop="Description" type="item" key="FM_000_0018" value="Um pergaminho que pode transformar pets de elite em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0019" value="Pergaminho de Familiar Heroico" />
+  <keys prop="Description" type="item" key="FM_000_0019" value="Um pergaminho que pode transformar pets heroicos em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0020" value="Pergaminho de Familiar Lendário" />
+  <keys prop="Description" type="item" key="FM_000_0020" value="Um pergaminho que pode transformar pets lendários em familiares, contanto que o nível dele seja pelo menos 1 abaixo do seu.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Clique com o botão direito do mouse, então selecione o pet que você deseja transformar em um familiar.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_0_000_0101" value="Pedra-Lacre Elite" />
+  <keys prop="Description" type="item" key="SF1_0_000_0101" value="Uma pedra que pode lacrar familiares elite para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_1_000_0100" value="Pedra-Lacre Heroica" />
+  <keys prop="Description" type="item" key="SF1_1_000_0100" value="Uma pedra que pode lacrar familiares heroicos para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0100" value="Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="SF1_4_000_0100" value="Uma pedra que pode lacrar familiares lendários para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0101" value="Pedra-Lacre Lendária Inferior" />
+  <keys prop="Description" type="item" key="SF1_4_000_0101" value="Pedra-Lacre capaz de lacrar um familiar lendário de Nível inferior ao 45. Pode lacrar um familiar de categoria inferior desde que o Nível de personagem ou de familiar seja inferior ao 45.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Após clique direito, use no Familiar/Pet que deseja lacrar&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_4_000_0102" value="Pedra-Lacre Lendária Inferior" />
+  <keys prop="Description" type="item" key="SF1_4_000_0102" value="Pedra-Lacre capaz de lacrar um familiar lendário de Nível inferior ao 45. Pode lacrar um familiar de categoria inferior desde que o Nível de personagem ou de familiar seja inferior ao 45.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Após clique direito, use no Familiar/Pet que deseja lacrar&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;Familiares lacrados podem ser usados para melhorar equipamentos e aumentar o poder do talento.&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;Uma vez lacrado, um familiar não pode ser deslacrado.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0000" value="Pergaminho de Reiniciar Coleção de Familiar" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0000" value="Pergaminho de Reinicialização de Coleção Especial&#xD;&#xA;Os pontos de Conquista e Ellun não são consumidos para reinicialização.&#xD;&#xA;&#xD;&#xA;&lt;O_Y&gt;Pode ser usado durante o tempo de recarga, e esse será redefinido.&lt;/O_Y&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0001" value="Pergaminho de Reiniciar Coleção de Familiar" />
+  <keys prop="Description" type="item" key="CA_FE_FC_0001" value="Pergaminho de Reinicialização de Coleção Especial&#xD;&#xA;Os pontos de Conquista e Ellun não são consumidos para reinicialização.&#xD;&#xA;&#xD;&#xA;&lt;O_Y&gt;Pode ser usado durante o tempo de recarga, e esse será redefinido.&lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="SF1_4_001_0000" value="Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="SF1_4_001_0000" value="Uma pedra que pode lacrar familiares lendários para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="PvP_CO_FE_0001" value="Extrator de Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="PvP_CO_FE_0001" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. &#xD;&#xA;&lt;O_Y&gt;Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +5.&lt;/O_Y&gt;&#xD;&#xA;&lt;O_Y&gt;O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. &lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="FI_FE_EM_0001" value="Extrator de Pedra-Lacre Heroica +5" />
+  <keys prop="Description" type="item" key="FI_FE_EM_0001" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +5." />
+  <keys prop="Name" type="item" key="FI_FE_EM_0002" value="Extrator de Pedra-Lacre Lendária +5" />
+  <keys prop="Description" type="item" key="FI_FE_EM_0002" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +5." />
+  <keys prop="Name" type="item" key="IT_FE_EF_0011" value="Extrator de Pedra-Lacre Lendária +5" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0011" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +5." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0004" value="Extrator de Pedra-Lacre Heroica +7" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0004" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +7." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0005" value="Extrator de Pedra-Lacre Lendária +7" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0005" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +7." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0006" value="Extrator de Pedra-Lacre Heroica +7" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0006" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +7." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0007" value="Extrator de Pedra-Lacre Lendária +7" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0007" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +7." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0008" value="Extrator de Pedra-Lacre Heroica +6" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0008" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +6." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0009" value="Extrator de Pedra-Lacre Lendária +6" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0009" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +6." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0010" value="Extrator de Pedra-Lacre Heroica +6" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0010" value="Permite que você extraia um familiar lacrado de raridade heroica ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +6." />
+  <keys prop="Name" type="item" key="CA_FE_EM_0011" value="Extrator de Pedra-Lacre Lendária +6" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0011" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. O nível do seu personagem deve ser pelo menos o mesmo que o nível máximo do familiar para realizar a extração. Uma vez extraído, o familiar será armazenado como um pet de nível máximo com nível de têmpera +6." />
+  <keys prop="Name" type="item" key="TS_FA_FB_0999" value="Impulsionador de Aventura de Familiar (Teste)" />
+  <keys prop="Description" type="item" key="TS_FA_FB_0999" value="Impulsionador de Aventura de Familiar Para Teste" />
+  <keys prop="Name" type="item" key="PvP_CO_FE_0002" value="Extrator Lendário +5" />
+  <keys prop="Description" type="item" key="PvP_CO_FE_0002" value="Extracts the Legendary Familiar seal stone at +5 Tempered status. Only legendary or below familiars are viable.&#xD;&#xA;&lt;O_Y&gt;When extracted, Max. level +5 Tempered pet is registered in the familiar storage&lt;/O_Y&gt;&#xD;&#xA;&lt;O_Y&gt;The familiar will not be extracted when the player's level is lower than the max. level of the familiar to be extracted.&lt;/O_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Familiar's grade should be matched&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0008" value="Impulsionador da Evolução (1 hora)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0008" value="Item usado no Acolhimento de Familiar&#xD;&#xA;Pode ser usado no familiar acolhido e, ao ser utilizado, dobro do efeito será aplicado durante 1 hora.&#xD;&#xA;&lt;R_Y&gt;Item aplicado não pode ser cancelado e item desaparecerá caso resgatar o familiar acolhido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0009" value="Impulsionador da Evolução (3 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0009" value="Item usado no Acolhimento de Familiar&#xD;&#xA;Pode ser usado no familiar acolhido e, ao ser utilizado, dobro do efeito será aplicado durante 3 horas.&#xD;&#xA;&lt;R_Y&gt;Item aplicado não pode ser cancelado e item desaparecerá caso resgatar o familiar acolhido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_FB_0010" value="Impulsionador da Evolução (6 horas)" />
+  <keys prop="Description" type="item" key="CA_FE_FB_0010" value="Item usado no Acolhimento de Familiar&#xD;&#xA;Pode ser usado no familiar acolhido e, ao ser utilizado, dobro do efeito será aplicado durante 6 horas.&#xD;&#xA;&lt;R_Y&gt;Item aplicado não pode ser cancelado e item desaparecerá caso resgatar o familiar acolhido.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_EF_0012" value="Extrator de Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="IT_FE_EF_0012" value="Permite que você extraia um familiar lacrado de raridade lendária ou inferior de um item. &#xD;&#xA;&lt;O_Y&gt;Uma vez extraído, o familiar será armazenado como um pet de Nível 1&lt;/O_Y&gt;&#xD;&#xA;&lt;O_Y&gt;Esse processo cancela quaisquer níveis de aprimoramento e efeitos no item&lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="SF1_4_000_0103" value="Pedra-Lacre Lendária" />
+  <keys prop="Description" type="item" key="SF1_4_000_0103" value="Uma pedra que pode lacrar familiares lendários para que possam ser anexados aos equipamentos ou consumidos para aumentar os pontos de talento.&lt;It_G&gt;O familiar deve ser da mesma raridade que a pedra.&lt;/It_G&gt;&lt;It_G&gt;O familiar deve estar abaixo do nível do seu personagem.&lt;/It_G&gt;&lt;It_G&gt;O familiar uma vez lacrado, não pode ter o lacre removido.&lt;/It_G&gt;&lt;It_G&gt;Clique com o Botão Direito, então selecione o familiar que deseja transformar em um pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="EV_FE_FC_0001" value="Pergaminho de Reiniciar Coleção de Familiar" />
+  <keys prop="Description" type="item" key="EV_FE_FC_0001" value="Pergaminho de Reinicialização de Coleção Especial&#xD;&#xA; Os pontos de Conquista e Ellun não são consumidos para reinicialização.&#xD;&#xA;&#xD;&#xA;&lt;O_Y&gt;Pode ser usado durante o tempo de recarga, e esse será redefinido.&lt;/O_Y&gt; " />
+  <keys prop="Name" type="item" key="IT_FA_FB_0001" value="Adventure Booster (10%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0002" value="Adventure Booster (30%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0003" value="Adventure Booster (35%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0004" value="Adventure Booster (45%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0005" value="Adventure Booster (50%)" />
+  <keys prop="Name" type="item" key="IT_FA_FB_0006" value="Adventure Booster (100%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0001" value="Use this to speed up familiar adventure time up to 10%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0002" value="Use this to speed up familiar adventure time up to 30%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0003" value="Use this to speed up familiar adventure time up to 35%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0004" value="Use this to speed up familiar adventure time up to 45%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0005" value="Use this to speed up familiar adventure time up to 50%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0006" value="Use this to speed up familiar adventure time up to 100%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_FB_0000" value="Growth booster (2 hours)" />
+  <keys prop="Name" type="item" key="IT_FE_FB_0001" value="High-Speed Growth Booster (2 hours)" />
+  <keys prop="Description" type="item" key="IT_FE_FB_0000" value="Items used for Familiar Forstering&#xD;&#xA;  It can be used for the familair who is fostered, and twice the effect is applied for 2 hours when applied.&#xD;&#xA;  &lt;R_Y&gt; Applied items can not be canceled, and items will disappear when recalling the fostered familiar. &lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_FB_0001" value="Items used for Familiar Forstering&#xD;&#xA;  It can be used for the familair who is fostered, and 4 times the effect is applied for 2 hours when applied.&#xD;&#xA;  &lt;R_Y&gt; Applied items can not be canceled, and items will disappear when recalling the fostered familiar. &lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0004" value="Cartão de Captura" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0005" value="Cartão de Captura Brilhante" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0006" value="Cartão de Captura Predestinada" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0004" value="Você pode invocar um círculo mágico com um cartão mágico para capturar monstros.&#xD;&#xA;&#xD;&#xA;- &lt;It_G&gt;Clique com o botão direito do mouse e use-o para localizar o pet que deseja capturar&lt;/It_G&gt;&#xD;&#xA;- &lt;It_G&gt;Se não houver alvo de captura onde você o usa, o item não será consumido.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0005" value="Você pode invocar um círculo mágico com um cartão mágico para capturar monstros.&#xD;&#xA;&#xD;&#xA;- &lt;It_G&gt;Clique com o botão direito do mouse e use-o para localizar o pet que deseja capturar&lt;/It_G&gt;&#xD;&#xA;- &lt;It_G&gt;Se não houver alvo de captura onde você o usa, o item não será consumido.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0006" value="Você pode invocar um círculo mágico com um cartão mágico para capturar monstros.&#xD;&#xA;Tem uma probabilidade maior de sucesso do que outras cartas de captura.&#xD;&#xA;&#xD;&#xA;- &lt;It_G&gt;Clique com o botão direito do mouse e use-o para localizar o pet que deseja capturar&lt;/It_G&gt;&#xD;&#xA;- &lt;It_G&gt;Se não houver alvo de captura onde você o usa, o item não será consumido.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0007" value="Cartão de captura Para Prática" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0007" value="Você pode capturar monstros invocando um círculo mágico com um cartão pago pela prática.&#xD;&#xA;&#xD;&#xA;- &lt;It_G&gt;Clique com o botão direito do mouse e use-o para localizar o pet que deseja capturar&lt;/It_G&gt;&#xD;&#xA;- &lt;It_G&gt;Se não houver alvo de captura onde você o usa, o item não será consumido.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0008" value="Cartão de Captura Predestinada" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0008" value="Você pode invocar um círculo mágico com um cartão mágico para capturar monstros.&#xD;&#xA;Tem uma probabilidade maior de sucesso do que outras cartas de captura.&#xD;&#xA;&#xD;&#xA;- &lt;It_G&gt;Clique com o botão direito do mouse e use-o para localizar o pet que deseja capturar&lt;/It_G&gt;&#xD;&#xA;- &lt;It_G&gt;Se não houver alvo de captura onde você o usa, o item não será consumido.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="FM_000_0002_1" value="Heroic Pet Scroll" />
+  <keys prop="Description" type="item" key="FM_000_0002_1" value="A scroll that can transform heroic mount familiars into pets, so long as their level is the smae as yours or below.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Right-click, then select the familiar you wish to change into a pet.&lt;/It_G&gt;" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0009" value="Cartão de Captura Brilhante" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0009" value="Você pode invocar um círculo mágico com um cartão mágico para capturar monstros.&#xD;&#xA;&#xD;&#xA;- &lt;It_G&gt;Clique com o botão direito do mouse e use-o para localizar o pet que deseja capturar&lt;/It_G&gt;&#xD;&#xA;- &lt;It_G&gt;Se não houver alvo de captura onde você o usa, o item não será consumido.&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0007" value="Adventure Booster(5%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0008" value="Adventure Booster(15%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0009" value="Adventure Booster(20%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0010" value="Adventure Booster(25%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0011" value="Adventure Booster(40%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0012" value="Adventure Booster(55%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0013" value="Adventure Booster(60%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0014" value="Adventure Booster(65%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0015" value="Adventure Booster(70%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0016" value="Adventure Booster(75%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0017" value="Adventure Booster(80%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0018" value="Adventure Booster(85%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0019" value="Adventure Booster(90%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0020" value="Adventure Booster(95%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0021" value="Adventure Booster(5%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0022" value="Adventure Booster(10%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0023" value="Adventure Booster(15%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0024" value="Adventure Booster(20%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0025" value="Adventure Booster(25%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0026" value="Adventure Booster(30%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0027" value="Adventure Booster(35%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0028" value="Adventure Booster(40%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0029" value="Adventure Booster(45%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0030" value="Adventure Booster(50%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0031" value="Adventure Booster(55%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0032" value="Adventure Booster(60%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0033" value="Adventure Booster(65%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0034" value="Adventure Booster(70%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0035" value="Adventure Booster(75%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0036" value="Adventure Booster(80%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0037" value="Adventure Booster(85%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0038" value="Adventure Booster(90%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0039" value="Adventure Booster(95%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0040" value="Adventure Booster(100%)" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0007" value="Use this to speed up familiar adventure time up to 5%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0008" value="Use this to speed up familiar adventure time up to 15%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0009" value="Use this to speed up familiar adventure time up to 20%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0010" value="Use this to speed up familiar adventure time up to 25%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0011" value="Use this to speed up familiar adventure time up to 40%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0012" value="Use this to speed up familiar adventure time up to 55%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0013" value="Use this to speed up familiar adventure time up to 60%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0014" value="Use this to speed up familiar adventure time up to 65%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0015" value="Use this to speed up familiar adventure time up to 70%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0016" value="Use this to speed up familiar adventure time up to 75%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0017" value="Use this to speed up familiar adventure time up to 80%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0018" value="Use this to speed up familiar adventure time up to 85%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0019" value="Use this to speed up familiar adventure time up to 90%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0020" value="Use this to speed up familiar adventure time up to 95%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0021" value="Use this to speed up familiar adventure up to 5%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0022" value="Use this to speed up familiar adventure up to 10%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0023" value="Use this to speed up familiar adventure up to 15%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0024" value="Use this to speed up familiar adventure up to 20%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0025" value="Use this to speed up familiar adventure up to 25%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0026" value="Use this to speed up familiar adventure up to 30%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0027" value="Use this to speed up familiar adventure up to 35%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0028" value="Use this to speed up familiar adventure up to 40%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0029" value="Use this to speed up familiar adventure up to 45%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0030" value="Use this to speed up familiar adventure up to 50%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0031" value="Use this to speed up familiar adventure up to 55%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0032" value="Use this to speed up familiar adventure up to 60%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0033" value="Use this to speed up familiar adventure up to 65%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0034" value="Use this to speed up familiar adventure up to 70%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0035" value="Use this to speed up familiar adventure up to 75%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0036" value="Use this to speed up familiar adventure up to 80%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0037" value="Use this to speed up familiar adventure up to 85%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0038" value="Use this to speed up familiar adventure up to 90%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0039" value="Use this to speed up familiar adventure up to 95%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Description" type="item" key="IT_FA_FB_0040" value="Use this to speed up familiar adventure up to 100%.&lt;br&gt;&lt;br&gt;&lt;R_Y&gt;Cannot be retrieved once used, effect persists until the end of the adventure.&lt;/R_Y&gt;" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0101" value="Mythic Extractor" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0102" value="+5 Enhanced Mythic Extractor" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0103" value="+6 Enhanced Mythic Extractor" />
+  <keys prop="Name" type="item" key="CA_FE_EM_0104" value="+7 Enhanced Mythic Extractor" />
+  <keys prop="Name" type="item" key="FM_000_0111" value="Mythic Fellow Order" />
+  <keys prop="Name" type="item" key="FM_000_0112" value="Mythic Pet Order" />
+  <keys prop="Name" type="item" key="SF1_7_000_0000" value="Mythic Sealing Stone" />
+  <keys prop="Name" type="item" key="IT_FE_CA_0101" value="Mythic Capture Card" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0101" value="This is an extraction rod that can extract the Myth Fellow sealing stone attached to the item.&#xD;&#xA;&lt;O_Y&gt;When extracted, register as a level 1 pet in the fellow storage box&lt;/O_Y&gt;&#xD;&#xA;&lt;O_Y&gt;When extracted, all enhancement values and effects are reset&lt;/O_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Can only be used if Fellow's level is met&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0102" value="This is an extraction rod that allows you to extract the Myth Fellow sealing stone equipped in the item in a +5 enhanced state.&#xD;&#xA;&lt;O_Y&gt;When extracted, register in the Fellow Storage as a pet with a maximum level of +5 enhancement&lt;/O_Y&gt;&#xD;&#xA;&lt;O_Y&gt;Unable to extract if the character level is lower than the maximum level of the Fellow to be extracted&lt;/O_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Can only be used if Fellow's level is met&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0103" value="This is an extraction rod that allows you to extract the Myth Fellow sealing stone equipped in the item with +6 enhancement.&#xD;&#xA;&lt;O_Y&gt;When extracted, register in the Fellow Storage as a pet with a maximum level of +6 enhancement&lt;/O_Y&gt;&#xD;&#xA;&lt;O_Y&gt;Unable to extract if the character level is lower than the maximum level of the Fellow to be extracted&lt;/O_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Can only be used if Fellow's level is met&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="CA_FE_EM_0104" value="This is an extraction rod that allows you to extract the Myth Fellow sealing stone equipped in the item with +7 enhancement.&#xD;&#xA;&lt;O_Y&gt;When extracted, register in the Fellow Storage as a pet with a maximum level of +7 enhancement&lt;/O_Y&gt;&#xD;&#xA;&lt;O_Y&gt;Unable to extract if the character level is lower than the maximum level of the Fellow to be extracted&lt;/O_Y&gt;&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Can only be used if Fellow's level is met&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0111" value="A scroll that can transform a myth grade pet&#xD;&#xA;Only pets below the character level, including lower grades, can be transformed into Fellows.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Right click and use on the pet you want to transform into a fellow&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="FM_000_0112" value="A scroll that can transform a Myth level Fellow&#xD;&#xA;Only Fellows below the character level, including lower ranks, can be transformed into pets.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Right click and use on the fellow you want to transform into a pet&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="SF1_7_000_0000" value="A sealing stone that can seal myth level fellows.&#xD;&#xA;Only Fellows below the character level, including lower ranks, can be sealed.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt;Right click and use on the Fellow/Pet you want to seal&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;Seal Fellows gain equipment options and increase their attributes&lt;/It_G&gt;&#xD;&#xA;&lt;It_G&gt;Once sealed, fellows cannot be unsealed again&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="IT_FE_CA_0101" value="You can capture monsters by summoning a capture magic circle with a card imbued with magic.&#xD;&#xA;&#xD;&#xA;- &lt;It_G&gt;Right click and use at the location of the pet you want to capture&lt;/It_G&gt;&#xD;&#xA;- &lt;It_G&gt;The item is not consumed if there is no capture target where it is used.&lt;/It_G&gt;" />
 </files>

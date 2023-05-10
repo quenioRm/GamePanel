@@ -1,298 +1,593 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="N_F08_Weapon_001" value="Bigorna para Armas" />
-  <keys type="npc" key="N_F08_Amor_001" value="Bigorna para Armaduras" />
-  <keys type="npc" key="N_F08_Cook_001" value="Estação de Cozimento" />
-  <keys type="npc" key="N_F08_Alchemy_001" value="Laboratório de Alquimia" />
-  <keys type="npc" key="N_F08_Accessory_001" value="Bancada de Ourives" />
-  <keys type="npc" key="N_F08_Fellow_001" value="Mesa de Criação de Selaria" />
-  <keys type="npc" key="N_F08_Portal_100" value="Santuário de Regiões" />
-  <keys type="npc" key="N_F08_Portal_001" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F08_Portal_002" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F08_Portal_003" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F08_Portal_004" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F08_Portal_005" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F08_Portal_006" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F08_Portal_007" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_F08_Board_001" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_Board_002" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_Board_003" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_Board_004" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_Board_005" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_Board_006" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_Board_007" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_Board_008" value="Quadro de Missões" />
-  <keys type="npc" key="N_F08_1_1101" value="Kite" />
-  <keys type="npc" key="N_F08_1_1102" value="Louis Lebrini" />
-  <keys type="npc" key="N_F08_1_1103" value="Muzaka" />
-  <keys type="npc" key="N_F08_1_1104" value="Vernon" />
-  <keys type="npc" key="N_F08_1_1105" value="Urmi" />
-  <keys type="npc" key="N_F08_1_1106" value="Jonathan" />
-  <keys type="npc" key="N_F08_1_1107" value="Bailey" />
-  <keys type="npc" key="N_F08_1_1108" value="Chris Bale" />
-  <keys type="npc" key="N_F08_1_1109" value="Yorris Bale" />
-  <keys type="npc" key="N_F08_1_1110" value="Parmati" />
-  <keys type="npc" key="N_F08_1_1111" value="Minnow" />
-  <keys type="npc" key="N_F08_1_1112" value="Bailin" />
-  <keys type="npc" key="N_F08_1_1113" value="Christian" />
-  <keys type="npc" key="N_F08_1_1114" value="Eshian" />
-  <keys type="npc" key="N_F08_1_1115" value="Heinkes" />
-  <keys type="npc" key="N_F08_1_1116" value="Murant" />
-  <keys type="npc" key="N_F08_1_1117" value="Theo" />
-  <keys type="npc" key="N_F08_1_1118" value="Antoine" />
-  <keys type="npc" key="N_F08_1_1119" value="Simone" />
-  <keys type="npc" key="N_F08_1_1120" value="Ferrina" />
-  <keys type="npc" key="N_F08_1_1121" value="Pierro" />
-  <keys type="npc" key="N_F08_1_1122" value="Whitney" />
-  <keys type="npc" key="N_F08_1_1123" value="Rene" />
-  <keys type="npc" key="N_F08_1_1124" value="Lamella" />
-  <keys type="npc" key="N_F08_1_2101" value="Ethan" />
-  <keys type="npc" key="N_F08_2_1101" value="Ailo" />
-  <keys type="npc" key="N_F08_2_1102" value="Anbou" />
-  <keys type="npc" key="N_F08_2_1103" value="Hogarth" />
-  <keys type="npc" key="N_F08_2_1104" value="Paijin" />
-  <keys type="npc" key="N_F08_2_1105" value="Dian" />
-  <keys type="npc" key="N_F08_2_1106" value="Aiji" />
-  <keys type="npc" key="N_F08_2_1107" value="Tsurugi" />
-  <keys type="npc" key="N_F08_2_1108" value="Sebrinch" />
-  <keys type="npc" key="N_F08_2_1109" value="Aano" />
-  <keys type="npc" key="N_F08_2_1110" value="Foggy" />
-  <keys type="npc" key="N_F08_2_1111" value="Rico" />
-  <keys type="npc" key="N_F08_2_1112" value="Ferrero" />
-  <keys type="npc" key="N_F08_2_1113" value="Nabian" />
-  <keys type="npc" key="N_F08_2_1114" value="Vanilla" />
-  <keys type="npc" key="N_F08_2_1115" value="Fortuna" />
-  <keys type="npc" key="N_F08_2_2101" value="Feindal" />
-  <keys type="npc" key="N_F08_2_2102" value="Aileen" />
-  <keys type="npc" key="N_F08_2_2103" value="Grandalf" />
-  <keys type="npc" key="N_F08_2_3101" value="Fredo" />
-  <keys type="npc" key="N_F08_2_3102" value="Hannety" />
-  <keys type="npc" key="N_F08_2_3103" value="Amon" />
-  <keys type="npc" key="N_F08_2_3104" value="Arumi" />
-  <keys type="npc" key="N_F08_2_3105" value="Abianno" />
-  <keys type="npc" key="N_F08_2_3106" value="Seiko" />
-  <keys type="npc" key="N_F08_2_4101" value="Tilly" />
-  <keys type="npc" key="N_F08_2_4102" value="Aioni" />
-  <keys type="npc" key="N_F08_3_1101" value="Gurte" />
-  <keys type="npc" key="N_F08_3_1102" value="Lamia" />
-  <keys type="npc" key="N_F08_3_1103" value="Garana" />
-  <keys type="npc" key="N_F08_3_1104" value="Randini" />
-  <keys type="npc" key="N_F08_3_1105" value="Mileyn" />
-  <keys type="npc" key="N_F08_3_1106" value="Ireel" />
-  <keys type="npc" key="N_F08_3_1107" value="Celestine" />
-  <keys type="npc" key="N_F08_3_1108" value="Cecilia" />
-  <keys type="npc" key="N_F08_3_1109" value="Corelia" />
-  <keys type="npc" key="N_F08_3_2101" value="Saiton" />
-  <keys type="npc" key="N_F08_3_2102" value="Brennan" />
-  <keys type="npc" key="N_F08_3_2103" value="Arturo" />
-  <keys type="npc" key="N_F08_3_2104" value="Chandler" />
-  <keys type="npc" key="N_F08_3_2105" value="Cha Lin" />
-  <keys type="npc" key="N_F08_3_2106" value="Coix" />
-  <keys type="npc" key="N_F08_3_2107" value="Esian" />
-  <keys type="npc" key="N_F08_3_3101" value="Dynin" />
-  <keys type="npc" key="N_F08_3_3102" value="Iton" />
-  <keys type="npc" key="N_F08_4_1101" value="Grandal" />
-  <keys type="npc" key="N_F08_4_1102" value="Spinney" />
-  <keys type="npc" key="N_F08_4_1103" value="Braun" />
-  <keys type="npc" key="N_F08_4_1104" value="Murakami" />
-  <keys type="npc" key="N_F08_4_1105" value="Abraão" />
-  <keys type="npc" key="N_F08_4_2101" value="Gacha" />
-  <keys type="npc" key="N_F08_4_2102" value="Hailey" />
-  <keys type="npc" key="N_F08_4_3101" value="Maillin" />
-  <keys type="npc" key="N_F08_4_3102" value="Guarin" />
-  <keys type="npc" key="N_F08_4_3103" value="Celie" />
-  <keys type="npc" key="N_F08_4_3104" value="Justine" />
-  <keys type="npc" key="N_F08_4_3105" value="Sentein" />
-  <keys type="npc" key="N_F08_4_3106" value="Frei" />
-  <keys type="npc" key="N_F08_4_3107" value="Nevan" />
-  <keys type="npc" key="N_F08_4_3108" value="Alvis" />
-  <keys type="npc" key="N_F08_4_3109" value="Oz" />
-  <keys type="npc" key="N_F08_4_3110" value="Elise" />
-  <keys type="npc" key="N_F08_4_3111" value="Kerkim" />
-  <keys type="npc" key="N_F08_4_3112" value="Sonnet" />
-  <keys type="npc" key="N_F08_4_3113" value="Parser" />
-  <keys type="npc" key="N_F08_4_3114" value="Alvorada" />
-  <keys type="npc" key="N_F08_4_3115" value="Burd" />
-  <keys type="npc" key="N_F08_5_1101" value="Daido" />
-  <keys type="npc" key="N_F08_5_1102" value="Chalidge" />
-  <keys type="npc" key="N_F08_5_1103" value="Vesti" />
-  <keys type="npc" key="N_F08_5_1104" value="Curtis" />
-  <keys type="npc" key="N_F08_5_1105" value="Tarmat" />
-  <keys type="npc" key="N_F08_6_1101" value="Van Owen Lebrini" />
-  <keys type="npc" key="N_F08_6_1102" value="Penelope" />
-  <keys type="npc" key="N_F08_7_1101" value="Marinheiro Morto" />
-  <keys type="npc" key="N_F08_7_1102" value="Marinheiro Ferido" />
-  <keys type="npc" key="N_F08_7_1103" value="Sacerdotisa Yana" />
-  <keys type="npc" key="N_F08_Cutscene_0001" value="Princesa Lania" />
-  <keys type="npc" key="N_F08_Cutscene_0002" value="Salant" />
-  <keys type="npc" key="N_F08_7_1301" value="Romanson" />
-  <keys type="npc" key="N_F08_7_1302" value="Clack Domado" />
-  <keys type="npc" key="N_F08_1_1301" value="Zeromin" />
-  <keys type="npc" key="N_F08_1_1302" value="Valgas" />
-  <keys type="npc" key="N_F08_1_1303" value="Porus" />
-  <keys type="npc" key="N_F08_1_1304" value="Rokun" />
-  <keys type="npc" key="N_F08_1_1305" value="Shizu" />
-  <keys type="npc" key="N_F08_1_1306" value="Ani" />
-  <keys type="npc" key="N_F08_1_1307" value="Sasha" />
-  <keys type="npc" key="N_F08_1_1308" value="Jarad" />
-  <keys type="npc" key="N_F08_1_1309" value="Trak" />
-  <keys type="npc" key="N_F08_1_1310" value="Mirren" />
-  <keys type="npc" key="N_F08_2_1301" value="Cecil" />
-  <keys type="npc" key="N_F08_2_1302" value="Henry" />
-  <keys type="npc" key="N_F08_2_1303" value="Hansen" />
-  <keys type="npc" key="N_F08_3_1301" value="Igor" />
-  <keys type="npc" key="N_F08_3_1302" value="Kurodian" />
-  <keys type="npc" key="N_F08_3_1303" value="Kurodian" />
-  <keys type="npc" key="N_F08_4_1301" value="Catherine" />
-  <keys type="npc" key="N_F08_4_1302" value="Tasha" />
-  <keys type="npc" key="N_F08_4_1303" value="Silveth" />
-  <keys type="npc" key="N_F08_4_1304" value="Jarad" />
-  <keys type="npc" key="N_F08_4_1305" value="Silveth" />
-  <keys type="npc" key="N_F08_4_1306" value="Sasha" />
-  <keys type="npc" key="N_F08_7_1201" value="Allen" />
-  <keys type="npc" key="N_F08_7_1202" value="Sylvia" />
-  <keys type="npc" key="N_F08_7_1203" value="Soldado Ferido" />
-  <keys type="npc" key="N_F08_7_1204" value="Soldado Ferido" />
-  <keys type="npc" key="N_F08_7_1205" value="Soldado Ferido" />
-  <keys type="npc" key="N_F08_7_1206" value="Soldado Ferido" />
-  <keys type="npc" key="N_F08_7_1207" value="Aldeão do Desfiladeiro Grandioso" />
-  <keys type="npc" key="N_F08_7_1208" value="Aldeão do Desfiladeiro Grandioso" />
-  <keys type="npc" key="N_F08_1_1201" value="Guarda da Aldeia do Desfiladeiro Grandioso" />
-  <keys type="npc" key="N_F08_1_1202" value="Guarda da Aldeia do Desfiladeiro Grandioso" />
-  <keys type="npc" key="N_F08_1_1203" value="Patrulheiro da Aldeia do Desfiladeiro Grandioso" />
-  <keys type="npc" key="N_F08_1_1204" value="Taylor, Chefe da Guarda" />
-  <keys type="npc" key="N_F08_1_1205" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1206" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1207" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1208" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1209" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1210" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1211" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1212" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1213" value="Aldeã" />
-  <keys type="npc" key="N_F08_1_1214" value="Aldeã" />
-  <keys type="npc" key="N_F08_2_1201" value="Guarda da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_2_1202" value="Guarda da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_2_1203" value="Patrulheiro da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_2_1204" value="Soldado Ferido" />
-  <keys type="npc" key="N_F08_2_1205" value="Fantasma de um Soldado" />
-  <keys type="npc" key="N_F08_2_1206" value="Trabalhador da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_2_1207" value="Trabalhador da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_2_1208" value="Aldeã da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_2_1209" value="Aldeão da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_2_1210" value="Círculo Interno de Crokhoon" />
-  <keys type="npc" key="N_F08_2_1211" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1212" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1213" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1214" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1215" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1216" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1217" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1218" value="Soldado de Ithilis" />
-  <keys type="npc" key="N_F08_2_1219" value="Patrulheiro de Ithilis" />
-  <keys type="npc" key="N_F08_2_1220" value="Patrulheiro de Ithilis" />
-  <keys type="npc" key="N_F08_2_1221" value="Patrulheiro de Ithilis" />
-  <keys type="npc" key="N_F08_2_2201" value="Ahmak" />
-  <keys type="npc" key="N_F08_3_1201" value="Croat" />
-  <keys type="npc" key="N_F08_3_1202" value="Keto" />
-  <keys type="npc" key="N_F08_3_1203" value="Konatsu" />
-  <keys type="npc" key="N_F08_3_1204" value="Alma Anciã" />
-  <keys type="npc" key="N_F08_3_1205" value="Santuário de Transporte de Sasha" />
-  <keys type="npc" key="N_F08_3_1206" value="Guarda da Prisão do Posto de Comando Abandonado" />
-  <keys type="npc" key="N_F08_3_1207" value="Guarda da Prisão do Posto de Comando Abandonado" />
-  <keys type="npc" key="N_F08_3_2201" value="Kakaji" />
-  <keys type="npc" key="N_F08_3_2202" value="Makaru" />
-  <keys type="npc" key="N_F08_3_2203" value="Barag" />
-  <keys type="npc" key="N_F08_3_2204" value="Guardas da Prisão" />
-  <keys type="npc" key="N_F08_4_1201" value="Patrulheiro Kips" />
-  <keys type="npc" key="N_F08_4_1202" value="Patrulheiro Iowa" />
-  <keys type="npc" key="N_F08_4_2201" value="Servo do Rei dos Insetos" />
-  <keys type="npc" key="N_F08_4_2202" value="Servo do Rei dos Insetos" />
-  <keys type="npc" key="N_F08_4_2203" value="Servo do Rei dos Insetos" />
-  <keys type="npc" key="N_F08_4_2204" value="Servo do Rei dos Insetos" />
-  <keys type="npc" key="N_F08_4_2205" value="Guardião" />
-  <keys type="npc" key="N_F08_4_2206" value="Guardião" />
-  <keys type="npc" key="N_F08_4_2207" value="Patrulheiro" />
-  <keys type="npc" key="N_F08_1_1401" value="Escorpião Mutante Domado" />
-  <keys type="npc" key="N_F08_2_1401" value="Freig Domado" />
-  <keys type="npc" key="N_F08_2_3401" value="Snarl Domado" />
-  <keys type="npc" key="N_F08_3_1401" value="Daiden Domado" />
-  <keys type="npc" key="N_F08_3_2401" value="Zangão Domado" />
-  <keys type="npc" key="N_F08_4_1401" value="Wyrm Esmeralda Domado" />
-  <keys type="npc" key="N_F08_4_3401" value="Kaliart Domado" />
-  <keys type="npc" key="N_F08_5_1401" value="Corbelt Domado" />
-  <keys type="npc" key="N_F08_6_1103" value="Guarda Axel" />
-  <keys type="npc" key="N_F08_6_1104" value="Subordinada Kendall" />
-  <keys type="npc" key="N_D07_1_1101" value="Explorador Aevin" />
-  <keys type="npc" key="N_D07_1_1102" value="Explorador Aevin" />
-  <keys type="npc" key="N_F08_6_1105" value="Explorador Aevin" />
-  <keys type="npc" key="N_D07_1_1103" value="Lojista Morrow" />
-  <keys type="npc" key="N_F08_1_1402" value="Lojista Morrow" />
-  <keys type="npc" key="N_F08_1_1403" value="Comerciante Hammeron" />
-  <keys type="npc" key="N_F08_1_1404" value="Pesquisadora Serena" />
-  <keys type="npc" key="N_F08_Rescue_0001" value="Yummi Lebrini" />
-  <keys type="npc" key="N_F08_Rescue_0002" value="Yummi Lebrini" />
-  <keys type="npc" key="N_F08_1_1405" value="Guardião da Pedra Mágica" />
-  <keys type="npc" key="N_F08_1_1406" value="Guardião da Pedra Mágica" />
-  <keys type="npc" key="N_F08_1_1215" value="Soldado Cavaleiro do Desfiladeiro Grandioso" />
-  <keys type="npc" key="N_F08_2_1222" value="Soldado Cavaleiro da Fortaleza de Ithilis" />
-  <keys type="npc" key="N_F08_4_2208" value="Soldado Cavaleiro" />
-  <keys type="npc" key="n_f08_7_1209" value="Guvan" />
-  <keys type="npc" key="n_f08_7_1210" value="Guvan" />
-  <keys type="npc" key="n_f08_quest_01" value="" />
-  <keys type="npc" key="n_f08_quest_02" value="Restos do Suprimento de Itilide" />
-  <keys type="npc" key="n_f08_quest_03" value="" />
-  <keys type="npc" key="n_f08_quest_04" value="" />
-  <keys type="npc" key="n_f08_quest_05" value="Equipe de Pesquisa" />
-  <keys type="npc" key="n_f08_quest_06" value="Equipe de Pesquisa" />
-  <keys type="npc" key="n_f08_quest_07" value="Equipe de Pesquisa" />
-  <keys type="npc" key="n_f08_quest_08" value="Equipe de Pesquisa" />
-  <keys type="npc" key="n_f08_quest_09" value="" />
-  <keys type="npc" key="n_f08_quest_10" value="" />
-  <keys type="npc" key="n_f08_quest_11" value="" />
-  <keys type="npc" key="n_f08_quest_12" value="" />
-  <keys type="npc" key="n_f08_quest_13" value="Penzard Prateado" />
-  <keys type="npc" key="n_f08_quest_14" value="Penzard Prateado" />
-  <keys type="npc" key="n_f08_quest_15" value="Elizabeth" />
-  <keys type="npc" key="n_f08_quest_16" value="Elizabeth" />
-  <keys type="npc" key="n_f08_quest_17" value="Clausewitz" />
-  <keys type="npc" key="n_f08_quest_18" value="Clausewitz" />
-  <keys type="npc" key="n_f08_quest_19" value="Flore" />
-  <keys type="npc" key="n_f08_quest_20" value="Croken" />
-  <keys type="npc" key="n_f08_quest_21" value="Gubami Lebrini" />
-  <keys type="npc" key="n_f08_quest_22" value="Cinzas do Patrulheiro" />
-  <keys type="npc" key="n_f08_quest_23" value="Cayde" />
-  <keys type="npc" key="n_f08_quest_24" value="Cayde" />
-  <keys type="npc" key="n_f08_4_2103" value="Guarda da Equipe de Pesquisa" />
-  <keys type="npc" key="n_f08_1_1229" value="Médico de Ithilis" />
-  <keys type="npc" key="n_f08_1_1218" value="Aldeão Repousando" />
-  <keys type="npc" key="n_f08_d07_portal" value="Santuário de Trânsito" />
-  <keys type="npc" key="n_f08_1_1216" value="Guarda Instruído / Reservista" />
-  <keys type="npc" key="n_f08_3_1208" value="Patrulheiro do Posto de Comando Abandonado" />
-  <keys type="npc" key="n_f08_2_1304" value="Valen" />
-  <keys type="npc" key="n_f08_1_1226" value="Ymir" />
-  <keys type="npc" key="n_f08_4_2210" value="Aya" />
-  <keys type="npc" key="n_f08_2_1223" value="Soldado Ferido" />
-  <keys type="npc" key="n_f08_4_2212" value="Curalan" />
-  <keys type="npc" key="n_f08_3_2205" value="Prisioneiro da Legião dos Insetos" />
-  <keys type="npc" key="n_f08_3_1304" value="Laford" />
-  <keys type="npc" key="n_f08_4_2209" value="Johes" />
-  <keys type="npc" key="n_f08_4_2104" value="Patrulheiro da Equipe de Pesquisa" />
-  <keys type="npc" key="n_f08_1_1311" value="Yuccia" />
-  <keys type="npc" key="n_f08_1_1217" value="Miley" />
-  <keys type="npc" key="n_f08_2_1226" value="Guarda de Abastecimento de Ithilis" />
-  <keys type="npc" key="n_f08_4_2211" value="Indigente" />
-  <keys type="npc" key="n_f08_1_1227" value="Danny" />
-  <keys type="npc" key="n_f08_3_3103" value="Ikazu" />
-  <keys type="npc" key="n_f08_2_1225" value="Ziggs" />
-  <keys type="npc" key="n_f08_2_1224" value="Leah" />
-  <keys type="npc" key="n_f08_quest_25" value="Cadáver de Soldado" />
-  <keys type="npc" key="n_f08_1_1230" value="Arqueologista Zamwa" />
-  <keys type="npc" key="n_f08_quest_26" value="Cayde" />
-  <keys type="npc" key="n_f08_8_1101" value="" />
-  <keys type="npc" key="n_f08_8_1102" value="" />
-  <keys type="npc" key="n_f08_8_1103" value="" />
-  <keys type="npc" key="n_f08_5_1106" value="Guarda do Acampamento da Ilha Flutuante" />
-  <keys type="npc" key="n_f01_1_warp_0001" value="Santuário de Trânsito da Floresta de Brakarr" />
-  <keys type="npc" key="n_d07_board_01" value="Tumba do Wyrm" />
+  <keys prop="Name" type="monster" key="N_F08_Weapon_001" value="Bigorna para Armas" />
+  <keys prop="Description" type="monster" key="N_F08_Weapon_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Amor_001" value="Bigorna para Armaduras" />
+  <keys prop="Description" type="monster" key="N_F08_Amor_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Cook_001" value="Estação de Cozimento" />
+  <keys prop="Description" type="monster" key="N_F08_Cook_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Alchemy_001" value="Laboratório de Alquimia" />
+  <keys prop="Description" type="monster" key="N_F08_Alchemy_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Accessory_001" value="Bancada de Ourives" />
+  <keys prop="Description" type="monster" key="N_F08_Accessory_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Fellow_001" value="Mesa de Criação de Selaria" />
+  <keys prop="Description" type="monster" key="N_F08_Fellow_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_100" value="Santuário de Regiões" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_100Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_001" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_002" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_003" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_004" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_005" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_006" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Portal_007" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_F08_Portal_007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Board_001" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_001Detail" value="Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Name" type="monster" key="N_F08_Board_002" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_002Detail" value="Fortaleza de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_Board_003" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_003Detail" value="Estação de Abastecimento de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_Board_004" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_004Detail" value="Posto de Comando Abandonado" />
+  <keys prop="Name" type="monster" key="N_F08_Board_005" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_005Detail" value="Prisão da Legião dos Insetos" />
+  <keys prop="Name" type="monster" key="N_F08_Board_006" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_006Detail" value="Acampamento Arcano" />
+  <keys prop="Name" type="monster" key="N_F08_Board_007" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_007Detail" value="Acampamento Improvisado do Rei dos Insetos" />
+  <keys prop="Name" type="monster" key="N_F08_Board_008" value="Quadro de Missões" />
+  <keys prop="Description" type="monster" key="N_F08_Board_008Detail" value="Acampamento da Ilha Flutuante" />
+  <keys prop="Name" type="monster" key="N_F08_1_1101" value="Kite" />
+  <keys prop="Description" type="monster" key="N_F08_1_1101Detail" value="Imediato do Martelo Vermelho" />
+  <keys prop="Name" type="monster" key="N_F08_1_1102" value="Louis Lebrini" />
+  <keys prop="Description" type="monster" key="N_F08_1_1102Detail" value="Comerciante de Ellun" />
+  <keys prop="Name" type="monster" key="N_F08_1_1103" value="Muzaka" />
+  <keys prop="Description" type="monster" key="N_F08_1_1103Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F08_1_1104" value="Vernon" />
+  <keys prop="Description" type="monster" key="N_F08_1_1104Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F08_1_1105" value="Urmi" />
+  <keys prop="Description" type="monster" key="N_F08_1_1105Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F08_1_1106" value="Jonathan" />
+  <keys prop="Description" type="monster" key="N_F08_1_1106Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="N_F08_1_1107" value="Bailey" />
+  <keys prop="Description" type="monster" key="N_F08_1_1107Detail" value="Quitandeira" />
+  <keys prop="Name" type="monster" key="N_F08_1_1108" value="Chris Bale" />
+  <keys prop="Description" type="monster" key="N_F08_1_1108Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F08_1_1109" value="Yorris Bale" />
+  <keys prop="Description" type="monster" key="N_F08_1_1109Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F08_1_1110" value="Parmati" />
+  <keys prop="Description" type="monster" key="N_F08_1_1110Detail" value="Negociante de Moedas de Colecionador" />
+  <keys prop="Name" type="monster" key="N_F08_1_1111" value="Minnow" />
+  <keys prop="Description" type="monster" key="N_F08_1_1111Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_1_1112" value="Bailin" />
+  <keys prop="Description" type="monster" key="N_F08_1_1112Detail" value="Comerciante de Alquimia" />
+  <keys prop="Name" type="monster" key="N_F08_1_1113" value="Christian" />
+  <keys prop="Description" type="monster" key="N_F08_1_1113Detail" value="Comerciante de Criação de Armaduras" />
+  <keys prop="Name" type="monster" key="N_F08_1_1114" value="Eshian" />
+  <keys prop="Description" type="monster" key="N_F08_1_1114Detail" value="Comerciante de Criação de Armas" />
+  <keys prop="Name" type="monster" key="N_F08_1_1115" value="Heinkes" />
+  <keys prop="Description" type="monster" key="N_F08_1_1115Detail" value="Comerciante de Criação de Selaria" />
+  <keys prop="Name" type="monster" key="N_F08_1_1116" value="Murant" />
+  <keys prop="Description" type="monster" key="N_F08_1_1116Detail" value="Comerciante Culinário" />
+  <keys prop="Name" type="monster" key="N_F08_1_1117" value="Theo" />
+  <keys prop="Description" type="monster" key="N_F08_1_1117Detail" value="Comerciante de Criação de Joias" />
+  <keys prop="Name" type="monster" key="N_F08_1_1118" value="Antoine" />
+  <keys prop="Description" type="monster" key="N_F08_1_1118Detail" value="Aprendiz de Alquimia" />
+  <keys prop="Name" type="monster" key="N_F08_1_1119" value="Simone" />
+  <keys prop="Description" type="monster" key="N_F08_1_1119Detail" value="Armadureira" />
+  <keys prop="Name" type="monster" key="N_F08_1_1120" value="Ferrina" />
+  <keys prop="Description" type="monster" key="N_F08_1_1120Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F08_1_1121" value="Pierro" />
+  <keys prop="Description" type="monster" key="N_F08_1_1121Detail" value="Seleiro" />
+  <keys prop="Name" type="monster" key="N_F08_1_1122" value="Whitney" />
+  <keys prop="Description" type="monster" key="N_F08_1_1122Detail" value="Cozinheiro" />
+  <keys prop="Name" type="monster" key="N_F08_1_1123" value="Rene" />
+  <keys prop="Description" type="monster" key="N_F08_1_1123Detail" value="Joalheiro" />
+  <keys prop="Name" type="monster" key="N_F08_1_1124" value="Lamella" />
+  <keys prop="Description" type="monster" key="N_F08_1_1124Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_1_2101" value="Ethan" />
+  <keys prop="Description" type="monster" key="N_F08_1_2101Detail" value="Capitão Martelo" />
+  <keys prop="Name" type="monster" key="N_F08_2_1101" value="Ailo" />
+  <keys prop="Description" type="monster" key="N_F08_2_1101Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F08_2_1102" value="Anbou" />
+  <keys prop="Description" type="monster" key="N_F08_2_1102Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F08_2_1103" value="Hogarth" />
+  <keys prop="Description" type="monster" key="N_F08_2_1103Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F08_2_1104" value="Paijin" />
+  <keys prop="Description" type="monster" key="N_F08_2_1104Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="N_F08_2_1105" value="Dian" />
+  <keys prop="Description" type="monster" key="N_F08_2_1105Detail" value="Quitandeira" />
+  <keys prop="Name" type="monster" key="N_F08_2_1106" value="Aiji" />
+  <keys prop="Description" type="monster" key="N_F08_2_1106Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F08_2_1107" value="Tsurugi" />
+  <keys prop="Description" type="monster" key="N_F08_2_1107Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F08_2_1108" value="Sebrinch" />
+  <keys prop="Description" type="monster" key="N_F08_2_1108Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_2_1109" value="Aano" />
+  <keys prop="Description" type="monster" key="N_F08_2_1109Detail" value="Comerciante de Alquimia" />
+  <keys prop="Name" type="monster" key="N_F08_2_1110" value="Foggy" />
+  <keys prop="Description" type="monster" key="N_F08_2_1110Detail" value="Comerciante de Criação de Armaduras" />
+  <keys prop="Name" type="monster" key="N_F08_2_1111" value="Rico" />
+  <keys prop="Description" type="monster" key="N_F08_2_1111Detail" value="Comerciante de Criação de Armas" />
+  <keys prop="Name" type="monster" key="N_F08_2_1112" value="Ferrero" />
+  <keys prop="Description" type="monster" key="N_F08_2_1112Detail" value="Comerciante de Criação de Selaria" />
+  <keys prop="Name" type="monster" key="N_F08_2_1113" value="Nabian" />
+  <keys prop="Description" type="monster" key="N_F08_2_1113Detail" value="Comerciante Culinário" />
+  <keys prop="Name" type="monster" key="N_F08_2_1114" value="Vanilla" />
+  <keys prop="Description" type="monster" key="N_F08_2_1114Detail" value="Comerciante de Criação de Joias" />
+  <keys prop="Name" type="monster" key="N_F08_2_1115" value="Fortuna" />
+  <keys prop="Description" type="monster" key="N_F08_2_1115Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_2_2101" value="Feindal" />
+  <keys prop="Description" type="monster" key="N_F08_2_2101Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F08_2_2102" value="Aileen" />
+  <keys prop="Description" type="monster" key="N_F08_2_2102Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="N_F08_2_2103" value="Grandalf" />
+  <keys prop="Description" type="monster" key="N_F08_2_2103Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_2_3101" value="Fredo" />
+  <keys prop="Description" type="monster" key="N_F08_2_3101Detail" value="Comerciante de Mercadorias em Geral" />
+  <keys prop="Name" type="monster" key="N_F08_2_3102" value="Hannety" />
+  <keys prop="Description" type="monster" key="N_F08_2_3102Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F08_2_3103" value="Amon" />
+  <keys prop="Description" type="monster" key="N_F08_2_3103Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F08_2_3104" value="Arumi" />
+  <keys prop="Description" type="monster" key="N_F08_2_3104Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_2_3105" value="Abianno" />
+  <keys prop="Description" type="monster" key="N_F08_2_3105Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F08_2_3106" value="Seiko" />
+  <keys prop="Description" type="monster" key="N_F08_2_3106Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_2_4101" value="Tilly" />
+  <keys prop="Description" type="monster" key="N_F08_2_4101Detail" value="Comerciante de Mercadorias em Geral" />
+  <keys prop="Name" type="monster" key="N_F08_2_4102" value="Aioni" />
+  <keys prop="Description" type="monster" key="N_F08_2_4102Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_3_1101" value="Gurte" />
+  <keys prop="Description" type="monster" key="N_F08_3_1101Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F08_3_1102" value="Lamia" />
+  <keys prop="Description" type="monster" key="N_F08_3_1102Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F08_3_1103" value="Garana" />
+  <keys prop="Description" type="monster" key="N_F08_3_1103Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F08_3_1104" value="Randini" />
+  <keys prop="Description" type="monster" key="N_F08_3_1104Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="N_F08_3_1105" value="Mileyn" />
+  <keys prop="Description" type="monster" key="N_F08_3_1105Detail" value="Quitandeira" />
+  <keys prop="Name" type="monster" key="N_F08_3_1106" value="Ireel" />
+  <keys prop="Description" type="monster" key="N_F08_3_1106Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_3_1107" value="Celestine" />
+  <keys prop="Description" type="monster" key="N_F08_3_1107Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F08_3_1108" value="Cecilia" />
+  <keys prop="Description" type="monster" key="N_F08_3_1108Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_3_1109" value="Corelia" />
+  <keys prop="Description" type="monster" key="N_F08_3_1109Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_3_2101" value="Saiton" />
+  <keys prop="Description" type="monster" key="N_F08_3_2101Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F08_3_2102" value="Brennan" />
+  <keys prop="Description" type="monster" key="N_F08_3_2102Detail" value="Quitandeira" />
+  <keys prop="Name" type="monster" key="N_F08_3_2103" value="Arturo" />
+  <keys prop="Description" type="monster" key="N_F08_3_2103Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F08_3_2104" value="Chandler" />
+  <keys prop="Description" type="monster" key="N_F08_3_2104Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F08_3_2105" value="Cha Lin" />
+  <keys prop="Description" type="monster" key="N_F08_3_2105Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_3_2106" value="Coix" />
+  <keys prop="Description" type="monster" key="N_F08_3_2106Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F08_3_2107" value="Esian" />
+  <keys prop="Description" type="monster" key="N_F08_3_2107Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_3_3101" value="Dynin" />
+  <keys prop="Description" type="monster" key="N_F08_3_3101Detail" value="Comerciante de Mercadorias em Geral" />
+  <keys prop="Name" type="monster" key="N_F08_3_3102" value="Iton" />
+  <keys prop="Description" type="monster" key="N_F08_3_3102Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_4_1101" value="Grandal" />
+  <keys prop="Description" type="monster" key="N_F08_4_1101Detail" value="Comerciante de Mercadorias em Geral" />
+  <keys prop="Name" type="monster" key="N_F08_4_1102" value="Spinney" />
+  <keys prop="Description" type="monster" key="N_F08_4_1102Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_1103" value="Braun" />
+  <keys prop="Description" type="monster" key="N_F08_4_1103Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_1104" value="Murakami" />
+  <keys prop="Description" type="monster" key="N_F08_4_1104Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_4_1105" value="Abraão" />
+  <keys prop="Description" type="monster" key="N_F08_4_1105Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_4_2101" value="Gacha" />
+  <keys prop="Description" type="monster" key="N_F08_4_2101Detail" value="Comerciante de Mercadorias em Geral" />
+  <keys prop="Name" type="monster" key="N_F08_4_2102" value="Hailey" />
+  <keys prop="Description" type="monster" key="N_F08_4_2102Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_4_3101" value="Maillin" />
+  <keys prop="Description" type="monster" key="N_F08_4_3101Detail" value="Corretor do Mercado" />
+  <keys prop="Name" type="monster" key="N_F08_4_3102" value="Guarin" />
+  <keys prop="Description" type="monster" key="N_F08_4_3102Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="N_F08_4_3103" value="Celie" />
+  <keys prop="Description" type="monster" key="N_F08_4_3103Detail" value="Comerciante" />
+  <keys prop="Name" type="monster" key="N_F08_4_3104" value="Justine" />
+  <keys prop="Description" type="monster" key="N_F08_4_3104Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="N_F08_4_3105" value="Sentein" />
+  <keys prop="Description" type="monster" key="N_F08_4_3105Detail" value="Quitandeira" />
+  <keys prop="Name" type="monster" key="N_F08_4_3106" value="Frei" />
+  <keys prop="Description" type="monster" key="N_F08_4_3106Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F08_4_3107" value="Nevan" />
+  <keys prop="Description" type="monster" key="N_F08_4_3107Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_3108" value="Alvis" />
+  <keys prop="Description" type="monster" key="N_F08_4_3108Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_4_3109" value="Oz" />
+  <keys prop="Description" type="monster" key="N_F08_4_3109Detail" value="Comerciante de Alquimia" />
+  <keys prop="Name" type="monster" key="N_F08_4_3110" value="Elise" />
+  <keys prop="Description" type="monster" key="N_F08_4_3110Detail" value="Comerciante de Criação de Armaduras" />
+  <keys prop="Name" type="monster" key="N_F08_4_3111" value="Kerkim" />
+  <keys prop="Description" type="monster" key="N_F08_4_3111Detail" value="Comerciante de Criação de Armas" />
+  <keys prop="Name" type="monster" key="N_F08_4_3112" value="Sonnet" />
+  <keys prop="Description" type="monster" key="N_F08_4_3112Detail" value="Comerciante de Criação de Selaria" />
+  <keys prop="Name" type="monster" key="N_F08_4_3113" value="Parser" />
+  <keys prop="Description" type="monster" key="N_F08_4_3113Detail" value="Comerciante Culinário" />
+  <keys prop="Name" type="monster" key="N_F08_4_3114" value="Alvorada" />
+  <keys prop="Description" type="monster" key="N_F08_4_3114Detail" value="Comerciante de Criação de Joias" />
+  <keys prop="Name" type="monster" key="N_F08_4_3115" value="Burd" />
+  <keys prop="Description" type="monster" key="N_F08_4_3115Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_5_1101" value="Daido" />
+  <keys prop="Description" type="monster" key="N_F08_5_1101Detail" value="Quitandeira" />
+  <keys prop="Name" type="monster" key="N_F08_5_1102" value="Chalidge" />
+  <keys prop="Description" type="monster" key="N_F08_5_1102Detail" value="Comerciante de Armamentos" />
+  <keys prop="Name" type="monster" key="N_F08_5_1103" value="Vesti" />
+  <keys prop="Description" type="monster" key="N_F08_5_1103Detail" value="Armeiro" />
+  <keys prop="Name" type="monster" key="N_F08_5_1104" value="Curtis" />
+  <keys prop="Description" type="monster" key="N_F08_5_1104Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_F08_5_1105" value="Tarmat" />
+  <keys prop="Description" type="monster" key="N_F08_5_1105Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_F08_6_1101" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="N_F08_6_1101Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F08_6_1102" value="Penelope" />
+  <keys prop="Description" type="monster" key="N_F08_6_1102Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F08_7_1101" value="Marinheiro Morto" />
+  <keys prop="Description" type="monster" key="N_F08_7_1101Detail" value="Marinheiro de Martelo Vermelho" />
+  <keys prop="Name" type="monster" key="N_F08_7_1102" value="Marinheiro Ferido" />
+  <keys prop="Description" type="monster" key="N_F08_7_1102Detail" value="Marinheiro de Martelo Vermelho" />
+  <keys prop="Name" type="monster" key="N_F08_7_1103" value="Sacerdotisa Yana" />
+  <keys prop="Description" type="monster" key="N_F08_7_1103Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_Cutscene_0001" value="Princesa Lania" />
+  <keys prop="Description" type="monster" key="N_F08_Cutscene_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Cutscene_0002" value="Salant" />
+  <keys prop="Description" type="monster" key="N_F08_Cutscene_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1301" value="Romanson" />
+  <keys prop="Description" type="monster" key="N_F08_7_1301Detail" value="Protetor da Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Name" type="monster" key="N_F08_7_1302" value="Clack Domado" />
+  <keys prop="Description" type="monster" key="N_F08_7_1302Detail" value="Familiar de Romanson" />
+  <keys prop="Name" type="monster" key="N_F08_1_1301" value="Zeromin" />
+  <keys prop="Description" type="monster" key="N_F08_1_1301Detail" value="Chefe da Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Name" type="monster" key="N_F08_1_1302" value="Valgas" />
+  <keys prop="Description" type="monster" key="N_F08_1_1302Detail" value="Protetorado Crokhoon" />
+  <keys prop="Name" type="monster" key="N_F08_1_1303" value="Porus" />
+  <keys prop="Description" type="monster" key="N_F08_1_1303Detail" value="Aldeão do Desfiladeiro Grandioso" />
+  <keys prop="Name" type="monster" key="N_F08_1_1304" value="Rokun" />
+  <keys prop="Description" type="monster" key="N_F08_1_1304Detail" value="Líder Crokhoon" />
+  <keys prop="Name" type="monster" key="N_F08_1_1305" value="Shizu" />
+  <keys prop="Description" type="monster" key="N_F08_1_1305Detail" value="Secretário de Rokun" />
+  <keys prop="Name" type="monster" key="N_F08_1_1306" value="Ani" />
+  <keys prop="Description" type="monster" key="N_F08_1_1306Detail" value="Acólito do Profeta" />
+  <keys prop="Name" type="monster" key="N_F08_1_1307" value="Sasha" />
+  <keys prop="Description" type="monster" key="N_F08_1_1307Detail" value="Assistente de Ani" />
+  <keys prop="Name" type="monster" key="N_F08_1_1308" value="Jarad" />
+  <keys prop="Description" type="monster" key="N_F08_1_1308Detail" value="Rei Inseto" />
+  <keys prop="Name" type="monster" key="N_F08_1_1309" value="Trak" />
+  <keys prop="Description" type="monster" key="N_F08_1_1309Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1310" value="Mirren" />
+  <keys prop="Description" type="monster" key="N_F08_1_1310Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1301" value="Cecil" />
+  <keys prop="Description" type="monster" key="N_F08_2_1301Detail" value="Capitão de Abastecimento de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_2_1302" value="Henry" />
+  <keys prop="Description" type="monster" key="N_F08_2_1302Detail" value="Comandante de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_2_1303" value="Hansen" />
+  <keys prop="Description" type="monster" key="N_F08_2_1303Detail" value="Patrulheiro de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_3_1301" value="Igor" />
+  <keys prop="Description" type="monster" key="N_F08_3_1301Detail" value="Substituto de Kurodian" />
+  <keys prop="Name" type="monster" key="N_F08_3_1302" value="Kurodian" />
+  <keys prop="Description" type="monster" key="N_F08_3_1302Detail" value="Bruxa de Turimnan" />
+  <keys prop="Name" type="monster" key="N_F08_3_1303" value="Kurodian" />
+  <keys prop="Description" type="monster" key="N_F08_3_1303Detail" value="Bruxa de Turimnan" />
+  <keys prop="Name" type="monster" key="N_F08_4_1301" value="Catherine" />
+  <keys prop="Description" type="monster" key="N_F08_4_1301Detail" value="Chefe do Arcano" />
+  <keys prop="Name" type="monster" key="N_F08_4_1302" value="Tasha" />
+  <keys prop="Description" type="monster" key="N_F08_4_1302Detail" value="Arcano" />
+  <keys prop="Name" type="monster" key="N_F08_4_1303" value="Silveth" />
+  <keys prop="Description" type="monster" key="N_F08_4_1303Detail" value="Auxiliar" />
+  <keys prop="Name" type="monster" key="N_F08_4_1304" value="Jarad" />
+  <keys prop="Description" type="monster" key="N_F08_4_1304Detail" value="Rei Inseto" />
+  <keys prop="Name" type="monster" key="N_F08_4_1305" value="Silveth" />
+  <keys prop="Description" type="monster" key="N_F08_4_1305Detail" value="Assistente de Jarad" />
+  <keys prop="Name" type="monster" key="N_F08_4_1306" value="Sasha" />
+  <keys prop="Description" type="monster" key="N_F08_4_1306Detail" value="Assistente de Lynn" />
+  <keys prop="Name" type="monster" key="N_F08_7_1201" value="Allen" />
+  <keys prop="Description" type="monster" key="N_F08_7_1201Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1202" value="Sylvia" />
+  <keys prop="Description" type="monster" key="N_F08_7_1202Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1203" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="N_F08_7_1203Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1204" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="N_F08_7_1204Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1205" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="N_F08_7_1205Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1206" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="N_F08_7_1206Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1207" value="Aldeão do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="N_F08_7_1207Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_7_1208" value="Aldeão do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="N_F08_7_1208Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1201" value="Guarda da Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="N_F08_1_1201Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_1_1202" value="Guarda da Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="N_F08_1_1202Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_1_1203" value="Patrulheiro da Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="N_F08_1_1203Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_1_1204" value="Taylor, Chefe da Guarda" />
+  <keys prop="Description" type="monster" key="N_F08_1_1204Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_1_1205" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1205Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1206" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1206Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1207" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1207Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1208" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1208Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1209" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1209Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1210" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1210Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1211" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1211Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1212" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1212Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1213" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1213Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1214" value="Aldeã" />
+  <keys prop="Description" type="monster" key="N_F08_1_1214Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1201" value="Guarda da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1201Detail" value="Soldado de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_2_1202" value="Guarda da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1202Detail" value="Soldado de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_2_1203" value="Patrulheiro da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1203Detail" value="Soldado de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_2_1204" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="N_F08_2_1204Detail" value="Soldado de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_2_1205" value="Fantasma de um Soldado" />
+  <keys prop="Description" type="monster" key="N_F08_2_1205Detail" value="Soldado de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_2_1206" value="Trabalhador da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1206Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1207" value="Trabalhador da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1207Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1208" value="Aldeã da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1208Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1209" value="Aldeão da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1209Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1210" value="Círculo Interno de Crokhoon" />
+  <keys prop="Description" type="monster" key="N_F08_2_1210Detail" value="Comerciante Crokhoon" />
+  <keys prop="Name" type="monster" key="N_F08_2_1211" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1211Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1212" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1212Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1213" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1213Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1214" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1214Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1215" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1215Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1216" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1216Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1217" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1217Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1218" value="Soldado de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1218Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1219" value="Patrulheiro de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1219Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1220" value="Patrulheiro de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1220Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_1221" value="Patrulheiro de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1221Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_2_2201" value="Ahmak" />
+  <keys prop="Description" type="monster" key="N_F08_2_2201Detail" value="Capitão dos Sentinelas" />
+  <keys prop="Name" type="monster" key="N_F08_3_1201" value="Croat" />
+  <keys prop="Description" type="monster" key="N_F08_3_1201Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_3_1202" value="Keto" />
+  <keys prop="Description" type="monster" key="N_F08_3_1202Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_3_1203" value="Konatsu" />
+  <keys prop="Description" type="monster" key="N_F08_3_1203Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_3_1204" value="Alma Anciã" />
+  <keys prop="Description" type="monster" key="N_F08_3_1204Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_3_1205" value="Santuário de Transporte de Sasha" />
+  <keys prop="Description" type="monster" key="N_F08_3_1205Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_3_1206" value="Guarda da Prisão do Posto de Comando Abandonado" />
+  <keys prop="Description" type="monster" key="N_F08_3_1206Detail" value="Segurança do Posto de Comando Abandonado" />
+  <keys prop="Name" type="monster" key="N_F08_3_1207" value="Guarda da Prisão do Posto de Comando Abandonado" />
+  <keys prop="Description" type="monster" key="N_F08_3_1207Detail" value="Segurança do Posto de Comando Abandonado" />
+  <keys prop="Name" type="monster" key="N_F08_3_2201" value="Kakaji" />
+  <keys prop="Description" type="monster" key="N_F08_3_2201Detail" value="Oficial de Segurança da Prisão" />
+  <keys prop="Name" type="monster" key="N_F08_3_2202" value="Makaru" />
+  <keys prop="Description" type="monster" key="N_F08_3_2202Detail" value="Capitão de Segurança da Prisão" />
+  <keys prop="Name" type="monster" key="N_F08_3_2203" value="Barag" />
+  <keys prop="Description" type="monster" key="N_F08_3_2203Detail" value="Guardião de Segurança da Prisão" />
+  <keys prop="Name" type="monster" key="N_F08_3_2204" value="Guardas da Prisão" />
+  <keys prop="Description" type="monster" key="N_F08_3_2204Detail" value="Segurança do Acampamento da Prisão" />
+  <keys prop="Name" type="monster" key="N_F08_4_1201" value="Patrulheiro Kips" />
+  <keys prop="Description" type="monster" key="N_F08_4_1201Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_1202" value="Patrulheiro Iowa" />
+  <keys prop="Description" type="monster" key="N_F08_4_1202Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_2201" value="Servo do Rei dos Insetos" />
+  <keys prop="Description" type="monster" key="N_F08_4_2201Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_2202" value="Servo do Rei dos Insetos" />
+  <keys prop="Description" type="monster" key="N_F08_4_2202Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_2203" value="Servo do Rei dos Insetos" />
+  <keys prop="Description" type="monster" key="N_F08_4_2203Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_2204" value="Servo do Rei dos Insetos" />
+  <keys prop="Description" type="monster" key="N_F08_4_2204Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_4_2205" value="Guardião" />
+  <keys prop="Description" type="monster" key="N_F08_4_2205Detail" value="Guarda Real de Jarad" />
+  <keys prop="Name" type="monster" key="N_F08_4_2206" value="Guardião" />
+  <keys prop="Description" type="monster" key="N_F08_4_2206Detail" value="Guarda Real de Jarad" />
+  <keys prop="Name" type="monster" key="N_F08_4_2207" value="Patrulheiro" />
+  <keys prop="Description" type="monster" key="N_F08_4_2207Detail" value="Guarda Real de Jarad" />
+  <keys prop="Name" type="monster" key="N_F08_1_1401" value="Escorpião Mutante Domado" />
+  <keys prop="Description" type="monster" key="N_F08_1_1401Detail" value="Familiar de Minnow" />
+  <keys prop="Name" type="monster" key="N_F08_2_1401" value="Freig Domado" />
+  <keys prop="Description" type="monster" key="N_F08_2_1401Detail" value="Familiar de Sebrinch" />
+  <keys prop="Name" type="monster" key="N_F08_2_3401" value="Snarl Domado" />
+  <keys prop="Description" type="monster" key="N_F08_2_3401Detail" value="Familiar de Arumi" />
+  <keys prop="Name" type="monster" key="N_F08_3_1401" value="Daiden Domado" />
+  <keys prop="Description" type="monster" key="N_F08_3_1401Detail" value="Familiar de Cecilia" />
+  <keys prop="Name" type="monster" key="N_F08_3_2401" value="Zangão Domado" />
+  <keys prop="Description" type="monster" key="N_F08_3_2401Detail" value="Familiar de Cha Lin" />
+  <keys prop="Name" type="monster" key="N_F08_4_1401" value="Wyrm Esmeralda Domado" />
+  <keys prop="Description" type="monster" key="N_F08_4_1401Detail" value="Familiar de Murakami" />
+  <keys prop="Name" type="monster" key="N_F08_4_3401" value="Kaliart Domado" />
+  <keys prop="Description" type="monster" key="N_F08_4_3401Detail" value="Familiar de Alvis" />
+  <keys prop="Name" type="monster" key="N_F08_5_1401" value="Corbelt Domado" />
+  <keys prop="Description" type="monster" key="N_F08_5_1401Detail" value="Familiar de Curtis" />
+  <keys prop="Name" type="monster" key="N_F08_6_1103" value="Guarda Axel" />
+  <keys prop="Description" type="monster" key="N_F08_6_1103Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_6_1104" value="Subordinada Kendall" />
+  <keys prop="Description" type="monster" key="N_F08_6_1104Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D07_1_1101" value="Explorador Aevin" />
+  <keys prop="Description" type="monster" key="N_D07_1_1101Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D07_1_1102" value="Explorador Aevin" />
+  <keys prop="Description" type="monster" key="N_D07_1_1102Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_6_1105" value="Explorador Aevin" />
+  <keys prop="Description" type="monster" key="N_F08_6_1105Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D07_1_1103" value="Lojista Morrow" />
+  <keys prop="Description" type="monster" key="N_D07_1_1103Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1402" value="Lojista Morrow" />
+  <keys prop="Description" type="monster" key="N_F08_1_1402Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1403" value="Comerciante Hammeron" />
+  <keys prop="Description" type="monster" key="N_F08_1_1403Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_1_1404" value="Pesquisadora Serena" />
+  <keys prop="Description" type="monster" key="N_F08_1_1404Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F08_Rescue_0001" value="Yummi Lebrini" />
+  <keys prop="Description" type="monster" key="N_F08_Rescue_0001Detail" value="Loja Secreta" />
+  <keys prop="Name" type="monster" key="N_F08_Rescue_0002" value="Yummi Lebrini" />
+  <keys prop="Description" type="monster" key="N_F08_Rescue_0002Detail" value="Loja Secreta" />
+  <keys prop="Name" type="monster" key="N_F08_1_1405" value="Guardião da Pedra Mágica" />
+  <keys prop="Description" type="monster" key="N_F08_1_1405Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_1_1406" value="Guardião da Pedra Mágica" />
+  <keys prop="Description" type="monster" key="N_F08_1_1406Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_1_1215" value="Soldado Cavaleiro do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="N_F08_1_1215Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="N_F08_2_1222" value="Soldado Cavaleiro da Fortaleza de Ithilis" />
+  <keys prop="Description" type="monster" key="N_F08_2_1222Detail" value="Soldado de Ithilis" />
+  <keys prop="Name" type="monster" key="N_F08_4_2208" value="Soldado Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_F08_4_2208Detail" value="Guarda Real de Jarad" />
+  <keys prop="Name" type="monster" key="n_f08_7_1209" value="Guvan" />
+  <keys prop="Description" type="monster" key="n_f08_7_1209Detail" value="Capitão de Navio Martelo Vermelho" />
+  <keys prop="Name" type="monster" key="n_f08_7_1210" value="Guvan" />
+  <keys prop="Description" type="monster" key="n_f08_7_1210Detail" value="Capitão de Navio Martelo Vermelho" />
+  <keys prop="Name" type="monster" key="n_f08_quest_01" value="" />
+  <keys prop="Description" type="monster" key="n_f08_quest_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_02" value="Restos do Suprimento de Itilide" />
+  <keys prop="Description" type="monster" key="n_f08_quest_02Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_03" value="" />
+  <keys prop="Description" type="monster" key="n_f08_quest_03Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_04" value="" />
+  <keys prop="Description" type="monster" key="n_f08_quest_04Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_05" value="Equipe de Pesquisa" />
+  <keys prop="Description" type="monster" key="n_f08_quest_05Detail" value="Arcano" />
+  <keys prop="Name" type="monster" key="n_f08_quest_06" value="Equipe de Pesquisa" />
+  <keys prop="Description" type="monster" key="n_f08_quest_06Detail" value="Arcano" />
+  <keys prop="Name" type="monster" key="n_f08_quest_07" value="Equipe de Pesquisa" />
+  <keys prop="Description" type="monster" key="n_f08_quest_07Detail" value="Arcano" />
+  <keys prop="Name" type="monster" key="n_f08_quest_08" value="Equipe de Pesquisa" />
+  <keys prop="Description" type="monster" key="n_f08_quest_08Detail" value="Arcano" />
+  <keys prop="Name" type="monster" key="n_f08_quest_09" value="" />
+  <keys prop="Description" type="monster" key="n_f08_quest_09Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_10" value="" />
+  <keys prop="Description" type="monster" key="n_f08_quest_10Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_11" value="" />
+  <keys prop="Description" type="monster" key="n_f08_quest_11Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_12" value="" />
+  <keys prop="Description" type="monster" key="n_f08_quest_12Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_13" value="Penzard Prateado" />
+  <keys prop="Description" type="monster" key="n_f08_quest_13Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_14" value="Penzard Prateado" />
+  <keys prop="Description" type="monster" key="n_f08_quest_14Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_15" value="Elizabeth" />
+  <keys prop="Description" type="monster" key="n_f08_quest_15Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_16" value="Elizabeth" />
+  <keys prop="Description" type="monster" key="n_f08_quest_16Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_17" value="Clausewitz" />
+  <keys prop="Description" type="monster" key="n_f08_quest_17Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_18" value="Clausewitz" />
+  <keys prop="Description" type="monster" key="n_f08_quest_18Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_19" value="Flore" />
+  <keys prop="Description" type="monster" key="n_f08_quest_19Detail" value="Arcano" />
+  <keys prop="Name" type="monster" key="n_f08_quest_20" value="Croken" />
+  <keys prop="Description" type="monster" key="n_f08_quest_20Detail" value="Reino dos Insetos" />
+  <keys prop="Name" type="monster" key="n_f08_quest_21" value="Gubami Lebrini" />
+  <keys prop="Description" type="monster" key="n_f08_quest_21Detail" value="Bardo" />
+  <keys prop="Name" type="monster" key="n_f08_quest_22" value="Cinzas do Patrulheiro" />
+  <keys prop="Description" type="monster" key="n_f08_quest_22Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_quest_23" value="Cayde" />
+  <keys prop="Description" type="monster" key="n_f08_quest_23Detail" value="Espião do Reino dos Insetos" />
+  <keys prop="Name" type="monster" key="n_f08_quest_24" value="Cayde" />
+  <keys prop="Description" type="monster" key="n_f08_quest_24Detail" value="Espião do Reino dos Insetos" />
+  <keys prop="Name" type="monster" key="n_f08_4_2103" value="Guarda da Equipe de Pesquisa" />
+  <keys prop="Description" type="monster" key="n_f08_4_2103Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="n_f08_1_1229" value="Médico de Ithilis" />
+  <keys prop="Description" type="monster" key="n_f08_1_1229Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_1_1218" value="Aldeão Repousando" />
+  <keys prop="Description" type="monster" key="n_f08_1_1218Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_d07_portal" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="n_f08_d07_portalDetail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_1_1216" value="Guarda Instruído / Reservista" />
+  <keys prop="Description" type="monster" key="n_f08_1_1216Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_3_1208" value="Patrulheiro do Posto de Comando Abandonado" />
+  <keys prop="Description" type="monster" key="n_f08_3_1208Detail" value="Soldado de Ithilis" />
+  <keys prop="Name" type="monster" key="n_f08_2_1304" value="Valen" />
+  <keys prop="Description" type="monster" key="n_f08_2_1304Detail" value="Capitão Substituto de Ithilis" />
+  <keys prop="Name" type="monster" key="n_f08_1_1226" value="Ymir" />
+  <keys prop="Description" type="monster" key="n_f08_1_1226Detail" value="Capitão de Ataque" />
+  <keys prop="Name" type="monster" key="n_f08_4_2210" value="Aya" />
+  <keys prop="Description" type="monster" key="n_f08_4_2210Detail" value="Aldeã" />
+  <keys prop="Name" type="monster" key="n_f08_2_1223" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="n_f08_2_1223Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_4_2212" value="Curalan" />
+  <keys prop="Description" type="monster" key="n_f08_4_2212Detail" value="Pontiff" />
+  <keys prop="Name" type="monster" key="n_f08_3_2205" value="Prisioneiro da Legião dos Insetos" />
+  <keys prop="Description" type="monster" key="n_f08_3_2205Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_3_1304" value="Laford" />
+  <keys prop="Description" type="monster" key="n_f08_3_1304Detail" value="Diretor do Posto de Comando Abandonado" />
+  <keys prop="Name" type="monster" key="n_f08_4_2209" value="Johes" />
+  <keys prop="Description" type="monster" key="n_f08_4_2209Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_4_2104" value="Patrulheiro da Equipe de Pesquisa" />
+  <keys prop="Description" type="monster" key="n_f08_4_2104Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="n_f08_1_1311" value="Yuccia" />
+  <keys prop="Description" type="monster" key="n_f08_1_1311Detail" value="Feiticeiro" />
+  <keys prop="Name" type="monster" key="n_f08_1_1217" value="Miley" />
+  <keys prop="Description" type="monster" key="n_f08_1_1217Detail" value="Treinador" />
+  <keys prop="Name" type="monster" key="n_f08_2_1226" value="Guarda de Abastecimento de Ithilis" />
+  <keys prop="Description" type="monster" key="n_f08_2_1226Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_4_2211" value="Indigente" />
+  <keys prop="Description" type="monster" key="n_f08_4_2211Detail" value="Aldeã" />
+  <keys prop="Name" type="monster" key="n_f08_1_1227" value="Danny" />
+  <keys prop="Description" type="monster" key="n_f08_1_1227Detail" value="Chefe de Operação" />
+  <keys prop="Name" type="monster" key="n_f08_3_3103" value="Ikazu" />
+  <keys prop="Description" type="monster" key="n_f08_3_3103Detail" value="Vira-Casaca" />
+  <keys prop="Name" type="monster" key="n_f08_2_1225" value="Ziggs" />
+  <keys prop="Description" type="monster" key="n_f08_2_1225Detail" value="Mensageiro" />
+  <keys prop="Name" type="monster" key="n_f08_2_1224" value="Leah" />
+  <keys prop="Description" type="monster" key="n_f08_2_1224Detail" value="Equipe Médica" />
+  <keys prop="Name" type="monster" key="n_f08_quest_25" value="Cadáver de Soldado" />
+  <keys prop="Description" type="monster" key="n_f08_quest_25Detail" value="Time de Abastecimento de Ithilis" />
+  <keys prop="Name" type="monster" key="n_f08_1_1230" value="Arqueologista Zamwa" />
+  <keys prop="Description" type="monster" key="n_f08_1_1230Detail" value="Pesquisador de Livro de Habilidade Primordial" />
+  <keys prop="Name" type="monster" key="n_f08_quest_26" value="Cayde" />
+  <keys prop="Description" type="monster" key="n_f08_quest_26Detail" value="Espião do Reino dos Insetos" />
+  <keys prop="Name" type="monster" key="n_f08_8_1101" value="" />
+  <keys prop="Description" type="monster" key="n_f08_8_1101Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_8_1102" value="" />
+  <keys prop="Description" type="monster" key="n_f08_8_1102Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_8_1103" value="" />
+  <keys prop="Description" type="monster" key="n_f08_8_1103Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f08_5_1106" value="Guarda do Acampamento da Ilha Flutuante" />
+  <keys prop="Description" type="monster" key="n_f08_5_1106Detail" value="Sociedade Mágica da Virtude" />
+  <keys prop="Name" type="monster" key="n_f01_1_warp_0001" value="Santuário de Trânsito da Floresta de Brakarr" />
+  <keys prop="Description" type="monster" key="n_f01_1_warp_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="n_d07_board_01" value="Tumba do Wyrm" />
+  <keys prop="Description" type="monster" key="n_d07_board_01Detail" value="Guia de Recompensa da Masmorra" />
 </files>

@@ -1,2 +1,353 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="action_tooltip_action_0001" value="Cleanse Obelisk" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0002" value="Salvage Wood" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0003" value="Place Bridge" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0004" value="Fire Cannon" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0005" value="Take Pulley" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0006" value="Pull Lever" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0007" value="Take Soul Sphere" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0008" value="Poison Food" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0009" value="Poison Food" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0010" value="Dig Into Sand" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0011" value="Get Sword" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0012" value="Take Weapon" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0013" value="Clean Grave" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0014" value="Pour Water" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0015" value="Place Water Mirror" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0016" value="Place Bait" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0017" value="Touch Beehive" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0018" value="Burn Stores" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0019" value="Destroy" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0020" value="Douse Fire" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0021" value="Light Fire" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0022" value="Light Fire" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0023" value="Attach Document" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0024" value="Unearth Bone" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0025" value="Use Horn" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0026" value="Pack Crossbow Parts" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0027" value="Use Summoner's Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0028" value="Open Waterway" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0029" value="Use Guardian Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0030" value="Summon Guardian Dragon" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0031" value="Seal Guardian Power" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0032" value="Use Guardian Circle" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0033" value="Use Switch" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0034" value="Sanctify Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0035" value="Handle Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0036" value="Deliver Food Supplies" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0037" value="Seal Strength" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0038" value="Receive Oracle" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0039" value="Plant Seeds" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0040" value="Put On Saddle" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0041" value="Take Egg" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0042" value="Add Spices" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0043" value="Take Book of Ruin" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0044" value="Break Ice Statue" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0045" value="Gather Epidemic Sample" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0046" value="Take Tool" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0047" value="Take" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0048" value="Lead Souls" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0049" value="Tilt Furnace" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0050" value="Admire Statue" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0051" value="Rally" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0052" value="Rescue Hostage" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0053" value="Using" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0054" value="Gather Clothes" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0055" value="Gather Gloves" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0056" value="Take Equipment" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0057" value="Use Device" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0058" value="Deliver Supplies" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0059" value="Drink Essence" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0060" value="Use Altar" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0061" value="Light Altar Fire" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0062" value="Disable Device" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0063" value="Destroy" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0069" value="Ring Bell" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0070" value="Provide Water" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0071" value="Take Staff" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0072" value="Use Truth Mirror" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0073" value="Rescue Chapley Singer" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0074" value="Make Rubbing" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0075" value="Rescue Prisoners" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0076" value="Throw Bomb" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0077" value="Light" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0078" value="Steal" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0079" value="Use Orb" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0080" value="Alcohol Barrel" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0081" value="Iron Chain" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0082" value="Transparent" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0083" value="Wagon" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0084" value="Waterway Door" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0085" value="Lake Door" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0086" value="Place Statue" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0087" value="Use Enhancement Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0088" value="Iron Bars" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0089" value="Picking Up Canes" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0090" value="Revive Tree" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0091" value="Load Cannon" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0092" value="Use" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0093" value="Use Device" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0094" value="Using" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0095" value="Use" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0001" value="Destroy Cart" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0002" value="Destroy Crane" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0003" value="Neutralize Magic Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0004" value="Destroy Contaminated ore" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0005" value="Destroy Device" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0006" value="Destroy Altar" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0007" value="Destroy Cooking Tools" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0008" value="Destroy Equipment" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0009" value="Destroy" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0010" value="Break Pot" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0011" value="Destroy Enhancement Device" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0012" value="Destroy Enhancement Device" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0015" value="Destroy Wooden Fence" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0016" value="Destroy Attribute Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0017" value="Destroy Watchtower" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0018" value="Dispelling Sigil" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0019" value="Destroy" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0020" value="Destroy Nest" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0021" value="Plant Bomb" />
+  <keys prop="Description" type="monster" key="action_tooltip_clear_0001" value="Dispel Ritual Circle" />
+  <keys prop="Description" type="monster" key="action_tooltip_clear_0002" value="Disable Barrier" />
+  <keys prop="Description" type="monster" key="action_tooltip_clear_0003" value="Destroy Seal Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_clear_0004" value="Unseal Tranua" />
+  <keys prop="Description" type="monster" key="action_tooltip_clear_0005" value="Remove Source" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0001" value="Gather Building Materials" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0002" value="Gather Meat" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0003" value="Retrieve Ancient Book" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0004" value="Collect Shard" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0005" value="Gather Ore" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0006" value="Take Griffin Egg" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0007" value="Obtain Griffin Egg" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0008" value="Haul in Net" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0009" value="Take Gold" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0010" value="Pick Flower" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0011" value="Gather Rocks" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0012" value="Destroy Magic Orb" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0013" value="Take Hammer" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0014" value="Collect Statue Head" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0015" value="Retrieve Name Tag" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0016" value="Gather Nameless Plant" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0017" value="Retrieve Wheat Sack" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0018" value="Harvest Beehive" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0019" value="Collect Treasure" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0020" value="Collect Parts" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0021" value="Collect Remains" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0022" value="Gather Tools" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0023" value="Retrieve Box" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0024" value="Get Box" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0025" value="Collecting Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0026" value="Collect" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0027" value="Retrieve Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0028" value="Gather Food" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0029" value="Collect Seed Sack" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0030" value="Collect Egg" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0031" value="Retrieve Oreum" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0032" value="Collect Clothes" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0033" value="Gather Remains" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0034" value="Take Materials" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0035" value="Take Arm" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0036" value="Collect Goods" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0037" value="Take Toy" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0038" value="Take Vegetable" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0039" value="Gather" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0040" value="Obtain Book" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0041" value="Collect Bomb" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0042" value="Collect Mark" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0043" value="Gather Herb" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0044" value="Pick Pumpkin" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0046" value="Retrieve Fire Bird's Egg" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0047" value="Collect" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0048" value="Retrieve Music" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0049" value="Collect" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0050" value="Open" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0051" value="Gathering" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0052" value="Gather" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0053" value="Gather" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0054" value="Collect" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0055" value="Collect" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0056" value="Gather Spore" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0057" value="Collect Relic" />
+  <keys prop="Description" type="monster" key="action_tooltip_instill_0001" value="Use Pillar" />
+  <keys prop="Description" type="monster" key="action_tooltip_instill_0002" value="Infuse" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0001" value="Check Coffin" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0002" value="Check Cart" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0003" value="Check Ward" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0004" value="Examine Tombstone" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0005" value="Check Tombstone" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0006" value="Check Document" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0007" value="Check Footprints" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0008" value="Check excretion" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0009" value="Examine Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0010" value="Search Container" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0011" value="Check Stone Statue" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0012" value="Check Slate" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0013" value="Search Body" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0014" value="Check Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0015" value="Check Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0016" value="Check Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0017" value="Check Corpse" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0018" value="Check Food Sack" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0019" value="Check Music Sheet" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0020" value="Examine Carcass" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0021" value="Check Well" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0022" value="Examine Diary" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0023" value="Examine" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0024" value="Check Bucket" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0025" value="Search Container" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0026" value="Check" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0027" value="Check Board" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0028" value="Check" />
+  <keys prop="Description" type="monster" key="action_tooltip_melt_0001" value="Melt" />
+  <keys prop="Description" type="monster" key="action_tooltip_melt_0002" value="Melt Frost" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0001" value="Mine Copper" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0002" value="Mine Gold" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0003" value="Mine Diamond" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0004" value="Mine Dragonite" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0005" value="Pick Rooshine Flower" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0006" value="Mine Mithril" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0007" value="Open" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0008" value="Gather Brakarr herb" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0009" value="Mine Sapphire" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0010" value="Gather Frost Plant" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0011" value="Pick Sage Grass" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0012" value="Gather Sap" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0013" value="Mine Adamantite" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0014" value="Gather Hazeweed" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0015" value="Gather Herbs" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0016" value="Mine Emerald" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0017" value="Mine Exarium" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0018" value="Gather Soul Herb" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0019" value="Mine Silver" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0020" value="Mine Amethyst" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0021" value="Gather Native Grass" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0022" value="Gather Essence" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0023" value="Mine Iron" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0024" value="Pick Cherpa Snow Flower" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0025" value="Dig Out Koor Roots" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0026" value="Pick Taramun Herb" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0027" value="Mine Turalium" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0028" value="Pick Poron Mushroom" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0029" value="Gather Bloodbloom" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0030" value="Gather Crystal Grass" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0031" value="Gather Dew Leaf" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0032" value="Mine Keroum" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0033" value="Gather Aura" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0034" value="Gather Sacred Light" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0035" value="Gather Sacred Energy" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0036" value="Gather Spiderweb" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0037" value="Mine Ellium Ore" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0001" value="Open Door" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0003" value="Open Chest" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0004" value="Open" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0006" value="Open" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0007" value="Open Cell" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0008" value="Open Cage" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0009" value="Open Cage" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0010" value="Open Relic Box" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0011" value="Unlock" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0012" value="Open Iron Gate" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0013" value="Open Steel Bars" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0014" value="Open Steel Door" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0015" value="Audience Chamber Door" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0016" value="Iron Bars" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0017" value="Open Cell" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0018" value="Open Iron Gate" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0019" value="Pilgrim's Path" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0020" value="Acolyte's Path" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0021" value="Open" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0022" value="Search Container" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0023" value="Search Container" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0024" value="Open" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0025" value="Open Stone Chest" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0001" value="Repair" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0002" value="Repair Trap" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0003" value="Treat Woodcutter" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0004" value="Treat Woodcutter" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0005" value="Restore" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0006" value="Restore Statue" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0007" value="Repair" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0008" value="Restore Guardian Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0009" value="Repair" />
+  <keys prop="Description" type="monster" key="action_tooltip_refair_0010" value="Repair" />
+  <keys prop="Description" type="monster" key="action_tooltip_remove_0001" value="Destroy Spiderweb" />
+  <keys prop="Description" type="monster" key="action_tooltip_remove_0002" value="Remove Bomb" />
+  <keys prop="Description" type="monster" key="action_tooltip_remove_0003" value="Dispel Sigil" />
+  <keys prop="Description" type="monster" key="action_tooltip_remove_0004" value="Remove" />
+  <keys prop="Description" type="monster" key="action_tooltip_seal_0001" value="Seal Furious Power" />
+  <keys prop="Description" type="monster" key="action_tooltip_seal_0002" value="Seal Dark Power" />
+  <keys prop="Description" type="monster" key="action_tooltip_take_0001" value="Gather Frost" />
+  <keys prop="Description" type="monster" key="action_tooltip_take_0002" value="Check Trap" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0096" value="Loot Item" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0097" value="Chat" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0098" value="Use" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0099" value="Read Contents" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0100" value="Use Shrine" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0101" value="Place Mark" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0102" value="Take A Peek" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0103" value="Use Mine" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0104" value="Use Shimmerfruit" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0105" value="Use Mortar" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0106" value="Retrieve Bolts" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0107" value="Load Bolt" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0108" value="Deliver Medicine" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0058" value="Collect" />
+  <keys prop="Description" type="monster" key="action_tooltip_remove_0005" value="Remove" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0059" value="Take Medallion" />
+  <keys prop="Description" type="monster" key="action_tooltip_clear_0006" value="Use Antidote" />
+  <keys prop="Description" type="monster" key="action_tooltip_choice_1" value="Select" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0109" value="Engrave Manastone" />
+  <keys prop="Description" type="monster" key="action_tooltip_look_0029" value="Check A Reliquary" />
+  <keys prop="Description" type="monster" key="action_tooltip_collect_0060" value="Collect A First Aid Kit" />
+  <keys prop="Description" type="monster" key="action_tooltip_remove_0006" value="Clear Branches" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0110" value="Obtain A Torch" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0038" value="Gathering Aklan flowers" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0039" value="Mining Crystal" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0040" value="Mining Poronium" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0022" value="Ilric Egg destroyed" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0023" value="Cannibal plant destroyed" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0024" value="Destroy living Crystals" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0025" value="Destroy the Altar of Consciousness" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0026" value="Destroy the Tower of Victory" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0027" value="Destruction of the eccentric pit" />
+  <keys prop="Description" type="monster" key="action_tooltip_fire_0001" value="Burning flags" />
+  <keys prop="Description" type="monster" key="action_tooltip_break_0028" value="Breaking the barrier" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0026" value="Open prison" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0111" value="Obtain Demonic Stone" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0112" value="Investigate" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0113" value="Check" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0114" value="Trail of Rabbini" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0115" value="Disappeared Soldier's Trail" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0116" value="Listen to the rumors" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0117" value="Listen to the story" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0118" value="Ending the break" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0027" value="Jewel of the Moon is working" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0028" value="Jewel of Fire is working" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0029" value="Jewel of Water is working" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0030" value="Jewel of Wood is working" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0031" value="Jewel of Gold is working" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0032" value="Jewel of the Earth is working" />
+  <keys prop="Description" type="monster" key="action_tooltip_open_0033" value="Jewel of the Sun is working" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0119" value="Wake up Cherly Singer" />
+  <keys prop="Description" type="monster" key="action_tooltip_heal_0" value="First Aid" />
+  <keys prop="Description" type="monster" key="action_tooltip_summer_0001" value="Boarding a Boat" />
+  <keys prop="Description" type="monster" key="action_tooltip_summer_0002" value="Split Watermelon" />
+  <keys prop="Description" type="monster" key="action_tooltip_summer_0003" value="Banner Flyer" />
+  <keys prop="Description" type="monster" key="action_tooltip_action_0120" value="Marble Stone Occupation" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0041" value="Gathering Shining Felicite Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0042" value="Gathering High-Quality Felicite Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0043" value="Gathering Felicite Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0044" value="Gathering Shining Adamantium Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0045" value="Gathering High-Quality Adamantium Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0046" value="Gathering Adamantium Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0047" value="Gathering Shining Emerald Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0048" value="Gathering High-Quality Emerald Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_mine_0049" value="Gathering Emerald Vein" />
+  <keys prop="Description" type="monster" key="action_tooltip_e02_0001" value="Throwing Snowballs" />
+  <keys prop="Description" type="monster" key="action_tooltip_dog_0001" value="Winter Fall" />
+  <keys prop="Description" type="monster" key="action_tooltip_xmas_0001" value="Opening Christmas Box" />
+  <keys prop="Description" type="monster" key="action_tooltip_xmas_0002" value="Checking Christmas Sleigh" />
+  <keys prop="Description" type="monster" key="action_tooltip_d94_0001" value="Steal Meat from Tazrans" />
+</files>

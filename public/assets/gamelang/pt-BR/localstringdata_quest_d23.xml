@@ -1,2 +1,136 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="d23_9_0_0001_Title" value="Catástrofe de Cenoura" />
+  <keys prop="Description" type="monster" key="d23_9_0_0001_RewarderDesc" value="Buford Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0001_Request_Text" value="Você viu a minha cenoura? Eu a deixei aqui para cozinhar e agora ela se foi. São esses ladrões, sei disso.&lt;br&gt;&lt;br&gt;Eu não tenho tempo para isso! Preciso cozinhar! E preciso daquela cenoura! Só me traga mais uma da fazenda de cenouras. E depressa!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0001_Accepted_Text" value="Me traga uma nova cenoura da fazenda!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0001_Ongoing_Text" value="Eu não tenho tempo para isso! Preciso cozinhar! E preciso daquela cenoura! Só me traga mais uma da fazenda de cenouras. E depressa!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0001_Complete_Text" value="Isso. Essa é a cenoura que preciso! Eu preciso ir cozinhar! Agradeço!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0002_Title" value="Jantar para Pai Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0002_RewarderDesc" value="Pierre Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0002_Request_Text" value="Sou responsável por alimentar as pessoas importantes. Nobres, aristocratas, Pai Lucius Volifax em pessoa!&lt;br&gt;&lt;br&gt;Você acha que tenho tempo de ir às compras, agora, com uma lista de clientes assim? Se você acha, te chamaria de porco ambulante! É por isso que você vai me arranjar umas trufas. Anda logo, leitãozinho!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0002_Accepted_Text" value="Acelere, seu burro! Me traga trufas da Floresta de Cogumelos Nebulosa!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0002_Ongoing_Text" value="Você acha que eu tenho tempo para ir às compras agora com uma lista de clientes assim? Se achasse, eu te chamaria de um porco andarilho! É por isso que você vai me trazer algumas trufas. Ande logo, porquinho!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0002_Complete_Text" value="Veja só, você conseguiu. Agradeço. Por que está parado aí? Saia da minha cozinha! " />
+  <keys prop="Description" type="monster" key="d23_9_0_0003_Title" value="Ladrões de Cenoura" />
+  <keys prop="Description" type="monster" key="d23_9_0_0003_RewarderDesc" value="Pegadas Estranhas" />
+  <keys prop="Description" type="monster" key="d23_9_0_0003_Request_Text" value="Há pegadas de patas em direção aos campos de cenoura. Elas devem pertencer ao ladrão! Vamos rastreá-los e ensinar a eles uma lição, sim?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0003_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0003_Ongoing_Text" value="Há pegadas de patas em direção aos campos de cenoura. Elas devem pertencer ao ladrão! Vamos rastreá-los e ensinar a eles uma lição, sim?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0003_Complete_Text" value="Você capturou aquelas cobras ladras? Fez uma coisa boa hoje, humano." />
+  <keys prop="Description" type="monster" key="d23_9_0_0004_Title" value="Dor de Estômago" />
+  <keys prop="Description" type="monster" key="d23_9_0_0004_RewarderDesc" value="Podrick Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0004_Request_Text" value="Ugh... Ajude-nos, está bem? Os cogumelos, foram o que me pegou. Saboreio um pouco de veneno naquilo.&lt;br&gt;&lt;br&gt;Preciso de água. Água boa e limpa é o que a barriga necessita para expelir os líquidos. Há um lago. Por perto... por favor..." />
+  <keys prop="Description" type="monster" key="d23_9_0_0004_Accepted_Text" value="Eu preciso da água do lago. Nada além disso vai ajudar." />
+  <keys prop="Description" type="monster" key="d23_9_0_0004_Ongoing_Text" value="Preciso de água. Água boa, limpa é o que a barriga necessita para expelir os líquidos. Há um lago. Por perto... por favor..." />
+  <keys prop="Description" type="monster" key="d23_9_0_0004_Complete_Text" value="A-agradeço. Tenho um pouco de recuperação para passar, mas já me sinto bem. Não vou chegar perto dos cogumelos novamente, te digo isso." />
+  <keys prop="Description" type="monster" key="d23_9_0_0005_Title" value="Névoa Venenosa" />
+  <keys prop="Description" type="monster" key="d23_9_0_0005_RewarderDesc" value="Podrick Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0005_Request_Text" value="Eu tinha certeza de que era um caso perdido, bravo cavaleiro. Nunca tivemos cogumelos venenosos crescendo por aqui. Isso tem que ser obra daquele covarde do Bernard Thortor!&lt;br&gt;&lt;br&gt;Ele é quem está poluindo a floresta!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0005_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;1a4c53&quot;&gt;Se você sair agora, você perderá a chance de salvar as tocas! Faça o que for preciso antes que fiquemos sem tempo.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="d23_9_0_0005_Accepted_Text" value="Enquanto Bernard Thortor estiver por perto, a Floresta de Cogumelos não estará a salvo!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0005_Ongoing_Text" value="Isso tem que ser obra daquele covarde do Bernard Thortor! Ele é quem está poluindo a floresta! Ele precisa ser parado!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0005_Complete_Text" value="Uau, vocês humanos não estão nem perto de serem tão maus quanto nós temos dito que são. Por que você não pega esta pequena ficha de mim e do resto do clã?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0006_Title" value="Trevo de Quatro Folhas" />
+  <keys prop="Description" type="monster" key="d23_9_0_0006_RewarderDesc" value="Trevo de Quatro Folhas" />
+  <keys prop="Description" type="monster" key="d23_9_0_0006_Request_Text" value="Um trevo de quatro folhas. Vai trazer muita sorte!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0006_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0006_Ongoing_Text" value="Um trevo de quatro folhas. Vai trazer muita sorte!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0006_Complete_Text" value="Qualquer um que encontrar um trevo de quatro folhas terá boa sorte! Poderia ser você?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0007_Title" value="Pule-Esconde" />
+  <keys prop="Description" type="monster" key="d23_9_0_0007_RewarderDesc" value="Bennet Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0007_Request_Text" value="Perdoe-me, humano. Você viu meus sócios? Estávamos jogando um jogo empolgante de pique-esconde, mas a parte encarregada por encontrar se provou muito enfadonha.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Tenho certeza de que você está bem faminto, já que eu mesmo já tenho anseios guturais e o jantar se aproxima rapidamente. Talvez você poderia nos fazer um favor e usar seu senso de olfato humano para acelerar a situação. " />
+  <keys prop="Description" type="monster" key="d23_9_0_0007_Accepted_Text" value="Poderia por favor encontrar meus amigos de outrora?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0007_Ongoing_Text" value="Tenho certeza de que meus amigos estão famintos já que o jantar se aproxima, mas seu comprometimento com o jogo é muito poderoso! Poderia localizá-los para mim, por favor? " />
+  <keys prop="Description" type="monster" key="d23_9_0_0007_Complete_Text" value="Onde está Bennet? Ele deveria estar encontrando. Este jogo está arruinado! Eu vou comer até matar essa raiva." />
+  <keys prop="Description" type="monster" key="d23_9_0_0008_Title" value="Um Bolso Cheio de Tesouros" />
+  <keys prop="Description" type="monster" key="d23_9_0_0008_RewarderDesc" value="Jasper Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0008_Request_Text" value="Você aí! Eu tenho um problema de Lebrini. Veja, os Lebrini da toca do sul estão com inveja de nós, os Lebrini da toca do oeste, porque nós viemos do clã antigo dos Lebrini, que não deve ser confundido com o grande clã antigo dos Lebrini...&lt;br&gt;&lt;br&gt;(Você tem problemas para prestar atenção nos três minutos de tormenta, até...)&lt;br&gt;&lt;br&gt;...E AÍ, eles simplesmente levaram nosso tesouro de nós! Pode acreditar? Depois de toda aquela coisa com as calças? Inacreditável. Agora você vê o porquê precisa trazê-lo de volta por mim, certo?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0008_Accepted_Text" value="O que está esperando? Pegue aqueles ladrões!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0008_Ongoing_Text" value="Os palhaços saíram com o nosso tesouro! Eles ainda devem estar por perto. Você pode ensinar a eles uma lição, pela glória do clã Lebrini da toca do oeste!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0008_Complete_Text" value="Você os pegou? Ah, você é um dos bons, é sim." />
+  <keys prop="Description" type="monster" key="d23_9_0_0009_Title" value="Quem É o Mais Rápido" />
+  <keys prop="Description" type="monster" key="d23_9_0_0009_RewarderDesc" value="Uriah Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0009_Request_Text" value="O-o que? O que você está fazendo, acordando um camarada que estava tendo uma boa soneca? Estou descansando para a segunda parte da minha corrida.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Humanos estúpidos e feios. Agora vou ficar grogue pelo resto do dia. Você pode ao menos me dizer se você viu um jabuti aqui por essas bandas. Você viu?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0009_Accepted_Text" value="Onde está aquele maldito jabuti?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0009_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0009_Complete_Text" value="Obrigado por me acordar, eu acho. Eu poderia ter dormido o dia inteiro, se não fosse por você e sua cara feia. Agora eu só preciso encontrar aquele jabuti." />
+  <keys prop="Description" type="monster" key="d23_9_0_0010_Title" value="Pessoas Obscuras" />
+  <keys prop="Description" type="monster" key="d23_9_0_0010_RewarderDesc" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0010_Request_Text" value="Coisas estranhas têm acontecido ultimamente. Tesouros desaparecendo, um por um. O tipo de coisas sobre as quais ninguém deveria saber.&lt;br&gt;&lt;br&gt;Deve haver um espião nos grupos superiores. Se você estiver indo às Tocas Obscuras, fique com os olhos abertos. Estes tesouros não estão se roubando sozinhos. " />
+  <keys prop="Description" type="monster" key="d23_9_0_0010_Accepted_Text" value="Encontre o espião. Encontre o tesouro." />
+  <keys prop="Description" type="monster" key="d23_9_0_0010_Ongoing_Text" value="Se você estiver indo às Tocas Obscuras, fique com os olhos abertos. Estes tesouros não estão se roubando sozinhos. " />
+  <keys prop="Description" type="monster" key="d23_9_0_0010_Complete_Text" value="Eu não acredito que alguém teve a audácia de roubar das Tocas Obscuras! Talvez isso sirva de exemplo para quaisquer outros ladrões em potencial." />
+  <keys prop="Description" type="monster" key="d23_9_0_0011_Title" value="Procurado" />
+  <keys prop="Description" type="monster" key="d23_9_0_0011_RewarderDesc" value="Quadro de Avisos de Procurados" />
+  <keys prop="Description" type="monster" key="d23_9_0_0011_Request_Text" value="[Wanted] &lt;br&gt;&lt;br&gt;Algum ladrão fica roubando das Tocas Obscuras. Vou recompensar qualquer um que pegar o ladrão." />
+  <keys prop="Description" type="monster" key="d23_9_0_0011_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0011_Ongoing_Text" value="[Wanted] &lt;br&gt;&lt;br&gt;Algum ladrão fica roubando das Tocas Obscuras. Vou recompensar qualquer um que pegar o ladrão." />
+  <keys prop="Description" type="monster" key="d23_9_0_0011_Complete_Text" value="Reivindique sua recompensa." />
+  <keys prop="Description" type="monster" key="d23_9_0_0012_Title" value="A Verdade Obscura" />
+  <keys prop="Description" type="monster" key="d23_9_0_0012_RewarderDesc" value="Carta de Lucius Volifax" />
+  <keys prop="Description" type="monster" key="d23_9_0_0012_Request_Text" value="(Este pedaço de papel velho está coberto de escritas, mas não parecem humanas. Talvez Trace possa decifrá-lo nas Tocas Obscuras.)" />
+  <keys prop="Description" type="monster" key="d23_9_0_0012_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0012_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0012_Complete_Text" value="Isto parece ter sido escrito pelo próprio Lucius Volifax. Eu acho que é sobre as velhas Tocas Obscuras.&lt;br&gt;&lt;br&gt;Me dê um momento e eu darei uma olhada." />
+  <keys prop="Description" type="monster" key="d23_9_0_0013_Title" value="Receita Antiga" />
+  <keys prop="Description" type="monster" key="d23_9_0_0013_RewarderDesc" value="Receita de Panini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0013_Request_Text" value="(Esta receita antiga diz algo a respeito da comida de Lucius Volifax. Deve pertencer ao Chef Pierre Lebrini.)" />
+  <keys prop="Description" type="monster" key="d23_9_0_0013_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0013_Ongoing_Text" value="(Esta receita antiga diz algo a respeito da comida de Lucius Volifax. Deve pertencer ao Chef Pierre Lebrini.)" />
+  <keys prop="Description" type="monster" key="d23_9_0_0013_Complete_Text" value="Onde você conseguiu isso? Você tirou isso da minha lata de lixo velha como o porco que você é?!&lt;br&gt;&lt;br&gt;Ah, mas a visão dessa pequena imitação me deixa com os olhos um pouco marejados. Está bem, tome uma recompensa, mas não ache que isto me fez ficar mole." />
+  <keys prop="Description" type="monster" key="d23_9_0_0014_Title" value="Pilão Lunar" />
+  <keys prop="Description" type="monster" key="d23_9_0_0014_RewarderDesc" value="Quadro de Avisos de Achados e Perdidos" />
+  <keys prop="Description" type="monster" key="d23_9_0_0014_Request_Text" value="(Este pilão parece familiar. Havia um pedido nos quadros de avisos das Tocas Obscuras para levá-lo de volta.)" />
+  <keys prop="Description" type="monster" key="d23_9_0_0014_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="d23_9_0_0014_Ongoing_Text" value="[Pilão Perdido]&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Eu perdi o pilão do meu vovôzinho! Foi passado de geração em geração. E agora se foi! Meus ancestrais irão me assombrar para sempre se eu não pegá-lo de volta.&lt;br&gt;&lt;br&gt;-Moony Lebrini&lt;br&gt;&lt;br&gt;&lt;font color=&quot;1a4c53&quot;&gt;Por favor, deixe o pilão em frente ao quadro de avisos.&lt;/font color&gt;&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="d23_9_0_0014_Complete_Text" value="[Pilão Perdido]&#xD;&#xA;&lt;br&gt;&lt;br&gt;&#xD;&#xA;Eu perdi o pilão do meu vovôzinho! Foi passado de geração em geração. E agora se foi! Meus ancestrais irão me assombrar para sempre se eu não pegá-lo de volta.&lt;br&gt;&lt;br&gt;-Moony Lebrini&lt;br&gt;&lt;br&gt;&lt;font color=&quot;1a4c53&quot;&gt;Por favor, deixe o pilão em frente ao quadro de avisos.&lt;/font color&gt;&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="d23_9_0_0015_Title" value="Fígado Nobre" />
+  <keys prop="Description" type="monster" key="d23_9_0_0015_RewarderDesc" value="Onde está aquele maldito jabuti?" />
+  <keys prop="Description" type="monster" key="d23_9_0_0015_Request_Text" value="Socorro! Por favor, me ajude! Meu rei está bem doente e só há um remédio que pode salvá-lo. Precisamos do fígado do Lorde da Lebre. &lt;br&gt;&lt;br&gt;Já ouviu falar de Lucius Volifax? Rei dos Lebrini? Eu não posso matá-lo, mas talvez você possa..." />
+  <keys prop="Description" type="monster" key="d23_9_0_0015_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Se você for embora agora, você perderá a chance de salvar as tocas! Faça o que tiver que fazer antes que fiquemos sem tempo." />
+  <keys prop="Description" type="monster" key="d23_9_0_0015_Accepted_Text" value="Derrote Lucius Volifax e retorne com seu fígado!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0015_Ongoing_Text" value="Preciso da sua ajuda para salvar nosso rei. Se você me ajudar, eu irei compensá-lo bem. Por favor." />
+  <keys prop="Description" type="monster" key="d23_9_0_0015_Complete_Text" value="É isso? Isso irá salvar nosso rei. Eu sei que vai! Agradeço!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0016_Title" value="Arruaceiro nos Arbustos" />
+  <keys prop="Description" type="monster" key="d23_9_0_0016_RewarderDesc" value="Clarence Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0016_Request_Text" value="Aaah, algum arruaceiro esteve nas minhas mudas de cenoura novamente! Eles sempre vêm quando estou dormindo. Como eu posso ganhar a vida assim, hein?&lt;br&gt;&lt;br&gt;Você precisa me ajudar! Eu estou com uma necessidade poderosa de dormir agora." />
+  <keys prop="Description" type="monster" key="d23_9_0_0016_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;1a4c53&quot;&gt;Se você sair agora, você perderá a chance de salvar as tocas! Faça o que for preciso antes que fiquemos sem tempo.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="d23_9_0_0016_Accepted_Text" value="Faça com que esses arruaceiros parem de mexer com minhas cenouras!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0016_Ongoing_Text" value="Humano, aquele arruaceiro está por perto. Persiga-o, para que eu possa dormir em paz." />
+  <keys prop="Description" type="monster" key="d23_9_0_0016_Complete_Text" value="Finalmente, eu posso voltar a--&lt;br&gt;&lt;br&gt;(Ele está dormindo. Você coleta sua recompensa dos bolsos dele.)" />
+  <keys prop="Description" type="monster" key="d23_9_0_0017_Title" value="Um Restaurante Caótico" />
+  <keys prop="Description" type="monster" key="d23_9_0_0017_RewarderDesc" value="Buford Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0017_Request_Text" value="Ele veio novamente! O restaurane está uma bagunça! A comida sumiu! Cadeiras e mesas fora de lugar!&lt;br&gt;&lt;br&gt;Eu quero vingança. Eu quero destrui-lo a qualquer custo, mas eu não quero uma avaliação ruim. Ajude-me, humano. Eu preciso manter as patas limpas." />
+  <keys prop="Description" type="monster" key="d23_9_0_0017_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;Se você for embora agora, você perderá a chance de salvar as tocas! Faça o que tiver que fazer antes que fiquemos sem tempo." />
+  <keys prop="Description" type="monster" key="d23_9_0_0017_Accepted_Text" value="Destrua o trapaceiro que não para de arruinar o meu restaurante!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0017_Ongoing_Text" value="Há um pateta monstruoso que vem ao meu restaurante de vez em quando e acaba totalmente com o lugar. Ajude-me a destrui-lo! Só se certifique de que não pareça que eu estive envolvido ou os críticos locais de comida irão me rasgar." />
+  <keys prop="Description" type="monster" key="d23_9_0_0017_Complete_Text" value="Você o matou? Quais foram as últimas palavras dele? Foram algo sobre ser uma pilha suprema de pílulas?! Aposto que sim." />
+  <keys prop="Description" type="monster" key="d23_9_0_0018_Title" value="Proteger a Sorte" />
+  <keys prop="Description" type="monster" key="d23_9_0_0018_RewarderDesc" value="Florian Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0018_Request_Text" value="Isso é ridículo! Alguém continua pegando todos os trevos de quatro folhas do meu jardim de trevos! Como eu posso ganhar na loteria sem eles? Hein?!&lt;br&gt;&lt;br&gt;Alguém precisa pagar por isso...com sua vida." />
+  <keys prop="Description" type="monster" key="d23_9_0_0018_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;1a4c53&quot;&gt;Se você sair agora, você perderá a chance de salvar as tocas! Faça o que for preciso antes que fiquemos sem tempo.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="d23_9_0_0018_Accepted_Text" value="Vingue meus trevos roubados!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0018_Ongoing_Text" value="Trevo de quatro folhas são pura sorte e eu vou precisar de vários para ganhar na loteria. Vá lá fora e mate aquele ladrão!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0018_Complete_Text" value="Você capturou a fera? Retirou suas garras uma por uma? Não? UGH! Por que foi que eu te contratei, seu careca esquisito?!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0019_Title" value="Relações Obscuras" />
+  <keys prop="Description" type="monster" key="d23_9_0_0019_RewarderDesc" value="Meriwether Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0019_Request_Text" value="Você quer entrar nas Tocas Obscuras, não quer? Chegue aqui e eu vou te dizer o segredo que aqueles outros Lebrini não querem que você escute.&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="d23_9_0_0019_Request_Text_attach_0" value="Somente 15 ouros, e te darei a poção que você precisa para se misturar com os irmãos e irmãs Lebrini. Beba o suficiente e você poderá nem precisar mais voltar a ser uma sacola de pele gigante!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0019_Accepted_Text" value="Adquira esta poção, meu amigo com problemas de pelo! Só então você poderá entrar nas Tocas Obscuras!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0019_Ongoing_Text" value="Somente 50 ouros para trocar sua vida sem sentido por um país das maravilhas com temática de Lebrini!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0019_Complete_Text" value="Eu sabia que você faria a escolha certa. Aqui está sua poção. Não se preocupe se tem gosto de suco de cenoura simples e velho e você não sente nada. Eu, hm, o projetei assim...&lt;br&gt;&lt;br&gt;Ah, e leve essas bombas chiques. Ataques grandes não são permitidos nas Tocas Obscuras, e você não quer chamar a atenção." />
+  <keys prop="Description" type="monster" key="d23_9_0_0020_Title" value="Tocas Obscuras" />
+  <keys prop="Description" type="monster" key="d23_9_0_0020_RewarderDesc" value="Meriwether Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0020_Request_Text" value="Eu quase me esqueci! Se qualquer Lebrini perceber que você não é daqui, você estará em sério perigo. Quer dizer, a não ser que você consiga esconder a sua verdadeira natureza... com outra de minhas incríveis poções!&lt;br&gt;&lt;br&gt;Esta poção irá esconder sua cara sem pelos por 20 minutos inteiros. Leve este, por enquanto. Nos acertaremos depois." />
+  <keys prop="Description" type="monster" key="d23_9_0_0020_Accepted_Text" value="Eu quase me esqueci! Se qualquer Lebrini perceber que você não é daqui, você estará em sério perigo. Quer dizer, a não ser que você consiga esconder a sua verdadeira natureza... com outra de minhas incríveis poções!&lt;br&gt;&lt;br&gt;Esta poção irá esconder sua cara sem pelos por 20 minutos inteiros. Leve este, por enquanto. Nos acertaremos depois." />
+  <keys prop="Description" type="monster" key="d23_9_0_0020_Ongoing_Text" value="Eu quase me esqueci! Se qualquer Lebrini perceber que você não é daqui, você estará em sério perigo. Quer dizer, a não ser que você consiga esconder a sua verdadeira natureza... com outra de minhas incríveis poções!&lt;br&gt;&lt;br&gt;Esta poção irá esconder sua cara sem pelos por 20 minutos inteiros. Leve este, por enquanto. Nos acertaremos depois." />
+  <keys prop="Description" type="monster" key="d23_9_0_0020_Complete_Text" value="Boas-vindas de volta, boas-vindas de volta. Não fique sem essa poção. Você não vai quer saber o que irá acontecer." />
+  <keys prop="Description" type="monster" key="d23_9_0_0021_Title" value="Pulos e Ladrões" />
+  <keys prop="Description" type="monster" key="d23_9_0_0021_RewarderDesc" value="Jasper Lebrini" />
+  <keys prop="Description" type="monster" key="d23_9_0_0021_Request_Text_attach_0" value="&lt;br&gt;&lt;br&gt;&lt;font color=&quot;1a4c53&quot;&gt;Se você sair agora, você perderá a chance de salvar as tocas! Faça o que for preciso antes que fiquemos sem tempo.&lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="d23_9_0_0021_Request_Text" value="Eu estou tão cansado desses canalhas da toca do sul! Eles têm inveja da nossa dicção e decoração superior da toca do oeste. Eu fiquei tão irritado da última vez que vieram me insultar que eu segui um deles para o seu covil esquálido. &lt;br&gt;&lt;br&gt;E sabe o que eu encontrei?? Leander! É ele quem tem roubado todos os meus tesouros e é ele quem precisa pagar." />
+  <keys prop="Description" type="monster" key="d23_9_0_0021_Accepted_Text" value="Pare aquele palhaço do Leander! Ele não é nada além de um ladrão!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0021_Ongoing_Text" value="Os roubos não irão acabar até que Leander se vá! Derrubem-no. Mostrem a ele que a toca do leste é a melhor parte do nosso vilarejo!" />
+  <keys prop="Description" type="monster" key="d23_9_0_0021_Complete_Text" value="Ele se foi? Foi mesmo? Bom. Aquela desgraça lamentável era uma praga no nome dos Lebrini." />
+</files>

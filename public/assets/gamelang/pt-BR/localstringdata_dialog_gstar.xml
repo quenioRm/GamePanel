@@ -1,2 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="dialog_1420001_title" value="Corvo" />
+  <keys prop="Description" type="monster" key="dialog_1420001_text0" value="Eu pensei que o titã do céu que estávamos montando conseguisse lidar com um pouco de resistência, mas esses piratas são persistentes. Acho que o Soldado Raso Selin também pode ter sido capturado. Não é a melhor maneira de começar um dia..." />
+  <keys prop="Description" type="monster" key="dialog_1420002_title" value="Soldado Raso Selin" />
+  <keys prop="Description" type="monster" key="dialog_1420002_text0" value="Que Ellora seja louvada!&lt;br&gt;&lt;br&gt;Vocês vieram me salvar! " />
+  <keys prop="Description" type="monster" key="dialog_1420003_title" value="Paolo Roaman" />
+  <keys prop="Description" type="monster" key="dialog_1420003_text0" value="O dragão, Karasha, veio a esta terra para dominar com fogo. É por isso que estamos aqui. Para pôr fim à sua ira." />
+  <keys prop="Description" type="monster" key="dialog_1420004_title" value="Cynth" />
+  <keys prop="Description" type="monster" key="dialog_1420004_text0" value="Estávamos indo para a capital. Temos pouca informação sobre este lugar, mas faremos o máximo possível para cumprir nosso dever. " />
+  <keys prop="Description" type="monster" key="dialog_1420005_title" value="Guardião dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="dialog_1420005_text0" value="Karasha não pode conseguir mais poder. O mundo não aguentaria." />
+  <keys prop="Description" type="monster" key="dialog_1420006_title" value="Cavaleiro do Templo" />
+  <keys prop="Description" type="monster" key="dialog_1420006_text0" value="Toda a glória a Hakain!&lt;br&gt;&lt;br&gt;O que posso fazer por você?" />
+  <keys prop="Description" type="monster" key="dialog_1420007_title" value="Tortus" />
+  <keys prop="Description" type="monster" key="dialog_1420007_text0" value="Os piratas não permitirão que simplesmente saiamos daqui. Vamos ter que cortar caminho até a capital." />
+  <keys prop="Description" type="monster" key="dialog_1420008_title" value="Dame Renata" />
+  <keys prop="Description" type="monster" key="dialog_1420008_text0" value="Não deveríamos ter vindo por aqui... Esse &quot;atalho&quot; acabou nos levando mais longe ainda... " />
+  <keys prop="Description" type="monster" key="dialog_1420009_title" value="Soldado Raso Swin" />
+  <keys prop="Description" type="monster" key="dialog_1420009_text0" value="Eu vi você lutando com os piratas enquanto estava em ronda. Que bom que você chegou até aqui. " />
+</files>

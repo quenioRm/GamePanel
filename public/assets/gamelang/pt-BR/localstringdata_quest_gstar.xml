@@ -1,2 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="F02_G_00001_Title" value="Escape da prisão de Salant." />
+  <keys prop="Description" type="monster" key="F02_G_00001_RewarderDesc" value="Corvo" />
+  <keys prop="Description" type="monster" key="F02_G_00001_Request_Text" value="Siga Corvo. Ele pode nos guiar para fora da prisão de Salant." />
+  <keys prop="Description" type="monster" key="F02_G_00001_Accepted_Text" value="Siga Corvo. Ele pode nos guiar para fora da prisão de Salant." />
+  <keys prop="Description" type="monster" key="F02_G_00001_Ongoing_Text" value="Siga Corvo. Ele pode nos guiar para fora da prisão de Salant." />
+  <keys prop="Description" type="monster" key="F02_G_00001_Complete_Text" value="Você está bem? Você esteve adormecido desde a queda daquele familiar voador. Parece que já está bem para se locomover. Estou contente." />
+  <keys prop="Description" type="monster" key="F02_G_00002_Title" value="Sumam, Piratas" />
+  <keys prop="Description" type="monster" key="F02_G_00002_RewarderDesc" value="Soldado Raso Selin" />
+  <keys prop="Description" type="monster" key="F02_G_00002_Request_Text" value="Precisamos contar ao rei sobre a princesa imediatamente! Preciso cuidar dos feridos, então é com você.&lt;br&gt;&lt;br&gt;Antes que você vá, é preciso libertar a Soldado Raso Selin dos piratas Karade na área. Ela com certeza tem informações valiosas sobre o paradeiro da princesa." />
+  <keys prop="Description" type="monster" key="F02_G_00002_Accepted_Text" value="Resgate Selin dos Piratas Karade." />
+  <keys prop="Description" type="monster" key="F02_G_00002_Ongoing_Text" value="Passe a espada nesses piratas e resgate a Soldado Raso Selin. Ela deve saber de algo." />
+  <keys prop="Description" type="monster" key="F02_G_00002_Complete_Text" value="Obrigada por me resgatar. Eles iam me torturar..." />
+  <keys prop="Description" type="monster" key="F02_G_00003_Title" value="O Lorde Pirata" />
+  <keys prop="Description" type="monster" key="F02_G_00003_RewarderDesc" value="Paolo Roaman" />
+  <keys prop="Description" type="monster" key="F02_G_00003_Request_Text" value="Tenho informações importantes. O Lorde pirata, Zenalin, está aqui. Ele é procurado por todo o reino por suas maldades. Ele e seus piratas devem ter cruzado para o acampamento por mar.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Um dos nossos patrulheiros está desaparecido. Preciso de alguém para lutar contra os piratas, atacar Zenalin e encontrar nosso patrulheiro. Espero que você esteja preparado para o desafio." />
+  <keys prop="Description" type="monster" key="F02_G_00003_Accepted_Text" value="Pare o lorde pirata e encontre o patrulheiro dos Cavaleiros do Dragão.  " />
+  <keys prop="Description" type="monster" key="F02_G_00003_Ongoing_Text" value="Tenho informações importantes. O Lorde pirata, Zenalin, está aqui. Ele é procurado por todo o reino por suas maldades. Ele e seus piratas devem ter cruzado para o acampamento por mar.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Um dos nossos patrulheiros está desaparecido. Preciso de alguém para lutar contra os piratas, atacar Zenalin e encontrar nosso patrulheiro. Espero que você esteja preparado para o desafio." />
+  <keys prop="Description" type="monster" key="F02_G_00003_Complete_Text" value="Estou acompanhando os movimentos de todos estes piratas, por ordem do meu Capitão. Graças a você, tenho menos deles para acompanhar." />
+  <keys prop="Description" type="monster" key="F02_G_00003_0_Title" value="Aniquilamento II" />
+  <keys prop="Description" type="monster" key="F02_G_00003_0_RewarderDesc" value="Paolo Roaman" />
+  <keys prop="Description" type="monster" key="F02_G_00003_0_Request_Text" value="Tenho informações importantes. Dois lordes piratas muito perigosos estão aqui. Eles são procurados por todo o reino por suas maldades. Os piratas devem ter cruzado para o acampamento por mar.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Um dos nossos patrulheiros está desaparecido. Preciso de alguém para lutar contra os piratas, atacar os lordes piratas e encontrar nosso patrulheiro. Espero que você esteja preparado para o desafio." />
+  <keys prop="Description" type="monster" key="F02_G_00003_0_Accepted_Text" value="Pare o lorde pirata e encontre o patrulheiro dos Cavaleiros do Dragão.  " />
+  <keys prop="Description" type="monster" key="F02_G_00003_0_Ongoing_Text" value="Tenho informações importantes. Dois lordes piratas muito perigosos estão aqui. Eles são procurados por todo o reino por suas maldades. Os piratas devem ter cruzado para o acampamento por mar.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Um dos nossos patrulheiros está desaparecido. Preciso de alguém para lutar contra os piratas, atacar os lordes piratas e encontrar nosso patrulheiro. Espero que você esteja preparado para o desafio." />
+  <keys prop="Description" type="monster" key="F02_G_00003_0_Complete_Text" value="Estou acompanhando os movimentos de todos estes piratas, por ordem do meu Capitão. Graças a você, tenho menos deles para acompanhar." />
+  <keys prop="Description" type="monster" key="F02_G_00003_1_Title" value="Atravesse o Mar" />
+  <keys prop="Description" type="monster" key="F02_G_00003_1_RewarderDesc" value="Paolo Roaman" />
+  <keys prop="Description" type="monster" key="F02_G_00003_1_Request_Text" value="Você quer saber como sair daqui? Vá ver nosso comandante no acampamento.&lt;br&gt;&lt;br&gt;Nade até aqueles barcos pequenos na outra margem. Nade até lá e você encontrará o Acampamento dos Cavaleiros do Dragão." />
+  <keys prop="Description" type="monster" key="F02_G_00003_1_Accepted_Text" value="Nade para o acampamento. Você encontrará meu comandante lá." />
+  <keys prop="Description" type="monster" key="F02_G_00003_1_Ongoing_Text" value="Você quer saber como sair daqui? Vá ver nosso comandante no acampamento.&lt;br&gt;&lt;br&gt;Nade até aqueles barcos pequenos na outra margem. Nade até lá e você encontrará o Acampamento dos Cavaleiros do Dragão." />
+  <keys prop="Description" type="monster" key="F02_G_00003_1_Complete_Text" value="A baía está bloqueada pelos piratas. Estamos presos aqui." />
+  <keys prop="Description" type="monster" key="F02_G_00004_Title" value="Batalhe com Karasha I" />
+  <keys prop="Description" type="monster" key="F02_G_00004_RewarderDesc" value="Paolo Roaman" />
+  <keys prop="Description" type="monster" key="F02_G_00004_Request_Text" value="A única esperança de escapar deste lugar é domar uma dessas feras voadoras da caldeira quebrada.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Não pense, porém, que será uma tarefa fácil. Karasha não irá sair de perto enquanto alguém invade seu território." />
+  <keys prop="Description" type="monster" key="F02_G_00004_Accepted_Text" value="Dome uma das criaturas da caldeira quebrada e enfrente Karasha em batalha." />
+  <keys prop="Description" type="monster" key="F02_G_00004_Ongoing_Text" value="Dome uma das criaturas da caldeira quebrada e enfrente Karasha em batalha." />
+  <keys prop="Description" type="monster" key="F02_G_00004_Complete_Text" value="Você derrotou Karasha?! Incrível! Agora, voe de volta para o reino enquanto pode!" />
+  <keys prop="Description" type="monster" key="F02_G_00004_1_Title" value="Batalhe com Karasha II" />
+  <keys prop="Description" type="monster" key="F02_G_00004_1_RewarderDesc" value="Paolo Roaman" />
+  <keys prop="Description" type="monster" key="F02_G_00004_1_Request_Text" value="A única esperança de escapar deste lugar é domar uma dessas feras voadoras da caldeira quebrada.&lt;br&gt;&lt;br&gt;&#xD;&#xA;Não pense, porém, que será uma tarefa fácil. Karasha não irá sair de perto enquanto alguém invade seu território." />
+  <keys prop="Description" type="monster" key="F02_G_00004_1_Accepted_Text" value="Dome uma das criaturas da caldeira quebrada e enfrente Karasha em batalha." />
+  <keys prop="Description" type="monster" key="F02_G_00004_1_Ongoing_Text" value="Dome uma das criaturas da caldeira quebrada e enfrente Karasha em batalha." />
+  <keys prop="Description" type="monster" key="F02_G_00004_1_Complete_Text" value="Você derrotou Karasha?! Incrível! Agora, voe de volta para o reino enquanto pode!" />
+</files>

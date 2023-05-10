@@ -1,2 +1,537 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="Dialog_1050001_Title" value="Rector Roster" />
+  <keys prop="Description" type="monster" key="Dialog_1050001_Text0" value="Ei! Nunca te vi. Espero que você esteja aqui para fazer algo a respeito desses piratas. Não posso praticar a pescaria com essas pessoas aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1050001_Text1" value="Acredite, se eu conseguisse fazer o Merumi abrir o lago de novo, faria isso. Acho que eles têm problemas com o fato de o ancião deixar qualquer perdido que ele encontra entrar na cidade, mas isso não é nada comparado com os problemas que esses piratas estão nos dando." />
+  <keys prop="Description" type="monster" key="Dialog_1050001_Text1_attach_0" value="&lt;br&gt;&lt;br&gt;Bem, agora não é hora de se preocupar com o merumi. Temos piratas com os quais nos preocupar. Se você quiser ajudar, converse com Angela. Ela tem muita coisa contra eles." />
+  <keys prop="Description" type="monster" key="Dialog_1050001_answer_0_text" value="Gostaria de saber por que o merumi fechou o lago." />
+  <keys prop="Description" type="monster" key="Dialog_1050002_Title" value="Nicholas Cole" />
+  <keys prop="Description" type="monster" key="Dialog_1050002_Text0" value="Veio sofrer conosco, viajante? Com o frio tenebroso e os piratas do mal, é de se admirar que ainda estejamos vivos. Vigia do Junco não é como era antes. Até meu filho fugiu para se unir aos piratas." />
+  <keys prop="Description" type="monster" key="Dialog_1050002_Text1" value="O povo de Vigia do Junco é forte. Vamos passar por isso. Meu filho ainda precisa crescer muito, mas um dia, ele será um ótimo cidadão." />
+  <keys prop="Description" type="monster" key="Dialog_1050003_Title" value="John Duarden" />
+  <keys prop="Description" type="monster" key="Dialog_1050003_Text0" value="Seu estado é deplorável! Se pretende lutar contra piratas, vai ter que aparentar mais bravura. Sim, eles fazem coisas ruins, mas no fim das contas, não passam de covardes. " />
+  <keys prop="Description" type="monster" key="Dialog_1050004_Title" value="Angela Scane" />
+  <keys prop="Description" type="monster" key="Dialog_1050004_Text0" value="Nunca te vi. E se você tiver bom senso, vai sumir daqui o mais rápido possível. Os piratas não têm pena de ninguém. Minha gente aprendeu isso sofrendo..." />
+  <keys prop="Description" type="monster" key="Dialog_1050004_Text1" value="Certamente não sei por que o merumi está nos desprezando. Você devia perguntar ao alquimista. Ele sempre tem muitas informações úteis." />
+  <keys prop="Description" type="monster" key="Dialog_1050004_answer_2_text" value="Por que o merumi fechou o lago?" />
+  <keys prop="Description" type="monster" key="Dialog_1050005_Title" value="Amy Heigl" />
+  <keys prop="Description" type="monster" key="Dialog_1050005_Text0" value="Um cliente! Entre, entre. Ponha as pernas para cima e deixe as preocupações do lado de fora.&lt;br&gt;&lt;br&gt;Por favor, não vá embora! Você é o primeiro cliente novo que apareceu esta semana!" />
+  <keys prop="Description" type="monster" key="Dialog_1050005_Text1" value="Não estou exatamente nadando em ouro, mas as coisas têm melhorado. É só questão de tempo para tudo voltar a ser como era antes." />
+  <keys prop="Description" type="monster" key="Dialog_1050005_answer_11_text" value="Parece que a milícia não confia nos mercenários." />
+  <keys prop="Description" type="monster" key="Dialog_1050006_Title" value="Amy Heigl" />
+  <keys prop="Description" type="monster" key="Dialog_1050006_Text0" value="Um cliente! Entre, entre. Ponha as pernas para cima e deixe as preocupações do lado de fora.&lt;br&gt;&lt;br&gt;Por favor, não vá embora! Você é o primeiro cliente novo que apareceu esta semana!" />
+  <keys prop="Description" type="monster" key="Dialog_1050006_Text1" value="Não estou exatamente nadando em ouro, mas as coisas têm melhorado. É só questão de tempo para tudo voltar a ser como era antes." />
+  <keys prop="Description" type="monster" key="Dialog_1050006_answer_2_text" value="John Pond disse que não está recebendo um tratamento justo. Disse que vai embora. Então, e você? Vai sair também ou vai aguentar até o fim?" />
+  <keys prop="Description" type="monster" key="Dialog_1050007_Title" value="Sir Riley Stuart" />
+  <keys prop="Description" type="monster" key="Dialog_1050007_Text0" value="Meu irmão não para de falar de sua grandeza. Por algum motivo, pensei que você fosse... maior.&lt;br&gt;&lt;br&gt;Bom, quem manda aqui sou eu, então cuidado." />
+  <keys prop="Description" type="monster" key="Dialog_1050008_Title" value="Reice Bale (Vigia do Junco)" />
+  <keys prop="Description" type="monster" key="Dialog_1050008_Text0" value="Em um clima extremo como este, até mesmo o menor ferimento pode se tornar fatal. Mas com a alquimia, é possível inventar poções e tinturas para curar todas as suas feridas. E aí, está pronto para aprender?" />
+  <keys prop="Description" type="monster" key="Dialog_1050008_answer_4_text" value="Treinar Alquimia" />
+  <keys prop="Description" type="monster" key="Dialog_1050009_Title" value="Roin Teslow" />
+  <keys prop="Description" type="monster" key="Dialog_1050009_Text0" value="Um dia, dominarei as grandes tradições culinárias da Costa de Parna! Primeiro, só preciso saber quais são elas." />
+  <keys prop="Description" type="monster" key="Dialog_1050009_answer_5_text" value="Vim escolher um presente para Águas Sagradas." />
+  <keys prop="Description" type="monster" key="Dialog_1050009_answer_6_text" value="Quitandeiro" />
+  <keys prop="Description" type="monster" key="Dialog_1050010_Title" value="Roton Grain" />
+  <keys prop="Description" type="monster" key="Dialog_1050010_Text0" value="Adentrar essas terras é colocar sua vida em risco. Diga, você quer morrer?" />
+  <keys prop="Description" type="monster" key="Dialog_1050011_Title" value="Grace McCain" />
+  <keys prop="Description" type="monster" key="Dialog_1050011_Text0" value="Você parece ter dinheiro. Recebi a encomenda de uma escultura nova aqui, mas agora estou sem saída! Sinto desespero para voltar para casa e ver minha família na Travessia de Hakain, mas é perigoso demais partir, ainda mais com todos os piratas. Ah, o que vou fazer?" />
+  <keys prop="Description" type="monster" key="Dialog_1050012_Title" value="Gordon Stale" />
+  <keys prop="Description" type="monster" key="Dialog_1050012_Text0" value="O ancião disse que quer lenha. Mas há piratas na mata. Como vou pegar lenha se há piratas na mata? Então, eu digo ao ancião que se ele fizer alguma coisa em relação aos piratas, eu pego a lenha..." />
+  <keys prop="Description" type="monster" key="Dialog_1050013_Title" value="Aria Rotte" />
+  <keys prop="Description" type="monster" key="Dialog_1050013_Text0" value="Por favor, descanse um pouco aqui. Não posso lutar e não posso criar, mas posso aliviar seu fardo com minha música." />
+  <keys prop="Description" type="monster" key="Dialog_1050013_answer_0_text" value="Você tem presentes para o merumi?" />
+  <keys prop="Description" type="monster" key="Dialog_1050014_Title" value="Walter Gorrigon" />
+  <keys prop="Description" type="monster" key="Dialog_1050014_Text0" value="Ao contrário de algumas pessoas, não acho que todo desconhecido que percorre a cidade está conspirando com os piratas. Como artista, preciso manter a mente aberta. Afinal, a única maneira de ter novas ideias é se expondo às novidades!" />
+  <keys prop="Description" type="monster" key="Dialog_1050014_answer_4_text" value="Você terminou seus presentes para o merumi?" />
+  <keys prop="Description" type="monster" key="Dialog_1050015_Title" value="Ricard Codwing" />
+  <keys prop="Description" type="monster" key="Dialog_1050015_Text0" value="Claro que sei o que estou fazendo! Um navio de guerra não é tão diferente de um barco de pesca. Só preciso acrescentar um espaço para os canhões... certo?" />
+  <keys prop="Description" type="monster" key="Dialog_1050016_Title" value="Gailen Messing" />
+  <keys prop="Description" type="monster" key="Dialog_1050016_Text0" value="Xô. Estou trabalhando. Ou trabalharia, se o mestre armador acabasse logo o maldito desenho que está fazendo..." />
+  <keys prop="Description" type="monster" key="Dialog_1050017_Title" value="Rayna Veloforte" />
+  <keys prop="Description" type="monster" key="Dialog_1050017_Text0" value="Bem, este é um desconhecido com armamento pesado. Veio matar alguns piratas? Vai nessa, então! A menos que queira mergulhar no meu lugar, claro." />
+  <keys prop="Description" type="monster" key="Dialog_1050018_Title" value="Sith Feighan" />
+  <keys prop="Description" type="monster" key="Dialog_1050018_Text0" value="Bem, este é um desconhecido com armamento pesado. Veio matar alguns piratas? Vai nessa, então! A menos que queira mergulhar no meu lugar, claro." />
+  <keys prop="Description" type="monster" key="Dialog_1050019_Title" value="Mitchel Sabolt" />
+  <keys prop="Description" type="monster" key="Dialog_1050019_Text0" value="Sempre fico feliz quando recebo um amigo cavaleiro no acampamento. A maioria dessas mercenários preguiçosos faz o mínimo do mínimo por um salário." />
+  <keys prop="Description" type="monster" key="Dialog_1050019_Text1" value="Nossa negligência permitiu que os piratas se posicionassem na Costa de Parna. Quando eu organizar a guarnição, vamos expulsar os piratas de uma vez por todas." />
+  <keys prop="Description" type="monster" key="Dialog_1050019_answer_16_text" value="Bismuth" />
+  <keys prop="Description" type="monster" key="Dialog_1050020_Title" value="Yvonne Baylor" />
+  <keys prop="Description" type="monster" key="Dialog_1050020_Text0" value="Os safados dos piratas não lutaram de um jeito justo, todos me atacaram de uma vez. Dezessete deles contra mim! Derrubei todos, mas estou doido para derrubar mais. Preciso me vingar de todas as facadas..." />
+  <keys prop="Description" type="monster" key="Dialog_1050020_Text1" value="Então, você cuidou da ameaça pirata. Caramba, queria ter visto a cara deles enquanto você os matava." />
+  <keys prop="Description" type="monster" key="Dialog_1050020_answer_10_text" value="A milícia fez algumas reclamações a respeito de seus mercenários." />
+  <keys prop="Description" type="monster" key="Dialog_1050021_Title" value="Melissa Slater" />
+  <keys prop="Description" type="monster" key="Dialog_1050021_Text0" value="Agora que todos os piratas morreram, estou entediado." />
+  <keys prop="Description" type="monster" key="Dialog_1050021_Text1" value="É meu irmão. Como ele pôde se unir aos piratas? Ele adorava Vigia do Junco mais do que ninguém!" />
+  <keys prop="Description" type="monster" key="Dialog_1050022_Title" value="Parna" />
+  <keys prop="Description" type="monster" key="Dialog_1050022_Text0" value="Meus filhos não terão nenhuma relação com você, humano. Suma." />
+  <keys prop="Description" type="monster" key="Dialog_1050022_Text1" value="Os piratas foram derrotados e os mares se acalmaram. Ainda assim, os humanos causaram essa crise, para começo de conversa. Ellora te deu inúmeras oportunidades, mas eu tenho observado seu povo ao longo do tempo. Sei até que ponto pode chegar a crueldade deles." />
+  <keys prop="Description" type="monster" key="Dialog_1050022_Text2" value="Você tem se mostrado honrado em seus feitos. Talvez eu tenha me precipitado quando julguei a humanidade." />
+  <keys prop="Description" type="monster" key="Dialog_1050023_Title" value="Agra" />
+  <keys prop="Description" type="monster" key="Dialog_1050023_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050023_Text1" value="Pode passar, humano. Mas não espere gentileza de minha parte." />
+  <keys prop="Description" type="monster" key="Dialog_1050024_Title" value="Chakra" />
+  <keys prop="Description" type="monster" key="Dialog_1050024_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050024_Text1" value="Agilize isso. Não tenho tempo para as bobagens dos humanos." />
+  <keys prop="Description" type="monster" key="Dialog_1050025_Title" value="Capitão Tatara" />
+  <keys prop="Description" type="monster" key="Dialog_1050025_Text0" value="Minha gente acredita que forasteiros não são confiáveis. Quero que você mostre que eles estão enganados." />
+  <keys prop="Description" type="monster" key="Dialog_1050025_answer_18_text" value="Hakoora" />
+  <keys prop="Description" type="monster" key="Dialog_1050026_Title" value="Xamã Gorasa" />
+  <keys prop="Description" type="monster" key="Dialog_1050026_Text0" value="Nem sempre os merumis odiaram a raça humana. É bom que trabalhemos tendo um objetivo em comum de novo." />
+  <keys prop="Description" type="monster" key="Dialog_1050026_Text1" value="Já faz muito tempo que não encontro um humano. Diga, a tormenta ferve dentro de sua alma? As correntes da cobiça tomam sua mente? Ou você é diferente dos outros?" />
+  <keys prop="Description" type="monster" key="Dialog_1050026_answer_8_text" value="Presente de Vigia do Junco" />
+  <keys prop="Description" type="monster" key="Dialog_1050026_answer_9_text" value="Quebrar a Maldição" />
+  <keys prop="Description" type="monster" key="Dialog_1050027_Title" value="Garis Guarda do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_1050027_Text0" value="Um humano em Águas Sagradas! Ou você é louco ou é tolo." />
+  <keys prop="Description" type="monster" key="Dialog_1050028_Title" value="Damis Guarda do Santuário" />
+  <keys prop="Description" type="monster" key="Dialog_1050028_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050028_Text1" value="(Ela se vira e cospe.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050029_Title" value="Yiho" />
+  <keys prop="Description" type="monster" key="Dialog_1050029_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050029_Text1" value="Sempre quis ouvir a música dos humanos." />
+  <keys prop="Description" type="monster" key="Dialog_1050029_Text2" value="Que instrumento interessante! Ainda assim, gostaria que a humana música o tivesse pegado para si.&lt;br&gt;&lt;br&gt;Receio não poder aceitar isso. Não enquanto as coisas estiverem tão tensas entre nós e Vigia do Junco." />
+  <keys prop="Description" type="monster" key="Dialog_1050029_answer_1_text" value="Presente da Música de Vigia do Junco" />
+  <keys prop="Description" type="monster" key="Dialog_1050030_Title" value="Administrador do Canal Shizunaha" />
+  <keys prop="Description" type="monster" key="Dialog_1050030_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050030_Text1" value="Podemos sempre confiar nessas águas. Mesmo quando o falso deus Radan fizer com que nos voltemos uns contra os outros... Mesmo quando o pântano destruidor se espalhar... No fim, a água conecta todos nós." />
+  <keys prop="Description" type="monster" key="Dialog_1050031_Title" value="Kiroshiha" />
+  <keys prop="Description" type="monster" key="Dialog_1050031_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050031_Text1" value="Os canais são minha responsabilidade. Se o Pântano do Blasfemador existe, fracassei com minhas obrigações..." />
+  <keys prop="Description" type="monster" key="Dialog_1050032_Title" value="Rigoa" />
+  <keys prop="Description" type="monster" key="Dialog_1050032_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050032_Text1" value="Devo admitir que sua arma parece ser bem resistente. Mas dá mesmo para lutar bem com uma ferramenta tão desajeitada? " />
+  <keys prop="Description" type="monster" key="Dialog_1050032_answer_1_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_1050033_Title" value="Gakuu" />
+  <keys prop="Description" type="monster" key="Dialog_1050033_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050033_Text1" value="Tem alguma armadura extra para eu ver? O trabalho com metal feito pelos humanos é muito... intrigante." />
+  <keys prop="Description" type="monster" key="Dialog_1050033_answer_1_text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_1050034_Title" value="Hadaru" />
+  <keys prop="Description" type="monster" key="Dialog_1050034_Text0" value="Eles têm deixado humanos perambularem por aqui agora? Bem, pelo menos você não é tão pungente quanto o prisioneiro." />
+  <keys prop="Description" type="monster" key="Dialog_1050034_Text1" value="Estou completamente disposto a tolerar sua presença, mas faça silêncio. Estou tentando trabalhar." />
+  <keys prop="Description" type="monster" key="Dialog_1050035_Title" value="Chigaru" />
+  <keys prop="Description" type="monster" key="Dialog_1050035_Text0" value="(O merumi não diz nada.)" />
+  <keys prop="Description" type="monster" key="Dialog_1050035_Text1" value="Ah, mais um visitante daquela cidade humana esquisita. Veja, a beleza da construção merumi. Um belo avanço em relação àqueles montes de pedras que vocês chamam de lares, com certeza." />
+  <keys prop="Description" type="monster" key="Dialog_1050036_Title" value="Gale MacBain" />
+  <keys prop="Description" type="monster" key="Dialog_1050036_Text0" value="Você! Ei, você! Tem que me tirar daqui! Isso tudo é um grande mal-entendido. Tem que acreditar em mim!" />
+  <keys prop="Description" type="monster" key="Dialog_1050036_Text1" value="Quem te pediu isso? Para o inferno! Agora, nunca terei uma rota comercial com os merumis! Faz ideia do quanto essa negociação toda me custou?!" />
+  <keys prop="Description" type="monster" key="Dialog_1050036_answer_8_text" value="Documento de Banimento" />
+  <keys prop="Description" type="monster" key="Dialog_1050037_Title" value="Beir Vexon" />
+  <keys prop="Description" type="monster" key="Dialog_1050037_Text0" value="Finalmente! Outro humano! Pode me tirar daqui? Não posso pagar, mas conheço segredos lucrativos de todos os tipos!" />
+  <keys prop="Description" type="monster" key="Dialog_1050038_Title" value="Rain Augusto" />
+  <keys prop="Description" type="monster" key="Dialog_1050038_Text0" value="Liderei essas pessoas. Na época, me parecia um boa ideia..." />
+  <keys prop="Description" type="monster" key="Dialog_1050039_Title" value="Keira Olho de Falcão" />
+  <keys prop="Description" type="monster" key="Dialog_1050039_Text0" value="Não sei se os moradores da região estão olhando para mim com cara feia ou se é a cara que eles têm, mesmo..." />
+  <keys prop="Description" type="monster" key="Dialog_1050040_Title" value="Não sei se os moradores da região estão olhando para mim com cara feia ou se é a cara que eles têm, mesmo..." />
+  <keys prop="Description" type="monster" key="Dialog_1050040_Text0" value="Eu não devia ter concordado com isso. Esses merumis nem sequer entendem o conceito de nobreza direito! Pensei que seria uma boa forma de escapar da propriedade em Travessia de Hakain, mas a essa altura, vou ficar feliz se nunca mais vir a cara de um peixe." />
+  <keys prop="Description" type="monster" key="Dialog_1050041_Title" value="Hou'ruun" />
+  <keys prop="Description" type="monster" key="Dialog_1050041_Text0" value="Alguns de meu povo querem voltar à nossa terra-natal, mas Rakhoor está perdido há gerações. Agora, nossa vida é aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1050041_Text1" value="A mina será reaberta. Um dia." />
+  <keys prop="Description" type="monster" key="Dialog_1050042_Title" value="Shahon" />
+  <keys prop="Description" type="monster" key="Dialog_1050042_Text0" value="Você parece um cavaleiro! Por apenas 100 mil de ouro, transfiro a você os direitos e títulos associados à província de Farlark. Imagine, você pode ser um nobre com terras, como eu!&lt;br&gt;&lt;br&gt;Luz de Ellora, preciso beber alguma coisa. Quem me dera nunca ter herdado essa terra deserta..." />
+  <keys prop="Description" type="monster" key="Dialog_1050043_Title" value="Tik'hoon" />
+  <keys prop="Description" type="monster" key="Dialog_1050043_Text0" value="Ssh! Se quisermos reaver essa mina, precisamos seguir em frente. Abram os olhos, agucem os ouvidos e não deixem nenhum detalhe escapar... Espera aí, você não é meio pequeno para um crokhoon?" />
+  <keys prop="Description" type="monster" key="Dialog_1050043_Text1" value="Vamos recuperar essa mina. Um dia..." />
+  <keys prop="Description" type="monster" key="Dialog_1050044_Title" value="Hata'rahn" />
+  <keys prop="Description" type="monster" key="Dialog_1050044_Text0" value="A pedra um pouco congelada é excelente para a maçonaria, e nossa pedra é a melhor por aqui. Todo mundo que trabalha em construção quer pedras de Hakoora." />
+  <keys prop="Description" type="monster" key="Dialog_1050045_Title" value="Ae'rahn" />
+  <keys prop="Description" type="monster" key="Dialog_1050045_Text0" value="Cuidado, estranho. Os yetis daqui não são de brincadeira." />
+  <keys prop="Description" type="monster" key="Dialog_1050046_Title" value="Manra'nahn" />
+  <keys prop="Description" type="monster" key="Dialog_1050046_Text0" value="Você é o herói que se entendeu com os merumis! Talvez isso signifique que vamos voltar a ver mais humanos pelas redondezas. Estou morrendo de vontade de pegar os projetos mais recentes de Hakanas. " />
+  <keys prop="Description" type="monster" key="Dialog_1050046_Text1" value="O portão é um feito de engenharia, posso afirmar. Há armadilhas horrorosas e mecanismos de bloqueio para manter os intrusos afastados. Se você não conhece os truques, não tem como entrar.&lt;br&gt;&lt;br&gt;O equipamento todo é à prova de magia, seria preciso um exército de cavaleiros para vencê-lo. Por que não pergunta a Tarra? Foi ele quem fez a coisa toda." />
+  <keys prop="Description" type="monster" key="Dialog_1050046_answer_0_text" value="A Torre Gélida" />
+  <keys prop="Description" type="monster" key="Dialog_1050046_answer_1_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_1050047_Title" value="Tarra'nahn" />
+  <keys prop="Description" type="monster" key="Dialog_1050047_Text0" value="Vejo que os merumis finalmente reabriram seu vilarejo. Ótimo. Fechar-se ao mundo não ajuda ninguém.&lt;br&gt;&lt;br&gt;Sua arma é boa. Se um dia eu tiver um trabalho perigoso a fazer, pode ser que me interesse em te contratar." />
+  <keys prop="Description" type="monster" key="Dialog_1050047_answer_3_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_1050048_Title" value="Raha'khan" />
+  <keys prop="Description" type="monster" key="Dialog_1050048_Text0" value="Você pode fazer alguma coisa a respeito daquele cavaleiro humano? Ele não para de insistir que devemos atacar os yetis agora mesmo! Tentei contê-lo no portão, mas o teimoso foi até o centro da cidade..." />
+  <keys prop="Description" type="monster" key="Dialog_1050048_Text1" value="Conde Rondo é o melhor parceiro de treino que eu já tive. Eu odeio vê-lo como inimigo, mas cumprirei meu dever.&lt;br&gt;&lt;br&gt;Eu nunca conheci Aisha. Eles deveriam se casar, mas depois disso... Você terá que perguntar ao alquimista, Lian'tuul, por detalhes." />
+  <keys prop="Description" type="monster" key="Dialog_1050048_answer_4_text" value="Rondo e Aisha" />
+  <keys prop="Description" type="monster" key="Dialog_1050049_Title" value="Turo'khan" />
+  <keys prop="Description" type="monster" key="Dialog_1050049_Text0" value="Sou Turo'khan, líder das forças de luta de Hakoora. Você pode me agradecer por controlar as forças de Rondo.&lt;br&gt;&lt;br&gt;Se quiser ficar, terá que lutar. Eu posso ser poderoso, mas meu povo prefere construir, não fazer guerra." />
+  <keys prop="Description" type="monster" key="Dialog_1050050_Title" value="Akan'tuul" />
+  <keys prop="Description" type="monster" key="Dialog_1050050_Text0" value="Existem muitas teorias de magia no mundo. Os humanos acreditam que mana pode ser explicada e projetada, como uma máquina. Nós, crockhoon, compreendemos que o poder da magia vem da humildade. Somos seres humildes pegando emprestado o poder dos deuses.&lt;br&gt;&lt;br&gt;Quanto à magia dos merumi, eu adoraria estudar a prática deles." />
+  <keys prop="Description" type="monster" key="Dialog_1050050_Text1" value="Posso já ter orientado Rondo em questões relacionadas à magia, mas ele não é alguém que eu possa considerar um amigo. Se pretende conhecer o coração de Rondo, seria inteligente conversar com Raha. " />
+  <keys prop="Description" type="monster" key="Dialog_1050050_answer_0_text" value="Rondo e Aisha" />
+  <keys prop="Description" type="monster" key="Dialog_1050051_Title" value="Tio'tuul" />
+  <keys prop="Description" type="monster" key="Dialog_1050051_Text0" value="Akan me disse que eu deveria estudar os merumi quando tudo isso terminar. Eles são grandes mágicos, é verdade, mas são nascidos da deusa de água Parna, e nós somos filhos de Nerhes, a chama divina. Eu conseguiria aprender a magia deles?" />
+  <keys prop="Description" type="monster" key="Dialog_1050052_Title" value="Aisha Fedarin" />
+  <keys prop="Description" type="monster" key="Dialog_1050052_Text0" value="Na vida, fui o escolhido de Parna, o xamã da água. Mas nem mesmo eu consegui resistir à força do amor de Rondo.&lt;br&gt;&lt;br&gt;Você me faz lembrar de Rondo. Tem a coragem e a determinação dele." />
+  <keys prop="Description" type="monster" key="Dialog_1050053_Title" value="Sir Nikas Furion" />
+  <keys prop="Description" type="monster" key="Dialog_1050053_Text0" value="Tenho ordens expressas para tomar o castelo de Rondo e acabar com a Guarda Gélida. As pessoas comuns não conhecem os riscos de nossa missão, mas se fracassarmos, não há o que impeça o retorno do Zelnaris, o Deus da Ruína.&lt;br&gt;&lt;br&gt;Vencerei, custe o que custar. Acredito que você pense da mesma maneira." />
+  <keys prop="Description" type="monster" key="Dialog_1050054_Title" value="Patek Grazia" />
+  <keys prop="Description" type="monster" key="Dialog_1050054_Text0" value="Silêncio! O artista está trabalhando." />
+  <keys prop="Description" type="monster" key="Dialog_1050055_Title" value="Aenji'ruun" />
+  <keys prop="Description" type="monster" key="Dialog_1050055_Text0" value="Se os merumis finalmente abriram sua cidade ao mundo exterior, é melhor que eu chegue lá antes que eles mudem de ideia. Pense bem. Uma chance de ver as habilidades dos merumis bem de perto!" />
+  <keys prop="Description" type="monster" key="Dialog_1050056_Title" value="Lian'tuul" />
+  <keys prop="Description" type="monster" key="Dialog_1050056_Text0" value="Nós lutamos e sangramos para proteger nosso modo de viver, pequeno. Está disposto a fazer esse sacrifício? Ou é como os outros, cheio de palavras falsas e promessas vazias?" />
+  <keys prop="Description" type="monster" key="Dialog_1050056_answer_3_text" value="Loja de Poções/Artigos em Geral" />
+  <keys prop="Description" type="monster" key="Dialog_1050057_Title" value="Patrulheiro Alkari'khan" />
+  <keys prop="Description" type="monster" key="Dialog_1050057_Text0" value="Isso é ruim. Rondo e os yetis poderiam atacar a qualquer momento." />
+  <keys prop="Description" type="monster" key="Dialog_1050058_Title" value="Roan Smith" />
+  <keys prop="Description" type="monster" key="Dialog_1050058_Text0" value="Alto lá, pirata! Agora você está envolvido!&lt;br&gt;&lt;br&gt;...Você não é pirata, é? Agradeça à luz!" />
+  <keys prop="Description" type="monster" key="Dialog_1050059_Title" value="Warren Maxima" />
+  <keys prop="Description" type="monster" key="Dialog_1050059_Text0" value="Estou um pouco ocupado aqui! Se quiser falar, fale e lute ao mesmo tempo!" />
+  <keys prop="Description" type="monster" key="Dialog_1050060_Title" value="Siisa" />
+  <keys prop="Description" type="monster" key="Dialog_1050060_Text0" value="Você não parece ser pirata. Poderia me libertar? Parece que meus captores pretendem me assar para o jantar, e prefiro não ser devorado hoje." />
+  <keys prop="Description" type="monster" key="Dialog_1050060_Text1" value="Os merumis respeitam aqueles que trabalham muito. Até mesmo humanos." />
+  <keys prop="Description" type="monster" key="Dialog_1050060_Text2" value="Tenho certeza de que seria simples para você soltar os humanos cativos. A Suma Sacerdotisa Verna tem o contrato do MacBain. Vá ao Pântano do Blasfemador, pegue-o e devolva-o a MacBain. Certamente, ele desistir depois disso, não é?" />
+  <keys prop="Description" type="monster" key="Dialog_1050060_answer_20_text" value="Libertar Humanos Prisioneiros" />
+  <keys prop="Description" type="monster" key="Dialog_1050061_Title" value="Aeia" />
+  <keys prop="Description" type="monster" key="Dialog_1050061_Text0" value="Passei muitos anos servindo em Akrat. Finalmente vim para casa, mas tudo parece muito estranho..." />
+  <keys prop="Description" type="monster" key="Dialog_1050062_Title" value="Ex-Cultista" />
+  <keys prop="Description" type="monster" key="Dialog_1050062_Text0" value="Desejo voltar para as águas puras de meu lar..." />
+  <keys prop="Description" type="monster" key="Dialog_1050063_Title" value="Ex-Cultista" />
+  <keys prop="Description" type="monster" key="Dialog_1050063_Text0" value="Quero limpar meu passado manchado..." />
+  <keys prop="Description" type="monster" key="Dialog_1050064_Title" value="Ex-Cultista" />
+  <keys prop="Description" type="monster" key="Dialog_1050064_Text0" value="Por que fiz todas essas coisas ruins...?" />
+  <keys prop="Description" type="monster" key="Dialog_1050065_Title" value="Verna Codewing" />
+  <keys prop="Description" type="monster" key="Dialog_1050065_Text0" value="Saia daqui, estranho. Já tivemos muito problema com esses mercenários fracassados. Eles até roubaram minhas joias!" />
+  <keys prop="Description" type="monster" key="Dialog_1050065_Text1" value="Continuo não gostando desse perambular pela cidade, mas... Agradeço." />
+  <keys prop="Description" type="monster" key="Dialog_1050066_Title" value="John Pond" />
+  <keys prop="Description" type="monster" key="Dialog_1050066_Text0" value="O pessoal daqui fica nervoso perto de mercenários. Mas eu só estou tentando ganhar a vida, sabe?" />
+  <keys prop="Description" type="monster" key="Dialog_1050067_Title" value="Trima" />
+  <keys prop="Description" type="monster" key="Dialog_1050067_Text0" value="Fósforos! Vendo fósforos!&lt;br&gt;&lt;br&gt;Bravo cavaleiro, por favor, pode comprar uns fósforos?" />
+  <keys prop="Description" type="monster" key="Dialog_1050067_answer_10_text" value="Suporte de Trima" />
+  <keys prop="Description" type="monster" key="Dialog_1050068_Title" value="Robert Harris" />
+  <keys prop="Description" type="monster" key="Dialog_1050068_Text0" value="Não tem nada melhor do que ver um monte de peixes se debatendo, presos à rede. Mas hoje em dia não é seguro pescar. Não com piratas por aí..." />
+  <keys prop="Description" type="monster" key="Dialog_1050069_Title" value="Chuck Bale" />
+  <keys prop="Description" type="monster" key="Dialog_1050069_Text0" value="O que você precisa consertar? " />
+  <keys prop="Description" type="monster" key="Dialog_1050069_Answer_3_Text" value="Loja de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_1050070_Title" value="Paul Trebel" />
+  <keys prop="Description" type="monster" key="Dialog_1050070_Text0" value="Vim aqui para pesquisar sobre a cultura dos merumis. E se conseguir fazer amizade com algumas dessas belezinhas de escamas azuis, melhor ainda!" />
+  <keys prop="Description" type="monster" key="Dialog_1050070_Text1" value="O talento artístico dos merumis não tem igual. Mas por mais que eu explique isso às pessoas daqui, essas adoráveis mulheres merumis só me ignoram... " />
+  <keys prop="Description" type="monster" key="Dialog_1050071_Title" value="Phillip Slater" />
+  <keys prop="Description" type="monster" key="Dialog_1050071_Text0" value="Você é amigo da Melissa, então acho que está tudo bem. O nome é Philip Slater. Esses piratas pagaram uma fortuna para me recrutar, sabia? Logo, logo serei o chefe aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1050072_Title" value="Caçador de Tesouro Johnnie" />
+  <keys prop="Description" type="monster" key="Dialog_1050072_Text0" value="Veio roubar uns tesouros de piratas? Se não veio, saia da minha frente.&lt;br&gt;&lt;br&gt;Não se preocupe. Só roubo dos vilões." />
+  <keys prop="Description" type="monster" key="Dialog_1050073_Title" value="Caçador de Tesouro Danny" />
+  <keys prop="Description" type="monster" key="Dialog_1050073_Text0" value="Ssh! Abaixe-se! Assim alguém vai te ver! " />
+  <keys prop="Description" type="monster" key="Dialog_1050074_Title" value="Ron Bale" />
+  <keys prop="Description" type="monster" key="Dialog_1050074_Text0" value="Minha família cuida do maquinário de Vigia do Junco há três gerações. Nem um mecanismo é acionado naquela cidade sem nosso conhecimento.&lt;br&gt;&lt;br&gt;Veio aprender com os melhores, né?" />
+  <keys prop="Description" type="monster" key="Dialog_1050075_Title" value="Pommeri" />
+  <keys prop="Description" type="monster" key="Dialog_1050075_Text0" value="Anéis brilhantes! Compre-os enquanto estão em alta! Compre antes que os preços aumentem! Ninguém vende mais barato!" />
+  <keys prop="Description" type="monster" key="Dialog_1050075_answer_5_text" value="Loja de anéis de Pommeri" />
+  <keys prop="Description" type="monster" key="Dialog_1050076_Title" value="Fugitivo" />
+  <keys prop="Description" type="monster" key="Dialog_1050076_Text0" value="O que eu faço? O que eu faço?! Meus amigos! " />
+  <keys prop="Description" type="monster" key="Dialog_1050077_Title" value="Dan Bale" />
+  <keys prop="Description" type="monster" key="Dialog_1050077_Text0" value="E-eu estou ocupado, mas provavelmente consigo encaixar uma encomenda se você precisar MESMO... " />
+  <keys prop="Description" type="monster" key="Dialog_1050077_answer_1_text" value="Loja de Equipamentos" />
+  <keys prop="Description" type="monster" key="Dialog_1050078_Title" value="Rosa Fedarin" />
+  <keys prop="Description" type="monster" key="Dialog_1050078_Text0" value="Crokhoons e humanos só podem sobreviver aqui graças à Parna. Mas acho que Rondo envenenou a deusa contra nós, e agora a terra está hostil...&lt;br&gt;&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1050078_Text1" value="Ele feriu a todos nós com sua traição. Rondo e Aisha já representaram a esperança de paz." />
+  <keys prop="Description" type="monster" key="Dialog_1050078_answer_10_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="Dialog_1050079_Title" value="Homem Morrendo" />
+  <keys prop="Description" type="monster" key="Dialog_1050079_Text0" value="Aaaii... P-pare..." />
+  <keys prop="Description" type="monster" key="Dialog_1050080_Title" value="Kylon Will, o Feiticeiro da Virtude" />
+  <keys prop="Description" type="monster" key="Dialog_1050080_Text0" value="Rondo é um monstro que nós mesmos criamos. Em seu momento de necessidade, os Cavaleiros do Dragão deram as costas para ele.&lt;br&gt;&lt;br&gt;Está na hora da Sociedade Mágica da Virtude corrigir o erro dos Cavaleiros do Dragão." />
+  <keys prop="Description" type="monster" key="Dialog_1050081_Title" value="Krooni'khan" />
+  <keys prop="Description" type="monster" key="Dialog_1050081_Text0" value="Nerhes nos deu mãos firmes para criar, mas também nos deu fogo na alma para lutar!" />
+  <keys prop="Description" type="monster" key="Dialog_1050082_Title" value="Sigrid Teil" />
+  <keys prop="Description" type="monster" key="Dialog_1050082_Text0" value="Lutamos contra os yetis com todas as nossas forças, e ainda assim...&lt;br&gt;&lt;br&gt;Meu irmão. Não consegui encontrar meu irmão..." />
+  <keys prop="Description" type="monster" key="Dialog_1050083_Title" value="Quadro de Avisos" />
+  <keys prop="Description" type="monster" key="Dialog_1050083_Text0" value="Os vândalos serão expulsos da cidade.&lt;br&gt;&lt;br&gt;Ancião Cole" />
+  <keys prop="Description" type="monster" key="Dialog_1050084_Title" value="Cynth" />
+  <keys prop="Description" type="monster" key="Dialog_1050084_Text0" value="Rondo levou a princesa para sua fortaleza. Tentei segui-los, mas Rondo deve ter me visto. Tive que sair de lá... " />
+  <keys prop="Description" type="monster" key="Dialog_1050085_Title" value="Copo de Prata" />
+  <keys prop="Description" type="monster" key="Dialog_1050085_Text0" value="Não tenho nada a dizer a você, humano." />
+  <keys prop="Description" type="monster" key="Dialog_1050085_answer_2_text" value="Experimente falar com os merumis." />
+  <keys prop="Description" type="monster" key="Dialog_1050085_answer_3_text" value="Soube que você estava me procurando." />
+  <keys prop="Description" type="monster" key="Dialog_1050086_Title" value="Pirata Capturado" />
+  <keys prop="Description" type="monster" key="Dialog_1050086_Text0" value="Nunca falarei." />
+  <keys prop="Description" type="monster" key="Dialog_1050087_Title" value="Sonura" />
+  <keys prop="Description" type="monster" key="Dialog_1050087_Text0" value="Eles... eles vão nos matar?" />
+  <keys prop="Description" type="monster" key="Dialog_1050088_Title" value="Arha" />
+  <keys prop="Description" type="monster" key="Dialog_1050088_Text0" value="Os merumis são tão cruéis... " />
+  <keys prop="Description" type="monster" key="Dialog_1050089_Title" value="Muzika" />
+  <keys prop="Description" type="monster" key="Dialog_1050089_Text0" value="Meus amigos ainda estão do lado de dentro! Estão correndo perigo!" />
+  <keys prop="Description" type="monster" key="Dialog_1050090_Title" value="Sacerdotisa Chapley Singer" />
+  <keys prop="Description" type="monster" key="Dialog_1050090_Text0" value="Finalmente estou salvo! Eu quase perdi a esperança. Obrigado, herói." />
+  <keys prop="Description" type="monster" key="Dialog_1050091_Title" value="Janita" />
+  <keys prop="Description" type="monster" key="Dialog_1050091_Text0" value="Tenho o trabalho mais emocionante na Costa de Parna. Quando o vento sopra, observo o moinho girar. Quando o vento para, observo o moinho parar. Coisa incrível." />
+  <keys prop="Description" type="monster" key="Dialog_1050092_Title" value="Joorde" />
+  <keys prop="Description" type="monster" key="Dialog_1050092_Text0" value="Meus amigos dizem que eu me daria bem como ator, mas gosto demais de pescar para parar. Mas agora nem sequer ouso sair para ir ao mar. Talvez eu devesse tentar a sorte nos palcos de Travessia de Hakain, no fim das contas..." />
+  <keys prop="Description" type="monster" key="Dialog_1050093_Title" value="Jason Micah" />
+  <keys prop="Description" type="monster" key="Dialog_1050093_Text0" value="Malditos piratas! Antes de eles aparecerem, tínhamos um bom ambiente aqui." />
+  <keys prop="Description" type="monster" key="Dialog_1050094_Title" value="Antarion" />
+  <keys prop="Description" type="monster" key="Dialog_1050094_Text0" value="Caminhe entre as crianças de Parna. O Deus da Ruína ameaça todos nós, mas até mesmo os merumis estão divididos.&lt;br&gt;&lt;br&gt;Ver a Costa de Parna abandonada por nossa deusa... Fracassei como sumo sacerdote." />
+  <keys prop="Description" type="monster" key="Dialog_1050095_Title" value="Ilva" />
+  <keys prop="Description" type="monster" key="Dialog_1050095_Text0" value="Menininha, menininha no mar...&lt;br&gt;Baixinho, sua canção ela se punha a entoar...&lt;br&gt;&lt;br&gt;Agora, seus sonhos acabaram de naufragar.&lt;br&gt;E a ela, resta cantar." />
+  <keys prop="Description" type="monster" key="Dialog_1050096_Title" value="Daras" />
+  <keys prop="Description" type="monster" key="Dialog_1050096_Text0" value="O Culto do Olho de Radan está transformando nossa bela baía em um pântano. A ganância humana pode se espalhar como uma doença? Quem pode ser culpado por tudo isso?" />
+  <keys prop="Description" type="monster" key="Dialog_1050097_Title" value="Lyra" />
+  <keys prop="Description" type="monster" key="Dialog_1050097_Text0" value="Há muito tempo não encontro um humano. Sou Lyra. Parna achou que seria bom me abençoar com mãos de artesão. Permita-me mostrar meus artigos de ótima qualidade." />
+  <keys prop="Description" type="monster" key="Dialog_1050098_Title" value="Kaita" />
+  <keys prop="Description" type="monster" key="Dialog_1050098_Text0" value="Não me julgue! Nem sempre fui um agul, fique sabendo. Fiquei assim por causa da maldição do Zelnaris, o Deus da Ruína.&lt;br&gt;&lt;br&gt;Mas tenho que admitir que me afeiçoei a essa cara de peixe com o passar dos anos..." />
+  <keys prop="Description" type="monster" key="Dialog_1050099_Title" value="Serenia" />
+  <keys prop="Description" type="monster" key="Dialog_1050099_Text0" value="Se pode nos ver, é abençoado, sim. Pode sorver nossa beleza, pois ela é eterna.&lt;br&gt;&lt;br&gt;Deve ser triste envelhecer e perder a beleza. Apesar disso, alguns humanos têm um certo charme. Gosto dos jovens..." />
+  <keys prop="Description" type="monster" key="Dialog_1050105_Title" value="Karro'khan" />
+  <keys prop="Description" type="monster" key="Dialog_1050105_Text0" value="Aquela cidade adiante? É a minha. Não posso dizer que fico feliz por ela estar congelada assim.&lt;br&gt;&lt;br&gt;Vou consertar as coisas. Custe o que custar." />
+  <keys prop="Description" type="monster" key="Dialog_1050106_Title" value="Santiago" />
+  <keys prop="Description" type="monster" key="Dialog_1050106_Text0" value="Foi uma baita viagem, mas a próxima será melhor ainda." />
+  <keys prop="Description" type="monster" key="Dialog_1050107_Title" value="Narande" />
+  <keys prop="Description" type="monster" key="Dialog_1050107_Text0" value="Acalme-se, humano! Não quero fazer nenhum mal. Por favor, escute." />
+  <keys prop="Description" type="monster" key="Dialog_1050108_Title" value="Kieta" />
+  <keys prop="Description" type="monster" key="Dialog_1050108_Text0" value="Sou um merumi, sim! Você tem que acreditar em mim!" />
+  <keys prop="Description" type="monster" key="Dialog_1050109_Title" value="Arrisa'shan" />
+  <keys prop="Description" type="monster" key="Dialog_1050109_Text0" value="Você está com sorte. Estou de bom humor. Se tiver alguma dúvida familiar urgente, é só perguntar." />
+  <keys prop="Description" type="monster" key="Dialog_1050101_Title" value="Rumio" />
+  <keys prop="Description" type="monster" key="Dialog_1050101_Text0" value="Julemme! Preferiria morrer a viver sem seu amor!" />
+  <keys prop="Description" type="monster" key="Dialog_1050102_Title" value="Julemme" />
+  <keys prop="Description" type="monster" key="Dialog_1050102_Text0" value="Rumio... Todas as marés da Costa de Parna não passam de uma lágrima em comparação ao amor que sinto por você!" />
+  <keys prop="Description" type="monster" key="Dialog_1050103_Title" value="Soldado Raso Loborick" />
+  <keys prop="Description" type="monster" key="Dialog_1050103_Text0" value="Se você estiver aqui para caçar lobos, desculpa, mas sou melhor do que você. Ou serei. A qualquer instante." />
+  <keys prop="Description" type="monster" key="Dialog_1050104_Title" value="Junco (Base Pirata)" />
+  <keys prop="Description" type="monster" key="Dialog_1050104_Text0" value="Opa... O pai mandou você aqui, não é?" />
+  <keys prop="Description" type="monster" key="Dialog_1050110_Title" value="Lishlay" />
+  <keys prop="Description" type="monster" key="Dialog_1050110_Text0" value="Minhas pernas estão moles como gelatina... Ei, pode me ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_1050130_Title" value="Junco (Vigia do Junco)" />
+  <keys prop="Description" type="monster" key="Dialog_1050130_Text0" value="A ideia de ser pirata não foi boa. Então, eu decidi me tornar um cavaleiro como você!" />
+  <keys prop="Description" type="monster" key="Dialog_1050200_Title" value="Soldado Raso Loborick" />
+  <keys prop="Description" type="monster" key="Dialog_1050200_Text0" value="Estou aqui com a missão de matar lobos. De novo..." />
+  <keys prop="Description" type="monster" key="Dialog_1070210_Title" value="Siisa" />
+  <keys prop="Description" type="monster" key="Dialog_1070210_Text0" value="Não estou perdido! Um merumi nunca fica perdido!" />
+  <keys prop="Description" type="monster" key="Dialog_1070220_Title" value="Siisa" />
+  <keys prop="Description" type="monster" key="Dialog_1070220_Text0" value="Imagine só, EU, pego por piratas. Que vergonha!" />
+  <keys prop="Description" type="monster" key="Dialog_1070230_Title" value="Siisa" />
+  <keys prop="Description" type="monster" key="Dialog_1070230_Text0" value="Tenho certeza de que tudo isso é terrivelmente assustador para você, mas sou um merumi. Já inventei 100 planos de fuga diferentes, um mais ousado do que o outro." />
+  <keys prop="Description" type="monster" key="Dialog_1070240_Title" value="Siisa" />
+  <keys prop="Description" type="monster" key="Dialog_1070240_Text0" value="Admito, estou te devendo uma. Mas heróis como você não esperam retribuição, certo?" />
+  <keys prop="Description" type="monster" key="Dialog_1070250_Title" value="Melissa Slater" />
+  <keys prop="Description" type="monster" key="Dialog_1070250_Text0" value="Os piratas destroem quem não está preparado." />
+  <keys prop="Description" type="monster" key="Dialog_1070260_Title" value="Melissa Slater" />
+  <keys prop="Description" type="monster" key="Dialog_1070260_Text0" value="Parece que eu superestimei esses piratas. Vamos acabar com eles." />
+  <keys prop="Description" type="monster" key="Dialog_1070270_Title" value="Mulher Misteriosa" />
+  <keys prop="Description" type="monster" key="Dialog_1070270_Text0" value="O espelho de água reflete a sombra da verdade. O dom de Parna leva todo o mal e mantém os justos." />
+  <keys prop="Description" type="monster" key="Dialog_1070280_Title" value="Mulher Misteriosa" />
+  <keys prop="Description" type="monster" key="Dialog_1070280_Text0" value="A Torre Solar não é uma estrutura comum. É uma obra de arte crokhoon, criada para ser um farol para todos que seguem Parna. Deixe esse farol ser seu guia." />
+  <keys prop="Description" type="monster" key="Dialog_1070290_Title" value="Mulher Misteriosa" />
+  <keys prop="Description" type="monster" key="Dialog_1070290_Text0" value="Quando os Criadores enfrentaram Zelnaris, o Deus da Ruína, em Tritael, o solo se abriu e se afastou da terra. Fragmentos de Tritael flutuam pela costa hoje, mas a bênção de Parna nos protege da Ruína.&lt;br&gt;&lt;br&gt;Um dos generais de Zelnaris, Orcus Avalanche, deve proteger esses fragmentos como castigo por ter falhado com o Deus da Ruína. O ódio que ele sente por Parna é forte, mesmo para um yeti." />
+  <keys prop="Description" type="monster" key="Dialog_1070300_Title" value="Mulher Misteriosa" />
+  <keys prop="Description" type="monster" key="Dialog_1070300_Text0" value="Os últimos dons de Parna podem ser encontrados na Ilha das Sereias. As sereias ligam o mundo dos humanos ao dos merumis, apesar de apenas se revelarem aos merecedores. Contanto que Parna cuide desta terra, as sereias vão louvá-la." />
+  <keys prop="Description" type="monster" key="Dialog_1070310_Title" value="Mulher Misteriosa" />
+  <keys prop="Description" type="monster" key="Dialog_1070310_Text0" value="Sinto o poder de Salant, que pode congelar até mesmo as almas mais incandescentes do crokhoon. Eu os ouço rugir de ódio em suas prisões congelantes. Você consegue ouvi-los?&lt;br&gt;" />
+  <keys prop="Description" type="monster" key="Dialog_1070320_Title" value="Aisha Fedarin" />
+  <keys prop="Description" type="monster" key="Dialog_1070320_Text0" value="Na vida, fui o escolhido de Parna, o xamã da água. Mas nem mesmo eu consegui resistir à força do amor de Rondo.&lt;br&gt;&lt;br&gt;Você me faz lembrar de Rondo. Tem a coragem e a determinação dele." />
+  <keys prop="Description" type="monster" key="Dialog_1070330_Title" value="Aisha Fedarin" />
+  <keys prop="Description" type="monster" key="Dialog_1070330_Text0" value="..." />
+  <keys prop="Description" type="monster" key="Dialog_1070340_Title" value="Soldado Raso Loborick" />
+  <keys prop="Description" type="monster" key="Dialog_1070340_Text0" value="Bom te rever. Provavelmente, você acha que estou aqui para fazer algo relacionado a lobos. São sempre os lobos..." />
+  <keys prop="Description" type="monster" key="Dialog_1070350_Title" value="Rudia" />
+  <keys prop="Description" type="monster" key="Dialog_1070350_Text0" value="Sem as poções certas, esta terra congela o sangue em suas veias." />
+  <keys prop="Description" type="monster" key="Dialog_1070350_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="Dialog_1070360_Title" value="Jim Kloss" />
+  <keys prop="Description" type="monster" key="Dialog_1070360_Text0" value="Pratiquei nas cozinhas reais de Hakanas. Prove!" />
+  <keys prop="Description" type="monster" key="Dialog_1070360_answer_0_text" value="Quitandeiro" />
+  <keys prop="Description" type="monster" key="Dialog_1070370_Title" value="Nate Emeselle" />
+  <keys prop="Description" type="monster" key="Dialog_1070370_Text0" value="O sabor não importa. Coma ou morra de fome." />
+  <keys prop="Description" type="monster" key="Dialog_1070370_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="Dialog_1070380_Title" value="Toole Cinzeiro" />
+  <keys prop="Description" type="monster" key="Dialog_1070380_Text0" value="Uso o verdadeiro gelo da Costa de Parna nos meus pratos. " />
+  <keys prop="Description" type="monster" key="Dialog_1070380_answer_0_text" value="Quitandeiro" />
+  <keys prop="Description" type="monster" key="Dialog_1070390_Title" value="Joe Brandon" />
+  <keys prop="Description" type="monster" key="Dialog_1070390_Text0" value="Uma refeição de verdade tem calor. E então? Quer provar o fogo?" />
+  <keys prop="Description" type="monster" key="Dialog_1070390_answer_0_text" value="Quitandeira" />
+  <keys prop="Description" type="monster" key="Dialog_1070400_Title" value="Emille Rhoney" />
+  <keys prop="Description" type="monster" key="Dialog_1070400_Text0" value="Ordem de Banimento." />
+  <keys prop="Description" type="monster" key="Dialog_1070400_answer_0_text" value="Loja de Poções/Artigos em Geral" />
+  <keys prop="Description" type="monster" key="Dialog_1070410_Title" value="Richard Meyer" />
+  <keys prop="Description" type="monster" key="Dialog_1070410_Text0" value="Você chama isso de arma? Venha dar uma olhada em meus produtos." />
+  <keys prop="Description" type="monster" key="Dialog_1070410_answer_0_text" value="Loja de Equipamentos" />
+  <keys prop="Description" type="monster" key="Dialog_1050112_Title" value="Ronald" />
+  <keys prop="Description" type="monster" key="Dialog_1050112_Text0" value="Mitchel é rígido demais. Segue a ordem de racionamento ao pé da letra, mesmo que, com isso, as pessoas passem fome!" />
+  <keys prop="Description" type="monster" key="Dialog_1050113_Title" value="Page" />
+  <keys prop="Description" type="monster" key="Dialog_1050113_Text0" value="Que belo dia para matar uns piratas!" />
+  <keys prop="Description" type="monster" key="Dialog_1050114_Title" value="Cheefa" />
+  <keys prop="Description" type="monster" key="Dialog_1050114_Text0" value="É uma tarefa complexa, mas poderia ser pior. Eu poderia ser feio como Daryl." />
+  <keys prop="Description" type="monster" key="Dialog_1050115_Title" value="Daryl" />
+  <keys prop="Description" type="monster" key="Dialog_1050115_Text0" value="Por que todo mundo sempre diz Cheefa e Daryl? EU sou o melhor guerreiro! Meu nome deveria vir primeiro!" />
+  <keys prop="Description" type="monster" key="Dialog_1050116_Title" value="Lobo Perdido" />
+  <keys prop="Description" type="monster" key="Dialog_1050116_Text0" value="Aroo... Aroo... Aroo...." />
+  <keys prop="Description" type="monster" key="Dialog_1050117_Title" value="Julemme" />
+  <keys prop="Description" type="monster" key="Dialog_1050117_Text0" value="A maldição foi quebrada... O amor realmente vence tudo!" />
+  <keys prop="Description" type="monster" key="Dialog_2020303_Title" value="Quadro de Avisos" />
+  <keys prop="Description" type="monster" key="Dialog_2020303_Text0" value="Não são permitidos papéis nem tintas solúveis em água.&lt;br&gt;&lt;br&gt;Sumo Sacerdote Antarion" />
+  <keys prop="Description" type="monster" key="Dialog_2040101_Title" value="Sara Bale" />
+  <keys prop="Description" type="monster" key="Dialog_2040101_Text0" value="Venha comprar umas armas." />
+  <keys prop="Description" type="monster" key="Dialog_2040101_answer_0_text" value="Loja de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_2040102_Title" value="Yol Funileiro" />
+  <keys prop="Description" type="monster" key="Dialog_2040102_Text0" value="A melhor armadura à venda aqui." />
+  <keys prop="Description" type="monster" key="Dialog_2040102_answer_0_text" value="Loja de Equipamentos" />
+  <keys prop="Description" type="monster" key="Dialog_2040301_Title" value="Jackson" />
+  <keys prop="Description" type="monster" key="Dialog_2040301_Text0" value="Procure em seu coração. Tenho certeza de que vai encontrar o que precisa." />
+  <keys prop="Description" type="monster" key="Dialog_2040301_answer_0_text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_2040302_Title" value="Aprendiz Myra" />
+  <keys prop="Description" type="monster" key="Dialog_2040302_Text0" value="Ainda estou aprendendo, mas minhas poções são ótimas." />
+  <keys prop="Description" type="monster" key="Dialog_2040302_answer_0_text" value="Loja de Poções" />
+  <keys prop="Description" type="monster" key="Dialog_2040303_Title" value="Paradina" />
+  <keys prop="Description" type="monster" key="Dialog_2040303_Text0" value="Tenho de tudo! Tenho, sim!" />
+  <keys prop="Description" type="monster" key="Dialog_2040303_answer_0_text" value="Loja de Poções/Artigos em Geral" />
+  <keys prop="Description" type="monster" key="Dialog_2040304_Title" value="Sharosa" />
+  <keys prop="Description" type="monster" key="Dialog_2040304_Text0" value="Venha ver meus ótimos produtos merumis." />
+  <keys prop="Description" type="monster" key="Dialog_2040304_answer_0_text" value="Loja de Poções/Artigos em Geral" />
+  <keys prop="Description" type="monster" key="Dialog_2040401_Title" value="Hillary" />
+  <keys prop="Description" type="monster" key="Dialog_2040401_Text0" value="Apenas para sacerdotes." />
+  <keys prop="Description" type="monster" key="Dialog_2040401_answer_0_text" value="Aprender Habilidades de Sacerdote" />
+  <keys prop="Description" type="monster" key="Dialog_2040402_Title" value="Pantera" />
+  <keys prop="Description" type="monster" key="Dialog_2040402_Text0" value="Apenas para feiticeiros." />
+  <keys prop="Description" type="monster" key="Dialog_2040402_answer_0_text" value="Aprender Habilidades de Feiticeiro" />
+  <keys prop="Description" type="monster" key="Dialog_2040403_Title" value="Optimus" />
+  <keys prop="Description" type="monster" key="Dialog_2040403_Text0" value="Apenas para Guardiões." />
+  <keys prop="Description" type="monster" key="Dialog_2040403_answer_0_text" value="Aprender Habilidades de Guardião" />
+  <keys prop="Description" type="monster" key="Dialog_2040404_Title" value="Axward" />
+  <keys prop="Description" type="monster" key="Dialog_2040404_Text0" value="Apenas para Berserkers." />
+  <keys prop="Description" type="monster" key="Dialog_2040404_answer_0_text" value="Aprender Habilidades de Berserker" />
+  <keys prop="Description" type="monster" key="Dialog_2040405_Title" value="Ansha" />
+  <keys prop="Description" type="monster" key="Dialog_2040405_Text0" value="Apenas para arqueiros." />
+  <keys prop="Description" type="monster" key="Dialog_2040405_answer_0_text" value="Aprender Habilidades de Arqueiro" />
+  <keys prop="Description" type="monster" key="Dialog_2040406_Title" value="Krimax" />
+  <keys prop="Description" type="monster" key="Dialog_2040406_Text0" value="Apenas para assassinos" />
+  <keys prop="Description" type="monster" key="Dialog_2040406_answer_0_text" value="Aprender Habilidades de Assassino" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_Title" value="Garnas" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_Text0" value="Alguma pergunta sobre os familiares da região?" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_answer_0_text" value="Loja de Ferramentas de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_answer_1_text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_answer_2_text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_answer_3_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_answer_4_text" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_answer_5_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2040601_answer_6_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_Title" value="Khamaro" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_Text0" value="Alguma pergunta sobre os familiares da região?" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_answer_0_text" value="Loja de Ferramentas de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_answer_1_text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_answer_2_text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_answer_3_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_answer_4_text" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_answer_5_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2040602_answer_6_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_Title" value="Grant" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_Text0" value="Alguma pergunta sobre os familiares da região?" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_0_text" value="Loja de Ferramentas de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_1_text" value="Desbloquear Crescimento de Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_2_text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_3_text" value="Desbloquear Espaços para Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_5_text" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_6_text" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_7_text" value="Nutrindo Familiar" />
+  <keys prop="Description" type="monster" key="Dialog_2040603_answer_8_text" value="Mover para Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Dialog_3040001_Title" value="Grande Burkin" />
+  <keys prop="Description" type="monster" key="Dialog_3040001_Text0" value="Levantar velas rumo à capital! Embarque se quiser fugir dessa costa congelada." />
+  <keys prop="Description" type="monster" key="Dialog_3040001_Answer_0_Text" value="Viajar para a Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Dialog_3030801_Title" value="Sebastian" />
+  <keys prop="Description" type="monster" key="Dialog_3030801_Text0" value="Estou aqui para ajudar a trazer a civilização a esta terra estéril. Aonde você quer ir?" />
+  <keys prop="Description" type="monster" key="Dialog_3030801_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3030802_Title" value="Charles" />
+  <keys prop="Description" type="monster" key="Dialog_3030802_Text0" value="O santuário pode levar você de volta a Vigia do Junco. Está pronto para ir?" />
+  <keys prop="Description" type="monster" key="Dialog_3030802_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3030803_Title" value="Daras" />
+  <keys prop="Description" type="monster" key="Dialog_3030803_Text0" value="Graças a este santuário, é fácil manter contato com Hakanas. Para onde você quer ir? " />
+  <keys prop="Description" type="monster" key="Dialog_3030803_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3030804_Title" value="Rekhatur" />
+  <keys prop="Description" type="monster" key="Dialog_3030804_Text0" value="Aventureiro! Aonde quer ir?" />
+  <keys prop="Description" type="monster" key="Dialog_3030804_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3030805_Title" value="Dallwynn" />
+  <keys prop="Description" type="monster" key="Dialog_3030805_Text0" value="Apenas o caminho a Hakoora está aberto. Quer ir lá?" />
+  <keys prop="Description" type="monster" key="Dialog_3030805_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3040801_Title" value="Sebastian" />
+  <keys prop="Description" type="monster" key="Dialog_3040801_Text0" value="Ao viajar pelos caminhos da Luz de Ellora, este santuário pode movê-lo para qualquer lugar do continente. Por favor, diga-me onde você quer ir. " />
+  <keys prop="Description" type="monster" key="Dialog_3040801_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3600001_Title" value="Iberr" />
+  <keys prop="Description" type="monster" key="Dialog_3600001_Text0" value="Pensei que ficaria feliz por voltar para casa depois de tanto tempo fora, mas as coisas aqui estão uma bagunça. A raiz de todo esse conflito está na Caverna Misteriosa. Humano, VOCÊ pode se aproximar do Olho de Radan..." />
+  <keys prop="Description" type="monster" key="Dialog_3600002_Title" value="Lisella" />
+  <keys prop="Description" type="monster" key="Dialog_3600002_Text0" value="Tantos feridos, tantos mortos. Vim aqui para ajudar, mas não ouso me aproximar do Olho de Radan. Pode me ajudar?" />
+  <keys prop="Description" type="monster" key="Dialog_3600003_Title" value="Kouslo" />
+  <keys prop="Description" type="monster" key="Dialog_3600003_Text0" value="Meus companheiros e eu pensamos que poderíamos tomar a Torre Gélida sozinhos. Estávamos enganados..." />
+  <keys prop="Description" type="monster" key="Dialog_3600004_Title" value="Van Owen Lebrini na frente da Caverna" />
+  <keys prop="Description" type="monster" key="Dialog_3600004_Text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="Dialog_3600004_Answer_3_Text" value="Loja de Moedas de Masmorras Heroicas" />
+  <keys prop="Description" type="monster" key="Dialog_3600005_Title" value="Van Owen Lebrini na frente do Território" />
+  <keys prop="Description" type="monster" key="Dialog_3600005_Text0" value="Você é um aventureiro? Nós, dos Comerciantes da Lua Crescente, estamos oferecendo diversos itens aos aventureiros.&lt;br&gt;Eu pessoalmente não trabalho com produtos simples.&lt;br&gt;&lt;br&gt;Você vai precisar de uma moeda especial caso deseje comprar algo de mim.&lt;br&gt;Venha me visitar a qualquer momento quando tiver essa moeda!&lt;br&gt;Vou trocar por um item bom para você!" />
+  <keys prop="Description" type="monster" key="Dialog_3600005_Answer_4_text" value="Loja de Moedas" />
+  <keys prop="Description" type="monster" key="Dialog_3600100_Title" value="Bismuth" />
+  <keys prop="Description" type="monster" key="Dialog_3600100_Text0" value="Bismuth é osso duro de roer, até para um pirata. Hoje em dia, ele deixa tudo com Varanac enquanto passa o dia bebendo. Nós deveríamos nos livrar de Varanac primeiro, mas não será fácil..." />
+  <keys prop="Description" type="monster" key="Dialog_3600101_Title" value="Paul Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_3600101_Text0" value="Bom dia, nobre guerreiro! Meu nome é Paul Lebrini do Oriente Warren Lebrini. Minha família é conhecida por... Aham! Talvez a aula de linhagem não seja apropriada para esta situação. Acho que você não estaria disposto a ajudar um companheiro simples como eu. Estas circunstâncias são horríveis." />
+  <keys prop="Description" type="monster" key="Dialog_3100801_Title" value="Phillip" />
+  <keys prop="Description" type="monster" key="Dialog_3100801_Text0" value="Boas-vindas ao grande e lindo Mar de Hakanas. Aonde você quer ir?" />
+  <keys prop="Description" type="monster" key="Dialog_3100801_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_3100802_Title" value="Harrison" />
+  <keys prop="Description" type="monster" key="Dialog_3100802_Text0" value="Boas-vindas ao Forte de Baellas, símbolo da civilização no mar aberto." />
+  <keys prop="Description" type="monster" key="Dialog_3100802_Answer_0_Text" value="Viagem Rápida" />
+  <keys prop="Description" type="monster" key="Dialog_2020337_Title" value="Quadro de Avisos" />
+  <keys prop="Description" type="monster" key="Dialog_2020337_Text0" value="Apenas postagens oficiais.&lt;br&gt;&lt;br&gt;Capitão Sabolt" />
+  <keys prop="Description" type="monster" key="Dialog_1050118_Title" value="Kaor'khan" />
+  <keys prop="Description" type="monster" key="Dialog_1050118_Text0" value="Você viu um humano chamado Drong ou Drum correndo por aí? Ele está dando um trabalhão para a minha irmã Troa." />
+  <keys prop="Description" type="monster" key="Dialog_1050119_Title" value="Cindy" />
+  <keys prop="Description" type="monster" key="Dialog_1050119_Text0" value="Você viu um crokhoon chamado Tree ou Toe enrolando por aí? O chefe não para de resmungar dizendo que ele nunca mais vai trabalhar com um crokhoon. Nunca tinha visto o chefe desse jeito!" />
+  <keys prop="Description" type="monster" key="Dialog_1050120_Title" value="Eska" />
+  <keys prop="Description" type="monster" key="Dialog_1050120_Text0" value="Nós DEVERÍAMOS estar lutando contra os yetis, não uns contra os outros! Desse jeito, nunca colocaremos a mina em ordem." />
+  <keys prop="Description" type="monster" key="Dialog_1050121_Title" value="Droan" />
+  <keys prop="Description" type="monster" key="Dialog_1050121_Text0" value="Nunca vi uma mulher tão grosseira. Ela é teimosa demais! Pelo amor de Ellora, como vou conseguir trabalhar com alguém assim?!" />
+  <keys prop="Description" type="monster" key="Dialog_1050122_Title" value="Lisa" />
+  <keys prop="Description" type="monster" key="Dialog_1050122_Text0" value="Eu sabia que seria apenas questão de tempo para as coisas darem errado. O Sr. Draon e a Srta. Ruun nunca se deram bem, mesmo antes do problema. Antes, podíamos nos unir aos crokhoon, mas agora temos que montar acampamento em outro lugar..." />
+  <keys prop="Description" type="monster" key="Dialog_1050123_Title" value="Troa'ruun" />
+  <keys prop="Description" type="monster" key="Dialog_1050123_Text0" value="Nunca conheci um humano tão teimoso! Se todos os humanos fossem assim, eu nunca teria deixado Hakoora." />
+  <keys prop="Description" type="monster" key="Dialog_1050124_Title" value="Corbett Lebrini" />
+  <keys prop="Description" type="monster" key="Dialog_1050124_Text0" value="Se eu não tenho, ouso dizer que não vale a pena ter! Um pouquinho de rum, amigo? Que minerador não adora rum?" />
+  <keys prop="Description" type="monster" key="Dialog_1050124_Answer_0_Text" value="Mercearia" />
+  <keys prop="Description" type="monster" key="Dialog_1050125_Title" value="Marin'ruun" />
+  <keys prop="Description" type="monster" key="Dialog_1050125_Text0" value="Fazia tempo que um humano não aparecia no nosso lado do vale. Por mim, podia ter demorado mais." />
+  <keys prop="Description" type="monster" key="Dialog_1050126_Title" value="Aidan Heigl" />
+  <keys prop="Description" type="monster" key="Dialog_1050126_Text0" value="A vida de mercenário tem sido boa, mas eu não consegui me manter longe quando soube que minha terra natal estava em apuros. Quando eu acabar com os piratas, eles vão pensar que melhor seria se tivessem sido pegos pelo Deus da Ruína." />
+  <keys prop="Description" type="monster" key="Dialog_1050127_Title" value="Fada'khan" />
+  <keys prop="Description" type="monster" key="Dialog_1050127_Text0" value="Turo'khan me deixou no controle, e se você tirar uma pedra que seja do lugar, acabo com você como acabaria com uma mosca. Não me teste, forasteiro." />
+  <keys prop="Description" type="monster" key="Dialog_1050128_Title" value="Puris" />
+  <keys prop="Description" type="monster" key="Dialog_1050128_Text0" value="Nenhum humano veio me ver desde Aisha. Ao contrário de meu irmão, não odeio seu povo. Só quero proteger a Costa de Parna de Rondo." />
+  <keys prop="Description" type="monster" key="Dialog_9015742_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015742_Text0" value="[Familiares Terrestres Comuns]&lt;br&gt;Rena Litorânea&lt;br&gt;Lobo da Garra de Neve&lt;br&gt;Javali de Topo Branco&lt;br&gt;Gros" />
+  <keys prop="Description" type="monster" key="Dialog_9015743_Title" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015743_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;&lt;br&gt;Laiku 500m&lt;br&gt;Asa Gritante Prateada 550m&lt;br&gt;Amaran 650m" />
+  <keys prop="Description" type="monster" key="Dialog_9015744_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015744_Text0" value="[Familiares Terrestres Comuns]&lt;br&gt;Lobo Azul Astuto&lt;br&gt;Lobo Azul Selvagem" />
+  <keys prop="Description" type="monster" key="Dialog_9015744_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares Terrestres de Elite]&lt;br&gt;Lashaka&lt;br&gt;Cão de Gelo&lt;br&gt;Gelodonte" />
+  <keys prop="Description" type="monster" key="Dialog_9015745_Title" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015745_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;&lt;br&gt;Berrante Congelado 600m&lt;br&gt;Draco da Tempestade 600m" />
+  <keys prop="Description" type="monster" key="Dialog_9015745_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares dos Ares de Elite]&lt;br&gt;&lt;br&gt;Straiga 600m" />
+  <keys prop="Description" type="monster" key="Dialog_9015746_Title" value="Familiares Terrestres Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015746_Text0" value="[Familiares Terrestres Comuns]&lt;br&gt;Urso-cinzento Feroz&lt;br&gt;Tigre da Neve&lt;br&gt;Bisão da Tundra&lt;br&gt;Ligre Garrapétrea&lt;br&gt;Tigre da Neve&lt;br&gt;Rena de Parna&lt;br&gt;Aranha Peçonhenta de Gelo&lt;br&gt;Tartaruga do Campo de Gelo&lt;br&gt;Lobo da Nevasca" />
+  <keys prop="Description" type="monster" key="Dialog_9015746_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares Terrestres de Elite]&lt;br&gt;Uru Enfurecido&lt;br&gt;Blahk&lt;br&gt;Krooger&lt;br&gt;Raidos" />
+  <keys prop="Description" type="monster" key="Dialog_9015747_Title" value="Familiares dos Ares Locais" />
+  <keys prop="Description" type="monster" key="Dialog_9015747_Text0" value="[Familiares dos Ares Comuns]&lt;br&gt;&lt;br&gt;Wyvern da Nevasca 600m&lt;br&gt;Coruja das Neves&lt;br&gt;Wyvern Gélido Azul 700m" />
+  <keys prop="Description" type="monster" key="Dialog_9015747_Text0_attach_0" value="&lt;br&gt;&lt;br&gt;[Familiares dos Ares de Elite]&lt;br&gt;&lt;br&gt;Rodos Bico da Morte 750m&lt;br&gt;Wyvern Osso Gélido 900m" />
+  <keys prop="Description" type="monster" key="Dialog_1030005_Title" value="Quadro de Avisos do Acampamento de Farlark" />
+  <keys prop="Description" type="monster" key="Dialog_1030005_Text0" value="Precisa-se de ajuda para afastar o Guarda Gélido. " />
+  <keys prop="Description" type="monster" key="Dialog_2021801_Title" value="Comerciante de Ellun" />
+  <keys prop="Description" type="monster" key="Dialog_2021801_Text0" value="Boas-vindas! Gaste seu elluns aqui! Suas moedas abençoadas podem comprar mercadorias que você não encontrará em nenhum outro lugar." />
+  <keys prop="Description" type="monster" key="Dialog_2021801_answer_0_text" value="Loja Ellun" />
+  <keys prop="Description" type="monster" key="Dialog_2021801_answer_1_text" value="Confiança na Qualidade" />
+  <keys prop="Description" type="monster" key="Dialog_9015764_Title" value="Confiança na Qualidade" />
+  <keys prop="Description" type="monster" key="Dialog_9015764_Text0" value="Você pode ter fé nos Comerciantes de Ellun - porque negociamos com fé! Somente os mais dignos são abençoados pelos Criadores, então nós só vendemos os itens mais dignos." />
+  <keys prop="Description" type="monster" key="Dialog_9015775_Title" value="Gordon Stale" />
+  <keys prop="Description" type="monster" key="Dialog_9015775_Text0" value="O ancião disse que quer lenha. Mas há piratas na mata. Como vou pegar lenha se há piratas na mata? Então, eu digo ao ancião que se ele fizer alguma coisa em relação aos piratas, eu pego a lenha..." />
+  <keys prop="Description" type="monster" key="Dialog_1050129_Title" value="Sheenia" />
+  <keys prop="Description" type="monster" key="Dialog_1050129_Text0" value="A Sociedade Mágica da Virtude está apoiando você. Sabemos que você fará o que for preciso para derrotar o Olho de Radan." />
+  <keys prop="Description" type="monster" key="Dialog_1050129_answer_0_text" value="Olho de Radan" />
+  <keys prop="Description" type="monster" key="Dialog_9020030_Title" value="Olho de Radan" />
+  <keys prop="Description" type="monster" key="Dialog_9020030_Text0" value="Olho de Radan é a fonte da corrupção do blasfemador. Quando o mundo era jovem, Radan era um semideus que se rebelou contra os Criadores. Eles o prenderem, mas parece que o olho dele escapou." />
+  <keys prop="Description" type="monster" key="Dialog_9015776_Title" value="Trigat" />
+  <keys prop="Description" type="monster" key="Dialog_9015776_Text0" value="Cuidado por onde anda, viajante. A estrada para Hakoora tem sido afetada por deslizamentos de terra, ultimamente." />
+  <keys prop="Description" type="monster" key="Dialog_9015777_Title" value="Gruber" />
+  <keys prop="Description" type="monster" key="Dialog_9015777_Text0" value="Vou consertar tudo para que fique como antes. Provavelmente." />
+  <keys prop="Description" type="monster" key="Dialog_9015778_Title" value="Mina" />
+  <keys prop="Description" type="monster" key="Dialog_9015778_Text0" value="Alguma coisa nos deslizamentos de terra recentes deixou os mineradores assustados. Eles acham que alguma coisa esquisita está acontecendo. Eu só quero que eles parem..." />
+  <keys prop="Description" type="monster" key="Dialog_2021602_Title" value="Blake (Vigia do Junco)" />
+  <keys prop="Description" type="monster" key="Dialog_2021602_Text0" value="Forjar armas não é para qualquer um!" />
+  <keys prop="Description" type="monster" key="Dialog_2021602_answer_0_text" value="Praticar Criação de Armas" />
+  <keys prop="Description" type="monster" key="Dialog_2021603_Title" value="Plaiton (Vigia do Junco)" />
+  <keys prop="Description" type="monster" key="Dialog_2021603_Text0" value="Eu me sinto abençoado por poder fazer armaduras tão boas." />
+  <keys prop="Description" type="monster" key="Dialog_2021603_answer_0_text" value="Praticar Criação de Armaduras" />
+  <keys prop="Description" type="monster" key="Dialog_2021604_Title" value="Tarrent (Vigia do Junco)" />
+  <keys prop="Description" type="monster" key="Dialog_2021604_Text0" value="Não suporto quem reúne dezenas de familiares e os abandona assim que encontra um forte. Com amor e carinho, qualquer familiar pode ficar forte!" />
+  <keys prop="Description" type="monster" key="Dialog_2021604_answer_0_text" value="Praticar Criação de Selas" />
+  <keys prop="Description" type="monster" key="Dialog_2021605_Title" value="Ruvin Torov (Vigia do Junco)" />
+  <keys prop="Description" type="monster" key="Dialog_2021605_Text0" value="A beleza é um poder por si só, e tem coisa mais bonita do que joias brilhantes nos dedos?" />
+  <keys prop="Description" type="monster" key="Dialog_2021605_answer_0_text" value="Praticar Criação de Joias" />
+  <keys prop="Description" type="monster" key="dialog_9031620_Title" value="O florescer dos Lebrini " />
+  <keys prop="Description" type="monster" key="dialog_9031620_Text0" value="Humano! Você gosta de viajar? &lt;br&gt; Eu sou um viajante que ama as flores!&lt;br&gt;O mundo é muito amplo para ficar em sozinho no Jardim dos Lebrinis!&lt;br&gt;Se houver vento e vela, posso ir a qualquer lugar! &lt;br&gt;&lt;br&gt;Que maravilha! Qual tipo de aventura você experimentará hoje?" />
+</files>

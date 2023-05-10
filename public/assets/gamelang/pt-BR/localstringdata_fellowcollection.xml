@@ -1,61 +1,375 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="" key="F_Mission_001_RewardName" value="Reward Name 1" />
-  <keys type="" key="F_Mission_002_RewardName" value="Reward Name 2" />
-  <keys type="" key="F_Mission_003_RewardName" value="Reward Name 3" />
-  <keys type="" key="F_Mission_004_RewardName" value="Reward Name 4" />
-  <keys type="" key="F_Mission_005_RewardName" value="Reward Name 5" />
-  <keys type="" key="F_Mission_006_RewardName" value="Reward Name 6" />
-  <keys type="" key="F_Mission_007_RewardName" value="Reward Name 7" />
-  <keys type="" key="F_Mission_008_RewardName" value="Reward Name 8" />
-  <keys type="" key="F_Mission_009_RewardName" value="Reward Name 9" />
-  <keys type="" key="F_Mission_010_RewardName" value="Reward Name 10" />
-  <keys type="" key="F_Mission_011_RewardName" value="Reward Name 11" />
-  <keys type="" key="F_Mission_012_RewardName" value="Reward Name 12" />
-  <keys type="" key="F_Mission_013_RewardName" value="Reward Name 13" />
-  <keys type="" key="F_Mission_014_RewardName" value="Reward Name 14" />
-  <keys type="" key="F_Mission_015_RewardName" value="Reward Name 15" />
-  <keys type="" key="F_Mission_016_RewardName" value="Reward Name 16" />
-  <keys type="" key="F_Mission_017_RewardName" value="Reward Name 17" />
-  <keys type="" key="F_Mission_018_RewardName" value="Reward Name 18" />
-  <keys type="" key="F_Mission_019_RewardName" value="Reward Name 19" />
-  <keys type="" key="F_Mission_020_RewardName" value="Reward Name 20" />
-  <keys type="" key="F_Mission_021_RewardName" value="Reward Name 21" />
-  <keys type="" key="F_Mission_022_RewardName" value="Reward Name 22" />
-  <keys type="" key="F_Mission_023_RewardName" value="Reward Name 23" />
-  <keys type="" key="F_Mission_024_RewardName" value="Reward Name 24" />
-  <keys type="" key="F_Mission_025_RewardName" value="Reward Name 25" />
-  <keys type="" key="F_Mission_026_RewardName" value="Reward Name 26" />
-  <keys type="" key="F_Mission_027_RewardName" value="Reward Name 27" />
-  <keys type="" key="F_Mission_028_RewardName" value="Reward Name 28" />
-  <keys type="" key="F_Mission_029_RewardName" value="Reward Name 29" />
-  <keys type="" key="F_Mission_030_RewardName" value="Reward Name 30" />
-  <keys type="" key="F_Mission_031_RewardName" value="Reward Name 31" />
-  <keys type="" key="F_Mission_032_RewardName" value="Reward Name 32" />
-  <keys type="" key="F_Mission_033_RewardName" value="Reward Name 33" />
-  <keys type="" key="F_Mission_034_RewardName" value="Reward Name 34" />
-  <keys type="" key="F_Mission_035_RewardName" value="Reward Name 35" />
-  <keys type="" key="F_Mission_036_RewardName" value="Reward Name 36" />
-  <keys type="" key="F_Mission_037_RewardName" value="Reward Name 37" />
-  <keys type="" key="F_Mission_038_RewardName" value="Reward Name 38" />
-  <keys type="" key="F_Mission_039_RewardName" value="Reward Name 39" />
-  <keys type="" key="F_Mission_040_RewardName" value="Reward Name 40" />
-  <keys type="" key="F_Mission_041_RewardName" value="Reward Name 41" />
-  <keys type="" key="F_Mission_042_RewardName" value="Reward Name 42" />
-  <keys type="" key="F_Mission_043_RewardName" value="Reward Name 43" />
-  <keys type="" key="F_Mission_044_RewardName" value="Reward Name 44" />
-  <keys type="" key="F_Mission_045_RewardName" value="Reward Name 45" />
-  <keys type="" key="F_Mission_046_RewardName" value="Reward Name 46" />
-  <keys type="" key="F_Mission_047_RewardName" value="Reward Name 47" />
-  <keys type="" key="F_Mission_048_RewardName" value="Reward Name 48" />
-  <keys type="" key="F_Mission_049_RewardName" value="Reward Name 49" />
-  <keys type="" key="F_Mission_050_RewardName" value="Reward Name 50" />
-  <keys type="" key="F_Mission_051_RewardName" value="Reward Name 51" />
-  <keys type="" key="F_Mission_052_RewardName" value="Reward Name 52" />
-  <keys type="" key="evn_r01" value="Awakened Familiars" />
-  <keys type="" key="evn_e01" value="Event Familiars" />
-  <keys type="" key="evn_c01" value="Pet - Physical" />
-  <keys type="" key="evn_c02" value="Pet - Magical" />
-  <keys type="" key="evn_c03" value="Pet - Common" />
-  <keys type="" key="col_r01" value="Collection Rewards" />
+  <keys prop="Description" type="monster" key="F_Mission_001" value="Toucan" />
+  <keys prop="Description" type="monster" key="F_Mission_002" value="Frosty cold wind" />
+  <keys prop="Description" type="monster" key="F_Mission_003" value="I do not live to live" />
+  <keys prop="Description" type="monster" key="F_Mission_004" value="The mastermind of Tritael Rift" />
+  <keys prop="Description" type="monster" key="F_Mission_005" value="Awakening. Conquest. successful." />
+  <keys prop="Description" type="monster" key="F_Mission_006" value="The birth of a new legend" />
+  <keys prop="Description" type="monster" key="F_Mission_007" value="The legend that wakes up" />
+  <keys prop="Description" type="monster" key="F_Mission_008" value="I Am Legend" />
+  <keys prop="Description" type="monster" key="F_Mission_009" value="Suspicious Ravigne Manifest" />
+  <keys prop="Description" type="monster" key="F_Mission_010" value="Cherry Fellow of April" />
+  <keys prop="Description" type="monster" key="F_Mission_011" value="I only eat grass" />
+  <keys prop="Description" type="monster" key="F_Mission_012" value="The gift of awakening sawing fellow" />
+  <keys prop="Description" type="monster" key="F_Mission_013" value="The gift of awakening Mecca fellow" />
+  <keys prop="Description" type="monster" key="F_Mission_014" value="The poison of the valley" />
+  <keys prop="Description" type="monster" key="F_Mission_015" value="Local losers" />
+  <keys prop="Description" type="monster" key="F_Mission_016" value="Refurbish the expanse of Turin" />
+  <keys prop="Description" type="monster" key="F_Mission_017" value="It's not easy" />
+  <keys prop="Description" type="monster" key="F_Mission_018" value="Embroidered" />
+  <keys prop="Description" type="monster" key="F_Mission_019" value="The Beast of the Snowy" />
+  <keys prop="Description" type="monster" key="F_Mission_020" value="Twisted Beasts Part1" />
+  <keys prop="Description" type="monster" key="F_Mission_021" value="Twisted Beasts Part 2" />
+  <keys prop="Description" type="monster" key="F_Mission_022" value="Towards Tritael Rift" />
+  <keys prop="Description" type="monster" key="F_Mission_023" value="I Am The Best" />
+  <keys prop="Description" type="monster" key="F_Mission_024" value="Bullet taxi" />
+  <keys prop="Description" type="monster" key="F_Mission_025" value="Vivid Fellow" />
+  <keys prop="Description" type="monster" key="F_Mission_026" value="Wild food chain" />
+  <keys prop="Description" type="monster" key="F_Mission_027" value="Meet me at the ranch" />
+  <keys prop="Description" type="monster" key="F_Mission_028" value="Children in the laboratory Part1" />
+  <keys prop="Description" type="monster" key="F_Mission_029" value="Children in the laboratory Part2" />
+  <keys prop="Description" type="monster" key="F_Mission_030" value="Wolf Hunting" />
+  <keys prop="Description" type="monster" key="F_Mission_031" value="The dragon" />
+  <keys prop="Description" type="monster" key="F_Mission_032" value="Sparrow grilled" />
+  <keys prop="Description" type="monster" key="F_Mission_033" value="Fathead's Attack" />
+  <keys prop="Description" type="monster" key="F_Mission_034" value="Take care of the cat" />
+  <keys prop="Description" type="monster" key="F_Mission_035" value="Tied to a spider web" />
+  <keys prop="Description" type="monster" key="F_Mission_036" value="Threatening guys" />
+  <keys prop="Description" type="monster" key="F_Mission_037" value="Jungle Expedition" />
+  <keys prop="Description" type="monster" key="F_Mission_038" value="The ruler of battlefield" />
+  <keys prop="Description" type="monster" key="F_Mission_039" value="Self-extinguishing fire" />
+  <keys prop="Description" type="monster" key="F_Mission_040" value="Too slow to slow" />
+  <keys prop="Description" type="monster" key="F_Mission_041" value="Since then," />
+  <keys prop="Description" type="monster" key="F_Mission_042" value="The lonely tortoise" />
+  <keys prop="Description" type="monster" key="F_Mission_043" value="A good antler for your body" />
+  <keys prop="Description" type="monster" key="F_Mission_044" value="Towards ancient times" />
+  <keys prop="Description" type="monster" key="F_Mission_045" value="Gifts of ancient fellow" />
+  <keys prop="Description" type="monster" key="F_Mission_046" value="Indance, where have you been" />
+  <keys prop="Description" type="monster" key="F_Mission_047" value="Horn vs molar" />
+  <keys prop="Description" type="monster" key="F_Mission_048" value="Proof of strength" />
+  <keys prop="Description" type="monster" key="F_Mission_049" value="Gift of Collection" />
+  <keys prop="Description" type="monster" key="F_Mission_050" value="Mentoring gift" />
+  <keys prop="Description" type="monster" key="F_Mission_051" value="Symbol of wealthy movie" />
+  <keys prop="Description" type="monster" key="F_Mission_052" value="Introduction to Evolutionary Chemistry" />
+  <keys prop="Description" type="monster" key="map_c00_RewardDesc" value="Common" />
+  <keys prop="Description" type="monster" key="map_f01_RewardDesc" value="Heroic Pet - Level 55&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal Seed Max Level Options - Magical &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Magic Attack Power 234 ~ 245&#xD;&#xA;  Magical Critical Damage 171 ~ 178&#xD;&#xA;  All stats 26-30&#xD;&#xA;  +5 tempered Intelligence 35 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option - Physical &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Physical Damage 223 ~ 234&#xD;&#xA;  Physical Critical Damage 164 ~ 170&#xD;&#xA;  All stats 26-30&#xD;&#xA;  +5 tempered Strength 35 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_c01_RewardDesc" value="Legendary Pet - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 246 ~ 260&#xD;&#xA;Overall Critical Hit Damage 250 ~ 262&#xD;&#xA;All Stats. 30 ~ 34&#xD;&#xA;+5 tempered All Stats. 15&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_f02_RewardDesc" value="Legendary+ Familiar - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 269 ~ 285&#xD;&#xA;Max. HP 600 ~ 620&#xD;&#xA;All Stats. 34 ~ 38&#xD;&#xA;+5 tempered All Stats. 17&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_f09_RewardDesc" value="Legendary Familiar - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 266 ~ 278&#xD;&#xA;HP Absorption Chance 2.5% ~ 2.5%&#xD;&#xA;HP Absorption Rate 1% ~ 1%&#xD;&#xA;+5 tempered HP 350&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_f03_RewardDesc" value="Legendary+ Pet - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Magic&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Intelligence 170~178&#xD;&#xA;Willpower 188~198&#xD;&#xA;All Stats. 34~38&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Physical&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Strength 162~170&#xD;&#xA;Dexterity 181~190&#xD;&#xA;All Stats. 34~38&#xD;&#xA;+5 tempered Stats. Limit Lift 23&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_p01_RewardDesc" value="Legendary+ Pet - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Critical Hit Damage 381 ~ 398&#xD;&#xA;Critical Hit Damage Defense 299 ~ 315&#xD;&#xA;All Stats. 36 ~ 40&#xD;&#xA;+5 tempered Bleeding Penetration Rate 2%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_f04_RewardDesc" value="Legendary+ Familiar - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 278 ~ 292&#xD;&#xA;Overall Critical Hit Damage 233 ~ 245&#xD;&#xA;All Stats. 34 ~ 38&#xD;&#xA;+5 tempered Critical Hit Damage Penetration Rate 5%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_f05_RewardDesc" value="Legendary+ Familiar - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 285 ~ 299&#xD;&#xA;Max. HP 605 ~ 635&#xD;&#xA;All Stats. 36 ~ 40&#xD;&#xA;+5 tempered All Stats. 15&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_f07_RewardDesc" value="Legendary+ Familiar - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Max. HP 644 ~ 674&#xD;&#xA;Overall Defense 233 ~ 245&#xD;&#xA;All Stats. 34 ~ 38&#xD;&#xA;+5 tempered HP 400&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_f08_RewardDesc" value="Legendary+ Familiar - 67 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Magic&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Intelligence 203~213&#xD;&#xA;Willpower 205~215&#xD;&#xA;All Stats. 41~43&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Physical&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Strength 203~213&#xD;&#xA;Dexterity 205~215&#xD;&#xA;All Stats. 41~43&#xD;&#xA;+5 tempered Stats. Limit Lift 27&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_d99_RewardDesc" value="Ellora Spire" />
+  <keys prop="Description" type="monster" key="map_p02_RewardDesc" value="Legendary+ Familiar - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 293 ~ 310&#xD;&#xA;Overall Critical Hit Damage 306 ~ 320&#xD;&#xA;All Stats. 38 ~ 42&#xD;&#xA;+5 tempered Critical Hit Damage Defense Rate 4%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_c02_RewardDesc" value="Legendary+ Familiar - 60 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 293 ~ 308 &#xD;&#xA;Overall Critical Hit Damage 275 ~ 288&#xD;&#xA;All Stats. 38 ~ 42&#xD;&#xA;+5 tempered Stats. Limit Lift 30&lt;/UI_G&gt;&#xD;&#xA;" />
+  <keys prop="Description" type="monster" key="map_f00_RewardDesc" value="Prison of Salant" />
+  <keys prop="Description" type="monster" key="map_n01_RewardDesc" value="Common" />
+  <keys prop="Description" type="monster" key="F_Mission_001_RewardDesc" value="When used, a Parna's Coast Heroic Familiar Taming Mark is obtained.&#xD;&#xA;At a small chance, Legendary Familiar Taming Mark is obtained.." />
+  <keys prop="Description" type="monster" key="F_Mission_002_RewardDesc" value="When used, a Tritael Rift Heroic Familiar Taming Mark is obtained.&#xD;&#xA;At a small chance, Legendary Familiar Taming Mark is obtained." />
+  <keys prop="Description" type="monster" key="F_Mission_003_RewardDesc" value="When used, a Cloying Waste Heroic Familiar Taming Mark is obtained.&#xD;&#xA;At a small chance, Legendary Familiar Taming Mark is obtained." />
+  <keys prop="Description" type="monster" key="F_Mission_004_RewardDesc" value="Heroic Pet - 40 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Critical Hit Damage 381 ~ 398&#xD;&#xA;Critical Hit Damage Defense 299 ~ 315&#xD;&#xA;All Stats. 36 ~ 40&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;+5 tempered Bleeding Penetration Rate 2%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_005_RewardDesc" value="Legendary Familiar - 40 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 133 ~ 155&#xD;&#xA;PvP Attack Rate 4%&#xD;&#xA;All Stats. 27 ~ 31&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;+5 tempered All Stats. 1~2&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_006_RewardDesc" value="Use this to obtain one of the following awakened legendary familiars.&#xD;&#xA;&lt;UI_G&gt;Awakened Hameon&#xD;&#xA;Awakened Calypto&#xD;&#xA;Awakened Demonus&#xD;&#xA;Awakened Graveon&#xD;&#xA;Awakened Shakiba&#xD;&#xA;Awakened Rodesh&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_007_RewardDesc" value="Use this to obtain 4 types of Lv. 5 Talismans.&#xD;&#xA;&lt;UI_G&gt;&#xD;&#xA;Lv. 5 Taming Boost Talisman&#xD;&#xA;Lv. 5 Crafting Boost Talisman&#xD;&#xA;Lv. 5 Tempering Boost Talisman&#xD;&#xA;Lv. 5 Auction Boost Talisman&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_008_RewardDesc" value="&lt;UI_G&gt;Attack +500&#xD;&#xA;Critical Rate +5%&#xD;&#xA;Critical Damage +300&lt;/UI_G&gt;&#xD;&#xA;A title obtained by collecting all familiars of legendary grade." />
+  <keys prop="Description" type="monster" key="F_Mission_009_RewardDesc" value="Legendary+ Familiar - 55 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 179 ~ 179&#xD;&#xA;Overall Critical Hit Damage 185 ~ 185&#xD;&#xA;All Stats. 32 ~ 32&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;+5 tempered All Stats. 6~7&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_010_RewardDesc" value="Obtains a &lt;UI_G&gt;Boost Talisman of Spring Energy (30 days)&lt;/UI_G&gt;.&#xD;&#xA;&lt;UI_G&gt;Taming Chance +20%&#xD;&#xA;Familiar EXP +30%&#xD;&#xA;Overall Attack +5%&#xD;&#xA;Move Speed +3%&lt;UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_011_RewardDesc" value="Obtains an &lt;UI_G&gt;Akrat Plain Heroic Mark Box&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_012_RewardDesc" value="&lt;UI_G&gt;Awakened Sewing Familiar Gift&lt;/UI_G&gt; is obtained.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Contains the following items:&lt;/UI_Y&gt;&lt;UI_G&gt;&#xD;&#xA;+7Tempering Legendary Seal Stone Extractor x1&#xD;&#xA;Awakened Mecca Familiar Lucky Box x1&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_013_RewardDesc" value="&lt;UI_G&gt;Awakened Mecca Familiar Gift&lt;/UI_G&gt; is obtained.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Contains the following items:&lt;/UI_Y&gt;&lt;UI_G&gt;&#xD;&#xA;+7Tempering Legendary Seal Stone Extractor x1&#xD;&#xA;Awakened Sewing Familiar Lucky Box x1&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_014_RewardDesc" value="&lt;UI_G&gt;Turimnan Rapid Growth Potion&lt;/UI_G&gt;is obtained" />
+  <keys prop="Description" type="monster" key="F_Mission_015_RewardDesc" value="&lt;UI_G&gt;Overall Attack 550 &#xD;&#xA;Overall Critical Hit Damage 350&#xD;&#xA;All Stats. 15 &#xD;&#xA;Critical Rate 5%&lt;/UI_G&gt;&#xD;&#xA;A title obtained by collecting all of the legendary Familiars." />
+  <keys prop="Description" type="monster" key="F_Mission_016_RewardDesc" value="&lt;UI_Y&gt;Contains the following items:&lt;/UI_Y&gt;&lt;UI_G&gt;&#xD;&#xA;Legendary Reverse Tempering Stone x5&#xD;&#xA;Reverse Try Counter Redeemer x5&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_017_RewardDesc" value="Obtains Rabbini Gold Coins.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Contains the following items: &lt;/UI_Y&gt;&lt;UI_G&gt;&lt;br&gt;Rabbini Gold Coin x5&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_018_RewardDesc" value="Collector Coin x100 is obtained.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Contains the following items: &lt;/UI_Y&gt;&lt;UI_G&gt;&lt;br&gt;Collector Coin x100&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_019_RewardDesc" value="Bleeding Enhancement Potion x5&lt;/UI_G&gt;is obtained" />
+  <keys prop="Description" type="monster" key="F_Mission_020_RewardDesc" value="PvP Attack Rate Talisman Lv3&lt;/UI_G&gt;is obtained.&#xD;&#xA;&lt;UI_G&gt;PvP Attack Rate 6% Increased&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_021_RewardDesc" value="The fallen royal blood x5&lt;/UI_G&gt;is Obtained." />
+  <keys prop="Description" type="monster" key="F_Mission_022_RewardDesc" value="Legendary Familiar - 55 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 133 ~ 155&#xD;&#xA;Max. HP 345&#xD;&#xA;All Stats. 25&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;+5 tempered All Stats. limit increase 14&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_023_RewardDesc" value="&lt;UI_G&gt;Attack +5%&#xD;&#xA;Critical Rate +3%&#xD;&#xA;Familiar EXP +30%&lt;/UI_G&gt;&#xD;&#xA;&lt;R_Y&gt;Simply carrying this item in your bag will grant its effects.&lt;/R_Y&gt;&quot; /&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_024_RewardDesc" value="&lt;UI_G&gt;Move Speed +5%&#xD;&#xA;Familiar EXP +30%&lt;/UI_G&gt;&#xD;&#xA;&lt;R_Y&gt;Simply carrying this item in your bag will grant its effects.&lt;/R_Y&gt;&quot; /&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_025_RewardDesc" value="Obtain Alsas / Teleos Armour Box &lt;/UI_G&gt;.&#xD;&#xA;&lt;UI_G&gt; The Alsas Power&#xD;&#xA;Alsas Crossbow&#xD;&#xA;Teleo Darkness&#xD;&#xA;Teleo Crossbow&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_026_RewardDesc" value="When using, one of the following items can be obtained.&#xD;&#xA;&lt;UI_G&gt; Ikeman Red (30 days)&#xD;&#xA;Ikeman Pink (30 days)&#xD;&#xA;Ikeman Blue (30 days)&#xD;&#xA;Ikaman Yellow (30 days)&#xD;&#xA;Ikeman Black (30 days) &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_027_RewardDesc" value="Legendary Familiar - 67 Level&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Seal Stone Max. Level Option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt;Overall Attack 277 ~ 304&#xD;&#xA;Max. HP 597 ~ 640&#xD;&#xA;All Stats. 33 ~ 36&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;+5 tempered All Stats. 16 ~ 18&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_028_RewardDesc" value="Use this to obtain one of the following awakened legendary familiars.&#xD;&#xA;&lt;UI_G&gt;Awakened Hameon&#xD;&#xA;Awakened Calypto&#xD;&#xA;Awakened Demonus&#xD;&#xA;Awakened Graveon&#xD;&#xA;Awakened Shakiba&#xD;&#xA;Awakened Rodesh&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_029_RewardDesc" value="Obtain a 30% Blessed Elite Tempering Stone.&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_030_RewardDesc" value="Obtain a Booster of Faith (7 days) &lt;/UI_G&gt;.&#xD;&#xA;  &lt;UI_G&gt; Increases all ATK by 10%&#xD;&#xA;  Increases all Defense by 10%&#xD;&#xA;  Reduce Cooldown by 5% &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_031_RewardDesc" value="Obtain Rabbini Gold Coins.&lt;br&gt;&lt;br&gt;Package Contents (1 total) &lt;/UI_Y&gt; &lt;UI_G&gt; &lt;br&gt; Rabbini gold coins x10 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_032_RewardDesc" value="Elite Familiar - Level 30&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Magic Critical Chance 1.96%&#xD;&#xA;  Critical Probability 185 ~ 185 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  +5 tempered All Stats 1 ~ 2 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_033_RewardDesc" value="When you use &lt;UI_G&gt; [Cuty Poyo] &lt;/UI_G&gt; will be created in your library." />
+  <keys prop="Description" type="monster" key="F_Mission_034_RewardDesc" value="Legendary Fellow - Level 60&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; All Attack Power 263&#xD;&#xA;  Max HP 580&#xD;&#xA;  All stats 35 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  +5 tempered All Stats 16 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_035_RewardDesc" value="Obtain Rabbini Gold Coins.&lt;br&gt;&lt;br&gt;Package Contents (1 total) &lt;/UI_Y&gt; &lt;UI_G&gt; &lt;br&gt; Rabbini gold coins x5 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_036_RewardDesc" value="Legendary Fellow - Level 60&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; All Attacks 223 ~ 246&#xD;&#xA;  Max HP 567 ~ 594&#xD;&#xA;  All stats 32 ~ 35 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  +5 tempered All Stats 12 ~ 15 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_037_RewardDesc" value="Obtain Collector Coins.&lt;br&gt;&lt;br&gt;Package Contents (1 total) &lt;/UI_Y&gt; &lt;UI_G&gt; &lt;br&gt; Collector Coins x100 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_038_RewardDesc" value="&lt;UI_G&gt;Increased Critical Hit Damage by 280&#xD;&#xA;  Increases Critical Defense by 100&#xD;&#xA;  Increased PVP Attack by 3%&#xD;&#xA;  Increased PVP Defense by 2% &lt;/UI_G&gt;&#xD;&#xA;  Title obtained by collecting all battlefield familiars." />
+  <keys prop="Description" type="monster" key="F_Mission_039_RewardDesc" value="Obtain Collector Coins.&lt;br&gt;&lt;br&gt;Package Contents (1 total) &lt;/UI_Y&gt; &lt;UI_G&gt; &lt;br&gt; Collector Coins x50 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_040_RewardDesc" value="Obtain the lucky fortune box &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_041_RewardDesc" value="Legendary Pet - Level 60&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; All Attacks 161 ~ 180&#xD;&#xA;  Health 318 ~ 368&#xD;&#xA;  All stats 23 ~ 25 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_042_RewardDesc" value="Obtain &lt;UI_G&gt;Golden Fishing Rod (3 days) &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_043_RewardDesc" value="Obtain Rabbini Gold Coins.&lt;br&gt;&lt;br&gt;Package Contents (1 total) &lt;/UI_Y&gt; &lt;UI_G&gt; &lt;br&gt; Rabbini gold coins x5 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_044_RewardDesc" value="You can acquire one of the following ancient Fellows Summons when in use.&#xD;&#xA;  &lt;UI_G&gt; Summon Ancient Veldon&#xD;&#xA;  Summon Ancient Magnatu&#xD;&#xA;  Summon Ancient Caspert &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_045_RewardDesc" value="Obtain Lv. 65 Legendary Surpassing Stone &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_046_RewardDesc" value="Obtain 5 blood from the fallen royal family." />
+  <keys prop="Description" type="monster" key="F_Mission_047_RewardDesc" value="Attack Booster (Permanent) &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_048_RewardDesc" value="Legendary Fellow - Level 67&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; All Critical Hit Damage 405 ~ 435&#xD;&#xA;  All Critical Defense 308 ~ 349&#xD;&#xA;  All stats 35 ~ 38 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  +5 tempered Max HP 583 ~ 643 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_049_RewardDesc" value="You can acquire the item when you use it.&#xD;&#xA;  &lt;UI_G&gt; Legendary Reverse Tempering Stone x5&#xD;&#xA;  Reverse Attempt Redeemer x5 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_050_RewardDesc" value="You can get one of the following items with a certain probability when using it.&#xD;&#xA;  &lt;UI_G&gt; Level 60 Legendary Weapon Refining Stone&#xD;&#xA;  Level 60 Legendary Armor Refining Stone&#xD;&#xA;  Level 60 Legendary Accessory Refining Stone &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_051_RewardDesc" value="You can get one of the following items with a certain probability when using it.&#xD;&#xA;  &lt;UI_G&gt; Legendary Weapon Refining Stone&#xD;&#xA;  Legendary Armor Refining Stone&#xD;&#xA;  Legendary Accessory Refining Stone &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_052_RewardDesc" value="Obtain Growth Booster (7 days) &lt;/UI_G&gt;.&#xD;&#xA;  &lt;UI_G&gt; 10% Increased taming success Chance&#xD;&#xA;  10% Increased Character EXP&#xD;&#xA;  Increased all attack power by 5% &lt;/UI_G&gt;" />
+  <keys prop="Name" type="monster" key="F_Mission_001_RewardName" value="Reward Name 1" />
+  <keys prop="Description" type="monster" key="F_Mission_001_RewardDescription" value="Reward Description 1" />
+  <keys prop="Name" type="monster" key="F_Mission_002_RewardName" value="Reward Name 2" />
+  <keys prop="Description" type="monster" key="F_Mission_002_RewardDescription" value="Reward Description 2" />
+  <keys prop="Name" type="monster" key="F_Mission_003_RewardName" value="Reward Name 3" />
+  <keys prop="Description" type="monster" key="F_Mission_003_RewardDescription" value="Reward Description 3" />
+  <keys prop="Name" type="monster" key="F_Mission_004_RewardName" value="Reward Name 4" />
+  <keys prop="Description" type="monster" key="F_Mission_004_RewardDescription" value="Reward Description 4" />
+  <keys prop="Name" type="monster" key="F_Mission_005_RewardName" value="Reward Name 5" />
+  <keys prop="Description" type="monster" key="F_Mission_005_RewardDescription" value="Reward Description 5" />
+  <keys prop="Name" type="monster" key="F_Mission_006_RewardName" value="Reward Name 6" />
+  <keys prop="Description" type="monster" key="F_Mission_006_RewardDescription" value="Reward Description 6" />
+  <keys prop="Name" type="monster" key="F_Mission_007_RewardName" value="Reward Name 7" />
+  <keys prop="Description" type="monster" key="F_Mission_007_RewardDescription" value="Reward Description 7" />
+  <keys prop="Name" type="monster" key="F_Mission_008_RewardName" value="Reward Name 8" />
+  <keys prop="Description" type="monster" key="F_Mission_008_RewardDescription" value="Reward Description 8" />
+  <keys prop="Name" type="monster" key="F_Mission_009_RewardName" value="Reward Name 9" />
+  <keys prop="Description" type="monster" key="F_Mission_009_RewardDescription" value="Reward Description 9" />
+  <keys prop="Name" type="monster" key="F_Mission_010_RewardName" value="Reward Name 10" />
+  <keys prop="Description" type="monster" key="F_Mission_010_RewardDescription" value="Reward Description 10" />
+  <keys prop="Name" type="monster" key="F_Mission_011_RewardName" value="Reward Name 11" />
+  <keys prop="Description" type="monster" key="F_Mission_011_RewardDescription" value="Reward Description 11" />
+  <keys prop="Name" type="monster" key="F_Mission_012_RewardName" value="Reward Name 12" />
+  <keys prop="Description" type="monster" key="F_Mission_012_RewardDescription" value="Reward Description 12" />
+  <keys prop="Name" type="monster" key="F_Mission_013_RewardName" value="Reward Name 13" />
+  <keys prop="Description" type="monster" key="F_Mission_013_RewardDescription" value="Reward Description 13" />
+  <keys prop="Name" type="monster" key="F_Mission_014_RewardName" value="Reward Name 14" />
+  <keys prop="Description" type="monster" key="F_Mission_014_RewardDescription" value="Reward Description 14" />
+  <keys prop="Name" type="monster" key="F_Mission_015_RewardName" value="Reward Name 15" />
+  <keys prop="Description" type="monster" key="F_Mission_015_RewardDescription" value="Reward Description 15" />
+  <keys prop="Name" type="monster" key="F_Mission_016_RewardName" value="Reward Name 16" />
+  <keys prop="Description" type="monster" key="F_Mission_016_RewardDescription" value="Reward Description 16" />
+  <keys prop="Name" type="monster" key="F_Mission_017_RewardName" value="Reward Name 17" />
+  <keys prop="Description" type="monster" key="F_Mission_017_RewardDescription" value="Reward Description 17" />
+  <keys prop="Name" type="monster" key="F_Mission_018_RewardName" value="Reward Name 18" />
+  <keys prop="Description" type="monster" key="F_Mission_018_RewardDescription" value="Reward Description 18" />
+  <keys prop="Name" type="monster" key="F_Mission_019_RewardName" value="Reward Name 19" />
+  <keys prop="Description" type="monster" key="F_Mission_019_RewardDescription" value="Reward Description 19" />
+  <keys prop="Name" type="monster" key="F_Mission_020_RewardName" value="Reward Name 20" />
+  <keys prop="Description" type="monster" key="F_Mission_020_RewardDescription" value="Reward Description 20" />
+  <keys prop="Name" type="monster" key="F_Mission_021_RewardName" value="Reward Name 21" />
+  <keys prop="Description" type="monster" key="F_Mission_021_RewardDescription" value="Reward Description 21" />
+  <keys prop="Name" type="monster" key="F_Mission_022_RewardName" value="Reward Name 22" />
+  <keys prop="Description" type="monster" key="F_Mission_022_RewardDescription" value="Reward Description 22" />
+  <keys prop="Name" type="monster" key="F_Mission_023_RewardName" value="Reward Name 23" />
+  <keys prop="Description" type="monster" key="F_Mission_023_RewardDescription" value="Reward Description 23" />
+  <keys prop="Name" type="monster" key="F_Mission_024_RewardName" value="Reward Name 24" />
+  <keys prop="Description" type="monster" key="F_Mission_024_RewardDescription" value="Reward Description 24" />
+  <keys prop="Name" type="monster" key="F_Mission_025_RewardName" value="Reward Name 25" />
+  <keys prop="Description" type="monster" key="F_Mission_025_RewardDescription" value="Reward Description 25" />
+  <keys prop="Name" type="monster" key="F_Mission_026_RewardName" value="Reward Name 26" />
+  <keys prop="Description" type="monster" key="F_Mission_026_RewardDescription" value="Reward Description 26" />
+  <keys prop="Name" type="monster" key="F_Mission_027_RewardName" value="Reward Name 27" />
+  <keys prop="Description" type="monster" key="F_Mission_027_RewardDescription" value="Reward Description 27" />
+  <keys prop="Name" type="monster" key="F_Mission_028_RewardName" value="Reward Name 28" />
+  <keys prop="Description" type="monster" key="F_Mission_028_RewardDescription" value="Reward Description 28" />
+  <keys prop="Name" type="monster" key="F_Mission_029_RewardName" value="Reward Name 29" />
+  <keys prop="Description" type="monster" key="F_Mission_029_RewardDescription" value="Reward Description 29" />
+  <keys prop="Name" type="monster" key="F_Mission_030_RewardName" value="Reward Name 30" />
+  <keys prop="Description" type="monster" key="F_Mission_030_RewardDescription" value="Reward Description 30" />
+  <keys prop="Name" type="monster" key="F_Mission_031_RewardName" value="Reward Name 31" />
+  <keys prop="Description" type="monster" key="F_Mission_031_RewardDescription" value="Reward Description 31" />
+  <keys prop="Name" type="monster" key="F_Mission_032_RewardName" value="Reward Name 32" />
+  <keys prop="Description" type="monster" key="F_Mission_032_RewardDescription" value="Reward Description 32" />
+  <keys prop="Name" type="monster" key="F_Mission_033_RewardName" value="Reward Name 33" />
+  <keys prop="Description" type="monster" key="F_Mission_033_RewardDescription" value="Reward Description 33" />
+  <keys prop="Name" type="monster" key="F_Mission_034_RewardName" value="Reward Name 34" />
+  <keys prop="Description" type="monster" key="F_Mission_034_RewardDescription" value="Reward Description 34" />
+  <keys prop="Name" type="monster" key="F_Mission_035_RewardName" value="Reward Name 35" />
+  <keys prop="Description" type="monster" key="F_Mission_035_RewardDescription" value="Reward Description 35" />
+  <keys prop="Name" type="monster" key="F_Mission_036_RewardName" value="Reward Name 36" />
+  <keys prop="Description" type="monster" key="F_Mission_036_RewardDescription" value="Reward Description 36" />
+  <keys prop="Name" type="monster" key="F_Mission_037_RewardName" value="Reward Name 37" />
+  <keys prop="Description" type="monster" key="F_Mission_037_RewardDescription" value="Reward Description 37" />
+  <keys prop="Name" type="monster" key="F_Mission_038_RewardName" value="Reward Name 38" />
+  <keys prop="Description" type="monster" key="F_Mission_038_RewardDescription" value="Reward Description 38" />
+  <keys prop="Name" type="monster" key="F_Mission_039_RewardName" value="Reward Name 39" />
+  <keys prop="Description" type="monster" key="F_Mission_039_RewardDescription" value="Reward Description 39" />
+  <keys prop="Name" type="monster" key="F_Mission_040_RewardName" value="Reward Name 40" />
+  <keys prop="Description" type="monster" key="F_Mission_040_RewardDescription" value="Reward Description 40" />
+  <keys prop="Name" type="monster" key="F_Mission_041_RewardName" value="Reward Name 41" />
+  <keys prop="Description" type="monster" key="F_Mission_041_RewardDescription" value="Reward Description 41" />
+  <keys prop="Name" type="monster" key="F_Mission_042_RewardName" value="Reward Name 42" />
+  <keys prop="Description" type="monster" key="F_Mission_042_RewardDescription" value="Reward Description 42" />
+  <keys prop="Name" type="monster" key="F_Mission_043_RewardName" value="Reward Name 43" />
+  <keys prop="Description" type="monster" key="F_Mission_043_RewardDescription" value="Reward Description 43" />
+  <keys prop="Name" type="monster" key="F_Mission_044_RewardName" value="Reward Name 44" />
+  <keys prop="Description" type="monster" key="F_Mission_044_RewardDescription" value="Reward Description 44" />
+  <keys prop="Name" type="monster" key="F_Mission_045_RewardName" value="Reward Name 45" />
+  <keys prop="Description" type="monster" key="F_Mission_045_RewardDescription" value="Reward Description 45" />
+  <keys prop="Name" type="monster" key="F_Mission_046_RewardName" value="Reward Name 46" />
+  <keys prop="Description" type="monster" key="F_Mission_046_RewardDescription" value="Reward Description 46" />
+  <keys prop="Name" type="monster" key="F_Mission_047_RewardName" value="Reward Name 47" />
+  <keys prop="Description" type="monster" key="F_Mission_047_RewardDescription" value="Reward Description 47" />
+  <keys prop="Name" type="monster" key="F_Mission_048_RewardName" value="Reward Name 48" />
+  <keys prop="Description" type="monster" key="F_Mission_048_RewardDescription" value="Reward Description 48" />
+  <keys prop="Name" type="monster" key="F_Mission_049_RewardName" value="Reward Name 49" />
+  <keys prop="Description" type="monster" key="F_Mission_049_RewardDescription" value="Reward Description 49" />
+  <keys prop="Name" type="monster" key="F_Mission_050_RewardName" value="Reward Name 50" />
+  <keys prop="Description" type="monster" key="F_Mission_050_RewardDescription" value="Reward Description 50" />
+  <keys prop="Name" type="monster" key="F_Mission_051_RewardName" value="Reward Name 51" />
+  <keys prop="Description" type="monster" key="F_Mission_051_RewardDescription" value="Reward Description 51" />
+  <keys prop="Name" type="monster" key="F_Mission_052_RewardName" value="Reward Name 52" />
+  <keys prop="Description" type="monster" key="F_Mission_052_RewardDescription" value="Reward Description 52" />
+  <keys prop="Description" type="monster" key="map_c00_RewardDescription" value="Common" />
+  <keys prop="Description" type="monster" key="map_f01_RewardDescription" value="Brakkar Forest" />
+  <keys prop="Description" type="monster" key="map_c01_RewardDescription" value="Hakains Crossing" />
+  <keys prop="Description" type="monster" key="map_f02_RewardDescription" value="Hakanas Highlands" />
+  <keys prop="Description" type="monster" key="map_f09_RewardDescription" value="Sea of Hakanas" />
+  <keys prop="Description" type="monster" key="map_f03_RewardDescription" value="Parnas Coast" />
+  <keys prop="Description" type="monster" key="map_p01_RewardDescription" value="Exarahn Badlands" />
+  <keys prop="Description" type="monster" key="map_f04_RewardDescription" value="Tritael Rift" />
+  <keys prop="Description" type="monster" key="map_f05_RewardDescription" value="Cloying Wastes" />
+  <keys prop="Description" type="monster" key="map_f07_RewardDescription" value="Ellora's Sanctuary" />
+  <keys prop="Description" type="monster" key="map_f08_RewardDescription" value="Turiman Valley" />
+  <keys prop="Description" type="monster" key="map_d99_RewardDescription" value="Infinite Tower" />
+  <keys prop="Description" type="monster" key="map_p02_RewardDescription" value="Stygaea" />
+  <keys prop="Description" type="monster" key="map_c02_RewardDescription" value="Akrat Plains" />
+  <keys prop="Description" type="monster" key="map_f00_RewardDescription" value="Salant's Prison" />
+  <keys prop="Name" type="monster" key="evn_r01" value="Awakened Familiars" />
+  <keys prop="Name" type="monster" key="evn_e01" value="Event Familiars" />
+  <keys prop="Name" type="monster" key="evn_c01" value="Pet - Physical" />
+  <keys prop="Name" type="monster" key="evn_c02" value="Pet - Magical" />
+  <keys prop="Name" type="monster" key="evn_c03" value="Pet - Common" />
+  <keys prop="Name" type="monster" key="col_r01" value="Collection Rewards" />
+  <keys prop="Description" type="monster" key="F_Mission_053" value="Introduction to Evolution of Courage" />
+  <keys prop="Description" type="monster" key="F_Mission_054" value="Introduction to Evolution of Wisdom" />
+  <keys prop="Description" type="monster" key="F_Mission_055" value="All for one" />
+  <keys prop="Description" type="monster" key="F_Mission_053_RewardDesc" value="Obtain a &lt;UI_G&gt;+7 Tempered Legendary Extractor&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_054_RewardDesc" value="Obtain a &lt;UI_G&gt;+7 Tempered Legendary Extractor&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_055_RewardDesc" value="Legendary Pet - Level 67&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option - Physical &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Strength 175 - 190&#xD;&#xA;  Dexterity 195 ~ 210&#xD;&#xA;  All stats 39 ~ 42&#xD;&#xA;  +5 tempered All Stats 16 ~ 18 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal Seed Max Level Options - Magical &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Intelligence 175-190&#xD;&#xA;  Wisdom 195-210&#xD;&#xA;  All stats 39 to 42&#xD;&#xA;  +5 tempered All Stats 16 to 18 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_056" value="Familiar Sewn with Love" />
+  <keys prop="Description" type="monster" key="F_Mission_056_RewardDesc" value="Obtain a fellow order for the collection.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt; Package Contents (2 types) &lt;/UI_Y&gt; &lt;UI_G&gt;&lt;br&gt;Legendary Familiar Collection Scroll x1&lt;br&gt;Heroic Familiar Collection Scroll x1 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_p02_part2_RewardDescription" value="Akeron Depth" />
+  <keys prop="Description" type="monster" key="map_p02_part2_RewardDesc" value="Legendary Fellow - Level 50&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; All Critical Damage 353 ~ 372&#xD;&#xA;  HP 591 ~ 655&#xD;&#xA;  All stats 33 ~ 36 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_p02_part2" value="Akeron Depth" />
+  <keys prop="Description" type="monster" key="F_Mission_057" value="Symbol of wealthy Honor" />
+  <keys prop="Description" type="monster" key="F_Mission_057_RewardDesc" value="This scroll can ubind LV. 1 ~ 50 items and can be used on items up to legendary grade.&#xD;&#xA;  Right click to use the item you want to unbind&#xD;&#xA; &#xD;&#xA;  &lt;It_G&gt; - Can only be used when the level and grade of the item match. &lt;/It_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_058" value="Suspicious Rabbini Manifest" />
+  <keys prop="Description" type="monster" key="F_Mission_058_RewardDesc" value="Legend + Grade Familiar - Level 55&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; All Attacks 179 ~ 179&#xD;&#xA;  All critical damage 185 ~ 185&#xD;&#xA;  All stats 32 ~ 32 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_059" value="Blessed gift of Halloween" />
+  <keys prop="Description" type="monster" key="F_Mission_059_RewardDesc" value="You can get one of the following items with a certain probability when using it.&#xD;&#xA;  &lt;UI_G&gt;Blessed Elite Tempering Stone&#xD;&#xA;Blessed Heroic Tempering Stone&#xD;&#xA;Blessed Elite Jewelry Tempering Stone&#xD;&#xA;Legendary Weapon Refining Stone&#xD;&#xA;  Legendary Armor Refining Stone&#xD;&#xA;  Legendary Accessory Refining Stone &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_061" value="Girlfriend's Gift" />
+  <keys prop="Description" type="monster" key="F_Mission_061_RewardDesc" value="Obtain &quot;Girlfriend's gift&quot;. &lt;br&gt; &lt;br&gt; &lt;UI_Y&gt; Package contents (3 types) &lt;/UI_Y&gt; &lt;UI_G&gt;&#xD;&#xA;  Legendary Reverse Tempering Stone x5&#xD;&#xA;  Reverse Attempt Redeemer x5&#xD;&#xA;  Special title: Rough x1 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_062" value="New Legend" />
+  <keys prop="Description" type="monster" key="F_Mission_062_RewardDesc" value="&lt;UI_G&gt; All Attacks Increased by 480&#xD;&#xA;  Increases all critical damage by 100&#xD;&#xA;  Increase all stats limit 20&#xD;&#xA;  Increased 2% drop rate of advanced items &lt;/UI_G&gt;&#xD;&#xA;  A title obtained by collecting all of the legendary Familiars." />
+  <keys prop="Description" type="monster" key="F_Mission_063" value="Sharp teeth" />
+  <keys prop="Description" type="monster" key="F_Mission_063_RewardDesc" value="Blessed Tempering Stone Package is obtained.&lt;br&gt; &lt;br&gt; &lt;UI_Y&gt; Package Contents (2 types in total) &lt;/UI_Y&gt; &lt;UI_G&gt;&#xD;&#xA;  Blessed Elite Tempering Stone x1&#xD;&#xA;  Blessed Heroic Tempering Stone x1 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_064" value="Patrician's Dignity" />
+  <keys prop="Description" type="monster" key="F_Mission_064_RewardDesc" value="Obtain Reverse Attempt Redeemer Package. &lt;br&gt; &lt;br&gt; &lt;UI_Y&gt; Package Contents (1 total) &lt;/UI_Y&gt; &lt;UI_G&gt;&#xD;&#xA;  Reverse Attempt Redeemer x3 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_065" value="We Are Family" />
+  <keys prop="Description" type="monster" key="F_Mission_065_RewardDesc" value="&lt;UI_G&gt;Legendary Familiar Mark Box &lt;/UI_G&gt; is obtained." />
+  <keys prop="Description" type="monster" key="F_Mission_066" value="I only eat grass" />
+  <keys prop="Description" type="monster" key="F_Mission_066_RewardDesc" value="Obtain &lt;UI_G&gt; Grassland Mark Box &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_067" value="White Day Visiting Poyo's Gift" />
+  <keys prop="Description" type="monster" key="F_Mission_067_RewardDesc" value="Divine Tempering Stone Package is obtained.&lt;br&gt; &lt;br&gt; &lt;UI_Y&gt; Package Contents (2 types in total) &lt;/UI_Y&gt; &lt;UI_G&gt;&#xD;&#xA;  Divine Elite Tempering Stone x1&#xD;&#xA;  Divine Heroic Tempering Stone x1 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_legend_RewardDescription" value="New Legend Familiar" />
+  <keys prop="Description" type="monster" key="map_legend" value="New Legend Familiar" />
+  <keys prop="Description" type="monster" key="F_Mission_068" value="April Sakura Familiar" />
+  <keys prop="Description" type="monster" key="F_Mission_068_RewardDesc" value="Obtain &lt;UI_G&gt;Talisman of Spring Energy (30 days)&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_069" value="Many a little makes a mickle." />
+  <keys prop="Description" type="monster" key="F_Mission_069_RewardDesc" value="Obtain an &lt;UI_G&gt;Auto-loot Emblem&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_070" value="Rion's Gift" />
+  <keys prop="Description" type="monster" key="F_Mission_070_RewardDesc" value="&lt;UI_G&gt; Alsas' Armor Box &lt;/UI_G&gt; is obtained." />
+  <keys prop="Description" type="monster" key="F_Mission_071" value="Awakened Sewing Familiar's Gift" />
+  <keys prop="Description" type="monster" key="F_Mission_071_RewardDesc" value="Obtain &lt;UI_G&gt; Awakening Sewing Familiar's Gift&lt;/UI_G&gt;. &lt;br&gt; &lt;br&gt; &lt;UI_Y&gt; Package Contents (2 types) &lt;/UI_Y&gt; &lt;UI_G&gt;&#xD;&#xA;  +7 Tempered Legendary Seal Stone Extractor x1&#xD;&#xA;  Awakening mecca Familiar Lucky Box x1 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_072" value="Awakened Mecca Familiar's Gift" />
+  <keys prop="Description" type="monster" key="F_Mission_072_RewardDesc" value="Obtain &lt;UI_G&gt; Awakening Mecca Familiar's Gift&lt;/UI_G&gt;. &lt;br&gt; &lt;br&gt; &lt;UI_Y&gt; Package Contents (2 types) &lt;/UI_Y&gt; &lt;UI_G&gt;&#xD;&#xA;  +7 Tempered Legendary Seal Stone Extractor x1&#xD;&#xA;  Awakening sewing Familiar Lucky Box x1 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="map_ancient_RewardDescription" value="Ancient Fellow" />
+  <keys prop="Description" type="monster" key="map_ancient" value="Ancient Fellow" />
+  <keys prop="Description" type="monster" key="F_Mission_073" value="The poison of the valley" />
+  <keys prop="Description" type="monster" key="F_Mission_073_RewardDesc" value="Obtain &lt;UI_G&gt; Turiman Rapid Growth Potion &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_074" value="Local losers" />
+  <keys prop="Description" type="monster" key="F_Mission_074_RewardDesc" value="&lt;UI_G&gt; All Attacks increased by 550&#xD;&#xA;  Increases all critical damage by 350&#xD;&#xA;  Increase all stats 15&#xD;&#xA;  Increased Critical Hit Chance by 5% &lt;/UI_G&gt;&#xD;&#xA;  A title obtained by collecting all of the legendary Familiars." />
+  <keys prop="Description" type="monster" key="F_Mission_075" value="Reflect the expanse of Turiman" />
+  <keys prop="Description" type="monster" key="F_Mission_075_RewardDesc" value="&lt;UI_G&gt;Reverse package&lt;/UI_G&gt; is obtained. &lt;br&gt; &lt;br&gt; &lt;UI_Y&gt; Package components (total of 2) &lt;/UI_Y&gt; &lt;UI_G&gt;&#xD;&#xA;  Legendary Reverse Tempering Stone x3&#xD;&#xA;  Reverse Attempt Redeemer x3 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_076_RewardDesc" value="Legendary + Grade Pet - Level 50&#xD;&#xA; &#xD;&#xA;  &lt;UI_G&gt; Maximum health 368-431&#xD;&#xA;  All stats 25 to 29 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Sealed Max Level option - Physical &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Physical Critical Damage 228 ~ 256&#xD;&#xA;  Critical damage defense 279 ~ 318&#xD;&#xA;  All stats 27 ~ 29 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_077_RewardDesc" value="Legendary + Grade Pet - Level 50&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Sealed Max Level Options - Magical &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Magic Attack Power 227 ~ 244&#xD;&#xA;  HP 401 - 454&#xD;&#xA;  All stats 27 ~ 29 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Sealed Max level option - Physical &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; Physical Damage 227 ~ 244&#xD;&#xA;  HP 401 - 454&#xD;&#xA;  All stats 27 ~ 29 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_076" value="Nether" />
+  <keys prop="Description" type="monster" key="F_Mission_077" value="Desert Flower" />
+  <keys prop="Description" type="monster" key="map_pet_RewardDescription" value="Capturable Pet" />
+  <keys prop="Description" type="monster" key="map_pet" value="Capturable Pet" />
+  <keys prop="Description" type="monster" key="F_Mission_078" value="Pole and pole" />
+  <keys prop="Description" type="monster" key="F_Mission_079" value="A step toward capture" />
+  <keys prop="Description" type="monster" key="F_Mission_080" value="Indance, steady steps" />
+  <keys prop="Description" type="monster" key="F_Mission_081" value="Brilliant and lonesome" />
+  <keys prop="Description" type="monster" key="F_Mission_078_RewardDesc" value="Obtain the Intense Booster (15 days) &lt;/UI_G&gt;.&#xD;&#xA;  &lt;UI_G&gt; All Attack Power increased by 20%&#xD;&#xA;  All Defense increased by 20%&#xD;&#xA;  PVP Attack Power increased by 20%&#xD;&#xA;  PVP Defense increased by 20% &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_079_RewardDesc" value="Obtain Capture Booster(3 days) &lt;/UI_G&gt;.&#xD;&#xA;  &lt;UI_G&gt; 20% Increased Capture Chance&#xD;&#xA;  10% Increased Taming Chance&#xD;&#xA;  Familiar EXP is increased by 200%&#xD;&#xA;  Movement speed increased by 5% &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_080_RewardDesc" value="&lt;UI_G&gt; 2 Red Revolution Certificate &lt;/UI_G&gt; are obtained." />
+  <keys prop="Description" type="monster" key="F_Mission_081_RewardDesc" value="&lt;UI_G&gt; Shining 70% Elite Tempering Stone &lt;/UI_G&gt;is obtained." />
+  <keys prop="Description" type="monster" key="map_evolution_RewardDescription" value="Evolution Fellow / Pet" />
+  <keys prop="Description" type="monster" key="map_evolution" value="Evolution Fellow / Pet" />
+  <keys prop="Description" type="monster" key="F_Mission_082" value="Awake from a Nightmare" />
+  <keys prop="Description" type="monster" key="F_Mission_082_RewardDesc" value="When used, you can obtain one of the following Familiar Marks / Pet Capture Orbs:&#xD;&#xA; &#xD;&#xA;  &lt;UI_G&gt; &#xD;&#xA;Antares&#xD;&#xA;  Hestin&#xD;&#xA;  Spiroon&#xD;&#xA;  Golden Watermelon  &#xD;&#xA;Leader of the Earth&#xD;&#xA;  Kurodian&#xD;&#xA;  Jason&#xD;&#xA;  Duke Elder Hakain&#xD;&#xA;  Benthenus&#xD;&#xA;  Tyrant Vinisar&#xD;&#xA;  Merciful Kuntin&#xD;&#xA;Summon Scroll: Liventia  &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_083" value="Dark and Cold" />
+  <keys prop="Description" type="monster" key="F_Mission_083_RewardDesc" value="Obtain &quot;The Crown of Noir (15 days) &lt;/UI_G&gt;. &#xD;&#xA;  &lt;UI_G&gt; Overall Attack increased by 20% &#xD;&#xA;  Cooldown reduced by 7% &#xD;&#xA;  Stat Limit increased by 30 &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_084" value="Courageous Blue Flash" />
+  <keys prop="Description" type="monster" key="F_Mission_084_RewardDesc" value="When used, you obtain one of the following items with a certain probability.&#xD;&#xA;&lt;UI_G&gt;Level 65 Legendary Weapon Refining Stone&#xD;&#xA;Level 65 Legendary Armor Refining Stone&#xD;&#xA;Level 65 Legendary Accessory Refining Stone &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_085" value="Wise Blue Flash" />
+  <keys prop="Description" type="monster" key="F_Mission_085_RewardDesc" value="When used, you obtain one of the following items with a certain probability.&#xD;&#xA;&lt;UI_G&gt;Level 65 Legendary Weapon Refining Stone&#xD;&#xA;Level 65 Legendary Armor Refining Stone&#xD;&#xA;Level 65 Legendary Accessory Refining Stone &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_086" value="Autumn Sunshine in September" />
+  <keys prop="Description" type="monster" key="F_Mission_086_RewardDesc" value="&lt;UI_G&gt; Pet Capture Chance increased by 3%&#xD;&#xA;  Tame Chance increased by 3%&#xD;&#xA;  Used Taming Points reduced by 3%&#xD;&#xA;  Movement Speed increased by 3% &lt;/UI_G&gt;&#xD;&#xA;  The Title obtained for collecting Autumn and Sunshine." />
+  <keys prop="Description" type="monster" key="F_Mission_087" value="Dyed in Brilliant Gold" />
+  <keys prop="Description" type="monster" key="F_Mission_087_RewardDesc" value="Legendary Familiar - Level 70&#xD;&#xA; &#xD;&#xA;  &lt;UI_Y&gt; Seal maximum level option &lt;/UI_Y&gt;&#xD;&#xA;  &lt;UI_G&gt; All Stats 93-100&#xD;&#xA;  Overall Critical Damage 668 ~ 720&#xD;&#xA;  Maximum HP 1020 ~ 1100 &lt;/UI_G&gt;&#xD;&#xA; &#xD;&#xA;  &lt;UI_G&gt; +5 Tempering Effect: Critical Hit Chance +5% &lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_088" value="Sobok's love" />
+  <keys prop="Description" type="monster" key="F_Mission_088_RewardDesc" value="&lt;UI_G&gt; (Appearance) Black Christmas Party &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_089" value="axis! 4th anniversary!" />
+  <keys prop="Description" type="monster" key="F_Mission_089_RewardDesc" value="&lt;UI_G&gt; Special title: 4 years old &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_090" value="You want to have" />
+  <keys prop="Description" type="monster" key="F_Mission_090_RewardDesc" value="&lt;UI_G&gt; Special Title: Obtain Fellow Love &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_091" value="Collection of memories" />
+  <keys prop="Description" type="monster" key="F_Mission_091_RewardDesc" value="&lt;UI_G&gt; Glow 70% Elite Stone &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_092" value="Memory of full moon" />
+  <keys prop="Description" type="monster" key="F_Mission_092_RewardDesc" value="&lt;UI_G&gt; Booster: Obtain a blessing of the full moon &lt;/ui_g&gt; &lt;UI_G&gt; Pet capture probability of 10% increase 10% chance to increase 20% chance to increase 20% chance of successful production &lt;/ui_g&gt; increased &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_093" value="Memories of full moon" />
+  <keys prop="Description" type="monster" key="F_Mission_093_RewardDesc" value="&lt;UI_G&gt; Booster: Obtain a blessing of the full moon &lt;/ui_g&gt; &lt;UI_G&gt; Pet capture probability of 10% increase 10% chance to increase 20% chance to increase 20% chance of successful production &lt;/ui_g&gt; increased &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_094" value="Doll's dream" />
+  <keys prop="Description" type="monster" key="F_Mission_094_RewardDesc" value="&lt;UI_G&gt; Lucky Unlucky Pieces &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_095" value="Santa fairies" />
+  <keys prop="Description" type="monster" key="F_Mission_095_RewardDesc" value="&lt;UI_G&gt; Booster: Get Santa Fairy &lt;/ui_g&gt; &lt;UI_G&gt; All Attacks 20% increase in all defenses 20% increase rate increase rate increase rate 5% increase &lt;/ui_g&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_096" value="The decision of the Yong -sin and the emotion" />
+  <keys prop="Description" type="monster" key="F_Mission_096_RewardDesc" value="Legend+ level pet - level 70&#xD;&#xA;&#xD;&#xA;&lt;UI_G&gt;Only a hero who has acquired all the three-colored Pabulion can become an ally of Pet Quadraghain elaborately embodied with magic.&lt;/UI_G&gt;&#xD;&#xA;&#xD;&#xA;&lt;UI_Y&gt;Maximum sealing stone level option&lt;/UI_Y&gt;&#xD;&#xA;&lt;UI_G&gt; All attack power 504 ~ 657&#xD;&#xA;All stats 186 ~ 284&#xD;&#xA;Critical damage defense 144 ~ 199&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_097" value="Go Go Beach!" />
+  <keys prop="Description" type="monster" key="F_Mission_097_RewardDesc" value="&lt;UI_G&gt;Booster: Go to the beach~ (3 days)&lt;/UI_G&gt;.&#xD;&#xA;&lt;UI_G&gt; All attack power increased by 10%&#xD;&#xA;All defense increased by 30%&#xD;&#xA;Fishing drop chance increased by 10%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_098" value="Play on the Beach!" />
+  <keys prop="Description" type="monster" key="F_Mission_098_RewardDesc" value="&lt;UI_G&gt;Booster: Enjoy playing in the water~ (3 days)&lt;/UI_G&gt;.&#xD;&#xA;&lt;UI_G&gt; All attack power increased by 10%&#xD;&#xA;All defense increased by 30%&#xD;&#xA;Reduce fishing time -60&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_099" value="Let's start the collection with LucciB!" />
+  <keys prop="Description" type="monster" key="F_Mission_099_RewardDesc" value="Acquire &lt;UI_G&gt;Ruchi Bee Fragment&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_100" value="Dungeon Exploration with Luccibee!" />
+  <keys prop="Description" type="monster" key="F_Mission_100_RewardDesc" value="Acquire &lt;UI_G&gt;Ruchi Bee Fragment&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_101" value="Exploring the lab with Luchbee!" />
+  <keys prop="Description" type="monster" key="F_Mission_101_RewardDesc" value="Acquire &lt;UI_G&gt;Ruchi Bee Fragment&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_102" value="Fairy Dragon for me" />
+  <keys prop="Description" type="monster" key="F_Mission_102_RewardDesc" value="&lt;UI_G&gt;Underwear: Golden Wings with Goddess' Blessing (7 days)&lt;/UI_G&gt;.&#xD;&#xA;&lt;UI_G&gt; All stats +77&#xD;&#xA;All stat caps increased + 77&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_103" value="Adventure Wanderers" />
+  <keys prop="Description" type="monster" key="F_Mission_103_RewardDesc" value="Obtain Master Collector Coins.&lt;br&gt;&lt;br&gt;&lt;UI_Y&gt;Package Components (1 type)&lt;/UI_Y&gt;&lt;UI_G&gt;&lt;br&gt;Master Collector Coin x10&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_104" value="Oldest Fellow" />
+  <keys prop="Description" type="monster" key="F_Mission_104_RewardDesc" value="&lt;UI_G&gt;Appearance: Obtain Ancient Explorer (3 days)&lt;/UI_G&gt;&#xD;&#xA;&lt;UI_G&gt;All attack power +20%&#xD;&#xA;Taming Success Chance +10%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_105" value="A super master of synthesis" />
+  <keys prop="Description" type="monster" key="F_Mission_105_RewardDesc" value="&lt;UI_G&gt;Booster: Acquire super high level of synthesis (1 day)&lt;/UI_G&gt;&#xD;&#xA;&lt;UI_G&gt; Enhancement success rate +20%&#xD;&#xA;Reverse Enhancement Chance +20%&#xD;&#xA;Crafting Success Chance +20%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_106" value="Let's go on a trip with a cute pet" />
+  <keys prop="Description" type="monster" key="F_Mission_106_RewardDesc" value="Obtain &lt;UI_G&gt;Alien Funny Random Box&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_107" value="I like sawing dragons!" />
+  <keys prop="Description" type="monster" key="F_Mission_107_RewardDesc" value="Acquire &lt;UI_G&gt;Ruchi Bee Fragment&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_108" value="I like mecha!" />
+  <keys prop="Description" type="monster" key="F_Mission_108_RewardDesc" value="Acquire &lt;UI_G&gt;Ruchi Bee Fragment&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_109" value="The Mascot of Delicious Ranch" />
+  <keys prop="Description" type="monster" key="F_Mission_109_RewardDesc" value="Obtain &lt;UI_G&gt;Shoulder Ornament: Lovely Cuddle (3 days)&lt;/UI_G&gt;.&#xD;&#xA;&lt;UI_G&gt;HP+5000&#xD;&#xA;Casting speed -5%&lt;/UI_G&gt;" />
+  <keys prop="Description" type="monster" key="F_Mission_110" value="The difference between an adventurer and an explorer" />
+  <keys prop="Description" type="monster" key="F_Mission_110_RewardDesc" value="Acquire &lt;UI_G&gt;Ruchi Bee Fragment&lt;/UI_G&gt;." />
+  <keys prop="Description" type="monster" key="F_Mission_111" value="The deer embraces the season" />
+  <keys prop="Description" type="monster" key="F_Mission_111_RewardDesc" value="&lt;UI_G&gt;Unlimited seasonal flowers random box &lt;/UI_G&gt;to acquire." />
 </files>

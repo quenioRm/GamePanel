@@ -1,2 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="wpphdefpowplus" value="P. Def" />
+  <keys prop="Description" type="monster" key="wpphdefpowmult" value="Defesa Física" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_0_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_1_text" value="Refinar Reliquia" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_2_text" value="Refining" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_3_text" value="Honing" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_4_text" value="Mudar Qualidade" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_5_text" value="Buff [1]" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_6_text" value="Buff [2]" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_7_text" value="Buff [3]" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_8_text" value="Buff [4]" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_9_text" value="Buff [5]" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_10_text" value="Mercado" />
+  <keys prop="Description" type="monster" key="Dialog_9015836_answer_11_text" value="Remover Feridas" />
+</files>

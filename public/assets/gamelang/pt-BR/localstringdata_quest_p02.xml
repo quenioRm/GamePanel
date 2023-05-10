@@ -1,2 +1,751 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="p02_1_1_0001_Title" value="A morte está próxima" />
+  <keys prop="Description" type="monster" key="p02_1_1_0001_RewarderDesc" value="Fabri" />
+  <keys prop="Description" type="monster" key="p02_1_1_0001_Request_Text" value="Eu tenho uma mensagem aqui para você do Arcano. Eles querem que você conheça o agente Fabri em Stygaea. Você pode chegar lá através do Santuário de Trânsito." />
+  <keys prop="Description" type="monster" key="p02_1_1_0001_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Sinto muito, é uma solicitação estranhamente vaga. Eles apenas indicaram que é urgente. Não consigo imaginar nada pior do que o que está acontecendo aqui, mas acho que você verá por si mesmo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0001_Accepted_Text" value="Encontre Fabri no canto noroeste de Crimsonreach, depois do santuário de trânsito de Stygaea." />
+  <keys prop="Description" type="monster" key="p02_1_1_0001_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0001_Complete_Text" value="Ah! Você está finalmente aqui, [UserName]. Yulnus me pediu para transmitir um pedido a você." />
+  <keys prop="Description" type="monster" key="p02_1_1_0002_Title" value="Pedido de um Mago" />
+  <keys prop="Description" type="monster" key="p02_1_1_0002_RewarderDesc" value="Fabri" />
+  <keys prop="Description" type="monster" key="p02_1_1_0002_Request_Text" value="Seus esforços contra a Irmandade Khabim em Exarahn ganharam grande reconhecimento no Arcanum, [NomeDoUsuário]. Tanto é assim que eles desejam chamá-lo para uma batalha ainda maior." />
+  <keys prop="Description" type="monster" key="p02_1_1_0002_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Se você estiver disposto a nos ajudar novamente, ficaríamos muito gratos. A escolha é sua." />
+  <keys prop="Description" type="monster" key="p02_1_1_0002_Accepted_Text" value="Obrigado, [UserName]! O Arcano está contando com você." />
+  <keys prop="Description" type="monster" key="p02_1_1_0002_Ongoing_Text" value="Descobrimos que os túneis abaixo do cemitério se ligam ao reino lendário dos mortos, Stygaea. É um portão dimensional, como o que leva a Exarahn. Também é provável que tenha sido aberto pelos chabimistas também." />
+  <keys prop="Description" type="monster" key="p02_1_1_0002_Complete_Text" value="Descobrimos que os túneis abaixo do cemitério se ligam ao reino lendário dos mortos, Stygaea. É um portão dimensional, como o que leva a Exarahn. Também é provável que tenha sido aberto pelos chabimistas também." />
+  <keys prop="Description" type="monster" key="p02_1_1_0003_Title" value="Para Freemen Village" />
+  <keys prop="Description" type="monster" key="p02_1_1_0003_RewarderDesc" value="Vlaar" />
+  <keys prop="Description" type="monster" key="p02_1_1_0003_Request_Text" value="Após nossas expedições iniciais de reconhecimento, o Arcano selecionou uma elite de poucos para retornar a Stygaea. Yulnus gostaria que você se juntasse a eles lá, [UserName]. Eu acho que você seria um grande trunfo para a causa." />
+  <keys prop="Description" type="monster" key="p02_1_1_0003_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Você fez muito pelas pessoas daqui, eu acho. Viaje para Freemen Village e conheça Vlaar. É apenas passado Stillhaven se você quiser seguir o longo caminho, ou você pode usar o santuário de trânsito aqui. De qualquer forma, tenha cuidado, [NomeDoUsuário]." />
+  <keys prop="Description" type="monster" key="p02_1_1_0003_Accepted_Text" value="Vá conversar com Vlaar na Vila Freemen." />
+  <keys prop="Description" type="monster" key="p02_1_1_0003_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0003_Complete_Text" value="Ahh, outro visitante da terra dos vivos. Estamos em conflito com os Monarcas imundos de Stygaea, um conflito que parecia quase perdido ... Mas então veio o Arcano, como anjos da salvação! Você deve ser nosso anjo também?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0004_Title" value="Paz para os mortos" />
+  <keys prop="Description" type="monster" key="p02_1_1_0004_RewarderDesc" value="Fabri" />
+  <keys prop="Description" type="monster" key="p02_1_1_0004_Request_Text" value="Enviamos um grupo de exploradores para reunir informações sobre Stygaea ... mas muitos deles encontraram seu descanso eterno em Stillhaven." />
+  <keys prop="Description" type="monster" key="p02_1_1_0004_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; O Arcano sempre se lembrará e honrará o sacrifício que fez pelo bem maior. Para esse fim, queremos recuperar seus restos mortais e dar-lhes um enterro adequado. Você poderia localizar seus ossos em Stillhaven?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0004_Accepted_Text" value="Reúna os ossos dos exploradores de Stillhaven." />
+  <keys prop="Description" type="monster" key="p02_1_1_0004_Ongoing_Text" value="O Arcano deseja honrar o sacrifício que nossos exploradores fizeram pelo bem maior. Para esse fim, queremos recuperar seus restos mortais e dar-lhes um enterro adequado. Você poderia localizar seus ossos em Stillhaven?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0004_Complete_Text" value="Obrigado. Tenho certeza de que aqueles que sacrificaram suas vidas voltarão a Stygaea um dia, como todos fazem. Por enquanto, podemos dar a seus restos o respeito que eles merecem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0005_Title" value="Exército Subterrâneo" />
+  <keys prop="Description" type="monster" key="p02_1_1_0005_RewarderDesc" value="Bashu" />
+  <keys prop="Description" type="monster" key="p02_1_1_0005_Request_Text" value="Os mortos já descansaram pacificamente em Stillhaven, mas algo os despertou. Agora eles ameaçam a segurança da vila. Sendo descendentes de grandes guerreiros, eles estão se mostrando quase impossíveis de parar." />
+  <keys prop="Description" type="monster" key="p02_1_1_0005_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Você pode nos ajudar a reverter esses espíritos inquietos? Soldados, espadachins, cavaleiros e arqueiros devem ser derrubados." />
+  <keys prop="Description" type="monster" key="p02_1_1_0005_Accepted_Text" value="Por favor, elimine os soldados, espadachins, cavaleiros e arqueiros que invadiram Stillhaven." />
+  <keys prop="Description" type="monster" key="p02_1_1_0005_Ongoing_Text" value="Você pode derrotar os soldados, espadachins, cavaleiros e arqueiros ressuscitados? Seria um grande benefício para o Arcano." />
+  <keys prop="Description" type="monster" key="p02_1_1_0005_Complete_Text" value="Você fez o que pedimos. Entendo por que Yulnus estava tão ansioso por sua ajuda ... &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (Uma expressão estranha passa pelo rosto de Bashu.) &lt;/ Font color&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0006_Title" value="Leading the Dead" />
+  <keys prop="Description" type="monster" key="p02_1_1_0006_RewarderDesc" value="Bashu" />
+  <keys prop="Description" type="monster" key="p02_1_1_0006_Request_Text" value="Algum poder desconhecido está controlando os mortos ressuscitados de Stillhaven. Só poderia ser poder de um monarca de Stygaea ... Mas como eles poderiam controlá-los a uma distância tão grande?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0006_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Deve haver algum meio que conecte os mortos a esse poder. Se você encontrar algo incomum nos corpos de nossos mortos, por favor, traga de volta. Vou confiar em você como Yulnus." />
+  <keys prop="Description" type="monster" key="p02_1_1_0006_Accepted_Text" value="Se você encontrar algo que forneça energia aos mortos inquietos, traga-o de volta." />
+  <keys prop="Description" type="monster" key="p02_1_1_0006_Ongoing_Text" value="Deve haver algum meio que conecte os mortos a esse poder. Se você encontrar algo incomum nos corpos de nossos corpos contaminados, traga-o de volta. Vou confiar em você como Yulnus." />
+  <keys prop="Description" type="monster" key="p02_1_1_0006_Complete_Text" value="&lt;font color = &quot;1a4c53&quot;&gt; (Você encontra uma pequena esfera emitindo uma luz peculiar. Esse deve ser o meio de que Bashu falou, aquele que fornece energia aos mortos.) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0007_Title" value="Leading the Dead II" />
+  <keys prop="Description" type="monster" key="p02_1_1_0007_RewarderDesc" value="Bashu" />
+  <keys prop="Description" type="monster" key="p02_1_1_0007_Request_Text" value="&lt;font color = &quot;1a4c53&quot;&gt; (Você não deve demorar muito mais. Dê a Bashu o mais rápido possível.) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0007_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0007_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0007_Complete_Text" value="Hum ... poderia ser o meio que eu suspeitava? Essa mágica parece estranha ... Espere, isso é uma alma humana? Eu ... acho que uma alma foi selada dentro desta pedra, para controlar diretamente os mortos! Somente um verdadeiro monstro faria uma coisa dessas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0008_Title" value="[10 Pessoa] Monarca da Dor" />
+  <keys prop="Description" type="monster" key="p02_1_1_0008_RewarderDesc" value="Zealem" />
+  <keys prop="Description" type="monster" key="p02_1_1_0008_Request_Text" value="Os monarcas de Stygaea ... Desde os tempos antigos, eles dominaram Stygaea através de campanhas de terror. Entre eles está um chamado Henok. Foi ele quem perturbou a paz de Stillhaven e trouxe os mortos para lá sob seu controle." />
+  <keys prop="Description" type="monster" key="p02_1_1_0008_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Henok está quieto há algum tempo, mas seu poder é grande. Em caso de guerra aberta, ele poderia destruir a Vila Freemen de uma vez por todas. Devemos fazer o primeiro ataque decisivo antes que isso aconteça. Reúna seus aliados mais fortes e vá para Stillhaven. Henok deve cair." />
+  <keys prop="Description" type="monster" key="p02_1_1_0008_Accepted_Text" value="Reúna seus aliados mais fortes e vá para Stillhaven. Henok deve cair." />
+  <keys prop="Description" type="monster" key="p02_1_1_0008_Ongoing_Text" value="Henok está quieto há algum tempo, mas seu poder é grande. Em caso de guerra aberta, ele poderia destruir a Vila Freemen de uma vez por todas. Devemos fazer o primeiro ataque decisivo antes que isso aconteça. Reúna seus aliados mais fortes e vá para Stillhaven. Henok deve cair." />
+  <keys prop="Description" type="monster" key="p02_1_1_0008_Complete_Text" value="Os monarcas de Stygaea são imortais. Embora não possamos destruir Henok para sempre, podemos enfraquecê-lo o suficiente para torná-lo inofensivo, por um tempo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0009_Title" value="Espírito Perdido" />
+  <keys prop="Description" type="monster" key="p02_1_1_0009_RewarderDesc" value="Zealem" />
+  <keys prop="Description" type="monster" key="p02_1_1_0009_Request_Text" value="Os monarcas despertados de Stygaea trouxeram consigo espíritos raivosos e famintos. Recentemente, um grupo desagradável de espectros azuis atacou pessoas no caminho de Stillhaven. Fechamos o caminho por enquanto, mas isso não é solução." />
+  <keys prop="Description" type="monster" key="p02_1_1_0009_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Os espectros azuis devem ser tratados. Destrua todos os espectros que encontrar no Caminho do Crepúsculo, a leste, entre a Vila Freemen e Stillhaven." />
+  <keys prop="Description" type="monster" key="p02_1_1_0009_Accepted_Text" value="Destrua todos os espectros que encontrar no Caminho do Crepúsculo, a leste, entre a Vila Freemen e Stillhaven." />
+  <keys prop="Description" type="monster" key="p02_1_1_0009_Ongoing_Text" value="Destrua todos os espectros que encontrar no Caminho do Crepúsculo, a leste, entre a Vila Freemen e Stillhaven." />
+  <keys prop="Description" type="monster" key="p02_1_1_0009_Complete_Text" value="Seus esforços são apreciados, embora ainda seja preciso ver se o Caminho do Crepúsculo está realmente seguro agora." />
+  <keys prop="Description" type="monster" key="p02_1_1_0010_Title" value="Praga na floresta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0010_RewarderDesc" value="Ollet" />
+  <keys prop="Description" type="monster" key="p02_1_1_0010_Request_Text" value="As criaturas de Stygaea são tão fascinantes quanto cruéis. Uma praga estranha está se espalhando pela floresta, deixando as criaturas loucas. É semelhante à praga mágica que ameaçava os Ermos Cloying, embora este aja mais como um veneno." />
+  <keys prop="Description" type="monster" key="p02_1_1_0010_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Meu único desejo é uma amostra dessa terrível praga. Se você quiser encontrá-lo, comece sua pesquisa na parte sul da Vila Freemen. Boa sorte!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0010_Accepted_Text" value="Meu único desejo é uma amostra dessa terrível praga." />
+  <keys prop="Description" type="monster" key="p02_1_1_0010_Ongoing_Text" value="Nada ainda? Continue procurando! Você é minha única esperança. Lembre-se, a praga começou na parte sul da Vila Freemen." />
+  <keys prop="Description" type="monster" key="p02_1_1_0010_Complete_Text" value="Interessante ... Esta praga e a de Cloying Wastes têm a mesma base mágica, mas funcionam de maneira diferente. Este é um trabalho bastante impressionante, na verdade." />
+  <keys prop="Description" type="monster" key="p02_1_1_0011_Title" value="Experiência fora do corpo" />
+  <keys prop="Description" type="monster" key="p02_1_1_0011_RewarderDesc" value="Ollet" />
+  <keys prop="Description" type="monster" key="p02_1_1_0011_Request_Text" value="Partes da praga parecem quase experimentais nos resultados que produzem. Por exemplo, qual poderia ser o propósito de criar invasores e arqueiros sem corpo? Seja qual for o caso, eles precisam ser tratados." />
+  <keys prop="Description" type="monster" key="p02_1_1_0011_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Mesmo como criações fracassadas, essas criaturas ainda são uma ameaça. Quantos você acha que poderia derrubar? Quanto mais você derrotar, mais seguro será o Freemen Village." />
+  <keys prop="Description" type="monster" key="p02_1_1_0011_Accepted_Text" value="Elimine os atacantes e arqueiros sem corpo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0011_Ongoing_Text" value="Você pode destruir esses atacantes e arqueiros sem corpo? Todos na vila Freemen gostariam disso." />
+  <keys prop="Description" type="monster" key="p02_1_1_0011_Complete_Text" value="Se é o melhor que os monarcas de Stygaea podem fazer, talvez os levemos muito a sério ... &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (Ele parece decepcionado.) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0012_Title" value="Uma voz sombria" />
+  <keys prop="Description" type="monster" key="p02_1_1_0012_RewarderDesc" value="Vlaar" />
+  <keys prop="Description" type="monster" key="p02_1_1_0012_Request_Text" value="Você ouviu isso agora? &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (É completamente silencioso. É algo que só ela pode ouvir?) &lt;/font&gt; &lt;br&gt; &lt;br&gt; Esse é o som de espíritos zangados. Aqueles que morreram injustamente têm uma aura poderosa que pode distorcer o ambiente, tão poderosa que faz barulho. As árvores da Floresta Perene, nos arredores da Vila Freemen, cresceram sob a influência desse mal." />
+  <keys prop="Description" type="monster" key="p02_1_1_0012_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Espectros são seres trágicos. Destruí-los é o melhor para todos os envolvidos, incluindo os próprios espectros. Dentro da floresta atemporal, você ocasionalmente encontrará espectros sombrios. Destrua tudo o que encontrar." />
+  <keys prop="Description" type="monster" key="p02_1_1_0012_Accepted_Text" value="Destrua os espectros das trevas na Floresta Perene." />
+  <keys prop="Description" type="monster" key="p02_1_1_0012_Ongoing_Text" value="Os espectros são seres trágicos. Destruí-los é o melhor para todos os envolvidos, incluindo os próprios espectros. Dentro da floresta atemporal, você ocasionalmente encontrará espectros sombrios. Destrua tudo o que encontrar." />
+  <keys prop="Description" type="monster" key="p02_1_1_0012_Complete_Text" value="Suas habilidades são bastante impressionantes! Mas esteja sempre vigilante, pois espectros podem aparecer em qualquer lugar e a qualquer momento no reino dos mortos." />
+  <keys prop="Description" type="monster" key="p02_1_1_0013_Title" value="Exército de Destruição" />
+  <keys prop="Description" type="monster" key="p02_1_1_0013_RewarderDesc" value="Zealem" />
+  <keys prop="Description" type="monster" key="p02_1_1_0013_Request_Text" value="Ranote, um monarca de Stygaea, domina a Floresta Perene. Seus subordinados dominam a região, impedindo-nos de avançar contra o rei das trevas. Nossas almas não são fortes o suficiente, mas se você nos ajudar, podemos ter uma chance!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0013_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Comece apreendendo as armas usadas pelo rebanho pálido na floresta atemporal." />
+  <keys prop="Description" type="monster" key="p02_1_1_0013_Accepted_Text" value="Comece apreendendo as armas usadas pelo rebanho pálido na floresta atemporal." />
+  <keys prop="Description" type="monster" key="p02_1_1_0013_Ongoing_Text" value="Nossas almas não são fortes o suficiente, mas se você nos ajudar, podemos ter uma chance! Comece apreendendo as armas usadas pelo rebanho pálido na floresta atemporal." />
+  <keys prop="Description" type="monster" key="p02_1_1_0013_Complete_Text" value="Sem as armas deles, temos novas esperanças. Ainda assim, desejo me preparar ainda mais para garantir nossa vitória." />
+  <keys prop="Description" type="monster" key="p02_1_1_0014_Title" value="Guardiões da Floresta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0014_RewarderDesc" value="Zealem" />
+  <keys prop="Description" type="monster" key="p02_1_1_0014_Request_Text" value="Aqueles que guardam a Floresta Perene foram reverenciados como guardiões. Isso foi há muito tempo, antes de começarem a destruir os mortos pacíficos e a montar ataques contra a Vila Freemen. Você pode ter forças para acabar com seu reino de terror." />
+  <keys prop="Description" type="monster" key="p02_1_1_0014_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Destrua as almas dos guardiões e guardiões da Floresta Perene. As pessoas desta vila só conseguem encontrar paz quando se vão." />
+  <keys prop="Description" type="monster" key="p02_1_1_0014_Accepted_Text" value="Destrua as almas dos guardiões e guardiões na Floresta Perene." />
+  <keys prop="Description" type="monster" key="p02_1_1_0014_Ongoing_Text" value="Destrua as almas dos guardiões e guardiões na Floresta Perene. As pessoas desta vila só conseguem encontrar paz quando se vão." />
+  <keys prop="Description" type="monster" key="p02_1_1_0014_Complete_Text" value="Voce fez? Maravilhoso! Muito obrigado." />
+  <keys prop="Description" type="monster" key="p02_1_1_0015_Title" value="Autoridade dos Mortos" />
+  <keys prop="Description" type="monster" key="p02_1_1_0015_RewarderDesc" value="Zealem" />
+  <keys prop="Description" type="monster" key="p02_1_1_0015_Request_Text" value="&lt;font color = &quot;1a4c53&quot;&gt; (Pertencia ao Orador da Morte. É um símbolo de sua autoridade? Está danificado, mas talvez você possa encontrar mais peças em outros Oradores da Morte.) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0015_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0015_Ongoing_Text" value="Você precisa de algo de mim?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0015_Complete_Text" value="Ahh, a marca de um Orador da Morte. Mesmo esta bugiganga simples é de grande interesse para o rebanho pálido. Aqueles que morreram há muito tempo permanecem para sempre no serviço de Ranote, mas derrotar os comandantes enfraquece suas forças e prejudica a posição do monarca." />
+  <keys prop="Description" type="monster" key="p02_1_1_0016_Title" value="Ainda tempo" />
+  <keys prop="Description" type="monster" key="p02_1_1_0016_RewarderDesc" value="Ollet" />
+  <keys prop="Description" type="monster" key="p02_1_1_0016_Request_Text" value="Certamente você sentiu a quietude não natural da Floresta Perene. Esse lugar está ligado ao fluxo do tempo de maneiras que não podemos compreender completamente. Supostamente, existe algum tipo de dispositivo oculto que pode controlar o próprio tempo. Eu gostaria muito de ver esse dispositivo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0016_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Reivindique o dispositivo do mestre da floresta, bem como o sangue de seus capangas sem alma. Eu tenho muitas experiências planejadas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0016_Accepted_Text" value="Traga-me o dispositivo e o sangue dos capangas sem alma." />
+  <keys prop="Description" type="monster" key="p02_1_1_0016_Ongoing_Text" value="Supostamente, existe algum tipo de dispositivo que pode afetar o próprio tempo. Eu gostaria muito de ver isso. Traga-me o dispositivo do mestre da floresta, bem como o sangue de seus capangas sem alma. Eu tenho muitas experiências planejadas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0016_Complete_Text" value="Que dispositivo peculiar ... Gostaria de saber quanto controle ele tem ao longo do tempo? Por favor, deixe-me nos meus estudos por enquanto." />
+  <keys prop="Description" type="monster" key="p02_1_1_0017_Title" value="[10 Pessoa] O Rei Pálido" />
+  <keys prop="Description" type="monster" key="p02_1_1_0017_RewarderDesc" value="Tabram" />
+  <keys prop="Description" type="monster" key="p02_1_1_0017_Request_Text" value="Os capangas de Ranote estão se reunindo na Floresta Perene, sem dúvida para lançar um ataque sobre nós como Henok. Felizmente, Ranote levou muito mais tempo para reunir seu exército." />
+  <keys prop="Description" type="monster" key="p02_1_1_0017_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Acredito que agora é a hora de atacar. Reunir seus companheiros e destruir Ranote!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0017_Accepted_Text" value="Reúna seus companheiros e destrua Ranote na Floresta Perene!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0017_Ongoing_Text" value="Ranote levou um tempo para reunir seu exército. Eu acredito que a hora de atacar é agora. Reunir seus companheiros e destruir Ranote!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0017_Complete_Text" value="Os monarcas de Stygaea são imortais, mas derrotá-los ainda é um grande golpe no moral de seus capangas. Devemos permanecer vigilantes pelo retorno de Ranote, é claro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0018_Title" value="Caçador de Cadáver" />
+  <keys prop="Description" type="monster" key="p02_1_1_0018_RewarderDesc" value="Peria" />
+  <keys prop="Description" type="monster" key="p02_1_1_0018_Request_Text" value="Muitos exploradores deram suas vidas para que pudéssemos prosperar em Stygaea. Os monarcas não estão tão interessados ​​em deixar alguém percorrer o reino dos mortos, afinal. Alguns dos meus camaradas estavam a caminho de cá para me encontrar, mas quando cheguei ..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0018_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Eles se foram. Os morcegos dos Campos do Esquecimento certamente os fizeram entrar. Quero vingança e quero que você me ajude. Mate os morcegos sombrios e os morcegos-cadáveres!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0018_Accepted_Text" value="Destrua os morcegos-sombra e os morcegos-cadáveres dos Campos do Esquecimento." />
+  <keys prop="Description" type="monster" key="p02_1_1_0018_Ongoing_Text" value="Os morcegos dos Campos do Esquecimento certamente os fizeram entrar. Quero vingança e quero que você me ajude. Mate os morcegos sombrios e os morcegos-cadáveres!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0018_Complete_Text" value="Meus bravos amigos não vieram aqui para serem comidos por morcegos idiotas ... Obrigado por me ajudar a vingar meus camaradas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0019_Title" value="Mestre de campo" />
+  <keys prop="Description" type="monster" key="p02_1_1_0019_RewarderDesc" value="Taracio" />
+  <keys prop="Description" type="monster" key="p02_1_1_0019_Request_Text" value="Nenhum ser humano nem alma vagueia livremente pelos Campos do Esquecimento ... desde que aquele crocodilo pestilento o reivindicou como seu território, de qualquer maneira. Não tenho nada contra ele pessoalmente, mas ele tem algo que eu preciso." />
+  <keys prop="Description" type="monster" key="p02_1_1_0019_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Preciso da pele do crocodilo para provar que estive aqui. Você se importaria de me ajudar?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0019_Accepted_Text" value="Mate o crocodilo pestilento nos Campos Oblivion e traga de volta sua pele." />
+  <keys prop="Description" type="monster" key="p02_1_1_0019_Ongoing_Text" value="Preciso da pele do crocodilo para provar que estive aqui. Você se importaria de me ajudar?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0019_Complete_Text" value="Olhe para este couro fabuloso! Heh, couro de um crocodilo pestilento no reino dos mortos ... é um mundo estranho, não é?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0020_Title" value="Memória da Alma" />
+  <keys prop="Description" type="monster" key="p02_1_1_0020_RewarderDesc" value="Tabram" />
+  <keys prop="Description" type="monster" key="p02_1_1_0020_Request_Text" value="O Lago Eternity é a última parada para as almas antes que elas passem para o mundo além. Para muitas almas, no entanto, o lago se tornou sua nova prisão. Um monarca de Stygaea criou um exército em torno das águas tranquilas e captura almas para usar como seus escravos." />
+  <keys prop="Description" type="monster" key="p02_1_1_0020_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Os espectros vermelhos ao redor do lago são a prova dessa trama. No entanto, dentro de suas memórias podem estar informações que podemos usar contra o rei das trevas. Posso confiar em você com esta importante tarefa?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0020_Accepted_Text" value="Traga de volta a memória de um espectro vermelho do Lago Eternity." />
+  <keys prop="Description" type="monster" key="p02_1_1_0020_Ongoing_Text" value="Se pudermos examinar a memória de um espectro vermelho, podemos aprender mais sobre o enredo do monarca." />
+  <keys prop="Description" type="monster" key="p02_1_1_0020_Complete_Text" value="Bom trabalho. Vou me aprofundar nesta memória para aprender o que as almas ouviram e viram ... &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (Tabram fecha os olhos em silêncio. Seria melhor deixá-lo em paz .) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0021_Title" value="Sentinela do Lago" />
+  <keys prop="Description" type="monster" key="p02_1_1_0021_RewarderDesc" value="Peria" />
+  <keys prop="Description" type="monster" key="p02_1_1_0021_Request_Text" value="Para reivindicar as almas a caminho do grande além, o monarca estacionou em torno do lago para agarrá-las de suas viagens. O monarca precisava de seres obedientes, intimidados pelo medo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0021_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Se pudermos arrancar os agul xamãs e caçadores, as almas estarão livres para passar novamente pelo Lago Eternity." />
+  <keys prop="Description" type="monster" key="p02_1_1_0021_Accepted_Text" value="Remova os agul xamãs e caçadores do Lago Eternity." />
+  <keys prop="Description" type="monster" key="p02_1_1_0021_Ongoing_Text" value="Se conseguirmos arrancar os xamãs e caçadores agul, as almas estarão livres para mais uma vez atravessar o lago Eternity." />
+  <keys prop="Description" type="monster" key="p02_1_1_0021_Complete_Text" value="Você acabou com os aguls! Agora o Lago Eternity será uma passagem segura para as almas novamente. Isso também enfraquecerá significativamente o monarca de Stygaea. Ótimo trabalho." />
+  <keys prop="Description" type="monster" key="p02_1_1_0022_Title" value="Adaga de Myrock" />
+  <keys prop="Description" type="monster" key="p02_1_1_0022_RewarderDesc" value="Tabram" />
+  <keys prop="Description" type="monster" key="p02_1_1_0022_Request_Text" value="Os agul no lago Eternity estão sob o comando de Myrock, um dos principais capangas do monarca. Derrubar Myrock não é suficiente para acabar com isso, mas é um passo importante." />
+  <keys prop="Description" type="monster" key="p02_1_1_0022_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Myrock tem uma adaga, dada pelo próprio monarca. Diz-se que detém grande poder sobre as almas. Eu quero essa adaga. Certamente será útil no futuro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0022_Accepted_Text" value="Traga-me a adaga de Myrock do Lago Eternity." />
+  <keys prop="Description" type="monster" key="p02_1_1_0022_Ongoing_Text" value="Myrock tem uma adaga, dada pelo próprio monarca. Diz-se que detém grande poder sobre as almas. Eu quero essa adaga. Certamente será bastante útil no futuro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0022_Complete_Text" value="Na superfície, esta adaga parece normal. Mas dentro ... &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (Tabram de repente derruba a adaga.) &lt;/font&gt; &lt;br&gt; &lt;br&gt; Foi só por um momento, mas eu caí a adaga puxando na minha alma. Vou consultar o Arcano sobre este assunto. Obrigado." />
+  <keys prop="Description" type="monster" key="p02_1_1_0023_Title" value="Chifres mágicos" />
+  <keys prop="Description" type="monster" key="p02_1_1_0023_RewarderDesc" value="Taracio" />
+  <keys prop="Description" type="monster" key="p02_1_1_0023_Request_Text" value="De todas as bestas encontradas no reino dos mortos, Sharack pode ser o mais aterrorizante. É enorme, poderoso e devora almas para o sustento. É uma atração do Lago Eternity, já que as almas são muito abundantes lá." />
+  <keys prop="Description" type="monster" key="p02_1_1_0023_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Sem Sharack, as almas não precisariam temer a passagem final além. Quero que você termine a vida da besta e me traga seus chifres como prova da ação. Você será recompensado bem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0023_Accepted_Text" value="Traga-me os chifres de Sharack do Lago Eternity." />
+  <keys prop="Description" type="monster" key="p02_1_1_0023_Ongoing_Text" value="Sem Sharack, as almas não precisariam temer a passagem final além. Quero que você termine a vida da besta e me traga seus chifres como prova da ação. Você será recompensado bem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0023_Complete_Text" value="Então ... esses são os chifres de Sharack. Eu posso sentir a agonia das almas perdidas dentro delas. Que terrível." />
+  <keys prop="Description" type="monster" key="p02_1_1_0024_Title" value="Passagem das Almas" />
+  <keys prop="Description" type="monster" key="p02_1_1_0024_RewarderDesc" value="Peria" />
+  <keys prop="Description" type="monster" key="p02_1_1_0024_Request_Text" value="Vi uma alma perto do lago Eternity, aguardando a passagem para o mundo além. Era apenas uma garotinha, então eu me pergunto se ela pode fazer isso sozinha. Talvez você possa ajudá-la, [UserName]." />
+  <keys prop="Description" type="monster" key="p02_1_1_0024_Accepted_Text" value="Por favor, encontre a garota no Lago Eternity e ajude-a a passar para o próximo mundo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0024_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0024_Complete_Text" value="Oh! Você é o único que me ajudou nos Desperdícios, não é? Eu ainda lembro de você! Eu fiz tudo isso dessa maneira graças a você." />
+  <keys prop="Description" type="monster" key="p02_1_1_0025_Title" value="Despedida" />
+  <keys prop="Description" type="monster" key="p02_1_1_0025_RewarderDesc" value="Autocompletar" />
+  <keys prop="Description" type="monster" key="p02_1_1_0025_Request_Text" value="Preciso atravessar o Lago Eternity para seguir em frente, mas tenho medo de que os monstros possam me pegar. Você pode me ajudar mais uma vez? Eu confio em você, [UserName]!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0025_Accepted_Text" value="Ajude-me a atravessar o Lago Eternity!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0025_Ongoing_Text" value="Estou com tanto medo ... Posso atravessar em segurança? Por favor me proteja ..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0025_Complete_Text" value="&lt;font color = &quot;1a4c53&quot;&gt; (Yusei desapareceu no éter. Certamente agora sua alma descansará em paz.) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0026_Title" value="The Black Pit" />
+  <keys prop="Description" type="monster" key="p02_1_1_0026_RewarderDesc" value="Robin" />
+  <keys prop="Description" type="monster" key="p02_1_1_0026_Request_Text" value="Você sente a energia vazando do Poço Negro? É bastante potente e pode fortalecer as almas ... ou destruí-las. Servos do Poço Negro, encorajados por essa energia, não nos causaram problemas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0026_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Eles não pertencem aqui. Este é um lugar para as almas passarem, mas o dono da cova tem outros projetos. Os servos de Finion podem ser encontrados entre 760 e 1100 metros. Destrua todos eles." />
+  <keys prop="Description" type="monster" key="p02_1_1_0026_Accepted_Text" value="Elimine os servos do Poço Negro dentro e ao redor do poço." />
+  <keys prop="Description" type="monster" key="p02_1_1_0026_Ongoing_Text" value="Os servos do Poço Negro podem ser encontrados entre 760 e 1100 metros. Destrua todos eles." />
+  <keys prop="Description" type="monster" key="p02_1_1_0026_Complete_Text" value="Nossa situação está muito melhorada, obrigado. Sinto que finalmente cumpri meu dever como faroleiro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0027_Title" value="Chamas do submundo" />
+  <keys prop="Description" type="monster" key="p02_1_1_0027_RewarderDesc" value="Cielle" />
+  <keys prop="Description" type="monster" key="p02_1_1_0027_Request_Text" value="Existem fogos no reino dos mortos que nunca se apagam, conhecidos como fogo da alma. Esse fogo único é uma das poucas coisas que podem prejudicar as almas. Passei muito tempo estudando esse fenômeno." />
+  <keys prop="Description" type="monster" key="p02_1_1_0027_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Como resultado, descobri que Balor e Kunos são a fonte de grande parte desse fogo da alma. De fato, é a fonte de seu próprio poder. Eles são encontrados entre 760 e 1100 metros acima do Poço Negro. Você pode me trazer o fogo da alma diretamente deles? Certamente será útil em nossa guerra contra os monarcas de Stygaea." />
+  <keys prop="Description" type="monster" key="p02_1_1_0027_Accepted_Text" value="Traga-me o fogo da alma de Balor e Kunos no Black Pit." />
+  <keys prop="Description" type="monster" key="p02_1_1_0027_Ongoing_Text" value="Balor e Kunos são a fonte do fogo da alma. Eles são encontrados entre 760 e 1100 metros acima do Poço Negro. Você pode me trazer o fogo da alma diretamente deles? Certamente será útil em nossa guerra contra os monarcas de Stygaea." />
+  <keys prop="Description" type="monster" key="p02_1_1_0027_Complete_Text" value="Esse fogo é fascinante. Não está quente, então talvez não reaja aos vivos. Hmm ... discutirei isso com o Arcano." />
+  <keys prop="Description" type="monster" key="p02_1_1_0028_Title" value="Eco no escuro" />
+  <keys prop="Description" type="monster" key="p02_1_1_0028_RewarderDesc" value="Robin" />
+  <keys prop="Description" type="monster" key="p02_1_1_0028_Request_Text" value="Você ouve isso? Meus ouvidos estão sangrando! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (Você não pode ouvir o que Robin ouve. Há apenas silêncio.) &lt;/font&gt; &lt;br&gt; &lt;br&gt; Talvez os vivos não possam ouvir esse choro. Para uma alma, é absolutamente penetrante. Hilber e Gurion são a fonte desse barulho terrível." />
+  <keys prop="Description" type="monster" key="p02_1_1_0028_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Pelo bem de todas as almas do farol, silencie aquelas bestas. Às vezes, você pode encontrar Hilber e Gurion entre 750 e 1100 metros acima do Poço Negro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0028_Accepted_Text" value="Silencie essas bestas. Às vezes, você pode encontrar Hilber e Gurion entre 750 e 1100 metros acima do Poço Negro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0028_Ongoing_Text" value="Pelo bem de todas as almas do farol, silencie aquelas bestas. Às vezes, você pode encontrar Hilber e Gurion entre 750 e 1100 metros acima do Poço Negro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0028_Complete_Text" value="Ainda vejo Hilber e Gurion voando de vez em quando, mas eles não ousam fazer isso agora. Você fez bem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0029_Title" value="Flor do Crepúsculo" />
+  <keys prop="Description" type="monster" key="p02_1_1_0029_RewarderDesc" value="Jass" />
+  <keys prop="Description" type="monster" key="p02_1_1_0029_Request_Text" value="[Nome de usuário], tenho certeza que você está familiarizado com a energia do Black Pit agora. É poderoso demais para não perceber. Você pode imaginar que há algo que floresce com esse poder? Chamamos isso de uma flor do inferno, naturalmente." />
+  <keys prop="Description" type="monster" key="p02_1_1_0029_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Gostaria muito de estudar essa estranha flor em profundidade. Você pode me trazer amostras de flores do inferno dos pilares rochosos do Black Pit? Eles devem ter entre 780 e 820 metros de altitude." />
+  <keys prop="Description" type="monster" key="p02_1_1_0029_Accepted_Text" value="Traga-me amostras de flores do inferno dos pilares rochosos do Black Pit." />
+  <keys prop="Description" type="monster" key="p02_1_1_0029_Ongoing_Text" value="Você pode me trazer amostras de flores do inferno dos pilares rochosos do Black Pit? Eles devem ter entre 780 e 820 metros de altitude." />
+  <keys prop="Description" type="monster" key="p02_1_1_0029_Complete_Text" value="Excelente. Vou enviar essas amostras para o Arcano para mais estudos." />
+  <keys prop="Description" type="monster" key="p02_1_1_0030_Title" value="Poder no vale" />
+  <keys prop="Description" type="monster" key="p02_1_1_0030_RewarderDesc" value="Cielle" />
+  <keys prop="Description" type="monster" key="p02_1_1_0030_Request_Text" value="O Black Pit contém a maior força que conhecemos em Stygaea. Acreditamos que é necessário poder para manter o portão nas profundezas do poço, a passagem que as almas usam. Com o tempo, esse poder condensa em uma presença física, conhecida como essência do inferno." />
+  <keys prop="Description" type="monster" key="p02_1_1_0030_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Se pudéssemos explorar esse poder, isso nos daria uma vantagem contra os monarcas de Stygaea. Traga-me amostras da essência do inferno, flutuando entre 750 e 900 metros no Poço Negro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0030_Accepted_Text" value="Traga-me amostras da essência do inferno, flutuando entre 750 e 900 metros no Poço Negro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0030_Ongoing_Text" value="Traga-me amostras da essência do inferno, flutuando entre 750 e 900 metros no Poço Negro." />
+  <keys prop="Description" type="monster" key="p02_1_1_0030_Complete_Text" value="Essência do inferno ... Eu nunca senti nada assim. Isso é mágico? Não, é mais do que isso ... Isso está além do que eu posso lidar. Eu devo conversar com o Arcano." />
+  <keys prop="Description" type="monster" key="p02_1_1_0031_Title" value="Caça ao tesouro" />
+  <keys prop="Description" type="monster" key="p02_1_1_0031_RewarderDesc" value="Trigg" />
+  <keys prop="Description" type="monster" key="p02_1_1_0031_Request_Text" value="Os monarcas de Stygaea estão andando por todo o lugar como se lhes pertencesse. Não vou rolar para eles, mas não tenho como revidar. Se eu tivesse esse tesouro ... Ei, talvez você possa me fazer um favor." />
+  <keys prop="Description" type="monster" key="p02_1_1_0031_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Há muito tempo, encontrei um dos grandes tesouros dos mortos. Eu o escondi porque não tinha mais necessidade, e todo mundo estava atrás. Está escondido em um monte de caixas ... mas eu esqueci qual! Você pode me ajudar a encontrar meu tesouro?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0031_Accepted_Text" value="Olhe ao redor do pub para a caixa escondida." />
+  <keys prop="Description" type="monster" key="p02_1_1_0031_Ongoing_Text" value="Há muito tempo, encontrei um dos grandes tesouros dos mortos. Eu o escondi porque não tinha mais necessidade, e todo mundo estava atrás. Está escondido em um monte de caixas ... mas eu esqueci qual! Você pode me ajudar a encontrar meu tesouro?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0031_Complete_Text" value="Sim! É isso! Quero dizer, não posso usá-lo porque é amaldiçoado. Mas eu posso purificá-lo com uma pequena mistura de minha própria, e brilhará como um tesouro adequado. Tome isso, seus monarcas idiotas!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0032_Title" value="O verdadeiro valor do tesouro" />
+  <keys prop="Description" type="monster" key="p02_1_1_0032_RewarderDesc" value="Trigg" />
+  <keys prop="Description" type="monster" key="p02_1_1_0032_Request_Text" value="Há um mineral especial que você pode encontrar apenas no reino dos mortos. É formado a partir de almas, naturalmente. Se eu conseguir cheirar ou encontrar alguns Kherim Ingots e adicioná-los ao orbe, isso deve iniciar o processo de purificação. Você encontrará o que precisa, principalmente ao redor da Montanha Perdida." />
+  <keys prop="Description" type="monster" key="p02_1_1_0032_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Se você puder me trazer de volta alguns lingotes de Kherim, farei valer a pena." />
+  <keys prop="Description" type="monster" key="p02_1_1_0032_Accepted_Text" value="Traga de volta alguns lingotes de Kherim. Você pode encontrar o que precisa em Stygaea, mas principalmente na Montanha Perdida." />
+  <keys prop="Description" type="monster" key="p02_1_1_0032_Ongoing_Text" value="Se você puder me trazer de volta alguns lingotes de Kherim, farei valer a pena." />
+  <keys prop="Description" type="monster" key="p02_1_1_0032_Complete_Text" value="Perfeito, simplesmente perfeito! Deixe-me colocar isso no orbe, e conversaremos ..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_Title" value="[PvP] Tesouro Amaldiçoado" />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_RewarderDesc" value="Trigg" />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_Request_Text" value="Aqueles Kherim Ingots realmente fizeram o truque ... essa maldição está começando a desaparecer. Mas para finalizar, preciso de mais uma coisa. É, err ... é o seu sangue. Quero dizer, você é a única pessoa viva por aqui, certo?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Eu vou atirar direto com você. O Orbe Vampírico quer o sangue dos vivos. Vou deixar o resto com você." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_Accepted_Text" value="O orbe quer o sangue dos vivos. Vou deixar você decidir de quem precisamos de sangue." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_Ongoing_Text" value="Eu vou atirar direto com você. O Orbe Vampírico quer o sangue dos vivos. Vou deixar o resto com você." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_Complete_Text" value="Bem ... essa é uma maneira de fazer isso, eu acho. Eu realmente não posso dizer que você fez um bom trabalho, mas pelo menos a ação está feita. A espada está restaurada e eu não preciso mais temer esses monarcas. Agora eu posso proteger as pessoas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_1_Title" value="[PvP] Sangue e Dificuldade" />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_1_RewarderDesc" value="Trigg" />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_1_Request_Text" value="Não posso dizer que te conheço tão bem ... mas posso dizer que você fará o que for preciso para vencer. Eu tenho algo que pode ajudá-lo, se ... Ok, olhe. Há um sexto monarca de Stygaea. O verdadeiro rei do reino dos mortos é chamado Jamirot." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_1_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Este tesouro que tenho é uma marca que lhe concederá poder sobre Jamirot. Perdeu a luz, mas há uma maneira de restaurá-lo. Você só precisa do sangue dos vivos novamente. Você vê o problema aqui? Também não é o Orbe Vampírico. Quer muito sangue." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_1_Accepted_Text" value="Especificamente, ele quer o sangue de 500 pessoas. Se você não está pronto para isso, sugiro que você vá embora agora." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_1_Ongoing_Text" value="É a sua escolha. Essa marca é extremamente poderosa, mas considere os sacrifícios necessários para manejá-la." />
+  <keys prop="Description" type="monster" key="p02_1_1_0033_1_Complete_Text" value="Isso não poderia ter sido uma decisão fácil ... mas você não ficará desapontado! Esta marca lendária agora é sua." />
+  <keys prop="Description" type="monster" key="p02_1_1_0034_Title" value="Purificação de Sangue" />
+  <keys prop="Description" type="monster" key="p02_1_1_0034_RewarderDesc" value="Ornetta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0034_Request_Text" value="Você já ouviu falar das fadas de Lost Mountain? Dizem que depois que os monarcas de Stygaea acordaram, espíritos de todo o reino dos mortos ficaram estranhos e retorcidos. Aqueles ao redor de Lost Mountain tornaram-se fadas de árvores carmesins. Eles merecem ser livres novamente, então libere seus espíritos destruindo-os." />
+  <keys prop="Description" type="monster" key="p02_1_1_0034_Accepted_Text" value="Destrua fadas carmesins e raízes de redsap em Lost Mountain." />
+  <keys prop="Description" type="monster" key="p02_1_1_0034_Ongoing_Text" value="Acho que é hora de deixar as fadas carmesim descansarem. Destrua todas as fadas que encontrar na Montanha Perdida." />
+  <keys prop="Description" type="monster" key="p02_1_1_0034_Complete_Text" value="Espíritos e plantas ... Supõe-se que haja harmonia na natureza. Mas os monarcas de Stygaea estão semeando o caos em todos os lugares." />
+  <keys prop="Description" type="monster" key="p02_1_1_0035_Title" value="Semente de Redsap" />
+  <keys prop="Description" type="monster" key="p02_1_1_0035_RewarderDesc" value="Ornetta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0035_Request_Text" value="As raízes vermelhas da Montanha Perdida se alimentam da luz das almas, e isso as leva a serem bastante agressivas e perigosas. Eles também proliferaram o suficiente para ser um verdadeiro incômodo. Eu gostaria de estudar como isso aconteceu, então preciso de amostras de suas sementes." />
+  <keys prop="Description" type="monster" key="p02_1_1_0035_Accepted_Text" value="Traga-me sementes de raízes vermelhas na Montanha Perdida." />
+  <keys prop="Description" type="monster" key="p02_1_1_0035_Ongoing_Text" value="Eu gostaria de estudar como as raízes do redsap se espalham por toda parte, então preciso de amostras de suas sementes." />
+  <keys prop="Description" type="monster" key="p02_1_1_0035_Complete_Text" value="Excelente! Essas sementes são exatamente o que eu preciso. Vou trabalhar imediatamente." />
+  <keys prop="Description" type="monster" key="p02_1_1_0036_Title" value="Rabino ávido" />
+  <keys prop="Description" type="monster" key="p02_1_1_0036_RewarderDesc" value="Ornetta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0036_Request_Text" value="Isso é um pesadelo. Me pediram para reunir Kherim Ore para meu mestre, mas acabou! Tenho certeza de que um daqueles rabinos horríveis pegou. Há uma quadrilha de bandidos de Rabbini na Montanha Perdida ... Tinha que ser eles." />
+  <keys prop="Description" type="monster" key="p02_1_1_0036_Accepted_Text" value="Por favor, ajude-me a recuperar o Kherim Ore que os ladrões Rabbini levaram. Você os encontrará na Montanha Perdida." />
+  <keys prop="Description" type="monster" key="p02_1_1_0036_Ongoing_Text" value="Você tem que me ajudar a recuperar o minério Kherim dos ladrões de rabinos da Stygaean!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0036_Complete_Text" value="Por favor, ajude-me a recuperar o Kherim Ore que os ladrões Rabbini levaram." />
+  <keys prop="Description" type="monster" key="p02_1_1_0037_Title" value="Veneno Perdido da Montanha" />
+  <keys prop="Description" type="monster" key="p02_1_1_0037_RewarderDesc" value="Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0037_Request_Text" value="Os moradores estão falando sobre algo chamado Vemigus à espreita em torno de Lost Mountain. Eles dizem que a criatura espalha um veneno sem cheiro por onde passa. Não podemos deixar isso continuar." />
+  <keys prop="Description" type="monster" key="p02_1_1_0037_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; É estranho, mas o veneno não afeta mais os moradores. Talvez isso esteja acontecendo há tanto tempo que todos estejam imunes a isso agora. Ainda assim, pode ser perigoso para os viajantes. Pare de Vemigus e traga sua essência para mim." />
+  <keys prop="Description" type="monster" key="p02_1_1_0037_Accepted_Text" value="Mate Vemigus e traga de volta sua essência de Lost Mountain." />
+  <keys prop="Description" type="monster" key="p02_1_1_0037_Ongoing_Text" value="A própria montanha está sofrendo com esse veneno ... Não haverá paz para a terra ou as almas que residem lá até que o veneno se vá. Mas não será uma questão simples." />
+  <keys prop="Description" type="monster" key="p02_1_1_0037_Complete_Text" value="Para remover o veneno, devemos primeiro estudá-lo. A essência que você trouxe de Vemigus ajudará muito nesse sentido." />
+  <keys prop="Description" type="monster" key="p02_1_1_0038_Title" value="A Alma Roubada" />
+  <keys prop="Description" type="monster" key="p02_1_1_0038_RewarderDesc" value="Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0038_Request_Text" value="Stygaea está cheia de tesouros com poderes misteriosos. Alguns já foram encontrados, enquanto outros permanecem ocultos. O Monarca Ranote possuía um conhecido como um orbe de alma, mas um Rabbini da Montanha Perdida era ousado o suficiente para roubá-lo!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0038_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Ouvi dizer que há um ladrão mestre Rabbini que poderia ter feito a ação, mas como você pode imaginar, ele chamou muita atenção para deixar seu esconderijo. Talvez você possa descobrir onde ele está se escondendo e me trazer aquela esfera da alma." />
+  <keys prop="Description" type="monster" key="p02_1_1_0038_Accepted_Text" value="Vá para Lost Mountain e traga de volta a esfera da alma do Rabbini." />
+  <keys prop="Description" type="monster" key="p02_1_1_0038_Ongoing_Text" value="Aquela esfera de alma que o Rabbini roubou é muito perigosa para eles manterem. Traga de volta para mim." />
+  <keys prop="Description" type="monster" key="p02_1_1_0038_Complete_Text" value="Muitos tesouros em Stygaea estão ligados à alma. Eles comandam grande poder, mas também podem causar grande tragédia. Tudo depende de como eles são usados. Vou me certificar de que esse orbe da alma seja usado para o bem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0039_Title" value="Observador do Purgatório" />
+  <keys prop="Description" type="monster" key="p02_1_1_0039_RewarderDesc" value="Linetta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0039_Request_Text" value="Um dos monarcas de Stygaea está formando um exército no Purgatório. Magnatu reuniu prisioneiros e criaturas grotescas de seu próprio projeto. Precisamos atacar primeiro, mas teremos que fazer incursões antes disso. Comece limpando os guardas nas franjas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0039_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Precisamos atacar primeiro, mas teremos que fazer incursões antes disso. Comece limpando os guardas nas franjas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0039_Accepted_Text" value="Destrua os guardiões zelosos." />
+  <keys prop="Description" type="monster" key="p02_1_1_0039_Ongoing_Text" value="Precisamos atacar primeiro, mas teremos que fazer incursões antes disso. Comece limpando os guardas nas franjas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0039_Complete_Text" value="Sem os guardas, podemos cortar a raiz do problema." />
+  <keys prop="Description" type="monster" key="p02_1_1_0040_Title" value="Prisioneiros do Purgatório" />
+  <keys prop="Description" type="monster" key="p02_1_1_0040_RewarderDesc" value="Linetta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0040_Request_Text" value="As pobres criaturas que serviam Magnatu eram prisioneiros simples de seus crimes mundanos. Mas eles se entregaram voluntariamente ao seu governo e devem ser destruídos." />
+  <keys prop="Description" type="monster" key="p02_1_1_0040_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Pode parecer cruel, mas o exército de Magnatu não pode sofrer um crescimento. Entre no Purgatório e elimine os leões e peões." />
+  <keys prop="Description" type="monster" key="p02_1_1_0040_Accepted_Text" value="Entre no Purgatório e elimine os leões e peões." />
+  <keys prop="Description" type="monster" key="p02_1_1_0040_Ongoing_Text" value="As pobres criaturas que serviam Magnatu eram prisioneiros simples de seus crimes inanimados. Mas eles se entregaram voluntariamente ao seu governo e devem ser destruídos. Pode parecer cruel, mas o exército de Magnatu não pode sofrer o crescimento. Entre no Purgatório e elimine os leões e peões." />
+  <keys prop="Description" type="monster" key="p02_1_1_0040_Complete_Text" value="Você fez bem. Yulnus foi sábio em confiar em você. Se eu tivesse esse poder ... &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (Só por um momento, o ar ao redor de Linetta esfriou. Talvez você esteja apenas cansado?) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0041_Title" value="Colecionador de almas" />
+  <keys prop="Description" type="monster" key="p02_1_1_0041_RewarderDesc" value="Ollet" />
+  <keys prop="Description" type="monster" key="p02_1_1_0041_Request_Text" value="Os monarcas de Stygaea costumavam aprisionar aqueles que se rebelaram contra eles no Purgatório. O colecionador de almas transformaria suas almas em cristais poderosos. Dizem que ele tinha uma coleção bastante deles." />
+  <keys prop="Description" type="monster" key="p02_1_1_0041_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Amarrar almas dentro de cristal é muito diferente de aprisionamento ... muito, muito pior, para um. Se você encontrar o colecionador no Purgatório, tire esses cristais da alma dele." />
+  <keys prop="Description" type="monster" key="p02_1_1_0041_Accepted_Text" value="Traga de volta os cristais de alma do colecionador de almas no Purgatório." />
+  <keys prop="Description" type="monster" key="p02_1_1_0041_Ongoing_Text" value="Se você encontrar aquele colecionador no Purgatório, pegue esses cristais de alma dele e traga-os de volta." />
+  <keys prop="Description" type="monster" key="p02_1_1_0041_Complete_Text" value="Hã. Eu estava esperando algum nível de habilidade, mas ele apenas amontoou a alma em um pedaço de cristal. Que decepção." />
+  <keys prop="Description" type="monster" key="p02_1_1_0042_Title" value="O coração eterno" />
+  <keys prop="Description" type="monster" key="p02_1_1_0042_RewarderDesc" value="Ollet" />
+  <keys prop="Description" type="monster" key="p02_1_1_0042_Request_Text" value="Você não pode dar vida ao corpo sem algum tipo de poder. Humanos e monstros precisam de algo para animá-los. Nem sempre é óbvio qual é a fonte, no entanto. O orgulho dos leões imortais no Purgatório é conhecido por todos estarem mortos ... mas seus corações ainda batem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0042_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Eu preciso saber como isso aconteceu. Traga-me os corações preservados desses leões imortais." />
+  <keys prop="Description" type="monster" key="p02_1_1_0042_Accepted_Text" value="Traga-me os corações preservados de leões imortais na Floresta Perene." />
+  <keys prop="Description" type="monster" key="p02_1_1_0042_Ongoing_Text" value="Você não tem nada para mostrar ainda? Eu quero esses corações! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; (Ele parece chateado. Você deve completar o pedido dele.) &lt;/font&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0042_Complete_Text" value="Hum. Parece ser um coração normal, mostrando sinais de necrose precoce. Os encantamentos são extremamente primitivos. Como essa mágica pobre pode gerar tanto poder? Muito interessante..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0043_Title" value="[10 pessoas] Almas do caos" />
+  <keys prop="Description" type="monster" key="p02_1_1_0043_RewarderDesc" value="Linetta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0043_Request_Text" value="Magnatu já revidou contra Hagmaza! Quando você encontrar Magnatu, lembre-se de que ele não estará sozinho. Quaisquer que sejam as almas caóticas que ele ainda comanda, estarão no seu caminho." />
+  <keys prop="Description" type="monster" key="p02_1_1_0043_Accepted_Text" value="Para o bem de todos, derrote Magnatu e as almas que o protegem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0043_Ongoing_Text" value="Quando você encontrar Magnatu, lembre-se de que ele não estará sozinho. Quaisquer que sejam as almas caóticas que ele ainda comanda, estarão no seu caminho" />
+  <keys prop="Description" type="monster" key="p02_1_1_0043_Complete_Text" value="Obrigado, mas ... Hagmaza já está ... &lt;br&gt; &lt;br&gt; Pelo menos você pode vingá-lo. Tenho certeza que ele aprecia." />
+  <keys prop="Description" type="monster" key="p02_1_1_0044_Title" value="Atravessando o lago" />
+  <keys prop="Description" type="monster" key="p02_1_1_0044_RewarderDesc" value="Tabram" />
+  <keys prop="Description" type="monster" key="p02_1_1_0044_Request_Text" value="O Arcano se espalhou por Stygaea em pouco tempo. Eles podem ser encontrados não apenas em Stillhaven, mas também no Lago Eternity, a noroeste da Vila Freemen. Vá encontrar o Tabram do Arcano lá. Ele tem algo para você." />
+  <keys prop="Description" type="monster" key="p02_1_1_0044_Accepted_Text" value="Fale com Tabram no Lago Eternity." />
+  <keys prop="Description" type="monster" key="p02_1_1_0044_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0044_Complete_Text" value="Ahh, você deve ser o famoso [UserName]. Excelente timing também. Eu estava apenas procurando por alguma ajuda." />
+  <keys prop="Description" type="monster" key="p02_1_1_0045_Title" value="Uma luz no poço" />
+  <keys prop="Description" type="monster" key="p02_1_1_0045_RewarderDesc" value="Cielle" />
+  <keys prop="Description" type="monster" key="p02_1_1_0045_Request_Text" value="Enviei Cielle para o Farol da Meia-Noite do outro lado do Poço Negro, ao norte do Ferry de Lete, mas ela é inexperiente e pode ter problemas. Por favor, encontre-a e apoie-a, se ela precisar. Vou mandar avisar que você vai encontrá-la." />
+  <keys prop="Description" type="monster" key="p02_1_1_0045_Accepted_Text" value="Encontre Cielle no farol da meia-noite." />
+  <keys prop="Description" type="monster" key="p02_1_1_0045_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0045_Complete_Text" value="Oh, Tabram me disse que você viria. Você chegou aqui mais rápido do que eu esperava. Linetta e eu estávamos prestes a partir para o Purgatório, mas uma energia inesperada do Poço Negro nos atrasou." />
+  <keys prop="Description" type="monster" key="p02_1_1_0046_Title" value="Santuário dos Mortos" />
+  <keys prop="Description" type="monster" key="p02_1_1_0046_RewarderDesc" value="Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0046_Request_Text" value="Precisamos ficar um pouco mais para estudar a energia do poço negro. Também precisamos tomar cuidado com Finion. Isso significa que eu realmente não posso cuidar de Baros enquanto estou aqui. [Nome de usuário], você poderia cuidar de Baros?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0046_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Baros fica no Trigg's Pub, a leste do ferry de Lete. O pub é uma espécie de santuário para os mortos, pois Trigg proíbe qualquer tipo de violência." />
+  <keys prop="Description" type="monster" key="p02_1_1_0046_Accepted_Text" value="Vá ver Baros no Bar Trigg's." />
+  <keys prop="Description" type="monster" key="p02_1_1_0046_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0046_Complete_Text" value="Ei, é [nome de usuário]! Obrigado pela ajuda de volta nas terras altas. Rapaz, estou muito feliz em vê-lo novamente." />
+  <keys prop="Description" type="monster" key="p02_1_1_0047_Title" value="Prisão dos Mortos" />
+  <keys prop="Description" type="monster" key="p02_1_1_0047_RewarderDesc" value="Linetta" />
+  <keys prop="Description" type="monster" key="p02_1_1_0047_Request_Text" value="Magnatu dos Monarcas de Stygaea está levantando um exército no Purgatório, a prisão dos mortos. O Arcano enviou Linetta e Hagmaza para detê-lo, mas Magnatu provou mais do que uma partida para eles. Se você puder ajudar, procure Linetta no Purgatório, ao norte do Trigg's Pub." />
+  <keys prop="Description" type="monster" key="p02_1_1_0047_Accepted_Text" value="Vá falar com Linetta no Purgatório." />
+  <keys prop="Description" type="monster" key="p02_1_1_0047_Ongoing_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_1_1_0047_Complete_Text" value="[UserName], graças a Deus você está aqui. Ouvimos dizer que Yulnus enviou você para nos ajudar. Tudo o que você estava esperando, as coisas são muito piores." />
+  <keys prop="Description" type="monster" key="p02_9_1_0001_Title" value="Guerra e Paz" />
+  <keys prop="Description" type="monster" key="p02_9_1_0001_RewarderDesc" value="Quadro de Avisos &lt;Aldeia dos Freemen&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_1_0001_Request_Text" value="Recompensas serão postadas para quem puder devolver os restos de nossos exploradores caídos em Stillhaven e livrar a área de soldados, espadachins, cavaleiros e arqueiros que terminaram suas vidas. &lt;br&gt; &lt;br&gt; O Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_1_0001_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_1_0001_Ongoing_Text" value="Recompensas serão postadas para quem puder devolver os restos de nossos exploradores caídos em Stillhaven e livrar a área de soldados, espadachins, cavaleiros e arqueiros que terminaram suas vidas. &lt;br&gt; &lt;br&gt; O Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_1_0001_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0002_Title" value="Epidemia de peste" />
+  <keys prop="Description" type="monster" key="p02_9_1_0002_RewarderDesc" value="Quadro de Avisos &lt;Aldeia dos Freemen&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_1_0002_Request_Text" value="Chamando todos os aventureiros! Precisamos de amostras da praga que se espalham por toda a Floresta Perene pelos Monarcas de Stygaea. Serão concedidas recompensas por amostras de pragas líquidas adequadas para estudo e eliminação de invasores e espadachins sem corpo criados pela praga. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta Atemporal &lt;/font&gt; &lt;br&gt; &lt; br&gt; Milícia Civil da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_1_0002_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_1_0002_Ongoing_Text" value="Chamando todos os aventureiros! Precisamos de amostras da praga que se espalham por toda a Floresta Perene pelos Monarcas de Stygaea. Serão concedidas recompensas por amostras de pragas líquidas adequadas para estudo e eliminação de invasores e espadachins sem corpo criados pela praga. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta Atemporal &lt;/font&gt; &lt;br&gt; &lt; br&gt; Milícia Civil da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_1_0002_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0003_Title" value="Autoridade da Legião" />
+  <keys prop="Description" type="monster" key="p02_9_1_0003_RewarderDesc" value="Quadro de Avisos &lt;Aldeia dos Freemen&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_1_0003_Request_Text" value="Pagando bem pelas marcas dos oradores da morte e pelas armas retiradas dos lacaios dos monarcas. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta Perene &lt;br&gt; &lt;br&gt; &lt;br&gt; Milícias Civis da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_1_0003_Accepted_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0003_Ongoing_Text" value="Pagando bem pelas marcas dos oradores da morte e pelas armas retiradas dos lacaios dos monarcas. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta Perene &lt;br&gt; &lt;br&gt; &lt;br&gt; Milícias Civis da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_1_0003_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0004_Title" value="Sentinela do Lago" />
+  <keys prop="Description" type="monster" key="p02_9_1_0004_RewarderDesc" value="Quadro de Avisos &lt;Lago da Eternidade&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_1_0004_Request_Text" value="Prove seu valor eliminando os Videntes Espirituais, os Caçadores de Espírito e o líder deles. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; Caçador de Sombras Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_1_0004_Accepted_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0004_Ongoing_Text" value="Prove seu valor eliminando os Videntes Espirituais, os Caçadores de Espírito e o líder deles. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; Caçador de Sombras Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_1_0004_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0005_Title" value="Poder do poço" />
+  <keys prop="Description" type="monster" key="p02_9_1_0005_RewarderDesc" value="Quadro de Avisos &lt;Farol da Meia-noite&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_1_0005_Request_Text" value="Estou precisando urgentemente do fogo da alma de Balor e Kunos. Pagarei a quem os destruir e retorne com o fogo. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: 750m-1100m no Poço Negro &lt;/font&gt; &lt;br&gt; &lt;br&gt; Gerenciamento do Farol da Meia-Noite" />
+  <keys prop="Description" type="monster" key="p02_9_1_0005_Accepted_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0005_Ongoing_Text" value="Estou precisando urgentemente do fogo da alma de Balor e Kunos. Pagarei a quem os destruir e retorne com o fogo. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: 750m-1100m no Poço Negro &lt;/font&gt; &lt;br&gt; &lt;br&gt; Gerenciamento do Farol da Meia-Noite" />
+  <keys prop="Description" type="monster" key="p02_9_1_0005_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0006_Title" value="[PvP] Arma Amaldiçoada" />
+  <keys prop="Description" type="monster" key="p02_9_1_0006_RewarderDesc" value="Trigg" />
+  <keys prop="Description" type="monster" key="p02_9_1_0006_Request_Text" value="Que Kherim Ore realmente fez o truque ... essa maldição está começando a desaparecer. Mas para finalizar, preciso de mais uma coisa. É, err ... é o seu sangue. Quero dizer, você é a única pessoa viva por aqui, certo?" />
+  <keys prop="Description" type="monster" key="p02_9_1_0006_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Eu vou atirar direto com você. O Orbe Vampírico quer o sangue dos vivos. Vou deixar o resto com você." />
+  <keys prop="Description" type="monster" key="p02_9_1_0006_Accepted_Text" value="A espada quer o sangue dos vivos. Vou deixar você decidir de quem é o sangue que precisamos." />
+  <keys prop="Description" type="monster" key="p02_9_1_0006_Ongoing_Text" value="Eu vou atirar direto com você. O Orbe Vampírico quer o sangue dos vivos. Vou deixar o resto com você." />
+  <keys prop="Description" type="monster" key="p02_9_1_0006_Complete_Text" value="Esta arma é um verdadeiro tesouro ... mas sempre terá sede do sangue dos vivos. Que maldição, não é? Uma pena que é a única coisa que pode nos proteger daqueles malditos monarcas." />
+  <keys prop="Description" type="monster" key="p02_9_1_0007_Title" value="De fadas e sementes" />
+  <keys prop="Description" type="monster" key="p02_9_1_0007_RewarderDesc" value="Boletim &lt;Pub do Trigg&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_1_0007_Request_Text" value="Uma generosa recompensa para quem recupera sementes de raiz de redsap e extermina algumas daquelas fadas carmesim! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Montanha Perdida &lt;/font&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_1_0007_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_1_0007_Ongoing_Text" value="Uma generosa recompensa para quem recupera sementes de raiz de redsap e extermina algumas daquelas fadas carmesim! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Montanha Perdida &lt;/font&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_1_0007_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0008_Title" value="Coração e alma" />
+  <keys prop="Description" type="monster" key="p02_9_1_0008_RewarderDesc" value="Boletim &lt;Pub do Trigg&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_1_0008_Request_Text" value="Precisamos de recrutas para coletar cristais de alma de sugadores de sangue e corações preservados de leões imortais. Trabalho perigoso paga taxas perigosas! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Purgatório &lt;/font&gt; &lt;br&gt; &lt;br&gt; O Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_1_0008_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_1_0008_Ongoing_Text" value="Precisamos de recrutas para coletar cristais de alma de sugadores de sangue e corações preservados de leões imortais. Trabalho perigoso paga taxas perigosas! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Purgatório &lt;/font&gt; &lt;br&gt; &lt;br&gt; O Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_1_0008_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0001_Title" value="Almas Libertadas" />
+  <keys prop="Description" type="monster" key="p02_9_0_0001_RewarderDesc" value="Quadro de Avisos &lt;Aldeia dos Freemen&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0001_Request_Text" value="Recompensas publicadas por almas libertadas da servidão em Stillhaven. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Inclui soldados, espadachins, cavaleiros e arqueiros. &lt;/font&gt; &lt;br&gt; &lt;br&gt; O Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_0_0001_Accepted_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0001_Ongoing_Text" value="Recompensas publicadas por almas libertadas da servidão em Stillhaven. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Inclui soldados, espadachins, cavaleiros e arqueiros. &lt;/font&gt; &lt;br&gt; &lt;br&gt; The Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_0_0001_Complete_Text" value="Recompensas publicadas por almas libertadas da servidão em Stillhaven. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Inclui soldados, espadachins, cavaleiros e arqueiros. &lt;/font&gt; &lt;br&gt; &lt;br&gt; The Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_0_0002_Title" value="[10 Pessoa] Monarca da Dor" />
+  <keys prop="Description" type="monster" key="p02_9_0_0002_RewarderDesc" value="Quadro de Avisos &lt;Aldeia dos Freemen&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0002_Request_Text" value="Uma recompensa foi colocada na cabeça de Henok, reavivada Monarca de Stygaea. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Stillhaven &lt;/font&gt; &lt;br&gt; &lt;br&gt; The Arcanum" />
+  <keys prop="Description" type="monster" key="p02_9_0_0002_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0002_Ongoing_Text" value="Uma recompensa foi colocada na cabeça de Henok, reavivada Monarca de Stygaea. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Stillhaven &lt;/font&gt; &lt;br&gt; &lt;br&gt; The Arcanum" />
+  <keys prop="Description" type="monster" key="p02_9_0_0002_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0003_Title" value="Espírito Perdido" />
+  <keys prop="Description" type="monster" key="p02_9_0_0003_RewarderDesc" value="Quadro de Avisos &lt;Aldeia dos Freemen&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0003_Request_Text" value="Recompensas para aqueles que nos livram dos espectros azuis ao longo do Caminho do Crepúsculo, entre a Vila Freemen e Stillhaven. &lt;br&gt; &lt;br&gt; Milícia Civil da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_0_0003_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0003_Ongoing_Text" value="Recompensas para aqueles que nos livram dos espectros azuis ao longo do Caminho do Crepúsculo, entre a Vila Freemen e Stillhaven. &lt;br&gt; &lt;br&gt; Milícia Civil da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_0_0003_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0004_Title" value="Guardiões da Floresta" />
+  <keys prop="Description" type="monster" key="p02_9_0_0004_RewarderDesc" value="Quadro de Avisos &lt;Aldeia dos Freemen&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0004_Request_Text" value="Os guardiões da Floresta Perene e seus lacaios precisam ir! Limpe-os para dar um golpe contra os monarcas de Stygaea. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta Perene &lt;br&gt; &lt;br&gt; &lt;br&gt; Milícias Civis da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_0_0004_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0004_Ongoing_Text" value="Os guardiões da Floresta Perene e seus lacaios precisam ir! Limpe-os para dar um golpe contra os monarcas de Stygaea. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta Perene &lt;br&gt; &lt;br&gt; &lt;br&gt; Milícias Civis da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_0_0004_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0005_Title" value="[10 Pessoa] O Rei Pálido" />
+  <keys prop="Description" type="monster" key="p02_9_0_0005_RewarderDesc" value="Quadro de Avisos &lt;Lago da Eternidade&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0005_Request_Text" value="Uma recompensa foi colocada na cabeça de Ranote, reavivada Monarca de Stygaea. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta do Noroeste do Noroeste, perto do Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_0_0005_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0005_Ongoing_Text" value="Uma recompensa foi colocada na cabeça de Ranote, reavivada Monarca de Stygaea. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Floresta do Noroeste do Noroeste, perto do Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_0_0005_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0006_Title" value="Boa caçada" />
+  <keys prop="Description" type="monster" key="p02_9_0_0006_RewarderDesc" value="Quadro de Avisos &lt;Lago da Eternidade&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0006_Request_Text" value="Prove seu valor caçando Shadow Bats e o Oblivion Shadow Bat nos Campos de Oblivion. Também pagando bem pelo couro Poelle da região. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Campos do esquecimento &lt;/font&gt; &lt;br&gt; &lt;br&gt; Shadow Hunter Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_0_0006_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0006_Ongoing_Text" value="Prove seu valor caçando Shadow Bats e o Oblivion Shadow Bat nos Campos de Oblivion. Também pagando bem pelo couro Poelle da região. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Campos do esquecimento &lt;/font&gt; &lt;br&gt; &lt;br&gt; Shadow Hunter Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_0_0006_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0007_Title" value="Chifres mágicos" />
+  <keys prop="Description" type="monster" key="p02_9_0_0007_RewarderDesc" value="Quadro de Avisos &lt;Lago da Eternidade&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0007_Request_Text" value="Honra e glória a quem puder caçar Sharack no Lago Eternity e retornar com seus chifres. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; Shadow Hunter Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_0_0007_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0007_Ongoing_Text" value="Honra e glória a quem puder caçar Sharack no Lago Eternity e retornar com seus chifres. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; Shadow Hunter Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_0_0007_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0008_Title" value="Memória da Alma" />
+  <keys prop="Description" type="monster" key="p02_9_0_0008_RewarderDesc" value="Quadro de Avisos &lt;Lago da Eternidade&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0008_Request_Text" value="Compra de memórias espectrais extraídas diretamente de espectros vermelhos. Não há perguntas. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; Shadow Hunter Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_0_0008_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0008_Ongoing_Text" value="Compra de memórias espectrais extraídas diretamente de espectros vermelhos. Não há perguntas. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Lago Eternity &lt;/font&gt; &lt;br&gt; &lt;br&gt; Shadow Hunter Taracio" />
+  <keys prop="Description" type="monster" key="p02_9_0_0008_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0009_Title" value="Minions de Finion" />
+  <keys prop="Description" type="monster" key="p02_9_0_0009_RewarderDesc" value="Quadro de Avisos &lt;Farol da Meia-noite&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0009_Request_Text" value="Precisamos que Hilber e Gurion do Poço Negro sejam removidos para o bem de todos. Eles podem ser encontrados ocasionalmente entre 750 e 1100 metros no Poço Negro. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: O Poço Negro &lt;/font&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; Gerenciamento da meia-noite do farol" />
+  <keys prop="Description" type="monster" key="p02_9_0_0009_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0009_Ongoing_Text" value="Precisamos que Hilber e Gurion do Poço Negro sejam removidos para o bem de todos. Eles podem ser encontrados ocasionalmente entre 750 e 1100 metros no Poço Negro. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: O Poço Negro &lt;/font&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; Gerenciamento da meia-noite do farol" />
+  <keys prop="Description" type="monster" key="p02_9_0_0009_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0010_Title" value="Punição por roubo" />
+  <keys prop="Description" type="monster" key="p02_9_0_0010_RewarderDesc" value="Boletim &lt;Pub do Trigg&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0010_Request_Text" value="Aqueles Rabbini ladrões precisam ir! Muito dinheiro para quem pega aqueles ladrões de rabinos de Stygaean e devolve nossos pacotes roubados de minério de Kherim. E se você puder pegar o Chefe Ladrão Ribaldi, melhor ainda! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Montanha Perdida &lt;/font&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_0_0010_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0010_Ongoing_Text" value="Aqueles Rabbini ladrões precisam ir! Muito dinheiro para quem pega aqueles ladrões de rabinos de Stygaean e devolve nossos pacotes roubados de minério de Kherim. E se você puder pegar o Chefe Ladrão Ribaldi, melhor ainda! &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Montanha Perdida &lt;/font&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_0_0010_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0011_Title" value="Veneno Perdido da Montanha" />
+  <keys prop="Description" type="monster" key="p02_9_0_0011_RewarderDesc" value="Boletim &lt;Pub do Trigg&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0011_Request_Text" value="Lost Mountain é uma bagunça por causa daquele vil Vemigus. Pagarei uma moeda de topo para vê-lo morto. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Montanha Perdida &lt;/font&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_0_0011_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0011_Ongoing_Text" value="Lost Mountain é uma bagunça por causa daquele vil Vemigus. Pagarei uma moeda de topo para vê-lo morto. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Montanha Perdida &lt;/font&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_0_0011_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0012_Title" value="Prisioneiros e Observadores" />
+  <keys prop="Description" type="monster" key="p02_9_0_0012_RewarderDesc" value="Boletim &lt;Pub do Trigg&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0012_Request_Text" value="Chamando todos os aventureiros para livrar o Purgatório dos leões distorcidos, peões do caos e guardas zelosos. Recompensas oferecidas. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Purgatório &lt;/font&gt; &lt;br&gt; &lt;br&gt; O Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_0_0012_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0012_Ongoing_Text" value="Chamando todos os aventureiros para livrar o Purgatório dos leões distorcidos, peões do caos e guardas zelosos. Recompensas oferecidas. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Purgatório &lt;/font&gt; &lt;br&gt; &lt;br&gt; O Arcano" />
+  <keys prop="Description" type="monster" key="p02_9_0_0012_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0013_Title" value="[10 pessoas] Almas do caos" />
+  <keys prop="Description" type="monster" key="p02_9_0_0013_RewarderDesc" value="Boletim &lt;Pub do Trigg&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0013_Request_Text" value="Prove seu valor à causa derrubando a guarda interna de Magnatu! Tem o que é preciso? &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Purgatório &lt;/font&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_0_0013_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0013_Ongoing_Text" value="Prove seu valor à causa derrubando a guarda interna de Magnatu! Tem o que é preciso? &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Purgatório &lt;/font&gt; &lt;br&gt; &lt;br&gt; Trigg's Pub" />
+  <keys prop="Description" type="monster" key="p02_9_0_0013_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_1_1_0048_Title" value="Agente de Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0048_RewarderDesc" value="Linetta &lt;Mago Arcano&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0048_Request_Text" value="Como o purgatório está tratando você, [UserName]? Se você tiver tempo, Baros deseja falar com você. Você deve se apressar, eu irei seguir em breve." />
+  <keys prop="Description" type="monster" key="p02_1_1_0048_Accepted_Text" value="Encontre Baros, rapidamente!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0048_Ongoing_Text" value="Como o purgatório está tratando você, [UserName]? Se você tiver tempo, Baros deseja falar com você. Você deve se apressar, eu irei seguir em breve." />
+  <keys prop="Description" type="monster" key="p02_1_1_0048_Complete_Text" value="Bem-vindo, [UserName]. Eu tenho um pedido urgente. Você está familiarizado com Grimvale?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0049_Title" value="Para Grimvale" />
+  <keys prop="Description" type="monster" key="p02_1_1_0049_RewarderDesc" value="Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0049_Request_Text" value="Originalmente, Stygaea era uma terra vasta. Uma região era atormentada por espíritos amaldiçoados que perturbariam o resto dos mortos. A maioria dos viajantes, vivos ou mortos, evitava aquele lugar por um bom motivo. No entanto, havia um assentamento naquele local terrível, uma vila conhecida como Grimvale." />
+  <keys prop="Description" type="monster" key="p02_1_1_0049_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Há pouco tempo, o chefe de Grimvale veio me procurar. Com base em suas ações, acho que você seria a pessoa certa para ajudar. Vá para a Floresta Ardente, além do Túnel Desmoronado, e encontre o Chefe Stan. Ele estará esperando por você. Eu vou segui-lo em breve." />
+  <keys prop="Description" type="monster" key="p02_1_1_0049_Accepted_Text" value="Conheça o chefe Stan em Blazing Forest." />
+  <keys prop="Description" type="monster" key="p02_1_1_0049_Ongoing_Text" value="O chefe de Grimvale veio até mim em busca de ajuda. Com base em suas ações, acho que você seria a pessoa certa para ajudar. Vá para a Floresta Ardente, além do Túnel Desmoronado, e encontre o Chefe Stan. Ele estará esperando por você. Eu vou segui-lo em breve." />
+  <keys prop="Description" type="monster" key="p02_1_1_0049_Complete_Text" value="Ah, aí está você. Bem-vindo, [UserName]. Receio desesperadamente precisar da sua ajuda." />
+  <keys prop="Description" type="monster" key="p02_1_1_0050_Title" value="Firestarter" />
+  <keys prop="Description" type="monster" key="p02_1_1_0050_RewarderDesc" value="Centavo" />
+  <keys prop="Description" type="monster" key="p02_1_1_0050_Request_Text" value="Um incêndio recente que eclodiu na floresta aqui perto colocou toda a cidade em perigo. O calor do fogo, em particular, enfureceu os espíritos locais." />
+  <keys prop="Description" type="monster" key="p02_1_1_0050_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Nós devemos descobrir a fonte do fogo. Alguns dos moradores encontraram objetos estranhos perto do incêndio. Se você conseguir recuperar alguns deles, isso pode ajudar." />
+  <keys prop="Description" type="monster" key="p02_1_1_0050_Accepted_Text" value="Colete os objetos perto do fogo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0050_Ongoing_Text" value="Nós devemos descobrir a fonte do fogo. Alguns dos moradores encontraram objetos estranhos perto do incêndio. Se você conseguir recuperar alguns deles, isso pode ajudar." />
+  <keys prop="Description" type="monster" key="p02_1_1_0050_Complete_Text" value="Você fez bem, mas receio que o fogo tenha causado muitos danos. Os itens estão muito danificados para determinar a origem do incêndio…" />
+  <keys prop="Description" type="monster" key="p02_1_1_0051_Title" value="A árvore chamuscada" />
+  <keys prop="Description" type="monster" key="p02_1_1_0051_RewarderDesc" value="Stan" />
+  <keys prop="Description" type="monster" key="p02_1_1_0051_Request_Text" value="Os Dendrans foram os primeiros a pegar fogo após o incêndio. Eles queimam, mas não perecem, e a dor os levou à loucura. É possível que isso tenha sido planejado por outra parte." />
+  <keys prop="Description" type="monster" key="p02_1_1_0051_Request_Text_attach_0" value="Seja qual for o caso, devemos colocar os dendrans fora de sua miséria, tanto por eles como por nossa segurança. E se você aprender mais sobre as forças por trás do incêndio, tanto melhor." />
+  <keys prop="Description" type="monster" key="p02_1_1_0051_Accepted_Text" value="Corte os dendrans e colete seus galhos podres." />
+  <keys prop="Description" type="monster" key="p02_1_1_0051_Ongoing_Text" value="Acredito que alguém esteja planejando dominar esta terra, e os dendrans podem ser seu primeiro passo. Seja qual for o caso, devemos colocar os dendrans fora de sua miséria, tanto por eles como por nossa segurança. E se você aprender mais sobre as forças por trás do incêndio, tanto melhor" />
+  <keys prop="Description" type="monster" key="p02_1_1_0051_Complete_Text" value="A floresta parece tão vazia sem as árvores ... Se houver pistas nos galhos, precisamos encontrá-las." />
+  <keys prop="Description" type="monster" key="p02_1_1_0052_Title" value="Espíritos Despertos" />
+  <keys prop="Description" type="monster" key="p02_1_1_0052_RewarderDesc" value="Alveress" />
+  <keys prop="Description" type="monster" key="p02_1_1_0052_Request_Text" value="Esta era uma terra amaldiçoada. Foi o destino final para aqueles que recusaram a paz do descanso eterno. Esses espíritos inquietos agora foram encorajados por algo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0052_Request_Text_attach_0" value="Se essa terrível epidemia se espalhar, todos os Stygaea estariam em risco. Você deve derrotar todos os cavaleiros e arqueiros que plantam esse caos. Você poderia fazer isso por nós?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0052_Accepted_Text" value="Destrua os cavaleiros e arqueiros esqueletos acordados na Floresta Ardente." />
+  <keys prop="Description" type="monster" key="p02_1_1_0052_Ongoing_Text" value="Se essa terrível epidemia se espalhar, todos os Stygaea estariam em risco. Você deve derrotar todos os cavaleiros e arqueiros que plantam esse caos. Você poderia fazer isso por nós?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0052_Complete_Text" value="Que os mortos descansem verdadeiramente em paz ..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0053_Title" value="Uma pista importante" />
+  <keys prop="Description" type="monster" key="p02_1_1_0053_RewarderDesc" value="Alveress" />
+  <keys prop="Description" type="monster" key="p02_1_1_0053_Request_Text" value="O retorno dos monarcas de Stygaea deve ser a fonte desses despertares repentinos. Nenhuma outra força em Stygaea seria grande o suficiente para causar tal tumulto." />
+  <keys prop="Description" type="monster" key="p02_1_1_0053_Request_Text_attach_0" value="Espíritos inquietos são o menor dos nossos problemas, então. Um grupo imundo conhecido como Scarlore está pronto para tirar proveito do caos para seus próprios fins. Podemos aprender mais com um de seus companheiros de navio." />
+  <keys prop="Description" type="monster" key="p02_1_1_0053_Accepted_Text" value="Encontre um companheiro de navio Scarlore e procure por pistas." />
+  <keys prop="Description" type="monster" key="p02_1_1_0053_Ongoing_Text" value="Espíritos inquietos são o menor dos nossos problemas, então. Um grupo imundo conhecido como Scarlore está pronto para tirar proveito do caos para seus próprios fins. Podemos aprender mais com um de seus companheiros de navio." />
+  <keys prop="Description" type="monster" key="p02_1_1_0053_Complete_Text" value="Uma moeda? Espera ... essa cara! Esta é a semelhança do capitão do Scarlore. Isso poderia significar que eles estão construindo infraestrutura suficiente para cunhar suas próprias moedas ...?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0054_Title" value="Marido Escondido" />
+  <keys prop="Description" type="monster" key="p02_1_1_0054_RewarderDesc" value="Enna" />
+  <keys prop="Description" type="monster" key="p02_1_1_0054_Request_Text" value="Você deve ser [UserName]. O chefe nos contou tudo sobre você. Ele disse ... você poderia me ajudar, [UserName]. Você já viu o navio pirata aqui perto? Meu marido faz parte da milícia e se ofereceu para investigar o navio. Ele ... nunca voltou." />
+  <keys prop="Description" type="monster" key="p02_1_1_0054_Request_Text_attach_0" value="Eu quero desesperadamente conhecer o destino dele, mas não tenho chance de descobrir isso sozinho. [UserName], você poderia fazer isso por mim? Você poderia encontrar meu marido?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0054_Accepted_Text" value="Por favor, encontre meu marido em algum lugar perto do navio pirata." />
+  <keys prop="Description" type="monster" key="p02_1_1_0054_Ongoing_Text" value="Você deve ser [UserName]. O chefe nos contou tudo sobre você. Ele disse ... você poderia me ajudar, [UserName]. Você já viu o navio pirata aqui perto? Meu marido faz parte da milícia e se ofereceu para investigar o navio. Ele ... nunca voltou. Eu quero desesperadamente conhecer o destino dele, mas não tenho chance de descobrir isso sozinho. [UserName], você poderia fazer isso por mim? Você poderia encontrar meu marido?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0054_Complete_Text" value="(Quando você abre a boca para falar, ele bate a mão nos lábios.) ... Não diga uma palavra." />
+  <keys prop="Description" type="monster" key="p02_1_1_0055_Title" value="Para onde o mapa leva" />
+  <keys prop="Description" type="monster" key="p02_1_1_0055_RewarderDesc" value="Robertson" />
+  <keys prop="Description" type="monster" key="p02_1_1_0055_Request_Text" value="Shh! Fique quieto. Eles não sabem que eu estou aqui. Eu imagino que minha esposa te enviou. Não pude contar a ela sobre meu plano de espionar os piratas, pobre mulher ... &lt;br&gt; &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0055_Request_Text_attach_0" value="Se você estiver voltando, pegue isso. Eu o encontrei alguns dias atrás, mas não tenho ideia do que diz. O chefe pode saber mais." />
+  <keys prop="Description" type="monster" key="p02_1_1_0055_Accepted_Text" value="Leve isso para o chefe." />
+  <keys prop="Description" type="monster" key="p02_1_1_0055_Ongoing_Text" value="Se você estiver voltando, pegue isso. Eu o encontrei alguns dias atrás, mas não tenho ideia do que diz. O chefe pode saber mais." />
+  <keys prop="Description" type="monster" key="p02_1_1_0055_Complete_Text" value="Ah, então Robertson encontrou algo. Deixe-me ver..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0056_Title" value="Coorte Abissal" />
+  <keys prop="Description" type="monster" key="p02_1_1_0056_RewarderDesc" value="Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0056_Request_Text" value="Ora, este é o mapa do submundo! Aqueles malditos Scarlores encontraram o caminho para o coração do grande além. Eu suspeitava disso, mas seus loucos retrocederam nossos batedores a cada passo do caminho. &lt;br&gt; &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0056_Request_Text_attach_0" value="Pelo menos sabemos o que estamos enfrentando agora. Receio que devo confiar em você mais do que nunca. Se quisermos levar a batalha para os Scarlores, precisamos apreender suas armas. Por mais que eu odeie admitir, você é o único forte o suficiente para fazer essa ação." />
+  <keys prop="Description" type="monster" key="p02_1_1_0056_Accepted_Text" value="Pegue as armas dos Scarlores." />
+  <keys prop="Description" type="monster" key="p02_1_1_0056_Ongoing_Text" value="Pelo menos sabemos o que estamos enfrentando agora. Receio que devo confiar em você mais do que nunca. Se quisermos levar a batalha para os Scarlores, precisamos apreender suas armas. Por mais que eu odeie admitir, você é o único forte o suficiente para fazer essa ação." />
+  <keys prop="Description" type="monster" key="p02_1_1_0056_Complete_Text" value="Excelente. Sem braços adequados, os Scarlores serão incapazes de montar uma resistência adequada." />
+  <keys prop="Description" type="monster" key="p02_1_1_0057_Title" value="Ameaçando Grimvale" />
+  <keys prop="Description" type="monster" key="p02_1_1_0057_RewarderDesc" value="Enna" />
+  <keys prop="Description" type="monster" key="p02_1_1_0057_Request_Text" value="Ouvi falar dos Scarlores se preparando para atacar a cidade. Se não fizermos nada, eles certamente nos esmagarão. Às vezes, vejo seus batedores no bosque nos arredores da cidade." />
+  <keys prop="Description" type="monster" key="p02_1_1_0057_Request_Text_attach_0" value="Eles devem ser baseados nas proximidades. Por favor, encontre o acampamento Scarlore e destrua-o. Sei que peço muito, mas ... Grimvale é tudo o que me resta. Eu estou tão assustada ..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0057_Accepted_Text" value="Destrua o acampamento Scarlore." />
+  <keys prop="Description" type="monster" key="p02_1_1_0057_Ongoing_Text" value="Por favor, encontre o acampamento Scarlore e destrua-o. Sei que peço muito, mas ... Grimvale é tudo o que me resta. Eu estou tão assustada ..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0057_Complete_Text" value="Todos nos sentimos muito mais seguros graças a você, [UserName]. Você pode ter salvado a todos nós." />
+  <keys prop="Description" type="monster" key="p02_1_1_0058_Title" value="Energia Espiritual" />
+  <keys prop="Description" type="monster" key="p02_1_1_0058_RewarderDesc" value="Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0058_Request_Text" value="Essas armas são preenchidas com uma energia espiritual sombria. Se vamos expulsar os Scarlores do submundo, devemos destruir a fonte desse poder." />
+  <keys prop="Description" type="monster" key="p02_1_1_0058_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Destrua todos os Espectros Efêmeros que você encontrar no Submundo. Isso cortará o suprimento de energia escura." />
+  <keys prop="Description" type="monster" key="p02_1_1_0058_Accepted_Text" value="Vá para o submundo e destrua os espectros efêmeros." />
+  <keys prop="Description" type="monster" key="p02_1_1_0058_Ongoing_Text" value="Destrua todos os Espectros Efêmeros que você encontrar no Submundo. Isso cortará o suprimento de energia escura." />
+  <keys prop="Description" type="monster" key="p02_1_1_0058_Complete_Text" value="Ótimo trabalho. Esses espectros serão reconstituídos a tempo, portanto, devemos agir enquanto tivermos essa vantagem." />
+  <keys prop="Description" type="monster" key="p02_1_1_0059_Title" value="[10 Pessoa] Senhor Abissal" />
+  <keys prop="Description" type="monster" key="p02_1_1_0059_RewarderDesc" value="Alveress" />
+  <keys prop="Description" type="monster" key="p02_1_1_0059_Request_Text" value="Os Scarlores no submundo são liderados por seu capitão, Van Deken. Assim como os monarcas de Stygaea formaram seu exército, Van Deken construiu suas próprias forças. &lt;br&gt; &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0059_Request_Text_attach_0" value="Van Deken é quem acordou os espíritos e trouxe o caos à floresta e à nossa cidade. Ele ainda não fez nenhum movimento importante contra nós, mas enquanto ele detém o poder, Grimvale está em risco. Precisamos agir primeiro. Reúna seus membros e derrote-o." />
+  <keys prop="Description" type="monster" key="p02_1_1_0059_Accepted_Text" value="Derrote Van Deken, o Capitão do Abismo." />
+  <keys prop="Description" type="monster" key="p02_1_1_0059_Ongoing_Text" value="Van Deken é quem acordou os espíritos e trouxe o caos à floresta e à nossa cidade. Ele ainda não fez nenhum movimento importante contra nós, mas enquanto ele detém o poder, Grimvale está em risco. Precisamos agir primeiro. Reúna seus membros e derrote-o." />
+  <keys prop="Description" type="monster" key="p02_1_1_0059_Complete_Text" value="Soberbo! Mas lembre-se, Stygaea é o reino dos mortos. Aqueles que atacam aqui são seres imortais, e um dia retornarão. Mas quando chegar a hora, estaremos prontos." />
+  <keys prop="Description" type="monster" key="p02_1_1_0060_Title" value="Flor Alimentada por Alma" />
+  <keys prop="Description" type="monster" key="p02_1_1_0060_RewarderDesc" value="Menera" />
+  <keys prop="Description" type="monster" key="p02_1_1_0060_Request_Text" value="Magma flui dentro das crateras em Ash Hill. A alta temperatura do magma mata a maioria das plantas que tentam crescer lá, mas há uma que floresce." />
+  <keys prop="Description" type="monster" key="p02_1_1_0060_Request_Text_attach_0" value="Ouvi as plantas de Stygaea se alimentarem da própria alma. Essa pode ser a única maneira que essa flor pode crescer em tal lugar. Você poderia me trazer amostras para estudar?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0060_Accepted_Text" value="Traga-me Demora Blossoms das crateras." />
+  <keys prop="Description" type="monster" key="p02_1_1_0060_Ongoing_Text" value="Ouvi as plantas de Stygaea se alimentarem da própria alma. Essa pode ser a única maneira que essa flor pode crescer em tal lugar. Você poderia me trazer amostras para estudar?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0060_Complete_Text" value="Que planta linda. Mal posso esperar para descobrir mais sobre isso!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0061_Title" value="Sangue Corrompido" />
+  <keys prop="Description" type="monster" key="p02_1_1_0061_RewarderDesc" value="Menera" />
+  <keys prop="Description" type="monster" key="p02_1_1_0061_Request_Text" value="Ash Hill ecoa com as vozes das almas perdidas. Ainda hoje, ninguém sabe como esses mortos se perderam." />
+  <keys prop="Description" type="monster" key="p02_1_1_0061_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Talvez as almas escondidas nas profundezas das flores de Demora sejam as que estão perdidas? O sangue dos mortos pode provar ser o elo perdido aqui. Eu gostaria de estudá-lo, se você puder me trazer um pouco." />
+  <keys prop="Description" type="monster" key="p02_1_1_0061_Accepted_Text" value="Trazer de volta o sangue dos mortos sem alma." />
+  <keys prop="Description" type="monster" key="p02_1_1_0061_Ongoing_Text" value="Talvez as almas escondidas nas profundezas das flores de Demora sejam as que estão perdidas? O sangue dos mortos pode provar ser o elo perdido aqui. Eu gostaria de estudá-lo, se você puder me trazer um pouco." />
+  <keys prop="Description" type="monster" key="p02_1_1_0061_Complete_Text" value="Isso deve ser suficiente para pesquisar. Obrigado pela ajuda!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0062_Title" value="Linetta desaparece" />
+  <keys prop="Description" type="monster" key="p02_1_1_0062_RewarderDesc" value="Baros" />
+  <keys prop="Description" type="monster" key="p02_1_1_0062_Request_Text" value="Você viu Linetta? Enviei-a para explorar a área e ela não voltou. Eu sei que ela está aqui em algum lugar. Se você pudesse procurá-la, eu agradeceria muito." />
+  <keys prop="Description" type="monster" key="p02_1_1_0062_Accepted_Text" value="Vá e encontre Linetta. Ela tem que estar por aqui em algum lugar." />
+  <keys prop="Description" type="monster" key="p02_1_1_0062_Ongoing_Text" value="Você viu Linetta? Enviei-a para explorar a área e ela não voltou. Eu sei que ela está aqui em algum lugar. Se você pudesse procurá-la, eu agradeceria muito." />
+  <keys prop="Description" type="monster" key="p02_1_1_0062_Complete_Text" value="Agh, há quanto tempo estou fora? Estou bem, estou bem ... Tenho certeza que foi só por um momento." />
+  <keys prop="Description" type="monster" key="p02_1_1_0063_Title" value="Atração Espiritual" />
+  <keys prop="Description" type="monster" key="p02_1_1_0063_RewarderDesc" value="Linetta &lt;Mago Arcano&gt;" />
+  <keys prop="Description" type="monster" key="p02_1_1_0063_Request_Text" value="Eu acho que o grito agudo dos mortos me atingiu. Eu vi uma pessoa estranha enquanto estava vasculhando ... me lembrou alguém do pub. Quando eu cheguei perto, porém, ele me dominou com aquele grito." />
+  <keys prop="Description" type="monster" key="p02_1_1_0063_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; A arma que ele carregava era muito suspeita. Precisamos pegá-lo e estudá-lo, se pudermos. Por favor, veja se você se sai melhor contra esse vilão do que eu." />
+  <keys prop="Description" type="monster" key="p02_1_1_0063_Accepted_Text" value="Pegue a arma de Jack Danger." />
+  <keys prop="Description" type="monster" key="p02_1_1_0063_Ongoing_Text" value="A arma que ele carregava era muito suspeita. Precisamos pegá-lo e estudá-lo, se pudermos. Por favor, veja se você se sai melhor contra esse vilão do que eu." />
+  <keys prop="Description" type="monster" key="p02_1_1_0063_Complete_Text" value="Bem feito. Sim ... esta arma é incrivelmente letal." />
+  <keys prop="Description" type="monster" key="p02_1_1_0064_Title" value="Peão de Batalha" />
+  <keys prop="Description" type="monster" key="p02_1_1_0064_RewarderDesc" value="Torva" />
+  <keys prop="Description" type="monster" key="p02_1_1_0064_Request_Text" value="Encontramos o verdadeiro poder por trás dos monarcas de Stygaea. Chama-se Oruun, mas sabemos pouco mais que seu nome. Infelizmente, não temos chance contra um inimigo de que não sabemos nada." />
+  <keys prop="Description" type="monster" key="p02_1_1_0064_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; No campo de batalha, você encontrará magos guardando a entrada do domínio de Oruun. Os magos são nossa melhor aposta para aprender mais sobre seu mestre. Eles devem ter algo que possa ajudar nossa causa." />
+  <keys prop="Description" type="monster" key="p02_1_1_0064_Accepted_Text" value="Traga de volta tudo o que encontrar nos magos no campo de batalha." />
+  <keys prop="Description" type="monster" key="p02_1_1_0064_Ongoing_Text" value="No campo de batalha, você encontrará magos guardando a entrada do domínio de Oruun. Os magos são nossa melhor aposta para aprender mais sobre seu mestre. Eles devem ter algo que possa ajudar nossa causa." />
+  <keys prop="Description" type="monster" key="p02_1_1_0064_Complete_Text" value="Quanto mais aprendemos sobre Stygaea, mais profundo é o mistério. Eu me pergunto quem é realmente responsável por esse pesadelo ..." />
+  <keys prop="Description" type="monster" key="p02_1_1_0065_Title" value="[10 Pessoa] O verdadeiro monarca" />
+  <keys prop="Description" type="monster" key="p02_1_1_0065_RewarderDesc" value="Torva" />
+  <keys prop="Description" type="monster" key="p02_1_1_0065_Request_Text" value="Os monarcas de Stygaea eram um ardil! Eles eram uma distração para o Arcano batalhar enquanto Mitanas poderia criar seu esquema final." />
+  <keys prop="Description" type="monster" key="p02_1_1_0065_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Mas quando viramos a maré contra os monarcas, Mitanas percebeu que precisava de algo mais para nos impedir. E assim ele criou Oruun, para ficar entre nós e seus planos. Você não pode derrotar Oruun você mesmo. Reúna seus aliados e ponha fim a esse conflito terrível." />
+  <keys prop="Description" type="monster" key="p02_1_1_0065_Accepted_Text" value="Reúna seus aliados e derrote Oruun." />
+  <keys prop="Description" type="monster" key="p02_1_1_0065_Ongoing_Text" value="Quando viramos a maré contra os monarcas, Mitanas percebeu que precisava de algo mais para nos parar. E assim ele criou Oruun, para ficar entre nós e seus planos. Você não pode derrotar Oruun você mesmo. Reúna seus aliados e ponha fim a esse conflito terrível." />
+  <keys prop="Description" type="monster" key="p02_1_1_0065_Complete_Text" value="Finalmente, Stygaea conhecerá a paz novamente. Os inimigos que você derrotou um dia voltarão, como é a natureza desta terra. Mas da próxima vez, estaremos prontos, e temos que agradecer por isso." />
+  <keys prop="Description" type="monster" key="p02_9_0_0014_Title" value="A árvore chamuscada" />
+  <keys prop="Description" type="monster" key="p02_9_0_0014_RewarderDesc" value="Stan" />
+  <keys prop="Description" type="monster" key="p02_9_0_0014_Request_Text" value="Os dendrans foram os primeiros a pegar fogo depois que o incêndio começou. Eles estão envolvidos em agonia, e essa dor os leva à loucura. Dói-me vê-los destruídos, mas é o melhor. Por favor, acabe com o sofrimento deles." />
+  <keys prop="Description" type="monster" key="p02_9_0_0014_Accepted_Text" value="Derrote os dendrans e os dendrans escuros." />
+  <keys prop="Description" type="monster" key="p02_9_0_0014_Ongoing_Text" value="Os dendrans foram os primeiros a pegar fogo depois que o incêndio começou. Eles estão envolvidos em agonia, e essa dor os leva à loucura. Dói-me vê-los destruídos, mas é o melhor. Por favor, acabe com o sofrimento deles." />
+  <keys prop="Description" type="monster" key="p02_9_0_0014_Complete_Text" value="Espero que possamos salvar até uma pequena porção da floresta. Obrigada amigo" />
+  <keys prop="Description" type="monster" key="p02_9_0_0015_Title" value="Coorte Abissal" />
+  <keys prop="Description" type="monster" key="p02_9_0_0015_RewarderDesc" value="Alveress" />
+  <keys prop="Description" type="monster" key="p02_9_0_0015_Request_Text" value="Você conhece o exército Scarlore que está aumentando suas forças no submundo? Se eles continuarem a crescer, eles ameaçarão toda a Stygaea. Nós devemos reduzir seus números. Vá em frente e derrote todos os Scarlores que puder encontrar." />
+  <keys prop="Description" type="monster" key="p02_9_0_0015_Accepted_Text" value="Derrote os invasores Scarlore do Abóbada Brilhante." />
+  <keys prop="Description" type="monster" key="p02_9_0_0015_Ongoing_Text" value="Você conhece o exército Scarlore que está aumentando suas forças no submundo? Se eles continuarem a crescer, eles ameaçarão toda a Stygaea. Nós devemos reduzir seus números. Vá em frente e derrote todos os Scarlores que puder encontrar." />
+  <keys prop="Description" type="monster" key="p02_9_0_0015_Complete_Text" value="Se continuarmos diminuindo seus números, eles vão desmoronar com certeza. Obrigado pela ajuda." />
+  <keys prop="Description" type="monster" key="p02_9_0_0016_Title" value="[10 Pessoa] Senhor Abissal" />
+  <keys prop="Description" type="monster" key="p02_9_0_0016_RewarderDesc" value="Alveress" />
+  <keys prop="Description" type="monster" key="p02_9_0_0016_Request_Text" value="Os Scarlores no submundo são liderados por seu capitão, Van Deken. Assim como os monarcas de Stygaea formaram seu exército, Van Deken construiu suas próprias forças. &lt;br&gt; &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0016_Request_Text_attach_0" value="Van Deken é quem acordou os espíritos e trouxe o caos à floresta e à nossa cidade. Ele ainda não fez nenhum movimento importante contra nós, mas enquanto ele detém o poder, Grimvale está em risco. Precisamos agir primeiro. Reúna seus membros e derrote-o." />
+  <keys prop="Description" type="monster" key="p02_9_0_0016_Accepted_Text" value="Derrote Van Deken, o Capitão do Abismo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0016_Ongoing_Text" value="Van Deken é quem acordou os espíritos e trouxe o caos à floresta e à nossa cidade. Ele ainda não fez nenhum movimento importante contra nós, mas enquanto ele detém o poder, Grimvale está em risco. Precisamos agir primeiro. Reúna seus membros e derrote-o." />
+  <keys prop="Description" type="monster" key="p02_9_0_0016_Complete_Text" value="Soberbo! Mas lembre-se, Stygaea é o reino dos mortos. Aqueles que atacam aqui são seres imortais, e um dia retornarão. Mas quando chegar a hora, estaremos prontos." />
+  <keys prop="Description" type="monster" key="p02_9_0_0017_Title" value="Cadáver da Praga" />
+  <keys prop="Description" type="monster" key="p02_9_0_0017_RewarderDesc" value="Conselho da Missão (Grimvale)" />
+  <keys prop="Description" type="monster" key="p02_9_0_0017_Request_Text" value="As recompensas da Hansdome aguardam aqueles que eliminam cadáveres errantes e corruptos que espalham a praga em Ash Hill. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Ash Hill &lt;/font&gt; &lt;br&gt; &lt;br&gt; Grimvale" />
+  <keys prop="Description" type="monster" key="p02_9_0_0017_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0017_Ongoing_Text" value="Recompensas consideráveis ​​aguardam aqueles que eliminam cadáveres errantes e corruptos que espalham a praga em Ash Hill. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Ash Hill &lt;/font&gt; &lt;br&gt; &lt;br&gt; Grimvale" />
+  <keys prop="Description" type="monster" key="p02_9_0_0017_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0018_Title" value="Alma Amaldiçoada" />
+  <keys prop="Description" type="monster" key="p02_9_0_0018_RewarderDesc" value="Torva" />
+  <keys prop="Description" type="monster" key="p02_9_0_0018_Request_Text" value="Recentemente, os moradores locais estão desaparecendo. Com base nos relatórios que recebemos dos exploradores, parece que eles estão vagando pelo campo de batalha sob o controle de Oruun. &lt;br&gt; &lt;br&gt; Suas almas foram amaldiçoadas e estão além da salvação. Temos que proteger os outros moradores antes que algo trágico aconteça. Essas almas corrompidas devem ser destruídas." />
+  <keys prop="Description" type="monster" key="p02_9_0_0018_Accepted_Text" value="Derrote as almas amaldiçoadas." />
+  <keys prop="Description" type="monster" key="p02_9_0_0018_Ongoing_Text" value="Recentemente, os moradores locais estão desaparecendo. Com base nos relatórios que recebemos dos exploradores, parece que eles estão vagando pelo campo de batalha sob o controle de Oruun. &lt;br&gt; &lt;br&gt; Suas almas foram amaldiçoadas e estão além da salvação. Temos que proteger os outros moradores antes que algo trágico aconteça. Essas almas corrompidas devem ser destruídas." />
+  <keys prop="Description" type="monster" key="p02_9_0_0018_Complete_Text" value="Impedimos que a situação melhore por enquanto, mas ainda me preocupo com os moradores restantes. Espero que nenhum deles seja ultrapassado pelo controle de Oruun. &lt;br&gt; &lt;br&gt; Obrigado pela ajuda." />
+  <keys prop="Description" type="monster" key="p02_9_0_0019_Title" value="[10 Pessoa] O verdadeiro monarca" />
+  <keys prop="Description" type="monster" key="p02_9_0_0019_RewarderDesc" value="Torva" />
+  <keys prop="Description" type="monster" key="p02_9_0_0019_Request_Text" value="Os monarcas de Stygaea eram um ardil! Eles eram uma distração para o Arcano batalhar enquanto Mitanas poderia criar seu esquema final." />
+  <keys prop="Description" type="monster" key="p02_9_0_0019_Request_Text_attach_0" value="&lt;br&gt; &lt;br&gt; Mas quando viramos a maré contra os monarcas, Mitanas percebeu que precisava de algo mais para nos impedir. E assim ele criou Oruun, para ficar entre nós e seus planos. Você não pode derrotar Oruun você mesmo. Reúna seus aliados e ponha fim a esse conflito terrível." />
+  <keys prop="Description" type="monster" key="p02_9_0_0019_Accepted_Text" value="Quando viramos a maré contra os monarcas, Mitanas percebeu que precisava de algo mais para nos parar. E assim ele criou Oruun, para ficar entre nós e seus planos. Você não pode derrotar Oruun você mesmo. Reúna seus aliados e ponha fim a esse conflito terrível." />
+  <keys prop="Description" type="monster" key="p02_9_0_0019_Ongoing_Text" value="Finalmente, Stygaea conhecerá a paz novamente. Os inimigos que você derrotou um dia voltarão, como é a natureza desta terra. Mas da próxima vez, estaremos prontos, e temos que agradecer por isso." />
+  <keys prop="Description" type="monster" key="p02_9_0_0019_Complete_Text" value="Finalmente, Stygaea conhecerá a paz novamente. Os inimigos que você derrotou um dia voltarão, como é a natureza desta terra. Mas da próxima vez, estaremos prontos, e temos que agradecer por isso." />
+  <keys prop="Description" type="monster" key="p02_9_1_0009_Title" value="Espíritos da floresta" />
+  <keys prop="Description" type="monster" key="p02_9_1_0009_RewarderDesc" value="Stan" />
+  <keys prop="Description" type="monster" key="p02_9_1_0009_Request_Text" value="Inúmeras almas estavam hibernando nesta área outrora amaldiçoada, mas, por alguma razão, começaram a acordar. &lt;br&gt; &lt;br&gt; Se todas essas almas acordarem, isso significará caos e perigo para todos. Os esqueletos que tentam assumir o controle da floresta devem ser derrotados antes da tragédia. Você acha que pode derrotar todos eles?" />
+  <keys prop="Description" type="monster" key="p02_9_1_0009_Accepted_Text" value="Destrua os esqueletos acordados na Floresta Ardente." />
+  <keys prop="Description" type="monster" key="p02_9_1_0009_Ongoing_Text" value="Inúmeras almas estavam hibernando nesta área outrora amaldiçoada, mas, por alguma razão, começaram a acordar. &lt;br&gt; &lt;br&gt; Se todas essas almas acordarem, isso significará caos e perigo para todos. Os esqueletos que tentam assumir o controle da floresta devem ser derrotados antes da tragédia. Você acha que pode derrotar todos eles?" />
+  <keys prop="Description" type="monster" key="p02_9_1_0009_Complete_Text" value="Que os mortos descansem verdadeiramente em paz ..." />
+  <keys prop="Description" type="monster" key="p02_9_1_0010_Title" value="Escuridão Invasora" />
+  <keys prop="Description" type="monster" key="p02_9_1_0010_RewarderDesc" value="Conselho da Missão (Grimvale)" />
+  <keys prop="Description" type="monster" key="p02_9_1_0010_Request_Text" value="Recrutar apoiadores para derrotar as sombras do submundo do Scarlore que aparecem perto de Ash Hill, colocando em risco os moradores! Uma recompensa adequada será fornecida àqueles que ajudarem. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Ash Hill &lt;/font&gt; &lt;br&gt; &lt;br&gt; Grimvale" />
+  <keys prop="Description" type="monster" key="p02_9_1_0010_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_1_0010_Ongoing_Text" value="Recrutar apoiadores para derrotar as sombras do submundo do Scarlore que aparecem perto de Ash Hill, colocando em risco os moradores! Uma recompensa adequada será fornecida àqueles que ajudarem. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Ash Hill &lt;/font&gt; &lt;br&gt; &lt;br&gt; Grimvale" />
+  <keys prop="Description" type="monster" key="p02_9_1_0010_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0011_Title" value="Espírito Corrompido" />
+  <keys prop="Description" type="monster" key="p02_9_1_0011_RewarderDesc" value="Conselho da Missão (Grimvale)" />
+  <keys prop="Description" type="monster" key="p02_9_1_0011_Request_Text" value="Quem derrotar o andarilho sem alma, seu amor e quem o controlar, Jack Danger, receberá um prêmio. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Ash Hill &lt;/font&gt; &lt;br&gt; &lt;br &gt; Grimvale" />
+  <keys prop="Description" type="monster" key="p02_9_1_0011_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_1_0011_Ongoing_Text" value="Quem derrotar o andarilho sem alma, seu amor e quem o controlar, Jack Danger, receberá um prêmio. &lt;br&gt; &lt;br&gt; &lt;font color = &quot;1a4c53&quot;&gt; Localização: Ash Hill &lt;/font&gt; &lt;br&gt; &lt;br &gt; Grimvale" />
+  <keys prop="Description" type="monster" key="p02_9_1_0011_Complete_Text" value="Reivindicar sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_1_0012_Title" value="Peão de Batalha" />
+  <keys prop="Description" type="monster" key="p02_9_1_0012_RewarderDesc" value="Torva" />
+  <keys prop="Description" type="monster" key="p02_9_1_0012_Request_Text" value="Você deve entrar no campo de batalha para derrotar Oruun, mas os magos bloqueiam a entrada. Não será fácil. &lt;br&gt; &lt;br&gt; Após investigação, descobrimos que os magos possuem algo que lhes permite controlar o campo de batalha. Derrote os magos e traga o dispositivo para mim." />
+  <keys prop="Description" type="monster" key="p02_9_1_0012_Accepted_Text" value="Derrote os magos na entrada do campo de batalha e volte com o dispositivo." />
+  <keys prop="Description" type="monster" key="p02_9_1_0012_Ongoing_Text" value="Você deve entrar no campo de batalha para derrotar Oruun, mas os magos bloqueiam a entrada. Não será fácil. &lt;br&gt; &lt;br&gt; Após investigação, descobrimos que os magos possuem algo que lhes permite controlar o campo de batalha. Derrote os magos e traga o dispositivo para mim." />
+  <keys prop="Description" type="monster" key="p02_9_1_0012_Complete_Text" value="Agora é muito mais fácil entrar no campo de batalha. Obrigado." />
+  <keys prop="Description" type="monster" key="p02_9_0_0020_Title" value="[Global] [Solo] Batalha de Vantara Manastone" />
+  <keys prop="Description" type="monster" key="p02_9_0_0020_RewarderDesc" value="Mago da Mesa Redonda" />
+  <keys prop="Description" type="monster" key="p02_9_0_0020_Request_Text" value="As manastones Vantara contêm poderes diferentes dos que já vimos em Midellas. Acredita-se que suas origens residam no reino demoníaco, pois seu poder tem um custo terrível, muitas vezes fatal. O Arcano considerou as manastones uma ameaça que deve ser destruída." />
+  <keys prop="Description" type="monster" key="p02_9_0_0020_Request_Text_attach_0" value="No entanto, a atração de seu poder leva as pessoas a pegá-las e escondê-las em locais de conflito. Se você encontrar uma manastona de Vantara em Stygaea, traga-a para mim. Você será recompensado generosamente." />
+  <keys prop="Description" type="monster" key="p02_9_0_0020_Accepted_Text" value="Apenas não permita que o mal da manastone o consuma." />
+  <keys prop="Description" type="monster" key="p02_9_0_0020_Ongoing_Text" value="Sabemos pouco sobre as manastones, além de elas aparecerem em lugares onde o mal é abundante. Isso torna difícil encontrar e destruir as pedras. É por isso que oferecemos uma recompensa considerável para aqueles que nos ajudam a destruir as manastones de Vantara. Traga-me qualquer pedra que encontrar, antes que corrompa outros aventureiros." />
+  <keys prop="Description" type="monster" key="p02_9_0_0020_Complete_Text" value="Se você não completar a missão em 10 minutos, não receberá a recompensa. Por favor, traga de volta para mim antes que o mal da manastona consuma você. Deve ser destruído ... É uma coisa amaldiçoada que não tem lugar neste mundo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_Title" value="Batalha [global] de Vantara Manastone" />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_RewarderDesc" value="Mago da Mesa Redonda" />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_Request_Text" value="O poder das manastones de Vantara confere ao portador uma força incrível. Esse é o fascínio deles, mas tem um custo terrível. Essas manastones não deveriam existir e, portanto, peço sua ajuda para destruí-las." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_Request_Text_attach_0" value="Não será fácil afastar os outros que buscam o poder das manastones, mas se você confiou em aliados, será mais fácil. Eu te desejo sorte." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_Accepted_Text" value="Sem a ajuda dos outros, você achará terrivelmente difícil recuperar a manastona." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_Ongoing_Text" value="Não será fácil afastar os outros que são atraídos pela manastona, por isso encorajo você a reunir seus companheiros para ajudá-lo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_Complete_Text" value="Se você não completar a missão em 10 minutos, não receberá a recompensa. Por favor, traga de volta para mim antes que o mal da manastona consuma você. Deve ser destruído ... É uma coisa amaldiçoada que não tem lugar neste mundo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0022_Title" value="Party] Manastone Interceptação" />
+  <keys prop="Description" type="monster" key="p02_9_0_0022_RewarderDesc" value="NPC para spawn de batalha" />
+  <keys prop="Description" type="monster" key="p02_9_0_0022_Request_Text" value="Inúmeros heróis em Midellas vieram a Stygaea para provar a si mesmos. Alegar vitória nas batalhas de Vantara Manastone é a nova marca de glória para eles. Obviamente, reivindicar uma vitória por conta própria é ainda melhor! Derrote um herói rival que pegou a manastona de Vantara e prove sua força! &lt;br&gt; &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0022_Request_Text_attach_0" value="Para se tornar o melhor, você deve derrotar o melhor. Aqueles que se provarem em batalha campal serão recompensados!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0022_Accepted_Text" value="Derrote um herói rival e reivindique sua manastone." />
+  <keys prop="Description" type="monster" key="p02_9_0_0022_Ongoing_Text" value="É preciso coragem para desafiar os fortes. Mas é precisamente essa coragem que lhe trará a vitória! Derrote um herói rival e arranque a manastone deles." />
+  <keys prop="Description" type="monster" key="p02_9_0_0022_Complete_Text" value="A missão pode ser concluída após a conclusão de uma batalha de manastone. No entanto, se sua guilda obtiver a vitória na batalha, essa missão será perdida automaticamente. Aqui está a recompensa para aqueles que provam sua força." />
+  <keys prop="Description" type="monster" key="p02_9_0_0023_Title" value="[Solo] Batalha de Vantara Manastone" />
+  <keys prop="Description" type="monster" key="p02_9_0_0023_RewarderDesc" value="Mago da Mesa Redonda" />
+  <keys prop="Description" type="monster" key="p02_9_0_0023_Request_Text" value="As manastones Vantara contêm poderes diferentes dos que já vimos em Midellas. Acredita-se que suas origens residam no reino demoníaco, pois seu poder tem um custo terrível, muitas vezes fatal. O Arcano considerou as manastones uma ameaça que deve ser destruída." />
+  <keys prop="Description" type="monster" key="p02_9_0_0023_Request_Text_attach_0" value="No entanto, a atração de seu poder leva as pessoas a pegá-las e escondê-las em locais de conflito. Se você encontrar uma manastona de Vantara em Exarahn, traga-a para mim. Você será recompensado generosamente." />
+  <keys prop="Description" type="monster" key="p02_9_0_0023_Accepted_Text" value="Apenas não permita que o mal da manastone o consuma." />
+  <keys prop="Description" type="monster" key="p02_9_0_0023_Ongoing_Text" value="Sabemos pouco sobre as manastones, além de elas aparecerem em lugares onde o mal é abundante. Isso torna difícil encontrar e destruir as pedras. É por isso que oferecemos uma recompensa considerável para aqueles que nos ajudam a destruir as manastones de Vantara. Traga-me qualquer pedra que encontrar, antes que corrompa outros aventureiros." />
+  <keys prop="Description" type="monster" key="p02_9_0_0023_Complete_Text" value="Se você não completar a missão em 10 minutos, não receberá a recompensa. Por favor, traga de volta para mim antes que o mal da manastona consuma você. Deve ser destruído ... É uma coisa amaldiçoada que não tem lugar neste mundo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0024_Title" value="Batalha de Vantara Manastone" />
+  <keys prop="Description" type="monster" key="p02_9_0_0024_RewarderDesc" value="Mago da Mesa Redonda" />
+  <keys prop="Description" type="monster" key="p02_9_0_0024_Request_Text" value="O poder das manastones de Vantara confere ao portador uma força incrível. Esse é o fascínio deles, mas tem um custo terrível. Essas manastones não deveriam existir e, portanto, peço sua ajuda para destruí-las." />
+  <keys prop="Description" type="monster" key="p02_9_0_0024_Request_Text_attach_0" value="Não será fácil afastar os outros que buscam o poder das manastones, mas se você confiou em aliados, será mais fácil. Eu te desejo sorte." />
+  <keys prop="Description" type="monster" key="p02_9_0_0024_Accepted_Text" value="Sem a ajuda dos outros, você achará terrivelmente difícil recuperar a manastona." />
+  <keys prop="Description" type="monster" key="p02_9_0_0024_Ongoing_Text" value="Não será fácil afastar os outros que são atraídos pela manastona, por isso encorajo você a reunir seus companheiros para ajudá-lo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0024_Complete_Text" value="Se você não completar a missão em 10 minutos, não receberá a recompensa. Por favor, traga de volta para mim antes que o mal da manastona consuma você. Deve ser destruído ... É uma coisa amaldiçoada que não tem lugar neste mundo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0025_Title" value="[Party] Manastone Interceptação" />
+  <keys prop="Description" type="monster" key="p02_9_0_0025_RewarderDesc" value="NPC para spawn de batalha" />
+  <keys prop="Description" type="monster" key="p02_9_0_0025_Request_Text" value="Inúmeras guildas em Midellas vieram a Exarahn para provar a si mesmas. Alegar vitória nas batalhas de Vantara Manastone é a nova marca de glória para eles. Obviamente, reivindicar uma vitória por conta própria é ainda melhor! Derrote um membro da guilda rival que pegou a manastona de Vantara e prove sua força! &lt;br&gt; &lt;br&gt;" />
+  <keys prop="Description" type="monster" key="p02_9_0_0025_Request_Text_attach_0" value="Para se tornar o melhor, você deve derrotar o melhor. Aqueles que se provarem em batalha campal serão recompensados!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0025_Accepted_Text" value="Derrote um membro da guilda rival e reivindique sua manastona." />
+  <keys prop="Description" type="monster" key="p02_9_0_0025_Ongoing_Text" value="É preciso coragem para desafiar os fortes. Mas é precisamente essa coragem que lhe trará a vitória! Derrote um membro da guilda rival e arranque a manastona deles." />
+  <keys prop="Description" type="monster" key="p02_9_0_0025_Complete_Text" value="A missão pode ser concluída após a conclusão de uma batalha de manastone. No entanto, se sua guilda obtiver a vitória na batalha, essa missão será perdida automaticamente. Aqui está a recompensa para aqueles que provam sua força." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_1_Title" value="Batalha [global] de Vantara Manastone" />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_1_RewarderDesc" value="Mago da Mesa Redonda" />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_1_Request_Text" value="O poder das manastones de Vantara confere ao portador uma força incrível. Esse é o fascínio deles, mas tem um custo terrível. Essas manastones não deveriam existir e, portanto, peço sua ajuda para destruí-las." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_1_Request_Text_attach_0" value="Não será fácil afastar os outros que buscam o poder das manastones, mas se você confiou em aliados, será mais fácil. Eu te desejo sorte." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_1_Accepted_Text" value="Sem a ajuda dos outros, você achará terrivelmente difícil recuperar a manastona." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_1_Ongoing_Text" value="Não será fácil afastar os outros que são atraídos pela manastona, por isso encorajo você a reunir seus companheiros para ajudá-lo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0021_1_Complete_Text" value="Se você não completar a missão em 10 minutos, não receberá a recompensa. Por favor, traga de volta para mim antes que o mal da manastona consuma você. Deve ser destruído ... É uma coisa amaldiçoada que não tem lugar neste mundo." />
+  <keys prop="Description" type="monster" key="p02_9_0_0026_Title" value="[Anúncio] Caminho da Força: Vigor" />
+  <keys prop="Description" type="monster" key="p02_9_0_0026_RewarderDesc" value="Quadro de Missões do Portão do Conquistador" />
+  <keys prop="Description" type="monster" key="p02_9_0_0026_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Derrote os lobisomens machos e fêmeas! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0026_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0026_Ongoing_Text" value="Derrote os lobisomens masculinos e femininos." />
+  <keys prop="Description" type="monster" key="p02_9_0_0026_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0027_Title" value="[Anúncio] Caminho da Força: Tenacidade" />
+  <keys prop="Description" type="monster" key="p02_9_0_0027_RewarderDesc" value="Conselho de Missão do Acampamento da Lua Sangrenta" />
+  <keys prop="Description" type="monster" key="p02_9_0_0027_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Derrote a infantaria esquelética! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0027_Accepted_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0027_Ongoing_Text" value="Derrote a infantaria do esqueleto." />
+  <keys prop="Description" type="monster" key="p02_9_0_0027_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0028_Title" value="[Anúncio] Caminho da Força: Tenacidade Incomum" />
+  <keys prop="Description" type="monster" key="p02_9_0_0028_RewarderDesc" value="Conselho da Missão do Acampamento Carmesim" />
+  <keys prop="Description" type="monster" key="p02_9_0_0028_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Derrote os guerreiros Linight! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0028_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0028_Ongoing_Text" value="Derrote os guerreiros Linight." />
+  <keys prop="Description" type="monster" key="p02_9_0_0028_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0029_Title" value="[Anúncio] Caminho da força: pode" />
+  <keys prop="Description" type="monster" key="p02_9_0_0029_RewarderDesc" value="Conselho de Missão da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_0_0029_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Derrote o espectro azul! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0029_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0029_Ongoing_Text" value="Derrote o espectro azul." />
+  <keys prop="Description" type="monster" key="p02_9_0_0029_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0030_Title" value="[Anúncio] Caminho da Força: Fervor" />
+  <keys prop="Description" type="monster" key="p02_9_0_0030_RewarderDesc" value="Conselho de Missão da Vila Freemen" />
+  <keys prop="Description" type="monster" key="p02_9_0_0030_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Traga a pedra do selo de Sharack para mim como prova! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0030_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0030_Ongoing_Text" value="Obtenha a pedra do selo de Sharack." />
+  <keys prop="Description" type="monster" key="p02_9_0_0030_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0031_Title" value="[Anúncio] Caminho da Força: Resistência" />
+  <keys prop="Description" type="monster" key="p02_9_0_0031_RewarderDesc" value="Trigg's Pub Mission Board" />
+  <keys prop="Description" type="monster" key="p02_9_0_0031_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Derrote ladrões e ladrões da Estíria! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0031_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0031_Ongoing_Text" value="Derrote ladrões e ladrões Stygaeanos." />
+  <keys prop="Description" type="monster" key="p02_9_0_0031_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0032_Title" value="[Anúncio] Caminho da Força: Vitalidade" />
+  <keys prop="Description" type="monster" key="p02_9_0_0032_RewarderDesc" value="Trigg's Pub Mission Board" />
+  <keys prop="Description" type="monster" key="p02_9_0_0032_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Derrote Dendran! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0032_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0032_Ongoing_Text" value="Derrote Dendran." />
+  <keys prop="Description" type="monster" key="p02_9_0_0032_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_9_0_0033_Title" value="[Anúncio] Caminho da Força: Tenacidade Incomum" />
+  <keys prop="Description" type="monster" key="p02_9_0_0033_RewarderDesc" value="Conselho da Missão Grimvale" />
+  <keys prop="Description" type="monster" key="p02_9_0_0033_Request_Text" value="Você também pode se tornar um modelo de força e poder! &lt;br&gt; É fácil! Derrote os guardas amaldiçoados! &lt;br&gt; &lt;br&gt; Se você provar sua força, eu lhe darei uma recompensa digna. Aceite o desafio sempre que quiser!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0033_Accepted_Text" value="" />
+  <keys prop="Description" type="monster" key="p02_9_0_0033_Ongoing_Text" value="Derrote os guardas amaldiçoados." />
+  <keys prop="Description" type="monster" key="p02_9_0_0033_Complete_Text" value="Você provou sua força. Como prometido, aqui está sua recompensa." />
+  <keys prop="Description" type="monster" key="p02_1_1_0066_Title" value="[Evento] Gosto emocionante de piranha" />
+  <keys prop="Description" type="monster" key="p02_1_1_0066_RewarderDesc" value="Yura (roupa de banho de pesca)" />
+  <keys prop="Description" type="monster" key="p02_1_1_0066_Request_Text" value="Saudações aventureiro! Você veio pescar neste dia quente de verão? &lt;br&gt; Em um dia tão quente, é difícil capturar peixes ... a menos que sejam peixes que vivem em regiões tropicais. &lt;br&gt; &lt;br&gt; Certo! Eu esqueci! De fato, existe um peixe que vive nos trópicos! Você me faria o favor de pegar uma piranha para mim?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0066_Request_Text_01" value="&lt;br&gt; &lt;br&gt; Eles parecem um pouco assustadores, eu sei, mas eu ouvi dizer que o sabor é algo bastante! Eu realmente adoraria provar. Você estaria disposto a me ajudar?" />
+  <keys prop="Description" type="monster" key="p02_1_1_0066_Accepted_Text" value="Por favor, pegue uma piranha para mim!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0066_Ongoing_Text" value="Por favor, pegue uma piranha para mim!" />
+  <keys prop="Description" type="monster" key="p02_1_1_0066_Complete_Text" value="Uau! Então essa é uma piranha ... Parece realmente assustadora! &lt;br&gt; E agora para provar! &lt;br&gt; &lt;br&gt; (Crunch ... Crunch ...) &lt;br&gt; &lt;br&gt; Blegh! Isso é nojento. Eu esperava que tivesse um gosto requintado ... &lt;br&gt; Mas você trabalhou tão duro para me pegar esse peixe. &lt;br&gt; Aqui, pegue isso! É um presente para mostrar minha gratidão. Por favor, aproveite este maravilhoso dia de verão!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0034_Title" value="Criaturas de arrepiar os cabelos" />
+  <keys prop="Description" type="monster" key="p02_9_0_0034_RewarderDesc" value="Noel" />
+  <keys prop="Description" type="monster" key="p02_9_0_0034_Request_Text" value="É terrível! Peixes perigosos foram descobertos no buraco da pesca! Qualquer um que entrar na água estará em perigo. &lt;br&gt; &lt;br&gt; Você seria gentil em usar sua incrível habilidade de pescar para pegar enguias elétricas e esturjões assassinos? É para a segurança de todos!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0034_Accepted_Text" value="Por favor, pegue as enguias elétricas e esturjões assassinos!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0034_Ongoing_Text" value="Por favor, pegue as enguias elétricas e esturjões assassinos!" />
+  <keys prop="Description" type="monster" key="p02_9_0_0034_Complete_Text" value="Enguias elétricas e esturjões assassinos no buraco da pesca ... Como isso aconteceu? É tão assustador ... &lt;br&gt; &lt;br&gt; Graças ao seu trabalho duro, todos estão mais uma vez a salvo do mal! Muito obrigado!" />
+</files>

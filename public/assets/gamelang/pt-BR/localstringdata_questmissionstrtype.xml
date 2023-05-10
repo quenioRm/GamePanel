@@ -1,2 +1,650 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<files />
+<files>
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_0" value="Fale com [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_1" value="Derrote [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_2" value="Obtenha [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_3" value="Encontre [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_4" value="Escolte [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_5" value="Reporte para [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_6" value="Fale com [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_7" value="Use [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_8" value="Destrua [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_9" value="Procure [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_10" value="Vá para [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_11" value="Equipar [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_12" value="Resgatar Chapley Singer" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_13" value="Entregue [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_14" value="Entregue os itens para [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_15" value="Interrompa [NAME2]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_16" value="Use [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_17" value="Dome [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_18" value="Aprenda [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_19" value="Entregue os itens para [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_20" value="Encha a Esfera de Talento com poder" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_21" value="Equipar [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_22" value="Lute com [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_23" value="Lute com [NAME] enquanto montado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_24" value="Defenda [NAME] [NAME2]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_25" value="Todos devem sobreviver" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_26" value="Escape da prisão" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_27" value="Compre [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_28" value="Necessita [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_29" value="Apague o fogo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_30" value="Tratar Ferido" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_31" value="Coloque [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_32" value="Coletar Água" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_33" value="Torture [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_34" value="Alimente [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_35" value="Use [NAME] para Revelar os Fantasmas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_36" value="Derrote as Tropas de Combate de Braghin com a Lança do Dragão" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_37" value="Lacre a Rena das Ruínas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_38" value="Verifique [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_39" value="Coloque [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_40" value="Apague o fogo da carroça" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_41" value="Parabéns. Você completou todas as missões de Icarus G☆STAR." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_42" value="Encontre Corvo na Estação dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_43" value="Recupere o martelo de Cullaghan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_44" value="Fale com Yulnus na Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_45" value="Procure por Kha acima do vórtex" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_46" value="Use o sinalizador" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_47" value="Fale com Poe na Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_48" value="Colete ovos do Ninho de Flotier " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_49" value="Examine a Estátua de Anjo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_50" value="Alcance o Nível [NAME] " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_51" value="Escolte Drex para o Bosque de Kell" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_52" value="Recupere a ficha do Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_53" value="Resista ao ataque da Legião Caída por 2 minutos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_54" value="Defina o local de retorno" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_55" value="Leve Luna para Curtis" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_56" value="Vá para a Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_57" value="Vá para a Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_58" value="Compre [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_59" value="Obtenha a Ajuda de Tieli" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_60" value="Dome um Bico Flamejante de Caldeira na Caldeira Quebrada" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_61" value="Use a Promessa de Ellora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_62" value="Faça Fricção de [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_63" value="Fale com Corvo na Salão de Guerra" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_64" value="Leve o Livro ao Capitão Melvin Haan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_65" value="Derrote o Espectro das Ruínas com Kahntaris" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_66" value="Destrua a Barreira Anciã" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_67" value="Encontre Corvo no Posto da Floresta da Luz Trêmula" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_68" value="Fala com o Rei na Câmara de Audiência Real" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_69" value="Destrua as Balistas Braghin" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_70" value="Derrote os Lacaios do Espectro das Ruínas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_71" value="Destrua as Barricadas Braghin com um Cortador Ascendente Totalmente Carregado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_72" value="Abençoe os soldados com a Marca de Ellora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_73" value="Ataque o Soldado Mestre Braghin com a Marca de Ellora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_74" value="Detone os Explosivos Braghin Acumulando 2 Explosão de Chamas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_75" value="Use Adaga Apressada em um mensageiro após Arrancada Ágil" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_76" value="Use Batida com Escudo em um Braghin Lutador" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_77" value="Use [NAME] no Bairro do Rio" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_78" value="Siga Ekaterina" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_79" value="Disparar Canhões" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_80" value="Derrote os Piratas Anciãos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_81" value="Derrote os Aguls" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_82" value="Entregue Alimentos aos Soldados" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_83" value="Repare a Paliçada Quebrada" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_84" value="Entregue a Carta de Rumio para Julemme" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_85" value="Entregue a Carta de Julemme para Rumio" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_86" value="Leve a Carta de Aisha para Tatara" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_87" value="Derrotar Aguls e obtenha uma Mancha de Sangue de Feras" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_88" value="Obtenha a Erva Venenosa" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_89" value="Coloque a Face da Deusa no santuário" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_90" value="Cace o Yeti" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_91" value="Recupere a Comida Crokhoon" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_92" value="Cante junto com uma Canção da Sereia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_93" value="Reviva a Árvore Brilhante" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_94" value="Reviva a Árvore da Neve" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_95" value="Vá para Farlark" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_96" value="Resgate o Crokhoon Congelado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_97" value="Derrote o Merumi Irritado na Caverna Misteriosa" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_98" value="Sele [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_99" value="Destrua as Barreiras das Ruínas do Norte" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_100" value="Encontre Aisha em Farlark" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_101" value="Escute Rondo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_102" value="Salve Merumi" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_103" value="Dê a Julemme o anel feito por Rumio" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_104" value="Entre nas Ruínas do Sul" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_105" value="Use o Extrator Nível 10" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_106" value="Encontre a bengala escondida por Junco" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_107" value="Dê ao chefe o taco de madeira ao invés da bengala" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_108" value="Encontre e derrote o sacerdote que colocou a maldição" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_109" value="Derrote 20 Piratas Karade" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_110" value="Corte madeira e faça figuras de madeira" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_111" value="Liberte Paul Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_112" value="Destrua o boneco de vodu" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_113" value="Derrote outro jogador" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_114" value="Colete [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_115" value="Expanda o Armazenamento de Familiares" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_116" value="Despeje água em [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_117" value="Aprenda [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_118" value="Libere o Veneno Entorpecente na Ração de Batalha" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_119" value="Remova [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_120" value="Roube [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_121" value="Destrua canhões" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_122" value="Crie [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_123" value="Derrote a Transformação de Exarahn" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_124" value="Derrote Jack de Exarahn" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_125" value="Derrote Clakey" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_126" value="Elimine Aranhas nas Ruínas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_127" value="Complete 5 missões para Corvo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_128" value="Ligue [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_129" value="Derrote a Legião Caída" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_130" value="Derrote a Guarda Gélida" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_131" value="Utilize o Santuário de Mundos para a Região de Terras Altas de Hakanas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_132" value="Alcance o Nível [NAME] para se Tornar um Cavaleiro Errante" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_133" value="Alcance o Nível [NAME] para Provar-se Digno" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_134" value="Alcance o Nível [NAME] para se Tornar um Escudeiro Cavaleiro de Pégaso" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_135" value="Alcance o Nível [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_136" value="Elimine os Khabimistas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_137" value="Dê a bênção de Kiki" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_138" value="Verificar Cadáver" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_139" value="Enfrente os fogos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_140" value="Entre na Torre dos Quatro Deuses Principais" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_141" value="Interrompa o Ritual de Rondo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_142" value="Derrote Khabim Tece-feitiços e seu aprendiz" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_143" value="Derrote o Chefe Sinthan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_144" value="Encontre e derrote o Chefe Sinthan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_145" value="Compre Comida Deliciosa de Roin Teslow" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_146" value="Compre a Boneca Bonita de Jackson" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_147" value="Compre Sapatos Quentes de Chuck Bale" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_148" value="Compre a Boneca Medonha de Sharon" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_149" value="Compre os Fósforos de Trima" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_150" value="Compre Anel Desleixado de Pommeri" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_151" value="Derrote Agul do Lago da Luz de Prata" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_152" value="Derrote Merumis Enfurecidos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_153" value="Derrote o Lobo Azul" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_154" value="Recupere as Balas de Canhão" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_155" value="Criar Alquimia: Escama de Bolha com materiais de Zenkit e Skalion" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_156" value="Obtenha a Escama de Zenkit" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_157" value="Obtenha a Bolsa de Bolhas de Skalion" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_158" value="Elimine [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_159" value="Crie e então Doe [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_160" value="Verifique o Cadáver" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_161" value="Compre Maçã de Roin Teslow" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_162" value="Obtenha a Prata Branca Purificada de Droan e Troa'ruun" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_163" value="Obtenha Moedas da Torre Gélida Antigas de Shahon" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_164" value="Investigue o Caco de Espelho de Água" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_165" value="Entregue [NAME] para Van Owen" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_166" value="Absorva [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_167" value="Dê a Flor da Neve Cherpa para Rômulo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_168" value="Encontre Ferrell" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_169" value="Encontre Spree" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_170" value="Derrote a Gárgula" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_171" value="Derrote o Soldado Izhora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_172" value="Derrote o Tenente Izhora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_173" value="Obtenha os Elementos Sinistros" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_174" value="Obtenha os Elementos Selvagens" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_175" value="Obtenha os Elementos Encantados" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_176" value="Traga o Relicário de Ellora para Robinson" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_177" value="Derrote o Conselheiro de Izhora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_178" value="Encontre o Santuário do Eclipse de Robinson e obtenha um Conjunto de Espécie Familiar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_179" value="Obtenha os Materiais de Passe de Translocação de Robinson" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_180" value="Obtenha o Pó da Deusa de Robinson" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_181" value="Obtenha uma Pedra de Feitiço Possuída dos Soldados da Brecha" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_182" value="Obtenha um Cristal de Terra na missão do Hopman" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_183" value="Derrote o Peão Caótico e Subalternos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_184" value="Derrote o General Izhora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_185" value="Derrote [NAME] com Membros do Grupo com Nível Baixo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_186" value="Alcance o Nível [NAME] com outro personagem" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_187" value="Dê a Flor da Neve Cherpa para Rômulo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_188" value="Vá até a Fenda de Tritael através de Blaider" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_189" value="Derrote as Feras das Encostas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_190" value="Derrote os Saqueadores Skan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_191" value="Colete o emblema de Guerreiro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_192" value="Recupere a Essência do Tempo derrotando conjuradores menores" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_193" value="Colete informações de Ketern" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_194" value="Investigue a transformação das fadas do oceano" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_195" value="Recupere a Essência do Tempo derrotando soldados da Guarda Gélida" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_196" value="Derrote os Espíritos de Água" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_197" value="Derrote os Esqueletos Amaldiçoados" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_198" value="Derrote os Yetis de Gelo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_199" value="Colete a Lista de Verificação de Presença dos Comerciantes da Lua Crescente" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_200" value="Colete as peças dos Sete Pecados de Exarahn" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_201" value="Colete as peças do Livro Ancião de Exarahn" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_202" value="Obtenha a Pedra-Lacre de Grudd" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_203" value="Obtenha a Pedra-Lacre de Fúria" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_204" value="Obtenha a Pedra-Lacre de Sonos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_205" value="Obtenha a Pedra-Lacre de Abritus" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_206" value="Obtenha a Pedra-Lacre de Nivah" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_207" value="Obtenha a Pedra-Lacre de Ingid" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_208" value="Obtenha a Pedra-Lacre de Ura" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_209" value="Repare [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_210" value="Investigue [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_211" value="Queime [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_212" value="Recupere [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_213" value="Abra [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_214" value="Entregue a Caixa de Veneno para Gernan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_215" value="Forneça água para os aldeãos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_216" value="Faça [NAME] se render" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_217" value="Colete [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_218" value="Colete [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_219" value="Envenene a Comida dos Mercenários" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_220" value="Reúna os Trabalhadores Descansando" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_221" value="Proteja os Materiais de Construção" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_222" value="Pergunte sobre os Testes de Voo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_223" value="Complete a Rota de Voo do Desafiante no Limite de Tempo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_224" value="Encontre Kaal" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_225" value="Defenda Kaal" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_226" value="Neutralize [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_227" value="Entregue a Identificação e a Carta para Samira" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_228" value="Vingue o Guarda de Alseik" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_229" value="Mate as Cobras" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_230" value="Ataque o Posto de Mohaban" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_231" value="Vá para o Berço de Pesadelos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_232" value="Pergunte ao Kendall sobre os Pilares Elementais" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_233" value="Fortaleça [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_234" value="Entregue o Retrato de Yusei para Hasisi" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_235" value="Entregue a Caveira de Yusei para Hasisi" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_236" value="Retorne para Yusei" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_237" value="Vingue os seus companheiros" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_238" value="Entregue a oferta do comerciante a Bartolo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_239" value="Examine Carcaças" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_240" value="Colete Amostras" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_241" value="Alerte o Pico Dourado sobre a Epidemia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_242" value="Derrote Lutadores para Mostrar seu Poder" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_243" value="Derrote os Xamãs para Provar sua Sabedoria" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_244" value="Puna [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_245" value="Dê a Carta de Recomendação do Clã para Nurr" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_246" value="Recupere [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_247" value="Dê o Presente da Princesa Lania para os Cavaleiros de Grifo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_248" value="Invoque Espíritos de Pedra" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_249" value="Dê o Presente para Liaven" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_250" value="Dê o Presente de Liaven para Damay" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_251" value="Encontre [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_252" value="Resgate [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_253" value="Adicione Especiarias ao Pote de Naiya" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_254" value="Aprecie o Trabalho Póstumo de Claudel" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_255" value="Obtenha o Tesouro Enterrado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_256" value="Colete cobre para consertar a caixa de música" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_257" value="Colete mithril para consertar a caixa de música" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_258" value="Colete raiz de koor para consertar a caixa de música" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_259" value="Colete partes para consertar a caixa de música" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_260" value="Devolva a caixa de música para [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_261" value="Restaure a Estátua do Desafiante da Rota de Voo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_262" value="Colete Cabeças de Estátuas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_263" value="Aprenda sobre os Colecionadores" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_264" value="Derrote Mandrake" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_265" value="Viaje para o Deserto da Imortalidade via Lamut" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_266" value="Colete a Pedra-Lacre de [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_267" value="Ouça a História de Sherid" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_268" value="Mande o Corvo para o Quartel Genral da Ordem Ônix" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_269" value="Presente para o Kenkliff, Rei do Deserto" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_270" value="Defenda a Caravana" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_271" value="Colete os Documentos do Dia das Bruxas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_272" value="Investigue o Baú de Maha'tuul" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_273" value="Encontre Pistas sobre os Mercenários Suspeitos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_274" value="Encontre [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_275" value="Encontre o Colecionador Desaparecido" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_276" value="Troque Moedas Lebrini de Prata por Moedas Lebrini de Ouro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_277" value="Troque Moedas de Exarahn por Moedas de Exarahn de Ouro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_278" value="Encontre o Diário Abandonado de Kaal" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_279" value="Sobreviva à ofensiva dos espíritos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_280" value="Encontre a Garota do Deserto" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_281" value="Colete as bolsas de moedas dos comerciantes com os mercenários na estação" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_282" value="Crie ou tenha [NAME] como um presente" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_283" value="Recupere o Martelo do Ferreiro do Espadachim Mercenário" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_284" value="Recupere o Frasco do Alquimista do Socorrista Mercenário" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_285" value="Recupere as Especiarias do Chefe do Mercenário Espião" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_286" value="Recupere a Forma de Anel do Joalheiro do SaqueadorMercenário" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_287" value="Escute [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_288" value="Alcance o Nível [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_289" value="Compre ou tenha [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_290" value="Crie ou Colete [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_291" value="Colete [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_292" value="Revele [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_293" value="Peça a Turokhan para interpretar as ordens" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_294" value="Santifique [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_295" value="Colete [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_296" value="Encontre Chimer no Templo de Haracrow" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_297" value="Desmascare o soldado da Legião Caída disfarçado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_298" value="Entregue o Diagrama para Moh'ruun" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_299" value="Entregue a Chave da Barreira para Chimer" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_300" value="Desligue a Incubadora da Legião Caída" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_301" value="Invada a Torre e Resgate Lania" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_302" value="Mostre o Mármore de Cristal da Princesa Lania para Chimer" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_303" value="Mostre a Garra do Urso Fantasma para [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_304" value="Use o Prato de Chamas para Receber uma Visão" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_305" value="Resgate o Cavaleiro de Grifo Capturado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_306" value="Derrote as Feras de Guerra Crokhoon" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_307" value="Conclua [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_308" value="Use [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_309" value="Cure [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_310" value="Resgate o cavaleiro do Círculo Mágico Imortal" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_311" value="Incinere [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_312" value="Incendeie [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_313" value="Encontre Shufferan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_314" value="Obtenha Penas de Grifo dos Caçadores Crokhoon" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_315" value="Entre no Templo Arruinado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_316" value="Recupere os Restos das Vítimas das Aranhas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_317" value="Obtenha a Pedra com Energia Sagrada ao derrotar o Guardião do Altar de Fogo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_318" value="Dome [NAME] e Obtenha sua Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_319" value="Dome [NAME] e Obtenha sua Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_320" value="Dome [NAME] e Obtenha sua Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_321" value="Dome [NAME] e Obtenha sua Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_322" value="Dome [NAME] e Obtenha sua Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_323" value="Abra a Jaula de Fera" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_324" value="Verificar Recompensas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_325" value="Dome e sele [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_326" value="Varra o Refúgio dos Mortos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_327" value="Saqueie [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_328" value="Encontre a alma sem luz" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_329" value="Injete sangue dos vivos na Esfera Vampírica" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_330" value="Injete sangue na Marca Esmaecida" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_331" value="Viaje para Stygaea e Procure por Fabri" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_332" value="Fale com Gilotte para ir ao Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_333" value="Derrote Aurea e resgate os anciãos sequestrados" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_334" value="Escape com o Corvel Ancião" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_335" value="Recupere a Pedra Sagrada da Coragem de Sayner" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_336" value="Use a Tocha de Purificação para purificar a floresta" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_337" value="Mostre o Anel da Dama a Belon" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_338" value="Recupere [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_339" value="Investigue o Dryath Jovem" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_340" value="Entregue Carne de Dryath a Periot" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_341" value="Procure pelo Colecionador Desaparecido" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_342" value="Distribua medicamentos para os feridos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_343" value="Entregue a Carta de Katshu para Jukel" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_344" value="Consiga uma pista com [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_345" value="Encontre Milton" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_346" value="Colete Água da Cachoeira Celestina" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_347" value="Entregue a Carta de Romadia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_348" value="Procure por Suprimeiros Roubados" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_349" value="Continue Procurando" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_350" value="Entregue a Resposta à Romadia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_351" value="Remova [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_352" value="Varra o Cemitério" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_353" value="Trate [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_354" value="Encontre Idios" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_355" value="Pergunte a Malo sobre Carne de Dryath" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_356" value="Encontre o Outro Colecionador" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_357" value="Derrote Condor para Limpar o Caminho" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_358" value="Entregue o Relatório para Rumian" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_359" value="Entregue o Amuleto para Glover" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_360" value="Capture [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_361" value="Interrogue Skira" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_362" value="Entregue o Banquete ao Brandior Ancião" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_363" value="Entregue a Recomendação de Brandior" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_364" value="Encontre a Assistente de Romadia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_365" value="Entregue os Resultados para Romadia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_366" value="Entregue a Oferta da Sociedade para Romadia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_367" value="Investigue o Bosque do Ancião" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_368" value="Queime [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_369" value="Recupere a Pedra Sagrada da Clarividência do Baú" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_370" value="Recupere a Pedra Demoníaca do Santuário Esquecido" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_371" value="Entregue a Pista de Eldon para Iouda" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_372" value="Saqueie a Caverna em Drant" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_373" value="Saqueie a Balista do Elfo do Caos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_374" value="Carregue a Balista dos Elfos da Luz" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_375" value="Entregue a Relíquia Amaldiçoada para Peritos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_376" value="Distribua medicamentos para os Cavaleiros do Dragão Feridos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_377" value="Enfraqueça a Rena Corrompida e então Use a Poção Cataclísmica" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_378" value="Queime os Cadáveres dos Elfos do Caos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_379" value="Vá para Eldorr via Duron e Encontre Wentus" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_380" value="Procure por Perseguidores para o Talismã do Crepúsculo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_381" value="Entregue o Baú de Milton para Jukel" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_382" value="Recupere o Talismã de um Mago do Vendaval Sombrio" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_383" value="Derrote o Golem Guardião" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_384" value="Destrua as Barreiras de Caos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_385" value="Derrote Demociel" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_386" value="Derrote a Emboscada do Elfo do Caos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_387" value="Derrote o Traidor" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_388" value="Olhe ao redor de [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_389" value="Ataque o Pináculo de Ellora - 5° andar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_390" value="Ataque o Pináculo de Ellora - 10° andar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_391" value="Ataque o Pináculo de Ellora - 15° andar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_392" value="Ataque o Pináculo de Ellora - 20° andar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_393" value="Ataque o Pináculo de Ellora - 25° andar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_394" value="Ataque o Pináculo de Ellora - 30° andar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_395" value="Desafie o Pináculo de Ellora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_396" value="Resgate os Aldeões" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_397" value="Trate os Aldeões Envenenados" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_398" value="Saqueie Baús de Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_399" value="Entre no Covil de Ienos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_400" value="Entre no Pináculo de Ellora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_401" value="Engatilhe o Sugador Caótico usando o Golpe Esmagador" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_402" value="Ataque o Braghin Lutador com uma Flecha das Ruínas totalmente carregada." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_403" value="Arma de Ellora e Conjunto da Bênção " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_404" value="Arma de Ellora e Conjunto Perverso " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_405" value="Cuide de [NAME] com um grupo de 6 " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_406" value="Arqueiro com Ação [NAME] " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_407" value="Alcance o Nível 55 como Arqueiro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_408" value="Vista o Conjunto Perverso de Ellora +15 " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_409" value="Vista o Conjunto da Bênção de Ellora +15 " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_410" value="Entre [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_411" value="Tenha [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_412" value="Faça um pedido ao Pilão do Desejo " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_413" value="Conquiste o Pináculo de Ellora - 5º andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_414" value="Conquiste o Pináculo de Ellora - 10º andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_415" value="Conquiste o Pináculo de Ellora - 15º andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_416" value="Conquiste o Pináculo de Ellora - 20º andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_417" value="Conquiste o Pináculo de Ellora - 25º andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_418" value="Conquiste o Pináculo de Ellora - 30º Andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_419" value="Conquiste o Pináculo de Ellora - 35º andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_420" value="Conquiste o Pináculo de Ellora - 40º andar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_421" value="Conquiste o Pináculo de Ellora " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_422" value="Recupere a Pedra de Mana e Entregue-a para Aramath" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_423" value="Ajude sua Guilda a Recuperar a Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_424" value="Derrote o Tripulante Scarlore" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_425" value="Derrote o Peão Amaldiçoado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_426" value="Traga 1x [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_427" value="Traga 2x [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_428" value="Traga 4x [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_429" value="Traga 7x [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_430" value="Elimine um Inimigo que Transporta a Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_431" value="Alcance o Nível 40" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_432" value="Alcance o Nível 50" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_433" value="Alcance o Nível 55" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_434" value="Derrote o Merumi Contaminado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_435" value="Entre na Terra Natal de Merumi" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_436" value="Resgate de Chimer" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_437" value="Derrote [NAME] em uma Masmorra Cross-Server" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_438" value="Viaje para Akrat por Millot" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_439" value="Encontre Roberto nas Ruínas de Karrande" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_440" value="Investigue o Vice-Capitão Honeygold" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_441" value="Vá para a casa de Chimer" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_442" value="Vá para a Aldeia de Hastan pela Lanten" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_443" value="Investigue o Mensageiro Suspeito" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_444" value="Derrote os Piratas Karrad" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_445" value="Vasculhe a casa de Chimer" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_446" value="Encontre os Prisioneiros na Mina" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_447" value="Vá para a Torre de Vigia Abandonada" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_448" value="Ajude um Membro do Seu Servidor a Recuperar a Pedra de Mana" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_449" value="Verifique [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_450" value="Derrote o Aldeão Amaldiçoado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_451" value="Entregue o Kit de Primeiros Socorros a Tuhucha" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_452" value="Dome [NAME] e Obtenha sua Pedra-Lacre" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_453" value="Entre na Mina Braghin" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_454" value="Entre nas Tocas Obscuras" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_455" value="Dizime os Piratas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_456" value="Dizima os Mercenários" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_457" value="Alcance o Nível 60" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_458" value="Após o personagem despertar, use a habilidade Despertar " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_459" value="Verifique o Caixote Quebrado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_460" value="Entre em Stygaea" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_461" value="Dizime os Ladrões" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_462" value="Conquiste o Nível 60" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_463" value="Derrote Attaius" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_464" value="Derrote Jack, o Caçador" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_465" value="Obtenha [NAME] Selado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_466" value="Preste Homenagem a [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_467" value="Entre no Porto Escarlate" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_468" value="Verifique a Pedra Arcaica" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_469" value="Complete uma Masmorra Lendária Nível 40/50" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_470" value="Encontre a origem do barulho nas ruínas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_471" value="Ajude Jaden" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_472" value="Cure Pyro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_473" value="Encontre o Filhote de Fênix" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_474" value="Liberte o filhote de fênix capturado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_475" value="Complete Masmorras Heroicas e Lendárias" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_476" value="Entre no Templo das Areias" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_477" value="Derrote os Filhotes &lt;Dragão da Tempestade&gt;" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_478" value="Tempere [NAME] até +5" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_479" value="Desative o Dispositivo de Controle" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_480" value="Derrote o Duque Ancião e Obtenha a Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_481" value="Entre no Bastião do Ancião" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_482" value="Sele Agnas, o Vermelho" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_483" value="Sele Karasha, o Sombrio" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_484" value="Sele Wyrm de Sangue Rubi" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_485" value="Sele Paragas, o Louco" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_486" value="Lidou com Cenoura Murcha" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_487" value="Lidou com Repolho Murcho" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_488" value="Lide com Artigos Diversos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_489" value="Sele o Wyrm de Sangue Azul" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_490" value="Entregue o Remédio Sagrado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_491" value="Retorne para [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_492" value="Encontre o Dragão de Fogo na Caldeira Quebrada" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_493" value="Treine com Tortus" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_494" value="Encontre [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_495" value="Vá para a Travessia de Hakain e fale com o rei" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_496" value="Obtenha o minério de cobre para prática" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_497" value="Obtenha a Pedra-Lacre de Sharack" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_498" value="Viaje para a Costa de Parna via Skippus" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_499" value="Entre na Arena pelo Santuário da Arena" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_500" value="Pegue um salmão cereja avermelhado na fazenda." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_501" value="Pegue um salmão cereja prateado na fazenda." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_502" value="Pegue um salmão cereja dourado na fazenda." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_503" value="Pegue Mona Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_504" value="Mande um familiar para explorar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_505" value="Complete a missão de exploração com o Familiar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_506" value="Fale com Saiki Leica e troque 30 Elluns" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_507" value="Complete uma masmorra heroica Nível 40" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_508" value="Complete uma masmorra heroica Nível 50" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_509" value="Complete uma masmorra heroica Nível 60" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_510" value="Complete a masmorra lendária Nível 40" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_511" value="Complete a masmorra lendária Nível 50" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_512" value="Complete a masmorra lendária Nível 60" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_513" value="Encontrar uma Pedra-chave do Covil" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_514" value="Derrote Dullahan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_515" value="Participe na Batalha" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_516" value="Obtenha a Vitória na Batalha" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_517" value="Entre na Fazenda de Familiares" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_518" value="Derrote Carleon na Mansão Carleon Lendária." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_519" value="Derrote Sinthan, o Capitão Yeti, nas Lendárias Ruínas de Matren." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_520" value="Derrote o Olho de Radan na Caverna Misteriosa Lendária." />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_521" value="Derrote Rondo na Torre Gélida Lendária" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_522" value="Derrote Umax na Brecha na dificuldade Lendária " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_523" value="Complete a Masmorra na Dificuldade Heroica" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_524" value="Encontre Guvan na Plataforma de Titã no Castelo de Hakanas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_525" value="Viaje para Magmafora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_526" value="Pergunte aos residentes sobre o paradeiro da Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_527" value="Vá para os Comerciantes Crokhoon" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_528" value="Ouça os rumores sobre Rokun" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_529" value="Encontre ar o povo Inseto ao redor da região" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_530" value="Encontre evidência de um assassino" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_531" value="Leve a evidência para Rokun" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_532" value="Verifique o primeiro rumor" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_533" value="Verifique o segundo rumor" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_534" value="Verifique o terceiro rumor" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_535" value="Vá para a Estação de Abastecimento de Ithilis" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_536" value="Encontre vestígios dos suprimentos desaparecidos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_537" value="Encontre aquilo que atacou o grupo de abastecimento" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_538" value="Encontre o patrulheiro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_539" value="Descubra informações sobre a luz" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_540" value="Vá para o Posto de Comando Abandonado" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_541" value="Encontre o paradeiro de Kurodian" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_542" value="Pegue a chave de um guarda" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_543" value="Liberte Kurodian" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_544" value="Encontre o Livro de Registros" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_545" value="Verifique o Livro de Registros" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_546" value="Elimine Salazar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_547" value="Identifique a fonte de poder de Salazar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_548" value="Vá para o acampamento" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_549" value="Encontre o guia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_550" value="Descubra o que acontece com as plantas em Aklan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_551" value="Identifique a doença" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_552" value="Vá até o Reino do Rei Inseto" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_553" value="Presentes para Jarad, o Rei Inseto" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_554" value="Ouça a Jarad sobre a Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_555" value="Vá para a Área de Yakutan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_556" value="Recupere a Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_557" value="Encontre Ani na Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_558" value="Pergunte ao redor sobre a localização da profecia" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_559" value="Vá para o Covil de Ilric" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_560" value="Impeça a Princesa Lania de Despertar" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_561" value="Encontre os primeiros vestígios do Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_562" value="Procure pelo Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_563" value="Siga os vestígios do Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_564" value="Investigue o desaparecimento dos soldados" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_565" value="Localize os soldados desaparecidos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_566" value="Resgate os prisioneiros" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_567" value="Escolte Cayde" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_568" value="Vá para a Aldeia do Desfiladeiro Grandioso com Romanson" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_569" value="Dome Freig" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_570" value="Obtenha a Pedra-Lacre de Freig" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_571" value="Dome Amatoa de Viridiana" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_572" value="Obtenha a Pedra-Lacre de Amatoa de Viridiana" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_573" value="Elimine os invasores localizados na Área Desolada" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_574" value="Derrote os Exids na área" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_575" value="Elimine os medos de Tasha" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_576" value="Inspecione o rastro do Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_577" value="Siga os vestígios do Lebrini" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_578" value="Localize os soldados desaparecidos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_579" value="Destrua a Planta Devoradora de Homens" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_580" value="Escolte os Soldados Rebeldes" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_581" value="Use o Santuário de Trânsito de Sasha para ir até a Aldeia do Desfiladeiro Grandioso" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_582" value="Elimine os desertores" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_583" value="Encontre o paradeiro de Roxanne" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_584" value="Pergunte a Aevin onde está Roxanne" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_585" value="&lt;Guarda do Laboratório de Mutações&gt; Kinugak" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_586" value="&lt;Aranhinha de Kinugak&gt; Zarq" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_587" value="&lt;Aranhinha de Kinugak&gt; Zurq" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_588" value="&lt;Tomb Predator&gt; Truaz" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_589" value="Espere pela conversa entre Jarad e Silveth" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_590" value="Alcance o Nível 67" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_591" value="Investigue os Ovos de Ilric para encontrar pistas" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_592" value="Elimine os guardas da Pedra Demoníaca" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_593" value="Derrote Mourkhan e seus homens" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_594" value="Complete a Masmorra Lendária" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_595" value="Dia de Derrota do Chefe da Semana Turimnan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_596" value="Derrote o Soldado do Acampamento de Guerra" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_597" value="Derrote a Flor Arco-Íris da Floresta Akran" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_598" value="[Elite] Derrote o Desertor de Ictilir " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_599" value="[Elite] Derrote Exid do Acampamento da Corporação de Insetos " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_600" value="[Elite] Derrote a Corporação de Insetos do Acampamento da Corporação de Insetos " />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_601" value="[Elite] Derrote o Sentinela do Acampamento de Guerra" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_602" value="Coma [NAME]" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_603" value="Derrote o Chefe do Mundo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_604" value="Derrote o Chefe do Mundo de Hakanas/Costa de Parna" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_605" value="Derrote o Chefe do Mundo da Fenda de Tritael" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_606" value="Derrote o Chefe do Mundo Deserto da Imortalidade" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_607" value="Derrote o Chefe do Mundo Santuário de Ellora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_608" value="Derrote o Chefe do Mundo Stygaea" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_609" value="[Elite] Derrote os Piratas Karrad" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_610" value="Derrote um Bispo Kaishiku Caído, Líder de Rebanho Borupu, ou Erega" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_611" value="Derrote o Espírito do Labirinto" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_612" value="Derrote Gredis da Terra Morta" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_613" value="Derrote os monstros no Labirinto Subterrâneo" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_614" value="[Elite] Derrote a Guarda Gélida da Torre Gélida" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_615" value="[Elite] Derrote a Irmandade de Khabim da Costa da Divindade" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_616" value="Fale com Jeshulis" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_617" value="Derrote um usuário de um servidor diferente" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_618" value="Derrote o Duque Ancião" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_619" value="Derrote Khrodian" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_620" value="Entre no Campo de Treinamento de Hastan" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_621" value="Obtenha uma Pedra de Terra de uma masmorra Lendária Nível 40" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_622" value="Obtenha uma Pedra de Água de uma masmorra Lendária Nível 50" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_623" value="Obtenha uma Semente de uma masmorra Lendária Nível 60" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_624" value="Obtenha uma Semente de Cenoura Gigante de uma masmorra Lendária Nível 65" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_625" value="Derrote Exit da Base de Reconhecimento" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_626" value="Derrote o Braghin Patrulheiro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_627" value="Derrote o Braghin Guerreiro" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_628" value="Derrote o Sacerdote Braghin" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_629" value="Derrote o Atirador de Elite Braghin Sênior" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_630" value="Derrote o Atirador de Elite Braghin Sênior" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_631" value="Obtenha uma Pedra-Lacre de Pluton Esmagador" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_632" value="Obtenha a Pedra-Lacre de Kaliat Gélido" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_633" value="Obtenha a Pedra-Lacre de Kaliat do Trovão" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_634" value="Derrote os aldeões vampíricos" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_635" value="Complete uma masmorra lendária" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_636" value="Obtenha uma Pedra-Lacre de Poelle" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_637" value="Derrote um jogador da área de Stygaea" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_638" value="Derrote um chefe de masmorra Nível 40-50" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_639" value="Derrote um chefe de masmorra Nível 60+" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_640" value="Derrote um monstro invasor nível de Comandante Ensign" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_641" value="Derrote um monstro invasor nível de Comandante Junior" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_642" value="Derrote um monstro invasor nível de Comandante sênior" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_643" value="Derrote a Guarda Gélida Invasora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_644" value="Derrote a Legião Caída invasora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_645" value="Derrote a Legião do Caos invasora" />
+  <keys prop="Description" type="monster" key="Quest_Mission_Str_Type_646" value="Derrote a Corporação dos Insetos invasora" />
+</files>

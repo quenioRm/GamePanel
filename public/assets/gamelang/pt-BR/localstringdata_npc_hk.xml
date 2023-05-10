@@ -1,681 +1,1356 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="N_03_0_0095_0001" value="Elite dos Cavaleiros do Dragão" />
-  <keys type="npc" key="N_03_0_0095_0002" value="Vanguarda dos Cavaleiros do Dragão" />
-  <keys type="npc" key="N_03_0_0194_0000" value="Excelron" />
-  <keys type="npc" key="N_03_0_0194_0001" value="Belzech" />
-  <keys type="npc" key="N_03_0_0246_0000" value="Gunther" />
-  <keys type="npc" key="N_03_0_0023_0002" value="Mulher Capturada" />
-  <keys type="npc" key="N_03_0_0007_0000" value="Homem Capturado" />
-  <keys type="npc" key="N_03_0_0111_0000" value="Garoto Capturado" />
-  <keys type="npc" key="N_03_0_0001_0156" value="Aventureiro Ferido" />
-  <keys type="npc" key="N_03_0_0001_0155" value="Reyan" />
-  <keys type="npc" key="N_03_0_0002_0070" value="Unica Rayne" />
-  <keys type="npc" key="N_03_0_0001_0157" value="Halcyon" />
-  <keys type="npc" key="N_05_0_0005_0000" value="Capitão Black Joe" />
-  <keys type="npc" key="N_99_0_0001_0000" value="Colono" />
-  <keys type="npc" key="N_03_0_0001_0158" value="Soldado Raso Trid" />
-  <keys type="npc" key="N_03_0_0001_0159" value="Draden" />
-  <keys type="npc" key="N_03_0_0001_0160" value="Soldado Raso Daylos" />
-  <keys type="npc" key="N_03_0_0192_0000" value="Pônei" />
-  <keys type="npc" key="N_05_5_0002_0000" value="Pedra de Retorno" />
-  <keys type="npc" key="N_05_5_0002_0001" value="Pedra de Retorno" />
-  <keys type="npc" key="N_05_5_0002_0002" value="Pedra de Retorno" />
-  <keys type="npc" key="N_03_0_0001_0161" value="Fazendeiro Ferido" />
-  <keys type="npc" key="N_03_0_0001_0162" value="Soldado Ferido" />
-  <keys type="npc" key="N_03_0_0001_0163" value="Serlian Ancião" />
-  <keys type="npc" key="N_03_0_0001_0164" value="Zebia Koter" />
-  <keys type="npc" key="N_03_0_0001_0165" value="Zhamis Katarr" />
-  <keys type="npc" key="N_03_0_0002_0071" value="Senhora Malone" />
-  <keys type="npc" key="N_03_0_0672_0005" value="Vaca Solta" />
-  <keys type="npc" key="N_05_0_0022_0000" value="Annsjon" />
-  <keys type="npc" key="N_05_0_0022_0001" value="Raglans" />
-  <keys type="npc" key="N_05_0_0022_0002" value="Croban" />
-  <keys type="npc" key="N_05_0_0001_0000" value="Shahan" />
-  <keys type="npc" key="N_05_0_0001_0001" value="Lotus" />
-  <keys type="npc" key="N_05_0_0001_0002" value="Sumo Sacerdote" />
-  <keys type="npc" key="N_05_0_0001_0003" value="Sacerdote" />
-  <keys type="npc" key="N_05_0_0001_0004" value="Capitão Bernstein" />
-  <keys type="npc" key="N_05_0_0001_0005" value="Cavaleiro" />
-  <keys type="npc" key="N_05_0_0001_0006" value="Arquivista Bertrand" />
-  <keys type="npc" key="N_05_0_0001_0007" value="Bibliotecário" />
-  <keys type="npc" key="N_05_0_0002_0000" value="Bibliotecário" />
-  <keys type="npc" key="N_05_0_0423_0000" value="Camareiro-Mor" />
-  <keys type="npc" key="N_05_0_0001_0008" value="Camareiro" />
-  <keys type="npc" key="N_05_0_0001_0009" value="Mestre da Guilda" />
-  <keys type="npc" key="N_05_0_0001_0010" value="Comerciante de Arte" />
-  <keys type="npc" key="N_05_0_0001_0011" value="Frantz" />
-  <keys type="npc" key="N_05_0_2000_0000" value="Gatuno" />
-  <keys type="npc" key="N_05_0_0001_0012" value="Aspirante a Chef" />
-  <keys type="npc" key="N_05_0_5005_0000" value="Angariadora" />
-  <keys type="npc" key="N_05_0_0001_0013" value="Diretor Willow" />
-  <keys type="npc" key="N_05_0_0001_0014" value="Pesquisador" />
-  <keys type="npc" key="N_05_0_0001_0015" value="Alex" />
-  <keys type="npc" key="N_05_0_0001_0016" value="Hilbern" />
-  <keys type="npc" key="N_05_0_2000_0001" value="Jovem Faminto" />
-  <keys type="npc" key="N_05_0_2005_0000" value="Homem Faminto" />
-  <keys type="npc" key="N_05_0_2000_0002" value="Garoto Esfomeado" />
-  <keys type="npc" key="N_05_0_5002_0000" value="Mulher Esfomeada" />
-  <keys type="npc" key="N_05_0_0001_0017" value="Brighton" />
-  <keys type="npc" key="N_05_0_0001_0018" value="Professor" />
-  <keys type="npc" key="N_05_0_0002_0001" value="Professor Assistente" />
-  <keys type="npc" key="N_05_0_0001_0019" value="Assistente" />
-  <keys type="npc" key="N_05_0_0001_0020" value="Assistente" />
-  <keys type="npc" key="N_05_0_0095_0000" value="Cadete" />
-  <keys type="npc" key="N_05_0_0095_0001" value="Estagiário Dispensado" />
-  <keys type="npc" key="N_05_0_0001_0025" value="Estagiário Arqueiro" />
-  <keys type="npc" key="N_05_0_0001_0021" value="Homem Elegante" />
-  <keys type="npc" key="N_05_0_0002_0002" value="Mulher Apaixonada" />
-  <keys type="npc" key="N_05_0_0001_0022" value="Amante Rejeitado" />
-  <keys type="npc" key="N_05_0_2005_0001" value="Moleiro" />
-  <keys type="npc" key="N_05_0_2003_0000" value="Filho do Moleiro" />
-  <keys type="npc" key="N_05_0_0001_0023" value="Pauper Infeliz" />
-  <keys type="npc" key="N_05_0_0002_0003" value="Fashionista" />
-  <keys type="npc" key="N_05_0_0001_0024" value="Urbanita" />
-  <keys type="npc" key="N_05_5_0172_0000" value="Arvoredo do Rei" />
-  <keys type="npc" key="N_05_5_0172_0001" value="Academia de Familiares" />
-  <keys type="npc" key="N_05_5_0172_0002" value="Praça da Vitória" />
-  <keys type="npc" key="N_05_5_0172_0003" value="Reino de Hakanas" />
-  <keys type="npc" key="N_05_5_0173_0000" value="Entrada do Sul" />
-  <keys type="npc" key="N_05_5_0173_0001" value="Fazenda Elgren" />
-  <keys type="npc" key="N_05_5_0173_0002" value="Travessia de Hakain" />
-  <keys type="npc" key="N_05_5_0173_0003" value="Arvoredo do Rei" />
-  <keys type="npc" key="N_05_5_0173_0004" value="Floresta de Ecos" />
-  <keys type="npc" key="N_05_5_0173_0005" value="Plantação do Oeste" />
-  <keys type="npc" key="N_05_5_0173_0006" value="Entrada do Leste" />
-  <keys type="npc" key="N_05_5_0173_0007" value="Castelo de Hakanas - Portão Leste" />
-  <keys type="npc" key="N_05_5_0173_0008" value="Porto de Aventura" />
-  <keys type="npc" key="N_05_5_0173_0009" value="Bairro do Rio" />
-  <keys type="npc" key="N_05_5_0173_0010" value="Pátio de Treinamento" />
-  <keys type="npc" key="N_05_5_0173_0011" value="Bairro do Mercado" />
-  <keys type="npc" key="N_05_5_0173_0012" value="Castelo de Hakanas - Portão Principal" />
-  <keys type="npc" key="N_05_5_0173_0013" value="Cidade Baixa" />
-  <keys type="npc" key="N_05_5_0173_0014" value="Academia de Familiares" />
-  <keys type="npc" key="N_05_5_0173_0015" value="Praça Artesã" />
-  <keys type="npc" key="N_05_5_0173_0016" value="Praça da Vitória" />
-  <keys type="npc" key="N_05_5_0173_0017" value="Quarteirão dos Estudiosos" />
-  <keys type="npc" key="N_05_5_0173_0018" value="Banco Estatal" />
-  <keys type="npc" key="N_05_5_0173_0019" value="Castelo de Hakanas" />
-  <keys type="npc" key="N_05_5_0173_0020" value="Praça do Dragão Guardião" />
-  <keys type="npc" key="N_05_5_0173_0021" value="Biblioteca de Homenagem a Baellas" />
-  <keys type="npc" key="N_05_5_0173_0022" value="Pátio" />
-  <keys type="npc" key="N_05_5_0173_0023" value="Templo de Ellora" />
-  <keys type="npc" key="N_05_0_0001_0026" value="Vendedor de Insígnias da Guilda" />
-  <keys type="npc" key="N_05_0_0001_0027" value="Oficial da Corte" />
-  <keys type="npc" key="N_05_0_0002_0004" value="Oficial da Corte" />
-  <keys type="npc" key="N_05_0_0001_0028" value="Phillos" />
-  <keys type="npc" key="N_05_1_0769_0000" value="Cavalo de Guerra" />
-  <keys type="npc" key="N_05_1_0671_0000" value="Aranha Gélida de Spara" />
-  <keys type="npc" key="N_05_1_0704_0000" value="Rogaton de Pierre" />
-  <keys type="npc" key="N_05_1_0245_0000" value="Urso de Sovell" />
-  <keys type="npc" key="N_05_1_1720_0000" value="Unicórnio Domado" />
-  <keys type="npc" key="N_03_0_0001_0166" value="Sarnik" />
-  <keys type="npc" key="N_03_0_0001_0167" value="Canavan" />
-  <keys type="npc" key="N_03_0_0001_0168" value="Capitão Perseguidor" />
-  <keys type="npc" key="N_03_0_0001_0169" value="Legis" />
-  <keys type="npc" key="N_03_0_0001_0170" value="Khude, o Cozinheiro" />
-  <keys type="npc" key="N_05_0_0001_0029" value="Domador de Familiares" />
-  <keys type="npc" key="N_05_0_0001_0030" value="Domador de Familiares" />
-  <keys type="npc" key="N_03_0_0001_0171" value="Bernheart" />
-  <keys type="npc" key="N_03_0_0001_0172" value="Instrutor Argon" />
-  <keys type="npc" key="N_03_0_0339_0000" value="Pedra de Proteção" />
-  <keys type="npc" key="N_05_0_0001_0031" value="Margot" />
-  <keys type="npc" key="N_05_0_0001_0032" value="Charlie" />
-  <keys type="npc" key="N_05_0_0001_0033" value="Brown" />
-  <keys type="npc" key="N_05_0_0001_0034" value="Jake" />
-  <keys type="npc" key="N_05_0_0001_0035" value="Criança Brincando" />
-  <keys type="npc" key="N_05_0_0002_0005" value="Criança Brincando" />
-  <keys type="npc" key="N_05_0_0001_0036" value="Aristocrata Provincial" />
-  <keys type="npc" key="N_05_0_0001_0037" value="Ford" />
-  <keys type="npc" key="N_05_0_0083_0000" value="Urso-Pardo" />
-  <keys type="npc" key="N_05_0_0245_0000" value="Pantera" />
-  <keys type="npc" key="N_05_0_0001_0038" value="Domador de Familiares" />
-  <keys type="npc" key="N_05_0_0001_0039" value="Pesquisador de Familiares" />
-  <keys type="npc" key="N_03_0_0002_0072" value="Sayne" />
-  <keys type="npc" key="N_03_0_0002_0073" value="Dido" />
-  <keys type="npc" key="N_03_0_0001_0173" value="Bagrand" />
-  <keys type="npc" key="N_03_0_0001_0174" value="Comandante da Milícia Berdo" />
-  <keys type="npc" key="N_05_0_0001_0040" value="Pastor Sentado" />
-  <keys type="npc" key="N_05_0_0001_0041" value="Marido Chorando" />
-  <keys type="npc" key="N_05_0_0001_0042" value="Fazendeiro Aflito" />
-  <keys type="npc" key="N_05_0_0001_0043" value="Namorado Risonho" />
-  <keys type="npc" key="N_05_0_0001_0044" value="Homem Segurando Item" />
-  <keys type="npc" key="N_05_0_0001_0045" value="Homem Andando Segurando Item" />
-  <keys type="npc" key="N_05_0_0001_0046" value="Garoto Animado" />
-  <keys type="npc" key="N_05_0_0001_0047" value="Fazendeiro Agonizado" />
-  <keys type="npc" key="N_05_0_0001_0048" value="Fazendeiro Inspecionador de Solo" />
-  <keys type="npc" key="N_05_0_0001_0049" value="Fazendeira" />
-  <keys type="npc" key="N_05_0_0001_0050" value="Fazendeiro Bronzeado" />
-  <keys type="npc" key="N_05_0_0001_0051" value="Fazendeiro Consolidado" />
-  <keys type="npc" key="N_05_0_0002_0006" value="Esposa Ranzinza" />
-  <keys type="npc" key="N_05_0_0002_0007" value="Fazendeiro Sussurrante" />
-  <keys type="npc" key="N_05_0_0002_0008" value="Namorada Risonha" />
-  <keys type="npc" key="N_05_0_0002_0009" value="Garota Animada" />
-  <keys type="npc" key="N_05_0_0002_0010" value="Inspetor de Solo" />
-  <keys type="npc" key="N_05_0_0002_0011" value="Fazendeiro Capinando" />
-  <keys type="npc" key="N_05_0_0002_0012" value="Fazendeiro Colhendo" />
-  <keys type="npc" key="N_05_0_0001_0052" value="Aprendiz de Cozinheiro" />
-  <keys type="npc" key="N_05_0_0001_0053" value="Aprendiz de Ferreiro" />
-  <keys type="npc" key="N_05_0_0001_0054" value="Aprendiz de Cozinheiro" />
-  <keys type="npc" key="N_05_0_0001_0055" value="Aprendiz de Ferreiro" />
-  <keys type="npc" key="N_05_0_0001_0056" value="Bakiit" />
-  <keys type="npc" key="N_05_0_0001_0057" value="Fenzahr" />
-  <keys type="npc" key="N_05_0_0001_0058" value="Jane" />
-  <keys type="npc" key="N_05_0_0002_0013" value="Examinador de Batalhas de Familiares" />
-  <keys type="npc" key="N_05_0_0001_0059" value="Pesquisador de Familiares" />
-  <keys type="npc" key="N_05_1_0016_0000" value="Tarântula Domada" />
-  <keys type="npc" key="N_05_0_0001_0060" value="Aldar" />
-  <keys type="npc" key="N_05_0_0002_0014" value="Pinny" />
-  <keys type="npc" key="N_05_0_0170_0000" value="Lobo Sombrio Domado" />
-  <keys type="npc" key="N_05_0_0223_0000" value="Dallwynn" />
-  <keys type="npc" key="N_05_0_0001_0061" value="Garland" />
-  <keys type="npc" key="N_05_0_0022_0003" value="Darris" />
-  <keys type="npc" key="N_05_0_0022_0004" value="Drayful" />
-  <keys type="npc" key="N_03_0_0001_0179" value="Guarda da Capital" />
-  <keys type="npc" key="N_03_0_0001_0180" value="Soldado de Hakanas" />
-  <keys type="npc" key="N_03_0_0001_0181" value="Soldado de Hakanas" />
-  <keys type="npc" key="N_03_0_0001_0182" value="Mestre Quarteleiro" />
-  <keys type="npc" key="N_03_0_0001_0183" value="Soldado de Hakanas" />
-  <keys type="npc" key="N_03_0_0001_0184" value="Soldado de Hakanas" />
-  <keys type="npc" key="N_03_0_0001_0185" value="Ancião" />
-  <keys type="npc" key="N_03_0_0002_0075" value="Garotinha Fofa" />
-  <keys type="npc" key="N_03_0_0001_0186" value="Sentinela" />
-  <keys type="npc" key="N_05_0_2005_0002" value="Administrador do Farol" />
-  <keys type="npc" key="N_03_0_0002_0076" value="Cidadã" />
-  <keys type="npc" key="N_03_0_0002_0077" value="Taverneira" />
-  <keys type="npc" key="N_05_0_2005_0003" value="Moleiro" />
-  <keys type="npc" key="N_05_0_2005_0004" value="Moleiro" />
-  <keys type="npc" key="N_03_0_0001_0187" value="Sentinela" />
-  <keys type="npc" key="N_03_0_0001_0188" value="Fazendeiro Tímido" />
-  <keys type="npc" key="N_03_0_0002_0078" value="Aprendiz de Costureiro" />
-  <keys type="npc" key="N_03_0_0002_0079" value="Florista" />
-  <keys type="npc" key="N_03_0_0001_0189" value="Ancião" />
-  <keys type="npc" key="N_03_0_0002_0080" value="Garota" />
-  <keys type="npc" key="N_03_0_0001_0190" value="Garoto" />
-  <keys type="npc" key="N_05_0_2005_0005" value="Administrador de Fazenda" />
-  <keys type="npc" key="N_03_0_0001_0191" value="Cavalaria dos Cavaleiros do Dragão" />
-  <keys type="npc" key="N_03_0_0002_0081" value="Princesa Lania" />
-  <keys type="npc" key="N_05_0_0022_0005" value="Santuário de Passagem" />
-  <keys type="npc" key="N_05_0_0022_0006" value="Santuário de Passagem" />
-  <keys type="npc" key="N_05_0_0022_0007" value="Santuário de Passagem" />
-  <keys type="npc" key="N_05_0_0022_0008" value="Santuário de Passagem" />
-  <keys type="npc" key="N_05_0_0022_0009" value="Santuário de Passagem" />
-  <keys type="npc" key="N_99_0_0003_0002" value="Renata" />
-  <keys type="npc" key="N_99_0_0004_0001" value="Tortus" />
-  <keys type="npc" key="N_99_0_0008_0000" value="Phelps" />
-  <keys type="npc" key="N_05_0_0001_0062" value="Angélica" />
-  <keys type="npc" key="N_05_0_0001_0063" value="Pierre" />
-  <keys type="npc" key="N_05_0_0001_0064" value="Sparas" />
-  <keys type="npc" key="N_05_0_0001_0065" value="Sovell" />
-  <keys type="npc" key="N_05_1_0769_0001" value="Merlin" />
-  <keys type="npc" key="N_03_0_0001_0193" value="Soldado de Hakanas" />
-  <keys type="npc" key="N_03_0_0001_0194" value="Flight" />
-  <keys type="npc" key="N_03_0_0001_0195" value="John" />
-  <keys type="npc" key="N_03_0_0001_0196" value="Tommy" />
-  <keys type="npc" key="N_05_0_0002_0015" value="Esmeralda" />
-  <keys type="npc" key="N_03_0_0001_0197" value="Lorde Rollan" />
-  <keys type="npc" key="N_03_0_0001_0198" value="Mavel" />
-  <keys type="npc" key="N_03_0_0001_0199" value="Yoren" />
-  <keys type="npc" key="N_C01_LeopSnow_001" value="Jane's Tiger" />
-  <keys type="npc" key="N_C01_Leop_001" value="Fenzahr's Panther" />
-  <keys type="npc" key="N_03_0_0001_0200" value="Soldado de Hakanas" />
-  <keys type="npc" key="N_03_0_0001_0202" value="Sir Brandon" />
-  <keys type="npc" key="N_03_0_0001_0203" value="Lorde Kye" />
-  <keys type="npc" key="N_03_0_0001_0204" value="Keebo" />
-  <keys type="npc" key="N_03_0_0001_0205" value="Urus" />
-  <keys type="npc" key="N_03_0_0001_0206" value="Edgar" />
-  <keys type="npc" key="N_03_0_0001_0207" value="McGrown" />
-  <keys type="npc" key="N_03_0_0001_0208" value="Chakai de Latini" />
-  <keys type="npc" key="N_05_0_0001_0066" value="Yode" />
-  <keys type="npc" key="N_05_0_0001_0067" value="Snider" />
-  <keys type="npc" key="N_05_1_0704_0001" value="Viajar ao Santuário da Capital" />
-  <keys type="npc" key="N_05_0_0001_0068" value="Pedra de Retorno" />
-  <keys type="npc" key="N_05_0_0001_0069" value="Pedra de Retorno" />
-  <keys type="npc" key="N_03_0_0010_0001" value="Hughs" />
-  <keys type="npc" key="N_03_0_0010_0002" value="Schan" />
-  <keys type="npc" key="N_03_0_0010_0003" value="Willem" />
-  <keys type="npc" key="N_03_0_0010_0004" value="Marsala" />
-  <keys type="npc" key="N_03_0_0010_0005" value="Ruben" />
-  <keys type="npc" key="N_03_0_0010_0006" value="Russell" />
-  <keys type="npc" key="N_03_0_0010_0007" value="EnKiehl" />
-  <keys type="npc" key="N_03_0_0010_0008" value="Hakeru" />
-  <keys type="npc" key="N_03_0_0010_0009" value="Joshua" />
-  <keys type="npc" key="N_03_0_0010_0010" value="Alkantra" />
-  <keys type="npc" key="N_03_0_0010_0011" value="Jay" />
-  <keys type="npc" key="N_03_0_0010_0012" value="Leo" />
-  <keys type="npc" key="N_03_0_0010_0013" value="Yulnus" />
-  <keys type="npc" key="N_03_0_0010_0014" value="Sombra" />
-  <keys type="npc" key="N_03_0_0010_0015" value="Jeera" />
-  <keys type="npc" key="N_03_0_0010_0016" value="Dahrven" />
-  <keys type="npc" key="N_03_0_0010_0017" value="Esby" />
-  <keys type="npc" key="N_03_0_0010_0018" value="Mandarim" />
-  <keys type="npc" key="N_03_0_0010_0019" value="Wes" />
-  <keys type="npc" key="N_03_0_0010_0020" value="Teemeh" />
-  <keys type="npc" key="N_03_0_0010_0021" value="Lason" />
-  <keys type="npc" key="N_03_0_0001_2001" value="Plati" />
-  <keys type="npc" key="n_03_0_0001_2002" value="Glati" />
-  <keys type="npc" key="N_03_0_0001_2000" value="Diehl" />
-  <keys type="npc" key="N_05_0_0001_0070" value="Corvo" />
-  <keys type="npc" key="N_05_0_0001_0071" value="Aaron" />
-  <keys type="npc" key="N_05_0_0001_0072" value="Tieli, a Fada" />
-  <keys type="npc" key="N_05_0_0001_0073" value="Azzar" />
-  <keys type="npc" key="N_c01_Whale_001" value="Sky Titan" />
-  <keys type="npc" key="N_c01_Toucan_001" value="Scalleda" />
-  <keys type="npc" key="N_c01_Bui_001" value="Fornalha" />
-  <keys type="npc" key="N_c01_HuMSha_001" value="Titan Pilot" />
-  <keys type="npc" key="N_f02_HuMsol02_001" value="Frozen Soldier's Soul" />
-  <keys type="npc" key="N_C01_0_0001_0001" value="Amelia" />
-  <keys type="npc" key="N_d02_HuMSha_001" value="Zeloth" />
-  <keys type="npc" key="N_03_taming_0001" value="Pedra Mágica de Dominação" />
-  <keys type="npc" key="N_d02_HuMMil_001" value="Radus" />
-  <keys type="npc" key="N_f03_Whale_001" value="Sky Titan" />
-  <keys type="npc" key="N_05_0_0001_0074" value="Skippus" />
-  <keys type="npc" key="N_03_0_0001_0209" value="Kobin" />
-  <keys type="npc" key="N_03_0_0001_0210" value="Kuff" />
-  <keys type="npc" key="N_c01_HuMMer_001" value="Mirrhen" />
-  <keys type="npc" key="N_c01_HuMMer_002" value="Hendricks" />
-  <keys type="npc" key="N_c01_hufpub_001" value="Angus" />
-  <keys type="npc" key="N_c01_HuMMer_003" value="Morrison" />
-  <keys type="npc" key="N_c01_HuMMer_004" value="Roben" />
-  <keys type="npc" key="N_c01_hufmer_001" value="Ellia" />
-  <keys type="npc" key="N_c01_HuMFar_001" value="Gedriff" />
-  <keys type="npc" key="N_f02_HuMmer4_001" value="Jedury" />
-  <keys type="npc" key="N_f02_HuFMer01_001" value="Missha" />
-  <keys type="npc" key="N_C01_0_0001_0008" value="Rick" />
-  <keys type="npc" key="N_C01_0_0001_0009" value="John Clakey" />
-  <keys type="npc" key="N_C01_0_0001_0010" value="Maris" />
-  <keys type="npc" key="N_C01_0_0001_0011" value="Keersin" />
-  <keys type="npc" key="N_C01_0_0001_0012" value="Harry" />
-  <keys type="npc" key="N_C01_0_0001_0013" value="Renata" />
-  <keys type="npc" key="N_C01_0_0001_0014" value="Renata" />
-  <keys type="npc" key="N_C01_0_0001_0015" value="Renata" />
-  <keys type="npc" key="N_C01_0_0001_0016" value="Ive" />
-  <keys type="npc" key="N_C01_0_0001_0017" value="Melwood" />
-  <keys type="npc" key="N_C01_0_0001_0018" value="Mazis" />
-  <keys type="npc" key="N_C01_0_0001_0019" value="Bruco" />
-  <keys type="npc" key="N_C01_0_0001_0020" value="Sino" />
-  <keys type="npc" key="N_C01_0_0001_0021" value="Grimm Dourado" />
-  <keys type="npc" key="N_C01_0_0001_0022" value="Harmon" />
-  <keys type="npc" key="N_c01_HuMsol_001" value="Gareth Bane" />
-  <keys type="npc" key="N_C01_0_0001_0023" value="Obelisco Secreto" />
-  <keys type="npc" key="N_C01_0_0001_0024" value="Harry" />
-  <keys type="npc" key="N_C01_0_0001_0025" value="Rick" />
-  <keys type="npc" key="N_f02_Board_0003" value="Mission Board" />
-  <keys type="npc" key="N_f02_Board_0004" value="Mission Board" />
-  <keys type="npc" key="N_f02_Board_0005" value="Mission Board " />
-  <keys type="npc" key="N_f02_Board_0006" value="Mission Board" />
-  <keys type="npc" key="N_f02_Board_0007" value="Mission Board" />
-  <keys type="npc" key="N_f02_Board_0008" value="Mission Board" />
-  <keys type="npc" key="N_f02_Board_0009" value="Mission Board" />
-  <keys type="npc" key="N_F09_0_0001_0001" value="Phillip" />
-  <keys type="npc" key="N_F09_0_0001_0002" value="Xiona" />
-  <keys type="npc" key="N_F09_0_0001_0003" value="Recall Stone" />
-  <keys type="npc" key="N_F09_0_0001_0004" value="Miller" />
-  <keys type="npc" key="N_F09_0_0001_0005" value="Ashlynn" />
-  <keys type="npc" key="N_F09_0_0001_0006" value="Ray" />
-  <keys type="npc" key="N_F09_0_0001_0007" value="Mabina" />
-  <keys type="npc" key="N_F09_0_0001_0008" value="Arthur" />
-  <keys type="npc" key="N_F09_0_0001_0009" value="Hall" />
-  <keys type="npc" key="N_F09_0_0001_0010" value="Mission Board" />
-  <keys type="npc" key="N_F09_0_0001_0011" value="Khandar'rahn" />
-  <keys type="npc" key="N_F09_0_0001_0012" value="Private" />
-  <keys type="npc" key="N_F09_0_0001_0013" value="Sentinel" />
-  <keys type="npc" key="N_F09_0_0001_0014" value="Shock Trooper" />
-  <keys type="npc" key="N_F09_0_0001_0015" value="Bakir" />
-  <keys type="npc" key="N_F09_0_0002_0001" value="Harrison" />
-  <keys type="npc" key="N_F09_0_0002_0002" value="Kristina" />
-  <keys type="npc" key="N_F09_0_0002_0003" value="Recall Stone" />
-  <keys type="npc" key="N_F09_0_0002_0004" value="Berrik" />
-  <keys type="npc" key="N_F09_0_0002_0005" value="Luis" />
-  <keys type="npc" key="N_F09_0_0002_0006" value="Zess" />
-  <keys type="npc" key="N_F09_0_0002_0007" value="Queenie" />
-  <keys type="npc" key="N_F09_0_0002_0008" value="William" />
-  <keys type="npc" key="N_F09_0_0002_0009" value="Hoyle" />
-  <keys type="npc" key="N_F09_0_0002_0010" value="Mission Board" />
-  <keys type="npc" key="N_F09_0_0002_0011" value="Rander" />
-  <keys type="npc" key="N_F09_0_0002_0012" value="Fuller" />
-  <keys type="npc" key="N_F09_0_0002_0013" value="Kit" />
-  <keys type="npc" key="N_F09_0_0002_0014" value="Francin" />
-  <keys type="npc" key="N_F09_0_0002_0015" value="Bernyn" />
-  <keys type="npc" key="N_F09_0_0002_0016" value="Saddler" />
-  <keys type="npc" key="N_F09_0_0002_0017" value="Watson" />
-  <keys type="npc" key="N_F09_0_0002_0018" value="Crow" />
-  <keys type="npc" key="N_F09_0_0002_0019" value="John Viper" />
-  <keys type="npc" key="N_C01_0_0001_0026" value="Linetta" />
-  <keys type="npc" key="N_C01_0_0001_0027" value="Linetta" />
-  <keys type="npc" key="N_C01_0_0001_0028" value="Linetta" />
-  <keys type="npc" key="N_C01_0_0001_0029" value="Behain Skeron" />
-  <keys type="npc" key="N_C01_0_0001_0030" value="Russell" />
-  <keys type="npc" key="N_C01_0_0001_0031" value="Homer" />
-  <keys type="npc" key="N_C01_0_0001_0032" value="Homer" />
-  <keys type="npc" key="N_C01_0_0001_0033" value="Rômulo" />
-  <keys type="npc" key="N_C01_0_0001_0034" value="Quadro de Missões da Caldeira do Dragão" />
-  <keys type="npc" key="N_C01_0_0001_0035" value="Quadro de Missões do Bairro do Mercado" />
-  <keys type="npc" key="N_F09_0_0002_0020" value="Cynth Mayer" />
-  <keys type="npc" key="N_F09_0_0002_0021" value="Tortus" />
-  <keys type="npc" key="N_F09_0_0003_0001" value="Jennifer" />
-  <keys type="npc" key="N_F09_0_0003_0002" value="Ferard" />
-  <keys type="npc" key="N_F09_0_0004_0001" value="Jinta'rahn" />
-  <keys type="npc" key="N_F09_0_0004_0002" value="Mazu'rahn" />
-  <keys type="npc" key="N_F09_0_0004_0003" value="Famku'shan" />
-  <keys type="npc" key="N_F09_0_0004_0004" value="Juan" />
-  <keys type="npc" key="N_F09_0_0004_0005" value="Ku'khat" />
-  <keys type="npc" key="N_F09_0_0001_0016" value="Sorina" />
-  <keys type="npc" key="N_F09_0_0001_0017" value="Zellan" />
-  <keys type="npc" key="N_p01_HuMmer_01" value="Torio" />
-  <keys type="npc" key="N_F09_0_0001_0019" value="Cavalry Private" />
-  <keys type="npc" key="N_F09_0_0001_0020" value="Sky Cavalry" />
-  <keys type="npc" key="N_F09_0_0001_0023" value="Mezaks" />
-  <keys type="npc" key="N_F09_0_0005_0001" value="Stefan" />
-  <keys type="npc" key="N_F09_0_0005_0002" value="Recall Stone" />
-  <keys type="npc" key="N_F09_0_0005_0003" value="Yulian" />
-  <keys type="npc" key="N_F09_0_0005_0004" value="Recall Stone" />
-  <keys type="npc" key="N_f09_0_0002_0023" value="Mission Board" />
-  <keys type="npc" key="N_HK1_0_9999_9002" value="Baul" />
-  <keys type="npc" key="N_CO1_0_9999_9003" value="Jutren" />
-  <keys type="npc" key="N_c01_HuFSol01_006" value="Latini" />
-  <keys type="npc" key="N_F09_0_0005_0005" value="Cross" />
-  <keys type="npc" key="N_f02_Hummer_001" value="Wilson" />
-  <keys type="npc" key="N_F16_0_0001_0001" value="Clemence" />
-  <keys type="npc" key="N_C01_Kepley_001" value="Rufala Teega" />
-  <keys type="npc" key="N_F02_Rikapo_001" value="Ricappo" />
-  <keys type="npc" key="N_C01_guide_001" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_002" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_003" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_004" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_005" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_006" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_007" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_008" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_009" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_010" value="O'Beaver" />
-  <keys type="npc" key="N_C01_guide_011" value="O'Beaver" />
-  <keys type="npc" key="N_f02_YFireBird_001" value="Caldera Firebeak" />
-  <keys type="npc" key="N_05_0_0001_0075" value="Capitão Blaider" />
-  <keys type="npc" key="N_05_0_0001_0076" value="Capitão Blaider" />
-  <keys type="npc" key="N_05_0_0001_0077" value="Skippus" />
-  <keys type="npc" key="N_F09_0_0002_0024" value="Nightmare" />
-  <keys type="npc" key="N_F09_0_0002_0025" value="Clemence" />
-  <keys type="npc" key="N_f09_Smith_001" value="Weapon Anvil" />
-  <keys type="npc" key="N_f09_Smith_002" value="Armor Anvil" />
-  <keys type="npc" key="N_f09_Cook_001" value="Cook Station" />
-  <keys type="npc" key="N_f09_Alchemy_001" value="Alchemy Lab" />
-  <keys type="npc" key="N_f09_Accessory_001" value="Jewelry Table" />
-  <keys type="npc" key="N_f09_Fellow_001" value="Barder Craft Table" />
-  <keys type="npc" key="N_f09_rania_01" value="Princess Lania" />
-  <keys type="npc" key="N_C01_HuMNob_001" value="Tyton" />
-  <keys type="npc" key="N_c01_Event_cup_01" value="Coach Hong" />
-  <keys type="npc" key="N_c01_Event_cup_02" value="Rice Cake Seller" />
-  <keys type="npc" key="N_f09_0_0001_0024" value="Buck Rabbini" />
-  <keys type="npc" key="N_c01_hufline_001" value="Seratia" />
-  <keys type="npc" key="N_c01_Battle_01" value="Santuário da Arena" />
-  <keys type="npc" key="N_02_5_0235_0006" value="Santuário da Arena" />
-  <keys type="npc" key="N_02_5_0235_0007" value="Santuário da Arena" />
-  <keys type="npc" key="N_02_5_0235_0008" value="Santuário da Arena" />
-  <keys type="npc" key="N_c01_UnionMaster" value="Alliance Master" />
-  <keys type="npc" key="N_c01_RabMer01_002" value="Phillipe Rabbini" />
-  <keys type="npc" key="N_F09_RabMer01_001" value="Ellie Rabbini" />
-  <keys type="npc" key="N_c01_Battle_02" value="Santuário de Retorno" />
-  <keys type="npc" key="N_02_5_0235_0010" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0011" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0012" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0013" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0014" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0015" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0016" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0017" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0018" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_02_5_0235_0019" value="Santuário de Trânsito" />
-  <keys type="npc" key="N_d02_Portal_01" value="Interstellar Warp Gate" />
-  <keys type="npc" key="N_c01_UnionMes_001" value="Kaladin" />
-  <keys type="npc" key="N_c01_RabEve01_001" value="Clinton Rabbini" />
-  <keys type="npc" key="N_c01_RabEve01_002" value="Cleveland Rabbini" />
-  <keys type="npc" key="N_c01_RabEve01_003" value="Carroll Rabbini" />
-  <keys type="npc" key="N_c01_RabEve01_004" value="Christian Rabbini" />
-  <keys type="npc" key="N_c01_SantaEve_001" value="Merrie" />
-  <keys type="npc" key="N_c01_Snowman_001" value="Snowman" />
-  <keys type="npc" key="N_c01_RabEve02_001" value="Clement Rabbini" />
-  <keys type="npc" key="N_c01_RabEve02_002" value="Clement Rabbini" />
-  <keys type="npc" key="N_c01_RabEve02_003" value="Clement Rabbini" />
-  <keys type="npc" key="N_C01_Fellow_1" value="Glendor" />
-  <keys type="npc" key="N_C01_Fellow_2" value="Kilbeg" />
-  <keys type="npc" key="N_c01_RabEve03_001" value="Rex Rabbini" />
-  <keys type="npc" key="n_c01_whiterab_01" value="Riley Rabbini" />
-  <keys type="npc" key="n_f02_altemeer_01" value="Speedy Altemir" />
-  <keys type="npc" key="n_f02_cichlid_01" value="Contemplative Siclid" />
-  <keys type="npc" key="n_f02_hazran_01" value="Tranquil Hazran" />
-  <keys type="npc" key="N_C01_Fellow_3" value="Jaynan" />
-  <keys type="npc" key="N_C01_Fellow_4" value="Lavashell" />
-  <keys type="npc" key="N_C01_Fellow_5" value="Weid" />
-  <keys type="npc" key="N_C01_Fellow_6" value="Sanos" />
-  <keys type="npc" key="N_c01_HuM_10" value="Jed" />
-  <keys type="npc" key="N_c01_event_01" value="Rabbini Aruni" />
-  <keys type="npc" key="N_c01_event_02" value="Rex Rabbini" />
-  <keys type="npc" key="N_c01_durang_01" value="Dewrang" />
-  <keys type="npc" key="n_c01_hufyd_01" value="Asteria" />
-  <keys type="npc" key="n_G01_Lynd_01" value="Mage Lind" />
-  <keys type="npc" key="n_G01_Sande_01" value="Mage Sand" />
-  <keys type="npc" key="N_G01_Spi_01" value="Guild Guide Spee" />
-  <keys type="npc" key="N_G01_Knight_01" value="High-ranked Soldier" />
-  <keys type="npc" key="N_G01_HuMFar_01" value="Baceh" />
-  <keys type="npc" key="N_G01_HuMNob_01" value="Chief" />
-  <keys type="npc" key="N_G01_weapon_01" value="Weapon Anvil" />
-  <keys type="npc" key="N_G01_amor_01" value="Armor Anvil" />
-  <keys type="npc" key="N_G01_Cook_01" value="Cooking Station" />
-  <keys type="npc" key="N_G01_Alchemy_01" value="Lab Equipment Crafting Station" />
-  <keys type="npc" key="N_G01_Accessory_01" value="Jewelry Table" />
-  <keys type="npc" key="N_G01_Fellow_01" value="Barder Craft Table" />
-  <keys type="npc" key="N_G01_weapon_02" value="Master Weaponsmith Cutting" />
-  <keys type="npc" key="N_G01_amor_02" value="Master Armorsmith Brack" />
-  <keys type="npc" key="N_G01_Cook_02" value="Master Chef Eeting" />
-  <keys type="npc" key="N_G01_Alchemy_02" value="Experiment Master Chemi" />
-  <keys type="npc" key="N_G01_Accessory_02" value="Jewelry Master Jewal" />
-  <keys type="npc" key="N_G01_Fellow_02" value="Master Barder Crafter Tanda" />
-  <keys type="npc" key="N_c01_potal_200" value="Guild Room Transportation Shrine" />
-  <keys type="npc" key="n_g01_portal_100" value="Regional Transit Shrine" />
-  <keys type="npc" key="N_C01_Elisha_01" value="Elisa" />
-  <keys type="npc" key="n_g01_0_0001" value="Pitero" />
-  <keys type="npc" key="n_g01_0_0002" value="Pelkain" />
-  <keys type="npc" key="N_c01_Event_101" value="Glass" />
-  <keys type="npc" key="n_c01_hufyd_02" value="Asteria" />
-  <keys type="npc" key="N_C01_Eldreea_01" value="Eldrea" />
-  <keys type="npc" key="n_g01_portal_200" value="Regional Transit Shrine" />
-  <keys type="npc" key="N_C01_KprRabini_01" value="So Ring Rabbini" />
-  <keys type="npc" key="N_F02_Saku_01" value="Sakupiri of Sturdiness" />
-  <keys type="npc" key="N_F03_Aoust_01" value="Aoust of Lenity" />
-  <keys type="npc" key="N_F04_Marusia_01" value="Marusia of Caprice" />
-  <keys type="npc" key="N_F05_siberes_01" value="Silberes of Full Moon" />
-  <keys type="npc" key="N_F05_Beatrech_01" value="Beatrech of Anguish" />
-  <keys type="npc" key="N_F07_Naguieru_01" value="Naguieru of Paradox" />
-  <keys type="npc" key="N_C01_Trans_01" value="Aersera" />
-  <keys type="npc" key="N_C01_MoonRabit_1" value="Moon Rabbit Rabbini" />
-  <keys type="npc" key="N_C01_Wishmortar_1" value="Wish Mortar" />
-  <keys type="npc" key="N_C01_HuMCap_01" value="Captain Roshdan" />
-  <keys type="npc" key="N_c01_event_03" value="Crusoe Rabbini" />
-  <keys type="npc" key="N_c01_event_04" value="Rex Rabbini" />
-  <keys type="npc" key="N_c01_dailyquest_01" value="Aubergine Rabbini" />
-  <keys type="npc" key="N_c01_dailyquest_02" value="Manila Rabbini" />
-  <keys type="npc" key="n_f01_afreeca_1" value="Rica" />
-  <keys type="npc" key="n_c01_afreeca_1" value="Rika" />
-  <keys type="npc" key="n_f01_board_1" value="Event Board" />
-  <keys type="npc" key="n_c01_board_1" value="Quadro de Eventos" />
-  <keys type="npc" key="N_G01_RabMer01_01" value="Luthor Rabbini" />
-  <keys type="npc" key="N_G02_RabMer01_01" value="Larenzo Rabbini" />
-  <keys type="npc" key="N_G03_RabMer01_01" value="Penley Rabbini" />
-  <keys type="npc" key="N_G01_Master_01" value="Guild Master Lumen" />
-  <keys type="npc" key="N_G02_Fellow_01" value="Cleon" />
-  <keys type="npc" key="n_g02_portal_100" value="Regional Transit Shrine" />
-  <keys type="npc" key="n_g02_portal_200" value="Regional Transit Shrine" />
-  <keys type="npc" key="n_g03_portal_100" value="Regional Transit Shrine" />
-  <keys type="npc" key="n_g03_portal_200" value="Regional Transit Shrine" />
-  <keys type="npc" key="n_c01_guildportal_1" value="Breachgate" />
-  <keys type="npc" key="n_c01_guildquest_1" value="Aruden" />
-  <keys type="npc" key="N_G02_Spi_01" value="Stoney" />
-  <keys type="npc" key="N_G03_Spi_01" value="Stoney" />
-  <keys type="npc" key="N_G01_beriana_01" value="Beliana" />
-  <keys type="npc" key="N_C01_kaili_01" value="Kylie" />
-  <keys type="npc" key="N_C01_GFried_01" value="Eunha" />
-  <keys type="npc" key="N_C01_GFried_02" value="Sowon" />
-  <keys type="npc" key="N_C01_GFried_03" value="Yuju" />
-  <keys type="npc" key="N_C01_GFried_04" value="Yerin" />
-  <keys type="npc" key="n_c01_evedevy_01" value="Lovely Daveen" />
-  <keys type="npc" key="n_c01_board_2" value="Quadro de Eventos" />
-  <keys type="npc" key="n_c01_rabishop_01" value="Poporing Rabbini" />
-  <keys type="npc" key="N_F96_Master_01" value="Egratt" />
-  <keys type="npc" key="N_F96_Fellow_01" value="Lumien" />
-  <keys type="npc" key="N_F96_Daillys_01" value="Daryl" />
-  <keys type="npc" key="N_F96_Master_02" value="Egratt" />
-  <keys type="npc" key="n_c01_relic_01" value="Erwin" />
-  <keys type="npc" key="n_t01_0_001" value="Cadet" />
-  <keys type="npc" key="n_t01_0_002" value="High Priest" />
-  <keys type="npc" key="n_t01_0_003" value="Priest" />
-  <keys type="npc" key="n_t01_0_004" value="Rena" />
-  <keys type="npc" key="n_t01_0_005" value="Tortus" />
-  <keys type="npc" key="n_t01_0_006" value="Taikeer" />
-  <keys type="npc" key="n_t01_0_007" value="Kuart" />
-  <keys type="npc" key="n_t01_0_008" value="Hakanas Soldier" />
-  <keys type="npc" key="n_t01_0_009" value="Tortus" />
-  <keys type="npc" key="n_t01_0_010" value="Agarithe" />
-  <keys type="npc" key="n_t01_0_011" value="Eric" />
-  <keys type="npc" key="n_na_make_1" value="." />
-  <keys type="npc" key="n_na_make_2" value="." />
-  <keys type="npc" key="n_na_make_3" value="." />
-  <keys type="npc" key="n_na_make_4" value="." />
-  <keys type="npc" key="n_na_make_5" value="." />
-  <keys type="npc" key="n_na_make_6" value="." />
-  <keys type="npc" key="n_na_make_7" value="." />
-  <keys type="npc" key="n_c01_portal_15" value="Laerin's Warp Portal" />
-  <keys type="npc" key="n_c01_event_05" value="Conrad Rabbini" />
-  <keys type="npc" key="n_c01_event_06" value="Mivelle" />
-  <keys type="npc" key="n_e01_event_01" value="Phantamos" />
-  <keys type="npc" key="n_e01_portal_01" value="Phantamos's Transit Gate" />
-  <keys type="npc" key="n_e01_portal_02" value="Phantamos's Transit Gate" />
-  <keys type="npc" key="n_e01_portal_1" value="Victory Shrine" />
-  <keys type="npc" key="N_c01_RabEve_03_002" value="Watermelon Rabbini" />
-  <keys type="npc" key="n_e01_event_02" value="Gawker" />
-  <keys type="npc" key="n_e01_event_03" value="Would-be Warrior" />
-  <keys type="npc" key="n_e01_event_04" value="Hoarder" />
-  <keys type="npc" key="n_e01_event_05" value="Selfless Woman" />
-  <keys type="npc" key="n_e01_event_06" value="Mivelle's Mercenary" />
-  <keys type="npc" key="n_c01_jeolra_001" value="Jeolra" />
-  <keys type="npc" key="N_F96_ummer" value="Umerr" />
-  <keys type="npc" key="n_e01_event_07" value="Arrah" />
-  <keys type="npc" key="n_c01_0_banira_0001" value="Van Owen Lebrini" />
-  <keys type="npc" key="N_F96_Upgrade_01" value="Daisy" />
-  <keys type="npc" key="N_F96_Adventure_01" value="Familiar Adventure Board" />
-  <keys type="npc" key="N_F96_Fishboard" value="Fishery Bulletin Board" />
-  <keys type="npc" key="N_F96_Fishshop_01" value="Reath" />
-  <keys type="npc" key="n_c01_0_0001_0036" value="Willeman" />
-  <keys type="npc" key="n_c01_saiki_01" value="Saiki" />
-  <keys type="npc" key="n_c01_arousal_01" value="Aru" />
-  <keys type="npc" key="n_c01_rabini_rudol" value="Rabbini Rudolping" />
-  <keys type="npc" key="N_C01_Mentor_01" value="Haman" />
-  <keys type="npc" key="n_c01_0_banira_0002" value="Rabbini Ruina" />
-  <keys type="npc" key="N_D96_Route_1001" value="Underground Labyrinth: Route Monday" />
-  <keys type="npc" key="N_D96_Route_1002" value="Underground Labyrinth: Route Tuesday" />
-  <keys type="npc" key="N_D96_Route_1003" value="Underground Labyrinth: Route Wednesday" />
-  <keys type="npc" key="N_D96_Route_1004" value="Underground Labyrinth: Route Thursday" />
-  <keys type="npc" key="N_D96_Route_1005" value="Underground Labyrinth: Route Friday" />
-  <keys type="npc" key="N_D96_Route_1006" value="Underground Labyrinth: Route Saturday" />
-  <keys type="npc" key="N_D96_Route_1007" value="Underground Labyrinth: Route Sunday" />
-  <keys type="npc" key="N_D96_Route_1101" value="Underground Labyrinth: Time Check #1" />
-  <keys type="npc" key="N_D96_Route_1102" value="Underground Labyrinth: Time Check #2" />
-  <keys type="npc" key="N_D96_Route_1103" value="Underground Labyrinth: Time Check #3" />
-  <keys type="npc" key="N_D96_Route_1104" value="Underground Labyrinth: Time Check #4" />
-  <keys type="npc" key="N_D96_Route_1105" value="Underground Labyrinth: Time Check #5" />
-  <keys type="npc" key="N_D96_Route_1106" value="Underground Labyrinth: Time Check #6" />
-  <keys type="npc" key="N_D96_Route_2001" value="Route Check_Mender" />
-  <keys type="npc" key="N_D96_Route_2002" value="Route Check_Akuma Rabbini" />
-  <keys type="npc" key="N_D96_Route_2003" value="Route Check_Mimick" />
-  <keys type="npc" key="N_D96_Route_2004" value="Route Check_Enhanced Mimick" />
-  <keys type="npc" key="N_D96_Route_2005" value="Route Check_Coward" />
-  <keys type="npc" key="N_D96_1_0001" value="Nota" />
-  <keys type="npc" key="N_D96_1_0002" value="Akuma Rabbini" />
-  <keys type="npc" key="N_D96_1_0003" value="Conata" />
-  <keys type="npc" key="N_D96_1_0004" value="Wounded Soldier" />
-  <keys type="npc" key="N_D96_1_0005" value="Greedy Man" />
-  <keys type="npc" key="N_D96_Portal_re" value="Transit Shrine" />
-  <keys type="npc" key="N_D96_Portal_out" value="Labyrinth Entrance" />
-  <keys type="npc" key="N_D96_1_0006" value="Reginald" />
-  <keys type="npc" key="N_D96_1_0007" value="Itsuka" />
-  <keys type="npc" key="N_D96_1_0008" value="Fleur" />
-  <keys type="npc" key="N_D96_1_0009" value="Elle" />
-  <keys type="npc" key="N_D96_1_0010" value="Wounded Soldier" />
-  <keys type="npc" key="N_D96_1_0011" value="Surgeon" />
-  <keys type="npc" key="N_D96_1_0012" value="Mender" />
-  <keys type="npc" key="N_D96_1_0013" value="Apprentice Mender" />
-  <keys type="npc" key="N_D96_1_0014" value="Hakanas Supplier" />
-  <keys type="npc" key="N_D96_1_0015" value="Archaeologist" />
-  <keys type="npc" key="N_D96_1_0016" value="Famous Historian" />
-  <keys type="npc" key="N_D96_1_0017" value="Adventure Queen Rukiruki" />
-  <keys type="npc" key="N_D96_1_0018" value="Engineer Finny" />
-  <keys type="npc" key="N_D96_1_0019" value="Sir San Garlen" />
-  <keys type="npc" key="N_D96_1_0020" value="Engineer Finny" />
-  <keys type="npc" key="N_C01_E04_Fellow_1" value="Glendor" />
-  <keys type="npc" key="N_D96_Portal_END" value="Exit Dungeon" />
-  <keys type="npc" key="N_F02_rabini_001" value="Yukari Rabbini" />
-  <keys type="npc" key="N_F03_rabini_001" value="Bloomi Rabbini" />
-  <keys type="npc" key="N_D96_1_0021" value="Head of the Crowd Boref" />
-  <keys type="npc" key="N_D96_1_0022" value="Corrupt Bishop Kaisiku" />
-  <keys type="npc" key="IN_c01_summerev_001" value="Duck Boat" />
-  <keys type="npc" key="IN_c01_summerev_002" value="Watermelon" />
-  <keys type="npc" key="IN_c01_summerev_003" value="Public Banners" />
-  <keys type="npc" key="N_f01_storage_001" value="Handison" />
-  <keys type="npc" key="N_f01_storage_002" value="Simon" />
-  <keys type="npc" key="N_f01_HuMNob_001" value="Hasan" />
-  <keys type="npc" key="n_d96_board_01" value="Underground Labyrinth Board" />
-  <keys type="npc" key="n_f15_e01_board_01" value="Gusting Isles Board" />
-  <keys type="npc" key="n_f16_board_01" value="Attaius Peak Board" />
-  <keys type="npc" key="n_c01_gmrab_001" value="Rabbini Debagi" />
-  <keys type="npc" key="n_c01_puppyev_01" value="Revolution" />
-  <keys type="npc" key="n_c01_puppyev_02" value="Spring" />
-  <keys type="npc" key="n_c01_puppyev_03" value="Summer" />
-  <keys type="npc" key="n_c01_puppyev_04" value="Winter" />
-  <keys type="npc" key="n_c01_in_01" value="Corvo" />
-  <keys type="npc" key="n_c01_in_02" value="Tortus" />
-  <keys type="npc" key="n_c01_in_03" value="Rondo Terramunce" />
-  <keys type="npc" key="n_c01_in_04" value="Chapley Singger" />
-  <keys type="npc" key="n_c01_in_05" value="Valeris" />
-  <keys type="npc" key="n_c01_in_06" value="Marjo" />
-  <keys type="npc" key="n_c01_in_07" value="Guarda de Elite de Hakanas" />
-  <keys type="npc" key="n_c01_in_08" value="Milícia de Hakanas" />
-  <keys type="npc" key="n_c01_in_09" value="Guarda de Elite Hakanas" />
-  <keys type="npc" key="n_c01_in_10" value="Yulnus" />
-  <keys type="npc" key="n_c01_in_11" value="Guarda de Vento de Hakanas" />
-  <keys type="npc" key="n_c01_in_12" value="Dahrven" />
-  <keys type="npc" key="n_c01_victory_01" value="Banquete de Ronfraine" />
-  <keys type="npc" key="n_c01_in_route_19" value="Reforço de Combate de Salant" />
-  <keys type="npc" key="n_c01_in_route_22" value="Reforço de Combate de Salant" />
-  <keys type="npc" key="n_c01_in_route_23" value="Reforço de Combate  de Salant" />
-  <keys type="npc" key="n_c01_in_route_24" value="Reforço de Combate  de Salant" />
-  <keys type="npc" key="n_c01_in_route_25" value="Reforço de Combate de Salant" />
-  <keys type="npc" key="n_c01_in_route_26" value="Reforço de Combate  de Salant" />
-  <keys type="npc" key="n_c01_in_route_27" value="Reforço de Combate de Salant" />
-  <keys type="npc" key="n_c01_in_route_28" value="Reforço de Combate de Salant" />
-  <keys type="npc" key="n_c01_in_13" value="Guarin" />
-  <keys type="npc" key="n_c01_healbunny_01" value="Curandeiro Lebrini" />
-  <keys type="npc" key="n_f02_spotshop_0" value="Yunggir" />
-  <keys type="npc" key="n_f02_spotshop_1" value="Kyusan" />
-  <keys type="npc" key="n_f02_spotshop_2" value="Henjins" />
-  <keys type="npc" key="n_f02_spotshop_3" value="Henzerk" />
-  <keys type="npc" key="n_f02_spotshop_4" value="Minus" />
-  <keys type="npc" key="n_c01_action_001" value="Kaiyu" />
-  <keys type="npc" key="n_c01_newitemrab_01" value="Rabbini Ongi" />
-  <keys type="npc" key="n_c01_xmaspuppy_01" value="Hyuk-yi" />
-  <keys type="npc" key="n_c01_xmaspuppy_02" value="Floco de neve" />
-  <keys type="npc" key="n_f09_xmasrab_01" value="Santa Labis Mas" />
-  <keys type="npc" key="n_f09_rudol_01" value="Rudolf" />
-  <keys type="npc" key="n_f09_xmasrab_02" value="Ravini Rudolpu" />
-  <keys type="npc" key="n_f09_xmasrab_03" value="Fada Ravini" />
-  <keys type="npc" key="n_c01_olympic_001" value="Half -moon" />
-  <keys type="npc" key="n_c01_olympic_002" value="Tiger" />
-  <keys type="npc" key="n_c01_olympic_003" value="Yuna" />
-  <keys type="npc" key="n_c01_olympic_004" value="Dabin" />
-  <keys type="npc" key="n_c01_olympic_005" value="Meia-lua" />
-  <keys type="npc" key="n_c01_olympic_006" value="Meia-lua" />
-  <keys type="npc" key="n_c01_olympic_007" value="Sopas de Hakana" />
-  <keys type="npc" key="n_c01_ticket_01" value="Criação" />
-  <keys type="npc" key="n_c01_annfellow_01" value="Spiroon of innocent" />
-  <keys type="npc" key="n_c01_annfellow_02" value="Torkai Inteligente" />
-  <keys type="npc" key="n_c01_annfellow_03" value="Brilhante Tshanan" />
+  <keys prop="Name" type="monster" key="N_03_0_0095_0001" value="Elite dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0095_0002" value="Vanguarda dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="N_03_0_0095_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0194_0000" value="Excelron" />
+  <keys prop="Description" type="monster" key="N_03_0_0194_0000Detail" value="Dragão Guardião Subalterno" />
+  <keys prop="Name" type="monster" key="N_03_0_0194_0001" value="Belzech" />
+  <keys prop="Description" type="monster" key="N_03_0_0194_0001Detail" value="Dragão Guardião Subalterno" />
+  <keys prop="Name" type="monster" key="N_03_0_0246_0000" value="Gunther" />
+  <keys prop="Description" type="monster" key="N_03_0_0246_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0023_0002" value="Mulher Capturada" />
+  <keys prop="Description" type="monster" key="N_03_0_0023_0002Detail" value="Aldeã do Bosque de Kell" />
+  <keys prop="Name" type="monster" key="N_03_0_0007_0000" value="Homem Capturado" />
+  <keys prop="Description" type="monster" key="N_03_0_0007_0000Detail" value="Aldeã do Bosque de Kell" />
+  <keys prop="Name" type="monster" key="N_03_0_0111_0000" value="Garoto Capturado" />
+  <keys prop="Description" type="monster" key="N_03_0_0111_0000Detail" value="Aldeã do Bosque de Kell" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0156" value="Aventureiro Ferido" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0156Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0155" value="Reyan" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0155Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0070" value="Unica Rayne" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0070Detail" value="Guardiã de Unicórnios" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0157" value="Halcyon" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0157Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0005_0000" value="Capitão Black Joe" />
+  <keys prop="Description" type="monster" key="N_05_0_0005_0000Detail" value="Balseiro da Costa de Parna" />
+  <keys prop="Name" type="monster" key="N_99_0_0001_0000" value="Colono" />
+  <keys prop="Description" type="monster" key="N_99_0_0001_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0158" value="Soldado Raso Trid" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0158Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0159" value="Draden" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0159Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0160" value="Soldado Raso Daylos" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0160Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_03_0_0192_0000" value="Pônei" />
+  <keys prop="Description" type="monster" key="N_03_0_0192_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0002_0000" value="Pedra de Retorno" />
+  <keys prop="Description" type="monster" key="N_05_5_0002_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0002_0001" value="Pedra de Retorno" />
+  <keys prop="Description" type="monster" key="N_05_5_0002_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0002_0002" value="Pedra de Retorno" />
+  <keys prop="Description" type="monster" key="N_05_5_0002_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0161" value="Fazendeiro Ferido" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0161Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0162" value="Soldado Ferido" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0162Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0163" value="Serlian Ancião" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0163Detail" value="Zadaran" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0164" value="Zebia Koter" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0164Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0165" value="Zhamis Katarr" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0165Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0071" value="Senhora Malone" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0071Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0672_0005" value="Vaca Solta" />
+  <keys prop="Description" type="monster" key="N_03_0_0672_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0000" value="Annsjon" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0000Detail" value="Guarda do Santuário de Trânsito" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0001" value="Raglans" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0001Detail" value="Guarda do Santuário de Trânsito" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0002" value="Croban" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0002Detail" value="Guarda do Santuário de Trânsito" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0000" value="Shahan" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0000Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0001" value="Lotus" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0001Detail" value="Socorrista" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0002" value="Sumo Sacerdote" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0002Detail" value="Templo de Ellora" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0003" value="Sacerdote" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0003Detail" value="Templo de Ellora" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0004" value="Capitão Bernstein" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0004Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0005" value="Cavaleiro" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0005Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0006" value="Arquivista Bertrand" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0006Detail" value="Biblioteca de Baellas" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0007" value="Bibliotecário" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0007Detail" value="Biblioteca de Baellas" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0000" value="Bibliotecário" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0000Detail" value="Biblioteca de Baellas" />
+  <keys prop="Name" type="monster" key="N_05_0_0423_0000" value="Camareiro-Mor" />
+  <keys prop="Description" type="monster" key="N_05_0_0423_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0008" value="Camareiro" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0008Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0009" value="Mestre da Guilda" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0009Detail" value="Oficial de Hakanas" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0010" value="Comerciante de Arte" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0010Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0011" value="Frantz" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0011Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="N_05_0_2000_0000" value="Gatuno" />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0012" value="Aspirante a Chef" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0012Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_5005_0000" value="Angariadora" />
+  <keys prop="Description" type="monster" key="N_05_0_5005_0000Detail" value="Garçonete" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0013" value="Diretor Willow" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0013Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0014" value="Pesquisador" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0014Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0015" value="Alex" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0015Detail" value="Chef Mestre" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0016" value="Hilbern" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0016Detail" value="Alquimista Mestre" />
+  <keys prop="Name" type="monster" key="N_05_0_2000_0001" value="Jovem Faminto" />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2005_0000" value="Homem Faminto" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2000_0002" value="Garoto Esfomeado" />
+  <keys prop="Description" type="monster" key="N_05_0_2000_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_5002_0000" value="Mulher Esfomeada" />
+  <keys prop="Description" type="monster" key="N_05_0_5002_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0017" value="Brighton" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0017Detail" value="Homem de Ideias" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0018" value="Professor" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0018Detail" value="Treinador de Recruta" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0001" value="Professor Assistente" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0001Detail" value="Treinador de Recruta" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0019" value="Assistente" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0019Detail" value="Treinador de Recruta" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0020" value="Assistente" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0020Detail" value="Treinador de Recruta" />
+  <keys prop="Name" type="monster" key="N_05_0_0095_0000" value="Cadete" />
+  <keys prop="Description" type="monster" key="N_05_0_0095_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0095_0001" value="Estagiário Dispensado" />
+  <keys prop="Description" type="monster" key="N_05_0_0095_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0025" value="Estagiário Arqueiro" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0025Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0021" value="Homem Elegante" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0021Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0002" value="Mulher Apaixonada" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0022" value="Amante Rejeitado" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0022Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2005_0001" value="Moleiro" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2003_0000" value="Filho do Moleiro" />
+  <keys prop="Description" type="monster" key="N_05_0_2003_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0023" value="Pauper Infeliz" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0023Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0003" value="Fashionista" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0024" value="Urbanita" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0024Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0172_0000" value="Arvoredo do Rei" />
+  <keys prop="Description" type="monster" key="N_05_5_0172_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0172_0001" value="Academia de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_5_0172_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0172_0002" value="Praça da Vitória" />
+  <keys prop="Description" type="monster" key="N_05_5_0172_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0172_0003" value="Reino de Hakanas" />
+  <keys prop="Description" type="monster" key="N_05_5_0172_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0000" value="Entrada do Sul" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0001" value="Fazenda Elgren" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0002" value="Travessia de Hakain" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0003" value="Arvoredo do Rei" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0004" value="Floresta de Ecos" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0005" value="Plantação do Oeste" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0006" value="Entrada do Leste" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0007" value="Castelo de Hakanas - Portão Leste" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0008" value="Porto de Aventura" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0008Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0009" value="Bairro do Rio" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0009Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0010" value="Pátio de Treinamento" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0010Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0011" value="Bairro do Mercado" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0012" value="Castelo de Hakanas - Portão Principal" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0012Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0013" value="Cidade Baixa" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0013Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0014" value="Academia de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0014Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0015" value="Praça Artesã" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0015Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0016" value="Praça da Vitória" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0016Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0017" value="Quarteirão dos Estudiosos" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0017Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0018" value="Banco Estatal" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0018Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0019" value="Castelo de Hakanas" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0019Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0020" value="Praça do Dragão Guardião" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0020Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0021" value="Biblioteca de Homenagem a Baellas" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0021Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0022" value="Pátio" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0022Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_5_0173_0023" value="Templo de Ellora" />
+  <keys prop="Description" type="monster" key="N_05_5_0173_0023Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0026" value="Vendedor de Insígnias da Guilda" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0026Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0027" value="Oficial da Corte" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0027Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0004" value="Oficial da Corte" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0028" value="Phillos" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0028Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_1_0769_0000" value="Cavalo de Guerra" />
+  <keys prop="Description" type="monster" key="N_05_1_0769_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_1_0671_0000" value="Aranha Gélida de Spara" />
+  <keys prop="Description" type="monster" key="N_05_1_0671_0000Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_1_0704_0000" value="Rogaton de Pierre" />
+  <keys prop="Description" type="monster" key="N_05_1_0704_0000Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_1_0245_0000" value="Urso de Sovell" />
+  <keys prop="Description" type="monster" key="N_05_1_0245_0000Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_1_1720_0000" value="Unicórnio Domado" />
+  <keys prop="Description" type="monster" key="N_05_1_1720_0000Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0166" value="Sarnik" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0166Detail" value="Treinador de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0167" value="Canavan" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0167Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0168" value="Capitão Perseguidor" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0168Detail" value="Caçador de Averis" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0169" value="Legis" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0169Detail" value="Caçador de Averis" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0170" value="Khude, o Cozinheiro" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0170Detail" value="Caçador de Averis" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0029" value="Domador de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0029Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0030" value="Domador de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0030Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0171" value="Bernheart" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0171Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0172" value="Instrutor Argon" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0172Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0339_0000" value="Pedra de Proteção" />
+  <keys prop="Description" type="monster" key="N_03_0_0339_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0031" value="Margot" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0031Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0032" value="Charlie" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0032Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0033" value="Brown" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0033Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0034" value="Jake" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0034Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0035" value="Criança Brincando" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0035Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0005" value="Criança Brincando" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0036" value="Aristocrata Provincial" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0036Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0037" value="Ford" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0037Detail" value="Farmácia" />
+  <keys prop="Name" type="monster" key="N_05_0_0083_0000" value="Urso-Pardo" />
+  <keys prop="Description" type="monster" key="N_05_0_0083_0000Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0245_0000" value="Pantera" />
+  <keys prop="Description" type="monster" key="N_05_0_0245_0000Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0038" value="Domador de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0038Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0039" value="Pesquisador de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0039Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0072" value="Sayne" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0072Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0073" value="Dido" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0073Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0173" value="Bagrand" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0173Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0174" value="Comandante da Milícia Berdo" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0174Detail" value="Bosque de Kell" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0040" value="Pastor Sentado" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0040Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0041" value="Marido Chorando" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0041Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0042" value="Fazendeiro Aflito" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0042Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0043" value="Namorado Risonho" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0043Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0044" value="Homem Segurando Item" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0044Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0045" value="Homem Andando Segurando Item" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0045Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0046" value="Garoto Animado" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0046Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0047" value="Fazendeiro Agonizado" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0047Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0048" value="Fazendeiro Inspecionador de Solo" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0048Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0049" value="Fazendeira" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0049Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0050" value="Fazendeiro Bronzeado" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0050Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0051" value="Fazendeiro Consolidado" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0051Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0006" value="Esposa Ranzinza" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0007" value="Fazendeiro Sussurrante" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0008" value="Namorada Risonha" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0008Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0009" value="Garota Animada" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0009Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0010" value="Inspetor de Solo" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0010Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0011" value="Fazendeiro Capinando" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0011Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0012" value="Fazendeiro Colhendo" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0012Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0052" value="Aprendiz de Cozinheiro" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0052Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0053" value="Aprendiz de Ferreiro" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0053Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0054" value="Aprendiz de Cozinheiro" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0054Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0055" value="Aprendiz de Ferreiro" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0055Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0056" value="Bakiit" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0056Detail" value="Inspetor de Batalha" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0057" value="Fenzahr" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0057Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0058" value="Jane" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0058Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0013" value="Examinador de Batalhas de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0013Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0059" value="Pesquisador de Familiares" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0059Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_1_0016_0000" value="Tarântula Domada" />
+  <keys prop="Description" type="monster" key="N_05_1_0016_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0060" value="Aldar" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0060Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0014" value="Pinny" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0014Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0170_0000" value="Lobo Sombrio Domado" />
+  <keys prop="Description" type="monster" key="N_05_0_0170_0000Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0223_0000" value="Dallwynn" />
+  <keys prop="Description" type="monster" key="N_05_0_0223_0000Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0061" value="Garland" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0061Detail" value="Comandante de Campo" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0003" value="Darris" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0003Detail" value="Vigia Florestal" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0004" value="Drayful" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0004Detail" value="Guarda do Santuário de Trânsito" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0179" value="Guarda da Capital" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0179Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0180" value="Soldado de Hakanas" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0180Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0181" value="Soldado de Hakanas" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0181Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0182" value="Mestre Quarteleiro" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0182Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0183" value="Soldado de Hakanas" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0183Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0184" value="Soldado de Hakanas" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0184Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0185" value="Ancião" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0185Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0075" value="Garotinha Fofa" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0075Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0186" value="Sentinela" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0186Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2005_0002" value="Administrador do Farol" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0076" value="Cidadã" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0076Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0077" value="Taverneira" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0077Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2005_0003" value="Moleiro" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2005_0004" value="Moleiro" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0187" value="Sentinela" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0187Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0188" value="Fazendeiro Tímido" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0188Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0078" value="Aprendiz de Costureiro" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0078Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0079" value="Florista" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0079Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0189" value="Ancião" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0189Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0080" value="Garota" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0080Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0190" value="Garoto" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0190Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_2005_0005" value="Administrador de Fazenda" />
+  <keys prop="Description" type="monster" key="N_05_0_2005_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0191" value="Cavalaria dos Cavaleiros do Dragão" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0191Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0002_0081" value="Princesa Lania" />
+  <keys prop="Description" type="monster" key="N_03_0_0002_0081Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0005" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0006" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0007" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0008" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0008Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0022_0009" value="Santuário de Passagem" />
+  <keys prop="Description" type="monster" key="N_05_0_0022_0009Detail" value="" />
+  <keys prop="Name" type="monster" key="N_99_0_0003_0002" value="Renata" />
+  <keys prop="Description" type="monster" key="N_99_0_0003_0002Detail" value="Cavaleira Real" />
+  <keys prop="Name" type="monster" key="N_99_0_0004_0001" value="Tortus" />
+  <keys prop="Description" type="monster" key="N_99_0_0004_0001Detail" value="Capitão da Guarda" />
+  <keys prop="Name" type="monster" key="N_99_0_0008_0000" value="Phelps" />
+  <keys prop="Description" type="monster" key="N_99_0_0008_0000Detail" value="Guarda dos Cavaleiros do Dragão" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0062" value="Angélica" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0062Detail" value="Pesquisador de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0063" value="Pierre" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0063Detail" value="Pesquisador de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0064" value="Sparas" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0064Detail" value="Pesquisador de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0065" value="Sovell" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0065Detail" value="Pesquisador de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_1_0769_0001" value="Merlin" />
+  <keys prop="Description" type="monster" key="N_05_1_0769_0001Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0193" value="Soldado de Hakanas" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0193Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0194" value="Flight" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0194Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0195" value="John" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0195Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0196" value="Tommy" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0196Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0002_0015" value="Esmeralda" />
+  <keys prop="Description" type="monster" key="N_05_0_0002_0015Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0197" value="Lorde Rollan" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0197Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0198" value="Mavel" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0198Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0199" value="Yoren" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0199Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_LeopSnow_001" value="Jane's Tiger" />
+  <keys prop="Description" type="monster" key="N_C01_LeopSnow_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_Leop_001" value="Fenzahr's Panther" />
+  <keys prop="Description" type="monster" key="N_C01_Leop_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0200" value="Soldado de Hakanas" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0200Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0202" value="Sir Brandon" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0202Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0203" value="Lorde Kye" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0203Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0204" value="Keebo" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0204Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0205" value="Urus" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0205Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0206" value="Edgar" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0206Detail" value="Pesquisador de Pedra da Alma" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0207" value="McGrown" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0207Detail" value="Pesquisador de Pedra da Alma" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0208" value="Chakai de Latini" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0208Detail" value="Academia de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0066" value="Yode" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0066Detail" value="Guarda do Santuário de Trânsito" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0067" value="Snider" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0067Detail" value="Capitão do Titã do Céu" />
+  <keys prop="Name" type="monster" key="N_05_1_0704_0001" value="Viajar ao Santuário da Capital" />
+  <keys prop="Description" type="monster" key="N_05_1_0704_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0068" value="Pedra de Retorno" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0068Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0069" value="Pedra de Retorno" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0069Detail" value="" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0001" value="Hughs" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0001Detail" value="Barão" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0002" value="Schan" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0002Detail" value="Aristocrata" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0003" value="Willem" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0003Detail" value="Magistrado" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0004" value="Marsala" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0004Detail" value="Camareiro" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0005" value="Ruben" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0005Detail" value="Camareiro" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0006" value="Russell" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0006Detail" value="General" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0007" value="EnKiehl" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0007Detail" value="Cavaleiro de Classe Alta" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0008" value="Hakeru" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0008Detail" value="Cavaleira Guardiã" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0009" value="Joshua" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0009Detail" value="Cavaleira Real" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0010" value="Alkantra" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0010Detail" value="Cavaleira Insignificante" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0011" value="Jay" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0011Detail" value="Guarda da Capital" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0012" value="Leo" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0012Detail" value="Soldado de Hakanas" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0013" value="Yulnus" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0013Detail" value="Grande Mago" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0014" value="Sombra" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0014Detail" value="Boneco" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0015" value="Jeera" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0015Detail" value="Feiticeiro da Virtude" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0016" value="Dahrven" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0016Detail" value="Mago Adepto" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0017" value="Esby" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0017Detail" value="Iniciada" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0018" value="Mandarim" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0018Detail" value="Mago Sombrio de Elite" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0019" value="Wes" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0019Detail" value="Mago Sombrio Avançado" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0020" value="Teemeh" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0020Detail" value="Mago Sombrio Iniciado" />
+  <keys prop="Name" type="monster" key="N_03_0_0010_0021" value="Lason" />
+  <keys prop="Description" type="monster" key="N_03_0_0010_0021Detail" value="Mago Suspeito" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_2001" value="Plati" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_2001Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="n_03_0_0001_2002" value="Glati" />
+  <keys prop="Description" type="monster" key="n_03_0_0001_2002Detail" value="Treinadora de Familiares" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_2000" value="Diehl" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_2000Detail" value="Treinador de Familiares" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0070" value="Corvo" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0070Detail" value="Comandante da Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0071" value="Aaron" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0071Detail" value="Fazendeiro de Elgren" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0072" value="Tieli, a Fada" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0072Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0073" value="Azzar" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0073Detail" value="" />
+  <keys prop="Name" type="monster" key="N_c01_Whale_001" value="Sky Titan" />
+  <keys prop="Description" type="monster" key="N_c01_Whale_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_c01_Toucan_001" value="Scalleda" />
+  <keys prop="Description" type="monster" key="N_c01_Toucan_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_c01_Bui_001" value="Fornalha" />
+  <keys prop="Description" type="monster" key="N_c01_Bui_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_c01_HuMSha_001" value="Titan Pilot" />
+  <keys prop="Description" type="monster" key="N_c01_HuMSha_001Detail" value="Onyx Order" />
+  <keys prop="Name" type="monster" key="N_f02_HuMsol02_001" value="Frozen Soldier's Soul" />
+  <keys prop="Description" type="monster" key="N_f02_HuMsol02_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0001" value="Amelia" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0001Detail" value="Princesa de Hakanas" />
+  <keys prop="Name" type="monster" key="N_d02_HuMSha_001" value="Zeloth" />
+  <keys prop="Description" type="monster" key="N_d02_HuMSha_001Detail" value="Onyx Order" />
+  <keys prop="Name" type="monster" key="N_03_taming_0001" value="Pedra Mágica de Dominação" />
+  <keys prop="Description" type="monster" key="N_03_taming_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_d02_HuMMil_001" value="Radus" />
+  <keys prop="Description" type="monster" key="N_d02_HuMMil_001Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_f03_Whale_001" value="Sky Titan" />
+  <keys prop="Description" type="monster" key="N_f03_Whale_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0074" value="Skippus" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0074Detail" value="Capitão do Titã do Céu" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0209" value="Kobin" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0209Detail" value="Protetor do Santuário de Trânsito do Acampamento de Sansupus" />
+  <keys prop="Name" type="monster" key="N_03_0_0001_0210" value="Kuff" />
+  <keys prop="Description" type="monster" key="N_03_0_0001_0210Detail" value="Protetor do Santuário de Trânsito do Castelo de Hakanas" />
+  <keys prop="Name" type="monster" key="N_c01_HuMMer_001" value="Mirrhen" />
+  <keys prop="Description" type="monster" key="N_c01_HuMMer_001Detail" value="Armor Craft Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_HuMMer_002" value="Hendricks" />
+  <keys prop="Description" type="monster" key="N_c01_HuMMer_002Detail" value="Alchemy Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_hufpub_001" value="Angus" />
+  <keys prop="Description" type="monster" key="N_c01_hufpub_001Detail" value="Cooking Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_HuMMer_003" value="Morrison" />
+  <keys prop="Description" type="monster" key="N_c01_HuMMer_003Detail" value="Weapon Craft Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_HuMMer_004" value="Roben" />
+  <keys prop="Description" type="monster" key="N_c01_HuMMer_004Detail" value="Barder Craft Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_hufmer_001" value="Ellia" />
+  <keys prop="Description" type="monster" key="N_c01_hufmer_001Detail" value="Jewelry Craft Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_HuMFar_001" value="Gedriff" />
+  <keys prop="Description" type="monster" key="N_c01_HuMFar_001Detail" value="Master Craftsman Trainee" />
+  <keys prop="Name" type="monster" key="N_f02_HuMmer4_001" value="Jedury" />
+  <keys prop="Description" type="monster" key="N_f02_HuMmer4_001Detail" value="Shopkeep" />
+  <keys prop="Name" type="monster" key="N_f02_HuFMer01_001" value="Missha" />
+  <keys prop="Description" type="monster" key="N_f02_HuFMer01_001Detail" value="Shopkeep" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0008" value="Rick" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0008Detail" value="Neto do Duke" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0009" value="John Clakey" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0009Detail" value="Aldeão do Bosque de Kell" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0010" value="Maris" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0010Detail" value="Sobrevivente" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0011" value="Keersin" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0011Detail" value="Cavaleira do Dragão" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0012" value="Harry" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0012Detail" value="Rena?" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0013" value="Renata" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0013Detail" value="Cavaleira Real" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0014" value="Renata" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0014Detail" value="Cavaleira Real" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0015" value="Renata" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0015Detail" value="Cavaleira Real" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0016" value="Ive" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0016Detail" value="Sentinela das Ruínas" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0017" value="Melwood" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0017Detail" value="Aventureiro Novato" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0018" value="Mazis" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0018Detail" value="Curtidor" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0019" value="Bruco" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0019Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0020" value="Sino" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0020Detail" value="Inventor" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0021" value="Grimm Dourado" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0021Detail" value="Sobrevivente" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0022" value="Harmon" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0022Detail" value="Magistrado do Campo" />
+  <keys prop="Name" type="monster" key="N_c01_HuMsol_001" value="Gareth Bane" />
+  <keys prop="Description" type="monster" key="N_c01_HuMsol_001Detail" value="Capital Guard" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0023" value="Obelisco Secreto" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0023Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0024" value="Harry" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0024Detail" value="Rena?" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0025" value="Rick" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0025Detail" value="Neto do Duke" />
+  <keys prop="Name" type="monster" key="N_f02_Board_0003" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_f02_Board_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f02_Board_0004" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_f02_Board_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f02_Board_0005" value="Mission Board " />
+  <keys prop="Description" type="monster" key="N_f02_Board_0005Detail" value="Northern Watchtower" />
+  <keys prop="Name" type="monster" key="N_f02_Board_0006" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_f02_Board_0006Detail" value="Gilded Woods " />
+  <keys prop="Name" type="monster" key="N_f02_Board_0007" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_f02_Board_0007Detail" value="Broken Caldera " />
+  <keys prop="Name" type="monster" key="N_f02_Board_0008" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_f02_Board_0008Detail" value="Cemetery " />
+  <keys prop="Name" type="monster" key="N_f02_Board_0009" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_f02_Board_0009Detail" value="Guardian's Gate " />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0001" value="Phillip" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0001Detail" value="Transit Shrine Keeper" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0002" value="Xiona" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0002Detail" value="General Merchant" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0003" value="Recall Stone" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0004" value="Miller" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0004Detail" value="Arms Merchant" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0005" value="Ashlynn" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0005Detail" value="Armorer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0006" value="Ray" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0006Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0007" value="Mabina" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0007Detail" value="Ray's Familiar" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0008" value="Arthur" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0008Detail" value="Mender" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0009" value="Hall" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0009Detail" value="Storage Master" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0010" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0010Detail" value="Garrison Camp" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0011" value="Khandar'rahn" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0011Detail" value="Laborer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0012" value="Private" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0012Detail" value="Dragon Knight" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0013" value="Sentinel" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0013Detail" value="Dragon Knight" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0014" value="Shock Trooper" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0014Detail" value="Dragon Knight" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0015" value="Bakir" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0015Detail" value="Commander" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0001" value="Harrison" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0001Detail" value="World Shrine Keeper" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0002" value="Kristina" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0002Detail" value="General Merchant" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0003" value="Recall Stone" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0004" value="Berrik" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0004Detail" value="Arms Merchant" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0005" value="Luis" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0005Detail" value="Armorer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0006" value="Zess" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0006Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0007" value="Queenie" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0007Detail" value="Zess's Familiar" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0008" value="William" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0008Detail" value="Mender" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0009" value="Hoyle" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0009Detail" value="Storage Master" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0010" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0010Detail" value="Fort Baellas" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0011" value="Rander" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0011Detail" value="Market Broker" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0012" value="Fuller" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0012Detail" value="Weapon Master Craftsman" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0013" value="Kit" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0013Detail" value="Master Armorsmith" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0014" value="Francin" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0014Detail" value="Cook" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0015" value="Bernyn" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0015Detail" value="Alchemist" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0016" value="Saddler" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0016Detail" value="Master Jeweler" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0017" value="Watson" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0017Detail" value="Master Barder Crafter" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0018" value="Crow" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0018Detail" value="Onyx Order" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0019" value="John Viper" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0019Detail" value="Baellas Commander" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0026" value="Linetta" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0026Detail" value="Feiticeiro da Virtude" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0027" value="Linetta" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0027Detail" value="Feiticeiro da Virtude" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0028" value="Linetta" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0028Detail" value="Feiticeiro da Virtude" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0029" value="Behain Skeron" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0029Detail" value="Ordem Ônix" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0030" value="Russell" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0030Detail" value="General" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0031" value="Homer" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0031Detail" value="Maga Adepta" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0032" value="Homer" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0032Detail" value="Maga Adepta" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0033" value="Rômulo" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0033Detail" value="Mestre Artesão" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0034" value="Quadro de Missões da Caldeira do Dragão" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0034Detail" value="Cavaleiro de Pégaso" />
+  <keys prop="Name" type="monster" key="N_C01_0_0001_0035" value="Quadro de Missões do Bairro do Mercado" />
+  <keys prop="Description" type="monster" key="N_C01_0_0001_0035Detail" value="Travessia de Hakain" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0020" value="Cynth Mayer" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0020Detail" value="Onyx Order" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0021" value="Tortus" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0021Detail" value="Guard Captain" />
+  <keys prop="Name" type="monster" key="N_F09_0_0003_0001" value="Jennifer" />
+  <keys prop="Description" type="monster" key="N_F09_0_0003_0001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F09_0_0003_0002" value="Ferard" />
+  <keys prop="Description" type="monster" key="N_F09_0_0003_0002Detail" value="Onyx Order" />
+  <keys prop="Name" type="monster" key="N_F09_0_0004_0001" value="Jinta'rahn" />
+  <keys prop="Description" type="monster" key="N_F09_0_0004_0001Detail" value="Master Builder" />
+  <keys prop="Name" type="monster" key="N_F09_0_0004_0002" value="Mazu'rahn" />
+  <keys prop="Description" type="monster" key="N_F09_0_0004_0002Detail" value="Laborer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0004_0003" value="Famku'shan" />
+  <keys prop="Description" type="monster" key="N_F09_0_0004_0003Detail" value="Laborer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0004_0004" value="Juan" />
+  <keys prop="Description" type="monster" key="N_F09_0_0004_0004Detail" value="Familiar Guard" />
+  <keys prop="Name" type="monster" key="N_F09_0_0004_0005" value="Ku'khat" />
+  <keys prop="Description" type="monster" key="N_F09_0_0004_0005Detail" value="Merchant" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0016" value="Sorina" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0016Detail" value="Dragon Knight Guard" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0017" value="Zellan" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0017Detail" value="Dragon Knight Guard" />
+  <keys prop="Name" type="monster" key="N_p01_HuMmer_01" value="Torio" />
+  <keys prop="Description" type="monster" key="N_p01_HuMmer_01Detail" value="Enigma Chest Coin Dealer" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0019" value="Cavalry Private" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0019Detail" value="Dragon Knight" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0020" value="Sky Cavalry" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0020Detail" value="Dragon Knight" />
+  <keys prop="Name" type="monster" key="N_F09_0_0001_0023" value="Mezaks" />
+  <keys prop="Description" type="monster" key="N_F09_0_0001_0023Detail" value="Missing Scholar" />
+  <keys prop="Name" type="monster" key="N_F09_0_0005_0001" value="Stefan" />
+  <keys prop="Description" type="monster" key="N_F09_0_0005_0001Detail" value="Mender" />
+  <keys prop="Name" type="monster" key="N_F09_0_0005_0002" value="Recall Stone" />
+  <keys prop="Description" type="monster" key="N_F09_0_0005_0002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F09_0_0005_0003" value="Yulian" />
+  <keys prop="Description" type="monster" key="N_F09_0_0005_0003Detail" value="Mender" />
+  <keys prop="Name" type="monster" key="N_F09_0_0005_0004" value="Recall Stone" />
+  <keys prop="Description" type="monster" key="N_F09_0_0005_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f09_0_0002_0023" value="Mission Board" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0023Detail" value="" />
+  <keys prop="Name" type="monster" key="N_HK1_0_9999_9002" value="Baul" />
+  <keys prop="Description" type="monster" key="N_HK1_0_9999_9002Detail" value="Ghost" />
+  <keys prop="Name" type="monster" key="N_CO1_0_9999_9003" value="Jutren" />
+  <keys prop="Description" type="monster" key="N_CO1_0_9999_9003Detail" value="Baul's Heir" />
+  <keys prop="Name" type="monster" key="N_c01_HuFSol01_006" value="Latini" />
+  <keys prop="Description" type="monster" key="N_c01_HuFSol01_006Detail" value="Familiar Researcher" />
+  <keys prop="Name" type="monster" key="N_F09_0_0005_0005" value="Cross" />
+  <keys prop="Description" type="monster" key="N_F09_0_0005_0005Detail" value="Mender" />
+  <keys prop="Name" type="monster" key="N_f02_Hummer_001" value="Wilson" />
+  <keys prop="Description" type="monster" key="N_f02_Hummer_001Detail" value="Arms Merchant" />
+  <keys prop="Name" type="monster" key="N_F16_0_0001_0001" value="Clemence" />
+  <keys prop="Description" type="monster" key="N_F16_0_0001_0001Detail" value="Onyx Order" />
+  <keys prop="Name" type="monster" key="N_C01_Kepley_001" value="Rufala Teega" />
+  <keys prop="Description" type="monster" key="N_C01_Kepley_001Detail" value="Royal Priest" />
+  <keys prop="Name" type="monster" key="N_F02_Rikapo_001" value="Ricappo" />
+  <keys prop="Description" type="monster" key="N_F02_Rikapo_001Detail" value="Black and Tan Traders" />
+  <keys prop="Name" type="monster" key="N_C01_guide_001" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_001Detail" value="Foothills Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_002" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_002Detail" value="Kellwoods Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_003" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_003Detail" value="Cemetery Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_004" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_004Detail" value="Zadaran Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_005" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_005Detail" value="Garrison Camp Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_006" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_006Detail" value="Construction Site Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_007" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_007Detail" value="Fort Baellas Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_008" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_008Detail" value="Reedwatch Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_009" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_009Detail" value="Garrison Camp Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_010" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_010Detail" value="Sacred Shallows Guide" />
+  <keys prop="Name" type="monster" key="N_C01_guide_011" value="O'Beaver" />
+  <keys prop="Description" type="monster" key="N_C01_guide_011Detail" value="Hakoora Guide" />
+  <keys prop="Name" type="monster" key="N_f02_YFireBird_001" value="Caldera Firebeak" />
+  <keys prop="Description" type="monster" key="N_f02_YFireBird_001Detail" value="Frayer's Familiar" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0075" value="Capitão Blaider" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0075Detail" value="Balseiro da Fenda de Tritael" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0076" value="Capitão Blaider" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0076Detail" value="Balseiro da Fenda de Tritael" />
+  <keys prop="Name" type="monster" key="N_05_0_0001_0077" value="Skippus" />
+  <keys prop="Description" type="monster" key="N_05_0_0001_0077Detail" value="Capitão do Titã do Céu" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0024" value="Nightmare" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0024Detail" value="Crow's Familiar" />
+  <keys prop="Name" type="monster" key="N_F09_0_0002_0025" value="Clemence" />
+  <keys prop="Description" type="monster" key="N_F09_0_0002_0025Detail" value="Onyx Order Private" />
+  <keys prop="Name" type="monster" key="N_f09_Smith_001" value="Weapon Anvil" />
+  <keys prop="Description" type="monster" key="N_f09_Smith_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f09_Smith_002" value="Armor Anvil" />
+  <keys prop="Description" type="monster" key="N_f09_Smith_002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f09_Cook_001" value="Cook Station" />
+  <keys prop="Description" type="monster" key="N_f09_Cook_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f09_Alchemy_001" value="Alchemy Lab" />
+  <keys prop="Description" type="monster" key="N_f09_Alchemy_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f09_Accessory_001" value="Jewelry Table" />
+  <keys prop="Description" type="monster" key="N_f09_Accessory_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f09_Fellow_001" value="Barder Craft Table" />
+  <keys prop="Description" type="monster" key="N_f09_Fellow_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f09_rania_01" value="Princess Lania" />
+  <keys prop="Description" type="monster" key="N_f09_rania_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_HuMNob_001" value="Tyton" />
+  <keys prop="Description" type="monster" key="N_C01_HuMNob_001Detail" value="Market Broker" />
+  <keys prop="Name" type="monster" key="N_c01_Event_cup_01" value="Coach Hong" />
+  <keys prop="Description" type="monster" key="N_c01_Event_cup_01Detail" value="Soccer Ball Trading Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_Event_cup_02" value="Rice Cake Seller" />
+  <keys prop="Description" type="monster" key="N_c01_Event_cup_02Detail" value="Rice Cake Soup Merchant" />
+  <keys prop="Name" type="monster" key="N_f09_0_0001_0024" value="Buck Rabbini" />
+  <keys prop="Description" type="monster" key="N_f09_0_0001_0024Detail" value="Crescent Merchant Dispatcher" />
+  <keys prop="Name" type="monster" key="N_c01_hufline_001" value="Seratia" />
+  <keys prop="Description" type="monster" key="N_c01_hufline_001Detail" value="Ellora's Lion" />
+  <keys prop="Name" type="monster" key="N_c01_Battle_01" value="Santuário da Arena" />
+  <keys prop="Description" type="monster" key="N_c01_Battle_01Detail" value="Arena" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0006" value="Santuário da Arena" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0006Detail" value="Para o Salão" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0007" value="Santuário da Arena" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0007Detail" value="Para os Palanques" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0008" value="Santuário da Arena" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0008Detail" value="Para a Cidade" />
+  <keys prop="Name" type="monster" key="N_c01_UnionMaster" value="Alliance Master" />
+  <keys prop="Description" type="monster" key="N_c01_UnionMasterDetail" value="Hakanas Official" />
+  <keys prop="Name" type="monster" key="N_c01_RabMer01_002" value="Phillipe Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabMer01_002Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="N_F09_RabMer01_001" value="Ellie Rabbini" />
+  <keys prop="Description" type="monster" key="N_F09_RabMer01_001Detail" value="Ellun Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_Battle_02" value="Santuário de Retorno" />
+  <keys prop="Description" type="monster" key="N_c01_Battle_02Detail" value="Travessia de Hakain" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0010" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0010Detail" value="Salão Leste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0011" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0011Detail" value="Estádio Leste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0012" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0012Detail" value="Palanque Leste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0013" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0013Detail" value="Salão Leste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0014" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0014Detail" value="Salão Oeste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0015" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0015Detail" value="Estádio Oeste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0016" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0016Detail" value="Palanque Oeste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0017" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0017Detail" value="Salão Oeste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0018" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0018Detail" value="Palanque Leste" />
+  <keys prop="Name" type="monster" key="N_02_5_0235_0019" value="Santuário de Trânsito" />
+  <keys prop="Description" type="monster" key="N_02_5_0235_0019Detail" value="Palanque Oeste" />
+  <keys prop="Name" type="monster" key="N_d02_Portal_01" value="Interstellar Warp Gate" />
+  <keys prop="Description" type="monster" key="N_d02_Portal_01Detail" value="Sinthan's Underground Storage" />
+  <keys prop="Name" type="monster" key="N_c01_UnionMes_001" value="Kaladin" />
+  <keys prop="Description" type="monster" key="N_c01_UnionMes_001Detail" value="Alliance War Messenger" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve01_001" value="Clinton Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve01_001Detail" value="Legendary Karasha Junior Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve01_002" value="Cleveland Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve01_002Detail" value="Heroic Karasha Junior Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve01_003" value="Carroll Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve01_003Detail" value="Cloak Voucher Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve01_004" value="Christian Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve01_004Detail" value="Golden Medal Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_SantaEve_001" value="Merrie" />
+  <keys prop="Description" type="monster" key="N_c01_SantaEve_001Detail" value="Ellandfel Fairy" />
+  <keys prop="Name" type="monster" key="N_c01_Snowman_001" value="Snowman" />
+  <keys prop="Description" type="monster" key="N_c01_Snowman_001Detail" value="Ellandfel Event" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve02_001" value="Clement Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve02_001Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve02_002" value="Clement Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve02_002Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve02_003" value="Clement Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve02_003Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="N_C01_Fellow_1" value="Glendor" />
+  <keys prop="Description" type="monster" key="N_C01_Fellow_1Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_C01_Fellow_2" value="Kilbeg" />
+  <keys prop="Description" type="monster" key="N_C01_Fellow_2Detail" value="Glendor's Familiar" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve03_001" value="Rex Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve03_001Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="n_c01_whiterab_01" value="Riley Rabbini" />
+  <keys prop="Description" type="monster" key="n_c01_whiterab_01Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="n_f02_altemeer_01" value="Speedy Altemir" />
+  <keys prop="Description" type="monster" key="n_f02_altemeer_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="n_f02_cichlid_01" value="Contemplative Siclid" />
+  <keys prop="Description" type="monster" key="n_f02_cichlid_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="n_f02_hazran_01" value="Tranquil Hazran" />
+  <keys prop="Description" type="monster" key="n_f02_hazran_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="N_C01_Fellow_3" value="Jaynan" />
+  <keys prop="Description" type="monster" key="N_C01_Fellow_3Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_C01_Fellow_4" value="Lavashell" />
+  <keys prop="Description" type="monster" key="N_C01_Fellow_4Detail" value="Jaynan's Familiar" />
+  <keys prop="Name" type="monster" key="N_C01_Fellow_5" value="Weid" />
+  <keys prop="Description" type="monster" key="N_C01_Fellow_5Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_C01_Fellow_6" value="Sanos" />
+  <keys prop="Description" type="monster" key="N_C01_Fellow_6Detail" value="Weid's Familiar" />
+  <keys prop="Name" type="monster" key="N_c01_HuM_10" value="Jed" />
+  <keys prop="Description" type="monster" key="N_c01_HuM_10Detail" value="Storage Master" />
+  <keys prop="Name" type="monster" key="N_c01_event_01" value="Rabbini Aruni" />
+  <keys prop="Description" type="monster" key="N_c01_event_01Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="N_c01_event_02" value="Rex Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_event_02Detail" value="Crescent Merchants" />
+  <keys prop="Name" type="monster" key="N_c01_durang_01" value="Dewrang" />
+  <keys prop="Description" type="monster" key="N_c01_durang_01Detail" value="Finance Minister" />
+  <keys prop="Name" type="monster" key="n_c01_hufyd_01" value="Asteria" />
+  <keys prop="Description" type="monster" key="n_c01_hufyd_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_G01_Lynd_01" value="Mage Lind" />
+  <keys prop="Description" type="monster" key="n_G01_Lynd_01Detail" value="Guard" />
+  <keys prop="Name" type="monster" key="n_G01_Sande_01" value="Mage Sand" />
+  <keys prop="Description" type="monster" key="n_G01_Sande_01Detail" value="Guard" />
+  <keys prop="Name" type="monster" key="N_G01_Spi_01" value="Guild Guide Spee" />
+  <keys prop="Description" type="monster" key="N_G01_Spi_01Detail" value="Guild Guide" />
+  <keys prop="Name" type="monster" key="N_G01_Knight_01" value="High-ranked Soldier" />
+  <keys prop="Description" type="monster" key="N_G01_Knight_01Detail" value="Guard" />
+  <keys prop="Name" type="monster" key="N_G01_HuMFar_01" value="Baceh" />
+  <keys prop="Description" type="monster" key="N_G01_HuMFar_01Detail" value="Storage Master" />
+  <keys prop="Name" type="monster" key="N_G01_HuMNob_01" value="Chief" />
+  <keys prop="Description" type="monster" key="N_G01_HuMNob_01Detail" value="Market Broker" />
+  <keys prop="Name" type="monster" key="N_G01_weapon_01" value="Weapon Anvil" />
+  <keys prop="Description" type="monster" key="N_G01_weapon_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_G01_amor_01" value="Armor Anvil" />
+  <keys prop="Description" type="monster" key="N_G01_amor_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_G01_Cook_01" value="Cooking Station" />
+  <keys prop="Description" type="monster" key="N_G01_Cook_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_G01_Alchemy_01" value="Lab Equipment Crafting Station" />
+  <keys prop="Description" type="monster" key="N_G01_Alchemy_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_G01_Accessory_01" value="Jewelry Table" />
+  <keys prop="Description" type="monster" key="N_G01_Accessory_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_G01_Fellow_01" value="Barder Craft Table" />
+  <keys prop="Description" type="monster" key="N_G01_Fellow_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_G01_weapon_02" value="Master Weaponsmith Cutting" />
+  <keys prop="Description" type="monster" key="N_G01_weapon_02Detail" value="Guild Crafting Station" />
+  <keys prop="Name" type="monster" key="N_G01_amor_02" value="Master Armorsmith Brack" />
+  <keys prop="Description" type="monster" key="N_G01_amor_02Detail" value="Guild Crafting Station" />
+  <keys prop="Name" type="monster" key="N_G01_Cook_02" value="Master Chef Eeting" />
+  <keys prop="Description" type="monster" key="N_G01_Cook_02Detail" value="Guild Crafting Station" />
+  <keys prop="Name" type="monster" key="N_G01_Alchemy_02" value="Experiment Master Chemi" />
+  <keys prop="Description" type="monster" key="N_G01_Alchemy_02Detail" value="Guild Crafting Station" />
+  <keys prop="Name" type="monster" key="N_G01_Accessory_02" value="Jewelry Master Jewal" />
+  <keys prop="Description" type="monster" key="N_G01_Accessory_02Detail" value="Guild Crafting Station" />
+  <keys prop="Name" type="monster" key="N_G01_Fellow_02" value="Master Barder Crafter Tanda" />
+  <keys prop="Description" type="monster" key="N_G01_Fellow_02Detail" value="Guild Crafting Station" />
+  <keys prop="Name" type="monster" key="N_c01_potal_200" value="Guild Room Transportation Shrine" />
+  <keys prop="Description" type="monster" key="N_c01_potal_200Detail" value="" />
+  <keys prop="Name" type="monster" key="n_g01_portal_100" value="Regional Transit Shrine" />
+  <keys prop="Description" type="monster" key="n_g01_portal_100Detail" value="Exarahn Badlands" />
+  <keys prop="Name" type="monster" key="N_C01_Elisha_01" value="Elisa" />
+  <keys prop="Description" type="monster" key="N_C01_Elisha_01Detail" value="Carver" />
+  <keys prop="Name" type="monster" key="n_g01_0_0001" value="Pitero" />
+  <keys prop="Description" type="monster" key="n_g01_0_0001Detail" value="PvP Consumables Merchant" />
+  <keys prop="Name" type="monster" key="n_g01_0_0002" value="Pelkain" />
+  <keys prop="Description" type="monster" key="n_g01_0_0002Detail" value="Alliance War Merchant" />
+  <keys prop="Name" type="monster" key="N_c01_Event_101" value="Glass" />
+  <keys prop="Description" type="monster" key="N_c01_Event_101Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_hufyd_02" value="Asteria" />
+  <keys prop="Description" type="monster" key="n_c01_hufyd_02Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_Eldreea_01" value="Eldrea" />
+  <keys prop="Description" type="monster" key="N_C01_Eldreea_01Detail" value="Premium Shop" />
+  <keys prop="Name" type="monster" key="n_g01_portal_200" value="Regional Transit Shrine" />
+  <keys prop="Description" type="monster" key="n_g01_portal_200Detail" value="Stygaea" />
+  <keys prop="Name" type="monster" key="N_C01_KprRabini_01" value="So Ring Rabbini" />
+  <keys prop="Description" type="monster" key="N_C01_KprRabini_01Detail" value="With a thankful heart" />
+  <keys prop="Name" type="monster" key="N_F02_Saku_01" value="Sakupiri of Sturdiness" />
+  <keys prop="Description" type="monster" key="N_F02_Saku_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="N_F03_Aoust_01" value="Aoust of Lenity" />
+  <keys prop="Description" type="monster" key="N_F03_Aoust_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="N_F04_Marusia_01" value="Marusia of Caprice" />
+  <keys prop="Description" type="monster" key="N_F04_Marusia_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="N_F05_siberes_01" value="Silberes of Full Moon" />
+  <keys prop="Description" type="monster" key="N_F05_siberes_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="N_F05_Beatrech_01" value="Beatrech of Anguish" />
+  <keys prop="Description" type="monster" key="N_F05_Beatrech_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="N_F07_Naguieru_01" value="Naguieru of Paradox" />
+  <keys prop="Description" type="monster" key="N_F07_Naguieru_01Detail" value="Arcanum Mage" />
+  <keys prop="Name" type="monster" key="N_C01_Trans_01" value="Aersera" />
+  <keys prop="Description" type="monster" key="N_C01_Trans_01Detail" value="Transcending Stone Merchant" />
+  <keys prop="Name" type="monster" key="N_C01_MoonRabit_1" value="Moon Rabbit Rabbini" />
+  <keys prop="Description" type="monster" key="N_C01_MoonRabit_1Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_Wishmortar_1" value="Wish Mortar" />
+  <keys prop="Description" type="monster" key="N_C01_Wishmortar_1Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_HuMCap_01" value="Captain Roshdan" />
+  <keys prop="Description" type="monster" key="N_C01_HuMCap_01Detail" value="Akrat Ferry" />
+  <keys prop="Name" type="monster" key="N_c01_event_03" value="Crusoe Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_event_03Detail" value="Battle Week Series" />
+  <keys prop="Name" type="monster" key="N_c01_event_04" value="Rex Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_event_04Detail" value="Grow-up Together Event" />
+  <keys prop="Name" type="monster" key="N_c01_dailyquest_01" value="Aubergine Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_dailyquest_01Detail" value="YD Coin Provider" />
+  <keys prop="Name" type="monster" key="N_c01_dailyquest_02" value="Manila Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_dailyquest_02Detail" value="Reach Lv. 60 Event" />
+  <keys prop="Name" type="monster" key="n_f01_afreeca_1" value="Rica" />
+  <keys prop="Description" type="monster" key="n_f01_afreeca_1Detail" value="Africa TV Event" />
+  <keys prop="Name" type="monster" key="n_c01_afreeca_1" value="Rika" />
+  <keys prop="Description" type="monster" key="n_c01_afreeca_1Detail" value="Evento da AfreecaTV" />
+  <keys prop="Name" type="monster" key="n_f01_board_1" value="Event Board" />
+  <keys prop="Description" type="monster" key="n_f01_board_1Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_board_1" value="Quadro de Eventos" />
+  <keys prop="Description" type="monster" key="n_c01_board_1Detail" value="" />
+  <keys prop="Name" type="monster" key="N_G01_RabMer01_01" value="Luthor Rabbini" />
+  <keys prop="Description" type="monster" key="N_G01_RabMer01_01Detail" value="Guild Premium Shop" />
+  <keys prop="Name" type="monster" key="N_G02_RabMer01_01" value="Larenzo Rabbini" />
+  <keys prop="Description" type="monster" key="N_G02_RabMer01_01Detail" value="Guild Premium Shop" />
+  <keys prop="Name" type="monster" key="N_G03_RabMer01_01" value="Penley Rabbini" />
+  <keys prop="Description" type="monster" key="N_G03_RabMer01_01Detail" value="Guild Premium Shop" />
+  <keys prop="Name" type="monster" key="N_G01_Master_01" value="Guild Master Lumen" />
+  <keys prop="Description" type="monster" key="N_G01_Master_01Detail" value="Hakanas Official" />
+  <keys prop="Name" type="monster" key="N_G02_Fellow_01" value="Cleon" />
+  <keys prop="Description" type="monster" key="N_G02_Fellow_01Detail" value="Familiar Tamer" />
+  <keys prop="Name" type="monster" key="n_g02_portal_100" value="Regional Transit Shrine" />
+  <keys prop="Description" type="monster" key="n_g02_portal_100Detail" value="Exarahn Badlands" />
+  <keys prop="Name" type="monster" key="n_g02_portal_200" value="Regional Transit Shrine" />
+  <keys prop="Description" type="monster" key="n_g02_portal_200Detail" value="Stygaea" />
+  <keys prop="Name" type="monster" key="n_g03_portal_100" value="Regional Transit Shrine" />
+  <keys prop="Description" type="monster" key="n_g03_portal_100Detail" value="Exarahn Badlands" />
+  <keys prop="Name" type="monster" key="n_g03_portal_200" value="Regional Transit Shrine" />
+  <keys prop="Description" type="monster" key="n_g03_portal_200Detail" value="Stygaea" />
+  <keys prop="Name" type="monster" key="n_c01_guildportal_1" value="Breachgate" />
+  <keys prop="Description" type="monster" key="n_c01_guildportal_1Detail" value="Guild Room" />
+  <keys prop="Name" type="monster" key="n_c01_guildquest_1" value="Aruden" />
+  <keys prop="Description" type="monster" key="n_c01_guildquest_1Detail" value="Virtue" />
+  <keys prop="Name" type="monster" key="N_G02_Spi_01" value="Stoney" />
+  <keys prop="Description" type="monster" key="N_G02_Spi_01Detail" value="Guild Guide" />
+  <keys prop="Name" type="monster" key="N_G03_Spi_01" value="Stoney" />
+  <keys prop="Description" type="monster" key="N_G03_Spi_01Detail" value="Guild Guide" />
+  <keys prop="Name" type="monster" key="N_G01_beriana_01" value="Beliana" />
+  <keys prop="Description" type="monster" key="N_G01_beriana_01Detail" value="Guild Room Rental Master" />
+  <keys prop="Name" type="monster" key="N_C01_kaili_01" value="Kylie" />
+  <keys prop="Description" type="monster" key="N_C01_kaili_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_C01_GFried_01" value="Eunha" />
+  <keys prop="Description" type="monster" key="N_C01_GFried_01Detail" value="GFriend" />
+  <keys prop="Name" type="monster" key="N_C01_GFried_02" value="Sowon" />
+  <keys prop="Description" type="monster" key="N_C01_GFried_02Detail" value="GFriend" />
+  <keys prop="Name" type="monster" key="N_C01_GFried_03" value="Yuju" />
+  <keys prop="Description" type="monster" key="N_C01_GFried_03Detail" value="GFriend" />
+  <keys prop="Name" type="monster" key="N_C01_GFried_04" value="Yerin" />
+  <keys prop="Description" type="monster" key="N_C01_GFried_04Detail" value="GFriend" />
+  <keys prop="Name" type="monster" key="n_c01_evedevy_01" value="Lovely Daveen" />
+  <keys prop="Description" type="monster" key="n_c01_evedevy_01Detail" value="Heart's Joining" />
+  <keys prop="Name" type="monster" key="n_c01_board_2" value="Quadro de Eventos" />
+  <keys prop="Description" type="monster" key="n_c01_board_2Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_rabishop_01" value="Poporing Rabbini" />
+  <keys prop="Description" type="monster" key="n_c01_rabishop_01Detail" value="Ancient Coin Exchange Merchant" />
+  <keys prop="Name" type="monster" key="N_F96_Master_01" value="Egratt" />
+  <keys prop="Description" type="monster" key="N_F96_Master_01Detail" value="Farm Manager" />
+  <keys prop="Name" type="monster" key="N_F96_Fellow_01" value="Lumien" />
+  <keys prop="Description" type="monster" key="N_F96_Fellow_01Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_F96_Daillys_01" value="Daryl" />
+  <keys prop="Description" type="monster" key="N_F96_Daillys_01Detail" value="Familiar Tamer" />
+  <keys prop="Name" type="monster" key="N_F96_Master_02" value="Egratt" />
+  <keys prop="Description" type="monster" key="N_F96_Master_02Detail" value="Farm Manager" />
+  <keys prop="Name" type="monster" key="n_c01_relic_01" value="Erwin" />
+  <keys prop="Description" type="monster" key="n_c01_relic_01Detail" value="Relic Appraiser" />
+  <keys prop="Name" type="monster" key="n_t01_0_001" value="Cadet" />
+  <keys prop="Description" type="monster" key="n_t01_0_001Detail" value="" />
+  <keys prop="Name" type="monster" key="n_t01_0_002" value="High Priest" />
+  <keys prop="Description" type="monster" key="n_t01_0_002Detail" value="" />
+  <keys prop="Name" type="monster" key="n_t01_0_003" value="Priest" />
+  <keys prop="Description" type="monster" key="n_t01_0_003Detail" value="" />
+  <keys prop="Name" type="monster" key="n_t01_0_004" value="Rena" />
+  <keys prop="Description" type="monster" key="n_t01_0_004Detail" value="Royal Knight" />
+  <keys prop="Name" type="monster" key="n_t01_0_005" value="Tortus" />
+  <keys prop="Description" type="monster" key="n_t01_0_005Detail" value="Guard Captain" />
+  <keys prop="Name" type="monster" key="n_t01_0_006" value="Taikeer" />
+  <keys prop="Description" type="monster" key="n_t01_0_006Detail" value="Familiar Manager" />
+  <keys prop="Name" type="monster" key="n_t01_0_007" value="Kuart" />
+  <keys prop="Description" type="monster" key="n_t01_0_007Detail" value="Quartermaster" />
+  <keys prop="Name" type="monster" key="n_t01_0_008" value="Hakanas Soldier" />
+  <keys prop="Description" type="monster" key="n_t01_0_008Detail" value="" />
+  <keys prop="Name" type="monster" key="n_t01_0_009" value="Tortus" />
+  <keys prop="Description" type="monster" key="n_t01_0_009Detail" value="Guard Captain" />
+  <keys prop="Name" type="monster" key="n_t01_0_010" value="Agarithe" />
+  <keys prop="Description" type="monster" key="n_t01_0_010Detail" value="Conservatory Principal" />
+  <keys prop="Name" type="monster" key="n_t01_0_011" value="Eric" />
+  <keys prop="Description" type="monster" key="n_t01_0_011Detail" value="Wise Merchant" />
+  <keys prop="Name" type="monster" key="n_na_make_1" value="." />
+  <keys prop="Description" type="monster" key="n_na_make_1Detail" value="." />
+  <keys prop="Name" type="monster" key="n_na_make_2" value="." />
+  <keys prop="Description" type="monster" key="n_na_make_2Detail" value="." />
+  <keys prop="Name" type="monster" key="n_na_make_3" value="." />
+  <keys prop="Description" type="monster" key="n_na_make_3Detail" value="." />
+  <keys prop="Name" type="monster" key="n_na_make_4" value="." />
+  <keys prop="Description" type="monster" key="n_na_make_4Detail" value="." />
+  <keys prop="Name" type="monster" key="n_na_make_5" value="." />
+  <keys prop="Description" type="monster" key="n_na_make_5Detail" value="." />
+  <keys prop="Name" type="monster" key="n_na_make_6" value="." />
+  <keys prop="Description" type="monster" key="n_na_make_6Detail" value="." />
+  <keys prop="Name" type="monster" key="n_na_make_7" value="." />
+  <keys prop="Description" type="monster" key="n_na_make_7Detail" value="." />
+  <keys prop="Name" type="monster" key="n_c01_portal_15" value="Laerin's Warp Portal" />
+  <keys prop="Description" type="monster" key="n_c01_portal_15Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_event_05" value="Conrad Rabbini" />
+  <keys prop="Description" type="monster" key="n_c01_event_05Detail" value="Haunted Manor Rabbini" />
+  <keys prop="Name" type="monster" key="n_c01_event_06" value="Mivelle" />
+  <keys prop="Description" type="monster" key="n_c01_event_06Detail" value="Lady of the Manor" />
+  <keys prop="Name" type="monster" key="n_e01_event_01" value="Phantamos" />
+  <keys prop="Description" type="monster" key="n_e01_event_01Detail" value="Mysterious Mage" />
+  <keys prop="Name" type="monster" key="n_e01_portal_01" value="Phantamos's Transit Gate" />
+  <keys prop="Description" type="monster" key="n_e01_portal_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_e01_portal_02" value="Phantamos's Transit Gate" />
+  <keys prop="Description" type="monster" key="n_e01_portal_02Detail" value="" />
+  <keys prop="Name" type="monster" key="n_e01_portal_1" value="Victory Shrine" />
+  <keys prop="Description" type="monster" key="n_e01_portal_1Detail" value="Exit Dungeon" />
+  <keys prop="Name" type="monster" key="N_c01_RabEve_03_002" value="Watermelon Rabbini" />
+  <keys prop="Description" type="monster" key="N_c01_RabEve_03_002Detail" value="Golden Watermelon Event" />
+  <keys prop="Name" type="monster" key="n_e01_event_02" value="Gawker" />
+  <keys prop="Description" type="monster" key="n_e01_event_02Detail" value="" />
+  <keys prop="Name" type="monster" key="n_e01_event_03" value="Would-be Warrior" />
+  <keys prop="Description" type="monster" key="n_e01_event_03Detail" value="" />
+  <keys prop="Name" type="monster" key="n_e01_event_04" value="Hoarder" />
+  <keys prop="Description" type="monster" key="n_e01_event_04Detail" value="" />
+  <keys prop="Name" type="monster" key="n_e01_event_05" value="Selfless Woman" />
+  <keys prop="Description" type="monster" key="n_e01_event_05Detail" value="Manor Maid" />
+  <keys prop="Name" type="monster" key="n_e01_event_06" value="Mivelle's Mercenary" />
+  <keys prop="Description" type="monster" key="n_e01_event_06Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_jeolra_001" value="Jeolra" />
+  <keys prop="Description" type="monster" key="n_c01_jeolra_001Detail" value="Growth Helper" />
+  <keys prop="Name" type="monster" key="N_F96_ummer" value="Umerr" />
+  <keys prop="Description" type="monster" key="N_F96_ummerDetail" value="Storage Master" />
+  <keys prop="Name" type="monster" key="n_e01_event_07" value="Arrah" />
+  <keys prop="Description" type="monster" key="n_e01_event_07Detail" value="Brave Mender" />
+  <keys prop="Name" type="monster" key="n_c01_0_banira_0001" value="Van Owen Lebrini" />
+  <keys prop="Description" type="monster" key="n_c01_0_banira_0001Detail" value="Comerciantes da Lua Crescente" />
+  <keys prop="Name" type="monster" key="N_F96_Upgrade_01" value="Daisy" />
+  <keys prop="Description" type="monster" key="N_F96_Upgrade_01Detail" value="Upgrading the Farm" />
+  <keys prop="Name" type="monster" key="N_F96_Adventure_01" value="Familiar Adventure Board" />
+  <keys prop="Description" type="monster" key="N_F96_Adventure_01Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F96_Fishboard" value="Fishery Bulletin Board" />
+  <keys prop="Description" type="monster" key="N_F96_FishboardDetail" value="" />
+  <keys prop="Name" type="monster" key="N_F96_Fishshop_01" value="Reath" />
+  <keys prop="Description" type="monster" key="N_F96_Fishshop_01Detail" value="Creel Sundries Merchant" />
+  <keys prop="Name" type="monster" key="n_c01_0_0001_0036" value="Willeman" />
+  <keys prop="Description" type="monster" key="n_c01_0_0001_0036Detail" value="Sábio" />
+  <keys prop="Name" type="monster" key="n_c01_saiki_01" value="Saiki" />
+  <keys prop="Description" type="monster" key="n_c01_saiki_01Detail" value="Sharing Ambassador" />
+  <keys prop="Name" type="monster" key="n_c01_arousal_01" value="Aru" />
+  <keys prop="Description" type="monster" key="n_c01_arousal_01Detail" value="Weapon Awakening Expert" />
+  <keys prop="Name" type="monster" key="n_c01_rabini_rudol" value="Rabbini Rudolping" />
+  <keys prop="Description" type="monster" key="n_c01_rabini_rudolDetail" value="Christmas Event" />
+  <keys prop="Name" type="monster" key="N_C01_Mentor_01" value="Haman" />
+  <keys prop="Description" type="monster" key="N_C01_Mentor_01Detail" value="Mentoring Expert" />
+  <keys prop="Name" type="monster" key="n_c01_0_banira_0002" value="Rabbini Ruina" />
+  <keys prop="Description" type="monster" key="n_c01_0_banira_0002Detail" value="Crescent top" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1001" value="Underground Labyrinth: Route Monday" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1002" value="Underground Labyrinth: Route Tuesday" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1003" value="Underground Labyrinth: Route Wednesday" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1004" value="Underground Labyrinth: Route Thursday" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1005" value="Underground Labyrinth: Route Friday" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1006" value="Underground Labyrinth: Route Saturday" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1006Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1007" value="Underground Labyrinth: Route Sunday" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1007Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1101" value="Underground Labyrinth: Time Check #1" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1101Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1102" value="Underground Labyrinth: Time Check #2" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1102Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1103" value="Underground Labyrinth: Time Check #3" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1103Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1104" value="Underground Labyrinth: Time Check #4" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1104Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1105" value="Underground Labyrinth: Time Check #5" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1105Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_1106" value="Underground Labyrinth: Time Check #6" />
+  <keys prop="Description" type="monster" key="N_D96_Route_1106Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_2001" value="Route Check_Mender" />
+  <keys prop="Description" type="monster" key="N_D96_Route_2001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_2002" value="Route Check_Akuma Rabbini" />
+  <keys prop="Description" type="monster" key="N_D96_Route_2002Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_2003" value="Route Check_Mimick" />
+  <keys prop="Description" type="monster" key="N_D96_Route_2003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_2004" value="Route Check_Enhanced Mimick" />
+  <keys prop="Description" type="monster" key="N_D96_Route_2004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Route_2005" value="Route Check_Coward" />
+  <keys prop="Description" type="monster" key="N_D96_Route_2005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_1_0001" value="Nota" />
+  <keys prop="Description" type="monster" key="N_D96_1_0001Detail" value="Suspicious Mender" />
+  <keys prop="Name" type="monster" key="N_D96_1_0002" value="Akuma Rabbini" />
+  <keys prop="Description" type="monster" key="N_D96_1_0002Detail" value="Treasure Hunter" />
+  <keys prop="Name" type="monster" key="N_D96_1_0003" value="Conata" />
+  <keys prop="Description" type="monster" key="N_D96_1_0003Detail" value="Coward" />
+  <keys prop="Name" type="monster" key="N_D96_1_0004" value="Wounded Soldier" />
+  <keys prop="Description" type="monster" key="N_D96_1_0004Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_1_0005" value="Greedy Man" />
+  <keys prop="Description" type="monster" key="N_D96_1_0005Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_Portal_re" value="Transit Shrine" />
+  <keys prop="Description" type="monster" key="N_D96_Portal_reDetail" value="Hadakhan's Hidden Treasure Room" />
+  <keys prop="Name" type="monster" key="N_D96_Portal_out" value="Labyrinth Entrance" />
+  <keys prop="Description" type="monster" key="N_D96_Portal_outDetail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_1_0006" value="Reginald" />
+  <keys prop="Description" type="monster" key="N_D96_1_0006Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0007" value="Itsuka" />
+  <keys prop="Description" type="monster" key="N_D96_1_0007Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0008" value="Fleur" />
+  <keys prop="Description" type="monster" key="N_D96_1_0008Detail" value="Mender" />
+  <keys prop="Name" type="monster" key="N_D96_1_0009" value="Elle" />
+  <keys prop="Description" type="monster" key="N_D96_1_0009Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0010" value="Wounded Soldier" />
+  <keys prop="Description" type="monster" key="N_D96_1_0010Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0011" value="Surgeon" />
+  <keys prop="Description" type="monster" key="N_D96_1_0011Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0012" value="Mender" />
+  <keys prop="Description" type="monster" key="N_D96_1_0012Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0013" value="Apprentice Mender" />
+  <keys prop="Description" type="monster" key="N_D96_1_0013Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0014" value="Hakanas Supplier" />
+  <keys prop="Description" type="monster" key="N_D96_1_0014Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0015" value="Archaeologist" />
+  <keys prop="Description" type="monster" key="N_D96_1_0015Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0016" value="Famous Historian" />
+  <keys prop="Description" type="monster" key="N_D96_1_0016Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0017" value="Adventure Queen Rukiruki" />
+  <keys prop="Description" type="monster" key="N_D96_1_0017Detail" value="Labyrinth Investigation Team" />
+  <keys prop="Name" type="monster" key="N_D96_1_0018" value="Engineer Finny" />
+  <keys prop="Description" type="monster" key="N_D96_1_0018Detail" value="Transit Mage" />
+  <keys prop="Name" type="monster" key="N_D96_1_0019" value="Sir San Garlen" />
+  <keys prop="Description" type="monster" key="N_D96_1_0019Detail" value="Research Director" />
+  <keys prop="Name" type="monster" key="N_D96_1_0020" value="Engineer Finny" />
+  <keys prop="Description" type="monster" key="N_D96_1_0020Detail" value="Transit Mage" />
+  <keys prop="Name" type="monster" key="N_C01_E04_Fellow_1" value="Glendor" />
+  <keys prop="Description" type="monster" key="N_C01_E04_Fellow_1Detail" value="Beast Trainer" />
+  <keys prop="Name" type="monster" key="N_D96_Portal_END" value="Exit Dungeon" />
+  <keys prop="Description" type="monster" key="N_D96_Portal_ENDDetail" value="Move to Labyrinth Entrance" />
+  <keys prop="Name" type="monster" key="N_F02_rabini_001" value="Yukari Rabbini" />
+  <keys prop="Description" type="monster" key="N_F02_rabini_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_F03_rabini_001" value="Bloomi Rabbini" />
+  <keys prop="Description" type="monster" key="N_F03_rabini_001Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_1_0021" value="Head of the Crowd Boref" />
+  <keys prop="Description" type="monster" key="N_D96_1_0021Detail" value="" />
+  <keys prop="Name" type="monster" key="N_D96_1_0022" value="Corrupt Bishop Kaisiku" />
+  <keys prop="Description" type="monster" key="N_D96_1_0022Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_c01_summerev_001" value="Duck Boat" />
+  <keys prop="Description" type="monster" key="IN_c01_summerev_001Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_c01_summerev_002" value="Watermelon" />
+  <keys prop="Description" type="monster" key="IN_c01_summerev_002Detail" value="" />
+  <keys prop="Name" type="monster" key="IN_c01_summerev_003" value="Public Banners" />
+  <keys prop="Description" type="monster" key="IN_c01_summerev_003Detail" value="" />
+  <keys prop="Name" type="monster" key="N_f01_storage_001" value="Handison" />
+  <keys prop="Description" type="monster" key="N_f01_storage_001Detail" value="Storage Master" />
+  <keys prop="Name" type="monster" key="N_f01_storage_002" value="Simon" />
+  <keys prop="Description" type="monster" key="N_f01_storage_002Detail" value="Storage Master" />
+  <keys prop="Name" type="monster" key="N_f01_HuMNob_001" value="Hasan" />
+  <keys prop="Description" type="monster" key="N_f01_HuMNob_001Detail" value="Auction Broker" />
+  <keys prop="Name" type="monster" key="n_d96_board_01" value="Underground Labyrinth Board" />
+  <keys prop="Description" type="monster" key="n_d96_board_01Detail" value="Dungeon Rewards Board" />
+  <keys prop="Name" type="monster" key="n_f15_e01_board_01" value="Gusting Isles Board" />
+  <keys prop="Description" type="monster" key="n_f15_e01_board_01Detail" value="Dungeon Rewards Board" />
+  <keys prop="Name" type="monster" key="n_f16_board_01" value="Attaius Peak Board" />
+  <keys prop="Description" type="monster" key="n_f16_board_01Detail" value="Dungeon Rewards Board" />
+  <keys prop="Name" type="monster" key="n_c01_gmrab_001" value="Rabbini Debagi" />
+  <keys prop="Description" type="monster" key="n_c01_gmrab_001Detail" value="GM Event" />
+  <keys prop="Name" type="monster" key="n_c01_puppyev_01" value="Revolution" />
+  <keys prop="Description" type="monster" key="n_c01_puppyev_01Detail" value="Little Puppy Butler" />
+  <keys prop="Name" type="monster" key="n_c01_puppyev_02" value="Spring" />
+  <keys prop="Name" type="monster" key="n_c01_puppyev_03" value="Summer" />
+  <keys prop="Name" type="monster" key="n_c01_puppyev_04" value="Winter" />
+  <keys prop="Name" type="monster" key="n_c01_in_01" value="Corvo" />
+  <keys prop="Description" type="monster" key="n_c01_in_01Detail" value="Comandante da Ordem Onyx" />
+  <keys prop="Name" type="monster" key="n_c01_in_02" value="Tortus" />
+  <keys prop="Description" type="monster" key="n_c01_in_02Detail" value="Capitão da Guarda" />
+  <keys prop="Name" type="monster" key="n_c01_in_03" value="Rondo Terramunce" />
+  <keys prop="Description" type="monster" key="n_c01_in_03Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_04" value="Chapley Singger" />
+  <keys prop="Description" type="monster" key="n_c01_in_04Detail" value="Sacerdote Cavaleiro Dragão" />
+  <keys prop="Name" type="monster" key="n_c01_in_05" value="Valeris" />
+  <keys prop="Description" type="monster" key="n_c01_in_05Detail" value="General" />
+  <keys prop="Name" type="monster" key="n_c01_in_06" value="Marjo" />
+  <keys prop="Description" type="monster" key="n_c01_in_06Detail" value="Capitão da Paz" />
+  <keys prop="Name" type="monster" key="n_c01_in_07" value="Guarda de Elite de Hakanas" />
+  <keys prop="Description" type="monster" key="n_c01_in_07Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_08" value="Milícia de Hakanas" />
+  <keys prop="Description" type="monster" key="n_c01_in_08Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_09" value="Guarda de Elite Hakanas" />
+  <keys prop="Description" type="monster" key="n_c01_in_09Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_10" value="Yulnus" />
+  <keys prop="Description" type="monster" key="n_c01_in_10Detail" value="Grande mago" />
+  <keys prop="Name" type="monster" key="n_c01_in_11" value="Guarda de Vento de Hakanas" />
+  <keys prop="Description" type="monster" key="n_c01_in_11Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_12" value="Dahrven" />
+  <keys prop="Description" type="monster" key="n_c01_in_12Detail" value="Adepto de Mago" />
+  <keys prop="Name" type="monster" key="n_c01_victory_01" value="Banquete de Ronfraine" />
+  <keys prop="Description" type="monster" key="n_c01_victory_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_19" value="Reforço de Combate de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_19Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_22" value="Reforço de Combate de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_22Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_23" value="Reforço de Combate  de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_23Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_24" value="Reforço de Combate  de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_24Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_25" value="Reforço de Combate de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_25Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_26" value="Reforço de Combate  de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_26Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_27" value="Reforço de Combate de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_27Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_route_28" value="Reforço de Combate de Salant" />
+  <keys prop="Description" type="monster" key="n_c01_in_route_28Detail" value="" />
+  <keys prop="Name" type="monster" key="n_c01_in_13" value="Guarin" />
+  <keys prop="Description" type="monster" key="n_c01_in_13Detail" value="Mestre de Armazenamento" />
+  <keys prop="Name" type="monster" key="n_c01_healbunny_01" value="Curandeiro Lebrini" />
+  <keys prop="Description" type="monster" key="n_c01_healbunny_01Detail" value="Evento de Base de Batalha" />
+  <keys prop="Name" type="monster" key="n_f02_spotshop_0" value="Yunggir" />
+  <keys prop="Description" type="monster" key="n_f02_spotshop_0Detail" value="Comerciante da Base do Bosque de Kell" />
+  <keys prop="Name" type="monster" key="n_f02_spotshop_1" value="Kyusan" />
+  <keys prop="Description" type="monster" key="n_f02_spotshop_1Detail" value="Comerciante da Base da Encosta" />
+  <keys prop="Name" type="monster" key="n_f02_spotshop_2" value="Henjins" />
+  <keys prop="Description" type="monster" key="n_f02_spotshop_2Detail" value="Comerciante da Base de Zadaran" />
+  <keys prop="Name" type="monster" key="n_f02_spotshop_3" value="Henzerk" />
+  <keys prop="Description" type="monster" key="n_f02_spotshop_3Detail" value="Comerciante da Base dos Bosques Dourados" />
+  <keys prop="Name" type="monster" key="n_f02_spotshop_4" value="Minus" />
+  <keys prop="Description" type="monster" key="n_f02_spotshop_4Detail" value="Comerciante da Base Sansupus" />
+  <keys prop="Name" type="monster" key="n_c01_action_001" value="Kaiyu" />
+  <keys prop="Description" type="monster" key="n_c01_action_001Detail" value="Sales Agents Broker" />
+  <keys prop="Name" type="monster" key="n_c01_newitemrab_01" value="Rabbini Ongi" />
+  <keys prop="Description" type="monster" key="n_c01_newitemrab_01Detail" value="Novo comerciante de itens" />
+  <keys prop="Name" type="monster" key="n_c01_xmaspuppy_01" value="Hyuk-yi" />
+  <keys prop="Description" type="monster" key="n_c01_xmaspuppy_01Detail" value="Evento de Natal" />
+  <keys prop="Name" type="monster" key="n_c01_xmaspuppy_02" value="Floco de neve" />
+  <keys prop="Description" type="monster" key="n_c01_xmaspuppy_02Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f09_xmasrab_01" value="Santa Labis Mas" />
+  <keys prop="Description" type="monster" key="n_f09_xmasrab_01Detail" value="Evento de Natal" />
+  <keys prop="Name" type="monster" key="n_f09_rudol_01" value="Rudolf" />
+  <keys prop="Description" type="monster" key="n_f09_rudol_01Detail" value="" />
+  <keys prop="Name" type="monster" key="n_f09_xmasrab_02" value="Ravini Rudolpu" />
+  <keys prop="Description" type="monster" key="n_f09_xmasrab_02Detail" value="Christmas event" />
+  <keys prop="Name" type="monster" key="n_f09_xmasrab_03" value="Fada Ravini" />
+  <keys prop="Description" type="monster" key="n_f09_xmasrab_03Detail" value="Christmas event" />
+  <keys prop="Name" type="monster" key="n_c01_olympic_001" value="Half -moon" />
+  <keys prop="Description" type="monster" key="n_c01_olympic_001Detail" value="Inverno Grande! Evento atlético" />
+  <keys prop="Name" type="monster" key="n_c01_olympic_002" value="Tiger" />
+  <keys prop="Description" type="monster" key="n_c01_olympic_002Detail" value="Inverno Grande! Evento atlético" />
+  <keys prop="Name" type="monster" key="n_c01_olympic_003" value="Yuna" />
+  <keys prop="Description" type="monster" key="n_c01_olympic_003Detail" value="Inverno Grande! Evento atlético" />
+  <keys prop="Name" type="monster" key="n_c01_olympic_004" value="Dabin" />
+  <keys prop="Description" type="monster" key="n_c01_olympic_004Detail" value="Inverno Grande! Evento atlético" />
+  <keys prop="Name" type="monster" key="n_c01_olympic_005" value="Meia-lua" />
+  <keys prop="Description" type="monster" key="n_c01_olympic_005Detail" value="Tocha" />
+  <keys prop="Name" type="monster" key="n_c01_olympic_006" value="Meia-lua" />
+  <keys prop="Description" type="monster" key="n_c01_olympic_006Detail" value="Tocha" />
+  <keys prop="Name" type="monster" key="n_c01_olympic_007" value="Sopas de Hakana" />
+  <keys prop="Description" type="monster" key="n_c01_olympic_007Detail" value="Inverno Grande! Evento atlético" />
+  <keys prop="Name" type="monster" key="n_c01_ticket_01" value="Criação" />
+  <keys prop="Description" type="monster" key="n_c01_ticket_01Detail" value="Evento do 4º aniversário" />
+  <keys prop="Name" type="monster" key="n_c01_annfellow_01" value="Spiroon of innocent" />
+  <keys prop="Description" type="monster" key="n_c01_annfellow_01Detail" value="Evento do 4º aniversário" />
+  <keys prop="Name" type="monster" key="n_c01_annfellow_02" value="Torkai Inteligente" />
+  <keys prop="Description" type="monster" key="n_c01_annfellow_02Detail" value="Evento do 4º aniversário" />
+  <keys prop="Name" type="monster" key="n_c01_annfellow_03" value="Brilhante Tshanan" />
+  <keys prop="Description" type="monster" key="n_c01_annfellow_03Detail" value="Evento do 4º aniversário" />
 </files>

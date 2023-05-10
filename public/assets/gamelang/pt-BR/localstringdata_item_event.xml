@@ -1,22 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="ev_0_0000" value="Goldhorn Feather" />
-  <keys type="item" key="ev_0_0001" value="Alliance of Light Badges" />
-  <keys type="item" key="ev_0_0002" value="SK hynix SSD" />
-  <keys type="item" key="ev_0_0003" value="Soccer Ball" />
-  <keys type="item" key="ev_0_0004" value="Golden Beads" />
-  <keys type="item" key="ev_0_0005" value="Fish Bunny Coin" />
-  <keys type="item" key="ev_0_0006" value="Legendary Fellow Exchange Coupon" />
-  <keys type="item" key="ev_0_0007" value="Grown-up Day Sign" />
-  <keys type="item" key="ev_0_0008" value="Light Fellow Exchange Coupon" />
-  <keys type="item" key="ev_0_0009" value="Amethyst" />
-  <keys type="item" key="re_ts_0_0000" value="Test Relic 1_Elite" />
-  <keys type="item" key="re_ts_0_0001" value="Test Relic 2_Hero" />
-  <keys type="item" key="re_ts_0_0002" value="Test Relic 2_Legend" />
-  <keys type="item" key="re_ts_0_0003" value="Test Relic 2_Myth" />
-  <keys type="item" key="ca_re_0_0000" value="Demon's Relic" />
-  <keys type="item" key="ev_0_0010" value="Zircon" />
-  <keys type="item" key="ev_0_0011" value="Fishbani Carrot Coins" />
-  <keys type="item" key="ev_0_0012" value="Icarus 3.1 Return Certificate" />
-  <keys type="item" key="ev_0_0013" value="Full Moon" />
+  <keys prop="Name" type="item" key="ev_0_0000" value="" />
+  <keys prop="Description" type="item" key="ev_0_0000" value="" />
+  <keys prop="Name" type="item" key="ev_0_0001" value="" />
+  <keys prop="Description" type="item" key="ev_0_0001" value="" />
+  <keys prop="Name" type="item" key="ev_0_0002" value="" />
+  <keys prop="Description" type="item" key="ev_0_0002" value="" />
+  <keys prop="Name" type="item" key="ev_0_0003" value="" />
+  <keys prop="Description" type="item" key="ev_0_0003" value="" />
+  <keys prop="Name" type="item" key="ev_0_0004" value="" />
+  <keys prop="Description" type="item" key="ev_0_0004" value="" />
+  <keys prop="Name" type="item" key="ev_0_0005" value="" />
+  <keys prop="Description" type="item" key="ev_0_0005" value="" />
+  <keys prop="Name" type="item" key="ev_0_0006" value="" />
+  <keys prop="Description" type="item" key="ev_0_0006" value="" />
+  <keys prop="Name" type="item" key="ev_0_0007" value="" />
+  <keys prop="Description" type="item" key="ev_0_0007" value="" />
+  <keys prop="Name" type="item" key="ev_0_0008" value="" />
+  <keys prop="Description" type="item" key="ev_0_0008" value="" />
+  <keys prop="Name" type="item" key="ev_0_0009" value="" />
+  <keys prop="Description" type="item" key="ev_0_0009" value="" />
+  <keys prop="Name" type="item" key="re_ts_0_0000" value="" />
+  <keys prop="Name" type="item" key="re_ts_0_0001" value="" />
+  <keys prop="Name" type="item" key="re_ts_0_0002" value="" />
+  <keys prop="Name" type="item" key="re_ts_0_0003" value="" />
+  <keys prop="Name" type="item" key="ca_re_0_0000" value="" />
+  <keys prop="Name" type="item" key="ev_0_0010" value="" />
+  <keys prop="Description" type="item" key="ev_0_0010" value="" />
+  <keys prop="Name" type="item" key="ev_0_0011" value="" />
+  <keys prop="Description" type="item" key="ev_0_0011" value="" />
+  <keys prop="Name" type="item" key="ev_0_0012" value="" />
+  <keys prop="Description" type="item" key="ev_0_0012" value="" />
+  <keys prop="Name" type="item" key="ev_0_0013" value="" />
+  <keys prop="Description" type="item" key="ev_0_0013" value="" />
+  <keys prop="Description" type="item" key="ca_re_0_0001" value="" />
+  <keys prop="Description" type="item" key="ca_re_0_0002" value="" />
+  <keys prop="Description" type="item" key="ca_re_0_0003" value="" />
+  <keys prop="Description" type="item" key="ca_re_0_0004" value="" />
 </files>

@@ -1,154 +1,302 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="item" key="EnchantStone0000" value="Gema de Testes 1" />
-  <keys type="item" key="EnchantStone0001" value="Gema de Testes 2" />
-  <keys type="item" key="EnchantStone0002" value="Gema de Testes 3" />
-  <keys type="item" key="ES_AD_0000" value="Rubi (Dano Físico I)" />
-  <keys type="item" key="ES_AD_0001" value="Rubi (Dano Físico II)" />
-  <keys type="item" key="ES_AD_0002" value="Rubi (Dano Físico III)" />
-  <keys type="item" key="ES_AD_0003" value="Rubi (Dano Físico IV)" />
-  <keys type="item" key="ES_AD_0004" value="Rubi (Dano Físico V)" />
-  <keys type="item" key="ES_AD_0005" value="Rubi (Dano Físico VI)" />
-  <keys type="item" key="ES_AD_0006" value="Rubi (Dano Físico VII)" />
-  <keys type="item" key="ES_AD_0007" value="Rubi (Dano Físico VIII)" />
-  <keys type="item" key="ES_AD_0008" value="Rubi (Dano Físico IX)" />
-  <keys type="item" key="ES_AD_0009" value="Rubi (Dano Físico X)" />
-  <keys type="item" key="ES_AP_0000" value="Rubi (Dano Mágico I)" />
-  <keys type="item" key="ES_AP_0001" value="Rubi (Dano Mágico II)" />
-  <keys type="item" key="ES_AP_0002" value="Rubi (Dano Mágico III)" />
-  <keys type="item" key="ES_AP_0003" value="Rubi (Dano Mágico IV)" />
-  <keys type="item" key="ES_AP_0004" value="Rubi (Dano Mágico V)" />
-  <keys type="item" key="ES_AP_0005" value="Rubi (Dano Mágico VI)" />
-  <keys type="item" key="ES_AP_0006" value="Rubi (Dano Mágico VII)" />
-  <keys type="item" key="ES_AP_0007" value="Rubi (Dano Mágico VIII)" />
-  <keys type="item" key="ES_AP_0008" value="Rubi (Dano Mágico IX)" />
-  <keys type="item" key="ES_AP_0009" value="Rubi (Dano Mágico X)" />
-  <keys type="item" key="ES_DP_0000" value="Safira (Defesa Física I)" />
-  <keys type="item" key="ES_DP_0001" value="Safira (Defesa Física II)" />
-  <keys type="item" key="ES_DP_0002" value="Safira (Defesa Física III)" />
-  <keys type="item" key="ES_DP_0003" value="Safira (Defesa Física IV)" />
-  <keys type="item" key="ES_DP_0004" value="Safira (Defesa Física V)" />
-  <keys type="item" key="ES_DP_0005" value="Safira (Defesa Física VI)" />
-  <keys type="item" key="ES_DP_0006" value="Safira (Defesa Física VII)" />
-  <keys type="item" key="ES_DP_0007" value="Safira (Defesa Física VIII)" />
-  <keys type="item" key="ES_DP_0008" value="Safira (Defesa Física IX)" />
-  <keys type="item" key="ES_DP_0009" value="Safira (Defesa Física X)" />
-  <keys type="item" key="ES_MD_0000" value="Safira (Defesa Mágica I)" />
-  <keys type="item" key="ES_MD_0001" value="Safira (Defesa Mágica II)" />
-  <keys type="item" key="ES_MD_0002" value="Safira (Defesa Mágica III)" />
-  <keys type="item" key="ES_MD_0003" value="Safira (Defesa Mágica IV)" />
-  <keys type="item" key="ES_MD_0004" value="Safira (Defesa Mágica V)" />
-  <keys type="item" key="ES_MD_0005" value="Safira (Defesa Mágica VI)" />
-  <keys type="item" key="ES_MD_0006" value="Safira (Defesa Mágica VII)" />
-  <keys type="item" key="ES_MD_0007" value="Safira (Defesa Mágica VIII)" />
-  <keys type="item" key="ES_MD_0008" value="Safira (Defesa Mágica IX)" />
-  <keys type="item" key="ES_MD_0009" value="Safira (Defesa Mágica X)" />
-  <keys type="item" key="ES_ACD_0000" value="Peridoto (Dano Crítico Físico I)" />
-  <keys type="item" key="ES_ACD_0001" value="Peridoto (Dano Crítico Físico II)" />
-  <keys type="item" key="ES_ACD_0002" value="Peridoto (Dano Crítico Físico III)" />
-  <keys type="item" key="ES_ACD_0003" value="Peridoto (Dano Crítico Físico IV)" />
-  <keys type="item" key="ES_ACD_0004" value="Peridoto (Dano Crítico Físico V)" />
-  <keys type="item" key="ES_ACD_0005" value="Peridoto (Dano Crítico Físico VI)" />
-  <keys type="item" key="ES_ACD_0006" value="Peridoto (Dano Crítico Físico VII)" />
-  <keys type="item" key="ES_ACD_0007" value="Peridoto (Dano Crítico Físico VIII)" />
-  <keys type="item" key="ES_ACD_0008" value="Peridoto (Dano Crítico Físico IX)" />
-  <keys type="item" key="ES_ACD_0009" value="Peridoto (Dano Crítico Físico X)" />
-  <keys type="item" key="ES_ACP_0000" value="Peridoto (Dano Crítico Mágico I)" />
-  <keys type="item" key="ES_ACP_0001" value="Peridoto (Dano Crítico Mágico II)" />
-  <keys type="item" key="ES_ACP_0002" value="Peridoto (Dano Crítico Mágico III)" />
-  <keys type="item" key="ES_ACP_0003" value="Peridoto (Dano Crítico Mágico IV)" />
-  <keys type="item" key="ES_ACP_0004" value="Peridoto (Dano Crítico Mágico V)" />
-  <keys type="item" key="ES_ACP_0005" value="Peridoto (Dano Crítico Mágico VI)" />
-  <keys type="item" key="ES_ACP_0006" value="Peridoto (Dano Crítico Mágico VII)" />
-  <keys type="item" key="ES_ACP_0007" value="Peridoto (Dano Crítico Mágico VIII)" />
-  <keys type="item" key="ES_ACP_0008" value="Peridoto (Dano Crítico Mágico IX)" />
-  <keys type="item" key="ES_ACP_0009" value="Peridoto (Dano Crítico Mágico X)" />
-  <keys type="item" key="ES_HP_0000" value="Diamante (Vida Máxima I)" />
-  <keys type="item" key="ES_HP_0001" value="Diamante (Vida Máxima II)" />
-  <keys type="item" key="ES_HP_0002" value="Diamante (Vida Máxima III)" />
-  <keys type="item" key="ES_HP_0003" value="Diamante (Vida Máxima IV)" />
-  <keys type="item" key="ES_HP_0004" value="Diamante (Vida Máxima V)" />
-  <keys type="item" key="ES_HP_0005" value="Diamante (Vida Máxima VI)" />
-  <keys type="item" key="ES_HP_0006" value="Diamante (Vida Máxima VII)" />
-  <keys type="item" key="ES_HP_0007" value="Diamante (Vida Máxima VIII)" />
-  <keys type="item" key="ES_HP_0008" value="Diamante (Vida Máxima IX)" />
-  <keys type="item" key="ES_HP_0009" value="Diamante (Vida Máxima X)" />
-  <keys type="item" key="ES_MP_0000" value="Diamante (Mana Máxima I)" />
-  <keys type="item" key="ES_MP_0001" value="Diamante (Mana Máxima II)" />
-  <keys type="item" key="ES_MP_0002" value="Diamante (Mana Máxima III)" />
-  <keys type="item" key="ES_MP_0003" value="Diamante (Mana Máxima IV)" />
-  <keys type="item" key="ES_MP_0004" value="Diamante (Mana Máxima V)" />
-  <keys type="item" key="ES_MP_0005" value="Diamante (Mana Máxima VI)" />
-  <keys type="item" key="ES_MP_0006" value="Diamante (Mana Máxima VII)" />
-  <keys type="item" key="ES_MP_0007" value="Diamante (Mana Máxima VIII)" />
-  <keys type="item" key="ES_MP_0008" value="Diamante (Mana Máxima IX)" />
-  <keys type="item" key="ES_MP_0009" value="Diamante (Mana Máxima X)" />
-  <keys type="item" key="ES_CDD_0000" value="Topázio (Defesa Crítica I)" />
-  <keys type="item" key="ES_CDD_0001" value="Topázio (Defesa Crítica II)" />
-  <keys type="item" key="ES_CDD_0002" value="Topázio (Defesa Crítica III)" />
-  <keys type="item" key="ES_CDD_0003" value="Topázio (Defesa Crítica IV)" />
-  <keys type="item" key="ES_CDD_0004" value="Topázio (Defesa Crítica V)" />
-  <keys type="item" key="ES_CDD_0005" value="Topázio (Defesa Crítica VI)" />
-  <keys type="item" key="ES_CDD_0006" value="Topázio (Defesa Crítica VII)" />
-  <keys type="item" key="ES_CDD_0007" value="Topázio (Defesa Crítica VIII)" />
-  <keys type="item" key="ES_CDD_0008" value="Topázio (Defesa Crítica IX)" />
-  <keys type="item" key="ES_CDD_0009" value="Topázio (Defesa Crítica X)" />
-  <keys type="item" key="ES_PKA_0000" value="Granada (Ataque em PvP I)" />
-  <keys type="item" key="ES_PKA_0001" value="Granada (Ataque em PvP II)" />
-  <keys type="item" key="ES_PKA_0002" value="Granada (Ataque em PvP III)" />
-  <keys type="item" key="ES_PKA_0003" value="Granada (Ataque em PvP IV)" />
-  <keys type="item" key="ES_PKA_0004" value="Granada (Ataque em PvP V)" />
-  <keys type="item" key="ES_PKA_0005" value="Granada (Ataque em PvP VI)" />
-  <keys type="item" key="ES_PKA_0006" value="Granada (Ataque em PvP VII)" />
-  <keys type="item" key="ES_PKA_0007" value="Granada (Ataque em PvP VIII)" />
-  <keys type="item" key="ES_PKA_0008" value="Granada (Ataque em PvP IX)" />
-  <keys type="item" key="ES_PKA_0009" value="Granada (Ataque em PvP X)" />
-  <keys type="item" key="ES_PKD_0000" value="Granada (Defesa em PvP I)" />
-  <keys type="item" key="ES_PKD_0001" value="Granada (Defesa em PvP II)" />
-  <keys type="item" key="ES_PKD_0002" value="Granada (Defesa em PvP III)" />
-  <keys type="item" key="ES_PKD_0003" value="Granada (Defesa em PvP IV)" />
-  <keys type="item" key="ES_PKD_0004" value="Granada (Defesa em PvP V)" />
-  <keys type="item" key="ES_PKD_0005" value="Granada (Defesa em PvP VI)" />
-  <keys type="item" key="ES_PKD_0006" value="Granada (Defesa em PvP VII)" />
-  <keys type="item" key="ES_PKD_0007" value="Granada (Defesa em PvP VIII)" />
-  <keys type="item" key="ES_PKD_0008" value="Granada (Defesa em PvP IX)" />
-  <keys type="item" key="ES_PKD_0009" value="Granada (Defesa em PvP X)" />
-  <keys type="item" key="ES_AD_0010" value="Enhanced Ruby -Physical Attack Lv 10" />
-  <keys type="item" key="ES_AP_0010" value="Enhanced Ruby -Magic Attack Lv 10" />
-  <keys type="item" key="ES_DP_0010" value="Enhanced Sapphire -Physical Defense Lv 10" />
-  <keys type="item" key="ES_MD_0010" value="Enhanced Sapphire -Magic Defense Lv 10" />
-  <keys type="item" key="ES_ACD_0010" value="Enhanced Peridot -Physical Critical Strike Lv 10" />
-  <keys type="item" key="ES_ACP_0010" value="Enhanced Peridot -Magic Critical damage LV 10" />
-  <keys type="item" key="ES_HP_0010" value="Enhanced Diamond -Maximum HP Lv 10" />
-  <keys type="item" key="ES_MP_0010" value="Enhanced Diamond -Maximum MP Lv 10" />
-  <keys type="item" key="ES_CDD_0010" value="Enhanced Topaz -Critical Strike Lv 10" />
-  <keys type="item" key="ES_PKA_0010" value="Enhanced Garnet -Interpersonal Attack Lv 10" />
-  <keys type="item" key="ES_PKD_0010" value="Enhanced Garnet -Interpersonal Defense Lv 10" />
-  <keys type="item" key="ES_00_9999" value="Reinforcement" />
-  <keys type="item" key="ES_AD_0011" value="Ruby -Physical Attack Lv 11" />
-  <keys type="item" key="ES_AP_0011" value="Ruby -Magic Attack Lv 11" />
-  <keys type="item" key="ES_AD_0012" value="Enhanced Ruby -Physical Attack Lv 11" />
-  <keys type="item" key="ES_AP_0012" value="Reinforced Ruby -Magic Attack Lv 11" />
-  <keys type="item" key="ES_00_10000" value="Special Enhancement Jewelry" />
-  <keys type="item" key="ES_AD_0013" value="Ruby - Physical Attack Lv 11" />
-  <keys type="item" key="ES_AP_0013" value="Ruby - Magic Attack Lv 11" />
-  <keys type="item" key="ES_DP_0013" value="Sapphire - Physical Defense Lv 11" />
-  <keys type="item" key="ES_MD_0013" value="Sapphire - Magic Defense Lv 11" />
-  <keys type="item" key="ES_ACD_0013" value="Peridot - Physical Critical Damage Lv 11" />
-  <keys type="item" key="ES_ACP_0013" value="Peridot - Magic Critical Damage Lv 11" />
-  <keys type="item" key="ES_HP_0013" value="Diamond - Max HP Lv 11" />
-  <keys type="item" key="ES_CDD_0013" value="Topaz - Critical Hit Defense Lv 11" />
-  <keys type="item" key="ES_PKA_0013" value="Garnet - Anti-Person Attack Lv 11" />
-  <keys type="item" key="ES_PKD_0013" value="Garnet - Anti-Personal Defense Lv 11" />
-  <keys type="item" key="ES_AD_0014" value="Enhanced Ruby - Physical Attack Lv 11" />
-  <keys type="item" key="ES_AP_0014" value="Enhanced Ruby - Magic Attack Lv 11" />
-  <keys type="item" key="ES_DP_0014" value="Enhanced Sapphire - Physical Defense Lv 11" />
-  <keys type="item" key="ES_MD_0014" value="Enhanced Sapphire - Magic Defense Lv 11" />
-  <keys type="item" key="ES_ACD_0014" value="Enhanced Peridot - Physical Critical Damage Lv 11" />
-  <keys type="item" key="ES_ACP_0014" value="Enhanced Peridot - Magic Critical Damage Lv 11" />
-  <keys type="item" key="ES_HP_0014" value="Enhanced Diamond - Max HP Lv 11" />
-  <keys type="item" key="ES_CDD_0014" value="Enhanced Topaz - Critical Hit Defense Lv 11" />
-  <keys type="item" key="ES_PKA_0014" value="Enhanced Garnet - Anti-Person Attack Lv 11" />
-  <keys type="item" key="ES_PKD_0014" value="Enhanced Garnet - Anti-Personal Defense Lv 11" />
-  <keys type="item" key="ES_00_10001" value="Top Special Enhanced Gems" />
+  <keys prop="Name" type="item" key="EnchantStone0000" value="Gema de Testes 1" />
+  <keys prop="Name" type="item" key="EnchantStone0001" value="Gema de Testes 2" />
+  <keys prop="Name" type="item" key="EnchantStone0002" value="Gema de Testes 3" />
+  <keys prop="Name" type="item" key="ES_AD_0000" value="Rubi (Dano Físico I)" />
+  <keys prop="Description" type="item" key="ES_AD_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0001" value="Rubi (Dano Físico II)" />
+  <keys prop="Description" type="item" key="ES_AD_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0002" value="Rubi (Dano Físico III)" />
+  <keys prop="Description" type="item" key="ES_AD_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0003" value="Rubi (Dano Físico IV)" />
+  <keys prop="Description" type="item" key="ES_AD_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0004" value="Rubi (Dano Físico V)" />
+  <keys prop="Description" type="item" key="ES_AD_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0005" value="Rubi (Dano Físico VI)" />
+  <keys prop="Description" type="item" key="ES_AD_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0006" value="Rubi (Dano Físico VII)" />
+  <keys prop="Description" type="item" key="ES_AD_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0007" value="Rubi (Dano Físico VIII)" />
+  <keys prop="Description" type="item" key="ES_AD_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0008" value="Rubi (Dano Físico IX)" />
+  <keys prop="Description" type="item" key="ES_AD_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0009" value="Rubi (Dano Físico X)" />
+  <keys prop="Description" type="item" key="ES_AD_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0000" value="Rubi (Dano Mágico I)" />
+  <keys prop="Description" type="item" key="ES_AP_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0001" value="Rubi (Dano Mágico II)" />
+  <keys prop="Description" type="item" key="ES_AP_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0002" value="Rubi (Dano Mágico III)" />
+  <keys prop="Description" type="item" key="ES_AP_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0003" value="Rubi (Dano Mágico IV)" />
+  <keys prop="Description" type="item" key="ES_AP_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0004" value="Rubi (Dano Mágico V)" />
+  <keys prop="Description" type="item" key="ES_AP_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0005" value="Rubi (Dano Mágico VI)" />
+  <keys prop="Description" type="item" key="ES_AP_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0006" value="Rubi (Dano Mágico VII)" />
+  <keys prop="Description" type="item" key="ES_AP_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0007" value="Rubi (Dano Mágico VIII)" />
+  <keys prop="Description" type="item" key="ES_AP_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0008" value="Rubi (Dano Mágico IX)" />
+  <keys prop="Description" type="item" key="ES_AP_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0009" value="Rubi (Dano Mágico X)" />
+  <keys prop="Description" type="item" key="ES_AP_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0000" value="Safira (Defesa Física I)" />
+  <keys prop="Description" type="item" key="ES_DP_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0001" value="Safira (Defesa Física II)" />
+  <keys prop="Description" type="item" key="ES_DP_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0002" value="Safira (Defesa Física III)" />
+  <keys prop="Description" type="item" key="ES_DP_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0003" value="Safira (Defesa Física IV)" />
+  <keys prop="Description" type="item" key="ES_DP_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0004" value="Safira (Defesa Física V)" />
+  <keys prop="Description" type="item" key="ES_DP_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0005" value="Safira (Defesa Física VI)" />
+  <keys prop="Description" type="item" key="ES_DP_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0006" value="Safira (Defesa Física VII)" />
+  <keys prop="Description" type="item" key="ES_DP_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0007" value="Safira (Defesa Física VIII)" />
+  <keys prop="Description" type="item" key="ES_DP_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0008" value="Safira (Defesa Física IX)" />
+  <keys prop="Description" type="item" key="ES_DP_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0009" value="Safira (Defesa Física X)" />
+  <keys prop="Description" type="item" key="ES_DP_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0000" value="Safira (Defesa Mágica I)" />
+  <keys prop="Description" type="item" key="ES_MD_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0001" value="Safira (Defesa Mágica II)" />
+  <keys prop="Description" type="item" key="ES_MD_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0002" value="Safira (Defesa Mágica III)" />
+  <keys prop="Description" type="item" key="ES_MD_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0003" value="Safira (Defesa Mágica IV)" />
+  <keys prop="Description" type="item" key="ES_MD_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0004" value="Safira (Defesa Mágica V)" />
+  <keys prop="Description" type="item" key="ES_MD_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0005" value="Safira (Defesa Mágica VI)" />
+  <keys prop="Description" type="item" key="ES_MD_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0006" value="Safira (Defesa Mágica VII)" />
+  <keys prop="Description" type="item" key="ES_MD_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0007" value="Safira (Defesa Mágica VIII)" />
+  <keys prop="Description" type="item" key="ES_MD_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0008" value="Safira (Defesa Mágica IX)" />
+  <keys prop="Description" type="item" key="ES_MD_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0009" value="Safira (Defesa Mágica X)" />
+  <keys prop="Description" type="item" key="ES_MD_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0000" value="Peridoto (Dano Crítico Físico I)" />
+  <keys prop="Description" type="item" key="ES_ACD_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0001" value="Peridoto (Dano Crítico Físico II)" />
+  <keys prop="Description" type="item" key="ES_ACD_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0002" value="Peridoto (Dano Crítico Físico III)" />
+  <keys prop="Description" type="item" key="ES_ACD_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0003" value="Peridoto (Dano Crítico Físico IV)" />
+  <keys prop="Description" type="item" key="ES_ACD_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0004" value="Peridoto (Dano Crítico Físico V)" />
+  <keys prop="Description" type="item" key="ES_ACD_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0005" value="Peridoto (Dano Crítico Físico VI)" />
+  <keys prop="Description" type="item" key="ES_ACD_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0006" value="Peridoto (Dano Crítico Físico VII)" />
+  <keys prop="Description" type="item" key="ES_ACD_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0007" value="Peridoto (Dano Crítico Físico VIII)" />
+  <keys prop="Description" type="item" key="ES_ACD_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0008" value="Peridoto (Dano Crítico Físico IX)" />
+  <keys prop="Description" type="item" key="ES_ACD_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0009" value="Peridoto (Dano Crítico Físico X)" />
+  <keys prop="Description" type="item" key="ES_ACD_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0000" value="Peridoto (Dano Crítico Mágico I)" />
+  <keys prop="Description" type="item" key="ES_ACP_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0001" value="Peridoto (Dano Crítico Mágico II)" />
+  <keys prop="Description" type="item" key="ES_ACP_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0002" value="Peridoto (Dano Crítico Mágico III)" />
+  <keys prop="Description" type="item" key="ES_ACP_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0003" value="Peridoto (Dano Crítico Mágico IV)" />
+  <keys prop="Description" type="item" key="ES_ACP_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0004" value="Peridoto (Dano Crítico Mágico V)" />
+  <keys prop="Description" type="item" key="ES_ACP_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0005" value="Peridoto (Dano Crítico Mágico VI)" />
+  <keys prop="Description" type="item" key="ES_ACP_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0006" value="Peridoto (Dano Crítico Mágico VII)" />
+  <keys prop="Description" type="item" key="ES_ACP_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0007" value="Peridoto (Dano Crítico Mágico VIII)" />
+  <keys prop="Description" type="item" key="ES_ACP_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0008" value="Peridoto (Dano Crítico Mágico IX)" />
+  <keys prop="Description" type="item" key="ES_ACP_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0009" value="Peridoto (Dano Crítico Mágico X)" />
+  <keys prop="Description" type="item" key="ES_ACP_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0000" value="Diamante (Vida Máxima I)" />
+  <keys prop="Description" type="item" key="ES_HP_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0001" value="Diamante (Vida Máxima II)" />
+  <keys prop="Description" type="item" key="ES_HP_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0002" value="Diamante (Vida Máxima III)" />
+  <keys prop="Description" type="item" key="ES_HP_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0003" value="Diamante (Vida Máxima IV)" />
+  <keys prop="Description" type="item" key="ES_HP_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0004" value="Diamante (Vida Máxima V)" />
+  <keys prop="Description" type="item" key="ES_HP_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0005" value="Diamante (Vida Máxima VI)" />
+  <keys prop="Description" type="item" key="ES_HP_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0006" value="Diamante (Vida Máxima VII)" />
+  <keys prop="Description" type="item" key="ES_HP_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0007" value="Diamante (Vida Máxima VIII)" />
+  <keys prop="Description" type="item" key="ES_HP_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0008" value="Diamante (Vida Máxima IX)" />
+  <keys prop="Description" type="item" key="ES_HP_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0009" value="Diamante (Vida Máxima X)" />
+  <keys prop="Description" type="item" key="ES_HP_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0000" value="Diamante (Mana Máxima I)" />
+  <keys prop="Description" type="item" key="ES_MP_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0001" value="Diamante (Mana Máxima II)" />
+  <keys prop="Description" type="item" key="ES_MP_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0002" value="Diamante (Mana Máxima III)" />
+  <keys prop="Description" type="item" key="ES_MP_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0003" value="Diamante (Mana Máxima IV)" />
+  <keys prop="Description" type="item" key="ES_MP_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0004" value="Diamante (Mana Máxima V)" />
+  <keys prop="Description" type="item" key="ES_MP_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0005" value="Diamante (Mana Máxima VI)" />
+  <keys prop="Description" type="item" key="ES_MP_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0006" value="Diamante (Mana Máxima VII)" />
+  <keys prop="Description" type="item" key="ES_MP_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0007" value="Diamante (Mana Máxima VIII)" />
+  <keys prop="Description" type="item" key="ES_MP_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0008" value="Diamante (Mana Máxima IX)" />
+  <keys prop="Description" type="item" key="ES_MP_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0009" value="Diamante (Mana Máxima X)" />
+  <keys prop="Description" type="item" key="ES_MP_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0000" value="Topázio (Defesa Crítica I)" />
+  <keys prop="Description" type="item" key="ES_CDD_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0001" value="Topázio (Defesa Crítica II)" />
+  <keys prop="Description" type="item" key="ES_CDD_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0002" value="Topázio (Defesa Crítica III)" />
+  <keys prop="Description" type="item" key="ES_CDD_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0003" value="Topázio (Defesa Crítica IV)" />
+  <keys prop="Description" type="item" key="ES_CDD_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0004" value="Topázio (Defesa Crítica V)" />
+  <keys prop="Description" type="item" key="ES_CDD_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0005" value="Topázio (Defesa Crítica VI)" />
+  <keys prop="Description" type="item" key="ES_CDD_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0006" value="Topázio (Defesa Crítica VII)" />
+  <keys prop="Description" type="item" key="ES_CDD_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0007" value="Topázio (Defesa Crítica VIII)" />
+  <keys prop="Description" type="item" key="ES_CDD_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0008" value="Topázio (Defesa Crítica IX)" />
+  <keys prop="Description" type="item" key="ES_CDD_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0009" value="Topázio (Defesa Crítica X)" />
+  <keys prop="Description" type="item" key="ES_CDD_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0000" value="Granada (Ataque em PvP I)" />
+  <keys prop="Description" type="item" key="ES_PKA_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0001" value="Granada (Ataque em PvP II)" />
+  <keys prop="Description" type="item" key="ES_PKA_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0002" value="Granada (Ataque em PvP III)" />
+  <keys prop="Description" type="item" key="ES_PKA_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0003" value="Granada (Ataque em PvP IV)" />
+  <keys prop="Description" type="item" key="ES_PKA_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0004" value="Granada (Ataque em PvP V)" />
+  <keys prop="Description" type="item" key="ES_PKA_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0005" value="Granada (Ataque em PvP VI)" />
+  <keys prop="Description" type="item" key="ES_PKA_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0006" value="Granada (Ataque em PvP VII)" />
+  <keys prop="Description" type="item" key="ES_PKA_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0007" value="Granada (Ataque em PvP VIII)" />
+  <keys prop="Description" type="item" key="ES_PKA_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0008" value="Granada (Ataque em PvP IX)" />
+  <keys prop="Description" type="item" key="ES_PKA_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0009" value="Granada (Ataque em PvP X)" />
+  <keys prop="Description" type="item" key="ES_PKA_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0000" value="Granada (Defesa em PvP I)" />
+  <keys prop="Description" type="item" key="ES_PKD_0000" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0001" value="Granada (Defesa em PvP II)" />
+  <keys prop="Description" type="item" key="ES_PKD_0001" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0002" value="Granada (Defesa em PvP III)" />
+  <keys prop="Description" type="item" key="ES_PKD_0002" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0003" value="Granada (Defesa em PvP IV)" />
+  <keys prop="Description" type="item" key="ES_PKD_0003" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0004" value="Granada (Defesa em PvP V)" />
+  <keys prop="Description" type="item" key="ES_PKD_0004" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0005" value="Granada (Defesa em PvP VI)" />
+  <keys prop="Description" type="item" key="ES_PKD_0005" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0006" value="Granada (Defesa em PvP VII)" />
+  <keys prop="Description" type="item" key="ES_PKD_0006" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0007" value="Granada (Defesa em PvP VIII)" />
+  <keys prop="Description" type="item" key="ES_PKD_0007" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0008" value="Granada (Defesa em PvP IX)" />
+  <keys prop="Description" type="item" key="ES_PKD_0008" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0009" value="Granada (Defesa em PvP X)" />
+  <keys prop="Description" type="item" key="ES_PKD_0009" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0010" value="Enhanced Ruby -Physical Attack Lv 10" />
+  <keys prop="Description" type="item" key="ES_AD_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0010" value="Enhanced Ruby -Magic Attack Lv 10" />
+  <keys prop="Description" type="item" key="ES_AP_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_DP_0010" value="Enhanced Sapphire -Physical Defense Lv 10" />
+  <keys prop="Description" type="item" key="ES_DP_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MD_0010" value="Enhanced Sapphire -Magic Defense Lv 10" />
+  <keys prop="Description" type="item" key="ES_MD_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACD_0010" value="Enhanced Peridot -Physical Critical Strike Lv 10" />
+  <keys prop="Description" type="item" key="ES_ACD_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_ACP_0010" value="Enhanced Peridot -Magic Critical damage LV 10" />
+  <keys prop="Description" type="item" key="ES_ACP_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_HP_0010" value="Enhanced Diamond -Maximum HP Lv 10" />
+  <keys prop="Description" type="item" key="ES_HP_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_MP_0010" value="Enhanced Diamond -Maximum MP Lv 10" />
+  <keys prop="Description" type="item" key="ES_MP_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_CDD_0010" value="Enhanced Topaz -Critical Strike Lv 10" />
+  <keys prop="Description" type="item" key="ES_CDD_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKA_0010" value="Enhanced Garnet -Interpersonal Attack Lv 10" />
+  <keys prop="Description" type="item" key="ES_PKA_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_PKD_0010" value="Enhanced Garnet -Interpersonal Defense Lv 10" />
+  <keys prop="Description" type="item" key="ES_PKD_0010" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_00_9999" value="Reinforcement" />
+  <keys prop="Description" type="item" key="ES_00_9999" value="Enhancement gem that plays the same role as jewelry It can be used as a secondary gem when strengthening jewelry &lt;IT_G&gt; -If Ctrl + Right -click on the jewelry UI activation &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0011" value="Ruby -Physical Attack Lv 11" />
+  <keys prop="Description" type="item" key="ES_AD_0011" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0011" value="Ruby -Magic Attack Lv 11" />
+  <keys prop="Description" type="item" key="ES_AP_0011" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0012" value="Enhanced Ruby -Physical Attack Lv 11" />
+  <keys prop="Description" type="item" key="ES_AD_0012" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_AP_0012" value="Reinforced Ruby -Magic Attack Lv 11" />
+  <keys prop="Description" type="item" key="ES_AP_0012" value="&lt;br&gt; &lt;IT_G&gt; -Ctrl + Clique com o botão direito do mouse na ativação da UI da joia &lt;/IT_G&gt;" />
+  <keys prop="Name" type="item" key="ES_00_10000" value="Special Enhancement Jewelry" />
+  <keys prop="Description" type="item" key="ES_00_10000" value="It can be used as a secondary gem when strengthening jewelry and gives more powerful options for reinforcement success &lt;IT_G&gt; -In the jewelry Ctrl + Right -Click Jewelry Combination UI Activation &lt;/IT_G&gt; &lt;O_Y&gt; How to acquire Exjaran's Quadragine and obtain 2 Purchase by paying [developer's eggs] Possible &lt;/O_Y&gt;" />
+  <keys prop="Name" type="item" key="ES_AD_0013" value="Ruby - Physical Attack Lv 11" />
+  <keys prop="Name" type="item" key="ES_AP_0013" value="Ruby - Magic Attack Lv 11" />
+  <keys prop="Name" type="item" key="ES_DP_0013" value="Sapphire - Physical Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_MD_0013" value="Sapphire - Magic Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_ACD_0013" value="Peridot - Physical Critical Damage Lv 11" />
+  <keys prop="Name" type="item" key="ES_ACP_0013" value="Peridot - Magic Critical Damage Lv 11" />
+  <keys prop="Name" type="item" key="ES_HP_0013" value="Diamond - Max HP Lv 11" />
+  <keys prop="Name" type="item" key="ES_CDD_0013" value="Topaz - Critical Hit Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_PKA_0013" value="Garnet - Anti-Person Attack Lv 11" />
+  <keys prop="Name" type="item" key="ES_PKD_0013" value="Garnet - Anti-Personal Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_AD_0014" value="Enhanced Ruby - Physical Attack Lv 11" />
+  <keys prop="Name" type="item" key="ES_AP_0014" value="Enhanced Ruby - Magic Attack Lv 11" />
+  <keys prop="Name" type="item" key="ES_DP_0014" value="Enhanced Sapphire - Physical Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_MD_0014" value="Enhanced Sapphire - Magic Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_ACD_0014" value="Enhanced Peridot - Physical Critical Damage Lv 11" />
+  <keys prop="Name" type="item" key="ES_ACP_0014" value="Enhanced Peridot - Magic Critical Damage Lv 11" />
+  <keys prop="Name" type="item" key="ES_HP_0014" value="Enhanced Diamond - Max HP Lv 11" />
+  <keys prop="Name" type="item" key="ES_CDD_0014" value="Enhanced Topaz - Critical Hit Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_PKA_0014" value="Enhanced Garnet - Anti-Person Attack Lv 11" />
+  <keys prop="Name" type="item" key="ES_PKD_0014" value="Enhanced Garnet - Anti-Personal Defense Lv 11" />
+  <keys prop="Name" type="item" key="ES_00_10001" value="Top Special Enhanced Gems" />
+  <keys prop="Description" type="item" key="ES_AD_0013" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + clique com o botão direito do mouse em uma gema para ativar a combinação de gemas UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_AP_0013" value="&lt;br&gt;&lt;It_G&gt; - Ative a UI de combinação de gemas ao Ctrl + clique com o botão direito do mouse em uma gema&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_DP_0013" value="&lt;br&gt;&lt;It_G&gt; - Activate Gem Combination UI when Ctrl + right click on a gem&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_MD_0013" value="&lt;br&gt;&lt;It_G&gt; - Activate Gem Combination UI when Ctrl + right click on a gem&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_ACD_0013" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + right click on a gem to activate the gem combination UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_ACP_0013" value="&lt;br&gt;&lt;It_G&gt; - Activate Gem Combination UI when Ctrl + right click on a gem&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_HP_0013" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + right click on a gem to activate the gem combination UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_CDD_0013" value="&lt;br&gt;&lt;It_G&gt; - Activate Gem Combination UI when Ctrl + right click on a gem&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_PKA_0013" value="&lt;br&gt;&lt;It_G&gt; - Activate Gem Combination UI when Ctrl + right click on a gem&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_PKD_0013" value="&lt;br&gt;&lt;It_G&gt; - Ative a UI de combinação de gemas ao Ctrl + clique com o botão direito do mouse em uma gema&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_AD_0014" value="&lt;br&gt;&lt;It_G&gt; - Ative a UI de combinação de gemas ao Ctrl + clique com o botão direito do mouse em uma gema&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_AP_0014" value="&lt;br&gt;&lt;It_G&gt; - Ative a UI de combinação de gemas ao Ctrl + clique com o botão direito do mouse em uma gema&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_DP_0014" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + clique com o botão direito do mouse em uma gema para ativar a combinação de gemas UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_MD_0014" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + clique com o botão direito do mouse em uma gema para ativar a combinação de gemas UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_ACD_0014" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + right click on a gem to activate the gem combination UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_ACP_0014" value="&lt;br&gt;&lt;It_G&gt; - Activate Gem Combination UI when Ctrl + right click on a gem&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_HP_0014" value="&lt;br&gt;&lt;It_G&gt; - Ative a UI de combinação de gemas ao Ctrl + clique com o botão direito do mouse em uma gema&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_CDD_0014" value="&lt;br&gt;&lt;It_G&gt; - Activate Gem Combination UI when Ctrl + right click on a gem&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_PKA_0014" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + right click on a gem to activate the gem combination UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_PKD_0014" value="&lt;br&gt;&lt;It_G&gt; - Ctrl + clique com o botão direito do mouse em uma gema para ativar a combinação de gemas UI&lt;/It_G&gt;" />
+  <keys prop="Description" type="item" key="ES_00_10001" value="Used as an auxiliary gem when enhancing a gem, and grants very powerful options when strengthening succeeds.&#xD;&#xA;&#xD;&#xA;&lt;It_G&gt; - Ctrl + clique com o botão direito do mouse em uma gema para ativar a combinação de gemas UI&lt;/It_G&gt;&#xD;&#xA;&lt;O_Y&gt;&#xD;&#xA;Acquisition method&#xD;&#xA;1. Obtained with a certain probability from Magmapora Dungeon&#xD;&#xA;2. Crafting with special enhanced gems" />
 </files>

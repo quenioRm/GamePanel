@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <files>
-  <keys type="npc" key="E_F10_Mattude_01" value="Mattude" />
-  <keys type="npc" key="E_F10_Matitle_01" value="Matitle" />
-  <keys type="npc" key="E_F10_Laserta_01" value="Laserta Cumpano" />
-  <keys type="npc" key="E_F10_Roperse_01" value="Roperse" />
-  <keys type="npc" key="E_F10_Egnaive_01" value="Egnaive" />
-  <keys type="npc" key="E_F10_PoiBdra_01" value="Burning Calcess" />
-  <keys type="npc" key="E_F10_Rublom_01" value="Rublom" />
-  <keys type="npc" key="E_F10_Hitrit_01" value="Hitrit" />
-  <keys type="npc" key="E_F10_Bonederuger_01" value="Undead Corps" />
-  <keys type="npc" key="E_F10_Igal_01" value="Immortal Igal" />
-  <keys type="npc" key="E_F10_Rayol_01" value="Illusion Rayol" />
-  <keys type="npc" key="E_F10_RayKun_01" value="Welcome to Raykun" />
-  <keys type="npc" key="E_F10_RayKun_02" value="Welcome to RayKun" />
-  <keys type="npc" key="E_F10_Zombi_01" value="Immortal Seeker" />
-  <keys type="npc" key="E_F10_Zombi_02" value="Immortal Caller" />
-  <keys type="npc" key="E_F10_Zombi_03" value="Destroyer Egotism" />
-  <keys type="npc" key="E_F10_Beatus_01" value="Cursed Beatus" />
-  <keys type="npc" key="E_F10_Beatus_02" value="Beatus of Destruction" />
-  <keys type="npc" key="E_F10_Rondo_01" value="Rondo" />
-  <keys type="npc" key="E_F10_Crow_01" value="Crow" />
-  <keys type="npc" key="E_F10_Rania_01" value="Princess Rania" />
-  <keys type="npc" key="E_D27_DragonBlack_01" value="Corps Lieutenant" />
-  <keys type="npc" key="E_F10_Fmatude_01" value="Martude" />
-  <keys type="npc" key="E_F10_Threename_01" value="Threenames" />
+  <keys prop="Name" type="monster" key="E_F10_Mattude_01" value="Mattude" />
+  <keys prop="Name" type="monster" key="E_F10_Matitle_01" value="Matitle" />
+  <keys prop="Name" type="monster" key="E_F10_Laserta_01" value="Laserta Cumpano" />
+  <keys prop="Name" type="monster" key="E_F10_Roperse_01" value="Roperse" />
+  <keys prop="Name" type="monster" key="E_F10_Egnaive_01" value="Egnaive" />
+  <keys prop="Name" type="monster" key="E_F10_PoiBdra_01" value="Burning Calcess" />
+  <keys prop="Name" type="monster" key="E_F10_Rublom_01" value="Rublom" />
+  <keys prop="Name" type="monster" key="E_F10_Hitrit_01" value="Hitrit" />
+  <keys prop="Name" type="monster" key="E_F10_Bonederuger_01" value="Undead Corps" />
+  <keys prop="Name" type="monster" key="E_F10_Igal_01" value="Immortal Igal" />
+  <keys prop="Name" type="monster" key="E_F10_Rayol_01" value="Illusion Rayol" />
+  <keys prop="Name" type="monster" key="E_F10_RayKun_01" value="Welcome to Raykun" />
+  <keys prop="Name" type="monster" key="E_F10_RayKun_02" value="Welcome to RayKun" />
+  <keys prop="Name" type="monster" key="E_F10_Zombi_01" value="Immortal Seeker" />
+  <keys prop="Name" type="monster" key="E_F10_Zombi_02" value="Immortal Caller" />
+  <keys prop="Name" type="monster" key="E_F10_Zombi_03" value="Destroyer Egotism" />
+  <keys prop="Name" type="monster" key="E_F10_Beatus_01" value="Cursed Beatus" />
+  <keys prop="Name" type="monster" key="E_F10_Beatus_02" value="Beatus of Destruction" />
+  <keys prop="Name" type="monster" key="E_F10_Rondo_01" value="Rondo" />
+  <keys prop="Name" type="monster" key="E_F10_Crow_01" value="Crow" />
+  <keys prop="Name" type="monster" key="E_F10_Rania_01" value="Princess Rania" />
+  <keys prop="Name" type="monster" key="E_D27_DragonBlack_01" value="Corps Lieutenant" />
+  <keys prop="Name" type="monster" key="E_F10_Fmatude_01" value="Martude" />
+  <keys prop="Name" type="monster" key="E_F10_Threename_01" value="Threenames" />
 </files>
