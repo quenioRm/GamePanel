@@ -17,7 +17,7 @@
             <span class="ico"></span>
         </a> --}}
 
-        <a href="https://download.icarus101xp.com.br/downloads/Icarus101XPFullInstallerV1.0.7.rar" download="#" class="btn primary download">
+        <a href="https://download.icarus101xp.com.br/downloads/Icarus101XPFullInstallerV1.0.11.rar" download="#" class="btn primary download">
             <div class="bk_logos">
                 <div class="logo"></div>
                 <div class="logo_bar"></div>
