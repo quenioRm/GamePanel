@@ -10,6 +10,7 @@ use App\Models\Game\User\TableUser;
 use App\Models\Game\Log\TableCharacterItemQueue;
 use App\Models\Game\Log\GuildMarkHistory;
 use App\Models\Game\Log\TableAccountLog;
+use App\Models\GameModificationLog;
 
 use App\Helpers\Functions;
 
@@ -90,5 +91,10 @@ class IcarusAccountController extends Controller
     public function GetUserById($id)
     {
         return response()->json(['resultCode' => 1000, 'resultMsg' => TableUser::where('DbKey', $id)->first(), 'returnUrl' => '' ], 200);
+    }
+
+    public function RegisterGameModificationLog(Request $request)
+    {
+        return response()->json(['resultCode' => 1000, 'resultMsg' => GameModificationLog::MakeLog($request->all()), 'returnUrl' => '' ], 200);
     }
 }

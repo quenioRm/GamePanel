@@ -90,6 +90,14 @@ Route::prefix('icarus')->name('icarus.')->group( function(){
 
     });
 
+    // LOG
+    Route::prefix('log')->name('log.')->group( function(){
+
+        Route::post('registergamemodificationlog', [App\Http\Controllers\Games\IcarusAccountController::class,
+        'RegisterGameModificationLog'])->name('registergamemodificationlog');
+
+    });
+
 });
 
 Route::prefix('launcher')->name('launcher.')->group( function(){
