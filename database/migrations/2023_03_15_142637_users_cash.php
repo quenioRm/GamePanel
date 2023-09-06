@@ -15,6 +15,7 @@ return new class extends Migration
     {
         Schema::table('users', function (Blueprint $table) {
             $table->integer('cash')->default(0)->after('permission');
+            $table->integer('money')->default(0)->after('cash');
         });
     }
 
@@ -27,6 +28,7 @@ return new class extends Migration
     {
         Schema::table('users', function (Blueprint $table) {
             $table->dropColumn('cash');
+            $table->dropColumn('money');
         });
     }
 };
