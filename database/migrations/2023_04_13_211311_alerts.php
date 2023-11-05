@@ -19,7 +19,7 @@ return new class extends Migration
             $table->datetime('date');
             $table->datetime('showAfterDate');
             $table->boolean('showAfterDateBool');
-            $table->string('message', 5000);
+            $table->string('message', 4000);
             $table->string('interactionURL', 250);
             $table->timestamps();
         });
