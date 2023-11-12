@@ -132,7 +132,7 @@ return [
      'benefits' => 'Benefits',
      'home1'=>'Dispute territories with your clan.',
      'seeranking' => 'See the ranking',
-     'home2' => 'Capture legendary mounts, and be a master in the ICARUS universe.',
+     'home2' => 'Immensity of an Open World.',
      'watchtwitch' => 'WATCH TWITCH',
      'getitems' => 'GET ITEMS',
      'class' => 'Classes',

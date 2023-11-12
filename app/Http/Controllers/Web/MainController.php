@@ -20,12 +20,13 @@ class MainController extends Controller
         }
 
         Session::put('currentContent', 5);
-        return view('web.pages.home', ['topnotice' => $topnotice]);
+
+        return view('web.' . env('SELECTED_WEB') . '.pages.home', ['topnotice' => $topnotice]);
     }
 
     public function Download()
     {
-        return view('web.pages.download');
+        return view('web.' . env('SELECTED_WEB') . '.pages.download');
     }
 
     public function News($category = null, $loadMore = null)
@@ -63,7 +64,7 @@ class MainController extends Controller
             }
         }
 
-        return view('web.pages.newsPages.news', ['notices' => $notices , 'lastest' => $latestNotice]);
+        return view('web.' . env('SELECTED_WEB') . '.pages.newsPages.news', ['notices' => $notices , 'lastest' => $latestNotice]);
     }
 
     public function NewsDetails($id, $typeid)
@@ -97,7 +98,7 @@ class MainController extends Controller
             if($prev == null)
                 $prev = $notice;
 
-            return view('web.pages.newsPages.newsdetails',['notice' => $prev]);
+            return view('web.' . env('SELECTED_WEB') . '.pages.newsPages.newsdetails',['notice' => $prev]);
         }
 
     }
@@ -109,7 +110,7 @@ class MainController extends Controller
         if(empty($notices->toArray())){
             $notices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->get();
         }
-        return view('web.pages.includes.homenotice', ['notices' => $notices]);
+        return view('web.' . env('SELECTED_WEB') . '.pages.includes.homenotice', ['notices' => $notices]);
     }
 
     public function GetTopNotice()
@@ -118,7 +119,7 @@ class MainController extends Controller
         if($topnotice == null){
             $topnotice = News::where('language', 'pt-BR')->where('topnotice', 1)->first();
         }
-        return view('web.pages.includes.homenotice', ['topnotice' => $topnotice]);
+        return view('web.' . env('SELECTED_WEB') . '.pages.includes.homenotice', ['topnotice' => $topnotice]);
     }
 
     public function logout()

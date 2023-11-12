@@ -38,6 +38,7 @@ Route::prefix('nexon')->name('nexon.')->group( function(){
 
 });
 
+// Icarus Online
 Route::prefix('icarus')->name('icarus.')->group( function(){
 
     Route::get('findaccountbyusername/{account}', [App\Http\Controllers\Games\IcarusAccountController::class,

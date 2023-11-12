@@ -132,7 +132,7 @@ return [
     'benefits' => 'Beneficios',
     'home1'=>'Dispute territórios junto ao seu clã.',
     'seeranking' => 'Veja o ranking',
-    'home2' => 'Capture montarias lendárias, e seja um mestre no universo de ICARUS.',
+    'home2' => 'Imensidão de um Mundo Aberto.',
     'watchtwitch' => 'ASSISTA A TWITCH',
     'getitems' => 'OBTENHA ITENS',
     'class' => 'Classes',

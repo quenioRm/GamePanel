@@ -129,7 +129,7 @@ return [
     'benefits'=> 'Beneficios',
     'home1'=>'Disputa territorios con tu clan.',
     'seeranking'=> 'Ver el ranking',
-    'home2'=> 'Captura monturas legendarias y sé un maestro en el universo ICARUS.',
+    'home2'=> 'Inmensidad de un mundo abierto.',
     'watchtwitch'=> 'VER TWITCH',
     'getitems'=> 'OBTENER ARTÍCULOS',
     'class'=> 'Clases',
