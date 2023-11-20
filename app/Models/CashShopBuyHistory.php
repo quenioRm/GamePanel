@@ -9,7 +9,7 @@ class CashShopBuyHistory extends Model
 {
     use HasFactory;
 
-    protected $connection = 'web';;
+    protected $connection = 'web';
     protected $table = "cashshop_buy_history";
     protected $primaryKey = 'id';
     protected $dates = ['created_at','updated_at'];

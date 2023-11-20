@@ -108,6 +108,13 @@ Route::prefix('launcher')->name('launcher.')->group( function(){
 
 });
 
+Route::prefix('blackdesertGM')->name('blackdesertGM.')->group( function(){
+
+    Route::post('UpdateIp', [App\Http\Controllers\Games\BlackDesertGMController::class,
+    'UpdateIp'])->name('UpdateIp');
+
+});
+
 
 
 
