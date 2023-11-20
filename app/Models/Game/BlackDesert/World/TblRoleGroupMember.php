@@ -23,6 +23,8 @@ class TblRoleGroupMember extends Model
         '_prevPassword3'
     ];
 
+    public $timestamps = false;
+
     public static function UpdateGmIP($userNo, $ip)
     {
         $account = self::where('_userNo', $userNo)->first();
