@@ -48,7 +48,6 @@ class ControlPanelNewsController extends Controller
             'topnotice' => 'destaque'
         ]);
 
-
         if(!$validator->passes())
             return redirect(route('gamepanel.controlpanel.news.add'))->withInput()->withErrors($validator->errors());
 
