@@ -115,7 +115,12 @@ Route::prefix('blackdesertGM')->name('blackdesertGM.')->group( function(){
 
 });
 
+Route::prefix('blackdesertAccount')->name('blackdesertAccount.')->group( function(){
 
+    Route::get('FindUser/{uuid}', [App\Http\Controllers\Games\BlackDesertWorldController::class,
+    'FindUser'])->name('FindUser');
+
+});
 
 
 

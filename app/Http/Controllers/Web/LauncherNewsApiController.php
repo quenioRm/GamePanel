@@ -46,11 +46,19 @@ class LauncherNewsApiController extends Controller
             }
         }
 
-        $subNotices = News::where('language', $lang)->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
+        $subNotices = null;
 
-        if(empty($subNotices->toArray())){
-            $subNotices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
+        if(!empty($notices->toArray())){
+
+            $subNotices = News::where('language', $lang)->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
+
+            if(empty($subNotices->toArray())){
+                $subNotices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
+            }
+        }else{
+            $subNotices = [];
         }
+
 
         // Ping
         $ping = Functions::ping(env('WORLD_SVR_IP'),env('WORLD_SVR_PORT'));
@@ -61,12 +69,12 @@ class LauncherNewsApiController extends Controller
         $arrayConfig['Environment'] = 'Release';
         $arrayConfig['Region'] = 'Any';
         $arrayConfig['ServerStatus'] = ($ping == -1) ?  'Offline' : 'Online';
-        $arrayConfig['MyAccountURL'] = 'https://play.icarus101xp.com.br/';
-        $arrayConfig['PatchNotesURL'] = 'https://play.icarus101xp.com.br/';
-        $arrayConfig['TermsOfServiceURL'] = 'https://play.icarus101xp.com.br/';
-        $arrayConfig['PrivacyPolicyURL'] = 'https://play.icarus101xp.com.br/';
+        $arrayConfig['MyAccountURL'] = env('APP_URL');
+        $arrayConfig['PatchNotesURL'] = env('APP_URL');
+        $arrayConfig['TermsOfServiceURL'] = env('APP_URL');
+        $arrayConfig['PrivacyPolicyURL'] = env('APP_URL');
         $arrayConfig['NewsCurrentURL'] = '';
-        $arrayConfig['ReportBugURL'] = 'https://play.icarus101xp.com.br/';
+        $arrayConfig['ReportBugURL'] = env('APP_URL');
 
         //Alets
         $alerts = Alerts::whereDate('date', '<=', date('Y-m-d'))->get();

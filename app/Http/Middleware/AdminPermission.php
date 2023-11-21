@@ -17,7 +17,7 @@ class AdminPermission
      */
     public function handle(Request $request, Closure $next)
     {
-        if(Auth::user()->permission !== 100){
+        if(intval(Auth::user()->permission) !== 100){
             return redirect(route('gamepanel.home'));
         }
         return $next($request);
