@@ -46,17 +46,10 @@ class LauncherNewsApiController extends Controller
             }
         }
 
-        $subNotices = null;
+        $subNotices = News::where('language', $lang)->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(3)->get();
 
-        if(!empty($notices->toArray())){
-
-            $subNotices = News::where('language', $lang)->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
-
-            if(empty($subNotices->toArray())){
-                $subNotices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(5)->get();
-            }
-        }else{
-            $subNotices = [];
+        if(empty($subNotices->toArray())){
+            $subNotices = News::where('language', 'pt-BR')->orderBy('created_at', 'desc')->where('created_at', '<', $lastDate)->take(3)->get();
         }
 
 
