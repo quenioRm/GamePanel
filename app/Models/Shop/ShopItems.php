@@ -17,7 +17,7 @@ class ShopItems extends Model
         'subcategoryId', 'itemId', 'name', 'description', 'price', 'available', 'percentOff'
     ];
 
-    public function shopSubCategory(){
-        return $this->belongsTo('App\Models\Shop\ShopCategory', 'subcategoryId');
-    }
+    // public function shopSubCategory(){
+    //     return $this->belongsTo('App\Models\Shop\ShopCategory', 'subcategoryId');
+    // }
 }

@@ -30,6 +30,9 @@ Route::get('/getNewsCard/{type}', [App\Http\Controllers\Web\MainController::clas
 Route::get('/GetTopNotice', [App\Http\Controllers\Web\MainController::class,
 'GetTopNotice'])->name('gettopnotice');
 
+Route::get('/shop', [App\Http\Controllers\Web\ShopController::class,
+'Shop'])->name('shop');
+
 // System Routes
 Route::group(['prefix'=>'Member'] , function(){
     Route::group(['prefix'=>'Join'] , function(){

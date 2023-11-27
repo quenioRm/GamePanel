@@ -17,11 +17,11 @@ class ShopSubCategory extends Model
         'categoryId', 'name'
     ];
 
-    public function shopCategory(){
-        return $this->belongsTo('App\Models\Shop\ShopCategory', 'categoryId');
-    }
+    // public function shopCategory(){
+    //     return $this->belongsTo('App\Models\Shop\ShopCategory', 'categoryId');
+    // }
 
-    public function shopItems(){
-        return $this->hasMany('App\Models\Shop\ShopItems', 'subcategoryId');
-    }
+    // public function shopItems(){
+    //     return $this->hasMany('App\Models\Shop\ShopItems', 'subcategoryId');
+    // }
 }

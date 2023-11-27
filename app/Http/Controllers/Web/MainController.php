@@ -122,9 +122,10 @@ class MainController extends Controller
         return view('web.' . env('SELECTED_WEB') . '.pages.includes.homenotice', ['topnotice' => $topnotice]);
     }
 
-    public function logout()
+    public function Logout()
     {
         Auth::logout();
         return redirect(route('logout'));
     }
+
 }

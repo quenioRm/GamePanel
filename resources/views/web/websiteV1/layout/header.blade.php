@@ -77,6 +77,7 @@
              {{-- <li><a href="https://shop.playkakaogames.com/main#game_6" target="_blank" class="link_gnb"><span>SHOP</span></a></li> --}}
              {{-- <li> <a href="javascript:;" onclick="click_media()" class="link_gnb">MEDIA</a> </li> --}}
              <li class="type_pc"> <a href="{{route('download')}}" class="link_gnb">DOWNLOAD</a> </li>
+             <li class="type_pc"> <a href="{{route('shop')}}" class="link_gnb">SHOP</a> </li>
              <li> <a href="{{env('DISCORD')}}" class="link_gnb">{{__('messages.support')}}</a> </li>
              {{-- <li> <a href="javascript:;" onclick="click_transfer()" class="link_gnb">DATA TRANSFER</a> </li> --}}
              {{-- <li> <a href="javascript:;" onclick="click_twitchdrops()" class="link_gnb">Twitch Drops</a> </li> --}}

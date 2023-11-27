@@ -23,6 +23,9 @@
       <link rel="stylesheet" href="{{asset('assets/web/css/page_main.css')}}"/>
       @elseif (Route::is('download'))
       <link rel="stylesheet" href="{{asset('assets/web/css/page_download.css')}}"/>
+      @elseif (Route::is('shop'))
+      <link rel="stylesheet" href="{{asset('assets/web/css/page_download.css')}}"/>
+      <link rel="stylesheet" href="{{asset('assets/web/css/page_shop.css')}}"/>
       @endif
 
       @stack('styles')

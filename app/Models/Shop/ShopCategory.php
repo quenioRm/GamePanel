@@ -14,10 +14,15 @@ class ShopCategory extends Model
     protected $primaryKey = 'id';
     protected $dates = ['created_at','updated_at'];
     protected $fillable = [
-        'name'
+        'name',
+        'isPacket'
     ];
 
     public function shopSubCategory(){
         return $this->hasMany('App\Models\Shop\ShopSubCategory', 'categoryId');
+    }
+
+    public function shopItems(){
+        return $this->hasMany('App\Models\Shop\ShopItems', 'subcategoryId');
     }
 }
