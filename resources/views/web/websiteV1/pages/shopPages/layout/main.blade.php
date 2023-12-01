@@ -15,7 +15,8 @@
 
 <div class="news-tab-btn-container" style="">
 @foreach ($categories as $category)
-    <div class="btn tab-btn {{session('selectedCategory')->id === $category->id ? 'on' : ''}}" data-type="all" data-tab="all"><a href="">{{$category->name}}</a></div>
+    <div class="btn tab-btn {{session('selectedCategory')->id === $category->id ? 'on' : ''}}" data-type="all" data-tab="all">
+        <a href="{{route('shopcategory', $category->id)}}">{{$category->name}}</a></div>
 @endforeach
 </div>
 

@@ -19,4 +19,14 @@ class ShopController extends Controller
             'items' => ShopItems::paginate(10)
         ]);
     }
+
+    public function ShopCategory($id)
+    {
+        session()->put('selectedCategory', ShopCategory::where('id', $id)->first());
+
+        return view('web.' . env('SELECTED_WEB') . '.pages.shopPages.shop', [
+            'categories' => ShopCategory::get(),
+            'items' => ShopItems::where('categoryId', $id)->paginate(10)
+        ]);
+    }
 }

@@ -33,6 +33,9 @@ Route::get('/GetTopNotice', [App\Http\Controllers\Web\MainController::class,
 Route::get('/shop', [App\Http\Controllers\Web\ShopController::class,
 'Shop'])->name('shop');
 
+Route::get('/shop/category/{id}', [App\Http\Controllers\Web\ShopController::class,
+'ShopCategory'])->name('shopcategory');
+
 // System Routes
 Route::group(['prefix'=>'Member'] , function(){
     Route::group(['prefix'=>'Join'] , function(){

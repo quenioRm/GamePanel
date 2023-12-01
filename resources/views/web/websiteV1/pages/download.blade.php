@@ -7,7 +7,7 @@
     <div class="wrapper">
         <h3>DOWNLOAD</h3>
 
-        <a href="#" download="#" class="btn primary download">
+        <a href="https://launcher.bdlegion.com.br/download/ClientLegionFull.rar" download="#" class="btn primary download">
             <div class="bk_logos">
                 <div class="logo"></div>
                 <div class="logo_bar"></div>
