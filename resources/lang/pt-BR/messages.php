@@ -191,5 +191,6 @@ return [
     'giftcodeiddontExists' => 'O código solicitado não existe!',
     'giftcodeidexpired' => 'O código solicitado expirou!',
     'familydontExists' => 'Você deve criar um personagem antes!',
-    'giftcodeidhistory' => 'O código solicitado ja se encontra resgatado!'
+    'giftcodeidhistory' => 'O código solicitado ja se encontra resgatado!',
+    'giftcodeidsuccess' => 'O código solicitado foi resgatado com sucesso!'
 ];
