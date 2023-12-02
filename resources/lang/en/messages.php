@@ -185,5 +185,11 @@ return [
      'loginsuccess' => 'Login Successful',
      'imgprofile' => 'Please choose a profile image.',
      'select' => 'Select',
-     'moreinfo' => 'More info'
+     'moreinfo' => 'More info',
+     'giftcodeid' => 'Gift Code',
+     'giftcodeiddontExists' => 'The requested code does not exist!',
+     'giftcodeidexpired' => 'The requested code has expired!',
+     'familydontExists' => 'You must create a character first!',
+     'giftcodeidhistory' => 'The requested code has already been redeemed!',
+     'giftcodeidsuccess' => 'The requested code was successfully redeemed!'
 ];

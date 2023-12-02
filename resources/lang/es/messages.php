@@ -182,5 +182,11 @@ return [
     'loginsuccess'=> 'Inicio de sesión exitoso',
     'imgprofile'=> 'Por favor elige una imagen de perfil.',
     'select'=> 'Seleccionar',
-    'moreinfo' => 'Mas informaciones'
+    'moreinfo' => 'Mas informaciones',
+    'giftcodeid' => 'Código de regalo',
+    'giftcodeiddontExists' => '¡El código solicitado no existe!',
+    'giftcodeidexpired' => '¡El código solicitado ha caducado!',
+    'familydontExists' => '¡Primero debes crear un personaje!',
+    'giftcodeidhistory' => '¡El código solicitado ya ha sido canjeado!',
+    'giftcodeiduccess' => '¡El código solicitado se canjeó exitosamente!'
 ];
