@@ -56,11 +56,12 @@ class GiftCode extends Model
         }
 
         // Check if account in same mac
-        $macAccount = TblUserInformation::where('_lastMacAddress', $account->_lastMacAddress)->get();
-        if($macAccount->count() > 0){
-            return -5;
+        $macAccounts = TblUserInformation::get();
+        foreach ($macAccounts as $macAccount) {
+            if($macAccount->_lastMacAddress == $account->_lastMacAddress)
+                return -5;
         }
-        //
+
 
         $items = GiftCodeItem::where('giftCodeId', $giftCodeId)->get();
 
