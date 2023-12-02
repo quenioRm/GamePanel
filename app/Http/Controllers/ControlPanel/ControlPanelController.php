@@ -276,6 +276,12 @@ class ControlPanelController extends Controller
                 ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
                 : redirect(route('gamepanel.controlpanel.panelgiftcode'))->withInput()->withErrors($validator->errors());
                 break;
+            case -4:
+                $validator->errors()->add('giftcodeid', Lang::get('messages.giftcodeidhistory'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.controlpanel.panelgiftcode'))->withInput()->withErrors($validator->errors());
+                break;
             case -1000:
                 $validator->errors()->add('giftcodeid', Lang::get('messages.userNotFound'));
                 return $request->wantsJson()
