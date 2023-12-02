@@ -12,7 +12,7 @@
           <!-- Loop Product -->
           @foreach ($items as $item)
           <li>
-            <div class="shop-item aos-init aos-animate" data-aos="fade-up20" data-aos-offset="20" data-aos-delay="200" data-aos-duration="400" data-aos-once="true">
+            <div class="" data-aos="fade-up20" data-aos-offset="20" data-aos-delay="200" data-aos-duration="400" data-aos-once="true">
                <div class="img">
                   <img src="{{asset('assets/web/images/shop/') . '/' . $item->image}}" alt="APEX">
                </div>

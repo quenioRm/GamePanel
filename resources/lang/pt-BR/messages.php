@@ -75,6 +75,7 @@ return [
     'controlPanelProfileSecondEmailMessage_1' => 'Favor digitar um novo endereço de e-mail.',
     'controlPanelProfileSecondEmailMessage_2' => 'Falha ao atualizar o e-mail secundário.',
     'btncontrolPanelProfileSecondEmail' => 'Autenticar E-mail',
+    'controlPanelProfileGiftCode' => 'Resgatar Código',
     'controlPanelProfile' => 'Perfil ',
     'controlPanelProfilePersonal' => 'Informações Pessoais',
     'controlPanelProfileInputLogin' => 'Favor digitar o login.',
@@ -185,5 +186,6 @@ return [
     'loginsuccess' => 'Login Realizado com Sucesso',
     'imgprofile' => 'Favor escolher uma imagem de perfil.',
     'select' => 'Selecionar',
-    'moreinfo' => 'Mais informações'
+    'moreinfo' => 'Mais informações',
+    'giftcodeid' => 'Gift Code'
 ];

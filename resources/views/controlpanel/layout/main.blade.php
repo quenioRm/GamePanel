@@ -32,6 +32,13 @@
                         {{__('messages.controlPanelProfilePersonal')}}
                     </a>
                 </li>
+                <li id="side_2" class="pi_wrap menu_display_1
+                {{Route::is('gamepanel.controlpanel.panelgiftcode') ? 'active' : ''}}">
+                    <a href="{{route('gamepanel.controlpanel.panelgiftcode')}}" class="pi_my_hover aside_node_parent" target="_self" onclick=" ">
+                        <i class="pi pi_mypage_2"></i>
+                        Gift Code
+                    </a>
+                </li>
                 @if (Auth::user()->permission == 100)
                 <li id="side_2" class="pi_wrap menu_display_1
                 {{Request::segment(2) == 'profile' ? 'active' : ''}}">

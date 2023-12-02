@@ -22,11 +22,21 @@ class ShopController extends Controller
 
     public function ShopCategory($id)
     {
-        session()->put('selectedCategory', ShopCategory::where('id', $id)->first());
+        $category = ShopCategory::where('id', $id)->first();
+        session()->put('selectedCategory', $category);
 
-        return view('web.' . env('SELECTED_WEB') . '.pages.shopPages.shop', [
-            'categories' => ShopCategory::get(),
-            'items' => ShopItems::where('categoryId', $id)->paginate(10)
-        ]);
+        if ($category){
+            if ($category->name == 'Todos'){
+                return view('web.' . env('SELECTED_WEB') . '.pages.shopPages.shop', [
+                    'categories' => ShopCategory::get(),
+                    'items' => ShopItems::paginate(10)
+                ]);
+            }else{
+                return view('web.' . env('SELECTED_WEB') . '.pages.shopPages.shop', [
+                    'categories' => ShopCategory::get(),
+                    'items' => ShopItems::where('categoryId', $id)->paginate(10)
+                ]);
+            }
+        }
     }
 }

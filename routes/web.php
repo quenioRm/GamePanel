@@ -36,6 +36,7 @@ Route::get('/shop', [App\Http\Controllers\Web\ShopController::class,
 Route::get('/shop/category/{id}', [App\Http\Controllers\Web\ShopController::class,
 'ShopCategory'])->name('shopcategory');
 
+
 // System Routes
 Route::group(['prefix'=>'Member'] , function(){
     Route::group(['prefix'=>'Join'] , function(){
@@ -84,6 +85,12 @@ Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
 
         Route::get('accountinfo', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
         'AccountInfoForm'])->name('panelaccountinfo');
+
+        Route::get('giftcode', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'GiftCodeForm'])->name('panelgiftcode');
+
+        Route::post('giftcode', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
+        'GiftCodeRecover']);
 
         // news
         Route::prefix('news')->name('news.')->group( function(){

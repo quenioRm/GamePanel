@@ -16,6 +16,7 @@ use App\Models\UserPasswordChangeLog;
 use Illuminate\Validation\Rule;
 use App\Models\UsersActivation;
 use App\Models\UserLoginAccountLog;
+use App\Models\GiftCode;
 
 class ControlPanelController extends Controller
 {
@@ -230,5 +231,25 @@ class ControlPanelController extends Controller
         return view('controlpanel.pages.includes.accountippaginate', [
             'items' => $data
         ]);
+    }
+
+    public function GiftCodeForm()
+    {
+        return view('controlpanel.pages.giftcode');
+    }
+
+    public function GiftCodeRecover(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'giftcodeid' => 'required'
+        ], [], [
+            'giftcodeid' =>  Lang::get('messages.giftcodeid'),
+        ]);
+
+        if(!$validator->passes())
+            return redirect(route('controlpanel.pages.giftcode'))->withInput()->withErrors($validator->errors());
+
+        $gift = GiftCode::RecoverGiftCode($request->giftcodeid);
+        dd($gift);
     }
 }
