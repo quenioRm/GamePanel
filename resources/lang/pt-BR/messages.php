@@ -187,5 +187,9 @@ return [
     'imgprofile' => 'Favor escolher uma imagem de perfil.',
     'select' => 'Selecionar',
     'moreinfo' => 'Mais informações',
-    'giftcodeid' => 'Gift Code'
+    'giftcodeid' => 'Gift Code',
+    'giftcodeiddontExists' => 'O código solicitado não existe!',
+    'giftcodeidexpired' => 'O código solicitado expirou!',
+    'familydontExists' => 'Você deve criar um personagem antes!',
+    'giftcodeidhistory' => 'O código solicitado ja se encontra resgatado!'
 ];

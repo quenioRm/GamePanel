@@ -250,6 +250,41 @@ class ControlPanelController extends Controller
             return redirect(route('controlpanel.pages.giftcode'))->withInput()->withErrors($validator->errors());
 
         $gift = GiftCode::RecoverGiftCode($request->giftcodeid);
+
+        switch ($gift) {
+            case -1:
+                $validator->errors()->add('giftcodeid', Lang::get('messages.giftcodeiddontExists'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
+                break;
+            case -2:
+                $validator->errors()->add('giftcodeid', Lang::get('messages.giftcodeidexpired'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
+                break;
+            case -3:
+                $validator->errors()->add('giftcodeid', Lang::get('messages.familydontExists'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
+                break;
+            case -4:
+                $validator->errors()->add('giftcodeid', Lang::get('messages.giftcodeidhistory'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
+                break;
+            case -1000:
+                $validator->errors()->add('giftcodeid', Lang::get('messages.userNotFound'));
+                return $request->wantsJson()
+                ? response()->json(['resultCode' => -1002, 'resultMsg' => ['message' => '', 'errors' => $validator->errors()], 'resultData' => null,'returnUrl' => '' ], 400)
+                : redirect(route('gamepanel.login'))->withInput()->withErrors($validator->errors());
+                break;
+        }
+
+
         dd($gift);
     }
 }
