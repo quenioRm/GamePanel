@@ -55,7 +55,8 @@ class GiftCode extends Model
             return -4;
         }
 
-        //TODO -5 CHECK - DISCORD ID
+        // TODO CHECK SAME ACCOUNT
+
 
         $items = GiftCodeItem::where('giftCodeId', $giftCodeId)->get();
 
