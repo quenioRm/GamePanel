@@ -88,7 +88,7 @@ class RegisterController extends Controller
 
         $countries = Countries::where('lang', $lang)->get();
 
-        return view('auth.register', ['countries' => $countries]);
+        return view('auth.register', ['countries' => Countries::get()]);
     }
 
     public function RegisterFormSubmit(Request $request)
