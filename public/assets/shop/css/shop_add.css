@@ -1,0 +1,108 @@
+.paging .common_paging {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.paging .link_item {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 37px;
+    height: 37px;
+    box-sizing: border-box;
+    font-size: 14px;
+    color: #3d3d3d;
+    -webkit-transition: 0.25s;
+    transition: 0.25s;
+    white-space: nowrap;
+}
+.paging .link_item + .link_item {
+    margin-left: 0.2rem;
+}
+.paging .link_item.active {
+    background: #323232;
+    color: #fff;
+}
+.paging span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 37px;
+    height: 37px;
+    box-sizing: border-box;
+    padding: 0 15px 10px;
+    font-size: 14px;
+    color: #3d3d3d;
+    white-space: nowrap;
+}
+.paging .box {
+    border: 1px solid #dedede;
+}
+.paging .link_item.btn_arrow .pi {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.paging .link_item.box:first-of-type {
+    margin: 0 20px 0 -1px;
+}
+.paging .link_item.box:last-of-type {
+    margin: 0 -1px 0 20px;
+}
+.paging_area {
+    position: relative;
+}
+.paging_area .btn_wrap {
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+.paging_area .btn_wrap.left_area {
+    left: 0;
+    right: auto;
+}
+.icon_character_area {
+    display: inline-block;
+    position: relative;
+    width: 142px;
+    height: 142px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.icon_character_area.profile {
+    width: 100px;
+    height: 100px;
+}
+
+.arrow {
+    border: solid rgb(255, 255, 255);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+
+  .up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }

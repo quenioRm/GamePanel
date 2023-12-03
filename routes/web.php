@@ -30,11 +30,19 @@ Route::get('/getNewsCard/{type}', [App\Http\Controllers\Web\MainController::clas
 Route::get('/GetTopNotice', [App\Http\Controllers\Web\MainController::class,
 'GetTopNotice'])->name('gettopnotice');
 
-Route::get('/shop', [App\Http\Controllers\Web\ShopController::class,
-'Shop'])->name('shop');
+// Shop
+Route::prefix('shop')->name('shop.')->group( function(){
 
-Route::get('/shop/category/{id}', [App\Http\Controllers\Web\ShopController::class,
-'ShopCategory'])->name('shopcategory');
+    Route::get('/', [App\Http\Controllers\Web\ShopController::class,
+    'Index'])->name('shopindex');
+
+    Route::get('/category/{id}', [App\Http\Controllers\Web\ShopController::class,
+    'ShopCategory'])->name('shopcategory');
+
+    Route::get('/itemdetails/{id}', [App\Http\Controllers\Web\ShopController::class,
+    'ShopItemDetails'])->name('itemdetails');
+
+});
 
 
 // System Routes

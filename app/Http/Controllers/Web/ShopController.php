@@ -6,17 +6,18 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\Shop\ShopCategory;
 use App\Models\Shop\ShopItems;
+use App\Models\Shop\ShopItemsInfos;
 use Session;
 
 class ShopController extends Controller
 {
-    public function Shop()
+    public function Index()
     {
         session()->put('selectedCategory', ShopCategory::first());
 
-        return view('web.' . env('SELECTED_WEB') . '.pages.shopPages.shop', [
+        return view('web.shop.pages.index', [
             'categories' => ShopCategory::get(),
-            'items' => ShopItems::paginate(10)
+            'items' => ShopItems::paginate(10)->toArray()
         ]);
     }
 
@@ -27,16 +28,25 @@ class ShopController extends Controller
 
         if ($category){
             if ($category->name == 'Todos'){
-                return view('web.' . env('SELECTED_WEB') . '.pages.shopPages.shop', [
+                return view('web.shop.pages.indexItems', [
                     'categories' => ShopCategory::get(),
-                    'items' => ShopItems::paginate(10)
+                    'items' => ShopItems::paginate(10)->toArray()
                 ]);
             }else{
-                return view('web.' . env('SELECTED_WEB') . '.pages.shopPages.shop', [
+                return view('web.shop.pages.indexItems', [
                     'categories' => ShopCategory::get(),
-                    'items' => ShopItems::where('categoryId', $id)->paginate(10)
+                    'items' => ShopItems::where('categoryId', $id)->paginate(10)->toArray()
                 ]);
             }
         }
+    }
+
+    public function ShopItemDetails($id)
+    {
+        return view('web.shop.pages.itemdetails',[
+            'categories' => ShopCategory::get(),
+            'item' => ShopItems::where('id', $id)->first(),
+            'details' => ShopItemsInfos::where('shopItemId', $id)->get()
+        ]);
     }
 }
