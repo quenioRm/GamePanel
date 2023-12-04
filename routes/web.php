@@ -42,6 +42,12 @@ Route::prefix('shop')->name('shop.')->group( function(){
     Route::get('/itemdetails/{id}', [App\Http\Controllers\Web\ShopController::class,
     'ShopItemDetails'])->name('itemdetails');
 
+    Route::post('/makenewcodePagseguro', [App\Http\Controllers\PagseguroController::class,
+    'MakeNewCode'])->name('makeNewCodePagseguro');
+
+    Route::post('/makenewPaymentPagsegu', [App\Http\Controllers\PagseguroController::class,
+    'makeNewPayment'])->name('makenewpayment');
+
 });
 
 

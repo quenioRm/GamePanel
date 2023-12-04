@@ -6,7 +6,11 @@
           </a>
           <a href="#">
             <i class="sp-logo kkg-md-pn"></i>
+            @if (Auth::user())
             <span>{{Auth::user()->cash}}</span>
+            @else
+            <span>0</span>
+            @endif
           </a>
           {{-- <a href="{{env('APP_URL')}}" id="linkGameLogoAal" class="game-logo"><i class="sp-logo aal">{{env('APP_NAME')}}</i></a> --}}
        </h1>

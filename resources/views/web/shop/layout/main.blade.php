@@ -89,4 +89,17 @@
 
    </script>
    <script src="{{asset('assets/shop/js/shop.js')}}"></script>
+
+    @if('sandbox' == env('PAGSEGURO_AMBIENTE'))
+    <script type="text/javascript"
+    src="https://stc.sandbox.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.lightbox.js">
+    </script>
+    @else
+    <script type="text/javascript"
+        src="https://stc.pagseguro.uol.com.br/pagseguro/api/v2/checkout/pagseguro.lightbox.js">
+    </script>
+    @endif
+
 </html>
+
+@stack('scripts')

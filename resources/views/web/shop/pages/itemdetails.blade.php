@@ -61,7 +61,7 @@
                     <div class="item   selected" data-seq="22" data-product-name="{{$i . ' unidade'}}"
                         data-amount="{{'R$ ' . $item->price * $i . '.00'}}" data-int-amount="1000"
                         data-purchase="0 KCoin" data-discount="0.0" data-original="€10.00" data-buy-type="RefundPolicy">
-                        <a href="javascript:">
+                        <a onclick="GetTempValueOnClick({{$i}})"  href="javascript:" >
                         <span>{{$i . 'Item'}}</span>
                         <b>{{$item->price * $i}}</b>
                         </a>
@@ -77,10 +77,19 @@
                 </div>
              </div>
 
+             @if (session()->get('selectedCategory')->isPacket == 1)
              <div class="bt-wrap" data-block-country="false" data-block-mobile="false">
-                <button class="bt bt-ok" id="buyBtn" data-serial="24"><span>BUY NOW</span></button>
+                <button onclick="CheckoutPagSeguro({{$item->id}})" class="bt bt-ok"><span>COMPRAR AGORA</span></button>
                 <span id="buy-err">You have already purchased this product.</span>
              </div>
+             @else
+             <div class="bt-wrap" data-block-country="false" data-block-mobile="false">
+                <button onclick="CheckoutShop({{$item->id}})" class="bt bt-ok"><span>COMPRAR AGORA</span></button>
+                <span id="buy-err">You have already purchased this product.</span>
+             </div>
+             @endif
+
+
           </div>
        </div>
        <br>
@@ -124,5 +133,88 @@
 </section>
 @endsection
 @push('scripts')
+<script>
+let itemAmount;
+let isPacket = "{{session()->get('selectedCategory')->isPacket}}"
 
+function GetTempValueOnClick(amount){
+    itemAmount = amount
+}
+
+
+function CheckoutPagSeguro(itemId){
+
+    if(itemAmount === undefined)
+        itemAmount = 1
+
+    $.ajax({
+        url: '{{route('shop.makeNewCodePagseguro')}}',
+        type: 'POST',
+        data: {
+            id: itemId,
+            amount: itemAmount,
+            _token: '{{ csrf_token() }}'
+        },
+        success: function(response) {
+        // Handle the successful response here
+            console.log(response)
+            openPagseguro(response, itemId)
+        },
+        error: function(xhr, status, error) {
+        // Handle errors here
+            console.error('Error:', status, error);
+        }
+    });
+
+}
+
+function openPagseguro(code, id){
+      var isOpenLightbox = PagSeguroLightbox({
+          code: code
+      }, {
+          success : function(transactionCode) {
+            console.log('bateu aqui!')
+            makePayment(transactionCode, id);
+          },
+          abort : function() {
+          }
+      });
+      // Redirecionando o cliente caso o navegador não tenha suporte ao Lightbox
+      if (!isOpenLightbox){
+        @if('sandbox' == env('PAGSEGURO_AMBIENTE'))
+        location.href="https://sandbox.pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
+        @else
+        location.href="https://pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
+        @endif
+      }
+}
+
+function makePayment(code, id){
+    $.ajax({
+        url: '{{route('shop.makenewpayment')}}',
+        type: 'POST',
+        data: {
+            id : id,
+            code: code,
+            amount: itemAmount,
+            _token: '{{ csrf_token() }}'
+        },
+        success: function(response) {
+        // Handle the successful response here
+            location.reload();
+        },
+        error: function(xhr, status, error) {
+        // Handle errors here
+            console.error('Error:', status, error);
+        }
+    });
+}
+
+
+function CheckoutShop(itemId){
+    console.log('isPacket', isPacket)
+    console.log(tempValue, itemId)
+}
+
+</script>
 @endpush

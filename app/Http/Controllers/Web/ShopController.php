@@ -8,6 +8,7 @@ use App\Models\Shop\ShopCategory;
 use App\Models\Shop\ShopItems;
 use App\Models\Shop\ShopItemsInfos;
 use Session;
+use Illuminate\Support\Facades\Auth;
 
 class ShopController extends Controller
 {
@@ -15,7 +16,7 @@ class ShopController extends Controller
     {
         session()->put('selectedCategory', ShopCategory::first());
 
-        return view('web.shop.pages.index', [
+        return view('web.shop.pages.indexItems', [
             'categories' => ShopCategory::get(),
             'items' => ShopItems::paginate(10)->toArray()
         ]);

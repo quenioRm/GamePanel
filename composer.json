@@ -16,6 +16,8 @@
         "laraveles/spanish": "^1.5",
         "motze92/office365-mail": "^3.0",
         "mtownsend/response-xml": "^2.1",
+        "pagseguro/pagseguro-php-sdk": "^4.2",
+        "ramsey/uuid": "^4.7",
         "stevebauman/location": "^6.5"
     },
     "require-dev": {
