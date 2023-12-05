@@ -114,9 +114,13 @@ class LoginController extends Controller
 
         Auth::loginUsingId($user['data']->id);
 
+        // return $request->wantsJson()
+        // ? response()->json(['resultCode' => 0, 'resultMsg' => null, 'resultData' => $user['data'], 'returnUrl' => '' ], 200)
+        // : redirect()->route('gamepanel.controlpanel.panelaccountinfo');
+
         return $request->wantsJson()
         ? response()->json(['resultCode' => 0, 'resultMsg' => null, 'resultData' => $user['data'], 'returnUrl' => '' ], 200)
-        : redirect()->route('gamepanel.controlpanel.panelaccountinfo');
+        : redirect()->route('home');
     }
 
     /**

@@ -1,5 +1,9 @@
 <?php
 
+Header('Access-Control-Allow-Origin: *');
+Header('Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS');
+Header('Access-Control-Allow-Headers: Content-Type, Accept, Authorization');
+
 use Illuminate\Support\Facades\Route;
 /*
 |--------------------------------------------------------------------------
@@ -45,8 +49,13 @@ Route::prefix('shop')->name('shop.')->group( function(){
     Route::post('/makenewcodePagseguro', [App\Http\Controllers\PagseguroController::class,
     'MakeNewCode'])->name('makeNewCodePagseguro');
 
-    Route::post('/makenewPaymentPagsegu', [App\Http\Controllers\PagseguroController::class,
+    Route::post('/makenewPaymentPagseguro', [App\Http\Controllers\PagseguroController::class,
     'makeNewPayment'])->name('makenewpayment');
+
+    Route::post('/Pagseguro/Notification', [App\Http\Controllers\PagseguroController::class,
+    'makeNewState'])
+    ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
+    ->name('makenewState');
 
 });
 

@@ -14,7 +14,7 @@ class ShopItems extends Model
     protected $primaryKey = 'id';
     protected $dates = ['created_at','updated_at'];
     protected $fillable = [
-        'subcategoryId', 'itemId', 'name', 'description', 'price', 'available', 'percentOff'
+        'subcategoryId', 'itemId', 'name', 'description', 'price', 'available', 'percentOff', 'cashAmount', 'cashBonus'
     ];
 
     // public function shopSubCategory(){

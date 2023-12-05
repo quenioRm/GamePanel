@@ -12,6 +12,11 @@ use Illuminate\Support\Facades\Auth;
 
 class ShopController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware('RouteCheck');
+    }
+
     public function Index()
     {
         session()->put('selectedCategory', ShopCategory::first());

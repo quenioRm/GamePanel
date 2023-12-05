@@ -12,6 +12,8 @@ use Illuminate\Http\Request;
 use App\Models\Shop\ShopItems;
 use Illuminate\Support\Facades\Auth;
 use App\Models\Transactions;
+use Config;
+use App\Models\User;
 
 class PagseguroController extends Controller
 {
@@ -74,16 +76,58 @@ class PagseguroController extends Controller
             $transaction->shopItemId = $shopItem->id;
             $transaction->amount = $request->amount;
             $transaction->price = $request->amount * $shopItem->price;
-            $transaction->status_codigo = 1;
+            $transaction->status_code = 1;
             $transaction->status = 'Aguardando Pagamento';
 
-            if($pagamento->save()){
+            if($transaction->save()){
                return true;
             } else {
                 throw new Exception("Error ao salvar");
             }
         } catch (Exception $e) {
            logger($e->getMessage());
+        }
+    }
+
+    public function makeNewState(Request $request)
+    {
+        try {
+            if (Xhr::hasPost()) {
+                $response = PagseguroNotification::check(
+                    $this->getCredenciais()
+                );
+                self::updatePayment($response);
+            } else {
+                throw new Exception('Código invalido');
+            }
+        } catch (Exception $e) {
+            logger($e->getMessage());
+        }
+    }
+
+    public function updatePayment(PagseguroResponse $data)
+    {
+        try {
+
+            $statusCode = $data->getStatus();
+
+            $transaction = Transactions::where('code', $data->getCode())->first();
+            $transaction->status_code = $statusCode;
+            $transaction->status = Config::get('constantsPagseguro.status_pagseguro.' .  $data->getStatus());
+            if(!$transaction->save()){
+                throw new Exception('Não doi possivel atualizar o pagamento');
+            }
+
+            if($statusCode == 3){
+                $shopItem = ShopItems::where('id', $transaction->shopItemId)->first();
+                $user = User::find($transaction->accountId);
+                $user->cash += $shopItem->cashAmount + $shopItem->cashBonus;
+                $user->save();
+            }
+
+        } catch (Exception $e) {
+            logger($e->getMessage());
+            // die($e->getMessage());
         }
     }
 }

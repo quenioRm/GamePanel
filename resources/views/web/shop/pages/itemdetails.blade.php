@@ -157,7 +157,6 @@ function CheckoutPagSeguro(itemId){
         },
         success: function(response) {
         // Handle the successful response here
-            console.log(response)
             openPagseguro(response, itemId)
         },
         error: function(xhr, status, error) {
@@ -182,9 +181,9 @@ function openPagseguro(code, id){
       // Redirecionando o cliente caso o navegador não tenha suporte ao Lightbox
       if (!isOpenLightbox){
         @if('sandbox' == env('PAGSEGURO_AMBIENTE'))
-        location.href="https://sandbox.pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
+            location.href="https://sandbox.pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
         @else
-        location.href="https://pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
+            location.href="https://pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
         @endif
       }
 }

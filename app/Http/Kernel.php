@@ -66,5 +66,6 @@ class Kernel extends HttpKernel
         'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
         'AdminPermission' => \App\Http\Middleware\AdminPermission::class,
         'ApiHeaderProtect' => \App\Http\Middleware\ApiHeaderProtect::class,
+        'RouteCheck' => \App\Http\Middleware\RouteCheck::class,
     ];
 }
