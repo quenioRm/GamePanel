@@ -211,8 +211,27 @@ function makePayment(code, id){
 
 
 function CheckoutShop(itemId){
-    console.log('isPacket', isPacket)
-    console.log(tempValue, itemId)
+
+    if(itemAmount === undefined)
+        itemAmount = 1
+
+    $.ajax({
+        url: '{{route('shop.buycashshopitem')}}',
+        type: 'POST',
+        data: {
+            id : itemId,
+            amount: itemAmount,
+            _token: '{{ csrf_token() }}'
+        },
+        success: function(response) {
+        // Handle the successful response here
+            console.log(response)
+        },
+        error: function(xhr, status, error) {
+        // Handle errors here
+            console.error('Error:', status, error);
+        }
+    });
 }
 
 </script>

@@ -57,6 +57,9 @@ Route::prefix('shop')->name('shop.')->group( function(){
     ->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])
     ->name('makenewState');
 
+    Route::post('/buyCashShopItem', [App\Http\Controllers\Web\ShopController::class,
+    'buyCashShopItem'])->name('buycashshopitem');
+
 });
 
 

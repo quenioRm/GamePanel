@@ -191,5 +191,7 @@ return [
      'giftcodeidexpired' => 'The requested code has expired!',
      'familydontExists' => 'You must create a character first!',
      'giftcodeidhistory' => 'The requested code has already been redeemed!',
-     'giftcodeidsuccess' => 'The requested code was successfully redeemed!'
+     'giftcodeidsuccess' => 'The requested code was successfully redeemed!',
+     'itemNotExists' => 'The specified item does not exist!',
+     'buysuccess' => 'Purchase made successfully!'
 ];

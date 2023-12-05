@@ -188,5 +188,7 @@ return [
     'giftcodeidexpired' => '¡El código solicitado ha caducado!',
     'familydontExists' => '¡Primero debes crear un personaje!',
     'giftcodeidhistory' => '¡El código solicitado ya ha sido canjeado!',
-    'giftcodeiduccess' => '¡El código solicitado se canjeó exitosamente!'
+    'giftcodeiduccess' => '¡El código solicitado se canjeó exitosamente!',
+    'itemNotExists' => '¡El elemento especificado no existe!',
+    'buysuccess' => '¡Compra realizada con éxito!'
 ];

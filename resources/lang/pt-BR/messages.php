@@ -192,5 +192,7 @@ return [
     'giftcodeidexpired' => 'O código solicitado expirou!',
     'familydontExists' => 'Você deve criar um personagem antes!',
     'giftcodeidhistory' => 'O código solicitado ja se encontra resgatado!',
-    'giftcodeidsuccess' => 'O código solicitado foi resgatado com sucesso!'
+    'giftcodeidsuccess' => 'O código solicitado foi resgatado com sucesso!',
+    'itemNotExists' => 'O item informado não existe!',
+    'buysuccess' => 'Compra realizada com sucesso!'
 ];
