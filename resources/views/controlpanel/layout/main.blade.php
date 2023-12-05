@@ -12,7 +12,7 @@
 <div class="container mypage">
     <div id="js-leftNavAcitve" class="aside_wrap left">
         <div class="aside_top">
-            <a href="https://www.pearlabyss.com/pt-BR" class="logo_box" title="PearlAbyss"></a>
+            <a href="#" class="logo_box" title="{{env('WEB_NAME')}}"></a>
             <span class="blind">{{env('WEB_NAME')}}</span>
             <i class="pi pi_nav_close js-navClose"></i>
         </div>

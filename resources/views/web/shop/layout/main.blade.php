@@ -75,6 +75,7 @@
    <script src="{{asset('assets/shop/js/common.js?v=20230220')}}"></script>
    <script src="{{asset('assets/shop/js/scrollbar.js?v=20210917')}}"></script>
    <script src="{{asset('assets/shop/js/jquery.cookie.min.js')}}"></script>
+   <script src="{{asset('assets/js/sweetalert2.all.min.js')}}"></script>
    <script>
       $(function() {
       	window.hackleClient = Hackle.createInstance("wAD7mHDsECePGMqskvutovcwrfWpxq7b");

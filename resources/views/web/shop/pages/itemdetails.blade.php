@@ -225,11 +225,26 @@ function CheckoutShop(itemId){
         },
         success: function(response) {
         // Handle the successful response here
-            console.log(response)
+            Swal.fire({
+                position: 'center',
+                icon: 'success',
+                // background: '#fff',
+                title: response.resultMsg,
+                showConfirmButton: false,
+                timer: 6500
+            })
         },
         error: function(xhr, status, error) {
         // Handle errors here
-            console.error('Error:', status, error);
+            // alert('Error:', status, error)
+            Swal.fire({
+                position: 'center',
+                icon: 'error',
+                // background: '#fff',
+                title: error,
+                showConfirmButton: false,
+                timer: 6500
+            })
         }
     });
 }
