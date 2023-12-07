@@ -15,7 +15,7 @@ class BlackDesertGMController extends Controller
             'userNo' => 'required',
             'IP' => 'required',
         ], [], [
-            'userNo' =>  'userNo',
+            'userNo' =>  'FamilyName',
             'IP' => 'IP',
         ]);
 
@@ -24,6 +24,12 @@ class BlackDesertGMController extends Controller
         }
 
         $update = TblRoleGroupMember::UpdateGmIP($request['userNo'], $request['IP']);
+
+        if($update == -1)
+            return response()->json(['resultCode' => 1000, 'resultMsg' => 'Familia não encontrada!', 'returnUrl' => '' ], 400);
+
+        if($update == -2)
+            return response()->json(['resultCode' => 1000, 'resultMsg' => 'Familia não encontrada!', 'returnUrl' => '' ], 400);
 
         if($update ==  0)
             return response()->json(['resultCode' => 1000, 'resultMsg' => 'Atualizado com sucesso!', 'returnUrl' => '' ], 200);
