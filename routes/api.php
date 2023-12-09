@@ -123,6 +123,9 @@ Route::prefix('blackdesertAccount')->name('blackdesertAccount.')->group( functio
     Route::get('getbriefaccounts', [App\Http\Controllers\Games\BlackDesertGameController::class,
     'GetBriefAccounts'])->name('GetBriefAccounts');
 
+    Route::get('getgmaccounts', [App\Http\Controllers\Games\BlackDesertWorldController::class,
+    'GetGmAccounts'])->name('GetGmAccounts');
+
 });
 
 // BDO API
