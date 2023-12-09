@@ -67,5 +67,6 @@ class Kernel extends HttpKernel
         'AdminPermission' => \App\Http\Middleware\AdminPermission::class,
         'ApiHeaderProtect' => \App\Http\Middleware\ApiHeaderProtect::class,
         'RouteCheck' => \App\Http\Middleware\RouteCheck::class,
+        'GmRequestAuthenticate' => \App\Http\Middleware\GmRequestAuthenticate::class,
     ];
 }

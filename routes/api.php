@@ -113,8 +113,8 @@ Route::prefix('blackdesertGM')->name('blackdesertGM.')->group( function(){
     Route::post('UpdateIp', [App\Http\Controllers\Games\BlackDesertGMController::class,
     'UpdateIp'])->name('UpdateIp');
 
-    Route::post('SentItemForAccount', [App\Http\Controllers\Games\BlackDesertGMController::class,
-    'UpdateIp'])->name('UpdateIp');
+    Route::post('sentItemforaccount', [App\Http\Controllers\Games\BlackDesertGMController::class,
+    'SentItemForAccount'])->name('SentItemForAccount');
 
 });
 
