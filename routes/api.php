@@ -120,6 +120,9 @@ Route::prefix('blackdesertAccount')->name('blackdesertAccount.')->group( functio
     Route::get('FindUser/{uuid}', [App\Http\Controllers\Games\BlackDesertWorldController::class,
     'FindUser'])->name('FindUser');
 
+    Route::get('getbriefaccounts', [App\Http\Controllers\Games\BlackDesertGameController::class,
+    'GetBriefAccounts'])->name('GetBriefAccounts');
+
 });
 
 
