@@ -125,6 +125,11 @@ Route::prefix('blackdesertAccount')->name('blackdesertAccount.')->group( functio
 
 });
 
+// BDO API
+Route::post('/cash/loadcash', [App\Http\Controllers\Games\BlackDesertServer::class,
+'LoadCash'])->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class]);
 
+Route::post('/Authenticate', [App\Http\Controllers\Games\BlackDesertServer::class,
+'Authenticate'])->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class]);
 
 //
