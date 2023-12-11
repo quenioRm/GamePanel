@@ -172,7 +172,6 @@ function openPagseguro(code, id){
           code: code
       }, {
           success : function(transactionCode) {
-            console.log('bateu aqui!')
             makePayment(transactionCode, id);
           },
           abort : function() {
