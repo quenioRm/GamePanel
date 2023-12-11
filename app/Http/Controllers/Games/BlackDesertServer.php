@@ -13,18 +13,23 @@ class BlackDesertServer extends Controller
     {
         $user = User::where('uuid', 'like', '%' . $request->accountNo . '%')->first();
 
-        if($user)
+        if($user != null)
             return response()->json('0|0|' . $user->cash .  '|0', 200);
 
-        return response()->json('0|0|0|0', 200);
+        return response()->json('0|0|1000000|0', 200);
+    }
+
+    public function PayCash(Request $request)
+    {
+        return response()->json('0|0|1000000|0|0|0|0', 200);
     }
 
     public function Authenticate(Request $request)
     {
-        $user = User::where('uuid', 'like', '%' . $request->accountNo . '%')->first();
+        // $user = User::where('uuid', 'like', '%' . $request->accountNo . '%')->first();
 
-        if($user)
-            return response()->json('0|' . $user->uuid .  '|0|0|0', 200);
+        // if($user)
+        //     return response()->json('0|' . $user->uuid .  '|0|0|0', 200);
 
         return response()->json('0|0|0|0|0', 200);
     }
