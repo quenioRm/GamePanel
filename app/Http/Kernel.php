@@ -68,5 +68,6 @@ class Kernel extends HttpKernel
         'ApiHeaderProtect' => \App\Http\Middleware\ApiHeaderProtect::class,
         'RouteCheck' => \App\Http\Middleware\RouteCheck::class,
         'GmRequestAuthenticate' => \App\Http\Middleware\GmRequestAuthenticate::class,
+        'logger' => \App\Http\Middleware\LoggerMiddleware::class,
     ];
 }

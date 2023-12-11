@@ -24,6 +24,7 @@ class PagseguroController extends Controller
         $this->_configs->setAccountCredentials(env('PAGSEGURO_EMAIL'), env('PAGSEGURO_TOKEN'));
         $this->_configs->setEnvironment(env('PAGSEGURO_AMBIENTE'));
         $this->_configs->setLog(true, storage_path('logs/pagseguro_'. date('Ymd') .'.txt'));
+        $this->middleware('logger');
     }
 
     public function getCredenciais()
@@ -109,11 +110,18 @@ class PagseguroController extends Controller
     {
         try {
 
+            $transaction = Transactions::where('code', $data->getCode())->first();
+
             $statusCode = $data->getStatus();
 
-            $transaction = Transactions::where('code', $data->getCode())->first();
+            if($transaction == null){
+                echo 'Transaction not found!';
+                return;
+            }
+
             $transaction->status_code = $statusCode;
-            $transaction->status = Config::get('constantsPagseguro.status_pagseguro.' .  $data->getStatus());
+
+            $transaction->status = Config::get('constantsPagseguro.status_pagseguro.' .  $statusCode);
             if(!$transaction->save()){
                 throw new Exception('Não doi possivel atualizar o pagamento');
             }
