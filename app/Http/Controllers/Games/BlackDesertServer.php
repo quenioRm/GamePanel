@@ -46,7 +46,7 @@ class BlackDesertServer extends Controller
         if($user != null){
             $totalprice = intval($data['onePrice']) * intval($data['count']);
 
-            if($user->cash >  $totalprice){
+            if($user->cash >=  $totalprice){
                 $user->cash -= $totalprice;
                 $user->save();
 
