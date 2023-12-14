@@ -36,7 +36,7 @@ class LoggerMiddleware
                 // get all the required headers to log
                 'user-agent' => $headers['user-agent'],
                 'referer'    => isset($headers['referer']) ? $headers['referer'] : "",
-                'origin'     => $headers['origin'],
+                'origin'     => isset($headers['origin']) ? $headers['origin'] : "",
             ],
         ];
 

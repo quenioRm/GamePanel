@@ -7,13 +7,26 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\User;
 use App\Models\Game\BlackDesert\Game\TblShoLog;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Str;
 
 class BlackDesertServer extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware('logger');
+    }
+
     public function LoadCash(Request $request)
     {
-        $user = User::where('uuid', 'like', '%' . $request->accountNo . '%')->first();
+        $json = $request->getContent();
+        $json = preg_replace('/"accountNo":\s*([^\s,}]+)/', '"accountNo": "$1"', $json);
+        $data = json_decode($json, true);
 
+        if($data == null)
+            return response()->json('0|0|0|0', 200);
+
+        $user = User::where('uuid', 'like', '%' . $data['accountNo'] . '%')->first();
         if($user != null)
             return response()->json('0|0|' . $user->cash .  '|0', 200);
 
@@ -22,27 +35,32 @@ class BlackDesertServer extends Controller
 
     public function PayCash(Request $request)
     {
-        // return response()->json('0|0|0|0|0|0|0', 200);
+        $json = $request->getContent();
+        $json = preg_replace('/"accountNo":\s*([^\s,}]+)/', '"accountNo": "$1"', $json);
+        $data = json_decode($json, true);
 
-        $user = User::where('uuid', 'like', '%' . $request->accountNo . '%')->first();
+        if($data == null)
+            return response()->json('0|0|0|0|0|0', 200);
+
+        $user = User::where('uuid', 'like', '%' . $data['accountNo'] . '%')->first();
         if($user != null){
-            $totalprice = intval($request->onePrice) * intval($request->count);
+            $totalprice = intval($data['onePrice']) * intval($data['count']);
 
-            if($user->cash >  $totalprice){
+            if($user->cash >=  $totalprice){
                 $user->cash -= $totalprice;
                 $user->save();
 
                 $log = new TblShoLog();
-                $log->accountNo = $request->accountNo;
-                $log->userIp = $request->userIp;
-                $log->characterName = $request->characterName;
-                $log->worldNo = $request->worldNo;
-                $log->cashProductNo = $request->cashProductNo;
-                $log->cashProductName = $request->cashProductName;
-                $log->onePrice = $request->onePrice;
-                $log->count = $request->count;
-                $log->isGift = $request->isGift;
-                $log->toCharacterName = $request->toCharacterName;
+                $log->accountNo = $data['accountNo'];
+                $log->userIp = $data['userIp'];
+                $log->characterName = $data['characterName'];
+                $log->worldNo = $data['worldNo'];
+                $log->cashProductNo = $data['cashProductNo'];
+                $log->cashProductName = $data['cashProductName'];
+                $log->onePrice = $data['onePrice'];
+                $log->count = $data['count'];
+                $log->isGift = $data['isGift'];
+                $log->toCharacterName = $data['toCharacterName'];
                 $log->save();
 
             }else{
