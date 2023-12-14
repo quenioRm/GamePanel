@@ -79,7 +79,7 @@
 
              @if (session()->get('selectedCategory')->isPacket == 1)
              <div class="bt-wrap" data-block-country="false" data-block-mobile="false">
-                <button onclick="CheckoutPagSeguro({{$item->id}})" class="bt bt-ok"><span>COMPRAR AGORA</span></button>
+                <button onclick="BuyCash({{$item->id}})" id="{{$item->id}}" class="bt bt-ok"><span>COMPRAR AGORA</span></button>
                 <span id="buy-err">You have already purchased this product.</span>
              </div>
              @else
@@ -141,112 +141,30 @@ function GetTempValueOnClick(amount){
     itemAmount = amount
 }
 
-
-function CheckoutPagSeguro(itemId){
-
-    if(itemAmount === undefined)
-        itemAmount = 1
-
-    $.ajax({
-        url: '{{route('shop.makeNewCodePagseguro')}}',
-        type: 'POST',
-        data: {
-            id: itemId,
-            amount: itemAmount,
-            _token: '{{ csrf_token() }}'
-        },
-        success: function(response) {
-        // Handle the successful response here
-            openPagseguro(response, itemId)
-        },
-        error: function(xhr, status, error) {
-        // Handle errors here
-            console.error('Error:', status, error);
-        }
-    });
-
-}
-
-function openPagseguro(code, id){
-      var isOpenLightbox = PagSeguroLightbox({
-          code: code
-      }, {
-          success : function(transactionCode) {
-            makePayment(transactionCode, id);
-          },
-          abort : function() {
-          }
-      });
-      // Redirecionando o cliente caso o navegador não tenha suporte ao Lightbox
-      if (!isOpenLightbox){
-        @if('sandbox' == env('PAGSEGURO_AMBIENTE'))
-            location.href="https://sandbox.pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
-        @else
-            location.href="https://pagseguro.uol.com.br/v2/checkout/payment.html?code=" + code;
-        @endif
-      }
-}
-
-function makePayment(code, id){
-    $.ajax({
-        url: '{{route('shop.makenewpayment')}}',
-        type: 'POST',
-        data: {
-            id : id,
-            code: code,
-            amount: itemAmount,
-            _token: '{{ csrf_token() }}'
-        },
-        success: function(response) {
-        // Handle the successful response here
-            location.reload();
-        },
-        error: function(xhr, status, error) {
-        // Handle errors here
-            console.error('Error:', status, error);
-        }
-    });
-}
-
-
-function CheckoutShop(itemId){
+function BuyCash(itemId){
 
     if(itemAmount === undefined)
         itemAmount = 1
 
     $.ajax({
-        url: '{{route('shop.buycashshopitem')}}',
-        type: 'POST',
-        data: {
-            id : itemId,
-            amount: itemAmount,
-            _token: '{{ csrf_token() }}'
-        },
-        success: function(response) {
-        // Handle the successful response here
-            Swal.fire({
-                position: 'center',
-                icon: 'success',
-                // background: '#fff',
-                title: response.resultMsg,
-                showConfirmButton: false,
-                timer: 6500
-            })
-        },
-        error: function(xhr, status, error) {
-        // Handle errors here
-            // alert('Error:', status, error)
-            Swal.fire({
-                position: 'center',
-                icon: 'error',
-                // background: '#fff',
-                title: error,
-                showConfirmButton: false,
-                timer: 6500
-            })
+            url: '{{route('stripe.stripesession')}}',
+            type: 'POST',
+            data: {
+                id : itemId,
+                amount: itemAmount,
+                _token: '{{ csrf_token() }}'
+            },
+            success: function(response){
+                window.location.href = response;
+                // console.log(response)
+            },
+            error: function (jqXHR, exception) {
+
         }
     });
 }
 
 </script>
+
+
 @endpush

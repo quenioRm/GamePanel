@@ -62,6 +62,22 @@ Route::prefix('shop')->name('shop.')->group( function(){
 
 });
 
+Route::prefix('stripe')->name('stripe.')->group( function(){
+    Route::post('/session', [App\Http\Controllers\StripePaymentController::class,
+    'session'])->name('stripesession');
+
+    Route::get('/checkout', [App\Http\Controllers\StripePaymentController::class,
+    'checkout'])->name('checkout');
+
+    Route::get('/success', [App\Http\Controllers\StripePaymentController::class,
+    'success'])->name('success');
+
+    Route::post('/paymentstatus', [App\Http\Controllers\StripePaymentController::class,
+    'paymentStatus'])->withoutMiddleware([\App\Http\Middleware\VerifyCsrfToken::class])->name('paymentStatus');
+});
+
+
+////////////////
 
 // System Routes
 Route::group(['prefix'=>'Member'] , function(){
