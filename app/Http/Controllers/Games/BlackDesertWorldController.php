@@ -7,6 +7,9 @@ use Illuminate\Http\Request;
 use App\Models\Game\BlackDesert\World\TblUserInformation;
 use App\Models\Game\BlackDesert\World\TblRoleGroupMember;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Lang;
+use DB;
+use Session;
 
 class BlackDesertWorldController extends Controller
 {
@@ -40,12 +43,19 @@ class BlackDesertWorldController extends Controller
         $tblUser = TblUserInformation::where('_userid', $uuid)->first();
         if($tblUser){
 
-            $tblUser->_password = null;
-            $tblUser->_failPasswordCount = 0;
-            $tblUser->save();
+            $uuidparam = "'" . $uuid . "'";
+            $parameterValue = 0;
+
+            // Run the stored procedure
+            $result = DB::statement("EXEC SA_BETA_WORLDDB_0002.PaOperationPublic.uspPasswordReset ?, ?", [$uuidparam, $parameterValue]);
+
+            Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetSubPwdMsgSuccess')]);
 
             return redirect(route('gamepanel.controlpanel.panelaccountinfo'));
         }
+
+        Session::flash('message', ['type' => 'error', 'text' => Lang::get('messages.resetSubPwdMsgFailed')]);
+
         return redirect(route('gamepanel.controlpanel.panelaccountinfo'));
     }
 }

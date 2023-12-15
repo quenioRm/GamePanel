@@ -194,5 +194,7 @@ return [
      'giftcodeidsuccess' => 'The requested code was successfully redeemed!',
      'itemNotExists' => 'The specified item does not exist!',
      'buysuccess' => 'Purchase made successfully!',
-     'resetSubPwd' => 'Restablecer subcontraseña'
+     'resetSubPwd' => 'Restablecer subcontraseña',
+     'resetSubPwdMsgSuccess' => 'Success in resetting the sub-password!',
+     'resetSubPwdMsgFailed' => 'Failed to reset sub-password!'
 ];

@@ -191,5 +191,7 @@ return [
     'giftcodeiduccess' => '¡El código solicitado se canjeó exitosamente!',
     'itemNotExists' => '¡El elemento especificado no existe!',
     'buysuccess' => '¡Compra realizada con éxito!',
-    'resetSubPwd' => 'Reset sub-pass'
+    'resetSubPwd' => 'Reset sub-pass',
+    'resetSubPwdMsgSuccess' => '¡Éxito al restablecer la subcontraseña!',
+    'resetSubPwdMsgFailed' => '¡Error al restablecer la subcontraseña!'
 ];

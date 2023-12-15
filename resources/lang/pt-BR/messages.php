@@ -195,5 +195,7 @@ return [
     'giftcodeidsuccess' => 'O código solicitado foi resgatado com sucesso!',
     'itemNotExists' => 'O item informado não existe!',
     'buysuccess' => 'Compra realizada com sucesso!',
-    'resetSubPwd' => 'Resetar sub-senha'
+    'resetSubPwd' => 'Resetar sub-senha',
+    'resetSubPwdMsgSuccess' => 'Sucesso ao resetar a sub-senha!',
+    'resetSubPwdMsgFailed' => 'Falha ao resetar a sub-senha!'
 ];
