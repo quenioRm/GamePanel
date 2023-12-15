@@ -74,6 +74,11 @@
                             <a href="{{route('gamepanel.controlpanel.accountprofilechangepassword')}}" class="btn_normal">
                                 {{__('messages.controlPanelProfileChangePasswordTitle')}}</a>
                         </div>
+                        <div class="desh_content account_wrap">
+                            <a href="{{route('gamepanel.controlpanel.resetsubpassword')}}" class="btn_normal">
+                                {{__('messages.resetSubPwd')}}
+                            </a>
+                        </div>
                     </div>
                     @if (isset($ip))
                     <div class="desh_box logged">

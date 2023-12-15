@@ -193,5 +193,6 @@ return [
      'giftcodeidhistory' => 'The requested code has already been redeemed!',
      'giftcodeidsuccess' => 'The requested code was successfully redeemed!',
      'itemNotExists' => 'The specified item does not exist!',
-     'buysuccess' => 'Purchase made successfully!'
+     'buysuccess' => 'Purchase made successfully!',
+     'resetSubPwd' => 'Restablecer subcontraseña'
 ];

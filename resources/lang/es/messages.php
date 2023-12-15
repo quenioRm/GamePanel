@@ -190,5 +190,6 @@ return [
     'giftcodeidhistory' => '¡El código solicitado ya ha sido canjeado!',
     'giftcodeiduccess' => '¡El código solicitado se canjeó exitosamente!',
     'itemNotExists' => '¡El elemento especificado no existe!',
-    'buysuccess' => '¡Compra realizada con éxito!'
+    'buysuccess' => '¡Compra realizada con éxito!',
+    'resetSubPwd' => 'Reset sub-pass'
 ];

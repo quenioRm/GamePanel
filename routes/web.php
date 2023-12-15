@@ -214,6 +214,10 @@ Route::prefix('gamepanel')->name('gamepanel.')->group( function(){
             Route::get('accountlogip', [App\Http\Controllers\ControlPanel\ControlPanelController::class,
             'accountlogipForm'])->name('accountlogip');
 
+            //
+            Route::get('resetsubpassword', [App\Http\Controllers\Games\BlackDesertWorldController::class,
+            'ResetSubPassword'])->name('resetsubpassword');
+
             // Ticket
             Route::prefix('controlpanel')->name('tickets.')->group( function(){
 

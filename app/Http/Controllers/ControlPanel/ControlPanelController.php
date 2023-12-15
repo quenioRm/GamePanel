@@ -296,4 +296,5 @@ class ControlPanelController extends Controller
         ? response()->json(['resultCode' => 0, 'resultMsg' => null, 'resultData' => $user['data'], 'returnUrl' => '' ], 200)
         : redirect()->route('gamepanel.controlpanel.panelgiftcode');
     }
+
 }
