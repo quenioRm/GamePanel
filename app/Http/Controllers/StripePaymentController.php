@@ -16,7 +16,7 @@ class StripePaymentController extends Controller
 {
     public function __construct()
     {
-        $this->middleware('auth');
+        $this->middleware('auth')->except('paymentStatus');
     }
 
     public function session(Request $request)
@@ -57,16 +57,14 @@ class StripePaymentController extends Controller
 
     public function paymentStatus(Request $request)
     {
-        echo 'the cash has already been deposited before. ';
-
         $responseBodyAsString = $request->toArray();
 
         if($responseBodyAsString['data']['object']['object'] == 'charge'){
-            $payment = Transactions::where('payment_intent', $responseBodyAsString['data']['object']['payment_intent'])->first();
+            $payment = Transactions::where('code', $responseBodyAsString['data']['object']['payment_intent'])->first();
             if($payment){
                 if($responseBodyAsString['data']['object']['status'] == 'succeeded'
-                && $responseBodyAsString['data']['object']['refunded'] == false && $payment->status == 0){
-                    $payment->status = 1;
+                && $responseBodyAsString['data']['object']['refunded'] == false && $payment->status_code == 0){
+                    $payment->status_code = 1;
                     $payment->updated_at = now();
                     $payment->save();
                     echo 'cash in progress... ';
@@ -77,23 +75,30 @@ class StripePaymentController extends Controller
         if($responseBodyAsString['data']['object']['object'] == 'checkout.session'
         && $responseBodyAsString['data']['object']['status'] == 'complete'
         && $responseBodyAsString['data']['object']['payment_status'] == 'paid'){
-            $payment = Transactions::where('transaction_id', $responseBodyAsString['data']['object']['id'])->first();
+            $payment = Transactions::where('code', $responseBodyAsString['data']['object']['id'])->first();
             if($payment){
-                if($payment->status == 2){
+                if($payment->status_code == 2){
                     echo 'the cash has already been deposited before. ' . $payment->updated_at;
                 }else{
-                    $payment->status = 2;
-                    $payment->payment_intent = $responseBodyAsString['data']['object']['payment_intent'];
-                    $payment->save();
-
                     //TODO DEPOSIT CASH
 
-                    $package = ShopItems::find($payment->package_id);
+                    $package = ShopItems::find($payment->shopItemId);
+
                     if($package){
 
-                    }
+                        $user = User::find($payment->accountId);
+                        if($user){
+                            $payment->status_code = 2;
+                            $payment->payment_intent = $responseBodyAsString['data']['object']['payment_intent'];
+                            $payment->save();
 
-                    // echo 'cash in account : ' . $payment->username . ' - total amount : ' . $package->cashAmount;
+
+                            $cash = $payment->amount * ($package->cashAmount + $package->cashBonus);
+                            $user->cash += $cash;
+                            $user->save();
+                            echo 'cash in account : ' . $user->email . ' - total amount : ' . $cash;
+                        }
+                    }
                 }
             }
         }
