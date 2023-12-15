@@ -43,11 +43,7 @@ class BlackDesertWorldController extends Controller
         $tblUser = TblUserInformation::where('_userid', $uuid)->first();
         if($tblUser){
 
-            $uuidparam = "'" . $uuid . "'";
-            $parameterValue = 0;
-
-            // Run the stored procedure
-            $result = DB::statement("EXEC SA_BETA_WORLDDB_0002.PaOperationPublic.uspPasswordReset ?, ?", [$uuidparam, $parameterValue]);
+            DB::update("EXEC SA_BETA_WORLDDB_0002.PaOperationPublic.uspPasswordReset '".$uuid."', 0");
 
             Session::flash('message', ['type' => 'success', 'text' => Lang::get('messages.resetSubPwdMsgSuccess')]);
 
