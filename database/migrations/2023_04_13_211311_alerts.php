@@ -15,6 +15,7 @@ return new class extends Migration
     {
         Schema::create('alerts', function (Blueprint $table) {
             $table->id();
+            $table->string('title');
             $table->string('type');
             $table->datetime('date');
             $table->datetime('showAfterDate');
