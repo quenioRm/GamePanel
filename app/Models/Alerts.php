@@ -14,6 +14,7 @@ class Alerts extends Model
     protected $primaryKey = 'id';
     protected $dates = ['date', 'showAfterDate', 'created_at','updated_at'];
     protected $fillable = [
+        'title',
         'type',
         'date',
         'showAfterDate',

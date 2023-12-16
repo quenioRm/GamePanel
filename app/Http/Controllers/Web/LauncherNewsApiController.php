@@ -75,8 +75,9 @@ class LauncherNewsApiController extends Controller
 
         foreach($alerts as $key => $alert){
             $arrAlert = [
+                'title' => $alert->title,
                 'type' => $alert->type,
-                'date' => $alert->date,
+                'date' => $alert->date->format('d-m-Y'),
                 'showAfterDate' => $alert->showAfterDate,
                 'showAfterDateBool' => ($alert->showAfterDateBool == 0) ? false : true,
                 'message' => $alert->message,
