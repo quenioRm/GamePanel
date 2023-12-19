@@ -21,7 +21,8 @@ class GiftCode extends Model
     protected $fillable = [
         'giftCodeId',
         'description',
-        'expires_at'
+        'expires_at',
+        'accountLimit'
     ];
 
     public static function RecoverGiftCode($giftCodeId)
@@ -53,6 +54,12 @@ class GiftCode extends Model
         // Gitft Recovered
         if($history){
             return -4;
+        }
+
+        if($giftCode->accountLimit > 0){
+            $historyCount = GiftCodeHistory::where('giftCodeId', $giftCodeId)->count();
+            if($historyCount >= $giftCode->accountLimit)
+                return -5;
         }
 
         // TODO CHECK SAME ACCOUNT
